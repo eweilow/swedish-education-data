@@ -1,0 +1,1 @@
+# swedish-education-data
