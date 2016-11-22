@@ -5,9 +5,7 @@ node_js:
 before_script:
 - npm install
 - mkdir src
-- cd src
-- "curl http://opendata.skolverket.se/data/syllabus.tgz"
-- "curl http://opendata.skolverket.se/data/compulsory.tgz"
-- cd ..
+- "curl http://opendata.skolverket.se/data/syllabus.tgz -o src/syllabus.tgz"
+- "curl http://opendata.skolverket.se/data/compulsory.tgz -o src/compulsory.tgz"
 script:
 - npm test
