@@ -1,0 +1,22 @@
+{
+  "name": "swedish-education-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": "https://github.com/eweilow/swedish-education-data",
+  "author": "eweilow",
+  "license": "GPLv3",
+  "private": true,
+  "dependencies": {
+    "assert": "^1.4.1",
+    "chai": "^3.5.0",
+    "glob": "^7.1.1",
+    "mz": "^2.6.0",
+    "tar.gz": "^1.0.5",
+    "tmp-promise": "^1.0.2",
+    "xml2js": "^0.4.17"
+  }
+}

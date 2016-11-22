@@ -1,0 +1,13 @@
+language: node_js
+dist: trusty
+node_js:
+- stable
+before_script:
+- npm install
+- mkdir src
+- cd src
+- "curl http://opendata.skolverket.se/data/syllabus.tgz"
+- "curl http://opendata.skolverket.se/data/compulsory.tgz"
+- cd ..
+script:
+- npm test
