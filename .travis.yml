@@ -7,7 +7,7 @@ before_script:
 - curl http://opendata.skolverket.se/data/syllabus.tgz -o src/syllabus.tgz
 - curl http://opendata.skolverket.se/data/compulsory.tgz -o src/compulsory.tgz
 script:
-- npm output
+- node output.js
 - cd build
 - zip data.zip
 notifications:
