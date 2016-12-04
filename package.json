@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js",
+    "build": "node build.js"
   },
   "repository": "https://github.com/eweilow/swedish-education-data",
   "author": "eweilow",
