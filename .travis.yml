@@ -17,9 +17,6 @@ notifications:
 before_deploy:
   - git config --global user.email "builds@travis-ci.com"
   - git config --global user.name "Travis CI"
-  - export GIT_TAG=$TRAVIS_BRANCH-0.1.$TRAVIS_BUILD_NUMBER
-  - git tag $GIT_TAG -a -m "Generated tag from TravisCI for build $TRAVIS_BUILD_NUMBER"
-  - git push -q https://$TAGPERM@github.com/eweilow/swedish-education-data --tags
 deploy:
   api_key:
     secure: v3ZOaZhGABwNNisTmMcngUXul8InrvHKAj0LqWjnK78iQmNdmRDlzppyv4WVMtT503Q0UHtdTQZWZxmFhTvNUHi0p502ZGFBem3f7v7umpfxD4jE7zNRApmO5jPxKgRXHgSvg0HjYdA8sEPJpRk1i8NK666TYPbf7XQv/nlfwerLLaYqWiLdKYFIRtqNDta/px6q62HKE6mgeQ9bO50WnTlMzZ1G9YzPo0yo7ADglg+MtYfoP8H1nwjejIFTmvQ2wFHYlqr0BDvC1ZN6TTtvOomoy/n4oLpH6ndJiYe0c9jzA7eec+2qrvutykZ0rbaScXC7cPnOA5Bkzbxd40fBq3iwD93eAw3LVrV2XbsUWYkd5luNj5V7gsjOH0JeoC1sovXMeRsn3zx2SmAZINr+wYFJhCrxq0UPdF8HGeKJOgjgqhx3dFDLz/ELds7mfE6X2OBRpIJEbw1V/ptHhnh8xFxDg7+5BcZDBnqcVJZdH9VN0Z/Bmr/kEPumul7a+vrXApCHZxI6UmRWkNHMXIGcnJ5PAam1hXj9p2rapicJhIzBQ4V/vxxayxIrfOxToaKV/W2+Qd7kAYQOjBlF2A+lp31vMT7dp2ZN6gRZQ1vY1e0qg1B7JFsGXC0SZZJTotAP1F9id7vcD/HMIfqIMbsxJPBJ0vdU1roRSJk1eAvcZ0A=
