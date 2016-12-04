@@ -15,20 +15,36 @@ index.UpperSecondary.parseTGZ("./src/syllabus.tgz")
     const mkdirp = require("mkdirp");
     const rimraf = require("rimraf");
 
-    rimraf.sync("./build/");      
-    mkdirp.sync("./build/subjects");
-    mkdirp.sync("./build/courses");
-    mkdirp.sync("./build/programs");
+    const buildPath = "./build/";
+    rimraf.sync(buildPath);      
+    mkdirp.sync(path.join(buildPath, "/subjects"));
+    mkdirp.sync(path.join(buildPath, "/courses"));
+    mkdirp.sync(path.join(buildPath, "/programs"));
     let writes = [];
-    for(let [code, subject] of upperSecondaryData.subjects) {
-      writes.push(fs.writeFile(path.join("./build/subjects", `${code}.json`), JSON.stringify(subject, null, "  ")));
-    }
+
+    let indices = {
+      courses: [],
+      subjects: [],
+      programs: []
+    };
     for(let [code, course] of upperSecondaryData.courses) {
-      writes.push(fs.writeFile(path.join("./build/courses", `${code}.json`), JSON.stringify(course, null, "  ")));
+      let filepath = path.join(buildPath, "/courses", `${code}.json`);
+      indices.courses.push(filepath);
+      writes.push(fs.writeFile(filepath, JSON.stringify(course, null, "  ")));
+    }
+    for(let [code, subject] of upperSecondaryData.subjects) {
+      let filepath = path.join(buildPath, "/subjects", `${code}.json`);
+      indices.subjects.push(filepath);
+      writes.push(fs.writeFile(filepath, JSON.stringify(subject, null, "  ")));
     }
     for(let [code, program] of upperSecondaryData.programs) {
-      writes.push(fs.writeFile(path.join("./build/programs", `${code}.json`), JSON.stringify(program, null, "  ")));
+      let filepath = path.join(buildPath, "/programs", `${code}.json`);
+      indices.programs.push(filepath);
+      writes.push(fs.writeFile(filepath, JSON.stringify(program, null, "  ")));
     }
+    writes.push(fs.writeFile(path.join(buildPath, "indices.json"), JSON.stringify(indices, null, "  ")));
+
+    return Promise.all(writes);
   }).catch(err => {
     assert.fail(err.message, "", err.stack);
   })
