@@ -1,6 +1,6 @@
 const index = require("./index.js");
 const assert = require("chai").assert;
-index.UpperSecondary.parseTGZ("./src/syllabus.tgz")
+index.UpperSecondary.parseTGZ("./src/syllabus.tgz", "./manual")
   .then(upperSecondaryData => {
     assert.isDefined(upperSecondaryData);
     assert.isDefined(upperSecondaryData.courses);
