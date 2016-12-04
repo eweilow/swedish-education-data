@@ -8,7 +8,7 @@ before_script:
 script:
 - node output.js
 - cd build
-- zip -r data.zip ./
+- zip -rq data.zip ./
 notifications:
   slack:
     secure: faJoVFwo3HQN06bf82+0BWkYaxgY9U5vdpRhP0t4Vfc/KWj8KMw4+yU2qAe84jKQE32k29QQGaA5Sv4L0i357PnCJytzRfBwYtTQY17+NumnepWA9/jhSORRWz2XdrUWdC6TQbMGgjPOn+7ovU8yOACFi9i6ajIHHFt8tGZ0fJeDZOaVeOyQFZuUxN8+mvrcw15iT4WOcluYjdvVr3L5WQWqPEH02lYBviacw8XJw7SacEu9aTqp6ZpFEuf79ky8OS6Ku4fmQT3zJtpfUqPHgvQmaU6UspbZ1018RL3EAtH76qX9z3pR7y5+/Q+3xxVaJCDjloJDJBSoT8ZKiTewTVJ+fK7M+TFAvZTSh7t57uHwP22+B7QnXU3XKgmkJGKZtniNJ+jq+LkqoYvpb14CdFhFH+ml4kAHPLM5ZfY/T2EG+Msdd6F7rfBWt3TQSvJBnTIx881psXoUnt9X3buEEvimprAzdnhnl4ymVddFDGUMZ/YdQXwyWf9kcsUek4vkpRBlu/OdwO7RWnwEqdDjdgxszeO1TPEGVfj/BzhDZ8St6Qd2pX27OLFdj0zeWRaC6Dat4I7iUcahHe27GbW5F/PCBqYrQapkF5YPeNlPfnCucJOx86nL/G48G0sXQm23Qd+PW7815Hih2so4spPC4nl4I5vBf7ysIrBZarYnfuQ=
