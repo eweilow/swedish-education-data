@@ -38,7 +38,7 @@ index.UpperSecondary.parseTGZ("./src/syllabus.tgz", "./manual")
       writes.push(fs.writeFile(filepath, JSON.stringify(subject, null, "  ")));
     }
     for(let [code, program] of upperSecondaryData.programs) {
-      let filepath = path.join(buildpath, "/programs", `${code}.json`);
+      let filepath = path.join(buildpath, "/programs", `${program.navigationalCode}.json`);
       indices.programs.push(path.relative(buildpath, filepath));
       writes.push(fs.writeFile(filepath, JSON.stringify(program, null, "  ")));
     }
