@@ -1,10 +1,6 @@
 language: node_js
 node_js:
 - stable
-before_script:
-- mkdir src
-- curl http://opendata.skolverket.se/data/syllabus.tgz -o src/syllabus.tgz
-- curl http://opendata.skolverket.se/data/compulsory.tgz -o src/compulsory.tgz
 script:
 - node output.js
 - zip -rq build/data.zip ./build
