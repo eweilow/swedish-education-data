@@ -2,8 +2,8 @@
   "name": "swedish-education-data",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
+    "build": "node output.js",
     "test": "node test.js"
   },
   "repository": "https://github.com/eweilow/swedish-education-data",
@@ -12,14 +12,18 @@
   "private": true,
   "dependencies": {
     "assert": "^1.4.1",
-    "chai": "^3.5.0",
+    "chai": "^4.2.0",
     "cheerio": "^0.22.0",
     "glob": "^7.1.1",
     "jaro-winkler": "^0.2.8",
     "mz": "^2.6.0",
     "node-fetch": "^2.1.2",
+    "prettier": "^1.18.2",
     "tar.gz": "^1.0.5",
     "tmp-promise": "^1.0.2",
     "xml2js": "^0.4.17"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
   }
 }
