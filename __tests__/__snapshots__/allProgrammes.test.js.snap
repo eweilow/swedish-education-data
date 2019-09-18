@@ -1,0 +1,126 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`programme data all programmes are correct 1`] = `
+Array [
+  Object {
+    "code": "BF",
+    "file": "./out/BF.json",
+    "title": "Barn- och fritidsprogrammet",
+  },
+  Object {
+    "code": "BA",
+    "file": "./out/BA.json",
+    "title": "Bygg- och anläggningsprogrammet",
+  },
+  Object {
+    "code": "EK",
+    "file": "./out/EK.json",
+    "title": "Ekonomiprogrammet",
+  },
+  Object {
+    "code": "EE",
+    "file": "./out/EE.json",
+    "title": "El- och energiprogrammet",
+  },
+  Object {
+    "code": "ES",
+    "file": "./out/ES.json",
+    "title": "Estetiska programmet",
+  },
+  Object {
+    "code": "FX",
+    "file": "./out/FX.json",
+    "title": "Flygteknikutbildningen",
+  },
+  Object {
+    "code": "FT",
+    "file": "./out/FT.json",
+    "title": "Fordons- och transportprogrammet",
+  },
+  Object {
+    "code": "HA",
+    "file": "./out/HA.json",
+    "title": "Handels- och administrationsprogrammet",
+  },
+  Object {
+    "code": "HV",
+    "file": "./out/HV.json",
+    "title": "Hantverksprogrammet",
+  },
+  Object {
+    "code": "HT",
+    "file": "./out/HT.json",
+    "title": "Hotell- och turismprogrammet",
+  },
+  Object {
+    "code": "HU",
+    "file": "./out/HU.json",
+    "title": "Humanistiska programmet",
+  },
+  Object {
+    "code": "IN",
+    "file": "./out/IN.json",
+    "title": "Industritekniska programmet",
+  },
+  Object {
+    "code": "MX",
+    "file": "./out/MX.json",
+    "title": "Marinteknikutbildningen",
+  },
+  Object {
+    "code": "NB",
+    "file": "./out/NB.json",
+    "title": "Naturbruksprogrammet",
+  },
+  Object {
+    "code": "NA",
+    "file": "./out/NA.json",
+    "title": "Naturvetenskapsprogrammet",
+  },
+  Object {
+    "code": "RL",
+    "file": "./out/RL.json",
+    "title": "Restaurang- och livsmedelsprogrammet",
+  },
+  Object {
+    "code": "SA",
+    "file": "./out/SA.json",
+    "title": "Samhällsvetenskapsprogrammet",
+  },
+  Object {
+    "code": "SX",
+    "file": "./out/SX.json",
+    "title": "Sjöfartsutbildningen",
+  },
+  Object {
+    "code": "TX",
+    "file": "./out/TX.json",
+    "title": "Tågteknikutbildningen",
+  },
+  Object {
+    "code": "TE",
+    "file": "./out/TE.json",
+    "title": "Teknikprogrammet",
+  },
+  Object {
+    "code": "UX",
+    "file": "./out/UX.json",
+    "title": "Utbildningen samiska näringar",
+  },
+  Object {
+    "code": "VO",
+    "file": "./out/VO.json",
+    "title": "Vård- och omsorgsprogrammet",
+  },
+  Object {
+    "code": "VF",
+    "file": "./out/VF.json",
+    "title": "VVS- och fastighetsprogrammet",
+  },
+  Object {
+    "code": "YX",
+    "file": "./out/YX.json",
+    "title": "Yrkesdansarutbildningen",
+  },
+]
+`;
