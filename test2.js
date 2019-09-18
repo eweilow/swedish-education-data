@@ -1,6 +1,7 @@
 const xml2js = require("xml2js");
 const assert = require("chai").assert;
 const glob = require("glob");
+const $ = require("cheerio");
 
 function parseXML(str) {
   return new Promise((resolve, reject) => {
@@ -26,13 +27,19 @@ function normalizeHTML(html) {
 }
 
 function readSubjects(inSubjects) {
+  if (!inSubjects) {
+    return { courses: [], subjects: [] };
+  }
   const courses = [];
   const subjects = [];
 
   for (const subject of inSubjects) {
+    if (typeof subject !== "object") {
+      continue;
+    }
     const name = subject.name[0];
     const code = subject.code[0];
-    const point = parseInt(subject.point[0], 10);
+    const point = subject.point != null ? parseInt(subject.point[0], 10) : 0;
     const subjectCourses = [];
 
     let coursePoints = 0;
@@ -71,6 +78,8 @@ async function parseProgram(name) {
   const rawData = await parseXML(str);
   const data = rawData.program;
 
+  const urls = require("./manual/program/urls.json");
+
   // console.log();
   // console.log();
   // console.log();
@@ -98,28 +107,103 @@ async function parseProgram(name) {
   assert.isEmpty(rest_commonProgram);
   assert.isEmpty(rest_specialization);
 
+  if (
+    data.individualChoice.length > 1 ||
+    typeof data.individualChoice[0] !== "string"
+  ) {
+    console.warn(
+      `warning: Program ${data.code[0]} has non-empty <individualChoice/>`
+    );
+  }
+  if (
+    data.projectAssignment.length > 1 ||
+    typeof data.projectAssignment[0] !== "string"
+  ) {
+    console.warn(
+      `warning: Program ${data.code[0]} has non-empty <projectAssignment/>`
+    );
+  }
+
   const program = {
-    title: data.name[0],
-    code: data.code[0],
-    typeOfSchooling: data.typeOfSchooling[0],
-    typeOfProgram: data.typeOfProgram[0],
+    /*data: {
+      ...data,
+      commonMandatory: null,
+      commonProgram: null,
+      specialization: null
+    },
+    */
+    title: data.name[0].trim(),
+    code: data.code[0].trim(),
+    url: urls[data.code[0]] || null,
+    typeOfSchooling: data.typeOfSchooling[0].trim(),
+    typeOfProgram: data.typeOfProgram[0].trim(),
     applicableFrom: new Date(data.applianceDate[0]).toISOString(),
     info: {
       degreeObjective: {
         html: normalizeHTML(degreeObjective.content.join("\n"))
       },
       orientation: {
-        title: orientation.title[0],
+        title: orientation.title[0].trim(),
         html: normalizeHTML(orientation.content.join("\n"))
       },
       educationObjective: {
-        title: educationObjective.title[0],
+        title: educationObjective.title[0].trim(),
         html: normalizeHTML(educationObjective.content.join("\n"))
       }
     },
     education: {
       mandatory: readSubjects(commonMandatory.subject),
-      program: readSubjects(commonProgram.subject)
+      program: readSubjects(commonProgram.subject),
+      specialization: readSubjects(specialization.subject),
+      orientations:
+        typeof data.programOrientations[0] === "object"
+          ? data.programOrientations[0].programOrientation.map(el => ({
+              name: el.name[0].trim(),
+              code: el.code[0].trim(),
+              points: parseInt((el.points || el.point)[0], 10),
+              ...readSubjects(el.subject)
+            }))
+          : [],
+      profiles:
+        typeof data.profiles[0] === "object"
+          ? data.profiles[0].profile.map(el => ({
+              name: el.name[0].trim(),
+              code: el.code[0].trim(),
+              points: parseInt((el.points || el.point)[0], 10),
+              ...readSubjects(el.subject)
+            }))
+          : [],
+      professionalDegrees:
+        typeof data.professionalDegrees[0] === "object"
+          ? data.professionalDegrees[0].professionalDegree.map(el => {
+              if (
+                el.profSpecialization.length > 1 ||
+                typeof el.profSpecialization[0] !== "string"
+              ) {
+                console.warn(
+                  `warning: Orientation ${
+                    el.programOrientationCode[0]
+                  } in program ${
+                    data.code[0]
+                  } has non-empty <profSpecialization/>`
+                );
+              }
+
+              if (el.subject == null) {
+                console.warn(
+                  `warning: Orientation ${
+                    el.programOrientationCode[0]
+                  } in program ${data.code[0]} has empty <subject/>`
+                );
+              }
+
+              return {
+                name: el.name[0].trim(),
+                code: el.programOrientationCode[0].trim(),
+                ...readSubjects(el.subject)
+              };
+            })
+          : []
     }
   };
 
@@ -154,9 +238,13 @@ async function parseProgram(name) {
   setValueIfExists(
     manualReplacements["program.info.orientation.html"],
     value => {
-      console.info("assert text content is equal of HTML,");
-      // assert that text content is equal?
-      return true;
+      const left = $.load(program.info.orientation.html)
+        .text()
+        .replace(/(\s|\n)+/g, " ");
+      const right = $.load(value.join("\n"))
+        .text()
+        .replace(/(\s|\n)+/g, " ");
+      return left === right;
     },
     value => {
       program.info.orientation.html = normalizeHTML(value.join("\n"));
@@ -217,8 +305,6 @@ async function parseProgram(name) {
     );
   }
 
-  console.log(program.code, restStrings, usableStrings);
-
   program.info.orientation.html = normalizeHTML(
     restStrings.map(el => `<p>${el}</p>`).join("\n")
   );
@@ -229,7 +315,7 @@ async function parseProgram(name) {
     "Mål för gymnasiearbetet"
   );
 
-  return { program, data };
+  return program;
 }
 
 function readGlobFiles(...array) {
@@ -262,16 +348,18 @@ async function run() {
     const data = await parseProgram(glob);
 
     fs.writeFileSync(
-      "./out/" + data.program.code + ".json",
+      "./out/" + data.code + ".json",
       JSON.stringify(data, null, "  ")
     );
 
     programmes.push({
-      code: data.program.code,
-      title: data.program.title,
-      file: "./out/" + data.program.code + ".json"
+      code: data.code,
+      title: data.title,
+      file: "./out/" + data.code + ".json"
     });
   }
+
+  programmes.sort((a, b) => a.title.localeCompare(b.title));
   fs.writeFileSync(
     "./out/programmes.json",
     JSON.stringify(programmes, null, "  ")
