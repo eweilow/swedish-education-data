@@ -1,0 +1,1 @@
+require("@education-data/parser");

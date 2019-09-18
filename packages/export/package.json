@@ -1,0 +1,20 @@
+{
+  "name": "@education-data/swedish-gymnasium",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "node index.js",
+    "test": "jest"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "repository": "https://github.com/eweilow/swedish-education-data",
+  "author": "eweilow",
+  "license": "GPL-3.0",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "@education-data/parser": "^1.0.0"
+  }
+}

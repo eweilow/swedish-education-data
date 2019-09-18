@@ -1,7 +1,5 @@
-/node_modules
-/src
-/tmp
-/build
+**/node_modules
 \.vscode/settings\.json
 
-/out
+packages/export/out
+packages/export/src

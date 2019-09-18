@@ -160,6 +160,266 @@ Object {
         ],
       },
     ],
+    "professionalDegrees": Array [
+      Object {
+        "code": "BFFRI",
+        "courses": Array [
+          "FRIBAD0",
+          "FRIDRF0",
+          "ENTENR0",
+        ],
+        "name": "Bad/sporthallspersonal",
+        "subjects": Array [
+          Object {
+            "code": "FRI",
+            "courses": Array [
+              "FRIBAD0",
+              "FRIDRF0",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "ENT",
+            "courses": Array [
+              "ENTENR0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "BFPED",
+        "courses": Array [
+          "PEGSKP0",
+          "SPCSPE01",
+          "PEDPED0",
+          "ENTENR0",
+        ],
+        "name": "Barnskötare",
+        "subjects": Array [
+          Object {
+            "code": "PEG",
+            "courses": Array [
+              "PEGSKP0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SPC",
+            "courses": Array [
+              "SPCSPE01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "PED",
+            "courses": Array [
+              "PEDPED0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "ENT",
+            "courses": Array [
+              "ENTENR0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "BFPED",
+        "courses": Array [
+          "PEGSKP0",
+          "SPCSPE01",
+          "PEDPED0",
+          "ENTENR0",
+        ],
+        "name": "Elevassistent",
+        "subjects": Array [
+          Object {
+            "code": "PEG",
+            "courses": Array [
+              "PEGSKP0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SPC",
+            "courses": Array [
+              "SPCSPE01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "PED",
+            "courses": Array [
+              "PEDPED0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "ENT",
+            "courses": Array [
+              "ENTENR0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "BFFRI",
+        "courses": Array [
+          "FRIFRS0",
+          "FRIDRF0",
+          "ENTENR0",
+        ],
+        "name": "Personal inom idrotts- och fritidsanläggningar",
+        "subjects": Array [
+          Object {
+            "code": "FRI",
+            "courses": Array [
+              "FRIFRS0",
+              "FRIDRF0",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "ENT",
+            "courses": Array [
+              "ENTENR0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "BFSOC",
+        "courses": Array [
+          "SPCSPE02",
+          "SPCSPE01",
+          "GRUGRD0",
+          "ENTENR0",
+        ],
+        "name": "Personlig assistent",
+        "subjects": Array [
+          Object {
+            "code": "SPC",
+            "courses": Array [
+              "SPCSPE02",
+              "SPCSPE01",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "GRU",
+            "courses": Array [
+              "GRUGRD0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "ENT",
+            "courses": Array [
+              "ENTENR0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "BFFRI",
+        "courses": Array [
+          "TRNTRN02",
+          "TRNTRN01",
+          "PEDAKI00S",
+          "ENTENR0",
+        ],
+        "name": "Personlig tränare",
+        "subjects": Array [
+          Object {
+            "code": "TRN",
+            "courses": Array [
+              "TRNTRN02",
+              "TRNTRN01",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "PED",
+            "courses": Array [
+              "PEDAKI00S",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "ENT",
+            "courses": Array [
+              "ENTENR0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "BFSOC",
+        "courses": Array [
+          "SPCSPE02",
+          "SPCSPE01",
+          "GRUGRD0",
+          "ENTENR0",
+        ],
+        "name": "Stöd och service inom funktionshinderområdet",
+        "subjects": Array [
+          Object {
+            "code": "SPC",
+            "courses": Array [
+              "SPCSPE02",
+              "SPCSPE01",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "GRU",
+            "courses": Array [
+              "GRUGRD0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "ENT",
+            "courses": Array [
+              "ENTENR0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "BFSOC",
+        "courses": Array [
+          "BEVBEV0",
+          "ENTENR0",
+        ],
+        "name": "Väktare",
+        "subjects": Array [
+          Object {
+            "code": "BEV",
+            "courses": Array [
+              "BEVBEV0",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "ENT",
+            "courses": Array [
+              "ENTENR0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+    ],
     "profiles": Array [],
     "program": Object {
       "courses": Array [
@@ -731,9 +991,7 @@ Object {
           "ANAANA04",
           "ANAANA03",
         ],
-        "name": "Anläggningsfordon
-
-",
+        "name": "Anläggningsfordon",
         "points": 900,
         "subjects": Array [
           Object {
@@ -757,7 +1015,7 @@ Object {
           "HUSHUS03",
           "HUSHUB0",
         ],
-        "name": "Husbyggnad ",
+        "name": "Husbyggnad",
         "points": 700,
         "subjects": Array [
           Object {
@@ -779,7 +1037,7 @@ Object {
           "ANLANL02",
           "ANLANL01",
         ],
-        "name": "Mark och anläggning ",
+        "name": "Mark och anläggning",
         "points": 500,
         "subjects": Array [
           Object {
@@ -799,7 +1057,7 @@ Object {
           "MARMAL01",
           "MARMAL0",
         ],
-        "name": "Måleri ",
+        "name": "Måleri",
         "points": 400,
         "subjects": Array [
           Object {
@@ -836,6 +1094,436 @@ Object {
               "VELVEN01",
             ],
             "minPoints": 100,
+          },
+        ],
+      },
+    ],
+    "professionalDegrees": Array [
+      Object {
+        "code": "BAANL",
+        "courses": Array [
+          "ANLANÄ0",
+          "ANLANN0",
+        ],
+        "name": "Anläggningsmaskinförare",
+        "subjects": Array [
+          Object {
+            "code": "ANL",
+            "courses": Array [
+              "ANLANÄ0",
+              "ANLANN0",
+            ],
+            "minPoints": 300,
+          },
+        ],
+      },
+      Object {
+        "code": "BAMAR",
+        "courses": Array [
+          "ANLANG0",
+          "MOBHJU0",
+          "BELBEL0",
+          "BELBEÄ0",
+          "BELBEG0",
+        ],
+        "name": "Beläggningsarbetare",
+        "subjects": Array [
+          Object {
+            "code": "ANL",
+            "courses": Array [
+              "ANLANG0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "MOB",
+            "courses": Array [
+              "MOBHJU0",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "BEL",
+            "courses": Array [
+              "BELBEL0",
+              "BELBEÄ0",
+              "BELBEG0",
+            ],
+            "minPoints": 400,
+          },
+        ],
+      },
+      Object {
+        "code": "BAMAR",
+        "courses": Array [
+          "BERBER0",
+          "BERBEP0",
+          "BERBEB0",
+          "BERBEM0",
+        ],
+        "name": "Bergarbetare",
+        "subjects": Array [
+          Object {
+            "code": "BER",
+            "courses": Array [
+              "BERBER0",
+              "BERBEP0",
+              "BERBEB0",
+              "BERBEM0",
+            ],
+            "minPoints": 700,
+          },
+        ],
+      },
+      Object {
+        "code": "BAHUS",
+        "courses": Array [
+          "BETBET02",
+          "BETBET03",
+          "BETBET01",
+        ],
+        "name": "Betongarbetare",
+        "subjects": Array [
+          Object {
+            "code": "BET",
+            "courses": Array [
+              "BETBET02",
+              "BETBET03",
+              "BETBET01",
+            ],
+            "minPoints": 300,
+          },
+        ],
+      },
+      Object {
+        "code": "BAMAL",
+        "courses": Array [
+          "MARMAL02",
+          "MARMAL04",
+          "MARMAL03",
+        ],
+        "name": "Byggnadsmålare",
+        "subjects": Array [
+          Object {
+            "code": "MAR",
+            "courses": Array [
+              "MARMAL02",
+              "MARMAL04",
+              "MARMAL03",
+            ],
+            "minPoints": 600,
+          },
+        ],
+      },
+      Object {
+        "code": "BAPLA",
+        "courses": Array [
+          "PLTBYG02",
+          "PLTBYG03",
+          "PLTBYG01",
+        ],
+        "name": "Byggnadsplåtslagare",
+        "subjects": Array [
+          Object {
+            "code": "PLT",
+            "courses": Array [
+              "PLTBYG02",
+              "PLTBYG03",
+              "PLTBYG01",
+            ],
+            "minPoints": 600,
+          },
+        ],
+      },
+      Object {
+        "code": "BAHUS",
+        "courses": Array [
+          "HUBSPC02S",
+          "HUBSPC03S",
+          "HUBSPC01S",
+        ],
+        "name": "Glastekniker",
+        "subjects": Array [
+          Object {
+            "code": "HUB",
+            "courses": Array [
+              "HUBSPC02S",
+              "HUBSPC03S",
+              "HUBSPC01S",
+            ],
+            "minPoints": 500,
+          },
+        ],
+      },
+      Object {
+        "code": "BAHUS",
+        "courses": Array [
+          "GOLGOL03",
+          "GOLGOL01",
+          "GOLGOL02",
+        ],
+        "name": "Golvläggare",
+        "subjects": Array [
+          Object {
+            "code": "GOL",
+            "courses": Array [
+              "GOLGOL03",
+              "GOLGOL01",
+              "GOLGOL02",
+            ],
+            "minPoints": 400,
+          },
+        ],
+      },
+      Object {
+        "code": "BAHUS",
+        "courses": Array [
+          "HUBSPC02S",
+          "HUBSPC01S",
+        ],
+        "name": "Håltagare",
+        "subjects": Array [
+          Object {
+            "code": "HUB",
+            "courses": Array [
+              "HUBSPC02S",
+              "HUBSPC01S",
+            ],
+            "minPoints": 300,
+          },
+        ],
+      },
+      Object {
+        "code": "BAMAR",
+        "courses": Array [
+          "MOBHJU0",
+          "JÄRJÄR02",
+          "JÄRJÄR03",
+          "JÄRJÄR01",
+        ],
+        "name": "Järnvägstekniker",
+        "subjects": Array [
+          Object {
+            "code": "MOB",
+            "courses": Array [
+              "MOBHJU0",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "JÄR",
+            "courses": Array [
+              "JÄRJÄR02",
+              "JÄRJÄR03",
+              "JÄRJÄR01",
+            ],
+            "minPoints": 500,
+          },
+        ],
+      },
+      Object {
+        "code": "BAHUS",
+        "courses": Array [
+          "MURMUR03",
+          "MURMUR01",
+          "MURMUR02",
+        ],
+        "name": "Murare",
+        "subjects": Array [
+          Object {
+            "code": "MUR",
+            "courses": Array [
+              "MURMUR03",
+              "MURMUR01",
+              "MURMUR02",
+            ],
+            "minPoints": 300,
+          },
+        ],
+      },
+      Object {
+        "code": "BAHUS",
+        "courses": Array [
+          "HUBSPC02S",
+          "HUBSPC01S",
+        ],
+        "name": "Plattsättare",
+        "subjects": Array [
+          Object {
+            "code": "HUB",
+            "courses": Array [
+              "HUBSPC02S",
+              "HUBSPC01S",
+            ],
+            "minPoints": 300,
+          },
+        ],
+      },
+      Object {
+        "code": "BAHUS",
+        "courses": Array [
+          "HUBSPC02S",
+          "HUBSPC01S",
+        ],
+        "name": "Stenmontör",
+        "subjects": Array [
+          Object {
+            "code": "HUB",
+            "courses": Array [
+              "HUBSPC02S",
+              "HUBSPC01S",
+            ],
+            "minPoints": 300,
+          },
+        ],
+      },
+      Object {
+        "code": "BAHUS",
+        "courses": Array [
+          "HUBSPC02S",
+          "HUBSPC01S",
+        ],
+        "name": "Ställningsbyggare",
+        "subjects": Array [
+          Object {
+            "code": "HUB",
+            "courses": Array [
+              "HUBSPC02S",
+              "HUBSPC01S",
+            ],
+            "minPoints": 300,
+          },
+        ],
+      },
+      Object {
+        "code": "BAHUS",
+        "courses": Array [
+          "HUBSPC01S",
+          "HUBSPC02S",
+        ],
+        "name": "Takmontör",
+        "subjects": Array [
+          Object {
+            "code": "HUB",
+            "courses": Array [
+              "HUBSPC01S",
+              "HUBSPC02S",
+            ],
+            "minPoints": 300,
+          },
+        ],
+      },
+      Object {
+        "code": "BAHUS",
+        "courses": Array [
+          "TRÄTRK02",
+          "TRÄTRK03",
+          "TRÄTRK01",
+        ],
+        "name": "Träarbetare",
+        "subjects": Array [
+          Object {
+            "code": "TRÄ",
+            "courses": Array [
+              "TRÄTRK02",
+              "TRÄTRK03",
+              "TRÄTRK01",
+            ],
+            "minPoints": 300,
+          },
+        ],
+      },
+      Object {
+        "code": "BAHUS",
+        "courses": Array [
+          "HUBSPC01S",
+          "HUBSPC02S",
+        ],
+        "name": "Undertaksmontör",
+        "subjects": Array [
+          Object {
+            "code": "HUB",
+            "courses": Array [
+              "HUBSPC01S",
+              "HUBSPC02S",
+            ],
+            "minPoints": 300,
+          },
+        ],
+      },
+      Object {
+        "code": "BAPLA",
+        "courses": Array [
+          "VELVET02",
+          "VEIVET0",
+          "VEIVEN01",
+          "VEIVEN02",
+        ],
+        "name": "Ventilationsplåtslagare",
+        "subjects": Array [
+          Object {
+            "code": "VEL",
+            "courses": Array [
+              "VELVET02",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "VEI",
+            "courses": Array [
+              "VEIVET0",
+              "VEIVEN01",
+              "VEIVEN02",
+            ],
+            "minPoints": 400,
+          },
+        ],
+      },
+      Object {
+        "code": "BAMAR",
+        "courses": Array [
+          "ANLANÄ0",
+          "ANLANL0",
+          "ANLANG0",
+        ],
+        "name": "Väg- och anläggningsarbetare (mot gaturum och parker)",
+        "subjects": Array [
+          Object {
+            "code": "ANL",
+            "courses": Array [
+              "ANLANÄ0",
+              "ANLANL0",
+              "ANLANG0",
+            ],
+            "minPoints": 500,
+          },
+        ],
+      },
+      Object {
+        "code": "BAMAR",
+        "courses": Array [
+          "ANLANN0",
+          "ANLANÄ0",
+          "MOBGRV0",
+          "MOBHJU0",
+        ],
+        "name": "Väg- och anläggningsarbetare (mot väg och infrastruktur)",
+        "subjects": Array [
+          Object {
+            "code": "ANL",
+            "courses": Array [
+              "ANLANN0",
+              "ANLANÄ0",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "MOB",
+            "courses": Array [
+              "MOBGRV0",
+              "MOBHJU0",
+            ],
+            "minPoints": 400,
           },
         ],
       },
@@ -1491,6 +2179,7 @@ Object {
         ],
       },
     ],
+    "professionalDegrees": Array [],
     "profiles": Array [],
     "program": Object {
       "courses": Array [
@@ -2016,8 +2705,7 @@ Object {
           "INSELI0",
           "ELRELF0",
         ],
-        "name": "Elteknik
-",
+        "name": "Elteknik",
         "points": 500,
         "subjects": Array [
           Object {
@@ -2076,6 +2764,510 @@ Object {
               "ENEFÖR0",
             ],
             "minPoints": 200,
+          },
+        ],
+      },
+    ],
+    "professionalDegrees": Array [
+      Object {
+        "code": "EEAUT",
+        "courses": Array [
+          "PROPRE0",
+          "PROPRC01",
+          "DAOINU0",
+          "ELRELF0",
+          "FAIFAS02",
+          "FAIFAS01",
+        ],
+        "name": "Automationstekniker - fastighet",
+        "subjects": Array [
+          Object {
+            "code": "PRO",
+            "courses": Array [
+              "PROPRE0",
+              "PROPRC01",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "DAO",
+            "courses": Array [
+              "DAOINU0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "ELR",
+            "courses": Array [
+              "ELRELF0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "FAI",
+            "courses": Array [
+              "FAIFAS02",
+              "FAIFAS01",
+            ],
+            "minPoints": 200,
+          },
+        ],
+      },
+      Object {
+        "code": "EEAUT",
+        "courses": Array [
+          "ELIELD0",
+          "INRIND0",
+          "MEKMEK02",
+          "DAOINU0",
+          "ELRELF0",
+          "DRIUNL0",
+        ],
+        "name": "Automationstekniker - industri",
+        "subjects": Array [
+          Object {
+            "code": "ELI",
+            "courses": Array [
+              "ELIELD0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "INR",
+            "courses": Array [
+              "INRIND0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "MEK",
+            "courses": Array [
+              "MEKMEK02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "DAO",
+            "courses": Array [
+              "DAOINU0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "ELR",
+            "courses": Array [
+              "ELRELF0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "DRI",
+            "courses": Array [
+              "DRIUNL0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "EEAUT",
+        "courses": Array [
+          "DAOINU0",
+          "PROPRC02",
+          "PROPRE0",
+          "PROPRC01",
+          "PROPRO0",
+          "ELRELF0",
+        ],
+        "name": "Automationstekniker - process",
+        "subjects": Array [
+          Object {
+            "code": "DAO",
+            "courses": Array [
+              "DAOINU0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "PRO",
+            "courses": Array [
+              "PROPRC02",
+              "PROPRE0",
+              "PROPRC01",
+              "PROPRO0",
+            ],
+            "minPoints": 400,
+          },
+          Object {
+            "code": "ELR",
+            "courses": Array [
+              "ELRELF0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "EEELT",
+        "courses": Array [
+          "ELDLÅS0",
+          "ELDHÖG0",
+          "ELDBEY0",
+          "ELDNÄT0",
+          "ELDNÄD0",
+          "ELDNÄU0",
+        ],
+        "name": "Distributionselektriker",
+        "subjects": Array [
+          Object {
+            "code": "ELD",
+            "courses": Array [
+              "ELDLÅS0",
+              "ELDHÖG0",
+              "ELDBEY0",
+              "ELDNÄT0",
+              "ELDNÄD0",
+              "ELDNÄU0",
+            ],
+            "minPoints": 600,
+          },
+        ],
+      },
+      Object {
+        "code": "EEENE",
+        "courses": Array [
+          "KRAKRA01",
+          "VATVAT0",
+          "MÄTMÄT0",
+          "ENEVAE0",
+        ],
+        "name": "Driftoperatör - allmän",
+        "subjects": Array [
+          Object {
+            "code": "KRA",
+            "courses": Array [
+              "KRAKRA01",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "VAT",
+            "courses": Array [
+              "VATVAT0",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "MÄT",
+            "courses": Array [
+              "MÄTMÄT0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "ENE",
+            "courses": Array [
+              "ENEVAE0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "EEENE",
+        "courses": Array [
+          "KRAKRA02",
+          "KRARER0",
+          "KRAKRA01",
+          "ENEVAE0",
+        ],
+        "name": "Driftoperatör - kraft- och värmeteknik",
+        "subjects": Array [
+          Object {
+            "code": "KRA",
+            "courses": Array [
+              "KRAKRA02",
+              "KRARER0",
+              "KRAKRA01",
+            ],
+            "minPoints": 500,
+          },
+          Object {
+            "code": "ENE",
+            "courses": Array [
+              "ENEVAE0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "EEENE",
+        "courses": Array [
+          "VATDRI0",
+          "VATVAR0",
+          "VATVAT0",
+          "MÄTMÄT0",
+          "ENEVAE0",
+        ],
+        "name": "Driftoperatör - vatten- och miljöteknik",
+        "subjects": Array [
+          Object {
+            "code": "VAT",
+            "courses": Array [
+              "VATDRI0",
+              "VATVAR0",
+              "VATVAT0",
+            ],
+            "minPoints": 400,
+          },
+          Object {
+            "code": "MÄT",
+            "courses": Array [
+              "MÄTMÄT0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "ENE",
+            "courses": Array [
+              "ENEVAE0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "EEDAT",
+        "courses": Array [
+          "ELEMIK0",
+          "KOTKOS01",
+          "ELKPRV0",
+          "ELKELO0",
+          "DAOMUL0",
+        ],
+        "name": "Elektronikproduktionstekniker",
+        "subjects": Array [
+          Object {
+            "code": "ELE",
+            "courses": Array [
+              "ELEMIK0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "KOT",
+            "courses": Array [
+              "KOTKOS01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "ELK",
+            "courses": Array [
+              "ELKPRV0",
+              "ELKELO0",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "DAO",
+            "courses": Array [
+              "DAOMUL0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "EEDAT",
+        "courses": Array [
+          "FÖSTEL0",
+          "MATMAT02a",
+          "DAOMUL0",
+          "DAODIG0",
+          "SUPSER0",
+          "SUPSUP0",
+        ],
+        "name": "Hemservicetekniker",
+        "subjects": Array [
+          Object {
+            "code": "FÖS",
+            "courses": Array [
+              "FÖSTEL0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "MAT",
+            "courses": Array [
+              "MATMAT02a",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "DAO",
+            "courses": Array [
+              "DAOMUL0",
+              "DAODIG0",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "SUP",
+            "courses": Array [
+              "SUPSER0",
+              "SUPSUP0",
+            ],
+            "minPoints": 200,
+          },
+        ],
+      },
+      Object {
+        "code": "EEELT",
+        "courses": Array [
+          "AUOAVH0",
+          "LARLAM0",
+          "INSELS0",
+          "INRIND0",
+          "MÄTMÄO0",
+        ],
+        "name": "Industrielektriker",
+        "subjects": Array [
+          Object {
+            "code": "AUO",
+            "courses": Array [
+              "AUOAVH0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "LAR",
+            "courses": Array [
+              "LARLAM0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "INS",
+            "courses": Array [
+              "INSELS0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "INR",
+            "courses": Array [
+              "INRIND0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "MÄT",
+            "courses": Array [
+              "MÄTMÄO0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "EEELT",
+        "courses": Array [
+          "LARLAM0",
+          "INSBES0",
+          "INSELS0",
+          "ELRDAA0",
+          "FAIFAS01",
+        ],
+        "name": "Installationselektriker",
+        "subjects": Array [
+          Object {
+            "code": "LAR",
+            "courses": Array [
+              "LARLAM0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "INS",
+            "courses": Array [
+              "INSBES0",
+              "INSELS0",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "ELR",
+            "courses": Array [
+              "ELRDAA0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "FAI",
+            "courses": Array [
+              "FAIFAS01",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "EEELT",
+        "courses": Array [
+          "JÄNELN0",
+          "JÄNALM0",
+          "JÄNSIG0",
+        ],
+        "name": "Järnvägstekniker - el och signal",
+        "subjects": Array [
+          Object {
+            "code": "JÄN",
+            "courses": Array [
+              "JÄNELN0",
+              "JÄNALM0",
+              "JÄNSIG0",
+            ],
+            "minPoints": 700,
+          },
+        ],
+      },
+      Object {
+        "code": "EEDAT",
+        "courses": Array [
+          "NAINAE0",
+          "NAIADM0",
+          "NAINAK0",
+          "NAINAV0",
+          "DAODIG0",
+          "SUPSUP0",
+        ],
+        "name": "Nätverkstekniker",
+        "subjects": Array [
+          Object {
+            "code": "NAI",
+            "courses": Array [
+              "NAINAE0",
+              "NAIADM0",
+              "NAINAK0",
+              "NAINAV0",
+            ],
+            "minPoints": 400,
+          },
+          Object {
+            "code": "DAO",
+            "courses": Array [
+              "DAODIG0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SUP",
+            "courses": Array [
+              "SUPSUP0",
+            ],
+            "minPoints": 100,
           },
         ],
       },
@@ -2997,6 +4189,7 @@ Object {
         ],
       },
     ],
+    "professionalDegrees": Array [],
     "profiles": Array [],
     "program": Object {
       "courses": Array [
@@ -3735,7 +4928,7 @@ Object {
         "courses": Array [
           "FLPFLY0",
         ],
-        "name": "Flygplan  ",
+        "name": "Flygplan",
         "points": 200,
         "subjects": Array [
           Object {
@@ -3752,7 +4945,7 @@ Object {
         "courses": Array [
           "HELHEL0",
         ],
-        "name": "Helikopter ",
+        "name": "Helikopter",
         "points": 200,
         "subjects": Array [
           Object {
@@ -3763,6 +4956,32 @@ Object {
             "minPoints": 200,
           },
         ],
+      },
+    ],
+    "professionalDegrees": Array [
+      Object {
+        "code": "FXFLY",
+        "courses": Array [],
+        "name": "Flygmekaniker, gasturbin",
+        "subjects": Array [],
+      },
+      Object {
+        "code": "FXFLY",
+        "courses": Array [],
+        "name": "Flygmekaniker, kolvmotor",
+        "subjects": Array [],
+      },
+      Object {
+        "code": "FXHEL",
+        "courses": Array [],
+        "name": "Helikoptermekaniker, gasturbin",
+        "subjects": Array [],
+      },
+      Object {
+        "code": "FXHEL",
+        "courses": Array [],
+        "name": "Helikoptermekaniker, kolvmotor",
+        "subjects": Array [],
       },
     ],
     "profiles": Array [],
@@ -4190,6 +5409,260 @@ Object {
               "TRAYRK01a",
             ],
             "minPoints": 500,
+          },
+        ],
+      },
+    ],
+    "professionalDegrees": Array [
+      Object {
+        "code": "FTKAR",
+        "courses": Array [
+          "LACLAC0",
+          "LACBAK0",
+          "LACPRD0",
+        ],
+        "name": "Billackerare",
+        "subjects": Array [
+          Object {
+            "code": "LAC",
+            "courses": Array [
+              "LACLAC0",
+              "LACBAK0",
+              "LACPRD0",
+            ],
+            "minPoints": 600,
+          },
+        ],
+      },
+      Object {
+        "code": "FTKAR",
+        "courses": Array [
+          "KARSKA0",
+          "KARKAR0",
+          "KARSKR0",
+        ],
+        "name": "Bilskadereparatör",
+        "subjects": Array [
+          Object {
+            "code": "KAR",
+            "courses": Array [
+              "KARSKA0",
+              "KARKAR0",
+              "KARSKR0",
+            ],
+            "minPoints": 600,
+          },
+        ],
+      },
+      Object {
+        "code": "FTTRA",
+        "courses": Array [
+          "TRAFOD0",
+          "PESPER01a",
+          "PESPER00S",
+          "PESPER01b",
+        ],
+        "name": "Bussförare",
+        "subjects": Array [
+          Object {
+            "code": "TRA",
+            "courses": Array [
+              "TRAFOD0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "PES",
+            "courses": Array [
+              "PESPER01a",
+              "PESPER00S",
+              "PESPER01b",
+            ],
+            "minPoints": 500,
+          },
+        ],
+      },
+      Object {
+        "code": "FTGOD",
+        "courses": Array [
+          "GODHAT0",
+          "GODLAS0",
+          "LAGLAP0",
+        ],
+        "name": "Lagerarbetare",
+        "subjects": Array [
+          Object {
+            "code": "GOD",
+            "courses": Array [
+              "GODHAT0",
+              "GODLAS0",
+            ],
+            "minPoints": 400,
+          },
+          Object {
+            "code": "LAG",
+            "courses": Array [
+              "LAGLAP0",
+            ],
+            "minPoints": 200,
+          },
+        ],
+      },
+      Object {
+        "code": "FTTRA",
+        "courses": Array [
+          "GODMAL0",
+          "GOSGOD00S",
+          "GOSGOD0",
+          "TRAFOR0",
+        ],
+        "name": "Lastbilsförare",
+        "subjects": Array [
+          Object {
+            "code": "GOD",
+            "courses": Array [
+              "GODMAL0",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "GOS",
+            "courses": Array [
+              "GOSGOD00S",
+              "GOSGOD0",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "TRA",
+            "courses": Array [
+              "TRAFOR0",
+            ],
+            "minPoints": 200,
+          },
+        ],
+      },
+      Object {
+        "code": "FTLAS",
+        "courses": Array [
+          "MASLAT0",
+          "MASSTY0",
+          "MASKOM0",
+          "MASLAI0",
+        ],
+        "name": "Lastbilsmekaniker",
+        "subjects": Array [
+          Object {
+            "code": "MAS",
+            "courses": Array [
+              "MASLAT0",
+              "MASSTY0",
+              "MASKOM0",
+              "MASLAI0",
+            ],
+            "minPoints": 600,
+          },
+        ],
+      },
+      Object {
+        "code": "FTLAS",
+        "courses": Array [
+          "MASMOB01",
+          "MASMOB0",
+          "MASSTY0",
+          "MASMOB02",
+        ],
+        "name": "Maskinmekaniker",
+        "subjects": Array [
+          Object {
+            "code": "MAS",
+            "courses": Array [
+              "MASMOB01",
+              "MASMOB0",
+              "MASSTY0",
+              "MASMOB02",
+            ],
+            "minPoints": 600,
+          },
+        ],
+      },
+      Object {
+        "code": "FTPER",
+        "courses": Array [
+          "PERMOT0",
+          "PERKOM01a",
+          "PERBRO0",
+        ],
+        "name": "Personbilsmekaniker",
+        "subjects": Array [
+          Object {
+            "code": "PER",
+            "courses": Array [
+              "PERMOT0",
+              "PERKOM01a",
+              "PERBRO0",
+            ],
+            "minPoints": 700,
+          },
+        ],
+      },
+      Object {
+        "code": "FTGOD",
+        "courses": Array [
+          "FÖSSEV0",
+          "PERPES0",
+          "LAGPLO0",
+          "MASMAI0",
+        ],
+        "name": "Reservdelspersonal",
+        "subjects": Array [
+          Object {
+            "code": "FÖS",
+            "courses": Array [
+              "FÖSSEV0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "PER",
+            "courses": Array [
+              "PERPES0",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "LAG",
+            "courses": Array [
+              "LAGPLO0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "MAS",
+            "courses": Array [
+              "MASMAI0",
+            ],
+            "minPoints": 200,
+          },
+        ],
+      },
+      Object {
+        "code": "FTGOD",
+        "courses": Array [
+          "GODLAS0",
+          "GODTUN0",
+          "GODHAT0",
+        ],
+        "name": "Terminalarbetare",
+        "subjects": Array [
+          Object {
+            "code": "GOD",
+            "courses": Array [
+              "GODLAS0",
+              "GODTUN0",
+              "GODHAT0",
+            ],
+            "minPoints": 600,
           },
         ],
       },
@@ -4760,6 +6233,450 @@ Object {
               "HANAFR0",
             ],
             "minPoints": 200,
+          },
+        ],
+      },
+    ],
+    "professionalDegrees": Array [
+      Object {
+        "code": "HAHAN",
+        "courses": Array [
+          "FÖSPER02",
+          "SVESVE02",
+          "SVASVA02",
+          "ENGENG06",
+          "HANPRA02",
+          "HANHAN00S",
+        ],
+        "name": "Butikssäljare",
+        "subjects": Array [
+          Object {
+            "code": "FÖS",
+            "courses": Array [
+              "FÖSPER02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SVE",
+            "courses": Array [
+              "SVESVE02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SVA",
+            "courses": Array [
+              "SVASVA02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "ENG",
+            "courses": Array [
+              "ENGENG06",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "HAN",
+            "courses": Array [
+              "HANPRA02",
+              "HANHAN00S",
+            ],
+            "minPoints": 200,
+          },
+        ],
+      },
+      Object {
+        "code": "HAHAN",
+        "courses": Array [
+          "FÖSPER03",
+          "FÖSPER02",
+          "FÖRFÖR01",
+          "SVESVE02",
+          "SVASVA02",
+          "ENGENG06",
+        ],
+        "name": "Företagssäljare",
+        "subjects": Array [
+          Object {
+            "code": "FÖS",
+            "courses": Array [
+              "FÖSPER03",
+              "FÖSPER02",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "FÖR",
+            "courses": Array [
+              "FÖRFÖR01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SVE",
+            "courses": Array [
+              "SVESVE02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SVA",
+            "courses": Array [
+              "SVASVA02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "ENG",
+            "courses": Array [
+              "ENGENG06",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "HAHAN",
+        "courses": Array [
+          "FÖRFÖR01",
+          "SVESVE02",
+          "SVASVA02",
+          "ENGENG06",
+          "INKINK02",
+          "INKLOG01",
+        ],
+        "name": "Inköpsassistent",
+        "subjects": Array [
+          Object {
+            "code": "FÖR",
+            "courses": Array [
+              "FÖRFÖR01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SVE",
+            "courses": Array [
+              "SVESVE02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SVA",
+            "courses": Array [
+              "SVASVA02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "ENG",
+            "courses": Array [
+              "ENGENG06",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "INK",
+            "courses": Array [
+              "INKINK02",
+              "INKLOG01",
+            ],
+            "minPoints": 200,
+          },
+        ],
+      },
+      Object {
+        "code": "HAADM",
+        "courses": Array [
+          "ADMADM02",
+          "SVESVE02",
+          "INFPRG0",
+          "AFFAFÄ00S",
+          "SVASVA02",
+          "ENGENG06",
+        ],
+        "name": "Kundtjänstbiträde",
+        "subjects": Array [
+          Object {
+            "code": "ADM",
+            "courses": Array [
+              "ADMADM02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SVE",
+            "courses": Array [
+              "SVESVE02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "INF",
+            "courses": Array [
+              "INFPRG0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "AFF",
+            "courses": Array [
+              "AFFAFÄ00S",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SVA",
+            "courses": Array [
+              "SVASVA02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "ENG",
+            "courses": Array [
+              "ENGENG06",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "HAHAN",
+        "courses": Array [
+          "GODHAT0",
+          "SVESVE02",
+          "SVASVA02",
+          "LAGPLO0",
+          "INKLOG01",
+        ],
+        "name": "Lagerarbetare",
+        "subjects": Array [
+          Object {
+            "code": "GOD",
+            "courses": Array [
+              "GODHAT0",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "SVE",
+            "courses": Array [
+              "SVESVE02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SVA",
+            "courses": Array [
+              "SVASVA02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "LAG",
+            "courses": Array [
+              "LAGPLO0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "INK",
+            "courses": Array [
+              "INKLOG01",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "HAADM",
+        "courses": Array [
+          "FÖRFÖR01",
+          "FÖRMAD0",
+          "ADMADM02",
+          "SVESVE02",
+          "AFFAFÄ00S",
+          "SVASVA02",
+          "ENGENG06",
+        ],
+        "name": "Marknadsassistent",
+        "subjects": Array [
+          Object {
+            "code": "FÖR",
+            "courses": Array [
+              "FÖRFÖR01",
+              "FÖRMAD0",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "ADM",
+            "courses": Array [
+              "ADMADM02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SVE",
+            "courses": Array [
+              "SVESVE02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "AFF",
+            "courses": Array [
+              "AFFAFÄ00S",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SVA",
+            "courses": Array [
+              "SVASVA02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "ENG",
+            "courses": Array [
+              "ENGENG06",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "HAADM",
+        "courses": Array [
+          "FÖRFÖR01",
+          "ADMADM00S",
+          "ADMADM02",
+          "ADMPER0",
+          "SVESVE02",
+          "SVASVA02",
+        ],
+        "name": "Personalassistent",
+        "subjects": Array [
+          Object {
+            "code": "FÖR",
+            "courses": Array [
+              "FÖRFÖR01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "ADM",
+            "courses": Array [
+              "ADMADM00S",
+              "ADMADM02",
+              "ADMPER0",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "SVE",
+            "courses": Array [
+              "SVESVE02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SVA",
+            "courses": Array [
+              "SVASVA02",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "HAADM",
+        "courses": Array [
+          "FÖRRED01",
+          "FÖRRED02",
+          "ADMADM00S",
+          "ADMADM02",
+          "MATMAT02a",
+        ],
+        "name": "Redovisningsassistent",
+        "subjects": Array [
+          Object {
+            "code": "FÖR",
+            "courses": Array [
+              "FÖRRED01",
+              "FÖRRED02",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "ADM",
+            "courses": Array [
+              "ADMADM00S",
+              "ADMADM02",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "MAT",
+            "courses": Array [
+              "MATMAT02a",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "HAADM",
+        "courses": Array [
+          "SVESVE02",
+          "INFPRG0",
+          "INFINF02",
+          "AFFAFÄ00S",
+          "SVASVA02",
+          "ENGENG06",
+        ],
+        "name": "Säljassistent",
+        "subjects": Array [
+          Object {
+            "code": "SVE",
+            "courses": Array [
+              "SVESVE02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "INF",
+            "courses": Array [
+              "INFPRG0",
+              "INFINF02",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "AFF",
+            "courses": Array [
+              "AFFAFÄ00S",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SVA",
+            "courses": Array [
+              "SVASVA02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "ENG",
+            "courses": Array [
+              "ENGENG06",
+            ],
+            "minPoints": 100,
           },
         ],
       },
@@ -5426,6 +7343,720 @@ Object {
               "HAVHNT02",
             ],
             "minPoints": 400,
+          },
+        ],
+      },
+    ],
+    "professionalDegrees": Array [
+      Object {
+        "code": "HVFIN",
+        "courses": Array [
+          "HAVHAV0",
+          "HAVFIN03",
+          "HAVFIN04",
+          "ELRELF0",
+        ],
+        "name": "Båtbyggare",
+        "subjects": Array [
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVHAV0",
+              "HAVFIN03",
+              "HAVFIN04",
+            ],
+            "minPoints": 600,
+          },
+          Object {
+            "code": "ELR",
+            "courses": Array [
+              "ELRELF0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "HVXXX",
+        "courses": Array [
+          "HAVHNT03",
+          "HAVHNT05",
+          "HAVHNT04",
+          "HAVHNT05S",
+          "HAVHNT04S",
+        ],
+        "name": "Bössmakare",
+        "subjects": Array [
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVHNT03",
+              "HAVHNT05",
+              "HAVHNT04",
+              "HAVHNT05S",
+              "HAVHNT04S",
+            ],
+            "minPoints": 700,
+          },
+        ],
+      },
+      Object {
+        "code": "HVFLO",
+        "courses": Array [
+          "VÄXVÄX01",
+          "HAVFLO03",
+          "HAVFLO04S",
+          "HAVFLO04",
+          "HAVFLO05S",
+          "UTSUTS01",
+        ],
+        "name": "Florist",
+        "subjects": Array [
+          Object {
+            "code": "VÄX",
+            "courses": Array [
+              "VÄXVÄX01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVFLO03",
+              "HAVFLO04S",
+              "HAVFLO04",
+              "HAVFLO05S",
+            ],
+            "minPoints": 500,
+          },
+          Object {
+            "code": "UTS",
+            "courses": Array [
+              "UTSUTS01",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "HVFRI",
+        "courses": Array [
+          "HAVFRI04",
+          "HAVFRI06a",
+          "HAVFRI05",
+          "HAVFRI03",
+        ],
+        "name": "Frisöraspirant",
+        "subjects": Array [
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVFRI04",
+              "HAVFRI06a",
+              "HAVFRI05",
+              "HAVFRI03",
+            ],
+            "minPoints": 700,
+          },
+        ],
+      },
+      Object {
+        "code": "HVXXX",
+        "courses": Array [
+          "FÖRENT0",
+          "HAVHNT05S",
+          "HAVHNT04S",
+          "HAVHNT03",
+          "HAVHNT04",
+          "FOMFOR01S",
+        ],
+        "name": "Glasblåsare",
+        "subjects": Array [
+          Object {
+            "code": "FÖR",
+            "courses": Array [
+              "FÖRENT0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVHNT05S",
+              "HAVHNT04S",
+              "HAVHNT03",
+              "HAVHNT04",
+            ],
+            "minPoints": 500,
+          },
+          Object {
+            "code": "FOM",
+            "courses": Array [
+              "FOMFOR01S",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "HVXXX",
+        "courses": Array [
+          "HAVHNT04S",
+          "HAVHNT05",
+          "HAVHNT04",
+          "HAVHNT03",
+          "CADCAD01",
+        ],
+        "name": "Guldsmed",
+        "subjects": Array [
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVHNT04S",
+              "HAVHNT05",
+              "HAVHNT04",
+              "HAVHNT03",
+            ],
+            "minPoints": 650,
+          },
+          Object {
+            "code": "CAD",
+            "courses": Array [
+              "CADCAD01",
+            ],
+            "minPoints": 50,
+          },
+        ],
+      },
+      Object {
+        "code": "HVXXX",
+        "courses": Array [
+          "FÖSPER01",
+          "MEDMED02",
+          "MEDMED01",
+          "KEMKEM01",
+          "NAKNAK01a2",
+          "MAAMAA01",
+          "MAAMAA02",
+        ],
+        "name": "Hudvård",
+        "subjects": Array [
+          Object {
+            "code": "FÖS",
+            "courses": Array [
+              "FÖSPER01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "MED",
+            "courses": Array [
+              "MEDMED02",
+              "MEDMED01",
+            ],
+            "minPoints": 250,
+          },
+          Object {
+            "code": "KEM",
+            "courses": Array [
+              "KEMKEM01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "NAK",
+            "courses": Array [
+              "NAKNAK01a2",
+            ],
+            "minPoints": 50,
+          },
+          Object {
+            "code": "MAA",
+            "courses": Array [
+              "MAAMAA01",
+              "MAAMAA02",
+            ],
+            "minPoints": 200,
+          },
+        ],
+      },
+      Object {
+        "code": "HVXXX",
+        "courses": Array [
+          "HAVHNT05S",
+          "HAVHNT04S",
+          "HAVHNT04",
+          "HAVHNT03",
+        ],
+        "name": "Hår- och makeupstylist",
+        "subjects": Array [
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVHNT05S",
+              "HAVHNT04S",
+              "HAVHNT04",
+              "HAVHNT03",
+            ],
+            "minPoints": 500,
+          },
+        ],
+      },
+      Object {
+        "code": "HVTEX",
+        "courses": Array [
+          "HAVTEX03",
+          "AFFAFÄ00S",
+          "INKINK02",
+          "INKINK01",
+        ],
+        "name": "Inköpsassistent",
+        "subjects": Array [
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVTEX03",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "AFF",
+            "courses": Array [
+              "AFFAFÄ00S",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "INK",
+            "courses": Array [
+              "INKINK02",
+              "INKINK01",
+            ],
+            "minPoints": 200,
+          },
+        ],
+      },
+      Object {
+        "code": "HVFIN",
+        "courses": Array [
+          "HAVFIN03",
+          "HAVFIN04",
+          "CADCAD02",
+          "CADCAD01",
+        ],
+        "name": "Inredningssnickare",
+        "subjects": Array [
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVFIN03",
+              "HAVFIN04",
+            ],
+            "minPoints": 400,
+          },
+          Object {
+            "code": "CAD",
+            "courses": Array [
+              "CADCAD02",
+              "CADCAD01",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "HVXXX",
+        "courses": Array [
+          "HAVHNT05S",
+          "HAVHNT03",
+          "HAVHNT04S",
+          "HAVHNT04",
+        ],
+        "name": "Juvelfattare",
+        "subjects": Array [
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVHNT05S",
+              "HAVHNT03",
+              "HAVHNT04S",
+              "HAVHNT04",
+            ],
+            "minPoints": 500,
+          },
+        ],
+      },
+      Object {
+        "code": "HVXXX",
+        "courses": Array [
+          "HAVHNT04",
+          "HAVHNT03",
+          "HAVHNT04S",
+          "HAVHNT05S",
+        ],
+        "name": "Kakelugnsmakare",
+        "subjects": Array [
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVHNT04",
+              "HAVHNT03",
+              "HAVHNT04S",
+              "HAVHNT05S",
+            ],
+            "minPoints": 500,
+          },
+        ],
+      },
+      Object {
+        "code": "HVXXX",
+        "courses": Array [
+          "HAVHNT04S",
+          "HAVHNT04",
+          "HAVHNT05S",
+          "HAVHNT03",
+        ],
+        "name": "Keramiker",
+        "subjects": Array [
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVHNT04S",
+              "HAVHNT04",
+              "HAVHNT05S",
+              "HAVHNT03",
+            ],
+            "minPoints": 500,
+          },
+        ],
+      },
+      Object {
+        "code": "HVXXX",
+        "courses": Array [
+          "LARLAM0",
+          "HAVHNT03",
+          "HAVHNT05",
+          "HAVHNT04",
+        ],
+        "name": "Låssmed",
+        "subjects": Array [
+          Object {
+            "code": "LAR",
+            "courses": Array [
+              "LARLAM0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVHNT03",
+              "HAVHNT05",
+              "HAVHNT04",
+            ],
+            "minPoints": 600,
+          },
+        ],
+      },
+      Object {
+        "code": "HVFIN",
+        "courses": Array [
+          "FÖRENT0",
+          "HAVFIN04",
+          "HAVFIN03",
+        ],
+        "name": "Möbelsnickare",
+        "subjects": Array [
+          Object {
+            "code": "FÖR",
+            "courses": Array [
+              "FÖRENT0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVFIN04",
+              "HAVFIN03",
+            ],
+            "minPoints": 400,
+          },
+        ],
+      },
+      Object {
+        "code": "HVXXX",
+        "courses": Array [
+          "HAVHNT04S",
+          "HAVHNT04",
+          "HAVHNT05S",
+          "HAVHNT03",
+        ],
+        "name": "Sadelmakare",
+        "subjects": Array [
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVHNT04S",
+              "HAVHNT04",
+              "HAVHNT05S",
+              "HAVHNT03",
+            ],
+            "minPoints": 500,
+          },
+        ],
+      },
+      Object {
+        "code": "HVXXX",
+        "courses": Array [
+          "HAVHNT05S",
+          "HAVHNT03",
+          "HAVHNT04S",
+          "HAVHNT04",
+        ],
+        "name": "Silversmed",
+        "subjects": Array [
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVHNT05S",
+              "HAVHNT03",
+              "HAVHNT04S",
+              "HAVHNT04",
+            ],
+            "minPoints": 500,
+          },
+        ],
+      },
+      Object {
+        "code": "HVXXX",
+        "courses": Array [
+          "HAVHNT03",
+          "HAVHNT05S",
+          "HAVHNT04",
+          "HAVHNT04S",
+        ],
+        "name": "Skomakare",
+        "subjects": Array [
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVHNT03",
+              "HAVHNT05S",
+              "HAVHNT04",
+              "HAVHNT04S",
+            ],
+            "minPoints": 500,
+          },
+        ],
+      },
+      Object {
+        "code": "HVXXX",
+        "courses": Array [
+          "HAVHNT04",
+          "HAVHNT05S",
+          "HAVHNT03",
+          "HAVHNT04S",
+        ],
+        "name": "Smed",
+        "subjects": Array [
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVHNT04",
+              "HAVHNT05S",
+              "HAVHNT03",
+              "HAVHNT04S",
+            ],
+            "minPoints": 500,
+          },
+        ],
+      },
+      Object {
+        "code": "HVXXX",
+        "courses": Array [
+          "HAVHNT05S",
+          "HAVHNT03",
+          "HAVHNT04S",
+          "HAVHNT04",
+        ],
+        "name": "Sotare",
+        "subjects": Array [
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVHNT05S",
+              "HAVHNT03",
+              "HAVHNT04S",
+              "HAVHNT04",
+            ],
+            "minPoints": 500,
+          },
+        ],
+      },
+      Object {
+        "code": "HVTEX",
+        "courses": Array [
+          "HAVTEX04",
+          "HAVTEX03",
+          "MNUMON01",
+        ],
+        "name": "Sömmerska",
+        "subjects": Array [
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVTEX04",
+              "HAVTEX03",
+            ],
+            "minPoints": 400,
+          },
+          Object {
+            "code": "MNU",
+            "courses": Array [
+              "MNUMON01",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "HVXXX",
+        "courses": Array [
+          "HAVHNT04S",
+          "HAVHNT03",
+          "HAVHNT04",
+          "HAVHNT05S",
+        ],
+        "name": "Tapetserare",
+        "subjects": Array [
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVHNT04S",
+              "HAVHNT03",
+              "HAVHNT04",
+              "HAVHNT05S",
+            ],
+            "minPoints": 500,
+          },
+        ],
+      },
+      Object {
+        "code": "HVTEX",
+        "courses": Array [
+          "DAIMON01",
+          "HAVTEX03",
+          "MNUMON02",
+          "MNUMON01",
+        ],
+        "name": "Textil och konfektion",
+        "subjects": Array [
+          Object {
+            "code": "DAI",
+            "courses": Array [
+              "DAIMON01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVTEX03",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "MNU",
+            "courses": Array [
+              "MNUMON02",
+              "MNUMON01",
+            ],
+            "minPoints": 200,
+          },
+        ],
+      },
+      Object {
+        "code": "HVXXX",
+        "courses": Array [
+          "HAVHNT04",
+          "HAVHNT05S",
+          "HAVHNT04S",
+          "HAVHNT03",
+        ],
+        "name": "Timmerman",
+        "subjects": Array [
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVHNT04",
+              "HAVHNT05S",
+              "HAVHNT04S",
+              "HAVHNT03",
+            ],
+            "minPoints": 500,
+          },
+        ],
+      },
+      Object {
+        "code": "HVFIN",
+        "courses": Array [
+          "FÖSPER01",
+          "HAVFIN03",
+          "UTSUTS01",
+          "HANPRA01",
+        ],
+        "name": "Trä- och byggvaruhandel",
+        "subjects": Array [
+          Object {
+            "code": "FÖS",
+            "courses": Array [
+              "FÖSPER01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVFIN03",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "UTS",
+            "courses": Array [
+              "UTSUTS01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "HAN",
+            "courses": Array [
+              "HANPRA01",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "HVXXX",
+        "courses": Array [
+          "HAVHNT05S",
+          "HAVHNT03",
+          "HAVHNT04S",
+          "HAVHNT04",
+        ],
+        "name": "Urmakare",
+        "subjects": Array [
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVHNT05S",
+              "HAVHNT03",
+              "HAVHNT04S",
+              "HAVHNT04",
+            ],
+            "minPoints": 500,
           },
         ],
       },
@@ -6118,6 +8749,206 @@ Object {
         ],
       },
     ],
+    "professionalDegrees": Array [
+      Object {
+        "code": "HTTUR",
+        "courses": Array [
+          "SERFRU0",
+          "DRYDRC0",
+          "RESMAS0",
+          "AKTAKT0",
+          "KONEVE0",
+        ],
+        "name": "Aktivitets- och eventvärd",
+        "subjects": Array [
+          Object {
+            "code": "SER",
+            "courses": Array [
+              "SERFRU0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "DRY",
+            "courses": Array [
+              "DRYDRC0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "RES",
+            "courses": Array [
+              "RESMAS0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "AKT",
+            "courses": Array [
+              "AKTAKT0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "KON",
+            "courses": Array [
+              "KONEVE0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "HTHOT",
+        "courses": Array [
+          "DRYDRC0",
+          "SERFRU0",
+          "KONKOF01",
+          "KONKON03",
+          "KONKON02",
+        ],
+        "name": "Konferensvärd",
+        "subjects": Array [
+          Object {
+            "code": "DRY",
+            "courses": Array [
+              "DRYDRC0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SER",
+            "courses": Array [
+              "SERFRU0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "KON",
+            "courses": Array [
+              "KONKOF01",
+              "KONKON03",
+              "KONKON02",
+            ],
+            "minPoints": 300,
+          },
+        ],
+      },
+      Object {
+        "code": "HTTUR",
+        "courses": Array [
+          "RESMAS0",
+          "KONRUM0",
+          "KONEVE0",
+          "AKTVAR0",
+          "AFFAFÄ00S",
+        ],
+        "name": "Mötes-, event- och gruppbokning",
+        "subjects": Array [
+          Object {
+            "code": "RES",
+            "courses": Array [
+              "RESMAS0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "KON",
+            "courses": Array [
+              "KONRUM0",
+              "KONEVE0",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "AKT",
+            "courses": Array [
+              "AKTVAR0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "AFF",
+            "courses": Array [
+              "AFFAFÄ00S",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "HTHOT",
+        "courses": Array [
+          "SERFRU0",
+          "DRYDRC0",
+          "RECREC02",
+          "RECREC03",
+          "RECREC01",
+        ],
+        "name": "Receptionist",
+        "subjects": Array [
+          Object {
+            "code": "SER",
+            "courses": Array [
+              "SERFRU0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "DRY",
+            "courses": Array [
+              "DRYDRC0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "REC",
+            "courses": Array [
+              "RECREC02",
+              "RECREC03",
+              "RECREC01",
+            ],
+            "minPoints": 300,
+          },
+        ],
+      },
+      Object {
+        "code": "HTHOT",
+        "courses": Array [
+          "VAIVAI01",
+          "VAIVAI03",
+          "VAIVAI02",
+          "SERFRU0",
+          "ADMPER0",
+        ],
+        "name": "Våningsservice",
+        "subjects": Array [
+          Object {
+            "code": "VAI",
+            "courses": Array [
+              "VAIVAI01",
+              "VAIVAI03",
+              "VAIVAI02",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "SER",
+            "courses": Array [
+              "SERFRU0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "ADM",
+            "courses": Array [
+              "ADMPER0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+    ],
     "profiles": Array [],
     "program": Object {
       "courses": Array [
@@ -6622,6 +9453,7 @@ Object {
         ],
       },
     ],
+    "professionalDegrees": Array [],
     "profiles": Array [],
     "program": Object {
       "courses": Array [
@@ -7300,6 +10132,730 @@ Object {
               "PRKPRK01",
             ],
             "minPoints": 100,
+          },
+        ],
+      },
+    ],
+    "professionalDegrees": Array [
+      Object {
+        "code": "INDRI",
+        "courses": Array [
+          "ELEELR0",
+          "AUOALL0",
+          "ELLELL02",
+          "PRRPRR01",
+          "MEKMEK01",
+          "DAOINU0",
+          "MÄTMÄO0",
+          "MÄTPRR0",
+        ],
+        "name": "Automationsmekaniker",
+        "subjects": Array [
+          Object {
+            "code": "ELE",
+            "courses": Array [
+              "ELEELR0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "AUO",
+            "courses": Array [
+              "AUOALL0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "ELL",
+            "courses": Array [
+              "ELLELL02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "PRR",
+            "courses": Array [
+              "PRRPRR01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "MEK",
+            "courses": Array [
+              "MEKMEK01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "DAO",
+            "courses": Array [
+              "DAOINU0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "MÄT",
+            "courses": Array [
+              "MÄTMÄO0",
+              "MÄTPRR0",
+            ],
+            "minPoints": 200,
+          },
+        ],
+      },
+      Object {
+        "code": "INPRK",
+        "courses": Array [
+          "MAEMAT01",
+          "INRROB0",
+          "CADCAD01",
+          "CADCAD02",
+          "MÄTMÄO0",
+          "DARDAT05",
+          "DARDAT03",
+          "DARDAT04",
+          "DARDAT02",
+          "TILTIL01",
+        ],
+        "name": "CNC-operatör metall",
+        "subjects": Array [
+          Object {
+            "code": "MAE",
+            "courses": Array [
+              "MAEMAT01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "INR",
+            "courses": Array [
+              "INRROB0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "CAD",
+            "courses": Array [
+              "CADCAD01",
+              "CADCAD02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "MÄT",
+            "courses": Array [
+              "MÄTMÄO0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "DAR",
+            "courses": Array [
+              "DARDAT05",
+              "DARDAT03",
+              "DARDAT04",
+              "DARDAT02",
+            ],
+            "minPoints": 400,
+          },
+          Object {
+            "code": "TIL",
+            "courses": Array [
+              "TILTIL01",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "INPRK",
+        "courses": Array [
+          "MAEMAT01",
+          "MAEMAT02",
+          "CADCAD02",
+          "CADCAD01",
+          "MÄTMÄO0",
+          "DARDAT03",
+          "DARDAT05",
+          "DARDAT04",
+          "DARDAT02",
+          "TILTIL01",
+        ],
+        "name": "CNC-operatör trä",
+        "subjects": Array [
+          Object {
+            "code": "MAE",
+            "courses": Array [
+              "MAEMAT01",
+              "MAEMAT02",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "CAD",
+            "courses": Array [
+              "CADCAD02",
+              "CADCAD01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "MÄT",
+            "courses": Array [
+              "MÄTMÄO0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "DAR",
+            "courses": Array [
+              "DARDAT03",
+              "DARDAT05",
+              "DARDAT04",
+              "DARDAT02",
+            ],
+            "minPoints": 400,
+          },
+          Object {
+            "code": "TIL",
+            "courses": Array [
+              "TILTIL01",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "INPRK",
+        "courses": Array [
+          "MAEMAT01",
+          "PRDPRO02",
+          "PRUPRD03S",
+          "PRUPRD04",
+          "PRUVEY0",
+          "INUINU02",
+          "MÄTMÄT0",
+          "DARCAD0",
+          "TILTIL01",
+        ],
+        "name": "Gjutare",
+        "subjects": Array [
+          Object {
+            "code": "MAE",
+            "courses": Array [
+              "MAEMAT01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "PRD",
+            "courses": Array [
+              "PRDPRO02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "PRU",
+            "courses": Array [
+              "PRUPRD03S",
+              "PRUPRD04",
+              "PRUVEY0",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "INU",
+            "courses": Array [
+              "INUINU02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "MÄT",
+            "courses": Array [
+              "MÄTMÄT0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "DAR",
+            "courses": Array [
+              "DARCAD0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "TIL",
+            "courses": Array [
+              "TILTIL01",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "INPRO",
+        "courses": Array [
+          "LACLAC0",
+          "LACINS0",
+          "LACLAE0",
+          "LACFÄR0",
+          "TILTIL01",
+        ],
+        "name": "Industrilackerare",
+        "subjects": Array [
+          Object {
+            "code": "LAC",
+            "courses": Array [
+              "LACLAC0",
+              "LACINS0",
+              "LACLAE0",
+              "LACFÄR0",
+            ],
+            "minPoints": 700,
+          },
+          Object {
+            "code": "TIL",
+            "courses": Array [
+              "TILTIL01",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "INSVE",
+        "courses": Array [
+          "MAEMAT02",
+          "MAEMAT01",
+          "FÖRENT0",
+          "SAARÖR02S",
+          "SAARÖR01S",
+          "SAASTU02S",
+          "SAASTU01S",
+          "SAAKÄL02S",
+        ],
+        "name": "Internationell svetsare",
+        "subjects": Array [
+          Object {
+            "code": "MAE",
+            "courses": Array [
+              "MAEMAT02",
+              "MAEMAT01",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "FÖR",
+            "courses": Array [
+              "FÖRENT0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SAA",
+            "courses": Array [
+              "SAARÖR02S",
+              "SAARÖR01S",
+              "SAASTU02S",
+              "SAASTU01S",
+              "SAAKÄL02S",
+            ],
+            "minPoints": 500,
+          },
+        ],
+      },
+      Object {
+        "code": "INPRO",
+        "courses": Array [
+          "MATMAT02a",
+          "KEMKEM01",
+          "INUINU03",
+          "INULAB0",
+          "ENGENG06",
+        ],
+        "name": "Laboratorietekniker inom kemisk industri",
+        "subjects": Array [
+          Object {
+            "code": "MAT",
+            "courses": Array [
+              "MATMAT02a",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "KEM",
+            "courses": Array [
+              "KEMKEM01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "INU",
+            "courses": Array [
+              "INUINU03",
+              "INULAB0",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "ENG",
+            "courses": Array [
+              "ENGENG06",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "INPRK",
+        "courses": Array [
+          "MAEMAT01",
+          "DESDES01",
+          "PRUVEY0",
+          "PRUPRD03S",
+          "SAASAA0",
+          "TILTIL01",
+          "DARCAD0",
+          "DARDAT02",
+        ],
+        "name": "Maskinsnickare",
+        "subjects": Array [
+          Object {
+            "code": "MAE",
+            "courses": Array [
+              "MAEMAT01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "DES",
+            "courses": Array [
+              "DESDES01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "PRU",
+            "courses": Array [
+              "PRUVEY0",
+              "PRUPRD03S",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "SAA",
+            "courses": Array [
+              "SAASAA0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "TIL",
+            "courses": Array [
+              "TILTIL01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "DAR",
+            "courses": Array [
+              "DARCAD0",
+              "DARDAT02",
+            ],
+            "minPoints": 200,
+          },
+        ],
+      },
+      Object {
+        "code": "INPRO",
+        "courses": Array [
+          "PRDPRO02",
+          "INRIND0",
+          "KEMKEM01",
+          "INUINU04",
+          "INUINU03",
+          "DRIUND0",
+          "DRIAVH01",
+        ],
+        "name": "Processoperatör kemi",
+        "subjects": Array [
+          Object {
+            "code": "PRD",
+            "courses": Array [
+              "PRDPRO02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "INR",
+            "courses": Array [
+              "INRIND0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "KEM",
+            "courses": Array [
+              "KEMKEM01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "INU",
+            "courses": Array [
+              "INUINU04",
+              "INUINU03",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "DRI",
+            "courses": Array [
+              "DRIUND0",
+              "DRIAVH01",
+            ],
+            "minPoints": 200,
+          },
+        ],
+      },
+      Object {
+        "code": "INDRI",
+        "courses": Array [
+          "MÄIMÄN02",
+          "MÄTMÄT0",
+          "DRIUNO0",
+          "DRIUNL0",
+        ],
+        "name": "Servicemekaniker",
+        "subjects": Array [
+          Object {
+            "code": "MÄI",
+            "courses": Array [
+              "MÄIMÄN02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "MÄT",
+            "courses": Array [
+              "MÄTMÄT0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "DRI",
+            "courses": Array [
+              "DRIUNO0",
+              "DRIUNL0",
+            ],
+            "minPoints": 200,
+          },
+        ],
+      },
+      Object {
+        "code": "INSVE",
+        "courses": Array [
+          "MAEMAT01",
+          "MAEMAT02",
+          "SAARÖR01S",
+          "SAAKÄL02S",
+          "SAASTU01S",
+          "SAASTU02S",
+          "DRIAVH01",
+          "DRIAVH02",
+        ],
+        "name": "Svetsare",
+        "subjects": Array [
+          Object {
+            "code": "MAE",
+            "courses": Array [
+              "MAEMAT01",
+              "MAEMAT02",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "SAA",
+            "courses": Array [
+              "SAARÖR01S",
+              "SAAKÄL02S",
+              "SAASTU01S",
+              "SAASTU02S",
+            ],
+            "minPoints": 400,
+          },
+          Object {
+            "code": "DRI",
+            "courses": Array [
+              "DRIAVH01",
+              "DRIAVH02",
+            ],
+            "minPoints": 200,
+          },
+        ],
+      },
+      Object {
+        "code": "INPRK",
+        "courses": Array [
+          "AUOALL0",
+          "MAEMAT01",
+          "MAEMAT02",
+          "PRUPRD03S",
+          "PRUPRD04",
+          "INRIND0",
+          "TILTIL01",
+          "DRIUND0",
+          "DRIAVH01",
+        ],
+        "name": "Sågverksoperatör",
+        "subjects": Array [
+          Object {
+            "code": "AUO",
+            "courses": Array [
+              "AUOALL0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "MAE",
+            "courses": Array [
+              "MAEMAT01",
+              "MAEMAT02",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "PRU",
+            "courses": Array [
+              "PRUPRD03S",
+              "PRUPRD04",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "INR",
+            "courses": Array [
+              "INRIND0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "TIL",
+            "courses": Array [
+              "TILTIL01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "DRI",
+            "courses": Array [
+              "DRIUND0",
+              "DRIAVH01",
+            ],
+            "minPoints": 200,
+          },
+        ],
+      },
+      Object {
+        "code": "INDRI",
+        "courses": Array [
+          "INUINU02",
+          "DRIAVH02",
+          "DRIUNH0",
+          "DRIUND0",
+          "DRIUNP0",
+          "DRIUNL0",
+        ],
+        "name": "Underhållsmekaniker",
+        "subjects": Array [
+          Object {
+            "code": "INU",
+            "courses": Array [
+              "INUINU02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "DRI",
+            "courses": Array [
+              "DRIAVH02",
+              "DRIUNH0",
+              "DRIUND0",
+              "DRIUNP0",
+              "DRIUNL0",
+            ],
+            "minPoints": 500,
+          },
+        ],
+      },
+      Object {
+        "code": "INPRK",
+        "courses": Array [
+          "DESDES01",
+          "MAEMAT01",
+          "PRUPRD03S",
+          "PRUVEY0",
+          "CADCAD02",
+          "CADCAD01",
+          "MÄTMÄO0",
+          "TILTIL01",
+          "DARDAT02",
+          "DARDAT03",
+        ],
+        "name": "Verktygsmakare",
+        "subjects": Array [
+          Object {
+            "code": "DES",
+            "courses": Array [
+              "DESDES01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "MAE",
+            "courses": Array [
+              "MAEMAT01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "PRU",
+            "courses": Array [
+              "PRUPRD03S",
+              "PRUVEY0",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "CAD",
+            "courses": Array [
+              "CADCAD02",
+              "CADCAD01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "MÄT",
+            "courses": Array [
+              "MÄTMÄO0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "TIL",
+            "courses": Array [
+              "TILTIL01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "DAR",
+            "courses": Array [
+              "DARDAT02",
+              "DARDAT03",
+            ],
+            "minPoints": 200,
           },
         ],
       },
@@ -8222,6 +11778,118 @@ Object {
         ],
       },
     ],
+    "professionalDegrees": Array [
+      Object {
+        "code": "MXSER",
+        "courses": Array [
+          "FRDKON02",
+          "FRDPLA0",
+          "HAVFIN03",
+          "HAVHAV0",
+          "HAVFIN04",
+          "MANNYI0",
+        ],
+        "name": "Båtbyggare",
+        "subjects": Array [
+          Object {
+            "code": "FRD",
+            "courses": Array [
+              "FRDKON02",
+              "FRDPLA0",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "HAV",
+            "courses": Array [
+              "HAVFIN03",
+              "HAVHAV0",
+              "HAVFIN04",
+            ],
+            "minPoints": 600,
+          },
+          Object {
+            "code": "MAN",
+            "courses": Array [
+              "MANNYI0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "MXELO",
+        "courses": Array [
+          "MAIMAR03",
+          "MAIMAR02",
+          "MAIMOT02",
+          "MANNYI0",
+          "FYSFYS01a",
+        ],
+        "name": "Marin systemtekniker",
+        "subjects": Array [
+          Object {
+            "code": "MAI",
+            "courses": Array [
+              "MAIMAR03",
+              "MAIMAR02",
+              "MAIMOT02",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "MAN",
+            "courses": Array [
+              "MANNYI0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "FYS",
+            "courses": Array [
+              "FYSFYS01a",
+            ],
+            "minPoints": 150,
+          },
+        ],
+      },
+      Object {
+        "code": "MXSER",
+        "courses": Array [
+          "FRDPLA0",
+          "FRDBAS0 ",
+          "MAIMAR02",
+          "MANNYI0",
+          "MANDIA0",
+        ],
+        "name": "Marintekniker",
+        "subjects": Array [
+          Object {
+            "code": "FRD",
+            "courses": Array [
+              "FRDPLA0",
+              "FRDBAS0 ",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "MAI",
+            "courses": Array [
+              "MAIMAR02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "MAN",
+            "courses": Array [
+              "MANNYI0",
+              "MANDIA0",
+            ],
+            "minPoints": 200,
+          },
+        ],
+      },
+    ],
     "profiles": Array [],
     "program": Object {
       "courses": Array [
@@ -8558,7 +12226,7 @@ Object {
           "DJUDJH0",
           "BIGDJE0",
         ],
-        "name": "Djur ",
+        "name": "Djur",
         "points": 300,
         "subjects": Array [
           Object {
@@ -8585,7 +12253,7 @@ Object {
           "FOHFOR0",
           "BIGMAN0",
         ],
-        "name": "Lantbruk ",
+        "name": "Lantbruk",
         "points": 300,
         "subjects": Array [
           Object {
@@ -8672,6 +12340,714 @@ Object {
             "code": "BIG",
             "courses": Array [
               "BIGMAN0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+    ],
+    "professionalDegrees": Array [
+      Object {
+        "code": "NBDJU",
+        "courses": Array [
+          "DJUSÄL01",
+          "PEDAKI00S",
+          "HUNTRN0",
+          "HUNHUN03",
+          "HUNHUN01",
+          "HUNHUN02",
+        ],
+        "name": "Arbete med hund",
+        "subjects": Array [
+          Object {
+            "code": "DJU",
+            "courses": Array [
+              "DJUSÄL01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "PED",
+            "courses": Array [
+              "PEDAKI00S",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "HUN",
+            "courses": Array [
+              "HUNTRN0",
+              "HUNHUN03",
+              "HUNHUN01",
+              "HUNHUN02",
+            ],
+            "minPoints": 400,
+          },
+        ],
+      },
+      Object {
+        "code": "NBLAN",
+        "courses": Array [
+          "LAULAT01",
+          "SEISEI01",
+          "VAOVAT01",
+          "VAOVAT00S",
+          "VAOVAT02",
+          "NARBYA0",
+        ],
+        "name": "Arbete med lantbrukets växtodling",
+        "subjects": Array [
+          Object {
+            "code": "LAU",
+            "courses": Array [
+              "LAULAT01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SEI",
+            "courses": Array [
+              "SEISEI01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "VAO",
+            "courses": Array [
+              "VAOVAT01",
+              "VAOVAT00S",
+              "VAOVAT02",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "NAR",
+            "courses": Array [
+              "NARBYA0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "NBDJU",
+        "courses": Array [
+          "VAOODL0",
+          "LANLAN01",
+          "LANLAN00S",
+          "LANLAN02",
+          "NARBYA0",
+          "BIGDJE0",
+        ],
+        "name": "Arbete med lantbruksdjur",
+        "subjects": Array [
+          Object {
+            "code": "VAO",
+            "courses": Array [
+              "VAOODL0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "LAN",
+            "courses": Array [
+              "LANLAN01",
+              "LANLAN00S",
+              "LANLAN02",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "NAR",
+            "courses": Array [
+              "NARBYA0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "BIG",
+            "courses": Array [
+              "BIGDJE0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "NBLAN",
+        "courses": Array [
+          "LAULAT01",
+          "LAULAT02",
+          "SEISER00S",
+          "SEISEI01",
+          "SEISEI02",
+          "NARBYA0",
+        ],
+        "name": "Arbete med lantbruksmaskiner",
+        "subjects": Array [
+          Object {
+            "code": "LAU",
+            "courses": Array [
+              "LAULAT01",
+              "LAULAT02",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "SEI",
+            "courses": Array [
+              "SEISER00S",
+              "SEISEI01",
+              "SEISEI02",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "NAR",
+            "courses": Array [
+              "NARBYA0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "NBSKO",
+        "courses": Array [
+          "SEISEI02",
+          "SEISEI01",
+          "SEISER00S",
+          "SKGSKO02",
+          "SKGVIR0",
+          "SKGSKO01",
+          "SKMTER0",
+        ],
+        "name": "Arbete med skogsmaskinservice",
+        "subjects": Array [
+          Object {
+            "code": "SEI",
+            "courses": Array [
+              "SEISEI02",
+              "SEISEI01",
+              "SEISER00S",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "SKG",
+            "courses": Array [
+              "SKGSKO02",
+              "SKGVIR0",
+              "SKGSKO01",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "SKM",
+            "courses": Array [
+              "SKMTER0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "NBDJU",
+        "courses": Array [
+          "DJRDJU01",
+          "DJRDJU02",
+          "DJUSÄL01",
+          "HUNHUN01",
+          "BIGBIG00S",
+        ],
+        "name": "Djurvårdare inom djurens hälso- och sjukvård",
+        "subjects": Array [
+          Object {
+            "code": "DJR",
+            "courses": Array [
+              "DJRDJU01",
+              "DJRDJU02",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "DJU",
+            "courses": Array [
+              "DJUSÄL01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "HUN",
+            "courses": Array [
+              "HUNHUN01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "BIG",
+            "courses": Array [
+              "BIGBIG00S",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "NBDJU",
+        "courses": Array [
+          "DJRDJU01",
+          "DJRDJU02",
+          "DJUSÄL01",
+          "DJFDJU0",
+          "HUNHUN01",
+        ],
+        "name": "Djurvårdare inriktning forskningsdjur",
+        "subjects": Array [
+          Object {
+            "code": "DJR",
+            "courses": Array [
+              "DJRDJU01",
+              "DJRDJU02",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "DJU",
+            "courses": Array [
+              "DJUSÄL01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "DJF",
+            "courses": Array [
+              "DJFDJU0",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "HUN",
+            "courses": Array [
+              "HUNHUN01",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "NBDJU",
+        "courses": Array [
+          "HÄTHÄS01",
+          "HÄTHÄS03",
+          "HÄTHÄS02",
+          "RINRID0",
+          "RINRID02",
+          "RINRID01",
+        ],
+        "name": "Hästskötare med inriktning mot ridning",
+        "subjects": Array [
+          Object {
+            "code": "HÄT",
+            "courses": Array [
+              "HÄTHÄS01",
+              "HÄTHÄS03",
+              "HÄTHÄS02",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "RIN",
+            "courses": Array [
+              "RINRID0",
+              "RINRID02",
+              "RINRID01",
+            ],
+            "minPoints": 400,
+          },
+        ],
+      },
+      Object {
+        "code": "NBDJU",
+        "courses": Array [
+          "HÄTHÄS02",
+          "HÄTHÄS01",
+          "HÄTHÄS03",
+          "RINRID0",
+          "TRVTRA01",
+          "TRVTRA02",
+        ],
+        "name": "Hästskötare med inriktning mot trav",
+        "subjects": Array [
+          Object {
+            "code": "HÄT",
+            "courses": Array [
+              "HÄTHÄS02",
+              "HÄTHÄS01",
+              "HÄTHÄS03",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "RIN",
+            "courses": Array [
+              "RINRID0",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "TRV",
+            "courses": Array [
+              "TRVTRA01",
+              "TRVTRA02",
+            ],
+            "minPoints": 200,
+          },
+        ],
+      },
+      Object {
+        "code": "NBSKO",
+        "courses": Array [
+          "NAGNAT01",
+          "NAGNAT02",
+          "FÖRENT0",
+          "AKTAKT0",
+          "SKOFIS01",
+          "SKOJAK01",
+        ],
+        "name": "Naturguide",
+        "subjects": Array [
+          Object {
+            "code": "NAG",
+            "courses": Array [
+              "NAGNAT01",
+              "NAGNAT02",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "FÖR",
+            "courses": Array [
+              "FÖRENT0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "AKT",
+            "courses": Array [
+              "AKTAKT0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SKO",
+            "courses": Array [
+              "SKOFIS01",
+              "SKOJAK01",
+            ],
+            "minPoints": 200,
+          },
+        ],
+      },
+      Object {
+        "code": "NBSKO",
+        "courses": Array [
+          "SKGVIR0",
+          "SKGSKO02",
+          "SKGSKO01",
+          "SKMAVV0",
+          "SKMTER0",
+          "SKMSKO00S",
+          "SKMVIE0",
+        ],
+        "name": "Skogsmaskinförare",
+        "subjects": Array [
+          Object {
+            "code": "SKG",
+            "courses": Array [
+              "SKGVIR0",
+              "SKGSKO02",
+              "SKGSKO01",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "SKM",
+            "courses": Array [
+              "SKMAVV0",
+              "SKMTER0",
+              "SKMSKO00S",
+              "SKMVIE0",
+            ],
+            "minPoints": 500,
+          },
+        ],
+      },
+      Object {
+        "code": "NBSKO",
+        "courses": Array [
+          "SKGSKG00S",
+          "SKGVIR0",
+          "SKGSKO02",
+          "SKGSKO01",
+          "MOTMOT02",
+          "SKMTER0",
+        ],
+        "name": "Skogsvårdare",
+        "subjects": Array [
+          Object {
+            "code": "SKG",
+            "courses": Array [
+              "SKGSKG00S",
+              "SKGVIR0",
+              "SKGSKO02",
+              "SKGSKO01",
+            ],
+            "minPoints": 400,
+          },
+          Object {
+            "code": "MOT",
+            "courses": Array [
+              "MOTMOT02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SKM",
+            "courses": Array [
+              "SKMTER0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "NBTRA",
+        "courses": Array [
+          "TRSTRG0",
+          "TRRTRG0",
+          "TRRTRD0",
+          "TRRTRA0",
+          "TRRTRA00S",
+          "ODIODL01",
+          "SKÖSKÖ0",
+        ],
+        "name": "Trädgårdsarbetare med inriktning mot frilandsodling",
+        "subjects": Array [
+          Object {
+            "code": "TRS",
+            "courses": Array [
+              "TRSTRG0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "TRR",
+            "courses": Array [
+              "TRRTRG0",
+              "TRRTRD0",
+              "TRRTRA0",
+              "TRRTRA00S",
+            ],
+            "minPoints": 400,
+          },
+          Object {
+            "code": "ODI",
+            "courses": Array [
+              "ODIODL01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SKÖ",
+            "courses": Array [
+              "SKÖSKÖ0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "NBTRA",
+        "courses": Array [
+          "TRDTRÄ01",
+          "TRSTRG0",
+          "TRRTRA0",
+          "VÄXVÄX02",
+          "SKÖBEK0",
+          "SKÖSKÖ0",
+          "SKÖSKÖ00S",
+        ],
+        "name": "Trädgårdsarbetare med inriktning mot skötsel av utemiljöer",
+        "subjects": Array [
+          Object {
+            "code": "TRD",
+            "courses": Array [
+              "TRDTRÄ01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "TRS",
+            "courses": Array [
+              "TRSTRG0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "TRR",
+            "courses": Array [
+              "TRRTRA0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "VÄX",
+            "courses": Array [
+              "VÄXVÄX02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SKÖ",
+            "courses": Array [
+              "SKÖBEK0",
+              "SKÖSKÖ0",
+              "SKÖSKÖ00S",
+            ],
+            "minPoints": 300,
+          },
+        ],
+      },
+      Object {
+        "code": "NBTRA",
+        "courses": Array [
+          "TRDTRÄ01",
+          "TRDTRÄ02",
+          "TRDTRÄ00S",
+          "TRSTRG0",
+          "TRRTRA0",
+          "VÄXVÄX02",
+          "SKÖSKÖ0",
+        ],
+        "name": "Trädgårdsarbetare med inriktning mot trädgårdsanläggning",
+        "subjects": Array [
+          Object {
+            "code": "TRD",
+            "courses": Array [
+              "TRDTRÄ01",
+              "TRDTRÄ02",
+              "TRDTRÄ00S",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "TRS",
+            "courses": Array [
+              "TRSTRG0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "TRR",
+            "courses": Array [
+              "TRRTRA0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "VÄX",
+            "courses": Array [
+              "VÄXVÄX02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SKÖ",
+            "courses": Array [
+              "SKÖSKÖ0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "NBTRA",
+        "courses": Array [
+          "TRRTRA00S",
+          "TRRTRD0",
+          "TRRTRA0",
+          "ODIODI00S",
+          "ODIODL02",
+          "ODIODL01",
+          "SKÖSKÖ0",
+        ],
+        "name": "Trädgårdsarbetare med inriktning mot växthusodling",
+        "subjects": Array [
+          Object {
+            "code": "TRR",
+            "courses": Array [
+              "TRRTRA00S",
+              "TRRTRD0",
+              "TRRTRA0",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "ODI",
+            "courses": Array [
+              "ODIODI00S",
+              "ODIODL02",
+              "ODIODL01",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "SKÖ",
+            "courses": Array [
+              "SKÖSKÖ0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "NBSKO",
+        "courses": Array [
+          "SKGSKO01",
+          "SKOJAK02",
+          "SKOJAK01",
+          "HUNTRN0",
+          "BIGBIG00S",
+        ],
+        "name": "Viltförvaltare",
+        "subjects": Array [
+          Object {
+            "code": "SKG",
+            "courses": Array [
+              "SKGSKO01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SKO",
+            "courses": Array [
+              "SKOJAK02",
+              "SKOJAK01",
+            ],
+            "minPoints": 300,
+          },
+          Object {
+            "code": "HUN",
+            "courses": Array [
+              "HUNTRN0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "BIG",
+            "courses": Array [
+              "BIGBIG00S",
             ],
             "minPoints": 100,
           },
@@ -9476,6 +13852,7 @@ Object {
         ],
       },
     ],
+    "professionalDegrees": Array [],
     "profiles": Array [],
     "program": Object {
       "courses": Array [
@@ -10083,6 +14460,110 @@ Object {
               "MACMAT0",
             ],
             "minPoints": 100,
+          },
+        ],
+      },
+    ],
+    "professionalDegrees": Array [
+      Object {
+        "code": "RLBAG",
+        "courses": Array [
+          "BAGBAG04",
+          "BAGBAG03",
+          "BAGBAG02",
+          "BAGKON03",
+          "BAGKON02",
+        ],
+        "name": "Bageri- och konditorikunskap – B",
+        "subjects": Array [
+          Object {
+            "code": "BAG",
+            "courses": Array [
+              "BAGBAG04",
+              "BAGBAG03",
+              "BAGBAG02",
+              "BAGKON03",
+              "BAGKON02",
+            ],
+            "minPoints": 700,
+          },
+        ],
+      },
+      Object {
+        "code": "RLBAG",
+        "courses": Array [
+          "BAGKON02",
+          "BAGKON03",
+          "BAGBAG03",
+          "BAGBAG02",
+          "BAGKON04",
+        ],
+        "name": "Bageri- och konditorikunskap – K",
+        "subjects": Array [
+          Object {
+            "code": "BAG",
+            "courses": Array [
+              "BAGKON02",
+              "BAGKON03",
+              "BAGBAG03",
+              "BAGBAG02",
+              "BAGKON04",
+            ],
+            "minPoints": 700,
+          },
+        ],
+      },
+      Object {
+        "code": "RLKOK",
+        "courses": Array [
+          "MALMAL02",
+          "MALSPE0",
+          "MALMAL04",
+          "MALMAL03",
+        ],
+        "name": "Kock",
+        "subjects": Array [
+          Object {
+            "code": "MAL",
+            "courses": Array [
+              "MALMAL02",
+              "MALSPE0",
+              "MALMAL04",
+              "MALMAL03",
+            ],
+            "minPoints": 700,
+          },
+        ],
+      },
+      Object {
+        "code": "RLKOK",
+        "courses": Array [
+          "DRYDRY0",
+          "DRYDRC0",
+          "SERARR0",
+          "SERMAF0",
+          "SERSER02",
+          "SERSER00S",
+        ],
+        "name": "Servitris eller servitör",
+        "subjects": Array [
+          Object {
+            "code": "DRY",
+            "courses": Array [
+              "DRYDRY0",
+              "DRYDRC0",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "SER",
+            "courses": Array [
+              "SERARR0",
+              "SERMAF0",
+              "SERSER02",
+              "SERSER00S",
+            ],
+            "minPoints": 500,
           },
         ],
       },
@@ -10746,6 +15227,7 @@ Object {
         ],
       },
     ],
+    "professionalDegrees": Array [],
     "profiles": Array [],
     "program": Object {
       "courses": Array [
@@ -11410,6 +15892,210 @@ Object {
         ],
       },
     ],
+    "professionalDegrees": Array [
+      Object {
+        "code": "SXDAC",
+        "courses": Array [
+          "FARLAS0",
+          "DACDAC02",
+          "DACDAC01",
+        ],
+        "name": "Befaren matros",
+        "subjects": Array [
+          Object {
+            "code": "FAR",
+            "courses": Array [
+              "FARLAS0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "DAC",
+            "courses": Array [
+              "DACDAC02",
+              "DACDAC01",
+            ],
+            "minPoints": 600,
+          },
+        ],
+      },
+      Object {
+        "code": "SXMAS",
+        "courses": Array [
+          "FARLAS0",
+          "MAKMAS02",
+          "MAKMAS01",
+        ],
+        "name": "Befaren motorman",
+        "subjects": Array [
+          Object {
+            "code": "FAR",
+            "courses": Array [
+              "FARLAS0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "MAK",
+            "courses": Array [
+              "MAKMAS02",
+              "MAKMAS01",
+            ],
+            "minPoints": 600,
+          },
+        ],
+      },
+      Object {
+        "code": "SXDAC",
+        "courses": Array [
+          "FARLAS0",
+          "DACDAC02",
+          "DACFAR0",
+          "DACDAC01",
+        ],
+        "name": "Fartygsbefäl",
+        "subjects": Array [
+          Object {
+            "code": "FAR",
+            "courses": Array [
+              "FARLAS0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "DAC",
+            "courses": Array [
+              "DACDAC02",
+              "DACFAR0",
+              "DACDAC01",
+            ],
+            "minPoints": 700,
+          },
+        ],
+      },
+      Object {
+        "code": "SXMAS",
+        "courses": Array [
+          "FARLAS0",
+          "ELLPRA0",
+          "MAKMAS01",
+          "MAKMAS02",
+          "ELRELF0",
+        ],
+        "name": "Fartygselektriker",
+        "subjects": Array [
+          Object {
+            "code": "FAR",
+            "courses": Array [
+              "FARLAS0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "ELL",
+            "courses": Array [
+              "ELLPRA0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "MAK",
+            "courses": Array [
+              "MAKMAS01",
+              "MAKMAS02",
+            ],
+            "minPoints": 600,
+          },
+          Object {
+            "code": "ELR",
+            "courses": Array [
+              "ELRELF0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "SXMAS",
+        "courses": Array [
+          "FARLAS0",
+          "MAKMAS01",
+          "MAKMAS0",
+          "MAKMAS02",
+        ],
+        "name": "Maskinbefäl",
+        "subjects": Array [
+          Object {
+            "code": "FAR",
+            "courses": Array [
+              "FARLAS0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "MAK",
+            "courses": Array [
+              "MAKMAS01",
+              "MAKMAS0",
+              "MAKMAS02",
+            ],
+            "minPoints": 700,
+          },
+        ],
+      },
+      Object {
+        "code": "SXDAC",
+        "courses": Array [
+          "FARLAS0",
+          "DACDAC02",
+          "DACDAC01",
+        ],
+        "name": "Matros",
+        "subjects": Array [
+          Object {
+            "code": "FAR",
+            "courses": Array [
+              "FARLAS0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "DAC",
+            "courses": Array [
+              "DACDAC02",
+              "DACDAC01",
+            ],
+            "minPoints": 600,
+          },
+        ],
+      },
+      Object {
+        "code": "SXMAS",
+        "courses": Array [
+          "FARLAS0",
+          "MAKMAS02",
+          "MAKMAS01",
+        ],
+        "name": "Motorman",
+        "subjects": Array [
+          Object {
+            "code": "FAR",
+            "courses": Array [
+              "FARLAS0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "MAK",
+            "courses": Array [
+              "MAKMAS02",
+              "MAKMAS01",
+            ],
+            "minPoints": 600,
+          },
+        ],
+      },
+    ],
     "profiles": Array [],
     "program": Object {
       "courses": Array [
@@ -12003,6 +16689,7 @@ Object {
         ],
       },
     ],
+    "professionalDegrees": Array [],
     "profiles": Array [],
     "program": Object {
       "courses": Array [
@@ -12872,6 +17559,30 @@ Object {
       ],
     },
     "orientations": Array [],
+    "professionalDegrees": Array [
+      Object {
+        "code": "TXTAG",
+        "courses": Array [],
+        "name": "Mekaniker spårbundna fordon",
+        "subjects": Array [],
+      },
+      Object {
+        "code": "TXTAG",
+        "courses": Array [
+          "ENTENR0",
+        ],
+        "name": "Underhållsmekaniker",
+        "subjects": Array [
+          Object {
+            "code": "ENT",
+            "courses": Array [
+              "ENTENR0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+    ],
     "profiles": Array [],
     "program": Object {
       "courses": Array [
@@ -13199,6 +17910,7 @@ Object {
       ],
     },
     "orientations": Array [],
+    "professionalDegrees": Array [],
     "profiles": Array [],
     "program": Object {
       "courses": Array [
@@ -13646,6 +18358,194 @@ Object {
               "VETLUF0",
             ],
             "minPoints": 200,
+          },
+        ],
+      },
+    ],
+    "professionalDegrees": Array [
+      Object {
+        "code": "VFFAS",
+        "courses": Array [
+          "FASFAE0",
+          "MÄTDIS0",
+          "MÄTMÄO0",
+          "MÄTPRR0",
+          "MÄTMÄT0",
+          "FAIFAS01",
+          "ENTENR0",
+          "VETLUF0",
+        ],
+        "name": "Fastighetstekniker",
+        "subjects": Array [
+          Object {
+            "code": "FAS",
+            "courses": Array [
+              "FASFAE0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "MÄT",
+            "courses": Array [
+              "MÄTDIS0",
+              "MÄTMÄO0",
+              "MÄTPRR0",
+              "MÄTMÄT0",
+            ],
+            "minPoints": 400,
+          },
+          Object {
+            "code": "FAI",
+            "courses": Array [
+              "FAIFAS01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "ENT",
+            "courses": Array [
+              "ENTENR0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "VET",
+            "courses": Array [
+              "VETLUF0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "VFVVS",
+        "courses": Array [
+          "INDIND03",
+          "INDIND01",
+          "INDIND02",
+          "INVVVI0",
+          "INVVVV0",
+        ],
+        "name": "Industrirörsmontör",
+        "subjects": Array [
+          Object {
+            "code": "IND",
+            "courses": Array [
+              "INDIND03",
+              "INDIND01",
+              "INDIND02",
+            ],
+            "minPoints": 400,
+          },
+          Object {
+            "code": "INV",
+            "courses": Array [
+              "INVVVI0",
+              "INVVVV0",
+            ],
+            "minPoints": 300,
+          },
+        ],
+      },
+      Object {
+        "code": "VFVVS",
+        "courses": Array [
+          "TEIBRA0",
+          "TEIVVS0",
+          "TEIYTB0",
+          "TEIKOD0",
+        ],
+        "name": "Isoleringsmontör",
+        "subjects": Array [
+          Object {
+            "code": "TEI",
+            "courses": Array [
+              "TEIBRA0",
+              "TEIVVS0",
+              "TEIYTB0",
+              "TEIKOD0",
+            ],
+            "minPoints": 600,
+          },
+        ],
+      },
+      Object {
+        "code": "VFKYL",
+        "courses": Array [
+          "MÄTMÄT0",
+          "KYLKYL0",
+          "KYLKYC0",
+          "KYLKYV0",
+        ],
+        "name": "Kyl- och värmepumpsmontör",
+        "subjects": Array [
+          Object {
+            "code": "MÄT",
+            "courses": Array [
+              "MÄTMÄT0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "KYL",
+            "courses": Array [
+              "KYLKYL0",
+              "KYLKYC0",
+              "KYLKYV0",
+            ],
+            "minPoints": 500,
+          },
+        ],
+      },
+      Object {
+        "code": "VFVVS",
+        "courses": Array [
+          "SYSINJ0",
+          "VVIVVG0",
+          "VVISAN02",
+          "VVIVVT0",
+          "VVIVAR02",
+        ],
+        "name": "VVS-montör",
+        "subjects": Array [
+          Object {
+            "code": "SYS",
+            "courses": Array [
+              "SYSINJ0",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "VVI",
+            "courses": Array [
+              "VVIVVG0",
+              "VVISAN02",
+              "VVIVVT0",
+              "VVIVAR02",
+            ],
+            "minPoints": 500,
+          },
+        ],
+      },
+      Object {
+        "code": "VFVEN",
+        "courses": Array [
+          "VEIVEN0",
+          "VEIVEN01",
+          "VEIVET0",
+          "VEIVEN02",
+        ],
+        "name": "Ventilationsmontör",
+        "subjects": Array [
+          Object {
+            "code": "VEI",
+            "courses": Array [
+              "VEIVEN0",
+              "VEIVEN01",
+              "VEIVET0",
+              "VEIVEN02",
+            ],
+            "minPoints": 500,
           },
         ],
       },
@@ -14160,6 +19060,92 @@ Object {
       ],
     },
     "orientations": Array [],
+    "professionalDegrees": Array [
+      Object {
+        "code": "VOVAR",
+        "courses": Array [
+          "SPCSPE02",
+          "PEASOC0",
+        ],
+        "name": "Funktionshinderområdet",
+        "subjects": Array [
+          Object {
+            "code": "SPC",
+            "courses": Array [
+              "SPCSPE02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "PEA",
+            "courses": Array [
+              "PEASOC0",
+            ],
+            "minPoints": 100,
+          },
+        ],
+      },
+      Object {
+        "code": "VOVAR",
+        "courses": Array [
+          "MEDMED02",
+          "SJUAKU0",
+        ],
+        "name": "Hälso- och sjukvård",
+        "subjects": Array [
+          Object {
+            "code": "MED",
+            "courses": Array [
+              "MEDMED02",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "SJU",
+            "courses": Array [
+              "SJUAKU0",
+            ],
+            "minPoints": 200,
+          },
+        ],
+      },
+      Object {
+        "code": "VOVAR",
+        "courses": Array [
+          "PSYSAM0",
+          "PSYPSY02",
+        ],
+        "name": "Psykiatri",
+        "subjects": Array [
+          Object {
+            "code": "PSY",
+            "courses": Array [
+              "PSYSAM0",
+              "PSYPSY02",
+            ],
+            "minPoints": 300,
+          },
+        ],
+      },
+      Object {
+        "code": "VOVAR",
+        "courses": Array [
+          "GERVÅR0",
+          "GERÄLD0",
+        ],
+        "name": "Äldreomsorg",
+        "subjects": Array [
+          Object {
+            "code": "GER",
+            "courses": Array [
+              "GERVÅR0",
+              "GERÄLD0",
+            ],
+            "minPoints": 300,
+          },
+        ],
+      },
+    ],
     "profiles": Array [],
     "program": Object {
       "courses": Array [
@@ -14656,6 +19642,7 @@ Object {
       ],
     },
     "orientations": Array [],
+    "professionalDegrees": Array [],
     "profiles": Array [
       Object {
         "code": "YXKLA",

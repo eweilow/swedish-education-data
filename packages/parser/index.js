@@ -78,7 +78,7 @@ async function parseProgram(name) {
   const rawData = await parseXML(str);
   const data = rawData.program;
 
-  const urls = require("./manual/program/urls.json");
+  const urls = require(path.join(process.cwd(), "./manual/program/urls.json"));
 
   // console.log();
   // console.log();
@@ -210,11 +210,11 @@ async function parseProgram(name) {
   let manualReplacements = {};
 
   const replacementFile = path.join(
-    __dirname,
+    process.cwd(),
     "./manual",
     path.join(
       path.dirname(
-        path.relative(path.join(__dirname, "./src/gyP1_7_S1_4"), name)
+        path.relative(path.join(process.cwd(), "./src/gyP1_7_S1_4"), name)
       ),
       program.code + ".json"
     )
@@ -225,7 +225,7 @@ async function parseProgram(name) {
   if (found) {
     console.log(
       `Replacement ${path.relative(
-        __dirname,
+        process.cwd(),
         replacementFile
       )}: found replacements`
     );
@@ -339,7 +339,7 @@ const path = require("path");
 async function run() {
   const directory = "./src/gyP1_7_S1_4";
   const programGlobs = await readGlobFiles([
-    path.join(__dirname, directory),
+    path.join(process.cwd(), directory),
     "**/program/*.xml"
   ]);
 

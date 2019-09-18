@@ -1,23 +1,12 @@
 {
-  "name": "swedish-education-data",
-  "version": "1.0.0",
-  "description": "",
-  "scripts": {
-    "build": "node output.js",
-    "test": "node test.js"
+  "name": "@education-data/root",
+  "workspaces": {
+    "packages": [
+      "packages/**"
+    ]
   },
-  "repository": "https://github.com/eweilow/swedish-education-data",
-  "author": "eweilow",
-  "license": "GPLv3",
   "private": true,
   "dependencies": {
-    "chai": "^4.2.0",
-    "cheerio": "^1.0.0-rc.3",
-    "glob": "^7.1.4",
-    "prettier": "^1.18.2",
-    "xml2js": "^0.4.22"
-  },
-  "devDependencies": {
-    "jest": "^24.9.0"
+    "lerna": "^3.10.7"
   }
 }
