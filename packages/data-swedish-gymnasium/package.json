@@ -8,6 +8,7 @@
     "dev": "ts-node-dev --cls --respawn --transpileOnly index.ts",
     "test": "jest"
   },
+  "main": "./out",
   "version": "0.0.1-alpha.2",
   "description": "",
   "repository": "https://github.com/eweilow/swedish-education-data",
