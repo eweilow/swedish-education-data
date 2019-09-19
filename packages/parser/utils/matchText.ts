@@ -1,12 +1,28 @@
-const $ = require("cheerio");
+import * as $ from "cheerio";
 
-export function checkTextEquality(left: string, right: string): boolean {
-  const leftText = $.load(left)
+export function checkTextEquality(
+  left: string,
+  right: string,
+  allowedDifference: string | null = null
+): boolean {
+  const leftText = $(left)
     .text()
     .replace(/(\s|\n)+/g, " ");
-  const rightText = $.load(right)
+
+  let rightText = $(right)
     .text()
     .replace(/(\s|\n)+/g, " ");
 
-  return leftText === rightText;
+  if (allowedDifference != null) {
+    const diffText = $(allowedDifference)
+      .text()
+      .replace(/(\s|\n)+/g, " ");
+    rightText = rightText.replace(diffText, " ").replace(/(\s|\n)+/g, " ");
+  }
+
+  if (leftText === rightText) {
+    return true;
+  }
+  console.warn(`left:\n${leftText}\ndoes not equal right:\n${rightText}`);
+  return false;
 }

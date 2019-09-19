@@ -3,7 +3,7 @@ import { existsSync } from "fs";
 import { relative } from "path";
 
 export async function getReplacements(replacementFile: string) {
-  let manualReplacements = {};
+  let manualReplacements: any = {};
   const found = existsSync(replacementFile);
 
   if (found) {
