@@ -1,0 +1,1486 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`subject data all subjects are correct 1`] = `
+Array [
+  Object {
+    "code": "ADM",
+    "file": "./subject/ADM.json",
+    "title": "Administration",
+  },
+  Object {
+    "code": "AFF",
+    "file": "./subject/AFF.json",
+    "title": "Affärskommunikation",
+  },
+  Object {
+    "code": "AKT",
+    "file": "./subject/AKT.json",
+    "title": "Aktiviteter och värdskap",
+  },
+  Object {
+    "code": "ANI",
+    "file": "./subject/ANI.json",
+    "title": "Animation",
+  },
+  Object {
+    "code": "ANL",
+    "file": "./subject/ANL.json",
+    "title": "Anläggning",
+  },
+  Object {
+    "code": "ANA",
+    "file": "./subject/ANA.json",
+    "title": "Anläggningsförare",
+  },
+  Object {
+    "code": "ARK",
+    "file": "./subject/ARK.json",
+    "title": "Arkitektur",
+  },
+  Object {
+    "code": "ATV",
+    "file": "./subject/ATV.json",
+    "title": "ATV- och MC-teknik",
+  },
+  Object {
+    "code": "AUO",
+    "file": "./subject/AUO.json",
+    "title": "Automatiserade system",
+  },
+  Object {
+    "code": "BAG",
+    "file": "./subject/BAG.json",
+    "title": "Bageri- och konditorikunskap",
+  },
+  Object {
+    "code": "BAN",
+    "file": "./subject/BAN.json",
+    "title": "Banskötsel för hästsport",
+  },
+  Object {
+    "code": "BAT",
+    "file": "./subject/BAT.json",
+    "title": "Båtkunskap",
+  },
+  Object {
+    "code": "BEL",
+    "file": "./subject/BEL.json",
+    "title": "Beläggning",
+  },
+  Object {
+    "code": "BER",
+    "file": "./subject/BER.json",
+    "title": "Berghantering",
+  },
+  Object {
+    "code": "BET",
+    "file": "./subject/BET.json",
+    "title": "Betong",
+  },
+  Object {
+    "code": "BIL",
+    "file": "./subject/BIL.json",
+    "title": "Bild",
+  },
+  Object {
+    "code": "BID",
+    "file": "./subject/BID.json",
+    "title": "Bildteori",
+  },
+  Object {
+    "code": "BIN",
+    "file": "./subject/BIN.json",
+    "title": "Biodling",
+  },
+  Object {
+    "code": "BIO",
+    "file": "./subject/BIO.json",
+    "title": "Biologi",
+  },
+  Object {
+    "code": "BIG",
+    "file": "./subject/BIG.json",
+    "title": "Biologi – naturbruk",
+  },
+  Object {
+    "code": "BII",
+    "file": "./subject/BII.json",
+    "title": "Biologi i vattenmiljöer",
+  },
+  Object {
+    "code": "BEV",
+    "file": "./subject/BEV.json",
+    "title": "Brand, bevakning och säkerhet",
+  },
+  Object {
+    "code": "BYG",
+    "file": "./subject/BYG.json",
+    "title": "Bygg och anläggning",
+  },
+  Object {
+    "code": "BYP",
+    "file": "./subject/BYP.json",
+    "title": "Byggproduktionsledning",
+  },
+  Object {
+    "code": "CAD",
+    "file": "./subject/CAD.json",
+    "title": "Cad",
+  },
+  Object {
+    "code": "CHA",
+    "file": "./subject/CHA.json",
+    "title": "Charkuterikunskap",
+  },
+  Object {
+    "code": "CIR",
+    "file": "./subject/CIR.json",
+    "title": "Cirkus",
+  },
+  Object {
+    "code": "DAC",
+    "file": "./subject/DAC.json",
+    "title": "Däckstjänst",
+  },
+  Object {
+    "code": "DAN",
+    "file": "./subject/DAN.json",
+    "title": "Dansgestaltning",
+  },
+  Object {
+    "code": "DAG",
+    "file": "./subject/DAG.json",
+    "title": "Dansgestaltning för yrkesdansare",
+  },
+  Object {
+    "code": "DAS",
+    "file": "./subject/DAS.json",
+    "title": "Dansorientering",
+  },
+  Object {
+    "code": "DAT",
+    "file": "./subject/DAT.json",
+    "title": "Dansteknik",
+  },
+  Object {
+    "code": "DAK",
+    "file": "./subject/DAK.json",
+    "title": "Dansteknik för yrkesdansare",
+  },
+  Object {
+    "code": "DAE",
+    "file": "./subject/DAE.json",
+    "title": "Dansteori",
+  },
+  Object {
+    "code": "DAA",
+    "file": "./subject/DAA.json",
+    "title": "Datalagring",
+  },
+  Object {
+    "code": "DAO",
+    "file": "./subject/DAO.json",
+    "title": "Dator- och kommunikationsteknik",
+  },
+  Object {
+    "code": "DAI",
+    "file": "./subject/DAI.json",
+    "title": "Datoriserad mönsterhantering",
+  },
+  Object {
+    "code": "DAR",
+    "file": "./subject/DAR.json",
+    "title": "Datorstyrd produktion",
+  },
+  Object {
+    "code": "DAY",
+    "file": "./subject/DAY.json",
+    "title": "Datorsystem – spårfordon",
+  },
+  Object {
+    "code": "DES",
+    "file": "./subject/DES.json",
+    "title": "Design",
+  },
+  Object {
+    "code": "DIG",
+    "file": "./subject/DIG.json",
+    "title": "Digitalt skapande",
+  },
+  Object {
+    "code": "DJU",
+    "file": "./subject/DJU.json",
+    "title": "Djur",
+  },
+  Object {
+    "code": "DJF",
+    "file": "./subject/DJF.json",
+    "title": "Djur för forskningsändamål",
+  },
+  Object {
+    "code": "DJP",
+    "file": "./subject/DJP.json",
+    "title": "Djurparksdjur",
+  },
+  Object {
+    "code": "DJR",
+    "file": "./subject/DJR.json",
+    "title": "Djurvård inom djurens hälso- och sjukvård",
+  },
+  Object {
+    "code": "DRI",
+    "file": "./subject/DRI.json",
+    "title": "Driftsäkerhet och underhåll",
+  },
+  Object {
+    "code": "DRY",
+    "file": "./subject/DRY.json",
+    "title": "Dryckeskunskap",
+  },
+  Object {
+    "code": "VER",
+    "file": "./subject/VER.json",
+    "title": "El- och verkstadsteknik",
+  },
+  Object {
+    "code": "ELD",
+    "file": "./subject/ELD.json",
+    "title": "Eldistributionsteknik",
+  },
+  Object {
+    "code": "ELE",
+    "file": "./subject/ELE.json",
+    "title": "Elektronik",
+  },
+  Object {
+    "code": "ELN",
+    "file": "./subject/ELN.json",
+    "title": "Elektronik – spårfordon",
+  },
+  Object {
+    "code": "ELK",
+    "file": "./subject/ELK.json",
+    "title": "Elektronikproduktion",
+  },
+  Object {
+    "code": "ELO",
+    "file": "./subject/ELO.json",
+    "title": "Elektroniksystem – installation och underhåll",
+  },
+  Object {
+    "code": "ELR",
+    "file": "./subject/ELR.json",
+    "title": "Elektroteknik",
+  },
+  Object {
+    "code": "ELM",
+    "file": "./subject/ELM.json",
+    "title": "Elementmontering",
+  },
+  Object {
+    "code": "ELF",
+    "file": "./subject/ELF.json",
+    "title": "Elkraft och traktion – spårfordon",
+  },
+  Object {
+    "code": "ELL",
+    "file": "./subject/ELL.json",
+    "title": "Ellära",
+  },
+  Object {
+    "code": "LLA",
+    "file": "./subject/LLA.json",
+    "title": "Ellära – spårfordon",
+  },
+  Object {
+    "code": "ELA",
+    "file": "./subject/ELA.json",
+    "title": "Ellära och digitalteknik – flyg",
+  },
+  Object {
+    "code": "ELÄ",
+    "file": "./subject/ELÄ.json",
+    "title": "Elmätteknik",
+  },
+  Object {
+    "code": "ELI",
+    "file": "./subject/ELI.json",
+    "title": "Elmotordrivsystem",
+  },
+  Object {
+    "code": "ENE",
+    "file": "./subject/ENE.json",
+    "title": "Energiteknik",
+  },
+  Object {
+    "code": "ENG",
+    "file": "./subject/ENG.json",
+    "title": "Engelska",
+  },
+  Object {
+    "code": "ENL",
+    "file": "./subject/ENL.json",
+    "title": "Engelska för döva",
+  },
+  Object {
+    "code": "ENT",
+    "file": "./subject/ENT.json",
+    "title": "Entreprenörskap",
+  },
+  Object {
+    "code": "EST",
+    "file": "./subject/EST.json",
+    "title": "Estetisk kommunikation",
+  },
+  Object {
+    "code": "EUR",
+    "file": "./subject/EUR.json",
+    "title": "Eurytmi",
+  },
+  Object {
+    "code": "EVE",
+    "file": "./subject/EVE.json",
+    "title": "Eventteknik",
+  },
+  Object {
+    "code": "FAR",
+    "file": "./subject/FAR.json",
+    "title": "Fartygsteknik",
+  },
+  Object {
+    "code": "FAI",
+    "file": "./subject/FAI.json",
+    "title": "Fastighetsautomation",
+  },
+  Object {
+    "code": "FAF",
+    "file": "./subject/FAF.json",
+    "title": "Fastighetsförvaltning",
+  },
+  Object {
+    "code": "FAS",
+    "file": "./subject/FAS.json",
+    "title": "Fastighetsservice",
+  },
+  Object {
+    "code": "FIL",
+    "file": "./subject/FIL.json",
+    "title": "Film- och tv-produktion",
+  },
+  Object {
+    "code": "FIO",
+    "file": "./subject/FIO.json",
+    "title": "Filosofi",
+  },
+  Object {
+    "code": "FIS",
+    "file": "./subject/FIS.json",
+    "title": "Fiske",
+  },
+  Object {
+    "code": "FIK",
+    "file": "./subject/FIK.json",
+    "title": "Fiskevård",
+  },
+  Object {
+    "code": "FLP",
+    "file": "./subject/FLP.json",
+    "title": "Flygplansteknik",
+  },
+  Object {
+    "code": "FLG",
+    "file": "./subject/FLG.json",
+    "title": "Flygplatsteknik",
+  },
+  Object {
+    "code": "FLY",
+    "file": "./subject/FLY.json",
+    "title": "Flygyrkesteknik",
+  },
+  Object {
+    "code": "FOH",
+    "file": "./subject/FOH.json",
+    "title": "Fordon och redskap inom naturbruk",
+  },
+  Object {
+    "code": "FOR",
+    "file": "./subject/FOR.json",
+    "title": "Fordons- och transportbranschen",
+  },
+  Object {
+    "code": "FOD",
+    "file": "./subject/FOD.json",
+    "title": "Fordonsteknik",
+  },
+  Object {
+    "code": "FOO",
+    "file": "./subject/FOO.json",
+    "title": "Fordonstestteknik",
+  },
+  Object {
+    "code": "FÖR",
+    "file": "./subject/FÖR.json",
+    "title": "Företagsekonomi",
+  },
+  Object {
+    "code": "FOM",
+    "file": "./subject/FOM.json",
+    "title": "Formgivning",
+  },
+  Object {
+    "code": "FÖS",
+    "file": "./subject/FÖS.json",
+    "title": "Försäljning och kundservice",
+  },
+  Object {
+    "code": "FOT",
+    "file": "./subject/FOT.json",
+    "title": "Fotografisk bild",
+  },
+  Object {
+    "code": "FRI",
+    "file": "./subject/FRI.json",
+    "title": "Fritids- och friskvårdsverksamheter",
+  },
+  Object {
+    "code": "FRT",
+    "file": "./subject/FRT.json",
+    "title": "Fritids- och idrottskunskap",
+  },
+  Object {
+    "code": "FRD",
+    "file": "./subject/FRD.json",
+    "title": "Fritidsbåtteknik",
+  },
+  Object {
+    "code": "FYS",
+    "file": "./subject/FYS.json",
+    "title": "Fysik",
+  },
+  Object {
+    "code": "GAS",
+    "file": "./subject/GAS.json",
+    "title": "Gasturbinmotorer – flyg",
+  },
+  Object {
+    "code": "GEO",
+    "file": "./subject/GEO.json",
+    "title": "Geografi",
+  },
+  Object {
+    "code": "GER",
+    "file": "./subject/GER.json",
+    "title": "Gerontologi och geriatrik",
+  },
+  Object {
+    "code": "GOD",
+    "file": "./subject/GOD.json",
+    "title": "Godshantering",
+  },
+  Object {
+    "code": "GOS",
+    "file": "./subject/GOS.json",
+    "title": "Godstransporter",
+  },
+  Object {
+    "code": "GOL",
+    "file": "./subject/GOL.json",
+    "title": "Golvläggning",
+  },
+  Object {
+    "code": "GRA",
+    "file": "./subject/GRA.json",
+    "title": "Grafisk kommunikation",
+  },
+  Object {
+    "code": "GRF",
+    "file": "./subject/GRF.json",
+    "title": "Grafisk produktion",
+  },
+  Object {
+    "code": "GRÄ",
+    "file": "./subject/GRÄ.json",
+    "title": "Gränssnittsdesign",
+  },
+  Object {
+    "code": "GRU",
+    "file": "./subject/GRU.json",
+    "title": "Grundläggande vård och omsorg",
+  },
+  Object {
+    "code": "GYN",
+    "file": "./subject/GYN.json",
+    "title": "Gymnasieingenjören i praktiken",
+  },
+  Object {
+    "code": "HÅL",
+    "file": "./subject/HÅL.json",
+    "title": "Hållbart samhälle",
+  },
+  Object {
+    "code": "HAL",
+    "file": "./subject/HAL.json",
+    "title": "Hälsa",
+  },
+  Object {
+    "code": "HAA",
+    "file": "./subject/HAA.json",
+    "title": "Hälsovård",
+  },
+  Object {
+    "code": "HAN",
+    "file": "./subject/HAN.json",
+    "title": "Handel",
+  },
+  Object {
+    "code": "HAV",
+    "file": "./subject/HAV.json",
+    "title": "Hantverk",
+  },
+  Object {
+    "code": "HVK",
+    "file": "./subject/HVK.json",
+    "title": "Hantverkskunskap",
+  },
+  Object {
+    "code": "HÄT",
+    "file": "./subject/HÄT.json",
+    "title": "Hästkunskap",
+  },
+  Object {
+    "code": "HEL",
+    "file": "./subject/HEL.json",
+    "title": "Helikopterteknik",
+  },
+  Object {
+    "code": "HIO",
+    "file": "./subject/HIO.json",
+    "title": "Hippologi",
+  },
+  Object {
+    "code": "HIS",
+    "file": "./subject/HIS.json",
+    "title": "Historia",
+  },
+  Object {
+    "code": "HJU",
+    "file": "./subject/HJU.json",
+    "title": "Hjulutrustningsteknik",
+  },
+  Object {
+    "code": "HUM",
+    "file": "./subject/HUM.json",
+    "title": "Humanistisk och samhällsvetenskaplig specialisering",
+  },
+  Object {
+    "code": "HUA",
+    "file": "./subject/HUA.json",
+    "title": "Humanistisk och samhällsvetenskaplig spets inom försöksverksamhet med riksrekryterande gymnasial spetsutbildning",
+  },
+  Object {
+    "code": "HUN",
+    "file": "./subject/HUN.json",
+    "title": "Hundkunskap",
+  },
+  Object {
+    "code": "HUS",
+    "file": "./subject/HUS.json",
+    "title": "Husbyggnad",
+  },
+  Object {
+    "code": "HUB",
+    "file": "./subject/HUB.json",
+    "title": "Husbyggnad – specialyrken",
+  },
+  Object {
+    "code": "HYG",
+    "file": "./subject/HYG.json",
+    "title": "Hygienkunskap",
+  },
+  Object {
+    "code": "IDR",
+    "file": "./subject/IDR.json",
+    "title": "Idrott och hälsa",
+  },
+  Object {
+    "code": "INR",
+    "file": "./subject/INR.json",
+    "title": "Industriautomation",
+  },
+  Object {
+    "code": "IDU",
+    "file": "./subject/IDU.json",
+    "title": "Industriell automation",
+  },
+  Object {
+    "code": "INL",
+    "file": "./subject/INL.json",
+    "title": "Industriell design",
+  },
+  Object {
+    "code": "INN",
+    "file": "./subject/INN.json",
+    "title": "Industriella produktionsmetoder",
+  },
+  Object {
+    "code": "INV",
+    "file": "./subject/INV.json",
+    "title": "Industrirör svets VVS",
+  },
+  Object {
+    "code": "IND",
+    "file": "./subject/IND.json",
+    "title": "Industrirörteknik",
+  },
+  Object {
+    "code": "PRF",
+    "file": "./subject/PRF.json",
+    "title": "Industriteknisk fördjupning",
+  },
+  Object {
+    "code": "INU",
+    "file": "./subject/INU.json",
+    "title": "Industritekniska processer",
+  },
+  Object {
+    "code": "INF",
+    "file": "./subject/INF.json",
+    "title": "Information och kommunikation",
+  },
+  Object {
+    "code": "INA",
+    "file": "./subject/INA.json",
+    "title": "Informationsteknisk arkitektur och infrastruktur",
+  },
+  Object {
+    "code": "INK",
+    "file": "./subject/INK.json",
+    "title": "Inköp och logistik",
+  },
+  Object {
+    "code": "INS",
+    "file": "./subject/INS.json",
+    "title": "Installationsteknik",
+  },
+  Object {
+    "code": "ITI",
+    "file": "./subject/ITI.json",
+    "title": "It i vård och omsorg",
+  },
+  Object {
+    "code": "JÄR",
+    "file": "./subject/JÄR.json",
+    "title": "Järnvägsbyggnad",
+  },
+  Object {
+    "code": "JÄN",
+    "file": "./subject/JÄN.json",
+    "title": "Järnvägsteknik",
+  },
+  Object {
+    "code": "JUR",
+    "file": "./subject/JUR.json",
+    "title": "Juridik",
+  },
+  Object {
+    "code": "KAR",
+    "file": "./subject/KAR.json",
+    "title": "Karosseriteknik",
+  },
+  Object {
+    "code": "KEM",
+    "file": "./subject/KEM.json",
+    "title": "Kemi",
+  },
+  Object {
+    "code": "KLA",
+    "file": "./subject/KLA.json",
+    "title": "Klassisk grekiska – språk och kultur",
+  },
+  Object {
+    "code": "KOL",
+    "file": "./subject/KOL.json",
+    "title": "Kolvmotorer – flyg",
+  },
+  Object {
+    "code": "KON",
+    "file": "./subject/KON.json",
+    "title": "Konferens och evenemang",
+  },
+  Object {
+    "code": "KOS",
+    "file": "./subject/KOS.json",
+    "title": "Konst och kultur",
+  },
+  Object {
+    "code": "KOH",
+    "file": "./subject/KOH.json",
+    "title": "Konsthantverk",
+  },
+  Object {
+    "code": "KOT",
+    "file": "./subject/KOT.json",
+    "title": "Konstruktion",
+  },
+  Object {
+    "code": "KOR",
+    "file": "./subject/KOR.json",
+    "title": "Konstruktionsteknik",
+  },
+  Object {
+    "code": "KRA",
+    "file": "./subject/KRA.json",
+    "title": "Kraft- och värmeteknik",
+  },
+  Object {
+    "code": "KYL",
+    "file": "./subject/KYL.json",
+    "title": "Kyl- och värmepumpsteknik",
+  },
+  Object {
+    "code": "LAC",
+    "file": "./subject/LAC.json",
+    "title": "Lackeringsteknik",
+  },
+  Object {
+    "code": "LAG",
+    "file": "./subject/LAG.json",
+    "title": "Lager och terminal",
+  },
+  Object {
+    "code": "LAN",
+    "file": "./subject/LAN.json",
+    "title": "Lantbruksdjur",
+  },
+  Object {
+    "code": "LAU",
+    "file": "./subject/LAU.json",
+    "title": "Lantbruksmaskiner",
+  },
+  Object {
+    "code": "LAR",
+    "file": "./subject/LAR.json",
+    "title": "Larm och säkerhetsteknik",
+  },
+  Object {
+    "code": "LAS",
+    "file": "./subject/LAS.json",
+    "title": "Lastmaskiner och truckar inom naturbruk",
+  },
+  Object {
+    "code": "LAT",
+    "file": "./subject/LAT.json",
+    "title": "Latin – språk och kultur",
+  },
+  Object {
+    "code": "LED",
+    "file": "./subject/LED.json",
+    "title": "Ledarskap och organisation",
+  },
+  Object {
+    "code": "LIV",
+    "file": "./subject/LIV.json",
+    "title": "Livsmedels- och näringskunskap",
+  },
+  Object {
+    "code": "LJU",
+    "file": "./subject/LJU.json",
+    "title": "Ljudproduktion",
+  },
+  Object {
+    "code": "MAR",
+    "file": "./subject/MAR.json",
+    "title": "Måleri",
+  },
+  Object {
+    "code": "MÅT",
+    "file": "./subject/MÅT.json",
+    "title": "Måltids- och branschkunskap",
+  },
+  Object {
+    "code": "MÄN",
+    "file": "./subject/MÄN.json",
+    "title": "Människan",
+  },
+  Object {
+    "code": "MÄI",
+    "file": "./subject/MÄI.json",
+    "title": "Människan i industrin",
+  },
+  Object {
+    "code": "MÄS",
+    "file": "./subject/MÄS.json",
+    "title": "Människans säkerhet",
+  },
+  Object {
+    "code": "MÄK",
+    "file": "./subject/MÄK.json",
+    "title": "Människans språk",
+  },
+  Object {
+    "code": "MNU",
+    "file": "./subject/MNU.json",
+    "title": "Manuell mönsterkonstruktion",
+  },
+  Object {
+    "code": "MAI",
+    "file": "./subject/MAI.json",
+    "title": "Marin el och elektronik",
+  },
+  Object {
+    "code": "MAY",
+    "file": "./subject/MAY.json",
+    "title": "Marina elektroniksystem",
+  },
+  Object {
+    "code": "MAN",
+    "file": "./subject/MAN.json",
+    "title": "Marinmotorteknik",
+  },
+  Object {
+    "code": "MAS",
+    "file": "./subject/MAS.json",
+    "title": "Maskin- och lastbilsteknik",
+  },
+  Object {
+    "code": "MAK",
+    "file": "./subject/MAK.json",
+    "title": "Maskintjänst",
+  },
+  Object {
+    "code": "MAA",
+    "file": "./subject/MAA.json",
+    "title": "Massage",
+  },
+  Object {
+    "code": "MAO",
+    "file": "./subject/MAO.json",
+    "title": "Mat och butik",
+  },
+  Object {
+    "code": "MAC",
+    "file": "./subject/MAC.json",
+    "title": "Mat och dryck i kombination",
+  },
+  Object {
+    "code": "MÄT",
+    "file": "./subject/MÄT.json",
+    "title": "Mät-, styr- och reglerteknik",
+  },
+  Object {
+    "code": "MAT",
+    "file": "./subject/MAT.json",
+    "title": "Matematik",
+  },
+  Object {
+    "code": "MAE",
+    "file": "./subject/MAE.json",
+    "title": "Materialkunskap",
+  },
+  Object {
+    "code": "MAL",
+    "file": "./subject/MAL.json",
+    "title": "Matlagningskunskap",
+  },
+  Object {
+    "code": "MED",
+    "file": "./subject/MED.json",
+    "title": "Medicin",
+  },
+  Object {
+    "code": "MEI",
+    "file": "./subject/MEI.json",
+    "title": "Medicinsk teknik",
+  },
+  Object {
+    "code": "MEE",
+    "file": "./subject/MEE.json",
+    "title": "Mediekommunikation",
+  },
+  Object {
+    "code": "MEP",
+    "file": "./subject/MEP.json",
+    "title": "Medieproduktion",
+  },
+  Object {
+    "code": "MER",
+    "file": "./subject/MER.json",
+    "title": "Medier, samhälle och kommunikation",
+  },
+  Object {
+    "code": "MEK",
+    "file": "./subject/MEK.json",
+    "title": "Mekatronik",
+  },
+  Object {
+    "code": "MJK",
+    "file": "./subject/MJK.json",
+    "title": "Mjukvarudesign",
+  },
+  Object {
+    "code": "MOI",
+    "file": "./subject/MOI.json",
+    "title": "Mobila applikationer",
+  },
+  Object {
+    "code": "MOB",
+    "file": "./subject/MOB.json",
+    "title": "Mobila arbetsmaskiner",
+  },
+  Object {
+    "code": "MOD",
+    "file": "./subject/MOD.json",
+    "title": "Moderna språk",
+  },
+  Object {
+    "code": "MOE",
+    "file": "./subject/MOE.json",
+    "title": "Modersmål",
+  },
+  Object {
+    "code": "MOT",
+    "file": "./subject/MOT.json",
+    "title": "Motor- och röjmotorsåg",
+  },
+  Object {
+    "code": "MUR",
+    "file": "./subject/MUR.json",
+    "title": "Mur- och putsverk",
+  },
+  Object {
+    "code": "MUS",
+    "file": "./subject/MUS.json",
+    "title": "Musik",
+  },
+  Object {
+    "code": "MUI",
+    "file": "./subject/MUI.json",
+    "title": "Musikteori",
+  },
+  Object {
+    "code": "NÄT",
+    "file": "./subject/NÄT.json",
+    "title": "Näthandel",
+  },
+  Object {
+    "code": "NAT",
+    "file": "./subject/NAT.json",
+    "title": "Natur- och landskapsvård",
+  },
+  Object {
+    "code": "NAU",
+    "file": "./subject/NAU.json",
+    "title": "Naturbruk",
+  },
+  Object {
+    "code": "NAR",
+    "file": "./subject/NAR.json",
+    "title": "Naturbrukets byggnader",
+  },
+  Object {
+    "code": "NAG",
+    "file": "./subject/NAG.json",
+    "title": "Naturguidning",
+  },
+  Object {
+    "code": "NAK",
+    "file": "./subject/NAK.json",
+    "title": "Naturkunskap",
+  },
+  Object {
+    "code": "NAV",
+    "file": "./subject/NAV.json",
+    "title": "Naturvetenskaplig specialisering",
+  },
+  Object {
+    "code": "NAE",
+    "file": "./subject/NAE.json",
+    "title": "Naturvetenskaplig spets inom försöksverksamhet med riksrekryterande gymnasial spetsutbildning",
+  },
+  Object {
+    "code": "NAI",
+    "file": "./subject/NAI.json",
+    "title": "Nätverksteknik",
+  },
+  Object {
+    "code": "ODI",
+    "file": "./subject/ODI.json",
+    "title": "Odling i växthus",
+  },
+  Object {
+    "code": "PED",
+    "file": "./subject/PED.json",
+    "title": "Pedagogik",
+  },
+  Object {
+    "code": "PEA",
+    "file": "./subject/PEA.json",
+    "title": "Pedagogik i vård och omsorg",
+  },
+  Object {
+    "code": "PEG",
+    "file": "./subject/PEG.json",
+    "title": "Pedagogiskt arbete",
+  },
+  Object {
+    "code": "PER",
+    "file": "./subject/PER.json",
+    "title": "Personbilsteknik",
+  },
+  Object {
+    "code": "PES",
+    "file": "./subject/PES.json",
+    "title": "Persontransporter",
+  },
+  Object {
+    "code": "PLÅ",
+    "file": "./subject/PLÅ.json",
+    "title": "Plåtslageri",
+  },
+  Object {
+    "code": "PLT",
+    "file": "./subject/PLT.json",
+    "title": "Plåtslageriteknik",
+  },
+  Object {
+    "code": "PRO",
+    "file": "./subject/PRO.json",
+    "title": "Processautomation",
+  },
+  Object {
+    "code": "PRC",
+    "file": "./subject/PRC.json",
+    "title": "Processteknik – energi",
+  },
+  Object {
+    "code": "PRE",
+    "file": "./subject/PRE.json",
+    "title": "Processteknik – kemi",
+  },
+  Object {
+    "code": "PRI",
+    "file": "./subject/PRI.json",
+    "title": "Produktionsfilosofi",
+  },
+  Object {
+    "code": "PRD",
+    "file": "./subject/PRD.json",
+    "title": "Produktionskunskap",
+  },
+  Object {
+    "code": "PRU",
+    "file": "./subject/PRU.json",
+    "title": "Produktionsutrustning",
+  },
+  Object {
+    "code": "PRN",
+    "file": "./subject/PRN.json",
+    "title": "Produktionsutveckling",
+  },
+  Object {
+    "code": "PRK",
+    "file": "./subject/PRK.json",
+    "title": "Produktutveckling",
+  },
+  Object {
+    "code": "PRR",
+    "file": "./subject/PRR.json",
+    "title": "Programmering",
+  },
+  Object {
+    "code": "PSY",
+    "file": "./subject/PSY.json",
+    "title": "Psykiatri",
+  },
+  Object {
+    "code": "PSK",
+    "file": "./subject/PSK.json",
+    "title": "Psykologi",
+  },
+  Object {
+    "code": "REC",
+    "file": "./subject/REC.json",
+    "title": "Reception",
+  },
+  Object {
+    "code": "REL",
+    "file": "./subject/REL.json",
+    "title": "Religionskunskap",
+  },
+  Object {
+    "code": "REG",
+    "file": "./subject/REG.json",
+    "title": "Rengöringsservice",
+  },
+  Object {
+    "code": "REN",
+    "file": "./subject/REN.json",
+    "title": "Rennäring",
+  },
+  Object {
+    "code": "RES",
+    "file": "./subject/RES.json",
+    "title": "Reseproduktion och marknadsföring",
+  },
+  Object {
+    "code": "RIN",
+    "file": "./subject/RIN.json",
+    "title": "Ridning och körning",
+  },
+  Object {
+    "code": "SAE",
+    "file": "./subject/SAE.json",
+    "title": "Samernas kultur och historia",
+  },
+  Object {
+    "code": "SAH",
+    "file": "./subject/SAH.json",
+    "title": "Samhällsbyggande",
+  },
+  Object {
+    "code": "SAM",
+    "file": "./subject/SAM.json",
+    "title": "Samhällskunskap",
+  },
+  Object {
+    "code": "SAS",
+    "file": "./subject/SAS.json",
+    "title": "Samisk mat och matkultur",
+  },
+  Object {
+    "code": "SAI",
+    "file": "./subject/SAI.json",
+    "title": "Samiskt hantverk",
+  },
+  Object {
+    "code": "SAA",
+    "file": "./subject/SAA.json",
+    "title": "Sammanfogningsteknik",
+  },
+  Object {
+    "code": "SER",
+    "file": "./subject/SER.json",
+    "title": "Serveringskunskap",
+  },
+  Object {
+    "code": "SEV",
+    "file": "./subject/SEV.json",
+    "title": "Service och bemötande",
+  },
+  Object {
+    "code": "SEI",
+    "file": "./subject/SEI.json",
+    "title": "Serviceteknik – naturbruk",
+  },
+  Object {
+    "code": "SJO",
+    "file": "./subject/SJO.json",
+    "title": "Sjöfartssäkerhet",
+  },
+  Object {
+    "code": "SJU",
+    "file": "./subject/SJU.json",
+    "title": "Sjukvård",
+  },
+  Object {
+    "code": "SKO",
+    "file": "./subject/SKO.json",
+    "title": "Skog, mark och vatten",
+  },
+  Object {
+    "code": "SKM",
+    "file": "./subject/SKM.json",
+    "title": "Skogsmaskiner",
+  },
+  Object {
+    "code": "SKG",
+    "file": "./subject/SKG.json",
+    "title": "Skogsproduktion",
+  },
+  Object {
+    "code": "SKÖ",
+    "file": "./subject/SKÖ.json",
+    "title": "Skötsel av utemiljöer",
+  },
+  Object {
+    "code": "SNO",
+    "file": "./subject/SNO.json",
+    "title": "Snöfordonsteknik",
+  },
+  Object {
+    "code": "SOC",
+    "file": "./subject/SOC.json",
+    "title": "Socialt arbete",
+  },
+  Object {
+    "code": "SOI",
+    "file": "./subject/SOI.json",
+    "title": "Sociologi",
+  },
+  Object {
+    "code": "SPO",
+    "file": "./subject/SPO.json",
+    "title": "Spårfordon",
+  },
+  Object {
+    "code": "SPF",
+    "file": "./subject/SPF.json",
+    "title": "Spårfordonsteknik",
+  },
+  Object {
+    "code": "SPE",
+    "file": "./subject/SPE.json",
+    "title": "Specialidrott",
+  },
+  Object {
+    "code": "SPC",
+    "file": "./subject/SPC.json",
+    "title": "Specialpedagogik",
+  },
+  Object {
+    "code": "SPA",
+    "file": "./subject/SPA.json",
+    "title": "Språk specialisering",
+  },
+  Object {
+    "code": "SPN",
+    "file": "./subject/SPN.json",
+    "title": "Sprinklerteknik",
+  },
+  Object {
+    "code": "STC",
+    "file": "./subject/STC.json",
+    "title": "Styckningskunskap",
+  },
+  Object {
+    "code": "SUP",
+    "file": "./subject/SUP.json",
+    "title": "Support och servicearbete",
+  },
+  Object {
+    "code": "SVE",
+    "file": "./subject/SVE.json",
+    "title": "Svenska",
+  },
+  Object {
+    "code": "SVN",
+    "file": "./subject/SVN.json",
+    "title": "Svenska för döva",
+  },
+  Object {
+    "code": "SVA",
+    "file": "./subject/SVA.json",
+    "title": "Svenska som andraspråk",
+  },
+  Object {
+    "code": "SVK",
+    "file": "./subject/SVK.json",
+    "title": "Svenskt teckenspråk",
+  },
+  Object {
+    "code": "SVT",
+    "file": "./subject/SVT.json",
+    "title": "Svenskt teckenspråk för hörande",
+  },
+  Object {
+    "code": "SYS",
+    "file": "./subject/SYS.json",
+    "title": "Systemkunskap",
+  },
+  Object {
+    "code": "SYT",
+    "file": "./subject/SYT.json",
+    "title": "Systemteknik – spårfordon",
+  },
+  Object {
+    "code": "TÄT",
+    "file": "./subject/TÄT.json",
+    "title": "Tätskikt våtrum",
+  },
+  Object {
+    "code": "TEA",
+    "file": "./subject/TEA.json",
+    "title": "Teater",
+  },
+  Object {
+    "code": "TEK",
+    "file": "./subject/TEK.json",
+    "title": "Teknik",
+  },
+  Object {
+    "code": "TEN",
+    "file": "./subject/TEN.json",
+    "title": "Teknik i vård och omsorg",
+  },
+  Object {
+    "code": "TEI",
+    "file": "./subject/TEI.json",
+    "title": "Teknisk isolering",
+  },
+  Object {
+    "code": "TEY",
+    "file": "./subject/TEY.json",
+    "title": "Tekniska system – el",
+  },
+  Object {
+    "code": "TES",
+    "file": "./subject/TES.json",
+    "title": "Tekniska system – VVS",
+  },
+  Object {
+    "code": "TIA",
+    "file": "./subject/TIA.json",
+    "title": "Tillämpad programmering",
+  },
+  Object {
+    "code": "TIL",
+    "file": "./subject/TIL.json",
+    "title": "Tillverkningsunderlag",
+  },
+  Object {
+    "code": "TRÄ",
+    "file": "./subject/TRÄ.json",
+    "title": "Trä",
+  },
+  Object {
+    "code": "TRD",
+    "file": "./subject/TRD.json",
+    "title": "Trädgårdsanläggning",
+  },
+  Object {
+    "code": "TRS",
+    "file": "./subject/TRS.json",
+    "title": "Trädgårdsmaskiner",
+  },
+  Object {
+    "code": "TRR",
+    "file": "./subject/TRR.json",
+    "title": "Trädgårdsodling",
+  },
+  Object {
+    "code": "TRF",
+    "file": "./subject/TRF.json",
+    "title": "Trafikövervakning och signalsystem – spårfordon",
+  },
+  Object {
+    "code": "TRN",
+    "file": "./subject/TRN.json",
+    "title": "Träningslära",
+  },
+  Object {
+    "code": "TRA",
+    "file": "./subject/TRA.json",
+    "title": "Transportteknik",
+  },
+  Object {
+    "code": "TRV",
+    "file": "./subject/TRV.json",
+    "title": "Travkunskap",
+  },
+  Object {
+    "code": "UND",
+    "file": "./subject/UND.json",
+    "title": "Underhållsteknik – flyg",
+  },
+  Object {
+    "code": "UTS",
+    "file": "./subject/UTS.json",
+    "title": "Utställningsdesign",
+  },
+  Object {
+    "code": "VAI",
+    "file": "./subject/VAI.json",
+    "title": "Våningsservice",
+  },
+  Object {
+    "code": "VÅR",
+    "file": "./subject/VÅR.json",
+    "title": "Vård och omsorg",
+  },
+  Object {
+    "code": "VAD",
+    "file": "./subject/VAD.json",
+    "title": "Vård och omsorg specialisering",
+  },
+  Object {
+    "code": "VAT",
+    "file": "./subject/VAT.json",
+    "title": "Vatten- och miljöteknik",
+  },
+  Object {
+    "code": "VAN",
+    "file": "./subject/VAN.json",
+    "title": "Vattenbruk",
+  },
+  Object {
+    "code": "VAE",
+    "file": "./subject/VAE.json",
+    "title": "Vattenkraftteknik",
+  },
+  Object {
+    "code": "VÄX",
+    "file": "./subject/VÄX.json",
+    "title": "Växtkunskap",
+  },
+  Object {
+    "code": "VAO",
+    "file": "./subject/VAO.json",
+    "title": "Växtodling",
+  },
+  Object {
+    "code": "VEI",
+    "file": "./subject/VEI.json",
+    "title": "Ventilation – installation",
+  },
+  Object {
+    "code": "VEL",
+    "file": "./subject/VEL.json",
+    "title": "Ventilation – plåtslageri",
+  },
+  Object {
+    "code": "VET",
+    "file": "./subject/VET.json",
+    "title": "Ventilationsteknik",
+  },
+  Object {
+    "code": "VEA",
+    "file": "./subject/VEA.json",
+    "title": "Verkstad – spårfordon",
+  },
+  Object {
+    "code": "VEK",
+    "file": "./subject/VEK.json",
+    "title": "Verktygs- och materialhantering",
+  },
+  Object {
+    "code": "VIS",
+    "file": "./subject/VIS.json",
+    "title": "Visuell kommunikation",
+  },
+  Object {
+    "code": "VVI",
+    "file": "./subject/VVI.json",
+    "title": "VVS – installation",
+  },
+  Object {
+    "code": "WES",
+    "file": "./subject/WES.json",
+    "title": "Webbserverprogrammering",
+  },
+  Object {
+    "code": "WEU",
+    "file": "./subject/WEU.json",
+    "title": "Webbutveckling",
+  },
+  Object {
+    "code": "YRK",
+    "file": "./subject/YRK.json",
+    "title": "Yrkesteknik – flyg",
+  },
+  Object {
+    "code": "YTT",
+    "file": "./subject/YTT.json",
+    "title": "Yttre miljö",
+  },
+]
+`;
