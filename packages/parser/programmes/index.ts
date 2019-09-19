@@ -20,7 +20,7 @@ export async function parseProgrammes(
   for (const programFile of programGlobs) {
     const data = await parseProgram(programFile, replacementsDirectory);
 
-    const relativeName = "./program/" + data.code + ".json";
+    const relativeName = "./program/p_" + data.code + ".json";
 
     const name = join(outputDirectory, relativeName);
     mkdirp(dirname(name));

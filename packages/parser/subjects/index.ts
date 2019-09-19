@@ -20,7 +20,7 @@ export async function parseSubjects(
   for (const subjectFile of subjectGlobs) {
     const data = await parseSubject(subjectFile, replacementsDirectory);
 
-    const relativeName = "./subject/" + data.code + ".json";
+    const relativeName = "./subject/s_" + data.code + ".json";
 
     const name = join(outputDirectory, relativeName);
     mkdirp(dirname(name));
