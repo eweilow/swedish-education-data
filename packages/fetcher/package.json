@@ -1,17 +1,17 @@
 {
   "name": "@education-data/fetcher",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.1-alpha.1",
   "private": true,
   "dependencies": {
+    "mkdirp": "^0.5.1",
     "node-fetch": "^2.6.0",
-    "tmp-promise": "^2.0.2",
     "tar": "^4.4.11",
-    "mkdirp": "^0.5.1"
+    "tmp-promise": "^2.0.2"
   },
   "devDependencies": {
+    "@types/mkdirp": "^0.5.2",
     "@types/node-fetch": "^2.5.1",
     "@types/tar": "^4.0.3",
-    "@types/mkdirp": "^0.5.2",
     "typescript": "^3.6.3"
   }
 }
