@@ -1,5 +1,3 @@
-import { readFileSync } from "fs";
-import { parseXML } from "../utils/parseXml";
 import { normalizeHTML } from "../utils/normalizeHtml";
 
 import { assert } from "chai";
@@ -10,21 +8,14 @@ import { join } from "path";
 import { setValueIfExists } from "../utils/setValueIfExists";
 import { checkTextEquality } from "../utils/matchText";
 
-export async function parseSubject(
-  name: string,
-  replacementsDirectory: string
-) {
-  const str = readFileSync(name, "utf-8");
-  const rawData = await parseXML(str);
-  const data = rawData.subject;
-
+export async function parseSubject(data: any, replacementsDirectory: string) {
   if (!/^\<p\>.*?\<\/p\>$/.test(data.description[0])) {
     console.warn(`subject ${data.code[0]} has malformed description`);
   }
 
   const subject = {
-    title: data.name[0],
-    code: data.code[0],
+    title: data.name[0].trim(),
+    code: data.code[0].trim(),
     developmentPurposes: [] as any[],
     purposes: [] as any[],
     courseInfo: {} as any,

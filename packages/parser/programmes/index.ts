@@ -1,8 +1,9 @@
 import { readGlobFiles } from "../utils/globMatch";
 import { parseProgram } from "./parse";
-import { writeFileSync } from "fs";
+import { writeFileSync, readFileSync } from "fs";
 import { sync as mkdirp } from "mkdirp";
 import { join, relative, dirname } from "path";
+import { parseXML } from "../utils/parseXml";
 
 export async function parseProgrammes(
   sourceDirectory: string,
@@ -11,6 +12,8 @@ export async function parseProgrammes(
 ) {
   mkdirp(outputDirectory);
 
+  const programmesMap = new Map<string, any>();
+
   const programGlobs = await readGlobFiles({
     directory: sourceDirectory,
     globStr: "**/program/*.xml"
@@ -18,7 +21,10 @@ export async function parseProgrammes(
 
   const programmes: any[] = [];
   for (const programFile of programGlobs) {
-    const data = await parseProgram(programFile, replacementsDirectory);
+    const str = readFileSync(programFile, "utf-8");
+    const rawData = await parseXML(str);
+
+    const data = await parseProgram(rawData.program, replacementsDirectory);
 
     const relativeName = "./program/p_" + data.code + ".json";
 
@@ -31,6 +37,7 @@ export async function parseProgrammes(
       title: data.title,
       file: relativeName
     });
+    programmesMap.set(data.code, data);
   }
 
   programmes.sort((a, b) => a.title.localeCompare(b.title));
@@ -38,4 +45,6 @@ export async function parseProgrammes(
     join(outputDirectory, "./programmes.json"),
     JSON.stringify(programmes, null, "  ")
   );
+
+  return programmesMap;
 }

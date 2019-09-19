@@ -1,8 +1,9 @@
 import { readGlobFiles } from "../utils/globMatch";
 import { parseSubject } from "./parse";
-import { writeFileSync } from "fs";
+import { writeFileSync, readFileSync } from "fs";
 import { sync as mkdirp } from "mkdirp";
 import { join, dirname } from "path";
+import { parseXML } from "../utils/parseXml";
 
 export async function parseSubjects(
   sourceDirectory: string,
@@ -11,6 +12,8 @@ export async function parseSubjects(
 ) {
   mkdirp(outputDirectory);
 
+  const subjectsMap = new Map<string, any>();
+
   const subjectGlobs = await readGlobFiles({
     directory: sourceDirectory,
     globStr: "**/subject/*.xml"
@@ -18,7 +21,10 @@ export async function parseSubjects(
 
   const subjects: any[] = [];
   for (const subjectFile of subjectGlobs) {
-    const data = await parseSubject(subjectFile, replacementsDirectory);
+    const str = readFileSync(subjectFile, "utf-8");
+    const rawData = await parseXML(str);
+
+    const data = await parseSubject(rawData.subject, replacementsDirectory);
 
     const relativeName = "./subject/s_" + data.code + ".json";
 
@@ -31,6 +37,7 @@ export async function parseSubjects(
       title: data.title,
       file: relativeName
     });
+    subjectsMap.set(data.code, data);
   }
 
   subjects.sort((a, b) => a.title.localeCompare(b.title));
@@ -38,4 +45,6 @@ export async function parseSubjects(
     join(outputDirectory, "./subjects.json"),
     JSON.stringify(subjects, null, "  ")
   );
+
+  return subjectsMap;
 }

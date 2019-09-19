@@ -1,5 +1,9 @@
 import { fetchSyllabus } from "@education-data/fetcher";
-import { parseProgrammes, parseSubjects } from "@education-data/parser";
+import {
+  parseProgrammes,
+  parseSubjects,
+  parseCourses
+} from "@education-data/parser";
 import { join } from "path";
 
 async function main() {
@@ -13,6 +17,20 @@ async function main() {
 
   console.info("\n[parsing subject data]");
   await parseSubjects(sourceDirectory, outputDirectory, replacementsDirectory);
+
+  console.info("\n[parsing course data]");
+  await parseCourses(
+    {
+      get(code: string) {
+        const subjects = require("./out/subjects.json");
+        const name = subjects.find(el => el.code === code);
+        return require(join(process.cwd(), "./out", name.file));
+      }
+    } as Map<string, any>,
+    sourceDirectory,
+    outputDirectory,
+    replacementsDirectory
+  );
 
   console.info("\n[parsing program data]");
   await parseProgrammes(

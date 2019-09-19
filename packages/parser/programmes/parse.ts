@@ -14,14 +14,7 @@ function warnNonEmptyArray(array: any[], message: string) {
   }
 }
 
-export async function parseProgram(
-  name: string,
-  replacementsDirectory: string
-) {
-  const str = readFileSync(name, "utf-8");
-  const rawData = await parseXML(str);
-  const data = rawData.program;
-
+export async function parseProgram(data: any, replacementsDirectory: string) {
   const urls = require(join(replacementsDirectory, "./program/urls.json"));
 
   const [

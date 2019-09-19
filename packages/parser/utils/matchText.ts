@@ -7,17 +7,22 @@ export function checkTextEquality(
 ): boolean {
   const leftText = $(left)
     .text()
-    .replace(/(\s|\n)+/g, " ");
+    .replace(/(\s|\n)+/g, " ")
+    .trim();
 
   let rightText = $(right)
     .text()
-    .replace(/(\s|\n)+/g, " ");
+    .replace(/(\s|\n)+/g, " ")
+    .trim();
 
   if (allowedDifference != null) {
     const diffText = $(allowedDifference)
       .text()
       .replace(/(\s|\n)+/g, " ");
-    rightText = rightText.replace(diffText, " ").replace(/(\s|\n)+/g, " ");
+    rightText = rightText
+      .replace(diffText, " ")
+      .replace(/(\s|\n)+/g, " ")
+      .trim();
   }
 
   if (leftText === rightText) {
