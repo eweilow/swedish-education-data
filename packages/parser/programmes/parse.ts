@@ -1,11 +1,9 @@
 import { parseXML } from "../utils/parseXml";
 import { normalizeHTML } from "../utils/normalizeHtml";
-import { checkTextEquality } from "../utils/matchText";
-import { setValueIfExists } from "../utils/setValueIfExists";
 
 import { assert } from "chai";
-import { readFileSync, existsSync } from "fs";
-import { join, relative, dirname } from "path";
+import { readFileSync } from "fs";
+import { join } from "path";
 import { readProgramOrientations } from "./orientations";
 import { getReplacements } from "../replacement";
 import { readProgramSubjects } from "./subjects";
