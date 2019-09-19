@@ -3,7 +3,7 @@ describe("programme data", () => {
 
   for (const { title, file } of allProgrammes) {
     test(`'${title}' parsed correctly`, () => {
-      const read = require(require("path").join(__dirname, "../", file));
+      const read = require(require("path").join(__dirname, "../out", file));
       expect(read).toMatchSnapshot();
     });
   }

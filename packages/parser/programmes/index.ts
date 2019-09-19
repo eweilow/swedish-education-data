@@ -1,13 +1,16 @@
 import { readGlobFiles } from "../utils/globMatch";
 import { parseProgram } from "./parse";
 import { writeFileSync } from "fs";
-import { join } from "path";
+import { sync as mkdirp } from "mkdirp";
+import { join, relative, dirname } from "path";
 
 export async function parseProgrammes(
   sourceDirectory: string,
   outputDirectory: string,
   replacementsDirectory: string
 ) {
+  mkdirp(outputDirectory);
+
   const programGlobs = await readGlobFiles({
     directory: sourceDirectory,
     globStr: "**/program/*.xml"
@@ -17,15 +20,16 @@ export async function parseProgrammes(
   for (const programFile of programGlobs) {
     const data = await parseProgram(programFile, replacementsDirectory);
 
-    writeFileSync(
-      join(outputDirectory, data.code + ".json"),
-      JSON.stringify(data, null, "  ")
-    );
+    const relativeName = "./program/" + data.code + ".json";
+
+    const name = join(outputDirectory, relativeName);
+    mkdirp(dirname(name));
+    writeFileSync(name, JSON.stringify(data, null, "  "));
 
     programmes.push({
       code: data.code,
       title: data.title,
-      file: "./out/" + data.code + ".json"
+      file: relativeName
     });
   }
 
