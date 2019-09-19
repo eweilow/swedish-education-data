@@ -7,7 +7,8 @@
   },
   "scripts": {
     "build": "cd packages/data-swedish-gymnasium && yarn build",
-    "test": "cd packages/data-swedish-gymnasium && yarn test"
+    "test": "cd packages/data-swedish-gymnasium && yarn test",
+    "lerna-publish": "lerna publish prerelease --dist-tag latest"
   },
   "private": true,
   "devDependencies": {
