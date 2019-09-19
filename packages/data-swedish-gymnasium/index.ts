@@ -1,5 +1,5 @@
 import { fetchSyllabus } from "@education-data/fetcher";
-import { parseProgrammes } from "@education-data/parser";
+import { parseProgrammes, parseSubjects } from "@education-data/parser";
 import { join } from "path";
 
 async function main() {
