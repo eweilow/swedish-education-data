@@ -1,37 +1,20 @@
-const xml2js = require("xml2js");
-const assert = require("chai").assert;
-const glob = require("glob");
-const $ = require("cheerio");
+import { parseXML } from "./utils/parseXml";
+import { readGlobFiles } from "./utils/globMatch";
+import { normalizeHTML } from "./utils/normalizeHtml";
+import { checkTextEquality } from "./utils/matchText";
+import { setValueIfExists } from "./utils/setValueIfExists";
 
-function parseXML(str) {
-  return new Promise((resolve, reject) => {
-    xml2js.parseString(str, { explicitArray: true }, (err, result) => {
-      if (err) return reject(err);
-      resolve(result);
-    });
-  });
-}
+import { sync as mkdirp } from "mkdirp";
+import { assert } from "chai";
+import { readFileSync, existsSync, writeFileSync } from "fs";
+import { join, relative, dirname } from "path";
 
-const prettier = require("prettier");
-
-function normalizeHTML(html) {
-  return prettier
-    .format(html, {
-      parser: "html",
-      printWidth: 80,
-      tabWidth: 2,
-      useTabs: false
-    })
-    .replace("<p></p>", "")
-    .trim();
-}
-
-function readSubjects(inSubjects) {
+function readSubjects(inSubjects: any) {
   if (!inSubjects) {
     return { courses: [], subjects: [] };
   }
-  const courses = [];
-  const subjects = [];
+  const courses: any[] = [];
+  const subjects: any[] = [];
 
   for (const subject of inSubjects) {
     if (typeof subject !== "object") {
@@ -40,7 +23,7 @@ function readSubjects(inSubjects) {
     const name = subject.name[0];
     const code = subject.code[0];
     const point = subject.point != null ? parseInt(subject.point[0], 10) : 0;
-    const subjectCourses = [];
+    const subjectCourses: any[] = [];
 
     let coursePoints = 0;
     for (const course of subject.course || []) {
@@ -64,21 +47,13 @@ function readSubjects(inSubjects) {
   };
 }
 
-function setValueIfExists(value, assertValue, assign) {
-  if (value != null) {
-    if (assertValue(value)) {
-      assign(value);
-    } else {
-      throw new Error(`Manual replacement value does not assert to true`);
-    }
-  }
-}
-async function parseProgram(name) {
-  const str = require("fs").readFileSync(name, "utf-8");
+async function parseProgram(name: string) {
+  const str = readFileSync(name, "utf-8");
+
   const rawData = await parseXML(str);
   const data = rawData.program;
 
-  const urls = require(path.join(process.cwd(), "./manual/program/urls.json"));
+  const urls = require(join(process.cwd(), "./manual/program/urls.json"));
 
   // console.log();
   // console.log();
@@ -181,19 +156,13 @@ async function parseProgram(name) {
                 typeof el.profSpecialization[0] !== "string"
               ) {
                 console.warn(
-                  `warning: Orientation ${
-                    el.programOrientationCode[0]
-                  } in program ${
-                    data.code[0]
-                  } has non-empty <profSpecialization/>`
+                  `warning: Orientation ${el.programOrientationCode[0]} in program ${data.code[0]} has non-empty <profSpecialization/>`
                 );
               }
 
               if (el.subject == null) {
                 console.warn(
-                  `warning: Orientation ${
-                    el.programOrientationCode[0]
-                  } in program ${data.code[0]} has empty <subject/>`
+                  `warning: Orientation ${el.programOrientationCode[0]} in program ${data.code[0]} has empty <subject/>`
                 );
               }
 
@@ -209,22 +178,20 @@ async function parseProgram(name) {
 
   let manualReplacements = {};
 
-  const replacementFile = path.join(
+  const replacementFile = join(
     process.cwd(),
     "./manual",
-    path.join(
-      path.dirname(
-        path.relative(path.join(process.cwd(), "./src/gyP1_7_S1_4"), name)
-      ),
+    join(
+      dirname(relative(join(process.cwd(), "./data/gyP1_7_S1_4"), name)),
       program.code + ".json"
     )
   );
 
-  const found = fs.existsSync(replacementFile);
+  const found = existsSync(replacementFile);
 
   if (found) {
     console.log(
-      `Replacement ${path.relative(
+      `Replacement ${relative(
         process.cwd(),
         replacementFile
       )}: found replacements`
@@ -237,15 +204,7 @@ async function parseProgram(name) {
 
   setValueIfExists(
     manualReplacements["program.info.orientation.html"],
-    value => {
-      const left = $.load(program.info.orientation.html)
-        .text()
-        .replace(/(\s|\n)+/g, " ");
-      const right = $.load(value.join("\n"))
-        .text()
-        .replace(/(\s|\n)+/g, " ");
-      return left === right;
-    },
+    value => checkTextEquality(program.info.orientation.html, value.join("\n")),
     value => {
       program.info.orientation.html = normalizeHTML(value.join("\n"));
     }
@@ -318,36 +277,20 @@ async function parseProgram(name) {
   return program;
 }
 
-function readGlobFiles(...array) {
-  let globPromises = [];
-  for (let [directory, globStr, tag = false] of array) {
-    globPromises.push(
-      new Promise((resolve, reject) => {
-        glob(globStr, { cwd: directory, root: directory }, (err, files) => {
-          if (err) return reject(err);
+export async function run() {
+  const directory = "./data/gyP1_7_S1_4";
+  const programGlobs = await readGlobFiles({
+    directory: join(process.cwd(), directory),
+    globStr: "**/program/*.xml"
+  });
 
-          resolve(files.map(file => path.join(directory, file)));
-        });
-      })
-    );
-  }
-  return Promise.all(globPromises).then(arr => [].concat(...arr));
-}
+  mkdirp("./out");
 
-const fs = require("fs");
-const path = require("path");
-async function run() {
-  const directory = "./src/gyP1_7_S1_4";
-  const programGlobs = await readGlobFiles([
-    path.join(process.cwd(), directory),
-    "**/program/*.xml"
-  ]);
-
-  const programmes = [];
+  const programmes: any[] = [];
   for (const glob of programGlobs) {
     const data = await parseProgram(glob);
 
-    fs.writeFileSync(
+    writeFileSync(
       "./out/" + data.code + ".json",
       JSON.stringify(data, null, "  ")
     );
@@ -360,10 +303,8 @@ async function run() {
   }
 
   programmes.sort((a, b) => a.title.localeCompare(b.title));
-  fs.writeFileSync(
+  writeFileSync(
     "./out/programmes.json",
     JSON.stringify(programmes, null, "  ")
   );
 }
-
-run().catch(err => console.error(err));

@@ -4,7 +4,8 @@
     "access": "public"
   },
   "scripts": {
-    "build": "node index.js",
+    "build": "ts-node index.ts",
+    "dev": "ts-node-dev --cls --respawn --transpileOnly index.ts",
     "test": "jest"
   },
   "version": "0.0.1-alpha.0",
@@ -14,6 +15,10 @@
   "license": "GPL-3.0",
   "devDependencies": {
     "@education-data/parser": "^0.0.1-alpha.0",
-    "jest": "^24.9.0"
+    "@education-data/fetcher": "^0.0.1-alpha.0",
+    "jest": "^24.9.0",
+    "ts-node": "^8.4.1",
+    "ts-node-dev": "^1.0.0-pre.42",
+    "typescript": "^3.6.3"
   }
 }

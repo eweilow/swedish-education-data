@@ -1,5 +1,5 @@
 **/node_modules
 \.vscode/settings\.json
 
-packages/export/out
-packages/export/src
+packages/**/out
+packages/**/data
