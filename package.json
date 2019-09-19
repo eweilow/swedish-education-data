@@ -5,6 +5,10 @@
       "packages/**"
     ]
   },
+  "scripts": {
+    "build": "cd packages/data-swedish-gymnasium && yarn build",
+    "test": "cd packages/data-swedish-gymnasium && yarn test"
+  },
   "private": true,
   "devDependencies": {
     "lerna": "^3.10.7",
