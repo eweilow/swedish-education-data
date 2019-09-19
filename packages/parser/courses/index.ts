@@ -32,7 +32,7 @@ export async function parseCourses(
         replacementsDirectory
       );
 
-      const relativeName = "./courses/c_" + data.code + ".json";
+      const relativeName = "./course/c_" + data.code + ".json";
 
       const name = join(outputDirectory, relativeName);
       mkdirp(dirname(name));
