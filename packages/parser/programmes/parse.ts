@@ -125,7 +125,7 @@ export async function parseProgram(
   };
 
   const manualReplacements = await getReplacements(
-    join(replacementsDirectory, "./program", program.code + ".json")
+    join(replacementsDirectory, "./program", "p_" + program.code + ".json")
   );
   readProgramOrientations(manualReplacements, data, program);
 

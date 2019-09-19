@@ -39,7 +39,7 @@ export async function parseSubject(
   };
 
   const manualReplacements = await getReplacements(
-    join(replacementsDirectory, "./subject", subject.code + ".json")
+    join(replacementsDirectory, "./subject", "s_" + subject.code + ".json")
   );
 
   let purpose = normalizeHTML(data.purpose[0]).split("\n");
