@@ -201,11 +201,11 @@ Object {
     "ANLANÄ0": "Anläggning – ledningsbyggnad, 200 poäng, som bygger på kursen anläggning 2 eller kursen anläggningsförare 2.",
   },
   "courses": Array [
-    "ANLANL01",
-    "ANLANL02",
-    "ANLANL0",
     "ANLANÄ0",
     "ANLANG0",
+    "ANLANL0",
+    "ANLANL01",
+    "ANLANL02",
     "ANLANN0",
     "ANLANS0",
   ],
@@ -286,8 +286,8 @@ Object {
     "ARKARK0": "Arkitektur – hus, 100 poäng.",
   },
   "courses": Array [
-    "ARKARK0",
     "ARKARI0",
+    "ARKARK0",
   ],
   "description": "Ämnet arkitektur behandlar den byggda miljön, såväl den yttre som den inre. Det är till sin karaktär tvärvetenskapligt, och det är främst kunskaper i teknik och estetik som samverkar. Arkitektur är bundet till plats och samhälleliga förutsättningar och förstås därför bäst i ett socialt och kulturellt sammanhang. Ämnet behandlar grundläggande mänskliga behov i relation till den byggda miljön såväl historiskt som i nutid och för framtiden.",
   "developmentPurposes": Array [
@@ -434,9 +434,9 @@ Object {
     "BELBEÄ0": "Beläggningsarbeten, 100 poäng.",
   },
   "courses": Array [
-    "BELBEL0",
     "BELBEÄ0",
     "BELBEG0",
+    "BELBEL0",
   ],
   "description": "Ämnet beläggning behandlar beläggningsarbete, från tillverkning av asfalt till det att vägobjektet är färdigt att brukas. I samhället ställs allt högre krav på vägars utformning och kvalitet. Aspekter på både säkerhet och miljö måste finnas med redan i planeringsstadiet.",
   "developmentPurposes": Array [
@@ -474,10 +474,10 @@ Object {
     "BERBER0": "Bergarbeten, 200 poäng, som bygger på kursen anläggning 2.",
   },
   "courses": Array [
-    "BERBER0",
     "BERBEB0",
     "BERBEM0",
     "BERBEP0",
+    "BERBER0",
   ],
   "description": "Ämnet berghantering behandlar borrning och sprängning av bergmaterial för såväl ledningar, vägar och tunnlar till industriell verksamhet som gruvor och större dagbrott. Det behandlar även bergsprängning för nya väg- och järnvägstunnlar samt för vatten- och avloppssystem.",
   "developmentPurposes": Array [
@@ -1026,8 +1026,8 @@ Object {
     "DAGSCE0": "Scenisk verksamhet för yrkesdansare, 100 poäng.",
   },
   "courses": Array [
-    "DAGDAS0",
     "DAGDAN0",
+    "DAGDAS0",
     "DAGPAS0",
     "DAGREP0",
     "DAGSCE0",
@@ -1073,10 +1073,10 @@ Object {
     "DANREE0": "Repertoar, 100 poäng.",
   },
   "courses": Array [
+    "DANDAI0",
     "DANDAN01",
     "DANDAN02",
     "DANDAS0",
-    "DANDAI0",
     "DANKOO0",
     "DANREE0",
   ],
@@ -1200,12 +1200,12 @@ Object {
     "DATDAS04S": "Dansteknik 4, 100 poäng, som bygger på kursen dansteknik 3. Kursen kan läsas flera gånger med olika innehåll.",
   },
   "courses": Array [
+    "DATDAN00S",
+    "DATDAR0",
     "DATDAS01S",
     "DATDAS02S",
     "DATDAS03S",
     "DATDAS04S",
-    "DATDAN00S",
-    "DATDAR0",
   ],
   "description": "Ämnet dansteknik är till sin karaktär konstnärligt och innefattar träning i olika genrer och stilar inom scenkonstnärlig dans. Genrerna kan vara historiska eller samtida. Ämnet innefattar även hälsoaspekter med anatomi och träningslära och den delen av ämnet är till sin karaktär delvis naturvetenskaplig.",
   "developmentPurposes": Array [
@@ -1452,9 +1452,9 @@ Object {
     "DESDES02": "Design 2, 100 poäng, som bygger på kursen design 1.",
   },
   "courses": Array [
+    "DESDES0",
     "DESDES01",
     "DESDES02",
-    "DESDES0",
   ],
   "description": "Ämnet design behandlar den arbetsprocess där man medvetet och innovativt utvecklar produkter så att de uppfyller målgruppens funktionella och estetiska krav. Ibland är design ett led i att utveckla och ta fram ett föremål. I andra sammanhang handlar det om att pröva och utveckla en idé, upplevelse eller tjänst. Design utgår ofta från ett problem eller uppdrag, där behovet är att produkten dels ska kunna tillverkas, distribueras samt ingå i och konkurrera på en marknad, dels ska vara etiskt och estetiskt gångbar samt miljömässigt hållbar.",
   "developmentPurposes": Array [
@@ -1555,10 +1555,10 @@ Object {
     "DJUSÄL02": "Sällskapsdjur 2, 100 poäng, som bygger på kursen sällskapsdjur 1.",
   },
   "courses": Array [
-    "DJUDJI0",
-    "DJUDJU00S",
-    "DJUDJR0",
     "DJUDJH0",
+    "DJUDJI0",
+    "DJUDJR0",
+    "DJUDJU00S",
     "DJUSÄL01",
     "DJUSÄL02",
   ],
@@ -1674,16 +1674,16 @@ Object {
   "courses": Array [
     "DRIAVH01",
     "DRIAVH02",
+    "DRIUNÅ0",
     "DRIUND0",
     "DRIUNE0",
-    "DRIUNR0",
     "DRIUNH0",
-    "DRIUNÅ0",
     "DRIUNL0",
-    "DRIUNP0",
     "DRIUNO0",
-    "DRIUNU0",
+    "DRIUNP0",
+    "DRIUNR0",
     "DRIUNT0",
+    "DRIUNU0",
     "DRIUNV0",
   ],
   "description": "Ämnet driftsäkerhet och underhåll handlar om hur ett välutvecklat underhåll får teknisk utrustning att fungera på ett optimalt sätt. Det behandlar tekniska utrustningars uppbyggnad, funktion och styrning samt hur man med hjälp av tekniska och organisatoriska åtgärder kan lösa drifttekniska problem. Ämnet behandlar också förbättringsprocessens betydelse.",
@@ -1721,8 +1721,8 @@ Object {
   },
   "courses": Array [
     "DRYBAT0",
-    "DRYDRY0",
     "DRYDRC0",
+    "DRYDRY0",
     "DRYDRY00S",
   ],
   "description": "Ämnet dryckeskunskap behandlar tillredning och servering av varma, kalla, alkoholfria och alkoholhaltiga drycker. Ämnet tar även upp dryckestraditioner och behandlar lagar och andra bestämmelser som gäller för servering av alkoholhaltiga drycker.",
@@ -1829,10 +1829,10 @@ Object {
     "ELDBEY0",
     "ELDHÖG0",
     "ELDLÅS0",
+    "ELDNÄD0",
+    "ELDNÄN0",
     "ELDNÄT0",
     "ELDNÄU0",
-    "ELDNÄN0",
-    "ELDNÄD0",
   ],
   "description": "Ämnet eldistributionsteknik behandlar eldistributionsnät och tillhörande anläggningar samt felsökning och felavhjälpning i befintliga anläggningar. Dessutom behandlas säkerhetsfrågor eftersom eldistributionsanläggningar ofta arbetar med höga spänningar och stora effekter, vilket gör att ett misstag kan orsaka stora skador både på person och på egendom.",
   "developmentPurposes": Array [
@@ -2002,8 +2002,8 @@ Object {
   "courses": Array [
     "ELRANT0",
     "ELRDAA0",
-    "ELRELK0",
     "ELRELF0",
+    "ELRELK0",
   ],
   "description": "Ämnet elektroteknik behandlar enklare installationer och elarbeten på elanläggningar samt vanligt verkstadsarbete inom området. I allt arbete med elektricitet är säkerhetsfrågor centrala eftersom ett misstag kan orsaka stora skador både på personer och på egendom.",
   "developmentPurposes": Array [
@@ -2617,8 +2617,8 @@ Object {
   },
   "courses": Array [
     "FASFAE0",
-    "FASFAS0",
     "FASFAH0",
+    "FASFAS0",
     "FASFAV0",
   ],
   "description": "Ämnet fastighetsservice behandlar de faktorer som påverkar behovet av fortlöpande och effektivt underhåll av fastighetsbestånd. Det behandlar också hur fastighetsunderhåll planeras, genomförs och dokumenteras. I ämnet behandlas dessutom ergonomiska, miljömässiga, säkerhetsmässiga och sociala aspekter.",
@@ -2654,9 +2654,9 @@ Object {
     "FILTVP0": "Tv-produktion, 100 poäng, som bygger på kursen film- och tv-produktion 2.",
   },
   "courses": Array [
+    "FILFIL0",
     "FILFIL01",
     "FILFIL02",
-    "FILFIL0",
     "FILMAN0",
     "FILTVP0",
   ],
@@ -2818,8 +2818,8 @@ Object {
     "FLGFLY0": "Flygplatsen, 200 poäng.",
   },
   "courses": Array [
-    "FLGFLY0",
     "FLGFAL0",
+    "FLGFLY0",
   ],
   "description": "Ämnet flygplatsteknik behandlar flygplatsen som arbetsplats och de olika verksamheter som förekommer på en flygplats. I ämnet betonas säkerhets- och miljöaspekter.",
   "developmentPurposes": Array [
@@ -2865,10 +2865,10 @@ Object {
   "courses": Array [
     "FLYAER0",
     "FLYDII0",
-    "FLYELT0",
     "FLYELL0",
-    "FLYFLY0",
+    "FLYELT0",
     "FLYFLG0",
+    "FLYFLY0",
     "FLYGAT0",
     "FLYHEL0",
     "FLYKOL0",
@@ -3117,8 +3117,8 @@ Object {
   "courses": Array [
     "FRIBAD0",
     "FRIDRF0",
-    "FRIFRT0",
     "FRIFRS0",
+    "FRIFRT0",
   ],
   "description": "Ämnet fritids- och friskvårdsverksamheter är tvärvetenskapligt och har sin grund i fritidsvetenskap, hälsovetenskap, ekonomi och pedagogik. Det behandlar arbetsuppgifter och yrkesroller samt fritids- och friskvårdsverksamheternas roll i samhället.",
   "developmentPurposes": Array [
@@ -3180,8 +3180,8 @@ Object {
     "FRDPLA0": "Plast- och lamineringsteknik, 100 poäng.",
   },
   "courses": Array [
-    "FRDBAT0 ",
     "FRDBAS0 ",
+    "FRDBAT0 ",
     "FRDKON01",
     "FRDKON02",
     "FRDPLA0",
@@ -3367,9 +3367,9 @@ Object {
     "GEOGEO02": "Geografi 2, 100 poäng, som bygger på kursen geografi 1.",
   },
   "courses": Array [
+    "GEOGEO0",
     "GEOGEO01",
     "GEOGEO02",
-    "GEOGEO0",
   ],
   "description": "Geografisk kunskap har sitt ursprung i människans behov av att upptäcka och förstå sin omvärld och kunna orientera sig i den. Ämnet geografi är till sin karaktär tvärvetenskapligt och i ämnet integreras naturvetenskap och samhällsvetenskap utifrån en systemsyn. Det behandlar människans livsvillkor, naturmiljö och samhälle samt miljöförändringar i olika delar av världen över tid. I ämnet behandlas också frågor om hållbar utveckling och samhällets sårbarhet.",
   "developmentPurposes": Array [
@@ -3401,8 +3401,8 @@ Object {
     "GERÄLD0": "Äldres hälsa och livskvalitet, 200 poäng, som bygger på kursen vård- och omsorgsarbete 2.",
   },
   "courses": Array [
-    "GERVÅR0",
     "GERÄLD0",
+    "GERVÅR0",
   ],
   "description": "Gerontologi är läran om det normala fysiska, psykiska och sociala åldrandet och om de åldersrelaterade förändringar som sker hos människan från det att hon uppnått mogen ålder till dess att hon dör. Geriatrik definieras som läran om orsaker, symtom, diagnos och behandling av sjukdomar hos äldre. Ämnet gerontologi och geriatrik behandlar vård och omsorg om den äldre individen utifrån en helhetssyn.",
   "developmentPurposes": Array [
@@ -3551,13 +3551,13 @@ Object {
     "GRAGRV0": "Grafisk illustration i vektorgrafik, 100 poäng.",
   },
   "courses": Array [
-    "GRAGRI0",
-    "GRAGRP0",
-    "GRAGRV0",
+    "GRAGRA0",
     "GRAGRA01",
     "GRAGRA02",
-    "GRAGRA0",
+    "GRAGRI0",
+    "GRAGRP0",
     "GRAGRR0",
+    "GRAGRV0",
   ],
   "description": "Grafisk kommunikation har alltid förekommit, från grottmålningar och de första skriftsystemen, via handgjorda böcker, över Gutenbergs tryckteknik till dagens digitala kommunikation. I dag är samhället fyllt av visuella budskap med allt från trafikmärken, filmaffischer och informationsskyltar i det offentliga samhället till dagstidningar, livsmedelsförpackningar och postorderkataloger i hemmet. Ämnet grafisk kommunikation behandlar visuella budskap och hur de framställs för olika syften och sammanhang. Dessutom behandlar ämnet hur de grafiska idéernas gestaltning påverkar journalistik, information och reklam samt uttrycksformer inom design- och kultursektorn.",
   "developmentPurposes": Array [
@@ -3657,8 +3657,8 @@ Object {
     "GRÄGRÄ0": "Gränssnittsdesign, 100 poäng.",
   },
   "courses": Array [
-    "GRÄGRN0",
     "GRÄGRÄ0",
+    "GRÄGRN0",
   ],
   "description": "Ämnet gränssnittsdesign behandlar interaktionen mellan dator och människa med fokus på designaspekterna i utveckling av användbara, tillgängliga och tilltalande gränssnitt.",
   "developmentPurposes": Array [
@@ -3893,8 +3893,8 @@ Object {
     "HVKTRA0": "Tradition och utveckling, 100 poäng.",
   },
   "courses": Array [
-    "HVKMAT0",
     "HVKMAE0",
+    "HVKMAT0",
     "HVKMIL0",
     "HVKTRA0",
   ],
@@ -3959,9 +3959,9 @@ Object {
     "HIOHIP0": "Hippologi – anatomi och fysiologi, 100 poäng, som bygger på kursen biologi 2.",
   },
   "courses": Array [
-    "HIOHIP0",
-    "HIOHIO0",
     "HIOHIL0",
+    "HIOHIO0",
+    "HIOHIP0",
   ],
   "description": "Ämnet hippologi behandlar hästen som biologisk varelse, samspelet mellan häst och människa samt hästens användning inom till exempel hästsport, fritidsverksamhet, rehabilitering och natur- och landskapsvård. Ämnet behandlar också hästens domesticering och historiska utveckling och användning. I ämnet ingår hästens etologi, anatomi, fysiologi, näringsbehov, hälsa samt reproduktion och avel. Dessutom behandlas etiska ställningstaganden samt lagar och andra bestämmelser som reglerar hästhållning.",
   "developmentPurposes": Array [
@@ -4032,8 +4032,8 @@ Object {
     "HJUHJU0": "Hjulutrustning – specialisering, 100 poäng, som bygger på kursen hjulutrustning och kan läsas flera gånger med olika innehåll.",
   },
   "courses": Array [
-    "HJUHJU0",
     "HJUHJT00S",
+    "HJUHJU0",
   ],
   "description": "Ämnet hjulutrustningsteknik behandlar den teknik som berör fordons hjulutrustning. Ämnet omfattar de kunskaper som behövs för reparation och byte av däck, fälgar och hjul samt detaljer på hjulupphängning, bromssystem och drivlina. Ämnet behandlar även material, arbetsmetoder, verktyg och andra hjälpmedel inom området.",
   "developmentPurposes": Array [
@@ -4206,10 +4206,10 @@ Object {
     "HUSHUS03": "Husbyggnad 3 – ombyggnad, 200 poäng, som bygger på kursen husbyggnad 2.",
   },
   "courses": Array [
+    "HUSHUB0",
     "HUSHUS01",
     "HUSHUS02",
     "HUSHUS03",
-    "HUSHUB0",
   ],
   "description": "Ämnet husbyggnad behandlar husbyggnadsprocessens alla stadier från projektering till det att objektet är färdigt att användas. Det behandlar även svensk byggtradition och arkitektur samt olika tidsepokers estetiska ideal.",
   "developmentPurposes": Array [
@@ -4433,10 +4433,10 @@ Object {
     "IDRIDR02": "Idrott och hälsa 2 – specialisering, 100 poäng, som bygger på kursen idrott och hälsa 1 – specialisering.",
   },
   "courses": Array [
-    "IDRIDR01",
     "IDRIDO01",
-    "IDRIDR02",
     "IDRIDO02",
+    "IDRIDR01",
+    "IDRIDR02",
   ],
   "description": "Idrott, friluftsliv och olika former av motion och rekreation har stor betydelse såväl för enskilda människors hälsa som för folkhälsan. Ämnet idrott och hälsa förvaltar ett kulturellt arv av fysiska aktiviteter och naturupplevelser. Det ger tillfälle att uppleva och förstå betydelsen av rörelseaktiviteter och deras samband med välbefinnande och hälsa. Färdigheter i och kunskaper om rörelseaktiviteter och hur olika livsstilsfaktorer påverkar människors hälsa är grundläggande för att människor ska kunna ta ansvar för sin hälsa.",
   "developmentPurposes": Array [
@@ -4505,9 +4505,9 @@ Object {
     "IDUTIL3": "Tillämpad automationsteknik, 100 poäng, som bygger på kursen industriell automationsteknik.",
   },
   "courses": Array [
-    "IDUPLC3",
-    "IDUIND3",
     "IDUIIT3",
+    "IDUIND3",
+    "IDUPLC3",
     "IDUROB3",
     "IDUTIL3",
   ],
@@ -4762,9 +4762,9 @@ Object {
     "INFPRG0": "Programhantering, 100 poäng, som bygger på kursen information och kommunikation 1.",
   },
   "courses": Array [
+    "INFINE0",
     "INFINF01",
     "INFINF02",
-    "INFINE0",
     "INFPRG0",
   ],
   "description": "Ämnet information och kommunikation behandlar såväl verbal som ickeverbal kommunikation i yrkessammanhang samt hur sociala medier används. Det handlar om hur man utformar dokument och effektivt behandlar information och texter.",
@@ -5191,10 +5191,10 @@ Object {
   },
   "courses": Array [
     "KONEVE0",
+    "KONKOF0",
     "KONKOF01",
     "KONKON02",
     "KONKON03",
-    "KONKOF0",
     "KONRUM0",
   ],
   "description": "Ämnet konferens och evenemang behandlar olika mötesformer, från möten med få deltagare och mindre konferenser till kongresser och stora evenemang. Mötesbranschens olika målgrupper har olika förväntningar på såväl lokalers utformning och teknisk utrustning som service, aktiviteter och andra tjänster.",
@@ -5418,10 +5418,10 @@ Object {
     "KYLKYV0": "Kyl- och värmepumpsteknik – service, 200 poäng, som bygger på kursen kyl- och värmepumpsteknik – grund.",
   },
   "courses": Array [
-    "KYLKYL0",
-    "KYLKYO0",
     "KYLKYC0",
     "KYLKYH0",
+    "KYLKYL0",
+    "KYLKYO0",
     "KYLKYV0",
   ],
   "description": "Att kyl- och värmepumpsanläggningar är installerade på ett riktigt sätt är väsentligt ur miljösynpunkt och för effektiv energihushållning. Ämnet kyl- och värmepumpsteknik behandlar systemförståelse av och processkännedom om kyl- och värmepumpar. Det är till sin karaktär delvis naturvetenskapligt eftersom mekanik och värmelära ingår.",
@@ -5465,9 +5465,9 @@ Object {
     "LACFÄR0",
     "LACINS0",
     "LACLAC0",
-    "LACLAR0",
-    "LACLAK0",
     "LACLAE0",
+    "LACLAK0",
+    "LACLAR0",
     "LACPRD0",
     "LACSMA0",
   ],
@@ -5965,12 +5965,12 @@ Object {
     "MASANP0",
     "MASARB0",
     "MASKOM0",
-    "MASLAT0",
     "MASLAI0",
+    "MASLAT0",
     "MASMAI0",
+    "MASMOB0",
     "MASMOB01",
     "MASMOB02",
-    "MASMOB0",
     "MASREP0",
     "MASSTY0",
   ],
@@ -6580,13 +6580,6 @@ Object {
     "MODZHO07": "Kinesiska 7, 100 poäng, som bygger på kursen kinesiska 6.",
   },
   "courses": Array [
-    "MODZHO01",
-    "MODZHO02",
-    "MODZHO03",
-    "MODZHO04",
-    "MODZHO05",
-    "MODZHO06",
-    "MODZHO07",
     "MODXXX01",
     "MODXXX02",
     "MODXXX03",
@@ -6594,6 +6587,13 @@ Object {
     "MODXXX05",
     "MODXXX06",
     "MODXXX07",
+    "MODZHO01",
+    "MODZHO02",
+    "MODZHO03",
+    "MODZHO04",
+    "MODZHO05",
+    "MODZHO06",
+    "MODZHO07",
   ],
   "description": "Moderna språk är ett ämne som kan innefatta en stor mängd språk. Dessa kan sinsemellan vara mycket olika vad gäller allt från skriftsystem och uttal till utbredning och användning inom skiftande sammanhang som vardagsliv, kultur, politik och utbildning. Kunskaper i flera språk ökar individens möjligheter att ingå i olika sociala och kulturella sammanhang och att delta i ett globaliserat studie- och arbetsliv. Kunskaper i moderna språk kan dessutom ge nya perspektiv på omvärlden, ökade möjligheter till kontakter och större förståelse för olika sätt att leva.",
   "developmentPurposes": Array [
@@ -6624,9 +6624,9 @@ Object {
     "MOEXXX02": "Modersmål 2, 100 poäng, som bygger på kursen modersmål 1.",
   },
   "courses": Array [
+    "MOEMOD0",
     "MOEXXX01",
     "MOEXXX02",
-    "MOEMOD0",
   ],
   "description": "Goda kunskaper i modersmålet gagnar lärandet av svenska, andra språk och andra ämnen i och utanför skolan. Ett rikt och varierat modersmål är betydelsefullt för att reflektera över, förstå, värdera och ta ställning till företeelser i omvärlden. Modersmålet är också en värdefull tillgång vid internationella kontakter.",
   "developmentPurposes": Array [
@@ -6743,18 +6743,18 @@ Object {
   },
   "courses": Array [
     "MUSBRU0",
+    "MUSENE0",
+    "MUSENS0",
     "MUSENS01",
     "MUSENS02S",
-    "MUSENS0",
-    "MUSENE0",
     "MUSINS01S",
     "MUSINS02S",
     "MUSINS03S",
     "MUSKÖS01",
     "MUSKÖS02S",
-    "MUSMUS0",
-    "MUSMUK0",
     "MUSMUI0",
+    "MUSMUK0",
+    "MUSMUS0",
     "MUSMUS01",
     "MUSMUS02",
     "MUSRYT0",
@@ -6965,8 +6965,8 @@ Object {
   },
   "courses": Array [
     "MÄTDIS0",
-    "MÄTMÄT0",
     "MÄTMÄO0",
+    "MÄTMÄT0",
     "MÄTPRR0",
   ],
   "description": "Ämnet mät-, styr- och reglerteknik behandlar metoder och arbetssätt för att styra och reglera tekniska komponenter, till exempel regulatorer och styrsystem. Arbete med styr- och reglerteknik har sin grund i industriell mätteknik och aktuatorer. I ämnet behandlas även säkerhetsfrågor som har en central roll i arbete med styr- och reglerteknik, eftersom misstag kan orsaka stora skador både på person och på egendom.",
@@ -7002,14 +7002,14 @@ Object {
     "MARMAR0": "Måleri – äldre måleritekniker, 100 poäng.",
   },
   "courses": Array [
+    "MARMAE0",
+    "MARMAL0",
     "MARMAL01",
     "MARMAL02",
     "MARMAL03",
     "MARMAL04",
     "MARMAL05",
-    "MARMAE0",
     "MARMAR0",
-    "MARMAL0",
   ],
   "description": "Ämnet måleri behandlar byggnadsmåleri från planering och utförande till det att objektet är färdigt att brukas. Det behandlar även färgens estetiska värden och skyddande egenskaper.",
   "developmentPurposes": Array [
@@ -7337,10 +7337,10 @@ Object {
   },
   "courses": Array [
     "NAIADM0",
-    "NAINAV0",
     "NAINAE0",
-    "NAINAR0",
     "NAINAK0",
+    "NAINAR0",
+    "NAINAV0",
   ],
   "description": "Ämnet nätverksteknik behandlar nätverksutrustning och it-systemlösningar samt övervakning för att uppnå hög driftsäkerhet inom nätverksområdet. Det behandlar också klienter och servrar samt hur övrig utrustning samverkar inom nätverksområdet. Dessutom behandlas programvara för både klienter och servrar samt administration av servertjänster i nätverksmiljö.",
   "developmentPurposes": Array [
@@ -7375,9 +7375,9 @@ Object {
     "ODIODL02": "Odling i växthus 2, 100 poäng, som bygger på kursen odling i växthus 1.",
   },
   "courses": Array [
+    "ODIODI00S",
     "ODIODL01",
     "ODIODL02",
-    "ODIODI00S",
   ],
   "description": "Växthus är i dag utrustade med avancerad teknik för styrning av klimat och övriga tillväxtfaktorer. För optimal produktion med hög kvalitet på de odlade produkterna krävs goda biologiska och tekniska kunskaper, kunskaper om olika växters krav samt kunskaper om växthuskonstruktioner och teknisk utrustning. Ämnet odling i växthus behandlar yrkesmässig produktion av prydnadsväxter och grönsaker i växthus. Dessutom behandlas kretsloppstänkande och övriga miljöaspekter i samband med odling och annan användning av växthus.",
   "developmentPurposes": Array [
@@ -7570,8 +7570,8 @@ Object {
   "courses": Array [
     "PESPER01a",
     "PESPER01b",
-    "PESPER1",
     "PESPER00S",
+    "PESPER1",
     "PESTAX0",
   ],
   "description": "Ämnet persontransporter behandlar yrkesmässiga vägtransporter med fordon som används för persontransporter. Det omfattar dels förarutbildning på fordon för persontransporter, dels säkerhet för passagerare.",
@@ -7692,10 +7692,10 @@ Object {
     "PROPRO0": "Processdatorsystem, 100 poäng, som bygger på kursen industriell informationsteknik. Dessutom bygger den på kursen processmätteknik 1 eller kursen processreglering.",
   },
   "courses": Array [
-    "PROPRO0",
     "PROPRC01",
     "PROPRC02",
     "PROPRE0",
+    "PROPRO0",
   ],
   "description": "Ämnet processautomation behandlar metoder och arbetssätt för mätning, insamling av mätdata, datahantering, datorkommunikation och reglering i automatiserade processanläggningar.",
   "developmentPurposes": Array [
@@ -7873,9 +7873,9 @@ Object {
     "PRUVEY0": "Verktygskunskap, 100 poäng.",
   },
   "courses": Array [
-    "PRUINU0",
     "PRUIND0",
     "PRUINE00S",
+    "PRUINU0",
     "PRUPRD01S",
     "PRUPRD02S",
     "PRUPRD03S",
@@ -8136,9 +8136,9 @@ Object {
     "RELREL02": "Religionskunskap 2, 50 poäng, som bygger på kursen religionskunskap 1.",
   },
   "courses": Array [
+    "RELREL0",
     "RELREL01",
     "RELREL02",
-    "RELREL0",
   ],
   "description": "Ämnet religionskunskap har sin vetenskapliga förankring främst i religionsvetenskapen men är till sin karaktär tvärvetenskapligt. Det behandlar hur religioner och livsåskådningar kommer till uttryck i ord och handling samt hur människor formulerar och förhåller sig till etiska och existentiella frågor. I ämnet behandlas trons och etikens betydelse för individers upplevelse av mening och tillhörighet.",
   "developmentPurposes": Array [
@@ -8204,10 +8204,10 @@ Object {
     "RENREN02": "Renen och dess naturmiljö 2, 100 poäng, som bygger på kursen renen och dess naturmiljö 1.",
   },
   "courses": Array [
-    "RENREN01",
-    "RENREN02",
     "RENREE01",
     "RENREE02",
+    "RENREN01",
+    "RENREN02",
   ],
   "description": "Ämnet rennäring behandlar rennäringens betydelse för det samiska samhället. Det behandlar hur näringen är sammankopplad med den samiska kulturen och är bärare av en lång kulturell tradition och en samisk identitet. I ämnet behandlas vidare rennäringens symbolvärde för fortlevnaden av det samiska samhället.",
   "developmentPurposes": Array [
@@ -8246,8 +8246,8 @@ Object {
   "courses": Array [
     "RESHAL0",
     "RESMAS0",
-    "RESRES0",
     "RESREM0",
+    "RESRES0",
   ],
   "description": "Turismen är en viktig näring i stora delar av världen och omfattar flera verksamhetsområden inom besöks- och resenäringen: bo, äta, göra, resa och sälja. Både privatpersoners och företags behov av tjänster inom turismområdet växer och blir mer varierade. Det medför att resvägar och färdsätt ändras, att förväntningar på nya upplevelser ökar och att kraven på resmål, reseproduktion och service förändras. Ämnet reseproduktion och marknadsföring behandlar huvudsakligen produktion och försäljning av resor inom resenäringen.",
   "developmentPurposes": Array [
@@ -8289,10 +8289,10 @@ Object {
   "courses": Array [
     "RINKOR01",
     "RINKOR02",
+    "RINRID0",
     "RINRID01",
     "RINRID02",
     "RINRIN0",
-    "RINRID0",
   ],
   "description": "Ämnet ridning och körning behandlar träning i att rida och köra olika typer av hästar i olika åldrar och utbildningsstadier. I arbetet som hästskötare ingår att motionera och träna hästar och därför behandlar ämnet den träning som behövs för att kunna rida eller köra hästar i samband med hästskötsel. Ämnet behandlar också hästars reaktion och beteende vid ridning och körning samt kommunikation med hästar.",
   "developmentPurposes": Array [
@@ -8359,8 +8359,8 @@ Object {
   },
   "courses": Array [
     "SAHBIM0",
-    "SAHBYV0",
     "SAHBYC0",
+    "SAHBYV0",
     "SAHMIL0",
   ],
   "description": "Ämnet samhällsbyggande behandlar byggprocessens olika delar samt byggmaterial, byggnadsteknik och installationsteknik.",
@@ -8830,11 +8830,11 @@ Object {
     "SKGVIR0": "Virkeslära, 100 poäng, som bygger på kursen skogsskötsel 1.",
   },
   "courses": Array [
+    "SKGSKG00S",
     "SKGSKO01",
     "SKGSKO02",
-    "SKGSKG00S",
-    "SKGVIR0",
     "SKGVIK0",
+    "SKGVIR0",
   ],
   "description": "Ämnet skogsproduktion behandlar produktion av olika typer av virkesråvaror med hänsyn till skogens produktionsförmåga och en hållbar utveckling för skogen. Det behandlar också anläggning av ny skog, skötsel av ungskogar och avverkning av äldre skogar. I ämnet behandlas även virkets tekniska egenskaper och olika användningsområden. Dessutom behandlas produktion av skogsbränsle, specialiserad skogsskötsel och virkesmätning.",
   "developmentPurposes": Array [
@@ -8905,8 +8905,8 @@ Object {
   "courses": Array [
     "SNOPIM0",
     "SNOPIS0",
-    "SNOREP0",
     "SNOREE0",
+    "SNOREP0",
     "SNOSNO0",
   ],
   "description": "Ämnet snöfordonsteknik behandlar funktion hos samt handhavande och framförande av snöfordon. Det behandlar också tillsyn, felsökning, service och reparation av snöfordon. Ämnet behandlar vidare olika användningsområden för snöfordon.",
@@ -9010,10 +9010,10 @@ Object {
     "SPETRÄ03": "Tränings- och tävlingslära 3, 100 poäng, som bygger på kursen tränings- och tävlingslära 2 eller kursen träningslära 2. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen träningslära 3.",
   },
   "courses": Array [
-    "SPEIDT0",
     "SPEIDS01",
     "SPEIDS02",
     "SPEIDS03",
+    "SPEIDT0",
     "SPETRÄ01",
     "SPETRÄ02",
     "SPETRÄ03",
@@ -9119,9 +9119,9 @@ Object {
     "SPAXXX01b": "Språk specialisering – retorik 1b, 100 poäng, som bygger på någon av kurserna engelska 5, moderna språk 5 eller modersmål 1. Kursen kan läsas flera gånger i olika språk. I ett och samma språk kan endast betyg i en av kurserna språk specialisering – retorik 1b eller språk specialisering – retorik 1a ingå i elevens examen.",
   },
   "courses": Array [
+    "SPAXXX0",
     "SPAXXX01a",
     "SPAXXX01b",
-    "SPAXXX0",
   ],
   "description": "Ämnet språk specialisering möjliggör en fördjupning inom ett specifikt färdighetsområde i ett annat språk än svenska. Ämnet ger möjlighet till fördjupade kunskaper och färdigheter när det gäller språk, genre, arbetsprocesser samt språkets användning. En utvecklad förmåga att kreativt, varierat och med säkerhet använda språket och uttrycka sin personlighet, sina erfarenheter, kunskaper och åsikter ökar individens möjligheter att ingå i olika sociala och kulturella sammanhang och i ett globaliserat studie- och arbetsliv.",
   "developmentPurposes": Array [
@@ -9475,9 +9475,9 @@ Object {
     "SVKSVK02": "Svenskt teckenspråk 2, 100 poäng, som bygger på kursen svenskt teckenspråk 1.",
   },
   "courses": Array [
+    "SVKSVE0",
     "SVKSVK01",
     "SVKSVK02",
-    "SVKSVE0",
   ],
   "description": "Ett välutvecklat teckenspråk är av betydelse för dövas och hörselskadades lärande i och utanför skolan. När språket utvecklas ökar förmågan att reflektera över, förstå, värdera och ta ställning till företeelser i omvärlden.",
   "developmentPurposes": Array [
@@ -9597,9 +9597,9 @@ Object {
     "TEASCE01",
     "TEASCE02",
     "TEASCE03",
+    "TEASCE00S",
     "TEASCI0",
     "TEASCN0",
-    "TEASCE00S",
     "TEATEA0",
   ],
   "description": "Teater handlar om mötet mellan aktörer och publik, här och nu. Ämnet teater behandlar de konstnärliga uttrycksformer som kan samverka i en teaterföreställning, till exempel skådespeleri, regi och scenografi. Med hjälp av begrepp, teorier och metoder från dessa konstnärliga uttrycksformer skapas förståelse av teatern som form.",
@@ -9912,8 +9912,8 @@ Object {
     "TRAYRK1": "Yrkestrafik – vux, 300 poäng. Kursen får endast anordnas inom kommunal vuxenutbildning. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen yrkestrafik 1a eller kursen yrkestrafik 1b. Förkunskapskrav för att få delta i kursen är att eleven har körkort med behörigheten B.",
   },
   "courses": Array [
-    "TRAFOR0",
     "TRAFOD0",
+    "TRAFOR0",
     "TRAYRK01a",
     "TRAYRK01b",
     "TRAYRK1",
@@ -10095,9 +10095,9 @@ Object {
   },
   "courses": Array [
     "TRRTRA0",
+    "TRRTRA00S",
     "TRRTRD0",
     "TRRTRG0",
-    "TRRTRA00S",
   ],
   "description": "Odling av växter har stor betydelse för produktion av livsmedel, växtmaterial och råvaror av olika slag. Biologiskt kunnande i kombination med användning av modern teknik bidrar till en hög kvalitet på de odlade produkterna. Ämnet trädgårdsodling behandlar odling av prydnadsväxter, grönsaker, frukt, bär och plantskoleväxter. Det utgör också grunden för yrkesverksamhet inom anläggning, skötsel och underhåll av gröna miljöer.",
   "developmentPurposes": Array [
@@ -10271,11 +10271,11 @@ Object {
     "VVIENT0",
     "VVISAN01",
     "VVISAN02",
+    "VVIVAR01",
+    "VVIVAR02",
     "VVIVVG0",
     "VVIVVS0",
     "VVIVVT0",
-    "VVIVAR01",
-    "VVIVAR02",
   ],
   "description": "Ämnet VVS – installation behandlar uppbyggnad och funktion av värme- och sanitetstekniska installationer i byggnader och är till sin karaktär både praktiskt och teoretiskt. I ämnet läggs grunderna för hantverkskunnande, yrkesidentitet och yrkesmässighet inom VVS. Branschens tekniska utveckling och betydelsen av en hållbar utveckling behandlas också.",
   "developmentPurposes": Array [
@@ -10316,8 +10316,8 @@ Object {
   "courses": Array [
     "VATDRI0",
     "VATREN0",
-    "VATVAT0",
     "VATVAR0",
+    "VATVAT0",
   ],
   "description": "Vatten är människans viktigaste livsmedel. Produktion och rening av vatten är livsviktigt både lokalt och globalt. Ämnet vatten- och miljöteknik behandlar drift, underhåll och service av anläggningar inom vatten- och miljöområdet. Det bygger på naturvetenskapliga principer eftersom en ekologisk grundsyn och kretsloppstänkande är viktigt inom området.",
   "developmentPurposes": Array [
@@ -10354,8 +10354,8 @@ Object {
   "courses": Array [
     "VANFIS01",
     "VANFIS02",
-    "VANVAT0",
     "VANVAE00S",
+    "VANVAT0",
   ],
   "description": "Ämnet vattenbruk behandlar odling av vattenlevande organismer. För en optimal produktion och hög kvalitet på de odlade produkterna krävs en kombination av biologiska, tekniska och ekonomiska kunskaper. I ämnet ingår skötselrutiner, foderbehov, vattenmiljöer för vattenbruk, produktkvalitet, produktförädling, ekonomi och teknisk utrustning. Vattenbrukets inverkan på miljön och biologisk mångfald ingår också i ämnet.",
   "developmentPurposes": Array [
@@ -10505,10 +10505,10 @@ Object {
     "VETVEL0": "Ventilationsteknik – injustering, 100 poäng.",
   },
   "courses": Array [
-    "VETLUF0",
-    "VETLUT0",
     "VETLUE0",
+    "VETLUF0",
     "VETLUS0",
+    "VETLUT0",
     "VETVEL0",
   ],
   "description": "Ämnet ventilationsteknik behandlar vikten av ett väl fungerande inomhusklimat och hur ett sådant kan uppnås när det gäller temperatur och ventilation. Det behandlar också på vilket sätt och med vilka hjälpmedel man optimerar driften av klimatanläggningar. Ämnet bygger till viss del på naturvetenskap eftersom mekaniska och termodynamiska faktorer är viktiga för luftbehandling.",
@@ -10631,9 +10631,9 @@ Object {
     "VÄXVÄX02": "Växtkunskap 2, 100 poäng, som bygger på kursen växtkunskap 1.",
   },
   "courses": Array [
+    "VÄXVÄK0",
     "VÄXVÄX01",
     "VÄXVÄX02",
-    "VÄXVÄK0",
   ],
   "description": "Ämnet växtkunskap behandlar de växter som används i park- och trädgårdsmiljöer. För att kunna välja och arbeta med växter i olika miljöer krävs goda art- och sortkunskaper samt kunskaper om växternas behov och funktion i olika sammanhang. Ämnet behandlar också biologiska och ekologiska samband mellan växter, mark, klimat och andra organismer.",
   "developmentPurposes": Array [
@@ -10903,8 +10903,8 @@ Object {
     "YTTYTT0": "Yttre miljö – anläggningar, 100 poäng.",
   },
   "courses": Array [
-    "YTTYTT0",
     "YTTYTR0",
+    "YTTYTT0",
   ],
   "description": "Ämnet yttre miljö behandlar planering, anläggning och bevarande av utomhusanläggningar och gröna ytor samt den teknik och utrustning som används för detta. Det behandlar också betydelsen av trivsamma och funktionella utemiljöer i fastighetsområden.",
   "developmentPurposes": Array [

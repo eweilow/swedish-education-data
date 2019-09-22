@@ -3,19 +3,14 @@
 exports[`programme data all programmes are correct 1`] = `
 Array [
   Object {
-    "code": "BF",
-    "file": "./program/p_BF.json",
-    "title": "Barn- och fritidsprogrammet",
-  },
-  Object {
     "code": "BA",
     "file": "./program/p_BA.json",
     "title": "Bygg- och anläggningsprogrammet",
   },
   Object {
-    "code": "EK",
-    "file": "./program/p_EK.json",
-    "title": "Ekonomiprogrammet",
+    "code": "BF",
+    "file": "./program/p_BF.json",
+    "title": "Barn- och fritidsprogrammet",
   },
   Object {
     "code": "EE",
@@ -23,14 +18,14 @@ Array [
     "title": "El- och energiprogrammet",
   },
   Object {
+    "code": "EK",
+    "file": "./program/p_EK.json",
+    "title": "Ekonomiprogrammet",
+  },
+  Object {
     "code": "ES",
     "file": "./program/p_ES.json",
     "title": "Estetiska programmet",
-  },
-  Object {
-    "code": "FX",
-    "file": "./program/p_FX.json",
-    "title": "Flygteknikutbildningen",
   },
   Object {
     "code": "FT",
@@ -38,14 +33,14 @@ Array [
     "title": "Fordons- och transportprogrammet",
   },
   Object {
+    "code": "FX",
+    "file": "./program/p_FX.json",
+    "title": "Flygteknikutbildningen",
+  },
+  Object {
     "code": "HA",
     "file": "./program/p_HA.json",
     "title": "Handels- och administrationsprogrammet",
-  },
-  Object {
-    "code": "HV",
-    "file": "./program/p_HV.json",
-    "title": "Hantverksprogrammet",
   },
   Object {
     "code": "HT",
@@ -58,6 +53,11 @@ Array [
     "title": "Humanistiska programmet",
   },
   Object {
+    "code": "HV",
+    "file": "./program/p_HV.json",
+    "title": "Hantverksprogrammet",
+  },
+  Object {
     "code": "IN",
     "file": "./program/p_IN.json",
     "title": "Industritekniska programmet",
@@ -68,14 +68,14 @@ Array [
     "title": "Marinteknikutbildningen",
   },
   Object {
-    "code": "NB",
-    "file": "./program/p_NB.json",
-    "title": "Naturbruksprogrammet",
-  },
-  Object {
     "code": "NA",
     "file": "./program/p_NA.json",
     "title": "Naturvetenskapsprogrammet",
+  },
+  Object {
+    "code": "NB",
+    "file": "./program/p_NB.json",
+    "title": "Naturbruksprogrammet",
   },
   Object {
     "code": "RL",
@@ -93,14 +93,14 @@ Array [
     "title": "Sjöfartsutbildningen",
   },
   Object {
-    "code": "TX",
-    "file": "./program/p_TX.json",
-    "title": "Tågteknikutbildningen",
-  },
-  Object {
     "code": "TE",
     "file": "./program/p_TE.json",
     "title": "Teknikprogrammet",
+  },
+  Object {
+    "code": "TX",
+    "file": "./program/p_TX.json",
+    "title": "Tågteknikutbildningen",
   },
   Object {
     "code": "UX",
@@ -108,14 +108,14 @@ Array [
     "title": "Utbildningen samiska näringar",
   },
   Object {
-    "code": "VO",
-    "file": "./program/p_VO.json",
-    "title": "Vård- och omsorgsprogrammet",
-  },
-  Object {
     "code": "VF",
     "file": "./program/p_VF.json",
     "title": "VVS- och fastighetsprogrammet",
+  },
+  Object {
+    "code": "VO",
+    "file": "./program/p_VO.json",
+    "title": "Vård- och omsorgsprogrammet",
   },
   Object {
     "code": "YX",
