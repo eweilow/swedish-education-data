@@ -16,16 +16,6 @@ async function main() {
   const outputDirectory = join(process.cwd(), "./out");
   const replacementsDirectory = join(process.cwd(), "./manual");
 
-  writeFileSync(
-    "./out/meta.json",
-    JSON.stringify({
-      fetchTime: new Date().toISOString(),
-      humanizedFetchTime: format(new Date(), "do LLLL, yyyy", {
-        locale: sv
-      })
-    })
-  );
-
   console.info("\n[fetching and extracting data]");
   await fetchSyllabus(dataDirectory);
 
@@ -51,6 +41,16 @@ async function main() {
     sourceDirectory,
     outputDirectory,
     replacementsDirectory
+  );
+
+  writeFileSync(
+    "./out/meta.json",
+    JSON.stringify({
+      fetchTime: new Date().toISOString(),
+      humanizedFetchTime: format(new Date(), "do LLLL, yyyy", {
+        locale: sv
+      })
+    })
   );
 }
 
