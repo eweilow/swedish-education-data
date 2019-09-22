@@ -5,12 +5,26 @@ import {
   parseCourses
 } from "@education-data/parser";
 import { join } from "path";
+import { writeFileSync } from "fs";
+
+import { format } from "date-fns";
+import { sv } from "date-fns/locale";
 
 async function main() {
   const dataDirectory = join(process.cwd(), "./data");
   const sourceDirectory = join(dataDirectory, "./gyP1_7_S1_4");
   const outputDirectory = join(process.cwd(), "./out");
   const replacementsDirectory = join(process.cwd(), "./manual");
+
+  writeFileSync(
+    "./out/meta.json",
+    JSON.stringify({
+      fetchTime: new Date().toISOString(),
+      humanizedFetchTime: format(new Date(), "do LLLL, yyyy", {
+        locale: sv
+      })
+    })
+  );
 
   console.info("\n[fetching and extracting data]");
   await fetchSyllabus(dataDirectory);
