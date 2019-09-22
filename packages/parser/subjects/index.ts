@@ -4,6 +4,7 @@ import { writeFileSync, readFileSync } from "fs";
 import { sync as mkdirp } from "mkdirp";
 import { join, dirname } from "path";
 import { parseXML } from "../utils/parseXml";
+import { getSortableCode } from "../utils/sortableCode";
 
 export async function parseSubjects(
   sourceDirectory: string,
@@ -40,7 +41,9 @@ export async function parseSubjects(
     subjectsMap.set(data.code, data);
   }
 
-  subjects.sort((a, b) => a.title.localeCompare(b.title));
+  subjects.sort((a, b) =>
+    getSortableCode(a.code).localeCompare(getSortableCode(b.code))
+  );
   writeFileSync(
     join(outputDirectory, "./subjects.json"),
     JSON.stringify(subjects, null, "  ")

@@ -7,6 +7,7 @@ import { getReplacements } from "../replacement";
 import { join } from "path";
 import { setValueIfExists } from "../utils/setValueIfExists";
 import { checkTextEquality } from "../utils/matchText";
+import { getSortableCode } from "../utils/sortableCode";
 
 export async function parseSubject(data: any, replacementsDirectory: string) {
   if (!/^\<p\>.*?\<\/p\>$/.test(data.description[0])) {
@@ -28,6 +29,10 @@ export async function parseSubject(data: any, replacementsDirectory: string) {
     applicableFrom: new Date(data.applianceDate[0]).toISOString(),
     courses: data.courses.map((el: any) => el.code[0])
   };
+
+  subject.courses.sort((a: any, b: any) =>
+    getSortableCode(a).localeCompare(getSortableCode(b))
+  );
 
   const manualReplacements = await getReplacements(
     join(replacementsDirectory, "./subject", "s_" + subject.code + ".json")

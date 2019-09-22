@@ -1,3 +1,5 @@
+import { getSortableCode } from "../utils/sortableCode";
+
 export function readProgramSubjects(inSubjects: any) {
   if (!inSubjects) {
     return { courses: [], subjects: [] };
@@ -23,12 +25,19 @@ export function readProgramSubjects(inSubjects: any) {
       coursePoints += parseInt(course.point[0], 10);
     }
 
+    subjectCourses.sort((a, b) =>
+      getSortableCode(a).localeCompare(getSortableCode(b))
+    );
+
     subjects.push({
       code,
       minPoints: Math.max(point, coursePoints),
       courses: subjectCourses
     });
   }
+  subjects.sort((a, b) =>
+    getSortableCode(a.code).localeCompare(getSortableCode(b.code))
+  );
 
   return {
     courses,
