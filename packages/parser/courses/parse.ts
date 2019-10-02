@@ -110,12 +110,28 @@ export async function parseCourse(
 
   //console.log(out);
 
+  //console.log(
+  //  [...data.centralContent[0].matchAll(/<li>(.*?)<\/li>/g)].map(el => el[1])
+  //);
+
+  console.log(
+    /<h4>.*?<\/h4>\s*(<p>.*?<\/p>\s*<ul>.*?<\/ul>)/.test(data.centralContent[0])
+  );
+
   const course = {
     subject: subject.code,
     title: data.name[0].trim(),
     code: data.code[0].trim(),
     points: parseInt(data.point[0], 10),
     criteria: out,
+    centralContent: [
+      ...data.centralContent[0].matchAll(/<li>(.*?)<\/li>/g)
+    ].map(el => el[1]),
+    UNSAFE_centralContent: (
+      "<div>" +
+      normalizeHTML(data.centralContent[0]) +
+      "</div>"
+    ).split("\n"),
     // This is basically unsafe to use, because it's really inconsistent
     UNSAFE_description: $(
       "<div>" +
