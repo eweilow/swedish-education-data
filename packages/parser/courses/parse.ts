@@ -73,7 +73,13 @@ export async function parseCourse(
                 .replace(/<strong>\s+/g, " <strong>")
                 .replace(/\s+<strong>/g, " <strong>")
                 .replace(/ <\/strong>/g, "</strong> ")
-                .replace(/<\/strong>\s+/g, "</strong> ") + "."
+                .replace(/<\/strong>\s+/g, "</strong> ")
+                .replace("hans eller hennes", "hens")
+                .replace("hennes eller hans", "hens")
+                .replace("honom eller henne", "hen")
+                .replace("henne eller honom", "hen")
+                .replace("han eller hon", "hen")
+                .replace("hon eller han", "hen") + "."
           )
 
           .filter(el => el !== ".")
