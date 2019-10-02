@@ -10,14 +10,14 @@
     "test": "jest"
   },
   "main": "./out",
-  "version": "0.0.1-alpha.4",
+  "version": "0.0.1-alpha.5",
   "description": "",
   "repository": "https://github.com/eweilow/swedish-education-data",
   "author": "eweilow",
   "license": "GPL-3.0",
   "devDependencies": {
     "@education-data/fetcher": "^0.0.1-alpha.1",
-    "@education-data/parser": "^0.0.1-alpha.4",
+    "@education-data/parser": "^0.0.1-alpha.5",
     "date-fns": "^2.2.1",
     "del-cli": "^3.0.0",
     "jest": "^24.9.0",
