@@ -114,9 +114,88 @@ export async function parseCourse(
   //  [...data.centralContent[0].matchAll(/<li>(.*?)<\/li>/g)].map(el => el[1])
   //);
 
-  console.log(
-    /<h4>.*?<\/h4>\s*(<p>.*?<\/p>\s*<ul>.*?<\/ul>)/.test(data.centralContent[0])
+  const centralContentGroups = [
+    ...data.centralContent[0]
+      .replace("\n", " ")
+      .matchAll(
+        /(?:<p>((?:[^<]|(?:<\/?strong>)|\n)+?)<\/p>)?(?:\s|\n)*<ul(?:[^>]+)?>((?:.|\n)*?)<\/ul>/gm
+      )
+  ]
+    .map(
+      el =>
+        el &&
+        ([
+          (el[1] && el[1].trim() && $(el[1].trim()).text()) || null,
+          [...el[2].trim().matchAll(/<li>(.*?)<\/li>/g)]
+            .map(el => el[1].trim())
+            .map(el =>
+              $("<div>" + el + "</div>")
+                .text()
+                .trim()
+            )
+            .map(el => {
+              if (el.endsWith(".")) {
+                return el;
+              }
+              return `${el}.`;
+            })
+        ] as [string | null, string[]])
+    )
+    .map(
+      el =>
+        el &&
+        ([(el[0] && el[0]!.trim()) || null, el[1]] as [string | null, string[]])
+    );
+
+  if (centralContentGroups.length === 0) {
+    throw new Error(
+      "No central content groups found in course " + data.code[0]
+    );
+  }
+
+  const centralContent = new Set(
+    [...data.centralContent[0].matchAll(/<li>(.*?)<\/li>/g)]
+      .map(el => el[1].trim())
+      .map(el =>
+        $("<div>" + el + "</div>")
+          .text()
+          .trim()
+      )
+      .map(el => {
+        if (el.endsWith(".")) {
+          return el;
+        }
+        return `${el}.`;
+      })
   );
+
+  for (const group of centralContentGroups) {
+    for (const row of group[1]!) {
+      centralContent.delete(row);
+    }
+  }
+
+  if (centralContent.size > 0) {
+    throw new Error(
+      "Central content groups failed to read the following central contents:\n - " +
+        [...centralContent].map(el => `'${el}'`).join("\n - ")
+    );
+  }
+
+  /*
+  console.log(
+    data.code[0],
+    [
+      ...data.centralContent[0]
+        .replace("\n", " ")
+        .matchAll(
+          /(?:<p>((?:[^<]|(?:<\/?strong>)|\n)+?)<\/p>)?(?:\s|\n)*<ul(?:[^>]+)?>((.|\n)*?)<\/ul>/gm
+        )
+    ].length,
+    centralContentGroups
+    //data.centralContent[0]
+  );
+  */
 
   const course = {
     subject: subject.code,
@@ -124,14 +203,12 @@ export async function parseCourse(
     code: data.code[0].trim(),
     points: parseInt(data.point[0], 10),
     criteria: out,
-    centralContent: [
-      ...data.centralContent[0].matchAll(/<li>(.*?)<\/li>/g)
-    ].map(el => el[1]),
-    UNSAFE_centralContent: (
+    centralContent: centralContentGroups,
+    /*UNSAFE_centralContent: (
       "<div>" +
       normalizeHTML(data.centralContent[0]) +
       "</div>"
-    ).split("\n"),
+    ).split("\n"),*/
     // This is basically unsafe to use, because it's really inconsistent
     UNSAFE_description: $(
       "<div>" +
