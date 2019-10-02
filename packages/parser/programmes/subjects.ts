@@ -32,9 +32,10 @@ export function readProgramSubjects(inSubjects: any) {
     subjects.push({
       code,
       minPoints: Math.max(point, coursePoints),
-      courses: subjectCourses
+      courses: [...subjectCourses]
     });
   }
+  courses.sort((a, b) => getSortableCode(a).localeCompare(getSortableCode(b)));
   subjects.sort((a, b) =>
     getSortableCode(a.code).localeCompare(getSortableCode(b.code))
   );
