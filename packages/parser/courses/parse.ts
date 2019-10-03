@@ -73,11 +73,15 @@ export async function parseCourse(
           .map(el =>
             el
               .trim()
-              .replace(/<br\s*\/>/g, "")
+              .replace(/<br\s*\/>/g, " ")
               .replace(/<strong>\s+/g, " <strong>")
               .replace(/\s+<strong>/g, " <strong>")
               .replace(/ <\/strong>/g, "</strong> ")
               .replace(/<\/strong>\s+/g, "</strong> ")
+              .replace(/<\/strong>\s*<strong>/g, " ")
+              .replace(/\s+<strong>\s*<\/strong>(?!\S)/g, " ")
+              .replace(/(?!\S)<strong>\s*<\/strong>\s+/g, " ")
+              .replace(/(?!\S)<strong>\s*<\/strong>(?!\S)/g, "")
               .replace("hans eller hennes", "hens")
               .replace("hennes eller hans", "hens")
               .replace("honom eller henne", "hen")
