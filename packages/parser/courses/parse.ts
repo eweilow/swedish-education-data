@@ -2,13 +2,15 @@ import { normalizeHTML } from "../utils/normalizeHtml";
 
 import * as $ from "cheerio";
 import { getReplacements } from "../replacement";
-import { join } from "path";
+import { join, dirname } from "path";
 import { setValueIfExists } from "../utils/setValueIfExists";
 import { checkTextEquality } from "../utils/matchText";
 import {
   readRangeFromDescription,
   getIndicesFromRange
 } from "./readRangeFromDescription";
+import { existsSync, writeFileSync } from "fs";
+import * as mkdirp from "mkdirp";
 
 function fixDescriptionParagraph(str: string) {
   return str.replace("<i>.</i>", ".").replace("<strong>–</strong>", "–");
@@ -61,29 +63,33 @@ export async function parseCourse(
     }
     out[req.step] = [...req.text.matchAll(/<p>(.+?)<\/p>/g)]
       .map(el => el[1])
+      .filter(el => el && el.trim())
       .map(el =>
         el
           .replace(/<italic>\s*\.\s*<\/italic>/g, ".")
           .replace(/\.\s*<\/strong>/g, "</strong>. ")
           .split(".")
-          .map(
-            el =>
-              el
-                .trim()
-                .replace(/<strong>\s+/g, " <strong>")
-                .replace(/\s+<strong>/g, " <strong>")
-                .replace(/ <\/strong>/g, "</strong> ")
-                .replace(/<\/strong>\s+/g, "</strong> ")
-                .replace("hans eller hennes", "hens")
-                .replace("hennes eller hans", "hens")
-                .replace("honom eller henne", "hen")
-                .replace("henne eller honom", "hen")
-                .replace("han eller hon", "hen")
-                .replace("hon eller han", "hen") + "."
+          .filter(el => !!el)
+          .map(el =>
+            el
+              .trim()
+              .replace(/<br\s*\/>/g, "")
+              .replace(/<strong>\s+/g, " <strong>")
+              .replace(/\s+<strong>/g, " <strong>")
+              .replace(/ <\/strong>/g, "</strong> ")
+              .replace(/<\/strong>\s+/g, "</strong> ")
+              .replace("hans eller hennes", "hens")
+              .replace("hennes eller hans", "hens")
+              .replace("honom eller henne", "hen")
+              .replace("henne eller honom", "hen")
+              .replace("han eller hon", "hen")
+              .replace("hon eller han", "hen")
+              .trim()
           )
-
-          .filter(el => el !== ".")
-      );
+          .filter(el => !!el)
+          .map(el => (!el.endsWith(".") ? el + "." : el))
+      )
+      .filter(el => el.length > 0);
 
     for (const row of out[req.step]) {
       for (const part of row) {
@@ -106,6 +112,168 @@ export async function parseCourse(
       }
     }
     // console.log();
+  }
+
+  const criteriaReplacements = join(
+    replacementsDirectory,
+    "./criteria",
+    "c_" + data.code[0] + ".json"
+  );
+  const criteriaReplacement = await getReplacements(
+    criteriaReplacements,
+    false
+  );
+
+  setValueIfExists(
+    criteriaReplacement["E"],
+    value =>
+      checkTextEquality(
+        out["E"].flatMap(el => el).join("\n"),
+        value.flatMap(el => el).join("\n")
+      ),
+    value => {
+      out["E"] = value;
+    }
+  );
+
+  setValueIfExists(
+    criteriaReplacement["C"],
+    value =>
+      checkTextEquality(
+        out["C"].flatMap(el => el).join("\n"),
+        value.flatMap(el => el).join("\n")
+      ),
+    value => {
+      out["C"] = value;
+    }
+  );
+
+  setValueIfExists(
+    criteriaReplacement["A"],
+    value =>
+      checkTextEquality(
+        out["A"].flatMap(el => el).join("\n"),
+        value.flatMap(el => el).join("\n")
+      ),
+    value => {
+      out["A"] = value;
+    }
+  );
+
+  let hasError = false;
+
+  if (out["E"].length < out["C"].length) {
+    console.warn(
+      `Found fewer E criteria than C criteria in course: ${data.code[0]} (${out["E"].length} vs ${out["C"].length})`
+    );
+    hasError = true;
+  }
+  if (out["E"].length < out["A"].length) {
+    console.warn(
+      `Found fewer E criteria than A criteria in course: ${data.code[0]} (${out["E"].length} vs ${out["A"].length})`
+    );
+    hasError = true;
+  }
+  if (out["C"].length < out["A"].length) {
+    console.warn(
+      `Found fewer C criteria than A criteria in course: ${data.code[0]} (${out["C"].length} vs ${out["A"].length})`
+    );
+    hasError = true;
+  }
+
+  if (hasError) {
+    mkdirp.sync(dirname(criteriaReplacements));
+    if (!existsSync(criteriaReplacements)) {
+      const criteriaSrc = {};
+      for (const step of data.knowledgeRequirements) {
+        criteriaSrc[step.gradeStep[0]] = normalizeHTML(step.text[0]).split(
+          "\n"
+        );
+      }
+      writeFileSync(
+        criteriaReplacements,
+        JSON.stringify({ ...out, src: criteriaSrc }, null, "  ")
+      );
+    }
+  }
+
+  const criteriaReplacements2 = join(
+    replacementsDirectory,
+    "./criteria2",
+    "c_" + data.code[0] + ".json"
+  );
+  const criteriaReplacement2 = await getReplacements(
+    criteriaReplacements2,
+    false
+  );
+
+  function onlyAdded(a: string[][], b: string[][]) {
+    const flatA = a.flatMap(el => el);
+    const flatB = b.flatMap(el => el);
+
+    for (const element of flatA) {
+      if (!flatB.includes(element)) {
+        throw new Error(`Element ${element} was removed from new array!`);
+      }
+    }
+    return true;
+  }
+
+  setValueIfExists(
+    criteriaReplacement2["E"],
+    value => onlyAdded(criteriaReplacement2["E"], value),
+    value => {
+      out["E"] = value;
+    }
+  );
+
+  setValueIfExists(
+    criteriaReplacement2["C"],
+    value => onlyAdded(criteriaReplacement2["C"], value),
+    value => {
+      out["C"] = value;
+    }
+  );
+
+  setValueIfExists(
+    criteriaReplacement2["A"],
+    value => onlyAdded(criteriaReplacement2["A"], value),
+    value => {
+      out["A"] = value;
+    }
+  );
+
+  if (
+    out["C"].length !== out["A"].length ||
+    out["E"].length !== out["A"].length ||
+    out["E"].length !== out["C"].length
+  ) {
+    console.warn(
+      `Found unmatched criteria length in course: ${data.code[0]} (${out["E"].length}, ${out["C"].length}, ${out["A"].length})`
+    );
+    if (out["E"].length >= out["C"].length + 2) {
+      throw new Error("Can only automatically match length difference of 2");
+    }
+    if (out["E"].length >= out["A"].length + 2) {
+      throw new Error("Can only automatically match length difference of 2");
+    }
+    if (out["C"].length >= out["A"].length + 2) {
+      throw new Error("Can only automatically match length difference of 2");
+    }
+    hasError = true;
+    mkdirp.sync(dirname(criteriaReplacements2));
+    if (!existsSync(criteriaReplacements2)) {
+      const criteriaSrc = {};
+      for (const step of data.knowledgeRequirements) {
+        criteriaSrc[step.gradeStep[0]] = normalizeHTML(step.text[0]).split(
+          "\n"
+        );
+      }
+      writeFileSync(
+        criteriaReplacements2,
+        JSON.stringify({ ...out, src: criteriaSrc }, null, "  ")
+      );
+    }
   }
 
   //console.log(out);
