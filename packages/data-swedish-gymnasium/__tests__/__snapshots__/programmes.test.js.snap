@@ -6,6 +6,7 @@ Object {
   "code": "BF",
   "education": Object {
     "mandatory": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG05",
         "HISHIS01a1",
@@ -85,6 +86,7 @@ Object {
     },
     "orientations": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "BFFRI",
         "courses": Array [
           "FRIFRT0",
@@ -110,6 +112,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BFPED",
         "courses": Array [
           "PEDBAS0",
@@ -135,6 +138,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BFSOC",
         "courses": Array [
           "SOCSOI0",
@@ -162,6 +166,7 @@ Object {
     ],
     "professionalDegrees": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "BFFRI",
         "courses": Array [
           "ENTENR0",
@@ -188,6 +193,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BFPED",
         "courses": Array [
           "ENTENR0",
@@ -228,6 +234,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BFPED",
         "courses": Array [
           "ENTENR0",
@@ -268,6 +275,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BFFRI",
         "courses": Array [
           "ENTENR0",
@@ -294,6 +302,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BFSOC",
         "courses": Array [
           "ENTENR0",
@@ -328,6 +337,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BFFRI",
         "courses": Array [
           "ENTENR0",
@@ -362,6 +372,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BFSOC",
         "courses": Array [
           "ENTENR0",
@@ -396,6 +407,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BFSOC",
         "courses": Array [
           "BEVBEV0",
@@ -422,6 +434,7 @@ Object {
     ],
     "profiles": Array [],
     "program": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "HALHAL0",
         "NAKNAK01a2",
@@ -482,6 +495,7 @@ Object {
       ],
     },
     "specialization": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "AKTAKT0",
         "AKTBEO0",
@@ -904,6 +918,7 @@ Object {
   "code": "BA",
   "education": Object {
     "mandatory": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG05",
         "HISHIS01a1",
@@ -983,6 +998,7 @@ Object {
     },
     "orientations": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "BAANL",
         "courses": Array [
           "ANAANA01",
@@ -1008,6 +1024,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BAHUS",
         "courses": Array [
           "HUSHUB0",
@@ -1031,6 +1048,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BAMAR",
         "courses": Array [
           "ANLANL01",
@@ -1052,6 +1070,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BAMAL",
         "courses": Array [
           "MARMAL0",
@@ -1071,6 +1090,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BAPLA",
         "courses": Array [
           "PLÅPLÅ0",
@@ -1100,6 +1120,7 @@ Object {
     ],
     "professionalDegrees": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "BAANL",
         "courses": Array [
           "ANLANÄ0",
@@ -1118,6 +1139,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BAMAR",
         "courses": Array [
           "ANLANG0",
@@ -1154,6 +1176,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BAMAR",
         "courses": Array [
           "BERBEB0",
@@ -1176,6 +1199,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BAHUS",
         "courses": Array [
           "BETBET01",
@@ -1196,6 +1220,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BAMAL",
         "courses": Array [
           "MARMAL02",
@@ -1216,6 +1241,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BAPLA",
         "courses": Array [
           "PLTBYG01",
@@ -1236,6 +1262,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BAHUS",
         "courses": Array [
           "HUBSPC01S",
@@ -1256,6 +1283,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BAHUS",
         "courses": Array [
           "GOLGOL01",
@@ -1276,6 +1304,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BAHUS",
         "courses": Array [
           "HUBSPC01S",
@@ -1294,6 +1323,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BAMAR",
         "courses": Array [
           "JÄRJÄR01",
@@ -1322,6 +1352,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BAHUS",
         "courses": Array [
           "MURMUR01",
@@ -1342,6 +1373,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BAHUS",
         "courses": Array [
           "HUBSPC01S",
@@ -1360,6 +1392,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BAHUS",
         "courses": Array [
           "HUBSPC01S",
@@ -1378,6 +1411,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BAHUS",
         "courses": Array [
           "HUBSPC01S",
@@ -1396,6 +1430,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BAHUS",
         "courses": Array [
           "HUBSPC01S",
@@ -1414,6 +1449,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BAHUS",
         "courses": Array [
           "TRÄTRK01",
@@ -1434,6 +1470,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BAHUS",
         "courses": Array [
           "HUBSPC01S",
@@ -1452,6 +1489,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BAPLA",
         "courses": Array [
           "VEIVEN01",
@@ -1480,6 +1518,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BAMAR",
         "courses": Array [
           "ANLANÄ0",
@@ -1500,6 +1539,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "BAMAR",
         "courses": Array [
           "ANLANÄ0",
@@ -1530,6 +1570,7 @@ Object {
     ],
     "profiles": Array [],
     "program": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "BYGBYG01",
         "BYGBYG02",
@@ -1546,6 +1587,7 @@ Object {
       ],
     },
     "specialization": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ANLANÄ0",
         "ANLANG0",
@@ -2024,6 +2066,7 @@ Object {
   "code": "EK",
   "education": Object {
     "mandatory": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG05",
         "ENGENG06",
@@ -2117,6 +2160,7 @@ Object {
     },
     "orientations": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "EKEKO",
         "courses": Array [
           "FÖRENT0",
@@ -2144,6 +2188,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "EKJUR",
         "courses": Array [
           "FIOFIO01",
@@ -2182,6 +2227,7 @@ Object {
     "professionalDegrees": Array [],
     "profiles": Array [],
     "program": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "FÖRFÖR01",
         "JURPRI0",
@@ -2217,6 +2263,7 @@ Object {
       ],
     },
     "specialization": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG07",
         "ENTENR0",
@@ -2549,6 +2596,7 @@ Object {
   "code": "EE",
   "education": Object {
     "mandatory": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG05",
         "HISHIS01a1",
@@ -2628,6 +2676,7 @@ Object {
     },
     "orientations": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "EEAUT",
         "courses": Array [
           "ELLPRA0",
@@ -2657,6 +2706,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "EEDAT",
         "courses": Array [
           "DAODAC0",
@@ -2698,6 +2748,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "EEELT",
         "courses": Array [
           "ELLPRA0",
@@ -2733,6 +2784,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "EEENE",
         "courses": Array [
           "DRIAVH01",
@@ -2770,6 +2822,7 @@ Object {
     ],
     "professionalDegrees": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "EEAUT",
         "courses": Array [
           "DAOINU0",
@@ -2814,6 +2867,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "EEAUT",
         "courses": Array [
           "DAOINU0",
@@ -2870,6 +2924,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "EEAUT",
         "courses": Array [
           "DAOINU0",
@@ -2908,6 +2963,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "EEELT",
         "courses": Array [
           "ELDBEY0",
@@ -2934,6 +2990,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "EEENE",
         "courses": Array [
           "ENEVAE0",
@@ -2974,6 +3031,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "EEENE",
         "courses": Array [
           "ENEVAE0",
@@ -3002,6 +3060,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "EEENE",
         "courses": Array [
           "ENEVAE0",
@@ -3038,6 +3097,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "EEDAT",
         "courses": Array [
           "DAOMUL0",
@@ -3080,6 +3140,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "EEDAT",
         "courses": Array [
           "DAODIG0",
@@ -3124,6 +3185,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "EEELT",
         "courses": Array [
           "AUOAVH0",
@@ -3172,6 +3234,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "EEELT",
         "courses": Array [
           "ELRDAA0",
@@ -3214,6 +3277,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "EEELT",
         "courses": Array [
           "JÄNALM0",
@@ -3234,6 +3298,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "EEDAT",
         "courses": Array [
           "DAODIG0",
@@ -3274,6 +3339,7 @@ Object {
     ],
     "profiles": Array [],
     "program": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "DAODAT01a",
         "ELRELK0",
@@ -3312,6 +3378,7 @@ Object {
       ],
     },
     "specialization": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "AUOALL0",
         "AUOAVH0",
@@ -3946,6 +4013,7 @@ Object {
   "code": "ES",
   "education": Object {
     "mandatory": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG05",
         "ENGENG06",
@@ -4037,6 +4105,7 @@ Object {
     },
     "orientations": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "ESBIL",
         "courses": Array [
           "BIDBIT0",
@@ -4066,6 +4135,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "ESDAN",
         "courses": Array [
           "DAEDAT0",
@@ -4101,6 +4171,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "ESEST",
         "courses": Array [
           "DIGDIG01",
@@ -4136,6 +4207,15 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [
+          Object {
+            "code": "ING",
+            "courses": Array [],
+            "minPoints": 100,
+            "name": "Instrument eller sång",
+            "optional": false,
+          },
+        ],
         "code": "ESMUS",
         "courses": Array [
           "MUIGEH01",
@@ -4144,11 +4224,6 @@ Object {
         "name": "Musik",
         "points": 400,
         "subjects": Array [
-          Object {
-            "code": "ING",
-            "courses": Array [],
-            "minPoints": 100,
-          },
           Object {
             "code": "MUI",
             "courses": Array [
@@ -4166,6 +4241,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "ESTEA",
         "courses": Array [
           "TEASCE01",
@@ -4192,6 +4268,7 @@ Object {
     "professionalDegrees": Array [],
     "profiles": Array [],
     "program": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ESTEST01",
         "KOSKOS0",
@@ -4214,6 +4291,7 @@ Object {
       ],
     },
     "specialization": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ANIANI01",
         "ANIANI02",
@@ -4845,6 +4923,7 @@ Object {
   "code": "FX",
   "education": Object {
     "mandatory": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG05",
         "HISHIS01a1",
@@ -4924,6 +5003,7 @@ Object {
     },
     "orientations": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "FXFLY",
         "courses": Array [
           "FLPFLY0",
@@ -4941,6 +5021,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "FXHEL",
         "courses": Array [
           "HELHEL0",
@@ -4986,6 +5067,7 @@ Object {
     ],
     "profiles": Array [],
     "program": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ELADIG0",
         "ELAELL0",
@@ -5040,6 +5122,7 @@ Object {
       ],
     },
     "specialization": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENTENR0",
         "FLPFLY0",
@@ -5227,6 +5310,7 @@ Object {
   "code": "FT",
   "education": Object {
     "mandatory": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG05",
         "HISHIS01a1",
@@ -5306,6 +5390,7 @@ Object {
     },
     "orientations": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "FTGOD",
         "courses": Array [
           "GODMAL0",
@@ -5331,6 +5416,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "FTKAR",
         "courses": Array [
           "KARRIT0",
@@ -5356,6 +5442,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "FTLAS",
         "courses": Array [
           "MASMAI0",
@@ -5375,6 +5462,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "FTPER",
         "courses": Array [
           "PERPES0",
@@ -5394,6 +5482,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "FTTRA",
         "courses": Array [
           "TRAYRK01a",
@@ -5415,6 +5504,7 @@ Object {
     ],
     "professionalDegrees": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "FTKAR",
         "courses": Array [
           "LACBAK0",
@@ -5435,6 +5525,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "FTKAR",
         "courses": Array [
           "KARKAR0",
@@ -5455,6 +5546,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "FTTRA",
         "courses": Array [
           "PESPER01a",
@@ -5483,6 +5575,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "FTGOD",
         "courses": Array [
           "GODHAT0",
@@ -5509,6 +5602,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "FTTRA",
         "courses": Array [
           "GODMAL0",
@@ -5543,6 +5637,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "FTLAS",
         "courses": Array [
           "MASKOM0",
@@ -5565,6 +5660,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "FTLAS",
         "courses": Array [
           "MASMOB0",
@@ -5587,6 +5683,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "FTPER",
         "courses": Array [
           "PERBRO0",
@@ -5607,6 +5704,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "FTGOD",
         "courses": Array [
           "FÖSSEV0",
@@ -5647,6 +5745,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "FTGOD",
         "courses": Array [
           "GODHAT0",
@@ -5669,6 +5768,7 @@ Object {
     ],
     "profiles": Array [],
     "program": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "FODFOO0",
         "FORFOD0",
@@ -5691,6 +5791,7 @@ Object {
       ],
     },
     "specialization": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "AKTGUI0",
         "ATVREP0",
@@ -6072,6 +6173,7 @@ Object {
   "code": "HA",
   "education": Object {
     "mandatory": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG05",
         "HISHIS01a1",
@@ -6151,6 +6253,7 @@ Object {
     },
     "orientations": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "HAADM",
         "courses": Array [
           "ADMADM01",
@@ -6194,6 +6297,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HAHAN",
         "courses": Array [
           "FÖSPER01",
@@ -6239,6 +6343,7 @@ Object {
     ],
     "professionalDegrees": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "HAHAN",
         "courses": Array [
           "ENGENG06",
@@ -6289,6 +6394,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HAHAN",
         "courses": Array [
           "ENGENG06",
@@ -6339,6 +6445,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HAHAN",
         "courses": Array [
           "ENGENG06",
@@ -6389,6 +6496,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HAADM",
         "courses": Array [
           "ADMADM02",
@@ -6445,6 +6553,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HAHAN",
         "courses": Array [
           "GODHAT0",
@@ -6493,6 +6602,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HAADM",
         "courses": Array [
           "ADMADM02",
@@ -6551,6 +6661,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HAADM",
         "courses": Array [
           "ADMADM02",
@@ -6595,6 +6706,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HAADM",
         "courses": Array [
           "ADMADM02",
@@ -6631,6 +6743,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HAADM",
         "courses": Array [
           "AFFAFÄ00S",
@@ -6683,6 +6796,7 @@ Object {
     ],
     "profiles": Array [],
     "program": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENTENR0",
         "FÖSSEV0",
@@ -6721,6 +6835,7 @@ Object {
       ],
     },
     "specialization": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ADMADM01",
         "ADMADM02",
@@ -7133,6 +7248,7 @@ Object {
   "code": "HV",
   "education": Object {
     "mandatory": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG05",
         "HISHIS01a1",
@@ -7212,6 +7328,7 @@ Object {
     },
     "orientations": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "HVFIN",
         "courses": Array [
           "HAVFIN01",
@@ -7239,6 +7356,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVFLO",
         "courses": Array [
           "HAVFLO01",
@@ -7266,6 +7384,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVFRI",
         "courses": Array [
           "HAVFRI01",
@@ -7293,6 +7412,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVTEX",
         "courses": Array [
           "HAVTEX01",
@@ -7320,6 +7440,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVXXX",
         "courses": Array [
           "HAVHNT01",
@@ -7349,6 +7470,7 @@ Object {
     ],
     "professionalDegrees": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "HVFIN",
         "courses": Array [
           "ELRELF0",
@@ -7377,6 +7499,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVXXX",
         "courses": Array [
           "HAVHNT03",
@@ -7401,6 +7524,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVFLO",
         "courses": Array [
           "HAVFLO03",
@@ -7439,6 +7563,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVFRI",
         "courses": Array [
           "HAVFRI03",
@@ -7461,6 +7586,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVXXX",
         "courses": Array [
           "FOMFOR01S",
@@ -7499,6 +7625,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVXXX",
         "courses": Array [
           "CADCAD01",
@@ -7529,6 +7656,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVXXX",
         "courses": Array [
           "FÖSPER01",
@@ -7581,6 +7709,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVXXX",
         "courses": Array [
           "HAVHNT03",
@@ -7603,6 +7732,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVTEX",
         "courses": Array [
           "AFFAFÄ00S",
@@ -7637,6 +7767,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVFIN",
         "courses": Array [
           "CADCAD01",
@@ -7665,6 +7796,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVXXX",
         "courses": Array [
           "HAVHNT03",
@@ -7687,6 +7819,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVXXX",
         "courses": Array [
           "HAVHNT03",
@@ -7709,6 +7842,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVXXX",
         "courses": Array [
           "HAVHNT03",
@@ -7731,6 +7865,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVXXX",
         "courses": Array [
           "HAVHNT03",
@@ -7759,6 +7894,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVFIN",
         "courses": Array [
           "FÖRENT0",
@@ -7785,6 +7921,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVXXX",
         "courses": Array [
           "HAVHNT03",
@@ -7807,6 +7944,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVXXX",
         "courses": Array [
           "HAVHNT03",
@@ -7829,6 +7967,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVXXX",
         "courses": Array [
           "HAVHNT03",
@@ -7851,6 +7990,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVXXX",
         "courses": Array [
           "HAVHNT03",
@@ -7873,6 +8013,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVXXX",
         "courses": Array [
           "HAVHNT03",
@@ -7895,6 +8036,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVTEX",
         "courses": Array [
           "HAVTEX03",
@@ -7921,6 +8063,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVXXX",
         "courses": Array [
           "HAVHNT03",
@@ -7943,6 +8086,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVTEX",
         "courses": Array [
           "DAIMON01",
@@ -7977,6 +8121,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVXXX",
         "courses": Array [
           "HAVHNT03",
@@ -7999,6 +8144,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVFIN",
         "courses": Array [
           "FÖSPER01",
@@ -8039,6 +8185,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HVXXX",
         "courses": Array [
           "HAVHNT03",
@@ -8063,6 +8210,7 @@ Object {
     ],
     "profiles": Array [],
     "program": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENTENR0",
         "HAVHAV0",
@@ -8093,6 +8241,7 @@ Object {
       ],
     },
     "specialization": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ADMADM01",
         "AFFAFÄ00S",
@@ -8600,6 +8749,7 @@ Object {
   "code": "HT",
   "education": Object {
     "mandatory": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG05",
         "HISHIS01a1",
@@ -8679,6 +8829,7 @@ Object {
     },
     "orientations": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "HTHOT",
         "courses": Array [
           "KONKOF01",
@@ -8720,6 +8871,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HTTUR",
         "courses": Array [
           "AKTAKT0",
@@ -8751,6 +8903,7 @@ Object {
     ],
     "professionalDegrees": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "HTTUR",
         "courses": Array [
           "AKTAKT0",
@@ -8799,6 +8952,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HTHOT",
         "courses": Array [
           "DRYDRC0",
@@ -8835,6 +8989,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HTTUR",
         "courses": Array [
           "AFFAFÄ00S",
@@ -8877,6 +9032,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HTHOT",
         "courses": Array [
           "DRYDRC0",
@@ -8913,6 +9069,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "HTHOT",
         "courses": Array [
           "ADMPER0",
@@ -8951,6 +9108,7 @@ Object {
     ],
     "profiles": Array [],
     "program": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "AKTBEO0",
         "ENGENG06",
@@ -9013,6 +9171,7 @@ Object {
       ],
     },
     "specialization": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ADMADM01",
         "ADMPER0",
@@ -9297,6 +9456,7 @@ Object {
   "code": "HU",
   "education": Object {
     "mandatory": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG05",
         "ENGENG06",
@@ -9388,6 +9548,7 @@ Object {
     },
     "orientations": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "HUKUL",
         "courses": Array [
           "FIOFIO02",
@@ -9431,6 +9592,15 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [
+          Object {
+            "code": "SPK",
+            "courses": Array [],
+            "minPoints": 300,
+            "name": "Språk",
+            "optional": false,
+          },
+        ],
         "code": "HUSPR",
         "courses": Array [
           "LATLAT01",
@@ -9445,17 +9615,13 @@ Object {
             ],
             "minPoints": 100,
           },
-          Object {
-            "code": "SPK",
-            "courses": Array [],
-            "minPoints": 300,
-          },
         ],
       },
     ],
     "professionalDegrees": Array [],
     "profiles": Array [],
     "program": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "FIOFIO01",
         "MÄKMÄK01",
@@ -9483,6 +9649,7 @@ Object {
       ],
     },
     "specialization": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ARKARI0",
         "ARKARK0",
@@ -9931,6 +10098,7 @@ Object {
   "code": "IN",
   "education": Object {
     "mandatory": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG05",
         "HISHIS01a1",
@@ -10010,6 +10178,7 @@ Object {
     },
     "orientations": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "INDRI",
         "courses": Array [
           "DRIAVH01",
@@ -10033,6 +10202,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "INPRO",
         "courses": Array [
           "INUINU02",
@@ -10068,6 +10238,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "INPRK",
         "courses": Array [
           "DARDAT01S",
@@ -10101,6 +10272,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "INSVE",
         "courses": Array [
           "PRKPRK01",
@@ -10138,6 +10310,7 @@ Object {
     ],
     "professionalDegrees": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "INDRI",
         "courses": Array [
           "AUOALL0",
@@ -10204,6 +10377,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "INPRK",
         "courses": Array [
           "CADCAD01",
@@ -10268,6 +10442,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "INPRK",
         "courses": Array [
           "CADCAD01",
@@ -10326,6 +10501,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "INPRK",
         "courses": Array [
           "DARCAD0",
@@ -10394,6 +10570,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "INPRO",
         "courses": Array [
           "LACFÄR0",
@@ -10424,6 +10601,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "INSVE",
         "courses": Array [
           "FÖRENT0",
@@ -10466,6 +10644,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "INPRO",
         "courses": Array [
           "ENGENG06",
@@ -10508,6 +10687,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "INPRK",
         "courses": Array [
           "DARCAD0",
@@ -10568,6 +10748,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "INPRO",
         "courses": Array [
           "DRIAVH01",
@@ -10620,6 +10801,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "INDRI",
         "courses": Array [
           "DRIUNL0",
@@ -10654,6 +10836,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "INSVE",
         "courses": Array [
           "DRIAVH01",
@@ -10696,6 +10879,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "INPRK",
         "courses": Array [
           "AUOALL0",
@@ -10758,6 +10942,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "INDRI",
         "courses": Array [
           "DRIAVH02",
@@ -10790,6 +10975,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "INPRK",
         "courses": Array [
           "CADCAD01",
@@ -10862,6 +11048,7 @@ Object {
     ],
     "profiles": Array [],
     "program": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "INUINU01",
         "MÄIMÄN01",
@@ -10900,6 +11087,7 @@ Object {
       ],
     },
     "specialization": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "AUOALL0",
         "AUOAVH0",
@@ -11647,6 +11835,7 @@ Object {
   "code": "MX",
   "education": Object {
     "mandatory": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG05",
         "HISHIS01a1",
@@ -11726,6 +11915,7 @@ Object {
     },
     "orientations": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "MXELO",
         "courses": Array [
           "ELEELR0",
@@ -11753,6 +11943,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "MXSER",
         "courses": Array [
           "FRDKON01",
@@ -11780,6 +11971,7 @@ Object {
     ],
     "professionalDegrees": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "MXSER",
         "courses": Array [
           "FRDKON02",
@@ -11818,6 +12010,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "MXELO",
         "courses": Array [
           "FYSFYS01a",
@@ -11854,6 +12047,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "MXSER",
         "courses": Array [
           "FRDBAS0 ",
@@ -11892,6 +12086,7 @@ Object {
     ],
     "profiles": Array [],
     "program": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "BATSKA0",
         "FRDBAT0 ",
@@ -11932,6 +12127,7 @@ Object {
       ],
     },
     "specialization": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "BATKUS0",
         "DACFAR0",
@@ -12141,6 +12337,7 @@ Object {
   "code": "NB",
   "education": Object {
     "mandatory": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG05",
         "HISHIS01a1",
@@ -12220,6 +12417,7 @@ Object {
     },
     "orientations": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "NBDJU",
         "courses": Array [
           "BIGDJE0",
@@ -12247,6 +12445,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "NBLAN",
         "courses": Array [
           "BIGMAN0",
@@ -12280,6 +12479,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "NBSKO",
         "courses": Array [
           "BIGMAN0",
@@ -12313,6 +12513,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "NBTRA",
         "courses": Array [
           "BIGMAN0",
@@ -12348,6 +12549,7 @@ Object {
     ],
     "professionalDegrees": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "NBDJU",
         "courses": Array [
           "DJUSÄL01",
@@ -12386,6 +12588,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "NBLAN",
         "courses": Array [
           "LAULAT01",
@@ -12430,6 +12633,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "NBDJU",
         "courses": Array [
           "BIGDJE0",
@@ -12474,6 +12678,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "NBLAN",
         "courses": Array [
           "LAULAT01",
@@ -12512,6 +12717,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "NBSKO",
         "courses": Array [
           "SEISEI01",
@@ -12552,6 +12758,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "NBDJU",
         "courses": Array [
           "BIGBIG00S",
@@ -12594,6 +12801,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "NBDJU",
         "courses": Array [
           "DJFDJU0",
@@ -12636,6 +12844,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "NBDJU",
         "courses": Array [
           "HÄTHÄS01",
@@ -12668,6 +12877,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "NBDJU",
         "courses": Array [
           "HÄTHÄS01",
@@ -12706,6 +12916,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "NBSKO",
         "courses": Array [
           "AKTAKT0",
@@ -12750,6 +12961,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "NBSKO",
         "courses": Array [
           "SKGSKO01",
@@ -12784,6 +12996,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "NBSKO",
         "courses": Array [
           "MOTMOT02",
@@ -12822,6 +13035,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "NBTRA",
         "courses": Array [
           "ODIODL01",
@@ -12868,6 +13082,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "NBTRA",
         "courses": Array [
           "SKÖBEK0",
@@ -12920,6 +13135,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "NBTRA",
         "courses": Array [
           "SKÖSKÖ0",
@@ -12972,6 +13188,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "NBTRA",
         "courses": Array [
           "ODIODI00S",
@@ -13012,6 +13229,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "NBSKO",
         "courses": Array [
           "BIGBIG00S",
@@ -13056,6 +13274,7 @@ Object {
     ],
     "profiles": Array [],
     "program": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "BIOBIO01",
         "ENTENR0",
@@ -13086,6 +13305,7 @@ Object {
       ],
     },
     "specialization": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "AKTAKT0",
         "AKTBEO0",
@@ -13696,6 +13916,7 @@ Object {
   "code": "NA",
   "education": Object {
     "mandatory": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG05",
         "ENGENG06",
@@ -13781,6 +14002,7 @@ Object {
     },
     "orientations": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "NANAT",
         "courses": Array [
           "BIOBIO02",
@@ -13822,6 +14044,15 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [
+          Object {
+            "code": "ETT",
+            "courses": Array [],
+            "minPoints": 100,
+            "name": "Ett naturvetenskapligt ämne",
+            "optional": false,
+          },
+        ],
         "code": "NANAS",
         "courses": Array [
           "GEOGEO01",
@@ -13830,11 +14061,6 @@ Object {
         "name": "Naturvetenskap och samhälle",
         "points": 300,
         "subjects": Array [
-          Object {
-            "code": "ETT",
-            "courses": Array [],
-            "minPoints": 100,
-          },
           Object {
             "code": "GEO",
             "courses": Array [
@@ -13855,6 +14081,7 @@ Object {
     "professionalDegrees": Array [],
     "profiles": Array [],
     "program": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "BIOBIO01",
         "FYSFYS01a",
@@ -13890,6 +14117,7 @@ Object {
       ],
     },
     "specialization": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "BIOBIO02",
         "BIOBIT0",
@@ -14280,6 +14508,7 @@ Object {
   "code": "RL",
   "education": Object {
     "mandatory": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG05",
         "HISHIS01a1",
@@ -14359,6 +14588,7 @@ Object {
     },
     "orientations": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "RLBAG",
         "courses": Array [
           "BAGBAG01",
@@ -14380,6 +14610,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "RLFAR",
         "courses": Array [
           "FÖSPER01",
@@ -14431,6 +14662,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "RLKOK",
         "courses": Array [
           "MACMAT0",
@@ -14466,6 +14698,7 @@ Object {
     ],
     "professionalDegrees": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "RLBAG",
         "courses": Array [
           "BAGBAG02",
@@ -14490,6 +14723,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "RLBAG",
         "courses": Array [
           "BAGBAG02",
@@ -14514,6 +14748,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "RLKOK",
         "courses": Array [
           "MALMAL02",
@@ -14536,6 +14771,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "RLKOK",
         "courses": Array [
           "DRYDRC0",
@@ -14570,6 +14806,7 @@ Object {
     ],
     "profiles": Array [],
     "program": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "HYGHYG0",
         "LIVLIV01",
@@ -14608,6 +14845,7 @@ Object {
       ],
     },
     "specialization": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "AKTAKT0",
         "AKTBEO0",
@@ -15003,6 +15241,7 @@ Object {
   "code": "SA",
   "education": Object {
     "mandatory": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG05",
         "ENGENG06",
@@ -15094,6 +15333,7 @@ Object {
     },
     "orientations": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "SABET",
         "courses": Array [
           "LEDLED0",
@@ -15143,6 +15383,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "SAMED",
         "courses": Array [
           "MEEJOU01",
@@ -15184,6 +15425,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "SASAM",
         "courses": Array [
           "GEOGEO01",
@@ -15230,6 +15472,7 @@ Object {
     "professionalDegrees": Array [],
     "profiles": Array [],
     "program": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "FIOFIO01",
         "PSKPSY01",
@@ -15257,6 +15500,7 @@ Object {
       ],
     },
     "specialization": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ANIANI01",
         "ANIANI02",
@@ -15775,6 +16019,7 @@ Object {
   "code": "SX",
   "education": Object {
     "mandatory": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG05",
         "HISHIS01a1",
@@ -15854,6 +16099,7 @@ Object {
     },
     "orientations": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "SXDAC",
         "courses": Array [
           "DACDAC01",
@@ -15873,6 +16119,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "SXMAS",
         "courses": Array [
           "MAKMAS01",
@@ -15894,6 +16141,7 @@ Object {
     ],
     "professionalDegrees": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "SXDAC",
         "courses": Array [
           "DACDAC01",
@@ -15920,6 +16168,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "SXMAS",
         "courses": Array [
           "FARLAS0",
@@ -15946,6 +16195,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "SXDAC",
         "courses": Array [
           "DACDAC01",
@@ -15974,6 +16224,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "SXMAS",
         "courses": Array [
           "ELLPRA0",
@@ -16016,6 +16267,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "SXMAS",
         "courses": Array [
           "FARLAS0",
@@ -16044,6 +16296,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "SXDAC",
         "courses": Array [
           "DACDAC01",
@@ -16070,6 +16323,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "SXMAS",
         "courses": Array [
           "FARLAS0",
@@ -16098,6 +16352,7 @@ Object {
     ],
     "profiles": Array [],
     "program": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "FARLAS0",
         "SJOGRN0",
@@ -16130,6 +16385,7 @@ Object {
       ],
     },
     "specialization": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "DACDAC01",
         "DACFAR0",
@@ -16431,6 +16687,7 @@ Object {
   "code": "TE",
   "education": Object {
     "mandatory": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG05",
         "ENGENG06",
@@ -16516,6 +16773,7 @@ Object {
     },
     "orientations": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "TEDES",
         "courses": Array [
           "BILBIL01a1",
@@ -16557,6 +16815,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "TEINF",
         "courses": Array [
           "DAODAC0",
@@ -16590,6 +16849,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "TEPRO",
         "courses": Array [
           "MEKMEK01",
@@ -16623,6 +16883,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "TESAM",
         "courses": Array [
           "ARKARK0",
@@ -16656,6 +16917,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "TETEK",
         "courses": Array [
           "FYSFYS02",
@@ -16692,6 +16954,7 @@ Object {
     "professionalDegrees": Array [],
     "profiles": Array [],
     "program": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "FYSFYS01a",
         "KEMKEM01",
@@ -16722,6 +16985,7 @@ Object {
       ],
     },
     "specialization": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ANIANI01",
         "ARKARI0",
@@ -17481,6 +17745,7 @@ Object {
   "code": "TX",
   "education": Object {
     "mandatory": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG05",
         "HISHIS01a1",
@@ -17567,6 +17832,7 @@ Object {
         "subjects": Array [],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "TXTAG",
         "courses": Array [
           "ENTENR0",
@@ -17585,6 +17851,7 @@ Object {
     ],
     "profiles": Array [],
     "program": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "CADCAD01",
         "DRIUND0",
@@ -17651,6 +17918,7 @@ Object {
       ],
     },
     "specialization": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "DAODAC0",
         "DAYPRO0",
@@ -17832,6 +18100,7 @@ Object {
   "code": "UX",
   "education": Object {
     "mandatory": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG05",
         "HISHIS01a1",
@@ -17913,6 +18182,7 @@ Object {
     "professionalDegrees": Array [],
     "profiles": Array [],
     "program": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENTENR0",
         "NAGNAT01",
@@ -17984,6 +18254,7 @@ Object {
       ],
     },
     "specialization": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "FÖRENT0",
         "FÖSPER01",
@@ -18175,6 +18446,7 @@ Object {
   "code": "VF",
   "education": Object {
     "mandatory": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG05",
         "HISHIS01a1",
@@ -18254,6 +18526,7 @@ Object {
     },
     "orientations": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "VFFAS",
         "courses": Array [
           "ELRELF0",
@@ -18287,6 +18560,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "VFKYL",
         "courses": Array [
           "ELRELF0",
@@ -18314,6 +18588,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "VFVVS",
         "courses": Array [
           "VVIENT0",
@@ -18335,6 +18610,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "VFVEN",
         "courses": Array [
           "ELRELF0",
@@ -18364,6 +18640,7 @@ Object {
     ],
     "professionalDegrees": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "VFFAS",
         "courses": Array [
           "ENTENR0",
@@ -18418,6 +18695,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "VFVVS",
         "courses": Array [
           "INDIND01",
@@ -18448,6 +18726,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "VFVVS",
         "courses": Array [
           "TEIBRA0",
@@ -18470,6 +18749,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "VFKYL",
         "courses": Array [
           "KYLKYC0",
@@ -18498,6 +18778,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "VFVVS",
         "courses": Array [
           "SYSINJ0",
@@ -18528,6 +18809,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "VFVEN",
         "courses": Array [
           "VEIVEN0",
@@ -18552,6 +18834,7 @@ Object {
     ],
     "profiles": Array [],
     "program": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ELLPRA0",
         "SYSSYT0",
@@ -18584,6 +18867,7 @@ Object {
       ],
     },
     "specialization": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "CADCAD01",
         "CADCAD02",
@@ -18982,6 +19266,7 @@ Object {
   "code": "VO",
   "education": Object {
     "mandatory": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG05",
         "HISHIS01a1",
@@ -19062,6 +19347,7 @@ Object {
     "orientations": Array [],
     "professionalDegrees": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "VOVAR",
         "courses": Array [
           "PEASOC0",
@@ -19086,6 +19372,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "VOVAR",
         "courses": Array [
           "MEDMED02",
@@ -19110,6 +19397,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "VOVAR",
         "courses": Array [
           "PSYPSY02",
@@ -19128,6 +19416,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "VOVAR",
         "courses": Array [
           "GERÄLD0",
@@ -19148,6 +19437,7 @@ Object {
     ],
     "profiles": Array [],
     "program": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "HALHAL0",
         "MÄNETI0",
@@ -19236,6 +19526,7 @@ Object {
       ],
     },
     "specialization": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG06",
         "ENTENR0",
@@ -19572,6 +19863,7 @@ Object {
   "code": "YX",
   "education": Object {
     "mandatory": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "ENGENG05",
         "HISHIS01a1",
@@ -19645,6 +19937,7 @@ Object {
     "professionalDegrees": Array [],
     "profiles": Array [
       Object {
+        "aliasSubjects": Array [],
         "code": "YXKLA",
         "courses": Array [
           "DAKKLA01a",
@@ -19664,6 +19957,7 @@ Object {
         ],
       },
       Object {
+        "aliasSubjects": Array [],
         "code": "YXMOD",
         "courses": Array [
           "DAKKLA01b",
@@ -19684,6 +19978,7 @@ Object {
       },
     ],
     "program": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "DAEDAT0",
         "DAKDAS0",
@@ -19730,6 +20025,7 @@ Object {
       ],
     },
     "specialization": Object {
+      "aliasSubjects": Array [],
       "courses": Array [
         "DAGDAN0",
         "DAGDAS0",
