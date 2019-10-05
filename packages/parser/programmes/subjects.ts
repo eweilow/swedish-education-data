@@ -6,6 +6,7 @@ export function readProgramSubjects(inSubjects: any) {
   }
   const courses: any[] = [];
   const subjects: any[] = [];
+  const aliasSubjects: any[] = [];
 
   for (const subject of inSubjects) {
     if (typeof subject !== "object") {
@@ -29,11 +30,26 @@ export function readProgramSubjects(inSubjects: any) {
       getSortableCode(a).localeCompare(getSortableCode(b))
     );
 
-    subjects.push({
-      code,
-      minPoints: Math.max(point, coursePoints),
-      courses: [...subjectCourses]
-    });
+    if (
+      subject.alias != null &&
+      subject.alias[0].toString().toLowerCase() === "true"
+    ) {
+      aliasSubjects.push({
+        code,
+        name: subject.name[0],
+        optional:
+          subject.optional != null &&
+          subject.optional[0].toString().toLowerCase() === "true",
+        minPoints: Math.max(point, coursePoints),
+        courses: [...subjectCourses]
+      });
+    } else {
+      subjects.push({
+        code,
+        minPoints: Math.max(point, coursePoints),
+        courses: [...subjectCourses]
+      });
+    }
   }
   courses.sort((a, b) => getSortableCode(a).localeCompare(getSortableCode(b)));
   subjects.sort((a, b) =>
@@ -42,6 +58,7 @@ export function readProgramSubjects(inSubjects: any) {
 
   return {
     courses,
-    subjects
+    subjects,
+    aliasSubjects
   };
 }
