@@ -113,7 +113,7 @@ export async function parseProgram(data: any, replacementsDirectory: string) {
           )
         )
       },
-      educationObjective: exportParagraphs(
+      educationObjectives: exportParagraphs(
         educationObjective.content.join("\n")
       )
         .join("")
