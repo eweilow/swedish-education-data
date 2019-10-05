@@ -5,20 +5,19 @@ import { assert } from "chai";
 
 export function readProgramOrientations(
   manualReplacements: any,
-  data: any,
-  program: any
+  html: string,
+  data: any
 ) {
+  html = normalizeHTML(html.trim());
   setValueIfExists(
     manualReplacements["program.info.orientation.html"],
-    value => checkTextEquality(program.info.orientation.html, value.join("\n")),
+    value => checkTextEquality(html, value.join("\n")),
     value => {
-      program.info.orientation.html = normalizeHTML(value.join("\n"));
+      html = normalizeHTML(value.join("\n"));
     }
   );
 
-  const orientations = [
-    ...program.info.orientation.html.matchAll(/\<p\>((?:\n|.)*?)\<\/p\>/gm)
-  ];
+  const orientations = [...html.matchAll(/\<p\>((?:\n|.)*?)\<\/p\>/gm)];
 
   const possibleStrings = orientations.map(el => el[1]);
   const countOfSuitableStrings = possibleStrings.map(
@@ -31,8 +30,8 @@ export function readProgramOrientations(
   );
   if (erronousStrings.length > 0) {
     throw new Error(
-      `The orientation HTML in program '${program.title}' (${program.code}) cannot be used to extract information about orientations:\n | ` +
-        program.info.orientation.html.replace(/\n/g, "\n | ")
+      `The orientation HTML in program '${data.title[0]}' (${data.code[0]}) cannot be used to extract information about orientations:\n | ` +
+        html.replace(/\n/g, "\n | ")
     );
   }
 
@@ -52,13 +51,13 @@ export function readProgramOrientations(
     assert.equal(
       usableStrings.length,
       programOrientations.length,
-      `count of programOrientations should match orientation HTML in program ${program.code}`
+      `count of programOrientations should match orientation HTML in program ${data.code[0]}`
     );
   } else if (profiles != null) {
     assert.equal(
       usableStrings.length,
       profiles.length,
-      `count of profiles should match orientation HTML in program ${program.code}`
+      `count of profiles should match orientation HTML in program ${data.code[0]}`
     );
   } else {
     assert.equal(
@@ -68,7 +67,7 @@ export function readProgramOrientations(
     );
   }
 
-  program.info.orientation.html = normalizeHTML(
-    restStrings.map(el => `<p>${el}</p>`).join("\n")
-  );
+  html = normalizeHTML(restStrings.map(el => `<p>${el}</p>`).join("\n"));
+
+  return html;
 }

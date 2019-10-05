@@ -1,8 +1,7 @@
-import { parseXML } from "../utils/parseXml";
 import { normalizeHTML } from "../utils/normalizeHtml";
 
+import * as $ from "cheerio";
 import { assert } from "chai";
-import { readFileSync } from "fs";
 import { join } from "path";
 import { readProgramOrientations } from "./orientations";
 import { getReplacements } from "../replacement";
@@ -47,6 +46,58 @@ export async function parseProgram(data: any, replacementsDirectory: string) {
     `warning: Program ${data.code[0]} has non-empty <projectAssignment/>`
   );
 
+  function exportParagraphs(inputStr: string) {
+    const strs = [...inputStr.matchAll(/<p>((?:.|\n)+?)<\/p>/g)].map(el =>
+      $("<div>" + el[1] + "</div>")
+        .text()
+        .replace(/\n/g, " ")
+        .replace(/\s+/g, " ")
+        .trim()
+    );
+
+    const left = strs
+      .join(" ")
+      .replace(/\n/g, " ")
+      .replace(/\s+/g, " ")
+      .trim();
+    const right = $("<div>" + normalizeHTML(inputStr) + "</div>")
+      .text()
+      .replace(/\n/g, " ")
+      .replace(/\s+/g, " ")
+      .trim();
+    if (left !== right) {
+      throw new Error(
+        "Unmatching text:\n'" + left + "'\n\nand\n\n'" + right + "'"
+      );
+    }
+
+    return strs;
+  }
+
+  if (orientation.title[0].trim() !== "Inriktningar") {
+    console.warn(
+      `warning: Program ${
+        data.code[0]
+      } has orientation.title[0].trim() !== "Inriktningar" ('${orientation.title[0].trim()}' !== "Inriktningar")`
+    );
+  }
+
+  if (educationObjective.title[0].trim() !== "Mål för gymnasiearbetet") {
+    console.warn(
+      `warning: Program ${
+        data.code[0]
+      } has orientation.title[0].trim() !== "Mål för gymnasiearbetet" ('${educationObjective.title[0].trim()}' !== "Mål för gymnasiearbetet")`
+    );
+  }
+
+  const manualReplacements = await getReplacements(
+    join(
+      replacementsDirectory,
+      "./program",
+      "p_" + data.code[0].trim() + ".json"
+    )
+  );
+
   const program = {
     title: data.name[0].trim(),
     code: data.code[0].trim(),
@@ -55,17 +106,24 @@ export async function parseProgram(data: any, replacementsDirectory: string) {
     typeOfProgram: data.typeOfProgram[0].trim(),
     applicableFrom: new Date(data.applianceDate[0]).toISOString(),
     info: {
-      degreeObjective: {
-        html: normalizeHTML(degreeObjective.content.join("\n"))
-      },
+      degreeObjectives: exportParagraphs(degreeObjective.content.join(" ")),
       orientation: {
         title: orientation.title[0].trim(),
-        html: normalizeHTML(orientation.content.join("\n"))
+        lines: exportParagraphs(
+          readProgramOrientations(
+            manualReplacements,
+            orientation.content.join("\n"),
+            data
+          )
+        )
       },
-      educationObjective: {
-        title: educationObjective.title[0].trim(),
-        html: normalizeHTML(educationObjective.content.join("\n"))
-      }
+      educationObjective: exportParagraphs(
+        educationObjective.content.join("\n")
+      )
+        .join("")
+        .split(/\.\s+(?=Gymnasiearbetet)/g)
+        .map(el => el.trim())
+        .map(el => (el.endsWith(".") ? el : `${el}.`))
     },
     education: {
       mandatory: readProgramSubjects(commonMandatory.subject),
@@ -117,16 +175,6 @@ export async function parseProgram(data: any, replacementsDirectory: string) {
     }
   };
 
-  const manualReplacements = await getReplacements(
-    join(replacementsDirectory, "./program", "p_" + program.code + ".json")
-  );
-  readProgramOrientations(manualReplacements, data, program);
-
   assert.oneOf(program.info.orientation.title, ["Inriktningar", "Profiler"]);
-  assert.equal(
-    program.info.educationObjective.title,
-    "Mål för gymnasiearbetet"
-  );
-
   return program;
 }

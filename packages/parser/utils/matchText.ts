@@ -28,6 +28,8 @@ export function checkTextEquality(
   if (leftText === rightText) {
     return true;
   }
-  console.warn(`left:\n'${leftText}'\ndoes not equal right:\n'${rightText}'`);
+  console.warn(
+    `left:\n'${leftText}'\ndoes not equal right:\n'${rightText}'\n\nraw:\n\nleft:\n'${left}'\ndoes not equal right:\n'${right}'`
+  );
   return false;
 }
