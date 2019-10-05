@@ -67,7 +67,8 @@ export async function parseSubject(data: any, replacementsDirectory: string) {
         .replace(/^[0-9]+\. /, "")
         .replace(/(\s|\n)+/gm, " ")
         .trim()
-    );
+    )
+    .map(el => el[0].toUpperCase() + el.slice(1));
 
   assert.isAtLeast(
     developmentPurposes.length,
