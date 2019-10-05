@@ -24,7 +24,11 @@ export async function parseCourse(
   replacementsDirectory: string
 ) {
   const manualReplacements = await getReplacements(
-    join(replacementsDirectory, "./course", "c_" + data.code[0] + ".json")
+    join(
+      replacementsDirectory,
+      "./course",
+      "c_" + data.code[0].trim() + ".json"
+    )
   );
 
   setValueIfExists(
@@ -40,7 +44,9 @@ export async function parseCourse(
     /<p\><p\>/.test(data.description[0])
   ) {
     console.warn(
-      `warning: course ${data.code[0]} has malformed description: '${data.description[0]}'`
+      `warning: course ${data.code[0].trim()} has malformed description: '${
+        data.description[0]
+      }'`
     );
   }
 
@@ -59,7 +65,7 @@ export async function parseCourse(
         req.text
       )
     ) {
-      console.log(data.code[0] + " - " + req.step + ": \n" + req.text);
+      console.log(data.code[0].trim() + " - " + req.step + ": \n" + req.text);
     }
     out[req.step] = [...req.text.matchAll(/<p>(.+?)<\/p>/g)]
       .map(el => el[1])
@@ -111,7 +117,7 @@ export async function parseCourse(
         throw new Error(
           `Found invalid tags '${[...matchedTags].join(", ")}' in '${
             req.text
-          }' in grade ${req.step} of course ${data.code[0]}`
+          }' in grade ${req.step} of course ${data.code[0].trim()}`
         );
       }
     }
@@ -121,7 +127,7 @@ export async function parseCourse(
   const criteriaReplacements = join(
     replacementsDirectory,
     "./criteria",
-    "c_" + data.code[0] + ".json"
+    "c_" + data.code[0].trim() + ".json"
   );
   const criteriaReplacement = await getReplacements(
     criteriaReplacements,
@@ -168,19 +174,25 @@ export async function parseCourse(
 
   if (out["E"].length < out["C"].length) {
     console.warn(
-      `Found fewer E criteria than C criteria in course: ${data.code[0]} (${out["E"].length} vs ${out["C"].length})`
+      `Found fewer E criteria than C criteria in course: ${data.code[0].trim()} (${
+        out["E"].length
+      } vs ${out["C"].length})`
     );
     hasError = true;
   }
   if (out["E"].length < out["A"].length) {
     console.warn(
-      `Found fewer E criteria than A criteria in course: ${data.code[0]} (${out["E"].length} vs ${out["A"].length})`
+      `Found fewer E criteria than A criteria in course: ${data.code[0].trim()} (${
+        out["E"].length
+      } vs ${out["A"].length})`
     );
     hasError = true;
   }
   if (out["C"].length < out["A"].length) {
     console.warn(
-      `Found fewer C criteria than A criteria in course: ${data.code[0]} (${out["C"].length} vs ${out["A"].length})`
+      `Found fewer C criteria than A criteria in course: ${data.code[0].trim()} (${
+        out["C"].length
+      } vs ${out["A"].length})`
     );
     hasError = true;
   }
@@ -204,7 +216,7 @@ export async function parseCourse(
   const criteriaReplacements2 = join(
     replacementsDirectory,
     "./criteria2",
-    "c_" + data.code[0] + ".json"
+    "c_" + data.code[0].trim() + ".json"
   );
   const criteriaReplacement2 = await getReplacements(
     criteriaReplacements2,
@@ -253,7 +265,9 @@ export async function parseCourse(
     out["E"].length !== out["C"].length
   ) {
     console.warn(
-      `Found unmatched criteria length in course: ${data.code[0]} (${out["E"].length}, ${out["C"].length}, ${out["A"].length})`
+      `Found unmatched criteria length in course: ${data.code[0].trim()} (${
+        out["E"].length
+      }, ${out["C"].length}, ${out["A"].length})`
     );
     if (out["E"].length >= out["C"].length + 2) {
       throw new Error("Can only automatically match length difference of 2");
@@ -321,7 +335,7 @@ export async function parseCourse(
 
   if (centralContentGroups.length === 0) {
     throw new Error(
-      "No central content groups found in course " + data.code[0]
+      "No central content groups found in course " + data.code[0].trim()
     );
   }
 
@@ -356,7 +370,7 @@ export async function parseCourse(
 
   /*
   console.log(
-    data.code[0],
+    data.code[0].trim(),
     [
       ...data.centralContent[0]
         .replace("\n", " ")

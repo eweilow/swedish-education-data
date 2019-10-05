@@ -11,7 +11,7 @@ import { getSortableCode } from "../utils/sortableCode";
 
 export async function parseSubject(data: any, replacementsDirectory: string) {
   if (!/^\<p\>.*?\<\/p\>$/.test(data.description[0])) {
-    console.warn(`subject ${data.code[0]} has malformed description`);
+    console.warn(`subject ${data.code[0].trim()} has malformed description`);
   }
 
   const subject = {
@@ -27,7 +27,7 @@ export async function parseSubject(data: any, replacementsDirectory: string) {
     typeOfSchooling: data.typeOfSchooling[0].trim(),
     category: data.category[0].trim(),
     applicableFrom: new Date(data.applianceDate[0]).toISOString(),
-    courses: data.courses.map((el: any) => el.code[0])
+    courses: data.courses.map((el: any) => el.code[0].trim())
   };
 
   subject.courses.sort((a: any, b: any) =>

@@ -28,7 +28,7 @@ export async function parseCourses(
 
     for (const course of rawData.subject.courses) {
       const data = await parseCourse(
-        subjects.get(rawData.subject.code[0])!,
+        subjects.get(rawData.subject.code[0].trim())!,
         course,
         replacementsDirectory
       );

@@ -39,11 +39,11 @@ export async function parseProgram(data: any, replacementsDirectory: string) {
 
   warnNonEmptyArray(
     data.individualChoice,
-    `warning: Program ${data.code[0]} has non-empty <individualChoice/>`
+    `warning: Program ${data.code[0].trim()} has non-empty <individualChoice/>`
   );
   warnNonEmptyArray(
     data.projectAssignment,
-    `warning: Program ${data.code[0]} has non-empty <projectAssignment/>`
+    `warning: Program ${data.code[0].trim()} has non-empty <projectAssignment/>`
   );
 
   function exportParagraphs(inputStr: string) {
@@ -76,17 +76,13 @@ export async function parseProgram(data: any, replacementsDirectory: string) {
 
   if (orientation.title[0].trim() !== "Inriktningar") {
     console.warn(
-      `warning: Program ${
-        data.code[0]
-      } has orientation.title[0].trim() !== "Inriktningar" ('${orientation.title[0].trim()}' !== "Inriktningar")`
+      `warning: Program ${data.code[0].trim()} has orientation.title[0].trim() !== "Inriktningar" ('${orientation.title[0].trim()}' !== "Inriktningar")`
     );
   }
 
   if (educationObjective.title[0].trim() !== "Mål för gymnasiearbetet") {
     console.warn(
-      `warning: Program ${
-        data.code[0]
-      } has orientation.title[0].trim() !== "Mål för gymnasiearbetet" ('${educationObjective.title[0].trim()}' !== "Mål för gymnasiearbetet")`
+      `warning: Program ${data.code[0].trim()} has orientation.title[0].trim() !== "Mål för gymnasiearbetet" ('${educationObjective.title[0].trim()}' !== "Mål för gymnasiearbetet")`
     );
   }
 
@@ -101,7 +97,7 @@ export async function parseProgram(data: any, replacementsDirectory: string) {
   const program = {
     title: data.name[0].trim(),
     code: data.code[0].trim(),
-    url: urls[data.code[0]] || null,
+    url: urls[data.code[0].trim()] || null,
     typeOfSchooling: data.typeOfSchooling[0].trim(),
     typeOfProgram: data.typeOfProgram[0].trim(),
     applicableFrom: new Date(data.applianceDate[0]).toISOString(),
@@ -155,13 +151,17 @@ export async function parseProgram(data: any, replacementsDirectory: string) {
                 typeof el.profSpecialization[0] !== "string"
               ) {
                 console.warn(
-                  `warning: Orientation ${el.programOrientationCode[0]} in program ${data.code[0]} has non-empty <profSpecialization/>`
+                  `warning: Orientation ${
+                    el.programOrientationCode[0]
+                  } in program ${data.code[0].trim()} has non-empty <profSpecialization/>`
                 );
               }
 
               if (el.subject == null) {
                 console.warn(
-                  `warning: Orientation ${el.programOrientationCode[0]} in program ${data.code[0]} has empty <subject/>`
+                  `warning: Orientation ${
+                    el.programOrientationCode[0]
+                  } in program ${data.code[0].trim()} has empty <subject/>`
                 );
               }
 

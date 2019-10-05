@@ -30,7 +30,9 @@ export function readProgramOrientations(
   );
   if (erronousStrings.length > 0) {
     throw new Error(
-      `The orientation HTML in program '${data.title[0]}' (${data.code[0]}) cannot be used to extract information about orientations:\n | ` +
+      `The orientation HTML in program '${
+        data.title[0]
+      }' (${data.code[0].trim()}) cannot be used to extract information about orientations:\n | ` +
         html.replace(/\n/g, "\n | ")
     );
   }
@@ -51,13 +53,13 @@ export function readProgramOrientations(
     assert.equal(
       usableStrings.length,
       programOrientations.length,
-      `count of programOrientations should match orientation HTML in program ${data.code[0]}`
+      `count of programOrientations should match orientation HTML in program ${data.code[0].trim()}`
     );
   } else if (profiles != null) {
     assert.equal(
       usableStrings.length,
       profiles.length,
-      `count of profiles should match orientation HTML in program ${data.code[0]}`
+      `count of profiles should match orientation HTML in program ${data.code[0].trim()}`
     );
   } else {
     assert.equal(

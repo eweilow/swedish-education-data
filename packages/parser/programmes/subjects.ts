@@ -13,16 +13,16 @@ export function readProgramSubjects(inSubjects: any) {
       continue;
     }
     // const name = subject.name[0];
-    const code = subject.code[0];
+    const code = subject.code[0].trim();
     const point = subject.point != null ? parseInt(subject.point[0], 10) : 0;
     const subjectCourses: any[] = [];
 
     let coursePoints = 0;
     for (const course of subject.course || []) {
-      if (!courses.includes(course.code[0])) {
-        courses.push(course.code[0]);
+      if (!courses.includes(course.code[0].trim())) {
+        courses.push(course.code[0].trim());
       }
-      subjectCourses.push(course.code[0]);
+      subjectCourses.push(course.code[0].trim());
       coursePoints += parseInt(course.point[0], 10);
     }
 
