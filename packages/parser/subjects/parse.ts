@@ -126,20 +126,73 @@ export async function parseSubject(data: any, replacementsDirectory: string) {
       purpose.join("\n | ")
   );
 
-  for (const row of courseInfo) {
-    const anyFound = (data.courses as any[]).find(el =>
-      row.startsWith(el.name[0])
-    );
+  function longestStartString(a: string, b: string) {
+    if (!b.startsWith(a)) {
+      return -1;
+    }
 
-    assert.isTrue(
-      anyFound != null,
-      "No courses found in subject " +
-        subject.code +
-        " as a match for the row: '" +
-        row +
-        "'"
+    let i = 0;
+    for (; i < Math.min(a.length, b.length); i++) {
+      if (a[i] !== b[i]) {
+        break;
+      }
+    }
+    return i;
+  }
+
+  const matchMatrix: number[][] = [];
+  const matchMatrixWidth = courseInfo.length;
+  const matchMatrixHeight = data.courses.length;
+
+  for (const course of data.courses) {
+    matchMatrix.push(
+      courseInfo.map((el: any) =>
+        longestStartString(course.name[0].trim(), el.trim())
+      )
     );
-    subject.courseInfo[anyFound.code[0]] = row;
+  }
+
+  const printDebug = false;
+
+  const picked = new Set<string>();
+  if (printDebug) {
+    console.log({
+      rows: data.courses.map((el: any) => el.name[0]),
+      columns: courseInfo
+    });
+  }
+  if (printDebug) {
+    console.log(matchMatrix);
+  }
+  for (let column = 0; column < matchMatrixWidth; column++) {
+    if (printDebug) {
+      console.log(`\n\n${courseInfo[column]}:`);
+    }
+
+    let best = -1;
+    let str: string | null = null;
+    for (let row = 0; row < matchMatrixHeight; row++) {
+      if (matchMatrix[row][column] > best) {
+        best = matchMatrix[row][column];
+        str = data.courses[row].code[0].trim();
+      }
+      if (
+        !picked.has(data.courses[row].code[0].trim()) &&
+        matchMatrix[row][column] >= 0
+      ) {
+        if (printDebug) {
+          console.log(
+            `${matchMatrix[row][column]}: '${
+              data.courses[row].name[0]
+            }', ${data.courses[row].code[0].trim()}`
+          );
+        }
+      }
+    }
+    if (str != null) {
+      picked.add(str);
+      subject.courseInfo[str.trim()] = courseInfo[column];
+    }
   }
 
   for (const code of subject.courses) {
@@ -147,7 +200,12 @@ export async function parseSubject(data: any, replacementsDirectory: string) {
       console.warn(
         `warning: Course ${code} is missing info in subject ${subject.code}. Auto-generating`
       );
-      const found = (data.courses as any[]).find(el => code === el.code[0]);
+      const found = (data.courses as any[]).find(
+        el => code === el.code[0].trim()
+      );
+      // if (subject.code === "IDR") {
+      //   console.log(found);
+      // }
       subject.courseInfo[code] = `${found.name[0]}, ${found.point[0]} poäng.`;
     }
   }
