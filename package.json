@@ -1,25 +1,20 @@
 {
-  "name": "swedish-education-data",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "node test.js"
+  "name": "@education-data/root",
+  "workspaces": {
+    "packages": [
+      "packages/**"
+    ]
   },
-  "repository": "https://github.com/eweilow/swedish-education-data",
-  "author": "eweilow",
-  "license": "GPLv3",
+  "scripts": {
+    "clean": "cd packages/data-swedish-gymnasium && yarn clean",
+    "build": "cd packages/data-swedish-gymnasium && yarn build",
+    "test": "cd packages/data-swedish-gymnasium && yarn test",
+    "prepare-publish": "yarn clean && yarn build && yarn test",
+    "lerna-publish": "lerna publish prerelease --dist-tag latest"
+  },
   "private": true,
-  "dependencies": {
-    "assert": "^1.4.1",
-    "chai": "^3.5.0",
-    "cheerio": "^0.22.0",
-    "glob": "^7.1.1",
-    "jaro-winkler": "^0.2.8",
-    "mz": "^2.6.0",
-    "node-fetch": "^2.1.2",
-    "tar.gz": "^1.0.5",
-    "tmp-promise": "^1.0.2",
-    "xml2js": "^0.4.17"
+  "devDependencies": {
+    "lerna": "^3.10.7",
+    "@types/node": "12.7.5"
   }
 }

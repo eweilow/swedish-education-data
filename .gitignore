@@ -1,6 +1,6 @@
-/node_modules
-/data
-/src
-/tmp
-/build
+**/node_modules
 \.vscode/settings\.json
+
+packages/**/out
+packages/**/data
+packages/parser/courses/*.txt

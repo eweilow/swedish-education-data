@@ -1,26 +1,8 @@
 language: node_js
 node_js:
-- stable
-before_script:
-- mkdir src
+  - stable
+install:
+  - yarn
 script:
-- node output.js
-- zip -rq build/data.zip ./build
-branches:
-  except:
-    - /^untagged-.*$/
-notifications:
-  email: false
-  slack:
-    secure: faJoVFwo3HQN06bf82+0BWkYaxgY9U5vdpRhP0t4Vfc/KWj8KMw4+yU2qAe84jKQE32k29QQGaA5Sv4L0i357PnCJytzRfBwYtTQY17+NumnepWA9/jhSORRWz2XdrUWdC6TQbMGgjPOn+7ovU8yOACFi9i6ajIHHFt8tGZ0fJeDZOaVeOyQFZuUxN8+mvrcw15iT4WOcluYjdvVr3L5WQWqPEH02lYBviacw8XJw7SacEu9aTqp6ZpFEuf79ky8OS6Ku4fmQT3zJtpfUqPHgvQmaU6UspbZ1018RL3EAtH76qX9z3pR7y5+/Q+3xxVaJCDjloJDJBSoT8ZKiTewTVJ+fK7M+TFAvZTSh7t57uHwP22+B7QnXU3XKgmkJGKZtniNJ+jq+LkqoYvpb14CdFhFH+ml4kAHPLM5ZfY/T2EG+Msdd6F7rfBWt3TQSvJBnTIx881psXoUnt9X3buEEvimprAzdnhnl4ymVddFDGUMZ/YdQXwyWf9kcsUek4vkpRBlu/OdwO7RWnwEqdDjdgxszeO1TPEGVfj/BzhDZ8St6Qd2pX27OLFdj0zeWRaC6Dat4I7iUcahHe27GbW5F/PCBqYrQapkF5YPeNlPfnCucJOx86nL/G48G0sXQm23Qd+PW7815Hih2so4spPC4nl4I5vBf7ysIrBZarYnfuQ=
-before_deploy:
-  - git config --global user.email "builds@travis-ci.com"
-  - git config --global user.name "Travis CI"
-deploy:
-  api_key:
-    secure: v3ZOaZhGABwNNisTmMcngUXul8InrvHKAj0LqWjnK78iQmNdmRDlzppyv4WVMtT503Q0UHtdTQZWZxmFhTvNUHi0p502ZGFBem3f7v7umpfxD4jE7zNRApmO5jPxKgRXHgSvg0HjYdA8sEPJpRk1i8NK666TYPbf7XQv/nlfwerLLaYqWiLdKYFIRtqNDta/px6q62HKE6mgeQ9bO50WnTlMzZ1G9YzPo0yo7ADglg+MtYfoP8H1nwjejIFTmvQ2wFHYlqr0BDvC1ZN6TTtvOomoy/n4oLpH6ndJiYe0c9jzA7eec+2qrvutykZ0rbaScXC7cPnOA5Bkzbxd40fBq3iwD93eAw3LVrV2XbsUWYkd5luNj5V7gsjOH0JeoC1sovXMeRsn3zx2SmAZINr+wYFJhCrxq0UPdF8HGeKJOgjgqhx3dFDLz/ELds7mfE6X2OBRpIJEbw1V/ptHhnh8xFxDg7+5BcZDBnqcVJZdH9VN0Z/Bmr/kEPumul7a+vrXApCHZxI6UmRWkNHMXIGcnJ5PAam1hXj9p2rapicJhIzBQ4V/vxxayxIrfOxToaKV/W2+Qd7kAYQOjBlF2A+lp31vMT7dp2ZN6gRZQ1vY1e0qg1B7JFsGXC0SZZJTotAP1F9id7vcD/HMIfqIMbsxJPBJ0vdU1roRSJk1eAvcZ0A=
-  provider: releases
-  file: "build/data.zip"
-  skip_cleanup: true
-  on:
-    branch: "master"
+  - yarn build
+  - yarn test
