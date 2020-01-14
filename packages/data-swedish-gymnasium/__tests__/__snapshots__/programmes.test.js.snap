@@ -11363,7 +11363,7 @@ Object {
               "FRDBAS0",
               "FRDPLA0",
             ],
-            "minPoints": 300,
+            "minPoints": 100,
           },
           Object {
             "code": "MAI",
@@ -13627,7 +13627,7 @@ Object {
 
 exports[`programme data 'Restaurang- och livsmedelsprogrammet' parsed correctly 1`] = `
 Object {
-  "applicableFrom": "2018-07-31T22:00:00.000Z",
+  "applicableFrom": "2019-11-26T23:00:00.000Z",
   "code": "RL",
   "education": Object {
     "mandatory": Object {
@@ -13830,7 +13830,7 @@ Object {
           "BAGKON02",
           "BAGKON03",
         ],
-        "name": "Bageri- och konditorikunskap – B",
+        "name": "Bagare och konditor",
         "subjects": Array [
           Object {
             "code": "BAG",
@@ -13849,22 +13849,20 @@ Object {
         "aliasSubjects": Array [],
         "code": "RLBAG",
         "courses": Array [
-          "BAGBAG02",
-          "BAGBAG03",
-          "BAGKON02",
-          "BAGKON03",
-          "BAGKON04",
+          "MALMAL02",
+          "MALMAL03",
+          "MALMAL04",
+          "MALSPE0",
         ],
-        "name": "Bageri- och konditorikunskap – K",
+        "name": "Bagare och konditor",
         "subjects": Array [
           Object {
-            "code": "BAG",
+            "code": "MAL",
             "courses": Array [
-              "BAGBAG02",
-              "BAGBAG03",
-              "BAGKON02",
-              "BAGKON03",
-              "BAGKON04",
+              "MALMAL02",
+              "MALMAL03",
+              "MALMAL04",
+              "MALSPE0",
             ],
             "minPoints": 700,
           },
