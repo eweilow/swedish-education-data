@@ -72,6 +72,7 @@ export async function parseCourse(
       .filter(el => el && el.trim())
       .map(el =>
         el
+          .replace(/<br\s*\/?>/g, " ")
           .replace(/<italic>\s*\.\s*<\/italic>/g, ".")
           .replace(/\.\s*<\/strong>/g, "</strong>. ")
           .split(".")
@@ -109,7 +110,8 @@ export async function parseCourse(
 
         if (
           matchedTags.size === 0 ||
-          (matchedTags.size === 1 && matchedTags.has("strong"))
+          (matchedTags.size === 1 && matchedTags.has("strong")) ||
+          (matchedTags.size === 1 && matchedTags.has("br"))
         ) {
           continue;
         }
