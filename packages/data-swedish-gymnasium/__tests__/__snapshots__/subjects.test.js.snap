@@ -179,6 +179,38 @@ Object {
 }
 `;
 
+exports[`subject data 'Anatomi och fysiologi' parsed correctly 1`] = `
+Object {
+  "applicableFrom": "2019-09-30T22:00:00.000Z",
+  "code": "ANO",
+  "courseInfo": Object {
+    "ANOANA01": "Anatomi och fysiologi 1, 50 poäng.",
+    "ANOANA02": "Anatomi och fysiologi 2, 50 poäng, som bygger på kursen anatomi och fysiologi 1.",
+  },
+  "courses": Array [
+    "ANOANA01",
+    "ANOANA02",
+  ],
+  "description": "Ämnet anatomi och fysiologi grundar sig huvudsakligen på de medicinska kunskapsområdena anatomi, fysiologi, mikrobiologi och farmakologi. Ämnet behandlar människokroppens uppbyggnad och funktion, vanliga mikroorganismer och deras spridningsvägar samt läkemedel.",
+  "developmentPurposes": Array [
+    "Kunskaper om hur människokroppen är uppbyggd och fungerar.",
+    "Kunskaper om människans normala fysiska utveckling.",
+    "Förmåga att använda medicinsk terminologi.",
+    "Kunskaper om vanliga läkemedels användningsområden, administreringssätt samt förmåga att utföra enklare läkemedelsberäkning.",
+    "Kunskaper om lagar och andra bestämmelser kopplade till läkemedel.",
+    "Kunskaper om mikroorganismer och hur de sprids, smittförebyggande åtgärder samt kunskaper om kroppens försvarssystem.",
+  ],
+  "purposes": Array [
+    "Undervisningen i ämnet anatomi och fysiologi ska syfta till att eleverna utvecklar grundläggande kunskaper om människokroppens uppbyggnad och funktion. Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om människans normala fysiska utveckling från befruktning till livets slut.",
+    "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper i medicinsk terminologi vilket bidrar till kommunikativ förmåga inom området.",
+    "I undervisningen ska eleverna ges möjlighet att utveckla grundläggande kunskaper om läkemedel och deras användningsområden samt förmåga att utföra enklare form av läkemedelsberäkning och att göra rimlighetsbedömningar av resultaten.",
+    "Undervisningen ska vidare ge eleverna möjlighet att utveckla kunskaper om vanliga mikroorganismer och hur de sprids samt kunskaper om hur man förhindrar smittspridning. Vidare ska undervisningen ge eleverna möjlighet att utveckla grundläggande kunskaper om hur kroppens försvarssystem fungerar.",
+  ],
+  "title": "Anatomi och fysiologi",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+}
+`;
+
 exports[`subject data 'Animation' parsed correctly 1`] = `
 Object {
   "applicableFrom": "2011-06-30T22:00:00.000Z",
@@ -3376,6 +3408,40 @@ Object {
 }
 `;
 
+exports[`subject data 'Funktionsförmåga och funktionsnedsättning' parsed correctly 1`] = `
+Object {
+  "applicableFrom": "2021-06-30T22:00:00.000Z",
+  "code": "FUT",
+  "courseInfo": Object {
+    "FUTFUN01": "Funktionsförmåga och funktionsnedsättning 1, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen specialpedagogik 1.",
+    "FUTFUN02": "Funktionsförmåga och funktionsnedsättning 2, 100 poäng, som bygger på kursen funktionsförmåga och funktionsnedsättning 1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen specialpedagogik 2.",
+  },
+  "courses": Array [
+    "FUTFUN01",
+    "FUTFUN02",
+  ],
+  "description": "Ämnet har ett helhetsperspektiv på funktionsförmåga och funktionsnedsättning utifrån pedagogiska, etiska och kulturella aspekter.",
+  "developmentPurposes": Array [
+    "Kunskaper om faktorer som påverkar hur barn och unga med funktionsnedsättning utvecklas.",
+    "Kunskaper om fysiska, psykiska, intellektuella och sociala funktionsnedsättningar samt deras orsaker och konsekvenser i vardagen.",
+    "Kunskaper om pedagogiska arbetssätt och hjälpmedel samt förmåga att använda dessa för att möjliggöra individens delaktighet och självbestämmande inklusive välfärdsteknologi.",
+    "Kunskaper om alternativ och kompletterande kommunikation.",
+    "Kunskaper om samhällets olika insatser för människor med funktionsnedsättning.",
+    "Förmåga att planera, genomföra, utvärdera, följa upp och dokumentera olika insatser för att skapa goda villkor för människor.",
+    "Förmåga att kommunicera och arbeta så att den enskilde individens önskemål, behov och självbestämmande beaktas och står i centrum samt förmåga att reflektera över sitt eget förhållningssätt i mötet med den enskilde och dennas nätverk.",
+    "Kunskaper om den historiska utvecklingen inom verksamhetsområdet och de värderingar och normer som påverkat synen på funktionsnedsättningar.",
+    "Kunskaper om de lagar och övriga bestämmelser som styr verksamhetsområdet samt förmåga att arbeta utifrån dessa.",
+  ],
+  "purposes": Array [
+    "Undervisningen i ämnet funktionsförmåga och funktionsnedsättning ska syfta till att eleverna utvecklar kunskaper om människans utveckling. Dessutom ska undervisningen ge eleverna kunskaper om vilka konsekvenser olika funktionsnedsättningar har för människor i vardagen samt vilka möjligheter de har med hjälp av olika former av stöd. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper för att i olika situationer skapa likvärdighet, delaktighet och tillgänglighet för människor med funktionsnedsättningar.",
+    "Undervisningen ska leda till att eleverna utvecklar förmåga att genomföra olika insatser för individer och grupper i behov av stöd. Eleverna ska även ges möjlighet att utveckla kunskaper om samhällets olika insatser för människor med funktionsnedsättningar. Undervisningen ska också leda till att eleverna utvecklar förmåga att möta människor med respekt och utifrån en demokratisk värdegrund samt utifrån överenskommelser om mänskliga rättigheter. Såväl egna som samhällets attityder till och värderingar av människors olikheter och rättigheter ska behandlas i undervisningen. Vidare ska undervisningen leda till förmåga att arbeta utifrån lagar och andra bestämmelser.",
+    "Problemlösning och handlingsberedskap ska stimuleras i undervisningen. Genom fältstudier eller genom att medverka i olika verksamheter ska eleverna ges möjlighet att få inblick i och erfarenhet av sociala och pedagogiska sammanhang. Eleverna ska även ges möjlighet att kunna arbeta utifrån ett etiskt och inkluderande förhållningssätt. Eleverna ska ges möjlighet att reflektera över och diskutera ämnesinnehållet, den historiska utvecklingen och centrala begrepp. Undervisningen ska också leda till att eleverna utvecklar förmåga att inhämta, granska och värdera ny kunskap inom området.",
+  ],
+  "title": "Funktionsförmåga och funktionsnedsättning",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+}
+`;
+
 exports[`subject data 'Fysik' parsed correctly 1`] = `
 Object {
   "applicableFrom": "2011-07-21T22:00:00.000Z",
@@ -4536,6 +4602,44 @@ Object {
     "Problemlösning och handlingsberedskap ska stimuleras i undervisningen. Genom fältstudier och genom att medverka i olika verksamheter ska eleverna ges möjlighet att få inblick i och erfarenhet av sociala och pedagogiska sammanhang. Eleverna ska ges möjlighet att reflektera över och diskutera centrala begrepp samt egna och andras handlingar och attityder. I undervisningen ska eleverna också ges möjlighet att utveckla förmåga att kritiskt söka, bearbeta, värdera och använda information från olika källor.",
   ],
   "title": "Hälsa",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+}
+`;
+
+exports[`subject data 'Hälso- och sjukvård' parsed correctly 1`] = `
+Object {
+  "applicableFrom": "2021-06-30T22:00:00.000Z",
+  "code": "HAO",
+  "courseInfo": Object {
+    "HAOHAL01": "Hälso- och sjukvård 1, 100 poäng, som bygger på kurserna anatomi och fysiologi 1, omvårdnad 1 och social omsorg 1.",
+    "HAOHAL02": "Hälso- och sjukvård 2, 100 poäng, som bygger på kursen hälso- och sjukvård 1.",
+    "HAORAD0": "Räddningsmedicin, 100 poäng, som bygger på kursen hälso- och sjukvård 2.",
+  },
+  "courses": Array [
+    "HAOHAL01",
+    "HAOHAL02",
+    "HAORAD0",
+  ],
+  "description": "Ämnet hälso- och sjukvård har sin grund i praktiskt hälso- och sjukvårdsarbete men också i de vetenskapliga ämnesområdena vårdvetenskap, pedagogik, medicin och etik. Ämnet behandlar hälso- och sjukvård på vårdinrättning och i hemmet.",
+  "developmentPurposes": Array [
+    "Kunskaper om människors hälsa och om hälsorelaterade levnadsvanor och livsvillkor ur ett helhetsperspektiv och vilka konsekvenser de får för hälsan.",
+    "Kunskaper om hälso- och sjukvård och medicinska åtgärder samt kunskaper om smärta och smärtbehandling.",
+    "Kunskaper om människan fysiskt, psykiskt, socialt och existentiellt vid ohälsa och i krissituationer samt förmåga att uppfatta och resonera kring etiska frågeställningar.",
+    "Förmåga att planera egna arbetsinsatser samt att utföra hälso- och sjukvårds- och medicintekniska uppgifter vid sjukdomar och olycksfall utifrån lagar och andra bestämmelser på sjukhus och i hemmet.",
+    "Förmåga att uppmärksamma symtom och förändringar i människors hälsotillstånd samt förmåga att utvärdera, rapportera och dokumentera sitt arbete och resultat med och utan digitala hjälpmedel på sjukhus och i hemmet.",
+    "Förmåga att använda medicinteknisk utrustning utifrån gällande säkerhetsföreskrifter och avvikelser.",
+    "Förmåga att pedagogiskt inspirera och motivera patienter till rehabiliterande eller habiliterande åtgärder samt egenvård.",
+    "Förmåga att bemöta, kommunicera och samarbeta med patienter, närstående och övrig personal.",
+    "Förmåga att ge första hjälpen och hjärt-lungräddning.",
+    "Kunskaper om samhällets organisation och hjälpinsatser vid krig och katastrofer samt kunskaper om arbete i samband med farligt gods.",
+  ],
+  "purposes": Array [
+    "Undervisningen i ämnet hälso- och sjukvård ska syfta till att eleverna utvecklar kunskaper om hälsofrämjande arbete och medicinskt omhändertagande. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att utföra hälso- och sjukvårdsuppgifter på ett etiskt, hygieniskt, ergonomiskt, hälsobefrämjande, rehabiliterande, habiliterande och pedagogiskt sätt. Undervisningen ska även leda till att eleverna utvecklar förmåga att uppmärksamma, rapportera och dokumentera förändringar i människors hälsotillstånd.",
+    "Undervisningen ska även leda till att eleverna utvecklar kunskaper om olika former av hälsofrämjande arbete samt förmåga att arbeta på ett hälsofrämjande sätt, vilket innebär att förstärka det friska hos människan och se individen som en resurs för sitt eget välbefinnande.",
+    "I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera egna arbetsinsatser samt utföra, utvärdera och dokumentera vård- och omsorgsuppgifter vid sjukdomar utifrån lagar och andra bestämmelser. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om hjärt-lungräddning, omhändertagande vid olycksfall samt om olycksplatsarbetets organisation. Undervisningen ska också bidra till att eleverna utvecklar förmåga att använda digitala hjälpmedel och annan teknisk utrustning samt att utföra medicintekniska uppgifter. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att kommunicera med andra människor med respekt för allas lika värde.",
+    "Genom fältstudier eller genom att medverka i olika verksamheter ska eleverna ges möjlighet att få inblick i och erfarenhet av sjukvårdsuppgifter som är vanliga inom hälso- och sjukvården. Undervisningen ska också leda till att eleverna utvecklar förmåga att inhämta, granska och värdera ny kunskap inom området.",
+  ],
+  "title": "Hälso- och sjukvård",
   "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
 }
 `;
@@ -6215,6 +6319,38 @@ Object {
 }
 `;
 
+exports[`subject data 'Lås- och passerteknik' parsed correctly 1`] = `
+Object {
+  "applicableFrom": "2021-06-30T22:00:00.000Z",
+  "code": "LAO",
+  "courseInfo": Object {
+    "LAOLAS0": "Låsinstallation, 200 poäng, som bygger på kursen låsteknik.",
+    "LAOLAT0": "Låsteknik, 200 poäng.",
+  },
+  "courses": Array [
+    "LAOLAS0",
+    "LAOLAT0",
+  ],
+  "description": "Ämnet lås- och passerteknik behandlar lås och låssystems uppbyggnad, tillverkning och installation. Dessutom behandlar ämnet metoder och tekniker för underhåll och reparation av befintliga låssystem.",
+  "developmentPurposes": Array [
+    "Kunskaper om uppbyggnad, funktion och driftegenskaper hos låstekniska system i och kring dörrmiljön.",
+    "Förmåga att tillverka, montera, installera och underhålla låstekniska system.",
+    "Kunskaper om lagar, förordningar och standarder som reglerar arbete med låstekniska system.",
+    "Förmåga att tolka låstekniska system med ledning av scheman, ritningar och övriga anvisningar.",
+    "Förmåga att kontrollera, prova, felsöka och avhjälpa fel på låstekniska system.",
+    "Förmåga att kunna registrera och dokumentera installation, avvikelser och förändringar.",
+    "Kunskaper om arbetsmiljö och säkerhet samt påverkan på miljö.",
+  ],
+  "purposes": Array [
+    "Undervisningen i ämnet lås- och installationsteknik ska syfta till att eleverna utvecklar kunskaper om produkter, utrustning och material för lås, låsanläggningar och dörrmiljöer. Dessutom ska undervisningen ge eleverna möjlighet att utveckla kunskaper om de installationstekniker och kvalitetskontroller som används inom området.",
+    "Undervisningen ska bidra till att eleverna utvecklar kunskap om lagar, förordningar och standarder inom området samt ett yrkesetiskt förhållningssätt vid arbete med låstekniska system. Undervisningen ska också bidra till att eleverna utvecklar förmåga att planera och förbereda arbetet utifrån tekniska underlag. Vidare ska undervisningen leda till att eleverna utvecklar förmåga att arbeta på ett säkert och miljömässigt sätt samt kunskaper om dokumentation av utfört arbete.",
+    "I undervisningen ska ett undersökande arbetssätt förekomma. I praktiska övningar ska eleverna ges möjlighet att utveckla kunskaper i problemlösning som krävs för tillverkning, montering, installation och service av låstekniska system.",
+  ],
+  "title": "Lås- och passerteknik",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+}
+`;
+
 exports[`subject data 'Manuell mönsterkonstruktion' parsed correctly 1`] = `
 Object {
   "applicableFrom": "2014-10-05T22:00:00.000Z",
@@ -7678,6 +7814,43 @@ Object {
 }
 `;
 
+exports[`subject data 'Naturturism' parsed correctly 1`] = `
+Object {
+  "applicableFrom": "2021-06-30T22:00:00.000Z",
+  "code": "NAM",
+  "courseInfo": Object {
+    "NAMNAT01": "Naturturism 1, 100 poäng. Naturturism 1, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen naturguidning 1.",
+    "NAMNAT02": "Naturturism 2, 100 poäng, som bygger på kursen naturturism 1.",
+    "NAMNAT03": "Naturturism 3, 100 poäng, som bygger på kursen naturturism 2.",
+  },
+  "courses": Array [
+    "NAMNAT01",
+    "NAMNAT02",
+    "NAMNAT03",
+  ],
+  "description": "Ämnet naturturism handlar om hur natur- och kulturmiljöer kan nyttjas för rekreation, naturupplevelser och företagande. I ämnet ingår vägledning i samband med vistelse i naturen, arrangerade aktiviteter och besök i naturbrukets olika miljöer.",
+  "developmentPurposes": Array [
+    "Kunskaper om naturturismens olika metoder samt förmåga att planera, genomföra och utvärdera olika aktiviteter efter deltagarnas förutsättningar.",
+    "Förmåga att levandegöra och förmedla kunskaper om naturen och därigenom vägleda andra till upplevelser i natur- och kulturmiljöer på ett yrkesmässigt sätt.",
+    "Kunskaper om ledarskap och kommunikation och om hur människor fungerar i grupp samt förmåga att möta deltagare på ett serviceinriktat sätt med tydlig målgruppsanpassning.",
+    "Kunskaper om samband mellan natur och hälsa och hur naturen kan nyttjas i samband med rekreation, friskvård och rehabilitering.",
+    "Förmåga att välja, använda, vårda och underhålla redskap och utrustning för olika aktiviteter.",
+    "Kunskaper om olycksrisker och säkerhetsåtgärder samt förmåga att förebygga och vidta åtgärder vid olycksfall och tillbud.",
+    "Kunskaper om lagar och andra bestämmelser som gäller för olika natur- och kulturmiljöer samt förutsättningar för naturturism på annans mark.",
+    "Kunskaper om utveckling av affärsverksamheter med inriktning mot naturturism.",
+  ],
+  "purposes": Array [
+    "Undervisningen i ämnet naturturism ska syfta till att eleverna utvecklar förmåga att bedriva verksamhet för individer och grupper i natur- och kulturmiljöer. Eleverna ska ges möjlighet att utveckla förmåga att förstärka naturupplevelser och förmedla kunskap om biologiska samband i naturen. Undervisningen ska också leda till att eleverna utvecklar serviceanda och social förmåga.",
+    "Eleverna ska ges möjlighet att utveckla förmåga att med olika metoder planera, genomföra och utvärdera naturturismaktiviteter för olika målgrupper. Dessutom ska eleverna ges möjlighet att utveckla förmåga att välja, använda och vårda utrustning och teknik i samband med verksamheten.",
+    "Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att informera och berätta om växter, djur och om ekologiska samband i naturen. I undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om ledarskap och kommunikation samt om hur människor fungerar i grupp. Dessutom ska eleverna ges möjlighet att utveckla kunskap om värdskap och service samt hur naturen kan nyttjas i samband med rekreation och rehabilitering.",
+    "Undervisningen ska också bidra till att eleverna utvecklar kunskaper om lagar och andra bestämmelser som gäller för olika natur- och kulturmiljöer, om allemansrätten och om naturturism på annans mark samt hur affärsverksamheter kan utvecklas inom ramarna för gällande regelverk. Eleverna ska ges möjlighet att utveckla förmåga att ta ansvar för andra människors säkerhet i samband med arrangerade aktiviteter samt förmåga att förebygga och vidta åtgärder vid olycksfall och tillbud.",
+    "Genom övningar i realistiska situationer ska eleverna ges möjlighet att utveckla förmåga att vägleda andra till rikare naturupplevelser samt förmåga att använda redskap och utrustning för olika aktiviteter. Praktiska övningar ska också ge eleverna möjlighet att utveckla kunskaper om säkerhet, första hjälpen och livräddning. Genom vistelse och exkursioner i olika natur- och kulturmiljöer ska eleverna ges möjlighet att utveckla kunskaper om naturen och förmåga att iaktta och upptäcka naturens mångfald.",
+  ],
+  "title": "Naturturism",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+}
+`;
+
 exports[`subject data 'Naturvetenskaplig specialisering' parsed correctly 1`] = `
 Object {
   "applicableFrom": "2011-07-21T22:00:00.000Z",
@@ -7844,6 +8017,42 @@ Object {
     "Praktiskt arbete, fältstudier och ett undersökande arbetssätt ska ingå i undervisningen.",
   ],
   "title": "Odling i växthus",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+}
+`;
+
+exports[`subject data 'Omvårdnad' parsed correctly 1`] = `
+Object {
+  "applicableFrom": "2021-06-30T22:00:00.000Z",
+  "code": "OMV",
+  "courseInfo": Object {
+    "OMVOMV01": "Omvårdnad 1, 100 poäng, som bygger på kursen anatomi och fysiologi 1.",
+    "OMVOMV02": "Omvårdnad 2, 100 poäng, som bygger på kursen omvårdnad 1.",
+  },
+  "courses": Array [
+    "OMVOMV01",
+    "OMVOMV02",
+  ],
+  "description": "Ämnet omvårdnad har sin grund i praktiskt vård- och omsorgsarbete men också i det vetenskapliga ämnesområdet omvårdnad. Ämnet behandlar omvårdnadsåtgärder ur ett helhetsperspektiv.",
+  "developmentPurposes": Array [
+    "Kunskaper om sjukdomar, deras uppkomst och behandlingar samt teorier och centrala begrepp inom omvårdnad.",
+    "Förmåga att bedöma, planera och utföra, dokumentera och rapportera omvårdnadsuppgifter samt utvärdera den egna och teamets arbetsinsats utifrån resultat för vårdtagaren.",
+    "Förmåga att arbeta på ett etiskt och patientsäkert sätt.",
+    "Förmåga att arbeta på ett sådant sätt att smitta och smittspridning förhindras.",
+    "Kunskaper om omvårdnad i livets slutskede och omhändertagande efter döden.",
+    "Förmåga att använda teknisk utrustning och tekniska hjälpmedel samt använda informationsteknik för information, kommunikation och dokumentation.",
+    "Förmåga att kommunicera och samarbeta med andra samt arbeta på ett sätt som utgår från den enskilda människans önskemål och krav på stöd och hjälp i relation till biståndsbedömning eller vårdplanering.",
+    "Kunskaper om hälso- och sjukvårdens historia, utveckling, organisation och ansvarsområden.",
+    "Kunskaper om arbetsmiljö samt om lagar och andra bestämmelser inom vård- och omsorgsområdet.",
+  ],
+  "purposes": Array [
+    "Undervisningen i ämnet omvårdnad ska syfta till att eleverna utvecklar kunskaper för arbete nära patienter och brukare inom hälso- och sjukvården samt inom socialtjänsten. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om orsaker, symtom, diagnoser, behandlingar samt vård och omsorg vid olika sjukdomstillstånd och i livets slutskede. I undervisningen ska eleverna även ges möjlighet att utveckla förmåga att planera, utföra, dokumentera, rapportera och utvärdera vård- och omsorgsuppgifter utifrån kunskaper om orsaker, symtom, diagnoser och behandlingar vid olika sjukdomar. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att utföra arbetsuppgifter på ett yrkesmässigt sätt, det vill säga på ett hygieniskt, ergonomiskt, hälsofrämjande, rehabiliterande, habiliterande och pedagogiskt sätt.",
+    "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om pedagogiska, etiska och kulturella aspekter inom omvårdnad.",
+    "Undervisningen ska även bidra till att eleverna utvecklar förmåga att kommunicera och möta patienter och brukare med ett lyhört, respektfullt, reflekterande och empatiskt förhållningssätt samt tar ansvar för patienter och brukare och för olika arbetsuppgifter med hänsyn till vårdtagarens allmänmänskliga och individuella behov i relation till livsperspektiv och förändrad hälsa. I undervisningen ska eleverna få möjlighet att utveckla förmåga att använda medicinteknisk och annan teknisk utrustning samt informationsteknik inom olika verksamheter.",
+    "Genom att medverka i olika verksamheter ska eleverna ges möjlighet att få en inblick i och erfarenhet av arbetsuppgifter kopplade till omvårdnad.",
+    "Undervisningen ska också leda till att eleverna utvecklar förmåga att inhämta, granska och värdera ny kunskap inom området.",
+  ],
+  "title": "Omvårdnad",
   "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
 }
 `;
@@ -8843,6 +9052,38 @@ Object {
 }
 `;
 
+exports[`subject data 'Rättspsykiatri' parsed correctly 1`] = `
+Object {
+  "applicableFrom": "2021-06-30T22:00:00.000Z",
+  "code": "RAT",
+  "courseInfo": Object {
+    "RATRAT0": "Rättspsykiatri, 100 poäng, som bygger på kursen psykiatri 2.",
+  },
+  "courses": Array [
+    "RATRAT0",
+  ],
+  "description": "Ämnet rättspsykiatri är tvärvetenskapligt och behandlar överlappningen mellan vetenskapsområdena psykiatri och juridik. Ämnet behandlar psykiatrins tillämpning inom rättsväsendet.",
+  "developmentPurposes": Array [
+    "Kunskaper om lagar och andra bestämmelser som styr rättspsykiatrin.",
+    "Kunskaper om rättspsykiatrins samhällsskyddande verksamhet samt förmåga att se människan bakom brottet i arbetet med att återanpassa patienten till ett liv i frihet.",
+    "Förmåga att planera, genomföra och dokumentera vård- och omsorgsinsatser utifrån etiska aspekter och lagar och andra bestämmelser.",
+    "Förmåga att möta och kommunicera med patienter och närstående på ett respektfullt, lyhört och empatiskt sätt samt förmåga att reflektera över sitt eget förhållningssätt i mötet med dem.",
+    "Förmåga att medverka i vårdens, omsorgens och omvårdnadens förbättrings- och kvalitetsarbete.",
+    "Kunskaper om hur ett väl utvecklat samarbete med olika huvudmän, yrkesgrupper och närstående påverkar patienters återhämtning positivt.",
+  ],
+  "purposes": Array [
+    "Undervisningen i ämnet rättspsykiatri ska syfta till att eleverna utvecklar kunskaper om hur den rättspsykiatriska verksamheten fungerar och vilka lagar och övriga bestämmelser som reglerar den. Den ska bidra till att eleverna utvecklar förmåga att kommunicera och möta patienter med ett lyhört, respektfullt och empatiskt förhållningssätt.",
+    "I undervisningen ska eleverna också ges möjlighet att utveckla förståelse för kopplingen mellan psykisk störning och kriminalitet. Undervisningen ska leda till att eleverna utvecklar förståelse för rättspsykiatrins samhällskyddande verksamhet.",
+    "Undervisningen ska ge eleverna möjlighet att utveckla förmåga att planera egna arbetsinsatser samt utföra, dokumentera och utvärdera vård- och omsorgsuppgifter inom den slutna eller öppna rättspsykiatrin. Eleverna ska dessutom utveckla förståelse av hur vården, omsorgen och omvårdnaden ska utformas för patienter med psykiska störningar.",
+    "I undervisningen ska eleverna ges möjlighet att utveckla förmåga att samarbeta och kommunicera med andra människor på ett yrkesetiskt sätt utifrån allas lika värde. Undervisningen ska även bidra till att eleverna blir medvetna om de fördomar som finns om psykiska funktionsnedsättningar.",
+    "Genom fältstudier eller genom att medverka i olika verksamheter ska eleverna ges möjlighet att få inblick i och erfarenhet av arbetsuppgifter kopplade till psykiatrin.",
+    "Undervisningen ska också leda till att eleverna utvecklar förmåga att inhämta, granska och värdera ny kunskap inom området.",
+  ],
+  "title": "Rättspsykiatri",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+}
+`;
+
 exports[`subject data 'Samernas kultur och historia' parsed correctly 1`] = `
 Object {
   "applicableFrom": "2020-07-14T22:00:00.000Z",
@@ -9487,6 +9728,46 @@ Object {
     "I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Dessa arbetsuppgifter ska utgå från ett problemlösande och laborativt arbetssätt.",
   ],
   "title": "Snöfordonsteknik",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+}
+`;
+
+exports[`subject data 'Social omsorg' parsed correctly 1`] = `
+Object {
+  "applicableFrom": "2021-06-30T22:00:00.000Z",
+  "code": "SOA",
+  "courseInfo": Object {
+    "SOASOC0": "Socialpedagogik, 100 poäng, som bygger på kurserna social omsorg 2 samt funktionsförmåga och funktionsnedsättning 2.",
+    "SOASOC01": "Social omsorg 1, 100 poäng.",
+    "SOASOC02": "Social omsorg 2, 100 poäng, som bygger på kurserna social omsorg 1, gerontologi och geriatrik samt funktionsförmåga och funktionsnedsättning 1.",
+  },
+  "courses": Array [
+    "SOASOC0",
+    "SOASOC01",
+    "SOASOC02",
+  ],
+  "description": "Ämnet social omsorg har sin grund i praktiskt omsorgsarbete. Social omsorg är ett kunskapsområde inom det tvärvetenskapliga ämnet socialt arbete men innehåller även aspekter av samhälls- och beteendevetenskap samt pedagogik. Ämnet behandlar social omsorg ur ett helhetsperspektiv.",
+  "developmentPurposes": Array [
+    "Kunskaper om hur levnadsvanor och livsvillkor påverkar människors hälsa och livskvalitet.",
+    "Kunskaper om sociala frågeställningar på samhälls-, grupp- och individnivå.",
+    "Kunskaper om centrala begrepp, teorier och perspektiv inom social omsorg och socialpedagogik.",
+    "Förmåga att planera, genomföra och dokumentera arbetsuppgifter inom social omsorg.",
+    "Förmåga att använda tekniska hjälpmedel samt använda informationsteknik för information, kommunikation och dokumentation utifrån ett socialpedagogiskt, habiliterande och rehabiliterande arbetssätt.",
+    "Förmåga att kommunicera och samarbeta med andra samt förmåga att arbeta med utgångspunkt i den enskilda människans önskemål om, och behov av stöd och hjälp i relation till biståndsbedömning.",
+    "Förmåga att arbeta utifrån ett etiskt förhållningssätt i hemmiljö och på vårdinrättning.",
+    "Kunskaper om socialtjänstens historia, utveckling och organisation.",
+    "Kunskaper om arbetsmiljö samt om lagar och andra bestämmelser inom socialtjänsten.",
+  ],
+  "purposes": Array [
+    "Undervisningen i ämnet social omsorg ska syfta till att eleverna utvecklar kunskaper om arbetsuppgifter inom socialtjänsten samt förmåga att utföra dessa på ett yrkesmässigt sätt nära brukare inom socialtjänsten.",
+    "I undervisningen ska eleverna ges möjlighet att utveckla förmåga att ta hänsyn till brukarens allmänmänskliga och individuella behov samt att utveckla förståelse för den enskilda människans uppfattning av sin egen livssituation. Eleverna ska även ges möjlighet att utveckla förmåga att anlägga etiska, sociala och kulturella perspektiv på möten med brukare. Undervisningen ska även bidra till att eleverna utvecklar förmåga att kommunicera och möta brukare med ett lyhört, respektfullt, reflekterande och empatiskt förhållningssätt. Undervisningen ska syfta till att eleverna utvecklar kunskaper om vad som påverkar brukares behov och livskvalitet.",
+    "I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera, utföra, dokumentera och utvärdera uppgifter inom social omsorg.",
+    "Genom undervisningen ska eleverna ges möjlighet att ta ansvar för brukare och för olika arbetsuppgifter inom området. Vidare ska undervisningen utveckla elevernas kunskaper om arbetsmiljö och säkerhet för att på så sätt kunna förebygga och minska skaderisken hos brukare och personal.",
+    "Undervisningen ska ge eleverna möjlighet att utveckla förmåga att arbeta enskilt och i team inom sociala verksamheter utifrån lagar, styrdokument, en demokratisk värdegrund och överenskommelser om mänskliga rättigheter.",
+    "Eleverna ska också ges möjligt att använda teknisk utrustning samt informationsteknik som används inom verksamhetsområdet.",
+    "I undervisningen ska eleverna även ges möjlighet att utveckla förmåga att kritiskt söka, bearbeta, värdera och använda information från olika källor.",
+  ],
+  "title": "Social omsorg",
   "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
 }
 `;
