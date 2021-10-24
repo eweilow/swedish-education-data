@@ -1115,22 +1115,22 @@ Object {
 
 exports[`subject data 'Dansgestaltning för yrkesdansare' parsed correctly 1`] = `
 Object {
-  "applicableFrom": "2015-12-15T23:00:00.000Z",
+  "applicableFrom": "2020-07-14T22:00:00.000Z",
   "category": "VOCATIONAL",
   "code": "DAG",
   "courseInfo": Object {
-    "DAGDAN0": "Dansimprovisation och komposition för yrkesdansare – profil modern nutida dans, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen dansimprovisation och komposition för yrkesdansare – profil klassisk balett.",
-    "DAGDAS0": "Dansimprovisation och komposition för yrkesdansare – profil klassisk balett, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen dansimprovisation och komposition för yrkesdansare – profil modern nutida dans.",
-    "DAGPAS0": "Pas de deux/partnering, 100 poäng.",
-    "DAGREP0": "Repertoar för yrkesdansare, 100 poäng.",
-    "DAGSCE0": "Scenisk verksamhet för yrkesdansare, 100 poäng.",
+    "DAGDAN3": "Dansimprovisation och komposition för yrkesdansare – profil modern nutida dans, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen dansimprovisation och komposition för yrkesdansare – profil klassisk balett.",
+    "DAGDAS3": "Dansimprovisation och komposition för yrkesdansare – profil klassisk balett, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen dansimprovisation och komposition för yrkesdansare – profil modern nutida dans.",
+    "DAGPAS3": "Pas de deux/partnering, 100 poäng.",
+    "DAGREP3": "Repertoar för yrkesdansare, 100 poäng.",
+    "DAGSCE3": "Scenisk verksamhet för yrkesdansare, 100 poäng.",
   },
   "courses": Array [
-    "DAGDAN0",
-    "DAGDAS0",
-    "DAGPAS0",
-    "DAGREP0",
-    "DAGSCE0",
+    "DAGDAN3",
+    "DAGDAS3",
+    "DAGPAS3",
+    "DAGREP3",
+    "DAGSCE3",
   ],
   "description": "Ämnet dansgestaltning för yrkesdansare är till sin karaktär scenkonstnärligt och behandlar det gestaltningsarbete som krävs för yrkesmässigt utövande av scenkonstnärligt framträdande. Ämnet dansgestaltning för yrkesdansare får bara anordnas på yrkesdansarutbildningen.",
   "developmentPurposes": Array [
@@ -1236,32 +1236,32 @@ Object {
 
 exports[`subject data 'Dansteknik för yrkesdansare' parsed correctly 1`] = `
 Object {
-  "applicableFrom": "2015-06-13T22:00:00.000Z",
+  "applicableFrom": "2020-07-14T22:00:00.000Z",
   "category": "VOCATIONAL",
   "code": "DAK",
   "courseInfo": Object {
-    "DAKDAN0": "Dansteknik – breddning, 100 poäng.",
-    "DAKDAS0": "Dansträning för yrkesdansare, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen dansträning.",
-    "DAKKLA01a": "Klassisk balett 1a, 200 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i någon av kurserna dansteknik 1, 2, 3 eller 4 samt kursen klassisk balett 1b.",
-    "DAKKLA01b": "Klassisk balett 1b, 200 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i någon av kurserna dansteknik 1, 2, 3 eller 4 samt kursen klassisk balett 1a.",
-    "DAKKLA02": "Klassisk balett 2, 200 poäng, som bygger på kursen klassisk balett 1a. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i någon av kurserna dansteknik 1, 2, 3 eller 4.",
-    "DAKKLA03": "Klassisk balett 3, 200 poäng, som bygger på kursen klassisk balett 2. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i någon av kurserna dansteknik 1, 2, 3 eller 4.",
-    "DAKMOD01a": "Modern nutida dans 1a, 200 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i någon av kurserna dansteknik 1, 2, 3 eller 4 samt modern nutida dans 1b.",
-    "DAKMOD01b": "Modern nutida dans 1b, 200 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i någon av kurserna dansteknik 1, 2, 3 eller 4 samt modern nutida dans 1a.",
-    "DAKMOD02": "Modern nutida dans 2, 200 poäng, som bygger på kursen modern nutida dans 1a. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i någon av kurserna dansteknik 1, 2, 3 eller 4.",
-    "DAKMOD03": "Modern nutida dans 3, 200 poäng, som bygger på kursen modern nutida dans 2. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i någon av kurserna dansteknik 1, 2, 3 eller 4.",
+    "DAKDAN3": "Dansteknik – breddning, 100 poäng.",
+    "DAKDAS3": "Dansträning för yrkesdansare, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen dansträning.",
+    "DAKKLA31a": "Klassisk balett 1a, 200 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i någon av kurserna dansteknik 1, 2, 3 eller 4 samt kursen klassisk balett 1b.",
+    "DAKKLA31b": "Klassisk balett 1b, 200 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i någon av kurserna dansteknik 1, 2, 3 eller 4 samt kursen klassisk balett 1a.",
+    "DAKKLA32": "Klassisk balett 2, 200 poäng, som bygger på kursen klassisk balett 1a. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i någon av kurserna dansteknik 1, 2, 3 eller 4.",
+    "DAKKLA33": "Klassisk balett 3, 200 poäng, som bygger på kursen klassisk balett 2. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i någon av kurserna dansteknik 1, 2, 3 eller 4.",
+    "DAKMOD31a": "Modern nutida dans 1a, 200 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i någon av kurserna dansteknik 1, 2, 3 eller 4 samt modern nutida dans 1b.",
+    "DAKMOD31b": "Modern nutida dans 1b, 200 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i någon av kurserna dansteknik 1, 2, 3 eller 4 samt modern nutida dans 1a.",
+    "DAKMOD32": "Modern nutida dans 2, 200 poäng, som bygger på kursen modern nutida dans 1a. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i någon av kurserna dansteknik 1, 2, 3 eller 4.",
+    "DAKMOD33": "Modern nutida dans 3, 200 poäng, som bygger på kursen modern nutida dans 2. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i någon av kurserna dansteknik 1, 2, 3 eller 4.",
   },
   "courses": Array [
-    "DAKDAN0",
-    "DAKDAS0",
-    "DAKKLA01a",
-    "DAKKLA01b",
-    "DAKKLA02",
-    "DAKKLA03",
-    "DAKMOD01a",
-    "DAKMOD01b",
-    "DAKMOD02",
-    "DAKMOD03",
+    "DAKDAN3",
+    "DAKDAS3",
+    "DAKKLA31a",
+    "DAKKLA31b",
+    "DAKKLA32",
+    "DAKKLA33",
+    "DAKMOD31a",
+    "DAKMOD31b",
+    "DAKMOD32",
+    "DAKMOD33",
   ],
   "description": "Ämnet dansteknik för yrkesdansare är till sin karaktär scenkonstnärligt och innefattar träning som krävs för yrkesmässigt utövande av scenkonstnärlig dans. Ämnet innefattar även livsstilsfrågor, hälsoaspekter, anatomi och ergonomi, och den delen av ämnet är till sin karaktär delvis naturvetenskaplig. Ämnet dansteknik för yrkesdansare får bara anordnas på yrkesdansarutbildningen.",
   "developmentPurposes": Array [
@@ -2527,7 +2527,7 @@ Object {
 
 exports[`subject data 'Estetisk kommunikation' parsed correctly 1`] = `
 Object {
-  "applicableFrom": "2011-06-30T22:00:00.000Z",
+  "applicableFrom": "2020-07-14T22:00:00.000Z",
   "category": "OTHER",
   "code": "EST",
   "courseInfo": Object {
@@ -3466,7 +3466,7 @@ Object {
     "FÖSPER02": "Personlig försäljning 2, 100 poäng, som bygger på kursen personlig försäljning 1.",
     "FÖSPER03": "Personlig försäljning 3, 100 poäng, som bygger på kursen personlig försäljning 2.",
     "FÖSSEV0": "Servicekunskap, 100 poäng.",
-    "FÖSTEL0": "Telefon- och internetservice, 100 poäng",
+    "FÖSTEL0": "Telefon- och internetservice, 100 poäng.",
   },
   "courses": Array [
     "FÖSPER01",
@@ -4186,7 +4186,7 @@ Object {
 
 exports[`subject data 'Historia' parsed correctly 1`] = `
 Object {
-  "applicableFrom": "2018-10-14T22:00:00.000Z",
+  "applicableFrom": "2020-03-17T23:00:00.000Z",
   "category": "COMMON",
   "code": "HIS",
   "courseInfo": Object {
@@ -4289,14 +4289,14 @@ Object {
 
 exports[`subject data 'Humanistisk och samhällsvetenskaplig spets inom försöksverksamhet med riksrekryterande gymnasial spetsutbildning' parsed correctly 1`] = `
 Object {
-  "applicableFrom": "2013-04-24T22:00:00.000Z",
+  "applicableFrom": "2020-07-14T22:00:00.000Z",
   "category": "OTHER",
   "code": "HUA",
   "courseInfo": Object {
-    "HUAHUM00S": "Humanistisk och samhällsvetenskaplig spets, 50 poäng. Kursen kan läsas flera gånger med olika innehåll.",
+    "HUAHUM30S": "Humanistisk och samhällsvetenskaplig spets, 50 poäng. Kursen kan läsas flera gånger med olika innehåll.",
   },
   "courses": Array [
-    "HUAHUM00S",
+    "HUAHUM30S",
   ],
   "description": "Ämnet humanistisk och samhällsvetenskaplig spets inom försöksverksamhet med riksrekryterande gymnasial spetsutbildning förbereder eleverna för fortsatta studier vid universitet eller högskola. Ämnet möjliggör en tvärvetenskaplig eller inomvetenskaplig specialisering inom ett valt kunskapsområde inom spetsutbildningens område. Delar av ämnet kan anpassas med hänsyn till skolans samverkan med universitet eller högskola. Ämnet humanistisk och samhällsvetenskaplig spets inom försöksverksamhet med riksrekryterande gymnasial spetsutbildning får bara anordnas inom av Skolverket beviljad försöksverksamhet med riksrekryterande gymnasial spetsutbildning inom humaniora och samhällsvetenskap.",
   "developmentPurposes": Array [
@@ -7612,12 +7612,12 @@ Object {
 
 exports[`subject data 'Naturguidning' parsed correctly 1`] = `
 Object {
-  "applicableFrom": "2011-06-30T22:00:00.000Z",
+  "applicableFrom": "2020-07-14T22:00:00.000Z",
   "category": "VOCATIONAL",
   "code": "NAG",
   "courseInfo": Object {
     "NAGGUD0": "Guidning i naturbruksmiljöer, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen naturguidning 1.",
-    "NAGNAT01": "Naturguidning 1, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen guidning i naturbruksmiljöer.",
+    "NAGNAT01": "Naturguidning 1, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen guidning i naturbruksmiljöer eller i kursen naturturism 1.",
     "NAGNAT02": "Naturguidning 2, 200 poäng, som bygger på kursen naturguidning 1.",
   },
   "courses": Array [
@@ -7709,14 +7709,14 @@ Object {
 
 exports[`subject data 'Naturvetenskaplig spets inom försöksverksamhet med riksrekryterande gymnasial spetsutbildning' parsed correctly 1`] = `
 Object {
-  "applicableFrom": "2013-04-24T22:00:00.000Z",
+  "applicableFrom": "2020-07-14T22:00:00.000Z",
   "category": "OTHER",
   "code": "NAE",
   "courseInfo": Object {
-    "NAENAT00S": "Naturvetenskaplig spets, 50 poäng. Kursen kan läsas flera gånger med olika innehåll.",
+    "NAENAT30S": "Naturvetenskaplig spets, 50 poäng. Kursen kan läsas flera gånger med olika innehåll.",
   },
   "courses": Array [
-    "NAENAT00S",
+    "NAENAT30S",
   ],
   "description": "Ämnet naturvetenskaplig spets inom försöksverksamhet med riksrekryterande gymnasial spetsutbildning förbereder eleverna för fortsatta studier vid universitet eller högskola. Ämnet möjliggör en tvärvetenskaplig eller inomvetenskaplig specialisering inom ett valt kunskapsområde inom spetsutbildningens område. Delar av ämnet kan anpassas med hänsyn till skolans samverkan med universitet eller högskola. Ämnet naturvetenskaplig spets inom försöksverksamhet med riksrekryterande gymnasial spetsutbildning får bara anordnas inom av Skolverket beviljad försöksverksamhet med riksrekryterande gymnasial spetsutbildning inom naturvetenskap.",
   "developmentPurposes": Array [
@@ -8845,7 +8845,7 @@ Object {
 
 exports[`subject data 'Samernas kultur och historia' parsed correctly 1`] = `
 Object {
-  "applicableFrom": "2012-06-13T22:00:00.000Z",
+  "applicableFrom": "2020-07-14T22:00:00.000Z",
   "category": "OTHER",
   "code": "SAE",
   "courseInfo": Object {
@@ -8957,7 +8957,7 @@ Object {
 
 exports[`subject data 'Samisk mat och matkultur' parsed correctly 1`] = `
 Object {
-  "applicableFrom": "2012-05-30T22:00:00.000Z",
+  "applicableFrom": "2020-07-14T22:00:00.000Z",
   "category": "VOCATIONAL",
   "code": "SAS",
   "courseInfo": Object {
@@ -9557,26 +9557,26 @@ Object {
 
 exports[`subject data 'Specialidrott' parsed correctly 1`] = `
 Object {
-  "applicableFrom": "2017-07-31T22:00:00.000Z",
+  "applicableFrom": "2020-07-14T22:00:00.000Z",
   "category": "OTHER",
   "code": "SPE",
   "courseInfo": Object {
-    "SPEIDS01": "Idrottsspecialisering 1, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen idrott och hälsa 1 – specialisering.",
-    "SPEIDS02": "Idrottsspecialisering 2, 100 poäng, som bygger på kursen idrottsspecialisering 1. Dessutom bygger den på kursen tränings- och tävlingslära 1 eller kursen träningslära 1.",
-    "SPEIDS03": "Idrottsspecialisering 3, 100 poäng, som bygger på kursen idrottsspecialisering 2.",
-    "SPEIDT0": "Idrottsledarskap, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen pedagogiskt ledarskap.",
-    "SPETRÄ01": "Tränings- och tävlingslära 1, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen träningslära 1.",
-    "SPETRÄ02": "Tränings- och tävlingslära 2, 100 poäng, som bygger på kursen tränings- och tävlingslära 1 eller kursen träningslära 1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen träningslära 2.",
-    "SPETRÄ03": "Tränings- och tävlingslära 3, 100 poäng, som bygger på kursen tränings- och tävlingslära 2 eller kursen träningslära 2. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen träningslära 3.",
+    "SPEIDS31": "Idrottsspecialisering 1, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen idrott och hälsa 1 – specialisering.",
+    "SPEIDS32": "Idrottsspecialisering 2, 100 poäng, som bygger på kursen idrottsspecialisering 1. Dessutom bygger den på kursen tränings- och tävlingslära 1 eller kursen träningslära 1.",
+    "SPEIDS33": "Idrottsspecialisering 3, 100 poäng, som bygger på kursen idrottsspecialisering 2.",
+    "SPEIDT3": "Idrottsledarskap, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen pedagogiskt ledarskap.",
+    "SPETRA31": "Tränings- och tävlingslära 1, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen träningslära 1.",
+    "SPETRA32": "Tränings- och tävlingslära 2, 100 poäng, som bygger på kursen tränings- och tävlingslära 1 eller kursen träningslära 1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen träningslära 2.",
+    "SPETRA33": "Tränings- och tävlingslära 3, 100 poäng, som bygger på kursen tränings- och tävlingslära 2 eller kursen träningslära 2. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen träningslära 3.",
   },
   "courses": Array [
-    "SPEIDS01",
-    "SPEIDS02",
-    "SPEIDS03",
-    "SPEIDT0",
-    "SPETRÄ01",
-    "SPETRÄ02",
-    "SPETRÄ03",
+    "SPEIDS31",
+    "SPEIDS32",
+    "SPEIDS33",
+    "SPEIDT3",
+    "SPETRA31",
+    "SPETRA32",
+    "SPETRA33",
   ],
   "description": "Ämnet specialidrott möjliggör en hälsosam idrottskarriär och prestationsutveckling inom en vald idrott. Det behandlar metoder och teorier samt praktiskt utövande av specifik idrott mot elitnivå. Ämnet specialidrott får bara anordnas på idrottsutbildningar vid riksidrottsgymnasium eller nationellt godkända idrottsutbildningar.",
   "developmentPurposes": Array [
@@ -9601,12 +9601,12 @@ Object {
 
 exports[`subject data 'Specialpedagogik' parsed correctly 1`] = `
 Object {
-  "applicableFrom": "2011-06-30T22:00:00.000Z",
+  "applicableFrom": "2020-07-14T22:00:00.000Z",
   "category": "VOCATIONAL",
   "code": "SPC",
   "courseInfo": Object {
-    "SPCSPE01": "Specialpedagogik 1, 100 poäng.",
-    "SPCSPE02": "Specialpedagogik 2, 100 poäng som bygger på kursen specialpedagogik 1.",
+    "SPCSPE01": "Specialpedagogik 1, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen funktionsförmåga och funktionsnedsättning 1.",
+    "SPCSPE02": "Specialpedagogik 2, 100 poäng, som bygger på kursen specialpedagogik 1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen funktionsförmåga och funktionsnedsättning 2.",
   },
   "courses": Array [
     "SPCSPE01",
@@ -11558,6 +11558,11 @@ Array [
     "title": "Arkitektur",
   },
   Object {
+    "code": "ATO",
+    "file": "./subject/s_ATO.json",
+    "title": "ATV- och motorcykelteknik",
+  },
+  Object {
     "code": "ATV",
     "file": "./subject/s_ATV.json",
     "title": "ATV- och MC-teknik",
@@ -11576,6 +11581,11 @@ Array [
     "code": "BAN",
     "file": "./subject/s_BAN.json",
     "title": "Banskötsel för hästsport",
+  },
+  Object {
+    "code": "BAO",
+    "file": "./subject/s_BAO.json",
+    "title": "Barn- och ungdomsvård",
   },
   Object {
     "code": "BAT",
@@ -11631,6 +11641,11 @@ Array [
     "code": "BIO",
     "file": "./subject/s_BIO.json",
     "title": "Biologi",
+  },
+  Object {
+    "code": "BUS",
+    "file": "./subject/s_BUS.json",
+    "title": "Bussteknik",
   },
   Object {
     "code": "BYG",
@@ -11768,6 +11783,11 @@ Array [
     "title": "Elmätteknik",
   },
   Object {
+    "code": "ELC",
+    "file": "./subject/s_ELC.json",
+    "title": "El- och hybridfordonsteknik",
+  },
+  Object {
     "code": "ELD",
     "file": "./subject/s_ELD.json",
     "title": "Eldistributionsteknik",
@@ -11893,6 +11913,11 @@ Array [
     "title": "Fiske",
   },
   Object {
+    "code": "FLE",
+    "file": "./subject/s_FLE.json",
+    "title": "Flerbränslefordonsteknik",
+  },
+  Object {
     "code": "FLG",
     "file": "./subject/s_FLG.json",
     "title": "Flygplatsteknik",
@@ -12013,6 +12038,11 @@ Array [
     "title": "Grafisk produktion",
   },
   Object {
+    "code": "GRO",
+    "file": "./subject/s_GRO.json",
+    "title": "Grönyte- och småmaskinsteknik",
+  },
+  Object {
     "code": "GRU",
     "file": "./subject/s_GRU.json",
     "title": "Grundläggande vård och omsorg",
@@ -12096,6 +12126,11 @@ Array [
     "code": "HUS",
     "file": "./subject/s_HUS.json",
     "title": "Husbyggnad",
+  },
+  Object {
+    "code": "HUV",
+    "file": "./subject/s_HUV.json",
+    "title": "Husvagns- och husbilsteknik",
   },
   Object {
     "code": "HVK",
@@ -12243,6 +12278,11 @@ Array [
     "title": "Kyl- och värmepumpsteknik",
   },
   Object {
+    "code": "LAA",
+    "file": "./subject/s_LAA.json",
+    "title": "Lastbilar och mobila maskiner – service och underhållsteknik",
+  },
+  Object {
     "code": "LAC",
     "file": "./subject/s_LAC.json",
     "title": "Lackeringsteknik",
@@ -12253,9 +12293,29 @@ Array [
     "title": "Lager och terminal",
   },
   Object {
+    "code": "LAI",
+    "file": "./subject/s_LAI.json",
+    "title": "Lastbilar och mobila maskiner – motorteknik",
+  },
+  Object {
+    "code": "LAK",
+    "file": "./subject/s_LAK.json",
+    "title": "Lantbruksmaskinsteknik",
+  },
+  Object {
+    "code": "LAL",
+    "file": "./subject/s_LAL.json",
+    "title": "Lastbilspåbyggnadsteknik",
+  },
+  Object {
     "code": "LAN",
     "file": "./subject/s_LAN.json",
     "title": "Lantbruksdjur",
+  },
+  Object {
+    "code": "LAP",
+    "file": "./subject/s_LAP.json",
+    "title": "Lastbilar – reparations- och systemteknik",
   },
   Object {
     "code": "LAR",
@@ -12448,6 +12508,11 @@ Array [
     "title": "Mobila applikationer",
   },
   Object {
+    "code": "MOL",
+    "file": "./subject/s_MOL.json",
+    "title": "Mobila maskiner – reparations- och systemteknik",
+  },
+  Object {
     "code": "MOT",
     "file": "./subject/s_MOT.json",
     "title": "Motor- och röjmotorsåg",
@@ -12633,6 +12698,11 @@ Array [
     "title": "Rennäring",
   },
   Object {
+    "code": "REP",
+    "file": "./subject/s_REP.json",
+    "title": "Personbilar – reparations- och systemteknik",
+  },
+  Object {
     "code": "RES",
     "file": "./subject/s_RES.json",
     "title": "Reseproduktion och marknadsföring",
@@ -12678,6 +12748,11 @@ Array [
     "title": "Serviceteknik – naturbruk",
   },
   Object {
+    "code": "SEO",
+    "file": "./subject/s_SEO.json",
+    "title": "Personbilar – service och underhållsteknik",
+  },
+  Object {
     "code": "SER",
     "file": "./subject/s_SER.json",
     "title": "Serveringskunskap",
@@ -12696,6 +12771,11 @@ Array [
     "code": "SJU",
     "file": "./subject/s_SJU.json",
     "title": "Sjukvård",
+  },
+  Object {
+    "code": "SKB",
+    "file": "./subject/s_SKB.json",
+    "title": "Skogsbruksmaskinsteknik",
   },
   Object {
     "code": "SKG",
@@ -12861,6 +12941,11 @@ Array [
     "code": "TRÄ",
     "file": "./subject/s_TRÄ.json",
     "title": "Trä",
+  },
+  Object {
+    "code": "TRC",
+    "file": "./subject/s_TRC.json",
+    "title": "Truckteknik",
   },
   Object {
     "code": "TRD",

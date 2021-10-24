@@ -3781,7 +3781,7 @@ Object {
 
 exports[`programme data 'Estetiska programmet' parsed correctly 1`] = `
 Object {
-  "applicableFrom": "2017-06-30T22:00:00.000Z",
+  "applicableFrom": "2020-11-22T23:00:00.000Z",
   "code": "ES",
   "education": Object {
     "mandatory": Object {
@@ -4086,6 +4086,7 @@ Object {
         "DANKOO0",
         "DANREE0",
         "DASDAO0",
+        "DATDAN00S",
         "DATDAR0",
         "DATDAS01S",
         "DATDAS02S",
@@ -4157,6 +4158,7 @@ Object {
         "MODZHO06",
         "MODZHO07",
         "MUIARA01",
+        "MUIARA02",
         "MUIGEH01",
         "MUIGEH02",
         "MUSBRU0",
@@ -4280,13 +4282,14 @@ Object {
         Object {
           "code": "DAT",
           "courses": Array [
+            "DATDAN00S",
             "DATDAR0",
             "DATDAS01S",
             "DATDAS02S",
             "DATDAS03S",
             "DATDAS04S",
           ],
-          "minPoints": 500,
+          "minPoints": 600,
         },
         Object {
           "code": "DES",
@@ -4483,10 +4486,11 @@ Object {
           "code": "MUI",
           "courses": Array [
             "MUIARA01",
+            "MUIARA02",
             "MUIGEH01",
             "MUIGEH02",
           ],
-          "minPoints": 300,
+          "minPoints": 400,
         },
         Object {
           "code": "MUS",
@@ -4642,324 +4646,9 @@ Object {
 }
 `;
 
-exports[`programme data 'Flygteknikutbildningen' parsed correctly 1`] = `
-Object {
-  "applicableFrom": "2017-07-31T22:00:00.000Z",
-  "code": "FX",
-  "education": Object {
-    "mandatory": Object {
-      "aliasSubjects": Array [],
-      "courses": Array [
-        "ENGENG05",
-        "HISHIS01a1",
-        "IDRIDR01",
-        "MATMAT01a",
-        "NAKNAK01a1",
-        "RELREL01",
-        "SAMSAM01a1",
-        "SVASVA01",
-        "SVESVE01",
-      ],
-      "subjects": Array [
-        Object {
-          "code": "ENG",
-          "courses": Array [
-            "ENGENG05",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "HIS",
-          "courses": Array [
-            "HISHIS01a1",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "IDR",
-          "courses": Array [
-            "IDRIDR01",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "MAT",
-          "courses": Array [
-            "MATMAT01a",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "NAK",
-          "courses": Array [
-            "NAKNAK01a1",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "REL",
-          "courses": Array [
-            "RELREL01",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "SAM",
-          "courses": Array [
-            "SAMSAM01a1",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "SVA",
-          "courses": Array [
-            "SVASVA01",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "SVE",
-          "courses": Array [
-            "SVESVE01",
-          ],
-          "minPoints": 100,
-        },
-      ],
-    },
-    "orientations": Array [
-      Object {
-        "aliasSubjects": Array [],
-        "code": "FXFLY",
-        "courses": Array [
-          "FLPFLY0",
-        ],
-        "name": "Flygplan",
-        "points": 200,
-        "subjects": Array [
-          Object {
-            "code": "FLP",
-            "courses": Array [
-              "FLPFLY0",
-            ],
-            "minPoints": 200,
-          },
-        ],
-      },
-      Object {
-        "aliasSubjects": Array [],
-        "code": "FXHEL",
-        "courses": Array [
-          "HELHEL0",
-        ],
-        "name": "Helikopter",
-        "points": 200,
-        "subjects": Array [
-          Object {
-            "code": "HEL",
-            "courses": Array [
-              "HELHEL0",
-            ],
-            "minPoints": 200,
-          },
-        ],
-      },
-    ],
-    "professionalDegrees": Array [
-      Object {
-        "code": "FXFLY",
-        "courses": Array [],
-        "name": "Flygmekaniker, gasturbin",
-        "subjects": Array [],
-      },
-      Object {
-        "code": "FXFLY",
-        "courses": Array [],
-        "name": "Flygmekaniker, kolvmotor",
-        "subjects": Array [],
-      },
-      Object {
-        "code": "FXHEL",
-        "courses": Array [],
-        "name": "Helikoptermekaniker, gasturbin",
-        "subjects": Array [],
-      },
-      Object {
-        "code": "FXHEL",
-        "courses": Array [],
-        "name": "Helikoptermekaniker, kolvmotor",
-        "subjects": Array [],
-      },
-    ],
-    "profiles": Array [],
-    "program": Object {
-      "aliasSubjects": Array [],
-      "courses": Array [
-        "ELADIG0",
-        "ELAELL0",
-        "ENGENG06",
-        "FYSFYS01b1",
-        "UNDFLY0",
-        "UNDMAT0",
-        "YRKAER0",
-        "YRKFLY0",
-        "YRKMAN0",
-      ],
-      "subjects": Array [
-        Object {
-          "code": "ELA",
-          "courses": Array [
-            "ELADIG0",
-            "ELAELL0",
-          ],
-          "minPoints": 200,
-        },
-        Object {
-          "code": "ENG",
-          "courses": Array [
-            "ENGENG06",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "FYS",
-          "courses": Array [
-            "FYSFYS01b1",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "UND",
-          "courses": Array [
-            "UNDFLY0",
-            "UNDMAT0",
-          ],
-          "minPoints": 300,
-        },
-        Object {
-          "code": "YRK",
-          "courses": Array [
-            "YRKAER0",
-            "YRKFLY0",
-            "YRKMAN0",
-          ],
-          "minPoints": 200,
-        },
-      ],
-    },
-    "specialization": Object {
-      "aliasSubjects": Array [],
-      "courses": Array [
-        "ENTENR0",
-        "FLPFLY0",
-        "FYSFYS01b2",
-        "FYSFYS02",
-        "GASGAS0",
-        "HELHEL0",
-        "KOLKOL0",
-        "MATMAT02a",
-        "MATMAT03b",
-        "MATMAT03c",
-        "NAKNAK01a2",
-      ],
-      "subjects": Array [
-        Object {
-          "code": "ENT",
-          "courses": Array [
-            "ENTENR0",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "FLP",
-          "courses": Array [
-            "FLPFLY0",
-          ],
-          "minPoints": 200,
-        },
-        Object {
-          "code": "FYS",
-          "courses": Array [
-            "FYSFYS01b2",
-            "FYSFYS02",
-          ],
-          "minPoints": 150,
-        },
-        Object {
-          "code": "GAS",
-          "courses": Array [
-            "GASGAS0",
-          ],
-          "minPoints": 200,
-        },
-        Object {
-          "code": "HEL",
-          "courses": Array [
-            "HELHEL0",
-          ],
-          "minPoints": 200,
-        },
-        Object {
-          "code": "KOL",
-          "courses": Array [
-            "KOLKOL0",
-          ],
-          "minPoints": 200,
-        },
-        Object {
-          "code": "MAT",
-          "courses": Array [
-            "MATMAT02a",
-            "MATMAT03b",
-            "MATMAT03c",
-          ],
-          "minPoints": 300,
-        },
-        Object {
-          "code": "NAK",
-          "courses": Array [
-            "NAKNAK01a2",
-          ],
-          "minPoints": 50,
-        },
-      ],
-    },
-  },
-  "info": Object {
-    "degreeObjectives": Array [
-      "Flygteknikutbildningen är en riksrekryterande yrkesutbildning inom gymnasieskolan med egna examensmål. Innehållet i och utformningen av utbildningen styrs till stor del av internationella överenskommelser. Efter examen från utbildningen ska eleverna ha de kunskaper som behövs för att arbeta som mekaniker för flygplan eller helikoptrar.",
-      "Utbildningen ska utveckla elevernas kunskaper om flygtekniska konstruktioner och om betydelsen av höga krav på säkerhet och kvalitet. I detta ingår olika flygfarkosters funktion och konstruktion samt underhåll, felsökning och reparation av flygplan och helikoptrar och deras komponenter. Eftersom flygtekniskt underhållsarbete präglas av höga krav på säkerhet och kvalitet är det också av stor betydelse att undvika mänskliga felhandlingar. Utbildningen ska därför utveckla elevernas kunskaper om samspelet mellan människa och maskin och om människans förutsättningar och begränsningar.",
-      "Kraven på dokumentation och eget ansvar är höga inom yrket. Utbildningen ska därför ge eleverna möjlighet att utveckla förmåga att utvärdera, kvalitetssäkra och dokumentera sitt arbete på det sätt yrket kräver.",
-      "Utbildningen ska ge eleverna möjlighet att utveckla kunskaper om hur flygverksamheten påverkar miljön och förmåga att återvinna produkter enligt samhällets krav samt kunskaper om förutsättningarna för en ekologiskt hållbar utveckling. Eleverna ska också ges möjlighet att utveckla kunskaper om och färdigheter i att välja utrustning och metod för att utföra arbetet med hänsyn till miljö, kvalitet, säkerhet och ekonomi.",
-      "Kunskaper om olika datasystem krävs inom de yrken utbildningen leder till. Utbildningen ska därför utveckla elevernas förmåga att använda datorer och datasystem på det sätt som yrket kräver.",
-      "Utbildningen ska ge eleverna färdigheter i att hantera och utveckla relationer med både medarbetare och kunder. Eleverna ska också utveckla ett yrkesmässigt språkbruk som fungerar i olika situationer, med ett ordförråd som är relevant för yrket både på svenska och på engelska. Yrket är till sin karaktär både nationellt och internationellt och ställer höga krav på språkkunskaper och förståelse av andra kulturer. För att kunna kommunicera, möta och samarbeta med människor i skilda sammanhang ska eleverna ges möjlighet att utveckla sin kommunikativa förmåga.",
-      "Utvecklingen inom de yrken utbildningen leder till innebär att en person ensam arbetar med många skilda uppgifter i verksamheten, där olika typer av problem kan uppstå. Det ställer höga krav på förmåga till självständig problemlösning. Inom de yrken utbildningen leder till har dock inte alltid en person all den kunskap som krävs för att lösa en viss uppgift. Utbildningen ska därför utveckla elevernas förmåga att arbeta både självständigt och i lag där personer med olika kunskaper och kulturell bakgrund samarbetar för att lösa problem. Eleverna ska även ges möjlighet att utveckla initiativförmåga, idérikedom och företagsamhet. Utbildningen ska ge eleverna möjlighet att diskutera och reflektera över sitt eget lärande utifrån olika arbetsuppgifter och därigenom få en förståelse av sin egen yrkesutövning och yrket i stort.",
-      "Utbildningen ska utveckla elevernas kunskaper om nationella och internationella överenskommelser, lagar och andra bestämmelser inom valt yrkesområde. Dessa kunskaper är till exempel viktiga för att skapa en bra arbetsmiljö och förebygga arbetsskador. För arbete inom de flygtekniska yrkena krävs certifieringar. Dessa utfärdas enligt internationella regler i enlighet med EASA:s (European Aviation Safety Agency) krav. Därför ska utbildningen ge eleverna möjlighet att utveckla de kunskaper som certifierande myndigheter kräver.",
-      "Arbetsplatsförlagt lärande ska förekomma på utbildningen. Det arbetsplatsförlagda lärandet ska bidra till att eleverna utvecklar yrkeskunskaper och en yrkesidentitet samt förstår yrkeskulturen och blir en del av yrkesgemenskapen på en arbetsplats. Det arbetsplatsförlagda lärandet kan också ge en inblick i företagandets villkor.",
-      "Examensmålet gäller för både skolförlagd utbildning och lärlingsutbildning.",
-    ],
-    "educationObjectives": Array [
-      "Gymnasiearbetet ska visa att eleven är förberedd för det yrkesområde som gäller för den valda yrkesutgången. Det ska pröva elevens förmåga att utföra vanligt förekommande arbetsuppgifter inom yrkesområdet.",
-      "Gymnasiearbetet ska utföras på ett sådant sätt att eleven planerar, genomför och utvärderar sin uppgift.",
-      "Gymnasiearbetet kan utformas så att det ger eleverna möjlighet att pröva sitt yrkeskunnande i företagsliknande arbetsformer.",
-    ],
-    "orientation": Object {
-      "lines": Array [
-        "Flygteknikutbildningen har två inriktningar.",
-        "Båda inriktningarna kan leda till fortsatta studier på yrkeshögskola.",
-      ],
-      "title": "Inriktningar",
-    },
-  },
-  "title": "Flygteknikutbildningen",
-  "typeOfProgram": "NATIONAL_RECRUITMENT_FOR_LOCAL_SPECIALIZATION",
-  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
-  "url": "https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola/programstruktur-och-examensmal/flygteknikutbildningen",
-}
-`;
-
 exports[`programme data 'Fordons- och transportprogrammet' parsed correctly 1`] = `
 Object {
-  "applicableFrom": "2018-07-31T22:00:00.000Z",
+  "applicableFrom": "2020-06-30T22:00:00.000Z",
   "code": "FT",
   "education": Object {
     "mandatory": Object {
@@ -5098,19 +4787,23 @@ Object {
         "aliasSubjects": Array [],
         "code": "FTLAS",
         "courses": Array [
-          "MASMAI0",
-          "MASREP0",
+          "LAALAS0",
+          "LAALAS01",
+          "LAALAS02",
+          "LAALAT0",
         ],
         "name": "Lastbil och mobila maskiner",
-        "points": 500,
+        "points": 400,
         "subjects": Array [
           Object {
-            "code": "MAS",
+            "code": "LAA",
             "courses": Array [
-              "MASMAI0",
-              "MASREP0",
+              "LAALAS0",
+              "LAALAS01",
+              "LAALAS02",
+              "LAALAT0",
             ],
-            "minPoints": 500,
+            "minPoints": 400,
           },
         ],
       },
@@ -5118,19 +4811,23 @@ Object {
         "aliasSubjects": Array [],
         "code": "FTPER",
         "courses": Array [
-          "PERPES0",
-          "PERREA0",
+          "SEOPEB0",
+          "SEOPER0",
+          "SEOPER01",
+          "SEOPER02",
         ],
         "name": "Personbil",
-        "points": 500,
+        "points": 400,
         "subjects": Array [
           Object {
-            "code": "PER",
+            "code": "SEO",
             "courses": Array [
-              "PERPES0",
-              "PERREA0",
+              "SEOPEB0",
+              "SEOPER0",
+              "SEOPER01",
+              "SEOPER02",
             ],
-            "minPoints": 500,
+            "minPoints": 400,
           },
         ],
       },
@@ -5293,22 +4990,30 @@ Object {
         "aliasSubjects": Array [],
         "code": "FTLAS",
         "courses": Array [
-          "MASKOM0",
-          "MASLAI0",
-          "MASLAT0",
-          "MASSTY0",
+          "LAILAT0",
+          "LAPLAC0",
+          "LAPLAS0",
+          "LAPLAS01",
+          "LAPLAS02",
         ],
         "name": "Lastbilsmekaniker",
         "subjects": Array [
           Object {
-            "code": "MAS",
+            "code": "LAI",
             "courses": Array [
-              "MASKOM0",
-              "MASLAI0",
-              "MASLAT0",
-              "MASSTY0",
+              "LAILAT0",
             ],
-            "minPoints": 600,
+            "minPoints": 200,
+          },
+          Object {
+            "code": "LAP",
+            "courses": Array [
+              "LAPLAC0",
+              "LAPLAS0",
+              "LAPLAS01",
+              "LAPLAS02",
+            ],
+            "minPoints": 500,
           },
         ],
       },
@@ -5316,20 +5021,61 @@ Object {
         "aliasSubjects": Array [],
         "code": "FTLAS",
         "courses": Array [
-          "MASMOB0",
-          "MASMOB01",
-          "MASMOB02",
-          "MASSTY0",
+          "LAILAT0",
+          "MOLMOB0",
+          "MOLMOB01",
+          "MOLMOB02",
+          "MOLMOI0",
         ],
         "name": "Maskinmekaniker",
         "subjects": Array [
           Object {
-            "code": "MAS",
+            "code": "LAI",
             "courses": Array [
-              "MASMOB0",
-              "MASMOB01",
-              "MASMOB02",
-              "MASSTY0",
+              "LAILAT0",
+            ],
+            "minPoints": 200,
+          },
+          Object {
+            "code": "MOL",
+            "courses": Array [
+              "MOLMOB0",
+              "MOLMOB01",
+              "MOLMOB02",
+              "MOLMOI0",
+            ],
+            "minPoints": 500,
+          },
+        ],
+      },
+      Object {
+        "aliasSubjects": Array [],
+        "code": "FTPER",
+        "courses": Array [
+          "ELCELO01",
+          "REPPEO0",
+          "REPPER0",
+          "REPPER01",
+          "REPPER02",
+          "REPPES0",
+        ],
+        "name": "Personbilsmekaniker",
+        "subjects": Array [
+          Object {
+            "code": "ELC",
+            "courses": Array [
+              "ELCELO01",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "REP",
+            "courses": Array [
+              "REPPEO0",
+              "REPPER0",
+              "REPPER01",
+              "REPPER02",
+              "REPPES0",
             ],
             "minPoints": 600,
           },
@@ -5339,61 +5085,73 @@ Object {
         "aliasSubjects": Array [],
         "code": "FTPER",
         "courses": Array [
-          "PERBRO0",
-          "PERKOM01a",
-          "PERMOT0",
+          "FÖSPER01",
+          "FÖSPER02",
+          "FÖSSEV0",
+          "HANHAN00S",
+          "INKLOG01",
         ],
-        "name": "Personbilsmekaniker",
+        "name": "Reservdelsspecialist, lätta fordon",
         "subjects": Array [
           Object {
-            "code": "PER",
+            "code": "FÖS",
             "courses": Array [
-              "PERBRO0",
-              "PERKOM01a",
-              "PERMOT0",
+              "FÖSPER01",
+              "FÖSPER02",
+              "FÖSSEV0",
             ],
-            "minPoints": 700,
+            "minPoints": 300,
+          },
+          Object {
+            "code": "HAN",
+            "courses": Array [
+              "HANHAN00S",
+            ],
+            "minPoints": 100,
+          },
+          Object {
+            "code": "INK",
+            "courses": Array [
+              "INKLOG01",
+            ],
+            "minPoints": 100,
           },
         ],
       },
       Object {
         "aliasSubjects": Array [],
-        "code": "FTGOD",
+        "code": "FTLAS",
         "courses": Array [
+          "FÖSPER01",
+          "FÖSPER02",
           "FÖSSEV0",
-          "LAGPLO0",
-          "MASMAI0",
-          "PERPES0",
+          "HANHAN00S",
+          "INKLOG01",
         ],
-        "name": "Reservdelspersonal",
+        "name": "Reservdelsspecialist, tunga fordon",
         "subjects": Array [
           Object {
             "code": "FÖS",
             "courses": Array [
+              "FÖSPER01",
+              "FÖSPER02",
               "FÖSSEV0",
             ],
-            "minPoints": 100,
+            "minPoints": 300,
           },
           Object {
-            "code": "LAG",
+            "code": "HAN",
             "courses": Array [
-              "LAGPLO0",
+              "HANHAN00S",
             ],
             "minPoints": 100,
           },
           Object {
-            "code": "MAS",
+            "code": "INK",
             "courses": Array [
-              "MASMAI0",
+              "INKLOG01",
             ],
-            "minPoints": 200,
-          },
-          Object {
-            "code": "PER",
-            "courses": Array [
-              "PERPES0",
-            ],
-            "minPoints": 200,
+            "minPoints": 100,
           },
         ],
       },
@@ -5447,12 +5205,17 @@ Object {
       "aliasSubjects": Array [],
       "courses": Array [
         "AKTGUI0",
-        "ATVREP0",
+        "ATOATV0",
+        "BUSBUS0",
+        "ELCELO01",
+        "ELCELO02",
         "ENGENG06",
         "ENTENR0",
+        "FLEFLR0",
         "FLGFAL0",
         "FLGFLY0",
         "FÖSPER01",
+        "FÖSPER02",
         "FÖSSEV0",
         "GODHAT0",
         "GODLAS0",
@@ -5461,8 +5224,11 @@ Object {
         "GOSGOD0",
         "GOSGOD00S",
         "GOSLAL0",
+        "GROGRO0",
+        "HANHAN00S",
         "HJUHJT00S",
         "HJUHJU0",
+        "HUVHUS0",
         "INKINK01",
         "INKLOG01",
         "KARKAR0",
@@ -5471,6 +5237,10 @@ Object {
         "KARSKA0",
         "KARSKR0",
         "KARSMA0",
+        "LAALAS0",
+        "LAALAS01",
+        "LAALAS02",
+        "LAALAT0",
         "LACBAK0",
         "LACFÄR0",
         "LACINS0",
@@ -5483,35 +5253,42 @@ Object {
         "LAGLAG0",
         "LAGLAP0",
         "LAGPLO0",
+        "LAILAT0",
+        "LAKLAN0",
+        "LALLAS00S",
+        "LAPLAC0",
+        "LAPLAS0",
+        "LAPLAS01",
+        "LAPLAS02",
         "MANDIA0",
         "MANINT0",
-        "MASANP0",
-        "MASARB0",
-        "MASKOM0",
-        "MASLAI0",
-        "MASLAT0",
-        "MASMAI0",
-        "MASMOB0",
-        "MASMOB01",
-        "MASMOB02",
-        "MASSTY0",
         "MATMAT02a",
-        "PERBRO0",
-        "PERKOM01a",
-        "PERKOM01b",
-        "PERMOT0",
-        "PERPES0",
+        "MOLMOB0",
+        "MOLMOB01",
+        "MOLMOB02",
+        "MOLMOI0",
         "PESPER01a",
         "PESPER01b",
         "PESPER00S",
         "PESTAX0",
         "PRRPRR01",
+        "REPPEO0",
+        "REPPER0",
+        "REPPER01",
+        "REPPER02",
+        "REPPES0",
         "RESREM0",
+        "SEOPEB0",
+        "SEOPER0",
+        "SEOPER01",
+        "SEOPER02",
         "SEVSEV01",
+        "SKBSKO0",
         "SNOREE0",
         "TIATIL00S",
         "TRAFOD0",
         "TRAFOR0",
+        "TRCTRU0",
       ],
       "subjects": Array [
         Object {
@@ -5522,9 +5299,24 @@ Object {
           "minPoints": 100,
         },
         Object {
-          "code": "ATV",
+          "code": "ATO",
           "courses": Array [
-            "ATVREP0",
+            "ATOATV0",
+          ],
+          "minPoints": 200,
+        },
+        Object {
+          "code": "BUS",
+          "courses": Array [
+            "BUSBUS0",
+          ],
+          "minPoints": 100,
+        },
+        Object {
+          "code": "ELC",
+          "courses": Array [
+            "ELCELO01",
+            "ELCELO02",
           ],
           "minPoints": 200,
         },
@@ -5543,6 +5335,13 @@ Object {
           "minPoints": 100,
         },
         Object {
+          "code": "FLE",
+          "courses": Array [
+            "FLEFLR0",
+          ],
+          "minPoints": 100,
+        },
+        Object {
           "code": "FLG",
           "courses": Array [
             "FLGFAL0",
@@ -5554,9 +5353,10 @@ Object {
           "code": "FÖS",
           "courses": Array [
             "FÖSPER01",
+            "FÖSPER02",
             "FÖSSEV0",
           ],
-          "minPoints": 200,
+          "minPoints": 300,
         },
         Object {
           "code": "GOD",
@@ -5578,10 +5378,31 @@ Object {
           "minPoints": 400,
         },
         Object {
+          "code": "GRO",
+          "courses": Array [
+            "GROGRO0",
+          ],
+          "minPoints": 100,
+        },
+        Object {
+          "code": "HAN",
+          "courses": Array [
+            "HANHAN00S",
+          ],
+          "minPoints": 100,
+        },
+        Object {
           "code": "HJU",
           "courses": Array [
             "HJUHJT00S",
             "HJUHJU0",
+          ],
+          "minPoints": 300,
+        },
+        Object {
+          "code": "HUV",
+          "courses": Array [
+            "HUVHUS0",
           ],
           "minPoints": 300,
         },
@@ -5604,6 +5425,16 @@ Object {
             "KARSMA0",
           ],
           "minPoints": 1100,
+        },
+        Object {
+          "code": "LAA",
+          "courses": Array [
+            "LAALAS0",
+            "LAALAS01",
+            "LAALAS02",
+            "LAALAT0",
+          ],
+          "minPoints": 400,
         },
         Object {
           "code": "LAC",
@@ -5630,28 +5461,43 @@ Object {
           "minPoints": 500,
         },
         Object {
+          "code": "LAI",
+          "courses": Array [
+            "LAILAT0",
+          ],
+          "minPoints": 200,
+        },
+        Object {
+          "code": "LAK",
+          "courses": Array [
+            "LAKLAN0",
+          ],
+          "minPoints": 100,
+        },
+        Object {
+          "code": "LAL",
+          "courses": Array [
+            "LALLAS00S",
+          ],
+          "minPoints": 100,
+        },
+        Object {
+          "code": "LAP",
+          "courses": Array [
+            "LAPLAC0",
+            "LAPLAS0",
+            "LAPLAS01",
+            "LAPLAS02",
+          ],
+          "minPoints": 500,
+        },
+        Object {
           "code": "MAN",
           "courses": Array [
             "MANDIA0",
             "MANINT0",
           ],
           "minPoints": 200,
-        },
-        Object {
-          "code": "MAS",
-          "courses": Array [
-            "MASANP0",
-            "MASARB0",
-            "MASKOM0",
-            "MASLAI0",
-            "MASLAT0",
-            "MASMAI0",
-            "MASMOB0",
-            "MASMOB01",
-            "MASMOB02",
-            "MASSTY0",
-          ],
-          "minPoints": 1600,
         },
         Object {
           "code": "MAT",
@@ -5661,15 +5507,14 @@ Object {
           "minPoints": 100,
         },
         Object {
-          "code": "PER",
+          "code": "MOL",
           "courses": Array [
-            "PERBRO0",
-            "PERKOM01a",
-            "PERKOM01b",
-            "PERMOT0",
-            "PERPES0",
+            "MOLMOB0",
+            "MOLMOB01",
+            "MOLMOB02",
+            "MOLMOI0",
           ],
-          "minPoints": 1100,
+          "minPoints": 500,
         },
         Object {
           "code": "PES",
@@ -5689,6 +5534,17 @@ Object {
           "minPoints": 100,
         },
         Object {
+          "code": "REP",
+          "courses": Array [
+            "REPPEO0",
+            "REPPER0",
+            "REPPER01",
+            "REPPER02",
+            "REPPES0",
+          ],
+          "minPoints": 600,
+        },
+        Object {
           "code": "RES",
           "courses": Array [
             "RESREM0",
@@ -5696,9 +5552,26 @@ Object {
           "minPoints": 100,
         },
         Object {
+          "code": "SEO",
+          "courses": Array [
+            "SEOPEB0",
+            "SEOPER0",
+            "SEOPER01",
+            "SEOPER02",
+          ],
+          "minPoints": 400,
+        },
+        Object {
           "code": "SEV",
           "courses": Array [
             "SEVSEV01",
+          ],
+          "minPoints": 100,
+        },
+        Object {
+          "code": "SKB",
+          "courses": Array [
+            "SKBSKO0",
           ],
           "minPoints": 100,
         },
@@ -5723,6 +5596,13 @@ Object {
             "TRAFOR0",
           ],
           "minPoints": 300,
+        },
+        Object {
+          "code": "TRC",
+          "courses": Array [
+            "TRCTRU0",
+          ],
+          "minPoints": 200,
         },
       ],
     },
@@ -11128,449 +11008,6 @@ Object {
 }
 `;
 
-exports[`programme data 'Marinteknikutbildningen' parsed correctly 1`] = `
-Object {
-  "applicableFrom": "2017-02-28T23:00:00.000Z",
-  "code": "MX",
-  "education": Object {
-    "mandatory": Object {
-      "aliasSubjects": Array [],
-      "courses": Array [
-        "ENGENG05",
-        "HISHIS01a1",
-        "IDRIDR01",
-        "MATMAT01a",
-        "NAKNAK01a1",
-        "RELREL01",
-        "SAMSAM01a1",
-        "SVASVA01",
-        "SVESVE01",
-      ],
-      "subjects": Array [
-        Object {
-          "code": "ENG",
-          "courses": Array [
-            "ENGENG05",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "HIS",
-          "courses": Array [
-            "HISHIS01a1",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "IDR",
-          "courses": Array [
-            "IDRIDR01",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "MAT",
-          "courses": Array [
-            "MATMAT01a",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "NAK",
-          "courses": Array [
-            "NAKNAK01a1",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "REL",
-          "courses": Array [
-            "RELREL01",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "SAM",
-          "courses": Array [
-            "SAMSAM01a1",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "SVA",
-          "courses": Array [
-            "SVASVA01",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "SVE",
-          "courses": Array [
-            "SVESVE01",
-          ],
-          "minPoints": 100,
-        },
-      ],
-    },
-    "orientations": Array [
-      Object {
-        "aliasSubjects": Array [],
-        "code": "MXELO",
-        "courses": Array [
-          "ELEELR0",
-          "MAIBAT02",
-          "MAIMOT01",
-        ],
-        "name": "El och elektronik",
-        "points": 300,
-        "subjects": Array [
-          Object {
-            "code": "ELE",
-            "courses": Array [
-              "ELEELR0",
-            ],
-            "minPoints": 100,
-          },
-          Object {
-            "code": "MAI",
-            "courses": Array [
-              "MAIBAT02",
-              "MAIMOT01",
-            ],
-            "minPoints": 200,
-          },
-        ],
-      },
-      Object {
-        "aliasSubjects": Array [],
-        "code": "MXSER",
-        "courses": Array [
-          "FRDKON01",
-          "MANINT0",
-        ],
-        "name": "Service och reparation",
-        "points": 300,
-        "subjects": Array [
-          Object {
-            "code": "FRD",
-            "courses": Array [
-              "FRDKON01",
-            ],
-            "minPoints": 200,
-          },
-          Object {
-            "code": "MAN",
-            "courses": Array [
-              "MANINT0",
-            ],
-            "minPoints": 100,
-          },
-        ],
-      },
-    ],
-    "professionalDegrees": Array [
-      Object {
-        "aliasSubjects": Array [],
-        "code": "MXSER",
-        "courses": Array [
-          "FRDKON02",
-          "FRDPLA0",
-          "HAVFIN03",
-          "HAVFIN04",
-          "HAVHAV0",
-          "MANNYI0",
-        ],
-        "name": "Båtbyggare",
-        "subjects": Array [
-          Object {
-            "code": "FRD",
-            "courses": Array [
-              "FRDKON02",
-              "FRDPLA0",
-            ],
-            "minPoints": 300,
-          },
-          Object {
-            "code": "HAV",
-            "courses": Array [
-              "HAVFIN03",
-              "HAVFIN04",
-              "HAVHAV0",
-            ],
-            "minPoints": 600,
-          },
-          Object {
-            "code": "MAN",
-            "courses": Array [
-              "MANNYI0",
-            ],
-            "minPoints": 100,
-          },
-        ],
-      },
-      Object {
-        "aliasSubjects": Array [],
-        "code": "MXELO",
-        "courses": Array [
-          "FYSFYS01a",
-          "MAIMAR02",
-          "MAIMAR03",
-          "MAIMOT02",
-          "MANNYI0",
-        ],
-        "name": "Marin systemtekniker",
-        "subjects": Array [
-          Object {
-            "code": "FYS",
-            "courses": Array [
-              "FYSFYS01a",
-            ],
-            "minPoints": 150,
-          },
-          Object {
-            "code": "MAI",
-            "courses": Array [
-              "MAIMAR02",
-              "MAIMAR03",
-              "MAIMOT02",
-            ],
-            "minPoints": 300,
-          },
-          Object {
-            "code": "MAN",
-            "courses": Array [
-              "MANNYI0",
-            ],
-            "minPoints": 100,
-          },
-        ],
-      },
-      Object {
-        "aliasSubjects": Array [],
-        "code": "MXSER",
-        "courses": Array [
-          "FRDBAS0",
-          "FRDPLA0",
-          "MAIMAR02",
-          "MANDIA0",
-          "MANNYI0",
-        ],
-        "name": "Marintekniker",
-        "subjects": Array [
-          Object {
-            "code": "FRD",
-            "courses": Array [
-              "FRDBAS0",
-              "FRDPLA0",
-            ],
-            "minPoints": 100,
-          },
-          Object {
-            "code": "MAI",
-            "courses": Array [
-              "MAIMAR02",
-            ],
-            "minPoints": 100,
-          },
-          Object {
-            "code": "MAN",
-            "courses": Array [
-              "MANDIA0",
-              "MANNYI0",
-            ],
-            "minPoints": 200,
-          },
-        ],
-      },
-    ],
-    "profiles": Array [],
-    "program": Object {
-      "aliasSubjects": Array [],
-      "courses": Array [
-        "BATSKA0",
-        "FRDBAT0",
-        "MAIBAT01",
-        "MAIMAR01",
-        "MANMAR0",
-      ],
-      "subjects": Array [
-        Object {
-          "code": "BAT",
-          "courses": Array [
-            "BATSKA0",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "FRD",
-          "courses": Array [
-            "FRDBAT0",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "MAI",
-          "courses": Array [
-            "MAIBAT01",
-            "MAIMAR01",
-          ],
-          "minPoints": 200,
-        },
-        Object {
-          "code": "MAN",
-          "courses": Array [
-            "MANMAR0",
-          ],
-          "minPoints": 100,
-        },
-      ],
-    },
-    "specialization": Object {
-      "aliasSubjects": Array [],
-      "courses": Array [
-        "BATKUS0",
-        "DACFAR0",
-        "DACRAD0",
-        "ENTENR0",
-        "FRDBAS0",
-        "FRDKON02",
-        "FRDPLA0",
-        "FYSFYS01b1",
-        "FYSFYS01b2",
-        "HAVFIN01",
-        "HAVHAV0",
-        "MAIMAR02",
-        "MAIMAR03",
-        "MAIMOT01",
-        "MAIMOT02",
-        "MAKMAS0",
-        "MANDIA0",
-        "MANNYI0",
-        "MATMAT02a",
-        "SAASVT0",
-      ],
-      "subjects": Array [
-        Object {
-          "code": "BAT",
-          "courses": Array [
-            "BATKUS0",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "DAC",
-          "courses": Array [
-            "DACFAR0",
-            "DACRAD0",
-          ],
-          "minPoints": 150,
-        },
-        Object {
-          "code": "ENT",
-          "courses": Array [
-            "ENTENR0",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "FRD",
-          "courses": Array [
-            "FRDBAS0",
-            "FRDKON02",
-            "FRDPLA0",
-          ],
-          "minPoints": 500,
-        },
-        Object {
-          "code": "FYS",
-          "courses": Array [
-            "FYSFYS01b1",
-            "FYSFYS01b2",
-          ],
-          "minPoints": 150,
-        },
-        Object {
-          "code": "HAV",
-          "courses": Array [
-            "HAVFIN01",
-            "HAVHAV0",
-          ],
-          "minPoints": 400,
-        },
-        Object {
-          "code": "MAI",
-          "courses": Array [
-            "MAIMAR02",
-            "MAIMAR03",
-            "MAIMOT01",
-            "MAIMOT02",
-          ],
-          "minPoints": 400,
-        },
-        Object {
-          "code": "MAK",
-          "courses": Array [
-            "MAKMAS0",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "MAN",
-          "courses": Array [
-            "MANDIA0",
-            "MANNYI0",
-          ],
-          "minPoints": 200,
-        },
-        Object {
-          "code": "MAT",
-          "courses": Array [
-            "MATMAT02a",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "SAA",
-          "courses": Array [
-            "SAASVT0",
-          ],
-          "minPoints": 100,
-        },
-      ],
-    },
-  },
-  "info": Object {
-    "degreeObjectives": Array [
-      "Marinteknikutbildningen är en riksrekryterande yrkesutbildning inom gymnasieskolan med egna examensmål. Efter examen från utbildningen ska eleverna ha de kunskaper som behövs för att arbeta som till exempel båtbyggare, marintekniker och marin systemtekniker.",
-      "Utbildningen ska utveckla elevernas kunskaper om olika typer av fartyg som används som fritidsbåtar samt om deras motorer, system och utrustning. I detta ingår funktion, konstruktion, reparation och service av fritidsbåtar och de system som förekommer.",
-      "Stor teknisk bredd och avancerad teknik utmärker de yrken som utbildningen leder till. Den tekniska utrustningen för service av fritidsbåtar blir också alltmer komplex och specialiserad. Detta ställer höga krav på användare och på dem som ska utföra service och underhåll av fritidsbåtar och deras motorer, system och utrustning. Utbildningen ska därför utveckla elevernas förmåga att reflektera över, värdera och välja mellan olika handlingsalternativ. Eleverna ska också ges möjlighet att diskutera och reflektera över sitt eget lärande utifrån olika arbetsuppgifter och därigenom få en förståelse av sin egen yrkesutövning och yrket i stort.",
-      "Utvecklingen inom de yrken utbildningen leder till innebär att en person ofta arbetar ensam med många skilda uppgifter i verksamheten. Det ställer höga krav på förmåga till självständig problemlösning. Inom de yrken utbildningen leder till har dock inte alltid en person all den kunskap som krävs för att lösa en viss uppgift. Utbildningen ska därför utveckla elevernas förmåga att arbeta både självständigt och i lag där personer med olika kunskaper och kulturell bakgrund samarbetar för att lösa problem.",
-      "Utbildningen ska ge eleverna möjlighet att utveckla kunskaper om och färdigheter i att välja utrustning och metod för att kunna utföra arbetsuppgifter med hänsyn till miljö, kvalitet, säkerhet och ekonomi. Eleverna ska också utveckla förmåga att genomföra olika arbetsuppgifter utifrån krav på hållbar utveckling.",
-      "Oavsett om man är anställd eller driver eget företag krävs initiativförmåga, idérikedom, självständighet, personligt ansvarstagande och samarbetsförmåga. Därför ska utbildningen ge eleverna möjlighet att utveckla kunskaper om entreprenörskap och företagande.",
-      "Utbildningen ska utveckla elevernas förmåga att använda yrkets fackspråk och kommunicera och samverka med kunder, uppdragsgivare och leverantörer. Eleverna ska utveckla ett serviceinriktat förhållningssätt och förmåga att utföra arbetet med kvalitet och ansvarskänsla. Eleverna ska också ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser. Dessutom ska eleverna ges möjlighet att utveckla förmåga att dokumentera sitt arbete enligt de krav som finns inom branschen.",
-      "Arbetsplatsförlagt lärande ska förekomma på utbildningen. Det arbetsplatsförlagda lärandet ska bidra till att eleverna utvecklar yrkeskunskaper och en yrkesidentitet samt förstår yrkeskulturen och blir en del av yrkesgemenskapen på en arbetsplats. Det arbetsplatsförlagda lärandet kan också ge inblick i företagandets villkor.",
-      "Examensmålet gäller för både skolförlagd utbildning och lärlingsutbildning.",
-    ],
-    "educationObjectives": Array [
-      "Gymnasiearbetet ska visa att eleven är förberedd för det yrkesområde som gäller för den valda yrkesutgången. Det ska pröva elevens förmåga att utföra vanligt förekommande arbetsuppgifter inom yrkesområdet.",
-      "Gymnasiearbetet ska utföras på ett sådant sätt att eleven planerar, genomför och utvärderar sin uppgift.",
-      "Gymnasiearbetet kan utformas så att det ger eleverna möjlighet att pröva sitt yrkeskunnande i företagsliknande arbetsformer.",
-    ],
-    "orientation": Object {
-      "lines": Array [
-        "Marinteknikutbildningen har två inriktningar.",
-        "Båda inriktningarna kan leda till fortsatta studier på yrkeshögskola.",
-      ],
-      "title": "Inriktningar",
-    },
-  },
-  "title": "Marinteknikutbildningen",
-  "typeOfProgram": "NATIONAL_RECRUITMENT_FOR_LOCAL_SPECIALIZATION",
-  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
-  "url": "https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola/programstruktur-och-examensmal/marinteknikutbildningen",
-}
-`;
-
 exports[`programme data 'Naturbruksprogrammet' parsed correctly 1`] = `
 Object {
   "applicableFrom": "2018-07-31T22:00:00.000Z",
@@ -15007,614 +14444,6 @@ Object {
 }
 `;
 
-exports[`programme data 'Sjöfartsutbildningen' parsed correctly 1`] = `
-Object {
-  "applicableFrom": "2017-02-28T23:00:00.000Z",
-  "code": "SX",
-  "education": Object {
-    "mandatory": Object {
-      "aliasSubjects": Array [],
-      "courses": Array [
-        "ENGENG05",
-        "HISHIS01a1",
-        "IDRIDR01",
-        "MATMAT01a",
-        "NAKNAK01a1",
-        "RELREL01",
-        "SAMSAM01a1",
-        "SVASVA01",
-        "SVESVE01",
-      ],
-      "subjects": Array [
-        Object {
-          "code": "ENG",
-          "courses": Array [
-            "ENGENG05",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "HIS",
-          "courses": Array [
-            "HISHIS01a1",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "IDR",
-          "courses": Array [
-            "IDRIDR01",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "MAT",
-          "courses": Array [
-            "MATMAT01a",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "NAK",
-          "courses": Array [
-            "NAKNAK01a1",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "REL",
-          "courses": Array [
-            "RELREL01",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "SAM",
-          "courses": Array [
-            "SAMSAM01a1",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "SVA",
-          "courses": Array [
-            "SVASVA01",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "SVE",
-          "courses": Array [
-            "SVESVE01",
-          ],
-          "minPoints": 100,
-        },
-      ],
-    },
-    "orientations": Array [
-      Object {
-        "aliasSubjects": Array [],
-        "code": "SXDAC",
-        "courses": Array [
-          "DACDAC01",
-          "DACDAC02",
-        ],
-        "name": "Däck",
-        "points": 600,
-        "subjects": Array [
-          Object {
-            "code": "DAC",
-            "courses": Array [
-              "DACDAC01",
-              "DACDAC02",
-            ],
-            "minPoints": 600,
-          },
-        ],
-      },
-      Object {
-        "aliasSubjects": Array [],
-        "code": "SXMAS",
-        "courses": Array [
-          "MAKMAS01",
-          "MAKMAS02",
-        ],
-        "name": "Maskin",
-        "points": 600,
-        "subjects": Array [
-          Object {
-            "code": "MAK",
-            "courses": Array [
-              "MAKMAS01",
-              "MAKMAS02",
-            ],
-            "minPoints": 600,
-          },
-        ],
-      },
-    ],
-    "professionalDegrees": Array [
-      Object {
-        "aliasSubjects": Array [],
-        "code": "SXDAC",
-        "courses": Array [
-          "DACDAC01",
-          "DACDAC02",
-          "FARLAS0",
-        ],
-        "name": "Befaren matros",
-        "subjects": Array [
-          Object {
-            "code": "DAC",
-            "courses": Array [
-              "DACDAC01",
-              "DACDAC02",
-            ],
-            "minPoints": 600,
-          },
-          Object {
-            "code": "FAR",
-            "courses": Array [
-              "FARLAS0",
-            ],
-            "minPoints": 100,
-          },
-        ],
-      },
-      Object {
-        "aliasSubjects": Array [],
-        "code": "SXMAS",
-        "courses": Array [
-          "FARLAS0",
-          "MAKMAS01",
-          "MAKMAS02",
-        ],
-        "name": "Befaren motorman",
-        "subjects": Array [
-          Object {
-            "code": "FAR",
-            "courses": Array [
-              "FARLAS0",
-            ],
-            "minPoints": 100,
-          },
-          Object {
-            "code": "MAK",
-            "courses": Array [
-              "MAKMAS01",
-              "MAKMAS02",
-            ],
-            "minPoints": 600,
-          },
-        ],
-      },
-      Object {
-        "aliasSubjects": Array [],
-        "code": "SXDAC",
-        "courses": Array [
-          "DACDAC01",
-          "DACDAC02",
-          "DACFAR0",
-          "FARLAS0",
-        ],
-        "name": "Fartygsbefäl",
-        "subjects": Array [
-          Object {
-            "code": "DAC",
-            "courses": Array [
-              "DACDAC01",
-              "DACDAC02",
-              "DACFAR0",
-            ],
-            "minPoints": 700,
-          },
-          Object {
-            "code": "FAR",
-            "courses": Array [
-              "FARLAS0",
-            ],
-            "minPoints": 100,
-          },
-        ],
-      },
-      Object {
-        "aliasSubjects": Array [],
-        "code": "SXMAS",
-        "courses": Array [
-          "ELLPRA0",
-          "ELRELF0",
-          "FARLAS0",
-          "MAKMAS01",
-          "MAKMAS02",
-        ],
-        "name": "Fartygselektriker",
-        "subjects": Array [
-          Object {
-            "code": "ELL",
-            "courses": Array [
-              "ELLPRA0",
-            ],
-            "minPoints": 100,
-          },
-          Object {
-            "code": "ELR",
-            "courses": Array [
-              "ELRELF0",
-            ],
-            "minPoints": 100,
-          },
-          Object {
-            "code": "FAR",
-            "courses": Array [
-              "FARLAS0",
-            ],
-            "minPoints": 100,
-          },
-          Object {
-            "code": "MAK",
-            "courses": Array [
-              "MAKMAS01",
-              "MAKMAS02",
-            ],
-            "minPoints": 600,
-          },
-        ],
-      },
-      Object {
-        "aliasSubjects": Array [],
-        "code": "SXMAS",
-        "courses": Array [
-          "FARLAS0",
-          "MAKMAS0",
-          "MAKMAS01",
-          "MAKMAS02",
-        ],
-        "name": "Maskinbefäl",
-        "subjects": Array [
-          Object {
-            "code": "FAR",
-            "courses": Array [
-              "FARLAS0",
-            ],
-            "minPoints": 100,
-          },
-          Object {
-            "code": "MAK",
-            "courses": Array [
-              "MAKMAS0",
-              "MAKMAS01",
-              "MAKMAS02",
-            ],
-            "minPoints": 700,
-          },
-        ],
-      },
-      Object {
-        "aliasSubjects": Array [],
-        "code": "SXDAC",
-        "courses": Array [
-          "DACDAC01",
-          "DACDAC02",
-          "FARLAS0",
-        ],
-        "name": "Matros",
-        "subjects": Array [
-          Object {
-            "code": "DAC",
-            "courses": Array [
-              "DACDAC01",
-              "DACDAC02",
-            ],
-            "minPoints": 600,
-          },
-          Object {
-            "code": "FAR",
-            "courses": Array [
-              "FARLAS0",
-            ],
-            "minPoints": 100,
-          },
-        ],
-      },
-      Object {
-        "aliasSubjects": Array [],
-        "code": "SXMAS",
-        "courses": Array [
-          "FARLAS0",
-          "MAKMAS01",
-          "MAKMAS02",
-        ],
-        "name": "Motorman",
-        "subjects": Array [
-          Object {
-            "code": "FAR",
-            "courses": Array [
-              "FARLAS0",
-            ],
-            "minPoints": 100,
-          },
-          Object {
-            "code": "MAK",
-            "courses": Array [
-              "MAKMAS01",
-              "MAKMAS02",
-            ],
-            "minPoints": 600,
-          },
-        ],
-      },
-    ],
-    "profiles": Array [],
-    "program": Object {
-      "aliasSubjects": Array [],
-      "courses": Array [
-        "FARLAS0",
-        "SJOGRN0",
-        "SJOSAE0",
-        "VERVER0",
-      ],
-      "subjects": Array [
-        Object {
-          "code": "FAR",
-          "courses": Array [
-            "FARLAS0",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "SJO",
-          "courses": Array [
-            "SJOGRN0",
-            "SJOSAE0",
-          ],
-          "minPoints": 300,
-        },
-        Object {
-          "code": "VER",
-          "courses": Array [
-            "VERVER0",
-          ],
-          "minPoints": 100,
-        },
-      ],
-    },
-    "specialization": Object {
-      "aliasSubjects": Array [],
-      "courses": Array [
-        "DACDAC01",
-        "DACFAR0",
-        "DACRAD0",
-        "DRIUNÅ0",
-        "DRIUND0",
-        "ELLELL01",
-        "ELLELL02",
-        "ELLPRA0",
-        "ELRELF0",
-        "ELRELK0",
-        "ENEENE01",
-        "ENEENE02",
-        "ENGENG06",
-        "ENTENR0",
-        "FARSKE0",
-        "FYSFYS01b1",
-        "FYSFYS01b2",
-        "INSELI0",
-        "LARLAM0",
-        "LEDLED0",
-        "MAKMAS0",
-        "MAKMAS01",
-        "MÄTMÄO0",
-        "MÄTMÄT0",
-        "MATMAT02a",
-        "MAYMAR0",
-        "MEKMEK01",
-        "PLTPLT0",
-        "PRUPRD01S",
-        "SAAKÄL01S",
-        "SAASVT0",
-        "VEKVEK0",
-        "VVIVVS0",
-      ],
-      "subjects": Array [
-        Object {
-          "code": "DAC",
-          "courses": Array [
-            "DACDAC01",
-            "DACFAR0",
-            "DACRAD0",
-          ],
-          "minPoints": 450,
-        },
-        Object {
-          "code": "DRI",
-          "courses": Array [
-            "DRIUNÅ0",
-            "DRIUND0",
-          ],
-          "minPoints": 200,
-        },
-        Object {
-          "code": "ELL",
-          "courses": Array [
-            "ELLELL01",
-            "ELLELL02",
-            "ELLPRA0",
-          ],
-          "minPoints": 300,
-        },
-        Object {
-          "code": "ELR",
-          "courses": Array [
-            "ELRELF0",
-            "ELRELK0",
-          ],
-          "minPoints": 200,
-        },
-        Object {
-          "code": "ENE",
-          "courses": Array [
-            "ENEENE01",
-            "ENEENE02",
-          ],
-          "minPoints": 200,
-        },
-        Object {
-          "code": "ENG",
-          "courses": Array [
-            "ENGENG06",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "ENT",
-          "courses": Array [
-            "ENTENR0",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "FAR",
-          "courses": Array [
-            "FARSKE0",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "FYS",
-          "courses": Array [
-            "FYSFYS01b1",
-            "FYSFYS01b2",
-          ],
-          "minPoints": 150,
-        },
-        Object {
-          "code": "INS",
-          "courses": Array [
-            "INSELI0",
-          ],
-          "minPoints": 200,
-        },
-        Object {
-          "code": "LAR",
-          "courses": Array [
-            "LARLAM0",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "LED",
-          "courses": Array [
-            "LEDLED0",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "MAK",
-          "courses": Array [
-            "MAKMAS0",
-            "MAKMAS01",
-          ],
-          "minPoints": 400,
-        },
-        Object {
-          "code": "MAT",
-          "courses": Array [
-            "MATMAT02a",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "MÄT",
-          "courses": Array [
-            "MÄTMÄO0",
-            "MÄTMÄT0",
-          ],
-          "minPoints": 200,
-        },
-        Object {
-          "code": "MAY",
-          "courses": Array [
-            "MAYMAR0",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "MEK",
-          "courses": Array [
-            "MEKMEK01",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "PLT",
-          "courses": Array [
-            "PLTPLT0",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "PRU",
-          "courses": Array [
-            "PRUPRD01S",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "SAA",
-          "courses": Array [
-            "SAAKÄL01S",
-            "SAASVT0",
-          ],
-          "minPoints": 200,
-        },
-        Object {
-          "code": "VEK",
-          "courses": Array [
-            "VEKVEK0",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "VVI",
-          "courses": Array [
-            "VVIVVS0",
-          ],
-          "minPoints": 100,
-        },
-      ],
-    },
-  },
-  "info": Object {
-    "degreeObjectives": Array [
-      "Sjöfartsutbildningen är en riksrekryterande yrkesutbildning inom gymnasieskolan med egna examensmål. Innehållet i och utformningen av utbildningen styrs till stor del av internationella överenskommelser. Efter examen från utbildningen ska eleverna ha de kunskaper som behövs för att arbeta som befattningshavare inom däcks- eller maskinavdelningen ombord på handelsfartyg. Inom utbildningen ska eleverna också ges möjligheter att läsa kurser som förbereder för högskolestudier till fartygsbefäl och maskinbefäl.",
-      "Utbildningen ska utveckla elevernas kunskaper om fartygs drift och underhåll samt förmåga att utföra drifts- och underhållsarbete ombord. I detta ingår kunskaper om vakthållning till sjöss samt förmåga att utföra arbetsuppgifter som vaktgående personal. Utbildningen ska även utveckla elevernas kunskaper om rederiers och fartygs säkerhetsorganisation samt förmåga att utföra säkerhets- och miljöskyddsarbete på fartyg. Kunskaper om faktorer som påverkar arbetsmiljön och den personliga säkerheten samt om de regler som finns inom arbetsmiljöområdet ska ingå i detta sammanhang. Vidare ska utbildningen utveckla elevernas kunskaper om olika fartygstyper och om lasthantering ombord samt förmåga att arbeta säkert vid hantering av olika laster.",
-      "Förmåga att ta eget ansvar för sina arbetsuppgifter och för fartygets säkerhet och drift är viktigt för en sjöman. Att aktivt kunna identifiera risker, problem och störningar i driften samt att finna lösningar på dessa tillsammans med den övriga besättningen förutsätter ansvarsfullhet och samarbetsförmåga. En sjöman måste samtidigt kunna arbeta självständigt, ofta ensam, med en arbetsuppgift. Utbildningen ska därför utveckla elevernas kunskaper om de risker som finns på fartyg, förmåga att agera säkerhetsmedvetet i varje situation ombord samt att arbeta både självständigt och tillsammans med andra.",
-      "Utbildningen ska ge eleverna möjlighet att utveckla förståelse av de särdrag som präglar sjömäns arbete och vardag ombord. Exempelvis arbetar sjömän ofta långa perioder borta från hemmet och lever tätt tillsammans med sina arbetskamrater under tjänstgöringsperioden. Detta medför att människor som arbetar till sjöss behöver utveckla förmågor för att klara av arbetet och det sociala livet ombord. Besättningen på ett fartyg kan bestå av människor från flera olika nationer och kulturer, och fartygen trafikerar ofta hamnar i många olika länder. Det ställer höga krav på förståelse av andra kulturer. För att kunna kommunicera, möta och samarbeta med människor i skilda sammanhang ska eleverna ges möjlighet att utveckla sin kommunikativa förmåga.",
-      "Utbildningen ska ge eleverna möjlighet att utveckla ett yrkesmässigt språkbruk som fungerar i olika situationer, med ett ordförråd som är relevant för yrket på både svenska och engelska.",
-      "Utbildningen ska ge eleverna möjlighet att utveckla de kunskaper som certifierande myndigheter kräver för att utfärda behörighetsbevis för däckspersonal respektive maskinpersonal. Kraven för behörigheter för sjöfolk anges i nationella och internationella regelverk.",
-      "Arbetsplatsförlagt lärande ska förekomma på utbildningen. Det arbetsplatsförlagda lärandet ska bidra till att eleverna utvecklar yrkeskunskaper och en yrkesidentitet samt förstår yrkeskulturen och blir en del av yrkesgemenskapen på en arbetsplats. Det arbetsplatsförlagda lärande kan också ge en inblick i företagandets villkor.",
-      "Examensmålet gäller för både skolförlagd utbildning och lärlingsutbildning.",
-    ],
-    "educationObjectives": Array [
-      "Gymnasiearbetet ska visa att eleven är förberedd för det yrkesområde som gäller för den valda yrkesutgången. Det ska pröva elevens förmåga att utföra vanligt förekommande arbetsuppgifter inom yrkesområdet.",
-      "Gymnasiearbetet ska utföras på ett sådant sätt att eleven planerar, genomför och utvärderar sin uppgift.",
-      "Gymnasiearbetet kan utformas så att det ger eleverna möjlighet att pröva sitt yrkeskunnande i företagsliknande arbetsformer.",
-    ],
-    "orientation": Object {
-      "lines": Array [
-        "Sjöfartsutbildningen har två inriktningar.",
-        "Båda inriktningarna kan leda till fortsatta studier på yrkeshögskola.",
-      ],
-      "title": "Inriktningar",
-    },
-  },
-  "title": "Sjöfartsutbildningen",
-  "typeOfProgram": "NATIONAL_RECRUITMENT_FOR_LOCAL_SPECIALIZATION",
-  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
-  "url": "https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola/programstruktur-och-examensmal/sjofartsutbildningen",
-}
-`;
-
 exports[`programme data 'Teknikprogrammet' parsed correctly 1`] = `
 Object {
   "applicableFrom": "2017-06-30T22:00:00.000Z",
@@ -16597,570 +15426,6 @@ Object {
   "typeOfProgram": "PRELIMINARY_PROGRAM_FOR_HIGHER_EDUCATION",
   "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
   "url": "https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola/programstruktur-och-examensmal/teknikprogrammet",
-}
-`;
-
-exports[`programme data 'Tågteknikutbildningen' parsed correctly 1`] = `
-Object {
-  "applicableFrom": "2017-07-31T22:00:00.000Z",
-  "code": "TX",
-  "education": Object {
-    "mandatory": Object {
-      "aliasSubjects": Array [],
-      "courses": Array [
-        "ENGENG05",
-        "HISHIS01a1",
-        "IDRIDR01",
-        "MATMAT01a",
-        "NAKNAK01a1",
-        "RELREL01",
-        "SAMSAM01a1",
-        "SVASVA01",
-        "SVESVE01",
-      ],
-      "subjects": Array [
-        Object {
-          "code": "ENG",
-          "courses": Array [
-            "ENGENG05",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "HIS",
-          "courses": Array [
-            "HISHIS01a1",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "IDR",
-          "courses": Array [
-            "IDRIDR01",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "MAT",
-          "courses": Array [
-            "MATMAT01a",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "NAK",
-          "courses": Array [
-            "NAKNAK01a1",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "REL",
-          "courses": Array [
-            "RELREL01",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "SAM",
-          "courses": Array [
-            "SAMSAM01a1",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "SVA",
-          "courses": Array [
-            "SVASVA01",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "SVE",
-          "courses": Array [
-            "SVESVE01",
-          ],
-          "minPoints": 100,
-        },
-      ],
-    },
-    "orientations": Array [],
-    "professionalDegrees": Array [
-      Object {
-        "code": "TXTAG",
-        "courses": Array [],
-        "name": "Mekaniker spårbundna fordon",
-        "subjects": Array [],
-      },
-      Object {
-        "aliasSubjects": Array [],
-        "code": "TXTAG",
-        "courses": Array [
-          "ENTENR0",
-        ],
-        "name": "Underhållsmekaniker",
-        "subjects": Array [
-          Object {
-            "code": "ENT",
-            "courses": Array [
-              "ENTENR0",
-            ],
-            "minPoints": 100,
-          },
-        ],
-      },
-    ],
-    "profiles": Array [],
-    "program": Object {
-      "aliasSubjects": Array [],
-      "courses": Array [
-        "CADCAD01",
-        "DRIUND0",
-        "DRIUNH0",
-        "ELNELE0",
-        "LLAELL01",
-        "LLAELL02",
-        "PRUPRD01S",
-        "SPOSPA0",
-        "VEAVER0",
-      ],
-      "subjects": Array [
-        Object {
-          "code": "CAD",
-          "courses": Array [
-            "CADCAD01",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "DRI",
-          "courses": Array [
-            "DRIUND0",
-            "DRIUNH0",
-          ],
-          "minPoints": 200,
-        },
-        Object {
-          "code": "ELN",
-          "courses": Array [
-            "ELNELE0",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "LLA",
-          "courses": Array [
-            "LLAELL01",
-            "LLAELL02",
-          ],
-          "minPoints": 200,
-        },
-        Object {
-          "code": "PRU",
-          "courses": Array [
-            "PRUPRD01S",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "SPO",
-          "courses": Array [
-            "SPOSPA0",
-          ],
-          "minPoints": 150,
-        },
-        Object {
-          "code": "VEA",
-          "courses": Array [
-            "VEAVER0",
-          ],
-          "minPoints": 100,
-        },
-      ],
-    },
-    "specialization": Object {
-      "aliasSubjects": Array [],
-      "courses": Array [
-        "DAODAC0",
-        "DAYPRO0",
-        "ELFELK0",
-        "ENTENR0",
-        "MATMAT02a",
-        "SVASVA02",
-        "SVESVE02",
-        "SYTSYS0",
-        "TRFTRA0",
-      ],
-      "subjects": Array [
-        Object {
-          "code": "DAO",
-          "courses": Array [
-            "DAODAC0",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "DAY",
-          "courses": Array [
-            "DAYPRO0",
-          ],
-          "minPoints": 200,
-        },
-        Object {
-          "code": "ELF",
-          "courses": Array [
-            "ELFELK0",
-          ],
-          "minPoints": 150,
-        },
-        Object {
-          "code": "ENT",
-          "courses": Array [
-            "ENTENR0",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "MAT",
-          "courses": Array [
-            "MATMAT02a",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "SVA",
-          "courses": Array [
-            "SVASVA02",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "SVE",
-          "courses": Array [
-            "SVESVE02",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "SYT",
-          "courses": Array [
-            "SYTSYS0",
-          ],
-          "minPoints": 150,
-        },
-        Object {
-          "code": "TRF",
-          "courses": Array [
-            "TRFTRA0",
-          ],
-          "minPoints": 100,
-        },
-      ],
-    },
-  },
-  "info": Object {
-    "degreeObjectives": Array [
-      "Tågteknikutbildningen är en riksrekryterande yrkesutbildning inom gymnasieskolan med egna examensmål. Efter examen från utbildningen ska eleverna ha de kunskaper som behövs för att arbeta med avhjälpande och förebyggande underhåll av spårbundna fordon.",
-      "Utbildningen ska utveckla elevernas kunskaper om tekniken i spårbundna fordon. I detta ingår spårbundna fordons funktion och konstruktion samt felsökning, reparation och service av spårbundna fordon och deras kringutrustning. Eftersom tågtekniskt underhållsarbete präglas av höga krav på säkerhet och kvalitet är det av stor betydelse att undvika mänskliga felhandlingar. Utbildningen ska därför utveckla elevernas kunskaper om samspelet mellan människa och maskin.",
-      "Snabb teknisk utveckling utmärker de yrken som utbildningen leder till. Den tekniska utrustning som används blir också alltmer komplex, specialiserad och anpassad till den specifika typen av spårfordon eller arbetsområde. Avancerad teknik och olika sätt att organisera arbetet kräver förmåga att reflektera över, värdera och välja mellan olika handlingsalternativ. Utbildningen ska därför utveckla elevernas förmåga till fortsatt lärande i arbetslivet och till att ta ansvar för sin egen utveckling inom yrket. Eleverna ska också utveckla kunskaper om och färdigheter i att välja rätt utrustning och metod för att utföra arbetsuppgifter med hänsyn till miljö, kvalitet, säkerhet och ekonomi. Eleverna ska utveckla förmåga att genomföra olika arbetsuppgifter utifrån krav på hållbar utveckling.",
-      "Utvecklingen inom de yrken som utbildningen leder till innebär att en person ensam arbetar med många skilda uppgifter i verksamheten, där olika typer av problem kan uppstå. Det ställer höga krav på förmåga till självständig problemlösning. Inom de yrken utbildningen leder till har dock inte alltid en person all den kunskap som krävs för att lösa en viss uppgift. Utbildningen ska därför utveckla elevernas förmåga att arbeta både självständigt och i lag där personer med olika kunskaper samarbetar för att lösa problem. Eleverna ska även ges möjlighet att utveckla initiativförmåga, idérikedom och företagsamhet. Utbildningen ska ge eleverna möjlighet att diskutera och reflektera över sitt eget lärande utifrån olika arbetsuppgifter och därigenom få en förståelse av sin egen yrkesutövning och yrket i stort.",
-      "Eleverna ska utveckla ett yrkesmässigt språkbruk som fungerar i olika situationer med ett ordförråd som är relevant för yrket i både svenska och engelska. Dessutom ska eleverna utveckla sin förmåga att följa och upprätta dokumentation enligt de krav som finns inom branschen. Kunskaper om olika datasystem krävs inom de yrken utbildningen leder till. Utbildningen ska därför utveckla elevernas förmåga att använda datorer och datasystem på det sätt som yrket kräver.",
-      "Utbildningen ska utveckla elevernas kunskaper om nationella och internationella överenskommelser, lagar och andra bestämmelser inom valt yrkesområde. Dessa kunskaper är till exempel viktiga för att skapa en bra arbetsmiljö och förebygga arbetsskador.",
-      "Arbetsplatsförlagt lärande ska förekomma på utbildningen. Det arbetsplatsförlagda lärandet ska bidra till att eleverna utvecklar yrkeskunskaper och en yrkesidentitet samt förstår yrkeskulturen och blir en del av yrkesgemenskapen på en arbetsplats. Det arbetsplatsförlagda lärandet kan också ge inblick i företagandets villkor.",
-      "Examensmålet gäller för både skolförlagd utbildning och lärlingsutbildning.",
-    ],
-    "educationObjectives": Array [
-      "Gymnasiearbetet ska visa att eleven är förberedd för det yrkesområde som gäller för den valda yrkesutgången. Det ska pröva elevens förmåga att utföra vanligt förekommande arbetsuppgifter inom yrkesområdet.",
-      "Gymnasiearbetet ska utföras på ett sådant sätt att eleven planerar, genomför och utvärderar sin uppgift.",
-      "Gymnasiearbetet kan utformas så att det ger eleverna möjlighet att pröva sitt yrkeskunnande i företagsliknande arbetsformer.",
-    ],
-    "orientation": Object {
-      "lines": Array [
-        "Tågteknikutbildningen har inga inriktningar.",
-        "Utbildningen kan leda till arbete som till exempel tågmekaniker eller underhållsmekaniker.",
-        "Utbildningen kan leda till fortsatta studier på yrkeshögskola.",
-      ],
-      "title": "Inriktningar",
-    },
-  },
-  "title": "Tågteknikutbildningen",
-  "typeOfProgram": "NATIONAL_RECRUITMENT_FOR_LOCAL_SPECIALIZATION",
-  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
-  "url": "https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola/programstruktur-och-examensmal/tagteknikutbildningen",
-}
-`;
-
-exports[`programme data 'Utbildningen samiska näringar' parsed correctly 1`] = `
-Object {
-  "applicableFrom": "2017-02-28T23:00:00.000Z",
-  "code": "UX",
-  "education": Object {
-    "mandatory": Object {
-      "aliasSubjects": Array [],
-      "courses": Array [
-        "ENGENG05",
-        "HISHIS01a1",
-        "IDRIDR01",
-        "MATMAT01a",
-        "NAKNAK01a1",
-        "RELREL01",
-        "SAMSAM01a1",
-        "SVASVA01",
-        "SVESVE01",
-      ],
-      "subjects": Array [
-        Object {
-          "code": "ENG",
-          "courses": Array [
-            "ENGENG05",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "HIS",
-          "courses": Array [
-            "HISHIS01a1",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "IDR",
-          "courses": Array [
-            "IDRIDR01",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "MAT",
-          "courses": Array [
-            "MATMAT01a",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "NAK",
-          "courses": Array [
-            "NAKNAK01a1",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "REL",
-          "courses": Array [
-            "RELREL01",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "SAM",
-          "courses": Array [
-            "SAMSAM01a1",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "SVA",
-          "courses": Array [
-            "SVASVA01",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "SVE",
-          "courses": Array [
-            "SVESVE01",
-          ],
-          "minPoints": 100,
-        },
-      ],
-    },
-    "orientations": Array [],
-    "professionalDegrees": Array [],
-    "profiles": Array [],
-    "program": Object {
-      "aliasSubjects": Array [],
-      "courses": Array [
-        "ENTENR0",
-        "NAGNAT01",
-        "NAKNAK01a2",
-        "RENREN01",
-        "RENREN02",
-        "SAESAM0",
-        "SAISAM0",
-        "SAISAM01S",
-        "SASSAM0",
-      ],
-      "subjects": Array [
-        Object {
-          "code": "ENT",
-          "courses": Array [
-            "ENTENR0",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "MOD",
-          "courses": Array [],
-          "minPoints": 300,
-        },
-        Object {
-          "code": "NAG",
-          "courses": Array [
-            "NAGNAT01",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "NAK",
-          "courses": Array [
-            "NAKNAK01a2",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "REN",
-          "courses": Array [
-            "RENREN01",
-            "RENREN02",
-          ],
-          "minPoints": 200,
-        },
-        Object {
-          "code": "SAE",
-          "courses": Array [
-            "SAESAM0",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "SAI",
-          "courses": Array [
-            "SAISAM0",
-            "SAISAM01S",
-          ],
-          "minPoints": 150,
-        },
-        Object {
-          "code": "SAS",
-          "courses": Array [
-            "SASSAM0",
-          ],
-          "minPoints": 100,
-        },
-      ],
-    },
-    "specialization": Object {
-      "aliasSubjects": Array [],
-      "courses": Array [
-        "FÖRENT0",
-        "FÖSPER01",
-        "FÖSSEV0",
-        "NAGNAT02",
-        "RENREE01",
-        "RENREE02",
-        "RESHAL0",
-        "SAISAM02S",
-        "SAISAM03S",
-        "SAISAM04",
-        "SAISAM05",
-        "SKMTER0",
-        "SKOJAK01",
-      ],
-      "subjects": Array [
-        Object {
-          "code": "FÖR",
-          "courses": Array [
-            "FÖRENT0",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "FÖS",
-          "courses": Array [
-            "FÖSPER01",
-            "FÖSSEV0",
-          ],
-          "minPoints": 200,
-        },
-        Object {
-          "code": "NAG",
-          "courses": Array [
-            "NAGNAT02",
-          ],
-          "minPoints": 200,
-        },
-        Object {
-          "code": "REN",
-          "courses": Array [
-            "RENREE01",
-            "RENREE02",
-          ],
-          "minPoints": 200,
-        },
-        Object {
-          "code": "RES",
-          "courses": Array [
-            "RESHAL0",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "SAI",
-          "courses": Array [
-            "SAISAM02S",
-            "SAISAM03S",
-            "SAISAM04",
-            "SAISAM05",
-          ],
-          "minPoints": 400,
-        },
-        Object {
-          "code": "SKM",
-          "courses": Array [
-            "SKMTER0",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "SKO",
-          "courses": Array [
-            "SKOJAK01",
-          ],
-          "minPoints": 100,
-        },
-      ],
-    },
-  },
-  "info": Object {
-    "degreeObjectives": Array [
-      "Utbildningen samiska näringar är en riksrekryterande yrkesutbildning inom gymnasieskolan med egna examensmål. Efter examen från utbildningen ska eleverna ha de grundläggande kunskaper som behövs för att arbeta inom verksamheter som rennäring, samiskt hantverk, samisk matkultur och turism.",
-      "Utbildningen ska utveckla elevernas förmåga att bedriva samisk näringsverksamhet anpassad till dagens och morgondagens förhållanden. Eleverna ska ges möjlighet att utveckla kunskaper om och färdigheter i att tillvarata naturens varaktiga resurser i de olika näringsverksamheterna. Utbildningen ska även utveckla elevernas kunskaper om och färdigheter i att förvalta det traditionella samiska kulturarvet som en bas för dagens levande samiska kultur.",
-      "Att värna om betesresurserna, markerna, viltet och fisken är en förutsättning för att långsiktigt kunna leva av de samiska näringarna. Respekt för naturen och det levande finns också djupt rotad i den samiska kulturen. Att bruka naturen på ett sätt som främjar hållbar utveckling och vårdar ekosystemen ställer krav på såväl biologiska och ekologiska som tekniska och ekonomiska kunskaper. Utbildningen ska utveckla elevernas förståelse av naturens mångfald och av hur olika verksamheter använder och påverkar naturen och biologiska processer. Den ska också ge eleverna möjlighet att utveckla färdigheter i att hantera redskap, tekniska hjälpmedel och terrängfordon. Utbildningen ska utveckla elevernas förmåga att kritiskt granska och reflektera över hur naturen kan brukas och förvaltas för en hållbar utveckling. I detta ingår ett globalt perspektiv på förvaltning av naturresurser samt kunskaper om internationellt samarbete.",
-      "Traditionella samiska kunskaper och förhållningssätt bärs i hög grad av samiska språk, men kommer också till uttryck bland annat i bildkonst, konsthantverk, litteratur, jojk och samisk musik. Utbildningen ska ge eleverna möjlighet att utveckla förmåga att argumentera och uttrycka ståndpunkter samt att söka, sovra, bearbeta och dokumentera information på svenska och samiska. Den ska också ge kunskaper om samisk kultur samt om samernas historia och samhällsutveckling fram till idag. Utbildningen ska utgå från ett samiskt perspektiv och ge eleverna möjlighet att diskutera och reflektera över identitet samt över sociala och kulturella frågor.",
-      "Verksamheterna inom det samiska kultur- och näringslivet ställer krav på kommunikation och samverkan med andra i olika sammanhang. Därför ska utbildningen bidra till elevernas kommunikations- och samarbetsförmåga. För att utveckla de samiska näringarna krävs innovativt tänkande, entreprenörskap och företagsamhet. Utbildningen ska därför ge eleverna möjlighet att utveckla dessa förmågor.",
-      "Utbildningen ska utveckla elevernas kunskaper om lagar och andra bestämmelser inom området. Arbetsmiljöfrågor ska ha en central plats i utbildningen för att förebygga arbetsskador och främja god hälsa.",
-      "Med utgångspunkt i praktiskt arbete och fältstudier inom samiskt kultur- och näringsliv ska utbildningen utveckla elevernas förmåga att ta initiativ och att lösa problem på ett ansvarsfullt sätt. Eleverna ska kunna planera och genomföra arbetsuppgifter samt bedöma arbetsresultat utifrån kvalitet, effektivitet och miljötänkande. Under utbildningen ska eleverna utveckla praktiska färdigheter som kopplas till förståelse och reflektion. Utbildningen ska ge eleverna möjlighet att ta ställning i etiska frågor och kunna omsätta sina ställningstaganden i praktisk handling.",
-      "Arbetsplatsförlagt lärande ska förekomma på utbildningen. Det arbetsplatsförlagda lärandet ska bidra till att eleverna utvecklar yrkeskunskaper och en yrkesidentitet samt förstår yrkeskulturen och blir en del av yrkesgemenskapen på en arbetsplats. Det arbetsplatsförlagda lärandet kan också ge inblick i företagandets villkor.",
-      "Examensmålet gäller för både skolförlagd utbildning och lärlingsutbildning.",
-    ],
-    "educationObjectives": Array [
-      "Gymnasiearbetet ska visa att eleven är förberedd för det yrkesområde som gäller för den valda yrkesutgången. Det ska pröva elevens förmåga att utföra vanligt förekommande arbetsuppgifter inom yrkesområdet.",
-      "Gymnasiearbetet ska utföras på ett sådant sätt att eleven planerar, genomför och utvärderar sin uppgift.",
-      "Gymnasiearbetet kan utformas så att det ger eleverna möjlighet att pröva sitt yrkeskunnande i företagsliknande arbetsformer.",
-    ],
-    "orientation": Object {
-      "lines": Array [
-        "Utbildningen samiska näringar har inga inriktningar.",
-        "Utbildningen kan leda till arbete som renskötare, samisk hantverkare och guide till natur-, kultur- och matupplevelser inom besöksnäringen.",
-        "Utbildningen kan leda till fortsatta studier på yrkeshögskola.",
-      ],
-      "title": "Inriktningar",
-    },
-  },
-  "title": "Utbildningen samiska näringar",
-  "typeOfProgram": "NATIONAL_RECRUITMENT_FOR_LOCAL_SPECIALIZATION",
-  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
-  "url": "https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola/programstruktur-och-examensmal/samiska-naringar",
 }
 `;
 
@@ -18445,252 +16710,6 @@ Object {
 }
 `;
 
-exports[`programme data 'Yrkesdansarutbildningen' parsed correctly 1`] = `
-Object {
-  "applicableFrom": "2017-04-17T22:00:00.000Z",
-  "code": "YX",
-  "education": Object {
-    "mandatory": Object {
-      "aliasSubjects": Array [],
-      "courses": Array [
-        "ENGENG05",
-        "HISHIS01a1",
-        "MATMAT01a",
-        "NAKNAK01a1",
-        "RELREL01",
-        "SAMSAM01a1",
-        "SVASVA01",
-        "SVESVE01",
-      ],
-      "subjects": Array [
-        Object {
-          "code": "ENG",
-          "courses": Array [
-            "ENGENG05",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "HIS",
-          "courses": Array [
-            "HISHIS01a1",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "MAT",
-          "courses": Array [
-            "MATMAT01a",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "NAK",
-          "courses": Array [
-            "NAKNAK01a1",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "REL",
-          "courses": Array [
-            "RELREL01",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "SAM",
-          "courses": Array [
-            "SAMSAM01a1",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "SVA",
-          "courses": Array [
-            "SVASVA01",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "SVE",
-          "courses": Array [
-            "SVESVE01",
-          ],
-          "minPoints": 100,
-        },
-      ],
-    },
-    "orientations": Array [],
-    "professionalDegrees": Array [],
-    "profiles": Array [
-      Object {
-        "aliasSubjects": Array [],
-        "code": "YXKLA",
-        "courses": Array [
-          "DAKKLA01a",
-          "DAKMOD01b",
-        ],
-        "name": "Klassisk balett",
-        "points": 400,
-        "subjects": Array [
-          Object {
-            "code": "DAK",
-            "courses": Array [
-              "DAKKLA01a",
-              "DAKMOD01b",
-            ],
-            "minPoints": 400,
-          },
-        ],
-      },
-      Object {
-        "aliasSubjects": Array [],
-        "code": "YXMOD",
-        "courses": Array [
-          "DAKKLA01b",
-          "DAKMOD01a",
-        ],
-        "name": "Modern nutida dans",
-        "points": 400,
-        "subjects": Array [
-          Object {
-            "code": "DAK",
-            "courses": Array [
-              "DAKKLA01b",
-              "DAKMOD01a",
-            ],
-            "minPoints": 400,
-          },
-        ],
-      },
-    ],
-    "program": Object {
-      "aliasSubjects": Array [],
-      "courses": Array [
-        "DAEDAT0",
-        "DAKDAS0",
-        "DAKKLA01a",
-        "DAKKLA01b",
-        "DAKMOD01a",
-        "DAKMOD01b",
-        "KOSKOS0",
-        "MUSMUK0",
-      ],
-      "subjects": Array [
-        Object {
-          "code": "DAE",
-          "courses": Array [
-            "DAEDAT0",
-          ],
-          "minPoints": 100,
-        },
-        Object {
-          "code": "DAK",
-          "courses": Array [
-            "DAKDAS0",
-            "DAKKLA01a",
-            "DAKKLA01b",
-            "DAKMOD01a",
-            "DAKMOD01b",
-          ],
-          "minPoints": 900,
-        },
-        Object {
-          "code": "KOS",
-          "courses": Array [
-            "KOSKOS0",
-          ],
-          "minPoints": 50,
-        },
-        Object {
-          "code": "MUS",
-          "courses": Array [
-            "MUSMUK0",
-          ],
-          "minPoints": 50,
-        },
-      ],
-    },
-    "specialization": Object {
-      "aliasSubjects": Array [],
-      "courses": Array [
-        "DAGDAN0",
-        "DAGDAS0",
-        "DAGPAS0",
-        "DAGREP0",
-        "DAGSCE0",
-        "DAKDAN0",
-        "DAKKLA02",
-        "DAKKLA03",
-        "DAKMOD02",
-        "DAKMOD03",
-        "ENTENR0",
-      ],
-      "subjects": Array [
-        Object {
-          "code": "DAG",
-          "courses": Array [
-            "DAGDAN0",
-            "DAGDAS0",
-            "DAGPAS0",
-            "DAGREP0",
-            "DAGSCE0",
-          ],
-          "minPoints": 500,
-        },
-        Object {
-          "code": "DAK",
-          "courses": Array [
-            "DAKDAN0",
-            "DAKKLA02",
-            "DAKKLA03",
-            "DAKMOD02",
-            "DAKMOD03",
-          ],
-          "minPoints": 900,
-        },
-        Object {
-          "code": "ENT",
-          "courses": Array [
-            "ENTENR0",
-          ],
-          "minPoints": 100,
-        },
-      ],
-    },
-  },
-  "info": Object {
-    "degreeObjectives": Array [
-      "Yrkesdansarutbildningen är en riksrekryterande särskild yrkesutbildning inom gymnasieskolan med egna examensmål. Den är en elitutbildning. Efter examen från utbildningen ska eleverna ha de kunskaper som behövs för att arbeta som dansare vid nationella och internationella scener där klassisk balett eller modern nutida dans används på tekniskt avancerad och konstnärligt hög nivå.",
-      "Utbildningen ska utveckla elevernas kunskaper om och färdigheter i sceniskt framförande av dans. Det innebär daglig träning och att eleverna kontinuerligt ska förfina dansteknik, repetera koreografiskt material, lösa danstekniska och konstnärliga problem samt delta i sceniska produktioner.",
-      "Scenisk erfarenhet är en central yrkeskunskap. Därför ska utbildningen ge eleverna scenisk erfarenhet och kunskaper om scenkonstens olika yrkesroller och hur dessa samverkar i en produktion. Utbildningen ska utveckla elevernas förmåga att ta eget ansvar, samarbeta och se sin roll som en del i en konstnärlig helhet. Det innebär också att utbildningen ska leda till att eleverna utvecklar förmåga att använda de koder och konventioner som används inom det sceniska området. Det innefattar såväl historiska kunskaper om äldre traditioner som samtida kunskaper inom dansområdet.",
-      "Utvecklingen inom yrket kräver förmåga att dansa enligt både äldre och samtida repertoar samt att delta i konstnärliga processer med koreografer. Utbildningen ska därför utveckla elevernas förmåga till interpretation och stilkänsla för olika typer av repertoar samt förmåga att improvisera, vara kreativa, initiativrika och problemlösande i medskapande konstnärliga processer. Koreografier kan bestå av solo-, par- eller gruppdanser, och de kan vara historiska eller samtida. Utbildningen ska därför ge eleverna förmåga att anpassa dansteknik och konstnärligt uttryck till olika sammanhang och koreografiska förhållningssätt samt utveckla elevernas förmåga att arbeta både solistiskt och i ensemble.",
-      "Utbildningen ska leda till att eleverna på en avancerad nivå utvecklar en hög dansteknisk kvalitet inom klassisk balett eller modern nutida dans. Det danstekniska området inom klassisk balett och modern nutida dans omfattar hela vidden av rörelser, stegkombinationer och rörelsekvaliteter som används inom yrkesområdet. Utbildningen ska utveckla elevernas danstekniska kvaliteter och konstnärliga uttryck i enlighet med både tradition och samtida utveckling. Eleverna ska även ges möjlighet att utveckla danstekniska och konstnärliga kunskaper enligt senaste forskning och utvecklingsarbete.",
-      "Utbildningen ska ge eleverna förmåga att använda olika förhållningssätt till musik inom olika stilar och genrer, såväl historiska som samtida. Dans, konst och musik både speglar och deltar i skapandet av kulturella värderingar när det gäller exempelvis synen på kropp, genus och etnicitet, och eleverna ska ges förmåga att problematisera dessa när det gäller teknikträning, gestaltningsarbete och färdiga koreografier. Utbildningen ska också ge eleverna kunskaper om hur konstnärliga uttrycksformer i olika sammanhang kan analyseras ur olika perspektiv. Eleverna ska även ges möjlighet att utveckla ett yrkesmässigt språkbruk.",
-      "Kraven på eget ansvar är höga inom yrket. Individuell problemlösande feedback och coachning som inriktas mot utvecklingsmöjligheter är viktiga metoder för att utbildningen ska ge eleverna förmåga att, på det sätt yrket kräver, utvärdera och reflektera över sin egen kunskapsutveckling när det gäller kroppskännedom, dansteknik, gestaltningsarbete och sceniskt arbete. Utbildningen ska även ge eleverna kunskaper om hur kompletterande träningsmetoder kan stärka kroppen samt om hur hälsa, ergonomi och livsstil påverkar kroppen. Att arbeta med kroppen som konstnärligt uttryck innebär även höga krav på att hantera stress. Utbildningen ska därför ge eleverna förmåga att använda olika metoder för mental träning.",
-      "I utbildningen ska eleverna ges möjlighet att samverka med andra konstnärliga uttrycksformer och med kunskapsområden där konstnärliga uttryck har en framträdande roll, som kulturvetenskap, historia och språk. Utbildningen ska också ge eleverna kunskaper om juridiska och etiska frågor om yttrandefrihet och upphovsrätt i kulturutövande och i kommunikation med publik.",
-      "Arbetsplatsförlagt lärande ska förekomma på utbildningen. Det arbetsplatsförlagda lärandet ska bidra till att eleverna utvecklar yrkeskunskaper och en yrkesidentitet samt förstår yrkeskulturen och blir en del av yrkesgemenskapen på en arbetsplats. Det arbetsplatsförlagda lärandet ska också ge en inblick i det scenkonstnärliga arbetets villkor.",
-    ],
-    "educationObjectives": Array [
-      "Gymnasiearbetet ska visa att eleven är förberedd för yrket som dansare. Det ska pröva elevens förmåga att utföra vanligt förekommande arbetsuppgifter inom yrkesområdet.",
-      "Gymnasiearbetet ska utföras på ett sådant sätt att eleven planerar, genomför och utvärderar sin uppgift.",
-      "Gymnasiearbetet ska utformas så att det ger eleverna möjlighet att pröva sitt yrkeskunnande i sceniska sammanhang.",
-    ],
-    "orientation": Object {
-      "lines": Array [
-        "Yrkesdansarutbildningen har två nationella profiler.",
-      ],
-      "title": "Profiler",
-    },
-  },
-  "title": "Yrkesdansarutbildningen",
-  "typeOfProgram": "NATIONAL_RECRUITMENT_FOR_LOCAL_SPECIALIZATION",
-  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
-  "url": "https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola/programstruktur-och-examensmal/yrkesdansarutbildningen",
-}
-`;
-
 exports[`programme data all programmes are correct 1`] = `
 Array [
   Object {
@@ -18724,11 +16743,6 @@ Array [
     "title": "Fordons- och transportprogrammet",
   },
   Object {
-    "code": "FX",
-    "file": "./program/p_FX.json",
-    "title": "Flygteknikutbildningen",
-  },
-  Object {
     "code": "HA",
     "file": "./program/p_HA.json",
     "title": "Handels- och administrationsprogrammet",
@@ -18754,11 +16768,6 @@ Array [
     "title": "Industritekniska programmet",
   },
   Object {
-    "code": "MX",
-    "file": "./program/p_MX.json",
-    "title": "Marinteknikutbildningen",
-  },
-  Object {
     "code": "NA",
     "file": "./program/p_NA.json",
     "title": "Naturvetenskapsprogrammet",
@@ -18779,24 +16788,9 @@ Array [
     "title": "Samhällsvetenskapsprogrammet",
   },
   Object {
-    "code": "SX",
-    "file": "./program/p_SX.json",
-    "title": "Sjöfartsutbildningen",
-  },
-  Object {
     "code": "TE",
     "file": "./program/p_TE.json",
     "title": "Teknikprogrammet",
-  },
-  Object {
-    "code": "TX",
-    "file": "./program/p_TX.json",
-    "title": "Tågteknikutbildningen",
-  },
-  Object {
-    "code": "UX",
-    "file": "./program/p_UX.json",
-    "title": "Utbildningen samiska näringar",
   },
   Object {
     "code": "VF",
@@ -18807,11 +16801,6 @@ Array [
     "code": "VO",
     "file": "./program/p_VO.json",
     "title": "Vård- och omsorgsprogrammet",
-  },
-  Object {
-    "code": "YX",
-    "file": "./program/p_YX.json",
-    "title": "Yrkesdansarutbildningen",
   },
 ]
 `;
