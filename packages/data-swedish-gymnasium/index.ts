@@ -2,20 +2,21 @@ import { fetchSyllabus } from "@education-data/fetcher";
 import {
   parseProgrammes,
   parseSubjects,
-  parseCourses
+  parseCourses,
 } from "@education-data/parser";
 import { join } from "path";
 import { writeFileSync } from "fs";
 
 import { format } from "date-fns";
 import { sv } from "date-fns/locale";
+import {
+  dataDirectory,
+  sourceDirectory,
+  outputDirectory,
+  replacementsDirectory,
+} from "./cfg";
 
 async function main() {
-  const dataDirectory = join(process.cwd(), "./data");
-  const sourceDirectory = join(dataDirectory, "./gyP1_7_S1_4");
-  const outputDirectory = join(process.cwd(), "./out");
-  const replacementsDirectory = join(process.cwd(), "./manual");
-
   console.info("\n[fetching and extracting data]");
   await fetchSyllabus(dataDirectory);
 
@@ -27,9 +28,9 @@ async function main() {
     {
       get(code: string) {
         const subjects = require("./out/subjects.json");
-        const name = subjects.find(el => el.code === code);
+        const name = subjects.find((el) => el.code === code);
         return require(join(process.cwd(), "./out", name.file));
-      }
+      },
     } as Map<string, any>,
     sourceDirectory,
     outputDirectory,
@@ -48,13 +49,13 @@ async function main() {
     JSON.stringify({
       fetchTime: new Date().toISOString(),
       humanizedFetchTime: format(new Date(), "do LLLL, yyyy", {
-        locale: sv
-      })
+        locale: sv,
+      }),
     })
   );
 }
 
-main().catch(err => {
+main().catch((err) => {
   console.error(err);
   process.exit(1);
 });
