@@ -306,7 +306,7 @@ export async function parseCourse(
   //);
 
   const centralContentGroups = [
-    ...(data.centralContent?.[0]
+    ...(data.centralContent?.[0]?.text?.[0]
       ?.replace?.("\n", " ")
       ?.matchAll?.(
         /(?:<p>((?:[^<]|(?:<\/?strong>)|\n)+?)<\/p>)?(?:\s|\n)*<ul(?:[^>]+)?>((?:.|\n)*?)<\/ul>/gm

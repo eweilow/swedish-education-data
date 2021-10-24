@@ -29,7 +29,7 @@ export async function parseCourses(
       const rawData = await parseXML(str);
 
       for (const course of rawData.subject.courses) {
-        await rethrowErrorsWithContext(`${course}`, async () => {
+        await rethrowErrorsWithContext(course, async () => {
           const data = await parseCourse(
             subjects.get(rawData.subject.code[0].trim())!,
             course,

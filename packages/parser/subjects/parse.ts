@@ -17,7 +17,6 @@ export async function parseSubject(data: any, replacementsDirectory: string) {
   const subject = {
     title: data.name[0].trim(),
     code: data.code[0].trim(),
-    category: data.category[0]?.trim(),
     developmentPurposes: [] as any[],
     purposes: [] as any[],
     courseInfo: {} as any,

@@ -17,8 +17,8 @@ import {
 } from "./cfg";
 
 async function main() {
-  // console.info("\n[fetching and extracting data]");
-  // await fetchSyllabus(dataDirectory);
+  console.info("\n[fetching and extracting data]");
+  await fetchSyllabus(dataDirectory);
 
   console.info("\n[parsing subject data]");
   await parseSubjects(sourceDirectory, outputDirectory, replacementsDirectory);
@@ -39,7 +39,7 @@ async function main() {
 
   console.info("\n[parsing program data]");
   await parseProgrammes(
-    sourceDirectory,
+    sourceDirectory + "/../gyP1_6_S1_4",
     outputDirectory,
     replacementsDirectory
   );
