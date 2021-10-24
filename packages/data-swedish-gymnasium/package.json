@@ -6,7 +6,7 @@
   "scripts": {
     "clean": "del-cli 'data/**/*' && del-cli 'out/**/*'",
     "build": "ts-node index.ts",
-    "dev": "ts-node-dev --cls --respawn --transpileOnly index.ts",
+    "dev": "ts-node-dev --cls --respawn index.ts",
     "test": "jest"
   },
   "main": "./out",
@@ -21,8 +21,8 @@
     "date-fns": "^2.2.1",
     "del-cli": "^3.0.0",
     "jest": "^24.9.0",
-    "ts-node": "^8.4.1",
-    "ts-node-dev": "^1.0.0-pre.42",
-    "typescript": "^3.6.3"
+    "ts-node": "^10.4.0",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.4.4"
   }
 }
