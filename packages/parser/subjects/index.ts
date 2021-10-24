@@ -5,6 +5,7 @@ import { sync as mkdirp } from "mkdirp";
 import { join, dirname } from "path";
 import { parseXML } from "../utils/parseXml";
 import { getSortableCode } from "../utils/sortableCode";
+import { rethrowErrorsWithContext } from "../utils/wrapErr";
 
 export async function parseSubjects(
   sourceDirectory: string,
@@ -22,23 +23,25 @@ export async function parseSubjects(
 
   const subjects: any[] = [];
   for (const subjectFile of subjectGlobs) {
-    const str = readFileSync(subjectFile, "utf-8");
-    const rawData = await parseXML(str);
+    await rethrowErrorsWithContext(subjectFile, async () => {
+      const str = readFileSync(subjectFile, "utf-8");
+      const rawData = await parseXML(str);
 
-    const data = await parseSubject(rawData.subject, replacementsDirectory);
+      const data = await parseSubject(rawData.subject, replacementsDirectory);
 
-    const relativeName = "./subject/s_" + data.code + ".json";
+      const relativeName = "./subject/s_" + data.code + ".json";
 
-    const name = join(outputDirectory, relativeName);
-    mkdirp(dirname(name));
-    writeFileSync(name, JSON.stringify(data, null, "  "));
+      const name = join(outputDirectory, relativeName);
+      mkdirp(dirname(name));
+      writeFileSync(name, JSON.stringify(data, null, "  "));
 
-    subjects.push({
-      code: data.code,
-      title: data.title,
-      file: relativeName,
+      subjects.push({
+        code: data.code,
+        title: data.title,
+        file: relativeName,
+      });
+      subjectsMap.set(data.code, data);
     });
-    subjectsMap.set(data.code, data);
   }
 
   subjects.sort((a, b) =>

@@ -5,6 +5,7 @@ import { sync as mkdirp } from "mkdirp";
 import { join, relative, dirname } from "path";
 import { parseXML } from "../utils/parseXml";
 import { getSortableCode } from "../utils/sortableCode";
+import { rethrowErrorsWithContext } from "../utils/wrapErr";
 
 export async function parseProgrammes(
   sourceDirectory: string,
@@ -22,23 +23,25 @@ export async function parseProgrammes(
 
   const programmes: any[] = [];
   for (const programFile of programGlobs) {
-    const str = readFileSync(programFile, "utf-8");
-    const rawData = await parseXML(str);
+    await rethrowErrorsWithContext(programFile, async () => {
+      const str = readFileSync(programFile, "utf-8");
+      const rawData = await parseXML(str);
 
-    const data = await parseProgram(rawData.program, replacementsDirectory);
+      const data = await parseProgram(rawData.program, replacementsDirectory);
 
-    const relativeName = "./program/p_" + data.code + ".json";
+      const relativeName = "./program/p_" + data.code + ".json";
 
-    const name = join(outputDirectory, relativeName);
-    mkdirp(dirname(name));
-    writeFileSync(name, JSON.stringify(data, null, "  "));
+      const name = join(outputDirectory, relativeName);
+      mkdirp(dirname(name));
+      writeFileSync(name, JSON.stringify(data, null, "  "));
 
-    programmes.push({
-      code: data.code,
-      title: data.title,
-      file: relativeName,
+      programmes.push({
+        code: data.code,
+        title: data.title,
+        file: relativeName,
+      });
+      programmesMap.set(data.code, data);
     });
-    programmesMap.set(data.code, data);
   }
 
   programmes.sort((a, b) =>
