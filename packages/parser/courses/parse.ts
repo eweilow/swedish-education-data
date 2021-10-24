@@ -7,7 +7,7 @@ import { setValueIfExists } from "../utils/setValueIfExists";
 import { checkTextEquality } from "../utils/matchText";
 import {
   readRangeFromDescription,
-  getIndicesFromRange
+  getIndicesFromRange,
 } from "./readRangeFromDescription";
 import { existsSync, writeFileSync } from "fs";
 import * as mkdirp from "mkdirp";
@@ -33,8 +33,8 @@ export async function parseCourse(
 
   setValueIfExists(
     manualReplacements["description"],
-    value => checkTextEquality(data.description.join("\n"), value.join("\n")),
-    value => {
+    (value) => checkTextEquality(data.description.join("\n"), value.join("\n")),
+    (value) => {
       data.description = [normalizeHTML(value.join("\n"))];
     }
   );
@@ -50,9 +50,9 @@ export async function parseCourse(
     );
   }
 
-  const reqs = data.knowledgeRequirements.map(el => ({
+  const reqs = data.knowledgeRequirements.map((el) => ({
     step: el.gradeStep[0],
-    text: el.text[0]
+    text: el.text[0],
   }));
 
   const out = {};
@@ -68,16 +68,16 @@ export async function parseCourse(
       console.log(data.code[0].trim() + " - " + req.step + ": \n" + req.text);
     }
     out[req.step] = [...req.text.matchAll(/<p>(.+?)<\/p>/g)]
-      .map(el => el[1])
-      .filter(el => el && el.trim())
-      .map(el =>
+      .map((el) => el[1])
+      .filter((el) => el && el.trim())
+      .map((el) =>
         el
           .replace(/<br\s*\/?>/g, " ")
           .replace(/<italic>\s*\.\s*<\/italic>/g, ".")
           .replace(/\.\s*<\/strong>/g, "</strong>. ")
           .split(".")
-          .filter(el => !!el)
-          .map(el =>
+          .filter((el) => !!el)
+          .map((el) =>
             el
               .trim()
               .replace(/<br\s*\/>/g, " ")
@@ -97,15 +97,15 @@ export async function parseCourse(
               .replace("hon eller han", "hen")
               .trim()
           )
-          .filter(el => !!el)
-          .map(el => (!el.endsWith(".") ? el + "." : el))
+          .filter((el) => !!el)
+          .map((el) => (!el.endsWith(".") ? el + "." : el))
       )
-      .filter(el => el.length > 0);
+      .filter((el) => el.length > 0);
 
     for (const row of out[req.step]) {
       for (const part of row) {
         const matchedTags = new Set(
-          [...part.matchAll(/<([^/>]+)>/g)].map(el => el[1])
+          [...part.matchAll(/<([^/>]+)>/g)].map((el) => el[1])
         );
 
         if (
@@ -138,36 +138,36 @@ export async function parseCourse(
 
   setValueIfExists(
     criteriaReplacement["E"],
-    value =>
+    (value) =>
       checkTextEquality(
-        out["E"].flatMap(el => el).join("\n"),
-        value.flatMap(el => el).join("\n")
+        out["E"].flatMap((el) => el).join("\n"),
+        value.flatMap((el) => el).join("\n")
       ),
-    value => {
+    (value) => {
       out["E"] = value;
     }
   );
 
   setValueIfExists(
     criteriaReplacement["C"],
-    value =>
+    (value) =>
       checkTextEquality(
-        out["C"].flatMap(el => el).join("\n"),
-        value.flatMap(el => el).join("\n")
+        out["C"].flatMap((el) => el).join("\n"),
+        value.flatMap((el) => el).join("\n")
       ),
-    value => {
+    (value) => {
       out["C"] = value;
     }
   );
 
   setValueIfExists(
     criteriaReplacement["A"],
-    value =>
+    (value) =>
       checkTextEquality(
-        out["A"].flatMap(el => el).join("\n"),
-        value.flatMap(el => el).join("\n")
+        out["A"].flatMap((el) => el).join("\n"),
+        value.flatMap((el) => el).join("\n")
       ),
-    value => {
+    (value) => {
       out["A"] = value;
     }
   );
@@ -226,8 +226,8 @@ export async function parseCourse(
   );
 
   function onlyAdded(a: string[][], b: string[][]) {
-    const flatA = a.flatMap(el => el);
-    const flatB = b.flatMap(el => el);
+    const flatA = a.flatMap((el) => el);
+    const flatB = b.flatMap((el) => el);
 
     for (const element of flatA) {
       if (!flatB.includes(element)) {
@@ -239,24 +239,24 @@ export async function parseCourse(
 
   setValueIfExists(
     criteriaReplacement2["E"],
-    value => onlyAdded(criteriaReplacement2["E"], value),
-    value => {
+    (value) => onlyAdded(criteriaReplacement2["E"], value),
+    (value) => {
       out["E"] = value;
     }
   );
 
   setValueIfExists(
     criteriaReplacement2["C"],
-    value => onlyAdded(criteriaReplacement2["C"], value),
-    value => {
+    (value) => onlyAdded(criteriaReplacement2["C"], value),
+    (value) => {
       out["C"] = value;
     }
   );
 
   setValueIfExists(
     criteriaReplacement2["A"],
-    value => onlyAdded(criteriaReplacement2["A"], value),
-    value => {
+    (value) => onlyAdded(criteriaReplacement2["A"], value),
+    (value) => {
       out["A"] = value;
     }
   );
@@ -307,30 +307,30 @@ export async function parseCourse(
       .replace("\n", " ")
       .matchAll(
         /(?:<p>((?:[^<]|(?:<\/?strong>)|\n)+?)<\/p>)?(?:\s|\n)*<ul(?:[^>]+)?>((?:.|\n)*?)<\/ul>/gm
-      )
+      ),
   ]
     .map(
-      el =>
+      (el) =>
         el &&
         ([
           (el[1] && el[1].trim() && $(el[1].trim()).text()) || null,
           [...el[2].trim().matchAll(/<li>(.*?)<\/li>/g)]
-            .map(el => el[1].trim())
-            .map(el =>
+            .map((el) => el[1].trim())
+            .map((el) =>
               $("<div>" + el + "</div>")
                 .text()
                 .trim()
             )
-            .map(el => {
+            .map((el) => {
               if (el.endsWith(".")) {
                 return el;
               }
               return `${el}.`;
-            })
+            }),
         ] as [string | null, string[]])
     )
     .map(
-      el =>
+      (el) =>
         el &&
         ([(el[0] && el[0]!.trim()) || null, el[1]] as [string | null, string[]])
     );
@@ -343,13 +343,13 @@ export async function parseCourse(
 
   const centralContent = new Set(
     [...data.centralContent[0].matchAll(/<li>(.*?)<\/li>/g)]
-      .map(el => el[1].trim())
-      .map(el =>
+      .map((el) => el[1].trim())
+      .map((el) =>
         $("<div>" + el + "</div>")
           .text()
           .trim()
       )
-      .map(el => {
+      .map((el) => {
         if (el.endsWith(".")) {
           return el;
         }
@@ -366,7 +366,7 @@ export async function parseCourse(
   if (centralContent.size > 0) {
     throw new Error(
       "Central content groups failed to read the following central contents:\n - " +
-        [...centralContent].map(el => `'${el}'`).join("\n - ")
+        [...centralContent].map((el) => `'${el}'`).join("\n - ")
     );
   }
 
@@ -408,7 +408,7 @@ export async function parseCourse(
       .text()
       .replace(/(\s|\n)+/gm, " ")
       .trim(),
-    applicableSubjectPurposes: [] as number[]
+    applicableSubjectPurposes: [] as number[],
     //data
   };
 
@@ -425,14 +425,14 @@ export async function parseCourse(
       "warning: There should not be an index outside the range of subject.purposes in course " +
         course.code +
         "(found indices " +
-        course.applicableSubjectPurposes.map(el => el + 1).join(", ") +
+        course.applicableSubjectPurposes.map((el) => el + 1).join(", ") +
         " on range 1-" +
         subject.developmentPurposes.length +
         ")"
     );
 
     course.applicableSubjectPurposes = course.applicableSubjectPurposes.filter(
-      el => el < subject.developmentPurposes.length
+      (el) => el < subject.developmentPurposes.length
     );
   }
 

@@ -17,7 +17,7 @@ export async function parseProgrammes(
 
   const programGlobs = await readGlobFiles({
     directory: sourceDirectory,
-    globStr: "**/program/*.xml"
+    globStr: "**/program/*.xml",
   });
 
   const programmes: any[] = [];
@@ -36,7 +36,7 @@ export async function parseProgrammes(
     programmes.push({
       code: data.code,
       title: data.title,
-      file: relativeName
+      file: relativeName,
     });
     programmesMap.set(data.code, data);
   }

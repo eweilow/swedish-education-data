@@ -27,7 +27,7 @@ export async function parseSubject(data: any, replacementsDirectory: string) {
     typeOfSchooling: data.typeOfSchooling[0].trim(),
     category: data.category[0].trim(),
     applicableFrom: new Date(data.applianceDate[0]).toISOString(),
-    courses: data.courses.map((el: any) => el.code[0].trim())
+    courses: data.courses.map((el: any) => el.code[0].trim()),
   };
 
   subject.courses.sort((a: any, b: any) =>
@@ -41,7 +41,7 @@ export async function parseSubject(data: any, replacementsDirectory: string) {
   let purpose = normalizeHTML(data.purpose[0]).split("\n");
   setValueIfExists(
     manualReplacements["purpose"],
-    value =>
+    (value) =>
       checkTextEquality(
         purpose.join("\n"),
         value.join("\n"),
@@ -49,7 +49,7 @@ export async function parseSubject(data: any, replacementsDirectory: string) {
           ? manualReplacements.allowedPurposeDifference.join("\n")
           : null
       ),
-    value => {
+    (value) => {
       purpose = normalizeHTML(value.join("\n")).split("\n");
     }
   );
@@ -60,7 +60,7 @@ export async function parseSubject(data: any, replacementsDirectory: string) {
     .first()
     .children()
     .toArray()
-    .map(el =>
+    .map((el) =>
       $(el)
         .text()
         .trim()
@@ -68,7 +68,7 @@ export async function parseSubject(data: any, replacementsDirectory: string) {
         .replace(/(\s|\n)+/gm, " ")
         .trim()
     )
-    .map(el => el[0].toUpperCase() + el.slice(1));
+    .map((el) => el[0].toUpperCase() + el.slice(1));
 
   assert.isAtLeast(
     developmentPurposes.length,
@@ -84,7 +84,7 @@ export async function parseSubject(data: any, replacementsDirectory: string) {
   const purposes = parsedPurpose
     .find("p:not(h4 ~ p)") // Matching on h4 is SO risky lol
     .toArray()
-    .map(el =>
+    .map((el) =>
       $(el)
         .text()
         .trim()
@@ -108,7 +108,7 @@ export async function parseSubject(data: any, replacementsDirectory: string) {
     .first()
     .children()
     .toArray()
-    .map(el =>
+    .map((el) =>
       $(el)
         .text()
         .trim()
@@ -158,7 +158,7 @@ export async function parseSubject(data: any, replacementsDirectory: string) {
   if (printDebug) {
     console.log({
       rows: data.courses.map((el: any) => el.name[0]),
-      columns: courseInfo
+      columns: courseInfo,
     });
   }
   if (printDebug) {
@@ -201,7 +201,7 @@ export async function parseSubject(data: any, replacementsDirectory: string) {
         `warning: Course ${code} is missing info in subject ${subject.code}. Auto-generating`
       );
       const found = (data.courses as any[]).find(
-        el => code === el.code[0].trim()
+        (el) => code === el.code[0].trim()
       );
       // if (subject.code === "IDR") {
       //   console.log(found);

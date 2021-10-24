@@ -17,7 +17,7 @@ export async function parseSubjects(
 
   const subjectGlobs = await readGlobFiles({
     directory: sourceDirectory,
-    globStr: "**/subject/*.xml"
+    globStr: "**/subject/*.xml",
   });
 
   const subjects: any[] = [];
@@ -36,7 +36,7 @@ export async function parseSubjects(
     subjects.push({
       code: data.code,
       title: data.title,
-      file: relativeName
+      file: relativeName,
     });
     subjectsMap.set(data.code, data);
   }

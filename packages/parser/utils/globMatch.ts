@@ -14,10 +14,12 @@ export async function readGlobFiles(...array: Input[]): Promise<string[]> {
         glob(globStr, { cwd: directory, root: directory }, (err, files) => {
           if (err) return reject(err);
 
-          resolve(files.map(file => join(directory, file)));
+          resolve(files.map((file) => join(directory, file)));
         });
       })
     );
   }
-  return Promise.all(globPromises).then(arr => ([] as string[]).concat(...arr));
+  return Promise.all(globPromises).then((arr) =>
+    ([] as string[]).concat(...arr)
+  );
 }

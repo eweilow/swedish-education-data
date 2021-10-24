@@ -47,7 +47,7 @@ export async function parseProgram(data: any, replacementsDirectory: string) {
   );
 
   function exportParagraphs(inputStr: string) {
-    const strs = [...inputStr.matchAll(/<p>((?:.|\n)+?)<\/p>/g)].map(el =>
+    const strs = [...inputStr.matchAll(/<p>((?:.|\n)+?)<\/p>/g)].map((el) =>
       $("<div>" + el[1] + "</div>")
         .text()
         .replace(/\n/g, " ")
@@ -55,11 +55,7 @@ export async function parseProgram(data: any, replacementsDirectory: string) {
         .trim()
     );
 
-    const left = strs
-      .join(" ")
-      .replace(/\n/g, " ")
-      .replace(/\s+/g, " ")
-      .trim();
+    const left = strs.join(" ").replace(/\n/g, " ").replace(/\s+/g, " ").trim();
     const right = $("<div>" + normalizeHTML(inputStr) + "</div>")
       .text()
       .replace(/\n/g, " ")
@@ -111,15 +107,15 @@ export async function parseProgram(data: any, replacementsDirectory: string) {
             orientation.content.join("\n"),
             data
           )
-        )
+        ),
       },
       educationObjectives: exportParagraphs(
         educationObjective.content.join("\n")
       )
         .join("")
         .split(/\.\s+(?=Gymnasiearbetet)/g)
-        .map(el => el.trim())
-        .map(el => (el.endsWith(".") ? el : `${el}.`))
+        .map((el) => el.trim())
+        .map((el) => (el.endsWith(".") ? el : `${el}.`)),
     },
     education: {
       mandatory: readProgramSubjects(commonMandatory.subject),
@@ -127,25 +123,25 @@ export async function parseProgram(data: any, replacementsDirectory: string) {
       specialization: readProgramSubjects(specialization.subject),
       orientations:
         typeof data.programOrientations[0] === "object"
-          ? data.programOrientations[0].programOrientation.map(el => ({
+          ? data.programOrientations[0].programOrientation.map((el) => ({
               name: el.name[0].trim(),
               code: el.code[0].trim(),
               points: parseInt((el.points || el.point)[0], 10),
-              ...readProgramSubjects(el.subject)
+              ...readProgramSubjects(el.subject),
             }))
           : [],
       profiles:
         typeof data.profiles[0] === "object"
-          ? data.profiles[0].profile.map(el => ({
+          ? data.profiles[0].profile.map((el) => ({
               name: el.name[0].trim(),
               code: el.code[0].trim(),
               points: parseInt((el.points || el.point)[0], 10),
-              ...readProgramSubjects(el.subject)
+              ...readProgramSubjects(el.subject),
             }))
           : [],
       professionalDegrees:
         typeof data.professionalDegrees[0] === "object"
-          ? data.professionalDegrees[0].professionalDegree.map(el => {
+          ? data.professionalDegrees[0].professionalDegree.map((el) => {
               if (
                 el.profSpecialization.length > 1 ||
                 typeof el.profSpecialization[0] !== "string"
@@ -168,11 +164,11 @@ export async function parseProgram(data: any, replacementsDirectory: string) {
               return {
                 name: el.name[0].trim(),
                 code: el.programOrientationCode[0].trim(),
-                ...readProgramSubjects(el.subject)
+                ...readProgramSubjects(el.subject),
               };
             })
-          : []
-    }
+          : [],
+    },
   };
 
   assert.oneOf(program.info.orientation.title, ["Inriktningar", "Profiler"]);

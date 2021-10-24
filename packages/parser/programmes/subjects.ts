@@ -41,13 +41,13 @@ export function readProgramSubjects(inSubjects: any) {
           subject.optional != null &&
           subject.optional[0].toString().toLowerCase() === "true",
         minPoints: Math.max(point, coursePoints),
-        courses: [...subjectCourses]
+        courses: [...subjectCourses],
       });
     } else {
       subjects.push({
         code,
         minPoints: Math.max(point, coursePoints),
-        courses: [...subjectCourses]
+        courses: [...subjectCourses],
       });
     }
   }
@@ -59,6 +59,6 @@ export function readProgramSubjects(inSubjects: any) {
   return {
     courses,
     subjects,
-    aliasSubjects
+    aliasSubjects,
   };
 }

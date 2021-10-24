@@ -13,7 +13,7 @@ export function normalizeHTML(html: string) {
     parser: "html",
     printWidth: 80,
     tabWidth: 2,
-    useTabs: false
+    useTabs: false,
   })
     .replace("<p></p>", "")
     .trim();

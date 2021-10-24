@@ -17,5 +17,8 @@
     "@types/node": "12.7.5",
     "lerna": "^3.10.7"
   },
-  "packageManager": "yarn@3.0.2"
+  "packageManager": "yarn@3.0.2",
+  "dependencies": {
+    "prettier": "^2.4.1"
+  }
 }

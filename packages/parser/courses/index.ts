@@ -18,7 +18,7 @@ export async function parseCourses(
 
   const subjectGlobs = await readGlobFiles({
     directory: sourceDirectory,
-    globStr: "**/subject/*.xml"
+    globStr: "**/subject/*.xml",
   });
 
   const courses: any[] = [];
@@ -42,7 +42,7 @@ export async function parseCourses(
       courses.push({
         code: data.code,
         title: data.title,
-        file: relativeName
+        file: relativeName,
       });
       coursesMap.set(data.code, data);
     }

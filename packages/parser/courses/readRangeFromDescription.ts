@@ -4,7 +4,7 @@ import { join } from "path";
 export function testDescriptions() {
   const lines = readFileSync(join(__dirname, "./descriptions.txt"), "utf-8")
     .split("\n")
-    .map(el => el.trim());
+    .map((el) => el.trim());
 
   let maxLength = 0;
   const out: string[] = [];
@@ -107,15 +107,15 @@ export function getIndicesFromRange(range: string, specificCount: number = 1) {
   const split = range
     .replace("och", ",")
     .split(",")
-    .map(el => el.trim())
-    .map(el =>
+    .map((el) => el.trim())
+    .map((el) =>
       el
         .replace(/[^0-9]/g, "-")
         .replace(/^-+/g, "")
         .replace(/-+$/g, "")
         .replace(/-+/g, "-")
     )
-    .filter(el => !!el);
+    .filter((el) => !!el);
 
   const indices = new Set<number>();
   for (const part of split) {
@@ -130,7 +130,7 @@ export function getIndicesFromRange(range: string, specificCount: number = 1) {
       indices.add(parseInt(part, 10));
     }
   }
-  const arr = [...indices].map(el => el - 1);
+  const arr = [...indices].map((el) => el - 1);
   arr.sort((a, b) => a - b);
 
   return arr;

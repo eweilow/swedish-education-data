@@ -11,7 +11,7 @@ export async function exportArchive(buffer: Buffer, directory: string) {
     mkdirp(directory);
     await extract({
       file: path,
-      cwd: directory
+      cwd: directory,
     });
   } finally {
     await cleanup();

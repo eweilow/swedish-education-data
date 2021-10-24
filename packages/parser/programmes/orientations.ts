@@ -11,17 +11,17 @@ export function readProgramOrientations(
   html = normalizeHTML(html.trim());
   setValueIfExists(
     manualReplacements["program.info.orientation.html"],
-    value => checkTextEquality(html, value.join("\n")),
-    value => {
+    (value) => checkTextEquality(html, value.join("\n")),
+    (value) => {
       html = normalizeHTML(value.join("\n"));
     }
   );
 
   const orientations = [...html.matchAll(/\<p\>((?:\n|.)*?)\<\/p\>/gm)];
 
-  const possibleStrings = orientations.map(el => el[1]);
+  const possibleStrings = orientations.map((el) => el[1]);
   const countOfSuitableStrings = possibleStrings.map(
-    el =>
+    (el) =>
       [...el.matchAll(/(Inriktningen|Profilen)(?:\s|\n)*\<italic\>/gm)].length
   );
 
@@ -39,11 +39,11 @@ export function readProgramOrientations(
 
   const usableStrings = possibleStrings
     .filter((_, i) => countOfSuitableStrings[i] === 1)
-    .map(el => normalizeHTML(el));
+    .map((el) => normalizeHTML(el));
 
   const restStrings = possibleStrings
     .filter((_, i) => countOfSuitableStrings[i] === 0)
-    .map(el => normalizeHTML(el));
+    .map((el) => normalizeHTML(el));
 
   const programOrientations = data.programOrientations[0].programOrientation;
   const profiles = data.profiles[0].profile;
@@ -69,7 +69,7 @@ export function readProgramOrientations(
     );
   }
 
-  html = normalizeHTML(restStrings.map(el => `<p>${el}</p>`).join("\n"));
+  html = normalizeHTML(restStrings.map((el) => `<p>${el}</p>`).join("\n"));
 
   return html;
 }
