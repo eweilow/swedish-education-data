@@ -9,7 +9,7 @@ export function readProgramSubjects(inSubjects: any) {
   const aliasSubjects: any[] = [];
 
   for (const subject of inSubjects) {
-    if (typeof subject !== "object") {
+    if (typeof subject !== "object" || subject?.code?.[0] == null) {
       continue;
     }
     // const name = subject.name[0];

@@ -45,8 +45,8 @@ export function readProgramOrientations(
     .filter((_, i) => countOfSuitableStrings[i] === 0)
     .map((el) => normalizeHTML(el));
 
-  const programOrientations = data.programOrientations[0].programOrientation;
-  const profiles = data.profiles[0].profile;
+  const programOrientations = data.programOrientations?.[0]?.programOrientation;
+  const profiles = data.profiles?.[0]?.profile;
   //const programOrientations = data.programOrientations[0].programOrientation
 
   if (programOrientations != null) {

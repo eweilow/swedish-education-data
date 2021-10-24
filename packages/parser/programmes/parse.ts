@@ -55,7 +55,11 @@ export async function parseProgram(data: any, replacementsDirectory: string) {
         .trim()
     );
 
-    const left = strs.join(" ").replace(/\n/g, " ").replace(/\s+/g, " ").trim();
+    const left = strs
+      .join(" ")
+      .replace(/\n/g, " ")
+      .replace(/\s+/g, " ")
+      .trim();
     const right = $("<div>" + normalizeHTML(inputStr) + "</div>")
       .text()
       .replace(/\n/g, " ")
@@ -131,8 +135,8 @@ export async function parseProgram(data: any, replacementsDirectory: string) {
             }))
           : [],
       profiles:
-        typeof data.profiles[0] === "object"
-          ? data.profiles[0].profile.map((el) => ({
+        typeof data.profiles?.[0] === "object"
+          ? data.profiles?.[0].profile.map((el) => ({
               name: el.name[0].trim(),
               code: el.code[0].trim(),
               points: parseInt((el.points || el.point)[0], 10),

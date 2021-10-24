@@ -50,10 +50,11 @@ export async function parseCourse(
     );
   }
 
-  const reqs = data.knowledgeRequirements.map((el) => ({
-    step: el.gradeStep[0],
-    text: el.text[0],
-  }));
+  const reqs =
+    (data.knowledgeRequirements ?? data.knowledgeRequirement)?.map?.((el) => ({
+      step: el.gradeStep[0],
+      text: el.text[0],
+    })) ?? [];
 
   const out = {};
   for (const req of reqs) {
@@ -203,7 +204,8 @@ export async function parseCourse(
     mkdirp.sync(dirname(criteriaReplacements));
     if (!existsSync(criteriaReplacements)) {
       const criteriaSrc = {};
-      for (const step of data.knowledgeRequirements) {
+      for (const step of data.knowledgeRequirements ??
+        data.knowledgeRequirement) {
         criteriaSrc[step.gradeStep[0]] = normalizeHTML(step.text[0]).split(
           "\n"
         );
@@ -284,7 +286,8 @@ export async function parseCourse(
     mkdirp.sync(dirname(criteriaReplacements2));
     if (!existsSync(criteriaReplacements2)) {
       const criteriaSrc = {};
-      for (const step of data.knowledgeRequirements) {
+      for (const step of data.knowledgeRequirements ??
+        data.knowledgeRequirement) {
         criteriaSrc[step.gradeStep[0]] = normalizeHTML(step.text[0]).split(
           "\n"
         );
@@ -303,11 +306,11 @@ export async function parseCourse(
   //);
 
   const centralContentGroups = [
-    ...data.centralContent[0]
-      .replace("\n", " ")
-      .matchAll(
+    ...(data.centralContent?.[0]
+      ?.replace?.("\n", " ")
+      ?.matchAll?.(
         /(?:<p>((?:[^<]|(?:<\/?strong>)|\n)+?)<\/p>)?(?:\s|\n)*<ul(?:[^>]+)?>((?:.|\n)*?)<\/ul>/gm
-      ),
+      ) ?? []),
   ]
     .map(
       (el) =>
@@ -342,7 +345,10 @@ export async function parseCourse(
   }
 
   const centralContent = new Set(
-    [...data.centralContent[0].matchAll(/<li>(.*?)<\/li>/g)]
+    [
+      ...(data.centralContent?.[0]?.text?.[0]?.matchAll?.(/<li>(.*?)<\/li>/g) ??
+        []),
+    ]
       .map((el) => el[1].trim())
       .map((el) =>
         $("<div>" + el + "</div>")

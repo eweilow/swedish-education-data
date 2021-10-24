@@ -23,9 +23,25 @@ export async function parseProgrammes(
 
   const programmes: any[] = [];
   for (const programFile of programGlobs) {
+    if (programFile.includes("parallel")) continue;
+
     await rethrowErrorsWithContext(programFile, async () => {
       const str = readFileSync(programFile, "utf-8");
       const rawData = await parseXML(str);
+
+      if (rawData.program.typeOfProgram?.[0] == null) {
+        throw new Error("rawData.program.typeOfProgram == null");
+      }
+      if (
+        !(
+          rawData.program.typeOfProgram?.[0] ===
+            "PRELIMINARY_PROGRAM_FOR_HIGHER_EDUCATION" ||
+          rawData.program.typeOfProgram?.[0] === "VOCATIONAL_PROGRAM"
+        )
+      ) {
+        console.log(`Ignoring ${programFile}`);
+        return;
+      }
 
       const data = await parseProgram(rawData.program, replacementsDirectory);
 
