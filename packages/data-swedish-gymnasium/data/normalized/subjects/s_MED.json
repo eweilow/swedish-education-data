@@ -1,0 +1,45 @@
+{
+  "name": "Medicin",
+  "code": "MED",
+  "description": [
+    "Ämnet medicin grundar sig huvudsakligen på de medicinska kunskapsområdena anatomi, fysiologi, mikrobiologi, farmakologi, patologi och geriatrik men i ämnet finns också inslag av vårdvetenskap. Ämnet behandlar människans fysiska uppbyggnad och funktion vid hälsa och ohälsa."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet medicin ska syfta till att eleverna utvecklar kunskaper om människans fysiska, psykiska och sociala förutsättningar vid hälsa och ohälsa. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om orsaker, symtom, diagnoser, behandlingar, vård och omsorg vid olika sjukdomar samt förmåga att handla vid akuta sjukdomar och skador. Eleverna ska också ges möjlighet att utveckla förmåga att observera och rapportera förändringar i patienters och brukares hälsotillstånd. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper i medicinsk terminologi som bidrar till kommunikativ förmåga inom området.",
+          "Undervisningen ska genom praktiska övningar leda till att eleverna utvecklar förmåga att utföra första hjälpen och hjärt-lungräddning."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet medicin ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Kunskaper om hur människokroppen är uppbyggd och fungerar samt kunskaper om människans normala fysiska utveckling genom livet.",
+          "2. Kunskaper om sjukdomar samt förmåga att uppfatta symtom på sjukdom.",
+          "3. Kunskaper om läkemedel och läkemedelsanvändning samt om lagar och andra bestämmelser.",
+          "4. Kunskaper om mikroorganismer och deras spridningsvägar samt kroppens försvarssystem.",
+          "5. Förmåga att ge första hjälpen och hjärt-lungräddning. Kunskaper om samhällets hjälpinsatser vid krig och katastrofer samt kunskaper om brandsäkerhetsarbete.",
+          "6. Förmåga att använda medicinsk terminologi."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Medicin 1, 150 poäng.",
+          "2. Medicin 2, 100 poäng, som bygger på kursen medicin 1."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "gradeScale": null,
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2010-11-04T07:57:56.000Z",
+  "modifiedDate": "2020-02-19T14:58:27.000Z",
+  "courseCodes": [
+    "MEDMED01",
+    "MEDMED02"
+  ]
+}

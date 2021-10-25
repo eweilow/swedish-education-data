@@ -1,0 +1,53 @@
+{
+  "name": "Byggproduktionsledning",
+  "code": "BYP",
+  "description": [
+    "Ämnet byggproduktionsledning behandlar organisation och ledning av byggproduktion på en byggarbetsplats, från planering före byggstart till produktionsstyrning under byggskedet. Det behandlar också grundläggande mätningsteknik för byggproduktion. Ämnet byggproduktionsledning får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet byggproduktionsledning ska syfta till att eleverna utvecklar grundläggande kunskaper om hur en byggarbetsplats organiseras och leds. Vidare ska undervisningen ge eleverna möjlighet att utveckla förståelse av sambandet mellan byggteknik å ena sidan och organisation och ledarskap å den andra. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om hur entreprenadjuridik tillämpas på byggarbetsplatsen.",
+          "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om hur en byggarbetsplats organiseras när den planeras och etableras. Den ska också leda till att eleverna utvecklar förståelse av ett företags planering inför starten av ett byggprojekt.",
+          "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om vilka aktörer som medverkar för att tillgängliggöra resurser. Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper om anmälningar och tillstånd för etablering av en byggarbetsplats. Den ska även leda till att eleverna utvecklar kunskaper om produktionsstyrning av byggskedet samt om den planering och de delprocesser som hanteras på byggarbetsplatsen.",
+          "Eleverna ska ges möjlighet att arbeta i projekt med koppling till planerade och pågående projekt i byggföretag."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet byggproduktionsledning ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Kunskaper om geodesins grundbegrepp samt om utsättning och inmätning av hus, vägar och anläggningar. Kunskaper om mätmetoder beträffande fukt, akustik, lufttäthet och energiegenskaper.",
+          "2. Förmåga att planera och organisera mätningstekniska uppgifter i ett byggprojekt samt att tolka och använda tekniska ritningar.",
+          "3. Kunskaper om olika dokument som används i byggprocessen samt om deras kopplingar till AMA-systemet (allmän material- och arbetsbeskrivning). Kunskaper om ritningar för bygg- och anläggningsprojekt.",
+          "4. Förmåga att planera, organisera och genomföra upphandlingsarbete i ett byggentreprenadföretag.",
+          "5. Förmåga att hantera underentreprenader samt leveranser till ett byggprojekt och inom en byggarbetsplats.",
+          "6. Förmåga att planera ett byggprojekt inför byggstart.",
+          "7. Kunskaper om strategier och system för produktionsskedet i ett byggprojekt.",
+          "8. Förmåga att genomföra arbetsberedning för olika arbetsmoment i ett byggprojekt.",
+          "9. Förmåga att genomföra möten för byggprojekt och hantera kontraktsfrågor mellan beställare och utförare för ett byggprojekt.",
+          "10. Kunskaper om lagar och andra bestämmelser för verksamheten på en byggarbetsplats."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Byggstyrning, 100 poäng.",
+          "2. Planering före byggstart, 100 poäng.",
+          "3. Rit- och mätningsteknik, 100 poäng."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "gradeScale": null,
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2015-05-27T11:31:02.000Z",
+  "modifiedDate": "2020-02-19T14:50:09.000Z",
+  "courseCodes": [
+    "BYPBYG0",
+    "BYPPLA0",
+    "BYPRIT0"
+  ]
+}

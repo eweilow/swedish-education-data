@@ -1,0 +1,49 @@
+{
+  "name": "Industrirörteknik",
+  "code": "IND",
+  "description": [
+    "Ämnet industrirörteknik behandlar uppbyggnad och funktion av processrörsystem för värme- och tryckbärande utrustning. Det behandlar även sammanfogningstekniker som svetsning. Dessutom behandlas materiallära, apparater, komponenter och lyftanordningar."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet industrirörteknik ska syfta till att eleverna utvecklar kunskaper om processrörsystem inom industrin och om hur dessa är uppbyggda och vilka krav som ställs på deras hållfasthet och funktion. Den ska också ge eleverna möjlighet att utveckla kunskaper om system och installationer av värme- och tryckbärande utrustning med högt ställda säkerhetskrav.",
+          "Undervisningen ska leda till att eleverna utvecklar kunskaper om grund- och tillsatsmaterial och om hur dessa förändras vid till exempel värmepåverkan. Eleverna ska även ges möjlighet att utveckla kunskaper om montering och installationsarbete, vilka arbetsmetoder som är lämpliga och hur lyftanordningar får användas. Undervisningen ska leda till att eleverna utvecklar kunskaper om vilka hjälpmedel som finns och hur en riskfri arbetsmiljö säkerställs. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om ritteknik och om hur information från ritningar används i beskrivningar och monteringsanvisningar. I undervisningen ska eleverna också ges möjlighet att utveckla servicekänsla samt initiativ-, problemlösnings- och samarbetsförmåga.",
+          "Undervisningen ska genomföras i laborativ miljö med ergonomiskt anpassade verktyg och maskiner samt annan utrustning som behövs för att utföra förekommande arbetsuppgifter. Den ska genomföras så att de praktiska och teoretiska kunskaperna kopplas samman."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet industrirörteknik ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Kunskaper om processrörsystems uppbyggnad och funktion samt de miljökrav som gäller för dessa.",
+          "2. Förmåga att planera och utföra rörmontage utifrån lagar och andra bestämmelser och fastställda kvalitetskrav.",
+          "3. Förmåga att använda ritningar med tillhörande handlingar.",
+          "4. Kunskaper om komponenter och apparater samt om material och metoder för sammanfogning enligt standarder och myndighetskrav.",
+          "5. Kunskaper om nya och beprövade produkter och material samt förmåga att utföra reparationer, service och underhåll på system och installationer.",
+          "6. Förmåga att utföra kontroller samt att värdera och dokumentera sitt arbete.",
+          "7. Kunskaper om arbetsmiljö, hälsa och säkerhet både för den som ska arbeta med och den som ska använda en installation."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Industrirörteknik 1, 100 poäng.",
+          "2. Industrirörteknik 2, 100 poäng, som bygger på kursen industrirörteknik 1.",
+          "3. Industrirörteknik 3, 200 poäng, som bygger på kursen industrirörteknik 2."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "gradeScale": null,
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2010-10-28T14:18:10.000Z",
+  "modifiedDate": "2020-02-19T14:57:02.000Z",
+  "courseCodes": [
+    "INDIND01",
+    "INDIND02",
+    "INDIND03"
+  ]
+}

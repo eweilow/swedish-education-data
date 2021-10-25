@@ -1,0 +1,55 @@
+{
+  "name": "Sjukvård",
+  "code": "SJU",
+  "description": [
+    "Ämnet sjukvård är tvärvetenskapligt och har sin grund i vårdvetenskap, pedagogik, medicin och etik. Det behandlar vård- och omsorgsarbete främst inom hälso- och sjukvård. I begreppet vård och omsorg inryms även omvårdnad relaterad till sjukdomar."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet sjukvård ska syfta till att eleverna utvecklar kunskaper om medicinskt omhändertagande. Den ska också ge eleverna möjlighet att utveckla förmåga att planera egna arbetsinsatser samt utföra och utvärdera vård- och omsorgsuppgifter vid sjukdomar utifrån lagar och andra bestämmelser. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om omhändertagande vid olycksfall samt om olycksplatsarbetets organisation. Genom undervisningen ska eleverna även ges möjlighet att utveckla kunskaper om vård i livets slutskede på institution eller i hemmiljö.",
+          "Undervisningen ska ge eleverna möjlighet att utveckla förmåga att utföra vård- och omsorgsuppgifter på ett etiskt, estetiskt, hygieniskt, ergonomiskt, hälsobefrämjande, rehabiliterande, habiliterande och pedagogiskt sätt. Den ska också bidra till att eleverna utvecklar förmåga att använda teknisk apparatur samt att utföra medicintekniska uppgifter.",
+          "I undervisningen ska eleverna ges möjlighet att utveckla förmåga att kommunicera med andra människor med respekt för allas lika värde oavsett till exempel kön eller etniskt ursprung. Undervisningen ska också leda till att eleverna utvecklar förmåga att inhämta, granska och värdera ny kunskap inom området."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet sjukvård ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Kunskaper om vård- och omsorgsåtgärder och medicinska åtgärder samt kunskaper om smärta och smärtbehandling.",
+          "2. Kunskaper om barns och ungdomars fysiska, psykiska och sociala utveckling samt om betydelsen av lek och andra skapande aktiviteter.",
+          "3. Kunskaper om människan fysiskt, psykiskt, socialt och existentiellt vid ohälsa och i krissituationer samt förmåga att uppfatta och resonera om etiska frågeställningar.",
+          "4. Förmåga att planera egna arbetsinsatser samt att utföra vård- och omsorgsuppgifter och medicintekniska uppgifter vid sjukdomar och olycksfall utifrån lagar och andra bestämmelser.",
+          "5. Förmåga att uppmärksamma symtom och förändringar i människors hälsotillstånd.",
+          "6. Förmåga att använda teknisk utrustning utifrån säkerhetsföreskrifter.",
+          "7. Förmåga att bemöta, kommunicera och samarbeta med patienter, närstående och personal.",
+          "8. Förmåga att pedagogiskt inspirera och motivera patienter till rehabiliterande eller habiliterande åtgärder och egenvård.",
+          "9. Förmåga att utvärdera, rapportera och dokumentera sitt arbete och resultat, även med hjälp av informationsteknik."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Akutsjukvård, 200 poäng, som bygger på kursen vård- och omsorgsarbete 2 och kursen medicin 1.",
+          "2. Barn- och ungdomssjukvård, 200 poäng, som bygger på kursen vård- och omsorgsarbete 2 och kursen medicin 1.",
+          "3. Hemsjukvård, 100 poäng, som bygger på kursen vård- och omsorgsarbete 2 och kursen medicin 1.",
+          "4. Palliativ vård, 100 poäng, som bygger på kursen vård- och omsorgsarbete 2 och kursen medicin 1.",
+          "5. Räddningsmedicin, 100 poäng, som bygger på kursen vård- och omsorgsarbete 2 och kursen medicin 1."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "gradeScale": null,
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2013-06-20T08:27:25.000Z",
+  "modifiedDate": "2020-02-19T15:01:16.000Z",
+  "courseCodes": [
+    "SJUAKU0",
+    "SJUBAR0",
+    "SJUHEM0",
+    "SJULIN0",
+    "SJURÄD0"
+  ]
+}

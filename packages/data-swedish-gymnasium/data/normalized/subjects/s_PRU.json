@@ -1,0 +1,61 @@
+{
+  "name": "Produktionsutrustning",
+  "code": "PRU",
+  "description": [
+    "Ämnet produktionsutrustning behandlar industriteknisk utrustning, dess användningsområden samt gällande säkerhetsföreskrifter. Det handlar också om hur utrustningen vårdas samt hur dess funktion kontrolleras och effektiviseras."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet produktionsutrustning ska syfta till att eleverna utvecklar förmåga att använda industriteknisk produktionsutrustning, kringutrustning, verktyg, maskiner och styrteknisk utrustning enligt gällande säkerhetsföreskrifter. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om utrustningens användningsområden, konstruktion och funktion samt om tillhörande metoder och tekniker.",
+          "Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att koppla samman och programmera styrteknisk utrustning. I undervisningen ska eleverna ges möjlighet att utveckla förståelse av funktionen hos enkel styrteknisk utrustning samt att utveckla kunskaper om symboler, ventilbeteckningar och märkningar.",
+          "Undervisningen ska bidra till att eleverna utvecklar kunskaper för att kunna genomföra kontroll, felsökning, effektivisering och vård av utrustningen. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om hur kvalitetssystem används samt om betydelsen av kvalitetssäkring i produktionsutrustning. Eleverna ska vidare ges möjlighet att utveckla kunskaper om olika material, deras egenskaper och betydelse samt beteckningssystem.",
+          "I undervisningen ska eleverna ges möjlighet att utföra såväl teoretiska som praktiska övningar för att utveckla förmåga att hantera produktionsutrustning, kringutrustning, verktyg, maskiner och styrteknisk utrustning."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet produktionsutrustning ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Förmåga att planera, organisera och utföra arbete i manuell och automatiserad produktionsutrustning och kringutrustning enligt gällande säkerhetsföreskrifter.",
+          "2. Förmåga att hantera för yrkesområdet relevant data och datorutrustning.",
+          "3. Förmåga att utföra funktionskontroll, mätningar, beräkningar och felsökning av produktionsutrustning, kringutrustning, verktyg, maskiner och styrteknisk utrustning.",
+          "4. Förmåga att effektivisera produktionsutrustning och optimera inställningar.",
+          "5. Förmåga att vårda utrustning, maskiner och verktyg samt kunskaper om utrustningens konstruktion och funktion.",
+          "6. Kunskaper om utrustningens symboler, beteckningar och märkningar_._",
+          "7. Kunskaper om materialegenskaper och materials beteckningssystem samt materials betydelse för funktion, kvalitet, tillverkning och destruktion.",
+          "8. Förmåga att mäta, dokumentera och bedöma kvaliteten på utfört arbete samt att använda relevanta begrepp."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Industriell mätteknik – fördjupning, 50 poäng.",
+          "2. Industriell mätteknik – grund, 50 poäng.",
+          "3. Interna transporter, 50 poäng. Kursen kan läsas flera gånger med olika innehåll.",
+          "4. Produktionsutrustning 1, 100 poäng. Kursen kan läsas flera gånger med olika innehåll.",
+          "5. Produktionsutrustning 2, 100 poäng, som bygger på kursen produktionsutrustning 1. Kursen kan läsas flera gånger med olika innehåll.",
+          "6. Produktionsutrustning 3, 100 poäng, som bygger på kursen produktionsutrustning 2. Kursen kan läsas flera gånger med olika innehåll.",
+          "7. Produktionsutrustning 4, 100 poäng, som bygger på kursen produktionsutrustning 3.",
+          "8. Verktygskunskap, 100 poäng."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "gradeScale": null,
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2012-08-07T14:05:03.000Z",
+  "modifiedDate": "2020-02-19T14:59:58.000Z",
+  "courseCodes": [
+    "PRUINU0",
+    "PRUIND0",
+    "PRUINE00S",
+    "PRUPRD01S",
+    "PRUPRD02S",
+    "PRUPRD03S",
+    "PRUPRD04",
+    "PRUVEY0"
+  ]
+}

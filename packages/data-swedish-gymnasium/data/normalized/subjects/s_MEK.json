@@ -1,0 +1,44 @@
+{
+  "name": "Mekatronik",
+  "code": "MEK",
+  "description": [
+    "Mekatronik är en sammanslagning av mekanik och elektronik. De två teknikområdena slås ihop för att man ska kunna studera sådan teknisk utrustning i vardagen som integrerar elektriska och mekaniska funktioner. I ämnet mekatronik behandlas samverkan mellan olika teknikområden inom produkter och processer. Ämnet kan delas upp i två delar – produktmekatronik och processmekatronik. Produktmekatronik behandlar produkters uppbyggnad, och processmekatronik behandlar uppbyggnaden av de processer som bygger dessa produkter."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet mekatronik ska syfta till att eleverna utvecklar förmåga att bygga mekatroniska system samt kunskaper om hur mekanisk struktur, elektroteknik samt styr- och reglerteknik samverkar i människors vardag i tekniska system. Vidare ska undervisningen leda till att eleverna utvecklar kunskaper om hur naturvetenskapliga principer kan beskrivas med hjälp av matematiska formler. I undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om hur tekniska system kan brytas ned i delsystem.",
+          "Undervisningen ska ge eleverna möjlighet att utveckla förståelse av tekniken i vardagen. I undervisningen ska eleverna ges möjlighet att arbeta både praktiskt och teoretiskt med olika arbetsuppgifter. Dessutom ska undervisningen ge eleverna möjlighet att träna sin förmåga att planera dessa arbetsuppgifter."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet mekatronik ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Förmåga att planera, bygga och dokumentera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik.",
+          "2. Förmåga att använda ritningar och manualer samt samarbeta med andra.",
+          "3. Färdigheter i att använda informationsteknik som stöd vid byggnation och programmering av mekatroniska system.",
+          "4. Kunskaper om hur mekanisk struktur, elektroteknik samt styr- och reglerteknik kan sammanföras till ett system.",
+          "5. Förståelse av hur matematik och fysik kan användas för att beskriva principer inom ellära och mekanik."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Mekatronik 1, 100 poäng.",
+          "2. Mekatronik 2, 100 poäng, som bygger på kursen mekatronik 1."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "gradeScale": null,
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2010-12-02T08:25:20.000Z",
+  "modifiedDate": "2020-02-19T14:58:29.000Z",
+  "courseCodes": [
+    "MEKMEK01",
+    "MEKMEK02"
+  ]
+}

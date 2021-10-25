@@ -19,7 +19,8 @@
     "@types/node": "12.7.5",
     "@yarnpkg/sdks": "^2.5.0-rc.3",
     "lerna": "^3.10.7",
-    "prettier": "^2.4.1"
+    "prettier": "^2.4.1",
+    "typescript": "^4.4.4"
   },
   "packageManager": "yarn@3.0.2"
 }

@@ -31,6 +31,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         "reference": "workspace:packages/fetcher"
       },
       {
+        "name": "@education-data/normalizer",
+        "reference": "workspace:packages/normalizer"
+      },
+      {
         "name": "@education-data/parser",
         "reference": "workspace:packages/parser"
       }
@@ -39,6 +43,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
     "ignorePatternData": "(^(?:\\.yarn\\/sdks(?:\\/(?!\\.{1,2}(?:\\/|$))(?:(?:(?!(?:^|\\/)\\.{1,2}(?:\\/|$)).)*?)|$))$)",
     "fallbackExclusionList": [
       ["@education-data/fetcher", ["workspace:packages/fetcher"]],
+      ["@education-data/normalizer", ["workspace:packages/normalizer"]],
       ["@education-data/parser", ["workspace:packages/parser"]],
       ["@education-data/root", ["workspace:."]],
       ["@education-data/swedish-gymnasium", ["workspace:packages/data-swedish-gymnasium"]]
@@ -54,7 +59,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:12.7.5"],
             ["@yarnpkg/sdks", "npm:2.5.0"],
             ["lerna", "npm:3.16.4"],
-            ["prettier", "npm:2.4.1"]
+            ["prettier", "npm:2.4.1"],
+            ["typescript", "patch:typescript@npm%3A4.4.4#~builtin<compat/typescript>::version=4.4.4&hash=32657b"]
           ],
           "linkType": "SOFT",
         }]
@@ -341,6 +347,27 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "SOFT",
         }]
       ]],
+      ["@education-data/normalizer", [
+        ["workspace:packages/normalizer", {
+          "packageLocation": "./packages/normalizer/",
+          "packageDependencies": [
+            ["@education-data/normalizer", "workspace:packages/normalizer"],
+            ["@types/chai", "npm:4.2.3"],
+            ["@types/cheerio", "npm:0.22.13"],
+            ["@types/glob", "npm:7.1.1"],
+            ["@types/mkdirp", "npm:1.0.2"],
+            ["@types/xml2js", "npm:0.4.9"],
+            ["chai", "npm:4.2.0"],
+            ["cheerio", "npm:1.0.0-rc.3"],
+            ["glob", "npm:7.1.4"],
+            ["mkdirp", "npm:1.0.4"],
+            ["node-html-markdown", "npm:1.1.3"],
+            ["typescript", "patch:typescript@npm%3A4.4.4#~builtin<compat/typescript>::version=4.4.4&hash=32657b"],
+            ["xml2js", "npm:0.4.22"]
+          ],
+          "linkType": "SOFT",
+        }]
+      ]],
       ["@education-data/parser", [
         ["workspace:packages/parser", {
           "packageLocation": "./packages/parser/",
@@ -371,7 +398,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:12.7.5"],
             ["@yarnpkg/sdks", "npm:2.5.0"],
             ["lerna", "npm:3.16.4"],
-            ["prettier", "npm:2.4.1"]
+            ["prettier", "npm:2.4.1"],
+            ["typescript", "patch:typescript@npm%3A4.4.4#~builtin<compat/typescript>::version=4.4.4&hash=32657b"]
           ],
           "linkType": "SOFT",
         }]
@@ -382,10 +410,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["@education-data/swedish-gymnasium", "workspace:packages/data-swedish-gymnasium"],
             ["@education-data/fetcher", "workspace:packages/fetcher"],
+            ["@education-data/normalizer", "workspace:packages/normalizer"],
             ["@education-data/parser", "workspace:packages/parser"],
             ["@prettier/plugin-xml", "npm:1.1.0"],
+            ["@types/glob", "npm:7.1.1"],
+            ["@types/prettier", "npm:2.4.1"],
             ["date-fns", "npm:2.2.1"],
             ["del-cli", "npm:3.0.0"],
+            ["glob", "npm:7.1.4"],
             ["jest", "npm:24.9.0"],
             ["prettier", "npm:2.4.1"],
             ["ts-node", "virtual:c49c1281dda27a3d3267302a6d26810ee3646a013a70118149a6695eb859a43770d5bbbb6858c4840fb831d45bbad479a2ed5fcaaf5a06ce0ec2186b28efcff9#npm:10.4.0"],
@@ -1947,6 +1979,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:12.7.5"]
           ],
           "linkType": "HARD",
+        }],
+        ["npm:1.0.2", {
+          "packageLocation": "./.yarn/cache/@types-mkdirp-npm-1.0.2-cbbc835703-72dedfb2d2.zip/node_modules/@types/mkdirp/",
+          "packageDependencies": [
+            ["@types/mkdirp", "npm:1.0.2"],
+            ["@types/node", "npm:12.7.5"]
+          ],
+          "linkType": "HARD",
         }]
       ]],
       ["@types/node", [
@@ -1980,6 +2020,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@types-prettier-npm-1.18.2-9bf7ab55f8-be435e5321.zip/node_modules/@types/prettier/",
           "packageDependencies": [
             ["@types/prettier", "npm:1.18.2"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:2.4.1", {
+          "packageLocation": "./.yarn/cache/@types-prettier-npm-2.4.1-d83bd651f7-df330c2d6f.zip/node_modules/@types/prettier/",
+          "packageDependencies": [
+            ["@types/prettier", "npm:2.4.1"]
           ],
           "linkType": "HARD",
         }]
@@ -2046,6 +2093,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@types-treeify-npm-1.0.0-b5e04e9cd3-1b2397030d.zip/node_modules/@types/treeify/",
           "packageDependencies": [
             ["@types/treeify", "npm:1.0.0"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
+      ["@types/xml2js", [
+        ["npm:0.4.9", {
+          "packageLocation": "./.yarn/cache/@types-xml2js-npm-0.4.9-ecfe76450f-7e352c4aad.zip/node_modules/@types/xml2js/",
+          "packageDependencies": [
+            ["@types/xml2js", "npm:0.4.9"],
+            ["@types/node", "npm:12.7.5"]
           ],
           "linkType": "HARD",
         }]
@@ -3822,6 +3879,18 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["nth-check", "npm:1.0.2"]
           ],
           "linkType": "HARD",
+        }],
+        ["npm:4.1.3", {
+          "packageLocation": "./.yarn/cache/css-select-npm-4.1.3-97d7b817c1-40928f1aa6.zip/node_modules/css-select/",
+          "packageDependencies": [
+            ["css-select", "npm:4.1.3"],
+            ["boolbase", "npm:1.0.0"],
+            ["css-what", "npm:5.1.0"],
+            ["domhandler", "npm:4.2.2"],
+            ["domutils", "npm:2.8.0"],
+            ["nth-check", "npm:2.0.1"]
+          ],
+          "linkType": "HARD",
         }]
       ]],
       ["css-what", [
@@ -3829,6 +3898,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/css-what-npm-2.1.3-a9583898e8-a52d56c591.zip/node_modules/css-what/",
           "packageDependencies": [
             ["css-what", "npm:2.1.3"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:5.1.0", {
+          "packageLocation": "./.yarn/cache/css-what-npm-5.1.0-9991ae71a8-0b75d1bac9.zip/node_modules/css-what/",
+          "packageDependencies": [
+            ["css-what", "npm:5.1.0"]
           ],
           "linkType": "HARD",
         }]
@@ -4315,6 +4391,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["entities", "npm:2.0.0"]
           ],
           "linkType": "HARD",
+        }],
+        ["npm:1.3.2", {
+          "packageLocation": "./.yarn/cache/dom-serializer-npm-1.3.2-133de2b9ce-bff4871494.zip/node_modules/dom-serializer/",
+          "packageDependencies": [
+            ["dom-serializer", "npm:1.3.2"],
+            ["domelementtype", "npm:2.0.1"],
+            ["domhandler", "npm:4.2.2"],
+            ["entities", "npm:2.0.0"]
+          ],
+          "linkType": "HARD",
         }]
       ]],
       ["domelementtype", [
@@ -4329,6 +4415,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/domelementtype-npm-2.0.1-23794ee948-940c62d1c4.zip/node_modules/domelementtype/",
           "packageDependencies": [
             ["domelementtype", "npm:2.0.1"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:2.2.0", {
+          "packageLocation": "./.yarn/cache/domelementtype-npm-2.2.0-c37b3b15bf-24cb386198.zip/node_modules/domelementtype/",
+          "packageDependencies": [
+            ["domelementtype", "npm:2.2.0"]
           ],
           "linkType": "HARD",
         }]
@@ -4351,6 +4444,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["domelementtype", "npm:1.3.1"]
           ],
           "linkType": "HARD",
+        }],
+        ["npm:4.2.2", {
+          "packageLocation": "./.yarn/cache/domhandler-npm-4.2.2-9a6cc9317e-ad782fef98.zip/node_modules/domhandler/",
+          "packageDependencies": [
+            ["domhandler", "npm:4.2.2"],
+            ["domelementtype", "npm:2.2.0"]
+          ],
+          "linkType": "HARD",
         }]
       ]],
       ["domutils", [
@@ -4369,6 +4470,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["domutils", "npm:1.7.0"],
             ["dom-serializer", "npm:0.2.1"],
             ["domelementtype", "npm:1.3.1"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:2.8.0", {
+          "packageLocation": "./.yarn/cache/domutils-npm-2.8.0-0325139e5c-abf7434315.zip/node_modules/domutils/",
+          "packageDependencies": [
+            ["domutils", "npm:2.8.0"],
+            ["dom-serializer", "npm:1.3.2"],
+            ["domelementtype", "npm:2.2.0"],
+            ["domhandler", "npm:4.2.2"]
           ],
           "linkType": "HARD",
         }]
@@ -5581,6 +5692,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["has-values", "npm:1.0.0"],
             ["is-number", "npm:3.0.0"],
             ["kind-of", "npm:4.0.0"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
+      ["he", [
+        ["npm:1.2.0", {
+          "packageLocation": "./.yarn/cache/he-npm-1.2.0-3b73a2ff07-3d4d6babcc.zip/node_modules/he/",
+          "packageDependencies": [
+            ["he", "npm:1.2.0"]
           ],
           "linkType": "HARD",
         }]
@@ -8123,6 +8243,27 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD",
         }]
       ]],
+      ["node-html-markdown", [
+        ["npm:1.1.3", {
+          "packageLocation": "./.yarn/cache/node-html-markdown-npm-1.1.3-cf031b4fe2-283f2ca317.zip/node_modules/node-html-markdown/",
+          "packageDependencies": [
+            ["node-html-markdown", "npm:1.1.3"],
+            ["node-html-parser", "npm:4.1.5"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
+      ["node-html-parser", [
+        ["npm:4.1.5", {
+          "packageLocation": "./.yarn/cache/node-html-parser-npm-4.1.5-9be29f49d4-1b9e330e09.zip/node_modules/node-html-parser/",
+          "packageDependencies": [
+            ["node-html-parser", "npm:4.1.5"],
+            ["css-select", "npm:4.1.3"],
+            ["he", "npm:1.2.0"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
       ["node-int64", [
         ["npm:0.4.0", {
           "packageLocation": "./.yarn/cache/node-int64-npm-0.4.0-0dc04ec3b2-d0b30b1ee6.zip/node_modules/node-int64/",
@@ -8348,6 +8489,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/nth-check-npm-1.0.2-3f6d0d22eb-59e115fdd7.zip/node_modules/nth-check/",
           "packageDependencies": [
             ["nth-check", "npm:1.0.2"],
+            ["boolbase", "npm:1.0.0"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:2.0.1", {
+          "packageLocation": "./.yarn/cache/nth-check-npm-2.0.1-69558042d2-5386d035c4.zip/node_modules/nth-check/",
+          "packageDependencies": [
+            ["nth-check", "npm:2.0.1"],
             ["boolbase", "npm:1.0.0"]
           ],
           "linkType": "HARD",

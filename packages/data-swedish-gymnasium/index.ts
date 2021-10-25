@@ -1,4 +1,3 @@
-import { fetchSyllabus } from "@education-data/fetcher";
 import {
   parseProgrammes,
   parseSubjects,
@@ -9,12 +8,7 @@ import { writeFileSync } from "fs";
 
 import { format } from "date-fns";
 import { sv } from "date-fns/locale";
-import {
-  dataDirectory,
-  sourceDirectory,
-  outputDirectory,
-  replacementsDirectory,
-} from "./cfg";
+import { sourceDirectory, outputDirectory, replacementsDirectory } from "./cfg";
 
 async function main() {
   console.info("\n[parsing subject data]");

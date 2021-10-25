@@ -1,0 +1,53 @@
+{
+  "name": "Vattenkraftteknik",
+  "code": "VAE",
+  "description": [
+    "Ämnet vattenkraftteknik behandlar uppbyggnad av och funktion hos vattenkraftstationer. Ämnet behandlar hur drift och underhåll utförs med avseende på miljö, ekonomi, kvalitet och säkerhet."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet vattenkraftteknik ska syfta till att eleverna utvecklar kunskaper om uppbyggnad av och funktion hos vattenkraftstationer och deras huvudkomponenter samt förmåga att lösa problem som gäller drift, underhåll och service. Undervisningen ska leda till att eleverna ges möjlighet att utveckla förståelse av underhållets betydelse i en vattenkraftanläggning för att den ska kunna drivas på ett optimalt sätt. I undervisningen ska eleverna även ges möjlighet att utveckla kunskaper för att kritiskt granska den miljödebatt som pågår i samband med vattenkraftutbyggnad.",
+          "I undervisningen ska experiment, laborationer och ett undersökande arbetssätt förekomma. I praktiska övningar ska eleverna ges möjlighet att utveckla tekniska kunskaper samt förmåga att använda teknisk utrustning."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet vattenkraftteknik ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Kunskaper om olika vattenkraftstationers funktion och huvudkomponenter. Det innebär kunskaper om huvudprocessen och de delprocesser som krävs för att möjliggöra produktion, transformation och överföring av elektrisk energi.",
+          "2. Kunskaper om hur en vattenkraftstation drivs.",
+          "3. Förståelse av vattenkraftens inverkan på miljön globalt och nationellt samt av de åtgärder som vidtas och kan vidtas i miljöskyddande syfte.",
+          "4. Förmåga att utföra optimerat underhåll och optimerad drift samt att göra störningsanalyser för att vidta relevanta åtgärder vid störning.",
+          "5. Färdigheter i att felsöka och reparera.",
+          "6. Förmåga att arbeta på ett elsäkert och personsäkert sätt.",
+          "7. Kunskaper om avställning av en vattenkraftstations vattenvägar.",
+          "8. Förmåga att samverka med andra och använda fackspråk samt att dokumentera och utvärdera arbetet."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Vattenkraftstationer, 100 poäng, som bygger på kursen energiteknik 1.",
+          "2. Drift, underhåll, säkerhet och miljö, 200 poäng, som bygger på kursen vattenkraftstationer.",
+          "3. Generatorer och transformatorer, 100 poäng, som bygger på kursen vattenkraftstationer och kursen praktisk ellära.",
+          "4. Hydraulik, kraftstationshydraulik och turbiner, 100 poäng, som bygger på kursen vattenkraftstationer.",
+          "5. Kontrollanläggningar, 200 poäng, som bygger på kursen vattenkraftstationer."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "gradeScale": null,
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2010-12-02T08:25:21.000Z",
+  "modifiedDate": "2020-02-19T15:02:44.000Z",
+  "courseCodes": [
+    "VAEVAN0",
+    "VAEDRT0",
+    "VAEGEN0",
+    "VAEHYD0",
+    "VAEKOR0"
+  ]
+}

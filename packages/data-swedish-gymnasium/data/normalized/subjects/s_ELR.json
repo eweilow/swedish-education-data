@@ -1,0 +1,49 @@
+{
+  "name": "Elektroteknik",
+  "code": "ELR",
+  "description": [
+    "Ämnet elektroteknik behandlar enklare installationer och elarbeten på elanläggningar samt vanligt verkstadsarbete inom området. I allt arbete med elektricitet är säkerhetsfrågor centrala eftersom ett misstag kan orsaka stora skador både på personer och på egendom."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet elektroteknik ska syfta till att eleverna utvecklar kunskaper i att planera och utföra elarbete, verkstadsarbete, mekaniskt arbete och olika sammanfogningstekniker samt färdigheter i att hantera material, verktyg och utrustning. Den ska också bidra till att eleverna förstår betydelsen av energieffektivisering och av att utföra arbetet säkert samt kan tillämpa föreskrifter, standarder och bestämmelser inom området. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att avhjälpa fel och underhålla elanläggningar. Undervisningen ska leda till att eleverna utvecklar förmåga att utifrån scheman och ritningar utföra elarbeten och verkstadsarbeten. Eleverna ska ges möjlighet att planera arbetsuppgifter samt utveckla förmåga att använda material och utrustning på ett ansvarsfullt sätt. Genom att både praktiskt och teoretiskt arbeta med uppgifterna ska eleverna ges möjlighet att öva sin förmåga att arbeta ergonomiskt, yrkesetiskt, miljömässigt och estetiskt."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet elektroteknik ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Förmåga att utföra elarbete, verkstadsarbete, installationsteknik, mekaniskt arbete och sammanfogningsteknik.",
+          "2. Färdigheter i att använda ritningar, scheman, instruktioner, standarder och föreskrifter.",
+          "3. Förmåga att välja och använda olika verktyg, instrument, material och övrig utrustning som används inom området.",
+          "4. Kunskaper om miljökrav och bestämmelser inom området.",
+          "5. Färdigheter i att avhjälpa fel och underhålla elanläggningar.",
+          "6. Förmåga att arbeta säkert, arbetsmiljömässigt, ergonomiskt och estetiskt.",
+          "7. Förmåga att dokumentera sitt arbete."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Elektromekanik, 100 poäng.",
+          "2. Elkraftteknik, 100 poäng.",
+          "3. Antenn- och kabel-TV-teknik, 100 poäng, som bygger på kursen elkraftteknik.",
+          "4. Data- och medianät, 100 poäng, som bygger på kursen elkraftteknik."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "gradeScale": null,
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2018-05-30T09:15:34.000Z",
+  "modifiedDate": "2020-02-19T14:51:06.000Z",
+  "courseCodes": [
+    "ELRELK0",
+    "ELRELF0",
+    "ELRANT0",
+    "ELRDAA0"
+  ]
+}

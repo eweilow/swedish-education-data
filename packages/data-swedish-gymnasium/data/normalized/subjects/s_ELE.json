@@ -1,0 +1,49 @@
+{
+  "name": "Elektronik",
+  "code": "ELE",
+  "description": [
+    "Ämnet elektronik behandlar flera teknikområden där elektronik och elektroniska system byggs in för att styra eller ersätta mekaniska system, till exempel i bilar och hushållsmaskiner."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet elektronik ska syfta till att eleverna utvecklar kunskaper om funktion och egenskaper hos de vanligaste analoga och digitala elektronikkomponenterna. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att tolka symboler, elektronikscheman, datablad och annan teknisk dokumentation.",
+          "Undervisningen ska leda till att eleverna utvecklar förmåga att utföra praktiska moment, till exempel elektronikmontering, komponentmätningar, programmering samt datorsimulering av elektronikuppkopplingar. Dessutom ska undervisningen leda till att eleverna utvecklar färdigheter i att sköta och använda verktyg och mätinstrument. I undervisningen ska ett undersökande arbetssätt och experiment, laborationer och datorsimuleringar ingå."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet elektronik ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Kunskaper om funktion och egenskaper hos vanliga analoga och digitala elektronikkomponenter.",
+          "2. Kunskaper om funktion och arbetssätt hos mikrodatorer och mikroprocessorer.",
+          "3. Förmåga att utföra elektronikmonteringsarbete på ett säkert och miljövänligt sätt.",
+          "4. Förmåga att programmera enklare elektroniksystem och mikrodatorsystem.",
+          "5. Förmåga att använda och tolka begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.",
+          "6. Förmåga att utföra beräkningar av elektriska storheter.",
+          "7. Förmåga att utföra komponent- och kretsmätningar.",
+          "8. Förmåga att utföra datorsimulering av elektronikuppkopplingar."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Elektronik och mikrodatorteknik, 100 poäng.",
+          "2. Låg- och högfrekvenskretsar, 100 poäng, som bygger på kursen elektronik och mikrodatorteknik.",
+          "3. Mikrodatortillämpningar, 100 poäng, som bygger på kursen elektronik och mikrodatorteknik."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "gradeScale": null,
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2013-06-20T08:27:25.000Z",
+  "modifiedDate": "2020-02-19T14:50:58.000Z",
+  "courseCodes": [
+    "ELEELR0",
+    "ELELÅG0",
+    "ELEMIK0"
+  ]
+}

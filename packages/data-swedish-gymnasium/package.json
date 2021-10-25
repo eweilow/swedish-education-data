@@ -5,6 +5,7 @@
   },
   "scripts": {
     "fetch": "del-cli 'data/raw/**/*' && ts-node fetch.ts",
+    "normalize": "del-cli 'data/normalized/**/*' && ts-node normalize.ts",
     "clean": "del-cli 'data/**/*' && del-cli 'out/**/*'",
     "build": "ts-node index.ts",
     "dev": "ts-node-dev --cls --respawn index.ts",
@@ -18,10 +19,14 @@
   "license": "GPL-3.0",
   "devDependencies": {
     "@education-data/fetcher": "^0.0.1-alpha.9",
+    "@education-data/normalizer": "^0.0.1-alpha.9",
     "@education-data/parser": "^0.0.1-alpha.9",
     "@prettier/plugin-xml": "^1.1.0",
+    "@types/glob": "^7.1.1",
+    "@types/prettier": "^2.4.1",
     "date-fns": "^2.2.1",
     "del-cli": "^3.0.0",
+    "glob": "^7.1.4",
     "jest": "^24.9.0",
     "prettier": "^2.4.1",
     "ts-node": "^10.4.0",

@@ -1,0 +1,52 @@
+{
+  "name": "Ventilationsteknik",
+  "code": "VET",
+  "description": [
+    "Ämnet ventilationsteknik behandlar vikten av ett väl fungerande inomhusklimat och hur ett sådant kan uppnås när det gäller temperatur och ventilation. Det behandlar också på vilket sätt och med vilka hjälpmedel man optimerar driften av klimatanläggningar. Ämnet bygger till viss del på naturvetenskap eftersom mekaniska och termodynamiska faktorer är viktiga för luftbehandling."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet ventilationsteknik ska syfta till att eleverna utvecklar kunskaper om vad som avses med fungerande ventilation och hur den uppnås. Dessutom ska ämnet leda till att eleverna utvecklar kunskaper om anläggningars uppbyggnad, funktion och konstruktion samt färdigheter i drift och underhåll av olika anläggningstyper. Eleverna ska ges möjlighet att använda lämplig utrustning på ett arbetsmiljöriktigt och ergonomiskt sätt. Vidare ska eleverna ges möjlighet att utveckla förmåga att kommunicera och samverka i enlighet med de krav som arbetslivet ställer. Undervisningen ska leda till att eleverna utvecklar servicekänsla samt kunskaper i den terminologi som gäller inom området.",
+          "Eleverna ska utifrån ritningar och anläggningsdokumentation ges möjlighet att utföra underhålls- och injusteringsarbeten med avsedd utrustning. I undervisningen ska verkliga ventilationsanläggningar eller anläggningar i laborativ miljö användas så att praktiska och teoretiska kunskaper sammankopplas."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet ventilationsteknik ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Kunskaper om olika ventilationstekniska system.",
+          "2. Förmåga att planera, organisera och utföra arbetsuppgifter inom området.",
+          "3. Förmåga att välja, använda och vårda verktyg, utrustning och material samt att välja och använda arbetsmetoder.",
+          "4. Förmåga att använda arbetsbeskrivningar och ritningar.",
+          "5. Förmåga att följa lagar och andra bestämmelser om arbetsmiljö, hälsa och hållbar utveckling.",
+          "6. Förmåga att samarbeta med andra och använda fackspråk.",
+          "7. Förmåga att dokumentera och utvärdera sitt arbete och resultat."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Luftbehandling, 100 poäng.",
+          "2. Luftströmning, 200 poäng, som bygger på kursen luftbehandling.",
+          "3. Luftbehandlingssystem, 100 poäng, som bygger på kursen luftströmning.",
+          "4. Luftbehandlingsanläggningar, 200 poäng, som bygger på kursen luftbehandlingssystem.",
+          "5. Ventilationsteknik – injustering, 100 poäng."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "gradeScale": null,
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2018-08-09T10:24:55.000Z",
+  "modifiedDate": "2020-02-19T15:03:06.000Z",
+  "courseCodes": [
+    "VETLUF0",
+    "VETLUS0",
+    "VETLUE0",
+    "VETLUT0",
+    "VETVEL0"
+  ]
+}

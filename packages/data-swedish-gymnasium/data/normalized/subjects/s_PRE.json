@@ -1,0 +1,48 @@
+{
+  "name": "Processteknik – kemi",
+  "code": "PRE",
+  "description": [
+    "Ämnet processteknik – kemi behandlar de tekniker som används inom kemisk processindustri. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet processteknik – kemi ska syfta till att eleverna utvecklar kunskaper om hur man identifierar och löser vanliga processtekniska problem genom att analysera tillgänglig information, använda olika metoder och lösningsstrategier samt implementera dessa.",
+          "Undervisningen ska leda till att eleverna utvecklar kunskaper om processtekniska system i kemisktekniska anläggningar samt om deras komponenter och metoder. Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper i utförande av vanligt förekommande arbetsuppgifter inom kemitekniska processer och förmåga att utvärdera resultatet.",
+          "Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta systematiskt och följa standarder och säkerhetsföreskrifter samt tar hänsyn till ställda kvalitetskrav. Vidare ska eleverna ges möjlighet att utveckla förmåga att arbeta med produktionsprocesser och med hållbarhet i olika dimensioner."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet processteknik – kemi ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Kunskaper om processtekniska system, deras komponenter och elementära processer samt förmåga att koppla samman dessa till kretsprocesser samt hur digital teknik kan användas i arbetet.",
+          "2. Kunskaper om säkerhetsfilosofier och säkerhetsföreskrifter inom det processtekniska området.",
+          "3. Kunskaper om kvalitetsarbete i produktionsprocesser samt kunskaper om hur provtagningar kan utformas och genomföras för att mäta och dokumentera kvalitet.",
+          "4. Förståelse av hur kemisk produktion påverkar miljön och hur miljöregleringen påverkar produktionen samt kunskaper om gällande lagstiftning.",
+          "5. Förmåga att genomföra, tolka och redovisa provtagningar och observationer av fysikaliska storheter och kemiska egenskaper samt förmåga att hantera kemikalier och utrustning.",
+          "6. Förmåga att reglera och optimera processer inom kemisk produktion.",
+          "7. Förmåga att planera sitt arbete och att övervaka, styra och reglera utrustning samt utföra vanliga arbetsuppgifter inom det processtekniska området.",
+          "8. Förmåga att tolka och upprätta processteknisk dokumentation."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Processteknik – kemi 1, 100 poäng.",
+          "2. Processteknik – kemi 2, 100 poäng, som bygger på kursen processteknik – kemi 1."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "gradeScale": null,
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2019-03-26T14:44:44.000Z",
+  "modifiedDate": "2020-02-19T14:59:46.000Z",
+  "courseCodes": [
+    "PREKEM31",
+    "PREKEM32"
+  ]
+}
