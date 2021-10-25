@@ -6,6 +6,7 @@
     ]
   },
   "scripts": {
+    "setup": "sdks vscode",
     "clean": "cd packages/data-swedish-gymnasium && yarn clean",
     "build": "cd packages/data-swedish-gymnasium && yarn build",
     "test": "cd packages/data-swedish-gymnasium && yarn test",
@@ -16,6 +17,7 @@
   "devDependencies": {
     "@prettier/plugin-xml": "^1.1.0",
     "@types/node": "12.7.5",
+    "@yarnpkg/sdks": "^2.5.0-rc.3",
     "lerna": "^3.10.7",
     "prettier": "^2.4.1"
   },
