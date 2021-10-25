@@ -4,6 +4,7 @@
     "access": "public"
   },
   "scripts": {
+    "fetch": "del-cli 'data/raw/**/*' && ts-node fetch.ts",
     "clean": "del-cli 'data/**/*' && del-cli 'out/**/*'",
     "build": "ts-node index.ts",
     "dev": "ts-node-dev --cls --respawn index.ts",
@@ -18,9 +19,11 @@
   "devDependencies": {
     "@education-data/fetcher": "^0.0.1-alpha.9",
     "@education-data/parser": "^0.0.1-alpha.9",
+    "@prettier/plugin-xml": "^1.1.0",
     "date-fns": "^2.2.1",
     "del-cli": "^3.0.0",
     "jest": "^24.9.0",
+    "prettier": "^2.4.1",
     "ts-node": "^10.4.0",
     "ts-node-dev": "^1.1.8",
     "typescript": "^4.4.4"

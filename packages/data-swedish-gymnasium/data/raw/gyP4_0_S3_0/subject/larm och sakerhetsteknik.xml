@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Larm och säkerhetsteknik</name>
+  <englishName>Alarm and security technologies</englishName>
+  <description
+  >&lt;p&gt;Larm- och säkerhetstekniska systems huvuduppgift är att varna för eller skydda mot olika typer av faror för människa eller egendom. Allt arbete med denna typ av system kräver ett väl utvecklat yrkesetiskt förhållningssätt samt goda kunskaper om lagar, förordningar och standarder inom området. För att montera och installera larm och övervakningssystem krävs såväl systemkunskap som kunskap om diskreta komponenter.&lt;/p&gt;</description>
+  <code>LAR</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2010-12-02T09:25:21+01:00</createdDate>
+  <modifiedDate>2020-02-19T15:57:41+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Larm och säkerhetsteknik&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet larm och säkerhetsteknik ska syfta till att eleverna utvecklar kunskaper om tekniska system med huvuduppgift att varna för eller skydda mot olika typer av faror för människa eller egendom. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att installera och ge service på larm och säkerhetssystem utifrån utrustningens dokumentation i form av scheman, ritningar och manualer. I undervisningen ska eleverna även ges möjlighet att planera arbetsuppgifter och därigenom utveckla förmåga att arbeta enligt yrkespraxis.&lt;/p&gt;&lt;p&gt;Undervisningen ska bidra till att eleverna utvecklar kunskap om lagar, förordningar och standarder inom området samt ett yrkesetiskt förhållningssätt vid arbete med larm och säkerhetssystem. Vidare ska undervisningen leda till att eleverna utvecklar förmåga att arbeta på ett säkert och miljömässigt sätt samt kunskaper om dokumentation av utfört arbete.&lt;/p&gt;&lt;p&gt;I undervisningen ska ett undersökande arbetssätt förekomma. I praktiska övningar ska eleverna ges möjlighet att utveckla kunskaper i problemlösning som krävs för installation och service på larm och säkerhetstekniska system.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet larm och säkerhetsteknik ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om uppbyggnad, funktion och driftegenskaper hos larm och säkerhetssystem.&lt;/li&gt; &lt;li&gt;Kunskaper om risker när man bygger larm och säkerhetssystem.&lt;/li&gt; &lt;li&gt;Förmåga att installera larm och säkerhetssystem.&lt;/li&gt; &lt;li&gt;Kunskaper om lagar, föreskrifter, förordningar och rekommendationer som reglerar arbete med larm och säkerhetssystem.&lt;/li&gt; &lt;li&gt;Förmåga att kunna registrera och dokumentera installation och förändringar.&lt;/li&gt; &lt;li&gt;Förmåga att tolka funktionen hos larm och säkerhetssystem med ledning av scheman, ritningar och övriga anvisningar.&lt;/li&gt; &lt;li&gt;Förmåga att kontrollera, prova, felsöka och avhjälpa fel på larm och säkerhetssystem.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Larm-, övervaknings- och säkerhetssystem, 100 poäng.&lt;/li&gt; &lt;li&gt;Brandlarmssystem, 100 poäng, som bygger på kursen larm-, övervaknings- och säkerhetssystem.&lt;/li&gt; &lt;li&gt;CCTV-system, 100 poäng, som bygger på kursen larm-, övervaknings- och säkerhetssystem.&lt;/li&gt; &lt;li&gt;Inbrottslarmssystem, 100 poäng, som bygger på kursen larm-, övervaknings- och säkerhetssystem.&lt;/li&gt; &lt;li&gt;Passersystem, 100 poäng, som bygger på kursen larm-, övervaknings- och säkerhetssystem.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2010:160</skolfsId>
+  <applianceDate>2011-07-01T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Larm-, övervaknings- och säkerhetssystem</name>
+    <englishName>Alarm, surveillance and security systems</englishName>
+    <description
+    >&lt;p&gt;Kursen larm-, övervaknings- och säkerhetssystem omfattar punkterna 1–8 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>LARLAM0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Larm-, övervaknings- och säkerhetssystem, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: LARLAM0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Uppbyggnad och funktion hos vanliga larm-, övervaknings- och säkerhetssystem.&lt;/li&gt; &lt;li&gt;Risker vid installation av larm och säkerhetssystem. Försäkringsbolagens krav på installationer och installatörer.&lt;/li&gt; &lt;li&gt;Planering och genomgång av ritningsunderlag inför installation av anläggningar för larm-, övervaknings- och säkerhetssystem.&lt;/li&gt; &lt;li&gt;Krav på registrering och dokumentation av utfört arbete.&lt;/li&gt; &lt;li&gt;Installation, driftsättning och provning av mindre anläggningar för inbrottslarm, brandlarm och passerkontroll.&lt;/li&gt; &lt;li&gt;Installation, integrering, driftsättning och provning av mindre trådlösa system och enheter för larm och övervakning.&lt;/li&gt; &lt;li&gt;Olika typer av verktyg, instrument och övrig utrustning.&lt;/li&gt; &lt;li&gt;Vanliga mätinstrument och hjälpmedel för felsökning. &lt;/li&gt; &lt;li&gt;Metoder för felsökning och reparationer i larm-, övervaknings- och säkerhetssystem.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör&lt;strong&gt; översiktligt&lt;/strong&gt; för uppbyggnad av och funktion hos vanliga larm-, övervaknings- och säkerhetssystem. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för olika typer av risker när man bygger larm och säkerhetssystem.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare installationer och service av vanligt förekommande larm och säkerhetssystem. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.&lt;/p&gt;&lt;p&gt;Eleven utför i olika miljöer och med&lt;strong&gt; visst&lt;/strong&gt; handlag vanligt förekommande arbeten med larm och säkerhetssystem på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare material avsedda för uppgiften. Dessutom använder eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet. Under arbetet väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;verktyg, instrument och övrig utrustning samt använder dem med &lt;strong&gt;visst&lt;/strong&gt; handlag. Under arbetet upptäcker eleven problem som uppstår och löser dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Eleven kontrollerar säkerheten och driftsätter installationen &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Resultatet av elevens arbete uppfyller på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt ställda kvalitets- och miljökrav.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar och felsöker &lt;strong&gt;i samråd &lt;/strong&gt;med handledare anläggningar och system samt reparerar&lt;strong&gt; enkla &lt;/strong&gt;fel som uppkommer i såväl nya som befintliga installationer.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör&lt;strong&gt; utförligt&lt;/strong&gt; för uppbyggnad av och funktion hos vanliga larm-, övervaknings- och säkerhetssystem. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för olika typer av risker när man bygger larm och säkerhetssystem.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare installationer och service av vanligt förekommande larm och säkerhetssystem. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.&lt;/p&gt;&lt;p&gt;Eleven utför i olika miljöer och med &lt;strong&gt;gott &lt;/strong&gt;handlag vanligt förekommande arbeten med larm och säkerhetssystem på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare material avsedda för uppgiften. Dessutom använder eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet. Under arbetet väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;verktyg, instrument och övrig utrustning samt använder dem med &lt;strong&gt;gott&lt;/strong&gt; handlag. Under arbetet upptäcker eleven problem som uppstår och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Eleven kontrollerar säkerheten och driftsätter installationen &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Resultatet av elevens arbete uppfyller på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt ställda kvalitets- och miljökrav.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar och felsöker &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare anläggningar och system samt reparerar fel som uppkommer i såväl nya som befintliga installationer.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör&lt;strong&gt; utförligt och nyanserat&lt;/strong&gt; för uppbyggnad av och funktion hos vanliga larm-, övervaknings- och säkerhetssystem. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för olika typer av risker när man bygger larm och säkerhetssystem.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare installationer och service av vanligt förekommande larm och säkerhetssystem. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.&lt;/p&gt;&lt;p&gt;Eleven utför i olika miljöer och med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag vanligt förekommande arbeten med larm och säkerhetssystem på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare material avsedda för uppgiften. Dessutom använder eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet. Under arbetet väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;verktyg, instrument och övrig utrustning samt använder dem med &lt;strong&gt;mycket gott&lt;/strong&gt; handlag. Under arbetet upptäcker eleven problem som uppstår och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Eleven kontrollerar säkerheten och driftsätter installationen &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Resultatet av elevens arbete uppfyller på ett &lt;strong&gt;gott &lt;/strong&gt;sätt ställda kvalitets- och miljökrav.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar och felsöker &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare anläggningar och system samt reparerar &lt;strong&gt;avancerade &lt;/strong&gt;fel som uppkommer i såväl nya som befintliga installationer.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Brandlarmssystem</name>
+    <englishName>Fire alarm systems</englishName>
+    <description
+    >&lt;p&gt;Kursen brandlarmssystem omfattar punkterna 1–8 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>LARBRN0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Brandlarmssystem, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: LARBRN0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Olika typer av system som finns inom brandlarmsområdet.&lt;/li&gt; &lt;li&gt;Olika typer av bränder samt med vilken detektor bästa detektion kan uppnås.&lt;/li&gt; &lt;li&gt;Larm-, övervaknings- och presentationssystemens funktion och uppbyggnad samt hur deras parametrar sätts.&lt;/li&gt; &lt;li&gt;Utrymnings­larmets ingående komponenter, funktioner samt hörbarhetens begränsningar i olika typer av miljöer.&lt;/li&gt; &lt;li&gt;Regler och krav som styr en anläggnings utformning samt vilka kriterier som påverkar val och placering av system och detektorer.&lt;/li&gt; &lt;li&gt;Installation av ett brandlarmssystem med tillhörande komponenter.&lt;/li&gt; &lt;li&gt;Praktisk projektering av brandlarmssystem med hänsyn till gällande regelverk samt med beaktande av risken för falska larm.&lt;/li&gt; &lt;li&gt;Larmförmedling.&lt;/li&gt; &lt;li&gt;Olika typer av verktyg, instrument och övrig utrustning.&lt;/li&gt; &lt;li&gt;Vanliga mätinstrument och hjälpmedel för felsökning. &lt;/li&gt; &lt;li&gt;Metoder för felsökning och reparationer i brandlarmssystem.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör&lt;strong&gt; översiktligt&lt;/strong&gt; för uppbyggnad av och funktion hos olika typer av brandlarmssystem. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för olika typer av risker när man bygger brandlarmssystem.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare installationer och service av brandlarmssystem. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.&lt;/p&gt;&lt;p&gt;Eleven utför i olika miljöer och med&lt;strong&gt; visst &lt;/strong&gt;handlag vanligt förekommande arbeten med brandlarmssystem på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare material avsedda för uppgiften. Dessutom använder eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet. Under arbetet väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;verktyg, instrument och övrig utrustning samt använder dem med &lt;strong&gt;visst&lt;/strong&gt; handlag. Under arbetet upptäcker eleven problem som uppstår och löser dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Eleven kontrollerar säkerheten och driftsätter installationen &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Resultatet av elevens arbete uppfyller på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt ställda kvalitets- och miljökrav.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar och felsöker &lt;strong&gt;i samråd &lt;/strong&gt;med handledare anläggningar och system samt reparerar&lt;strong&gt; enkla &lt;/strong&gt;fel som uppkommer i såväl nya som befintliga installationer.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör&lt;strong&gt; utförligt&lt;/strong&gt; för uppbyggnad av och funktion hos olika typer av brandlarmssystem. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för olika typer av risker när man bygger brandlarmssystem.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare installationer och service av brandlarmssystem. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.&lt;/p&gt;&lt;p&gt;Eleven utför i olika miljöer och med&lt;strong&gt; gott&lt;/strong&gt; handlag vanligt förekommande arbeten med brandlarmssystem på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare material avsedda för uppgiften. Dessutom använder eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet. Under arbetet väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;verktyg, instrument och övrig utrustning samt använder dem med &lt;strong&gt;gott&lt;/strong&gt; handlag. Under arbetet upptäcker eleven problem som uppstår och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Eleven kontrollerar säkerheten och driftsätter installationen &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Resultatet av elevens arbete uppfyller på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt ställda kvalitets- och miljökrav.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar och felsöker &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare anläggningar och system samt reparerar fel som uppkommer i såväl nya som befintliga installationer.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör&lt;strong&gt; utförligt och nyanserat&lt;/strong&gt; för uppbyggnad av och funktion hos olika typer av brandlarmssystem. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för olika typer av risker när man bygger brandlarmssystem.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare installationer och service av brandlarmssystem. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.&lt;/p&gt;&lt;p&gt;Eleven utför i olika miljöer och med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag vanligt förekommande arbeten med brandlarmssystem på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare material avsedda för uppgiften. Dessutom använder eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet. Under arbetet väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;verktyg, instrument och övrig utrustning samt använder dem med &lt;strong&gt;mycket gott&lt;/strong&gt; handlag. Under arbetet upptäcker eleven problem som uppstår och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Eleven kontrollerar säkerheten och driftsätter installationen &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Resultatet av elevens arbete uppfyller på ett &lt;strong&gt;gott &lt;/strong&gt;sätt ställda kvalitets- och miljökrav.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar och felsöker &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare anläggningar och system samt reparerar &lt;strong&gt;avancerade &lt;/strong&gt;fel som uppkommer i såväl nya som befintliga installationer.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>CCTV-system</name>
+    <englishName>CCTV systems</englishName>
+    <description
+    >&lt;p&gt;Kursen CCTV-system omfattar punkterna 1–8 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>LARCCT0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;CCTV-system, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: LARCCT0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Olika typer av CCTV-system samt när olika varianter av system är att föredra.&lt;/li&gt; &lt;li&gt;Belysningsstyrka, reflektionsfaktor och färgtemperatur som krävs för att uppnå bra bild.&lt;/li&gt; &lt;li&gt;Olika typer av lagringsmedia som används för att dokumentera de händelseförlopp som kameran registrerar.&lt;/li&gt; &lt;li&gt;Rätt val av monitor med tanke på användningsområde, upplösning, färg och liknande.&lt;/li&gt; &lt;li&gt;Kriterier som styr val av kamera samt lämplig optik med tanke på syftet med övervakningen samt de miljömässiga förhållandena.&lt;/li&gt; &lt;li&gt;Användning av bildöverföring för att verifiera händelser internt i objektet och externt när det gäller larmcentral och åtgärder.&lt;/li&gt; &lt;li&gt;Lagar och regler som styr en anläggnings utformning samt kriterier som påverkar val och placering av kameror och övriga komponenter.&lt;/li&gt; &lt;li&gt;Praktisk installation av CCTV-system med tillhörande komponenter.&lt;/li&gt; &lt;li&gt;Praktisk projektering av CCTV-system med hänsyn till gällande lagar och regler.&lt;/li&gt; &lt;li&gt;Larmförmedling.&lt;/li&gt; &lt;li&gt;Olika typer av verktyg, instrument och övrig utrustning.&lt;/li&gt; &lt;li&gt;Vanliga mätinstrument och hjälpmedel för felsökning. &lt;/li&gt; &lt;li&gt;Metoder för felsökning och reparationer i CCTV-system.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör&lt;strong&gt; översiktligt&lt;/strong&gt; för uppbyggnad av och funktion hos CCTV-system. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för olika typer av risker när man bygger CCTV-system.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare installationer och service av CCTV-system. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.&lt;/p&gt;&lt;p&gt;Eleven utför i olika miljöer och med &lt;strong&gt;visst&lt;/strong&gt; handlag vanligt förekommande arbeten med CCTV-system på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare material avsedda för uppgiften. Dessutom använder eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet. Under arbetet väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;verktyg, instrument och övrig utrustning samt använder dem med &lt;strong&gt;visst&lt;/strong&gt; handlag. Under arbetet upptäcker eleven problem som uppstår och löser dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Eleven kontrollerar säkerheten och driftsätter installationen &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Resultatet av elevens arbete uppfyller på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt ställda kvalitets- och miljökrav.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar och felsöker &lt;strong&gt;i samråd &lt;/strong&gt;med handledare anläggningar och system samt reparerar &lt;strong&gt;enkla &lt;/strong&gt;fel som uppkommer i såväl nya som befintliga installationer.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör&lt;strong&gt; utförligt&lt;/strong&gt; för uppbyggnad av och funktion hos CCTV-system. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för olika typer av risker när man bygger CCTV-system.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare installationer och service av CCTV-system. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.&lt;/p&gt;&lt;p&gt;Eleven utför i olika miljöer och med&lt;strong&gt; gott &lt;/strong&gt;handlag vanligt förekommande arbeten med CCTV-system på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare material avsedda för uppgiften. Dessutom använder eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet. Under arbetet väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;verktyg, instrument och övrig utrustning samt använder dem med &lt;strong&gt;gott&lt;/strong&gt; handlag. Under arbetet upptäcker eleven problem som uppstår och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Eleven kontrollerar säkerheten och driftsätter installationen &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Resultatet av elevens arbete uppfyller på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt ställda kvalitets- och miljökrav.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar och felsöker &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare anläggningar och system samt reparerar fel som uppkommer i såväl nya som befintliga installationer.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör&lt;strong&gt; utförligt och nyanserat&lt;/strong&gt; för uppbyggnad av och funktion hos CCTV-system. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för olika typer av risker när man bygger CCTV-system.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare installationer och service av CCTV-system. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.&lt;/p&gt;&lt;p&gt;Eleven utför i olika miljöer och med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag vanligt förekommande arbeten med CCTV-system på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare material avsedda för uppgiften. Dessutom använder eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet. Under arbetet väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;verktyg, instrument och övrig utrustning samt använder dem med &lt;strong&gt;mycket gott&lt;/strong&gt; handlag. Under arbetet upptäcker eleven problem som uppstår och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Eleven kontrollerar säkerheten och driftsätter installationen &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Resultatet av elevens arbete uppfyller på ett &lt;strong&gt;gott &lt;/strong&gt;sätt ställda kvalitets- och miljökrav.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;noggrann och utförligt &lt;/strong&gt;dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar och felsöker &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare anläggningar och system samt reparerar&lt;strong&gt; avancerade &lt;/strong&gt;fel som uppkommer i såväl nya som befintliga installationer.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <courses>
+    <name>Inbrottslarmssystem</name>
+    <englishName>Burglary alarm systems</englishName>
+    <description
+    >&lt;p&gt;Kursen inbrottslarmssystem omfattar punkterna 1–8 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>LARINB0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Inbrottslarmssystem, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: LARINB0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Olika typer av larm-, övervaknings- och presentationssystems funktion och uppbyggnad samt hur deras parametrar sätts.&lt;/li&gt; &lt;li&gt;Val av inbrottslarmssystem.&lt;/li&gt; &lt;li&gt;Olika angreppssätt som kan användas vid inbrott samt med vilken detektor bästa detektion uppnås.&lt;/li&gt; &lt;li&gt;Överfallslarmets ingående komponenter och funktioner samt i vilka olika sammanhang de kan komma till användning.&lt;/li&gt; &lt;li&gt;Regler och krav som styr en anläggnings utformning samt vilka kriterier som påverkar val och placering av system och detektorer.&lt;/li&gt; &lt;li&gt;Installation av inbrottslarmssystem med tillhörande komponenter.&lt;/li&gt; &lt;li&gt;Projektering av ett inbrottslarmssystem med hänsyn till gällande regelverk samt med beaktande av risken för falska larm.&lt;/li&gt; &lt;li&gt;Larmförmedling.&lt;/li&gt; &lt;li&gt;Olika typer av verktyg, instrument och övrig utrustning.&lt;/li&gt; &lt;li&gt;Vanliga mätinstrument och hjälpmedel för felsökning. &lt;/li&gt; &lt;li&gt;Metoder för felsökning och reparationer i inbrottslarm.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör&lt;strong&gt; översiktligt&lt;/strong&gt; för uppbyggnad av och funktion hos olika typer av inbrottslarmssystem. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för olika typer av risker när man bygger inbrottslarmssystem.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare installationer och service av inbrottslarmssystem. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.&lt;/p&gt;&lt;p&gt;Eleven utför i olika miljöer och med&lt;strong&gt; visst&lt;/strong&gt; handlag vanligt förekommande arbeten med inbrottslarmssystem på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven &lt;strong&gt;i samråd&lt;/strong&gt; med handledare material avsedda för uppgiften. Dessutom använder eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet. Under arbetet väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;verktyg, instrument och övrig utrustning samt använder dem med &lt;strong&gt;visst&lt;/strong&gt; handlag. Under arbetet upptäcker eleven problem som uppstår och löser dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Eleven kontrollerar säkerheten och driftsätter installationen &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Resultatet av elevens arbete uppfyller på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt ställda kvalitets- och miljökrav.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar och felsöker &lt;strong&gt;i samråd &lt;/strong&gt;med handledare anläggningar och system samt reparerar &lt;strong&gt;enkla &lt;/strong&gt;fel som uppkommer i såväl nya som befintliga installationer.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör&lt;strong&gt; utförligt&lt;/strong&gt; för uppbyggnad av och funktion hos olika typer av inbrottslarmssystem. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för olika typer av risker när man bygger inbrottslarmssystem.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare installationer och service av inbrottslarmssystem. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.&lt;/p&gt;&lt;p&gt;Eleven utför i olika miljöer och med &lt;strong&gt;gott&lt;/strong&gt; handlag vanligt förekommande arbeten med inbrottslarmssystem på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare material avsedda för uppgiften. Dessutom använder eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet. Under arbetet väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;verktyg, instrument och övrig utrustning samt använder dem med &lt;strong&gt;gott&lt;/strong&gt; handlag. Under arbetet upptäcker eleven problem som uppstår och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Eleven kontrollerar säkerheten och driftsätter installationen &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Resultatet av elevens arbete uppfyller på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt ställda kvalitets- och miljökrav.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar och felsöker &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare anläggningar och system samt reparerar fel som uppkommer i såväl nya som befintliga installationer.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör&lt;strong&gt; utförligt och nyanserat&lt;/strong&gt; för uppbyggnad av och funktion hos olika typer av inbrottslarmssystem. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för olika typer av risker när man bygger inbrottslarmssystem.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare installationer och service av inbrottslarmssystem. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.&lt;/p&gt;&lt;p&gt;Eleven utför i olika miljöer och med &lt;strong&gt;mycket gott&lt;/strong&gt; handlag vanligt förekommande arbeten med inbrottslarmssystem på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare material avsedda för uppgiften. Dessutom använder eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet. Under arbetet väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;verktyg, instrument och övrig utrustning samt använder dem med &lt;strong&gt;mycket gott&lt;/strong&gt; handlag. Under arbetet upptäcker eleven problem som uppstår och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Eleven kontrollerar säkerheten och driftsätter installationen &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Resultatet av elevens arbete uppfyller på ett &lt;strong&gt;gott &lt;/strong&gt;sätt ställda kvalitets- och miljökrav.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar och felsöker &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare anläggningar och system samt reparerar &lt;strong&gt;avancerade &lt;/strong&gt;fel som uppkommer i såväl nya som befintliga installationer.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>4</sortOrder>
+  </courses>
+  <courses>
+    <name>Passersystem</name>
+    <englishName>Access systems</englishName>
+    <description
+    >&lt;p&gt;Kursen passerkontrollsystem omfattar punkterna 1–8 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>LARPAS0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Passersystem, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: LARPAS0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande central innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Olika typer av passersystem, deras uppbyggnad och funktion.&lt;/li&gt; &lt;li&gt;Centralutrustning i form av datorer och programvara och undercentraler som är grundläggande i ett passersystem.&lt;/li&gt; &lt;li&gt;Dörrmiljön.&lt;/li&gt; &lt;li&gt;Centralenhetens och platsutrustningens systemmässiga placering samt hur de knyts till varandra kommunikationsmässigt.&lt;/li&gt; &lt;li&gt;Olika slags koder som kan lagras i kodmedier samt olika teknik som används i olika typer av kodmedier.&lt;/li&gt; &lt;li&gt;Standarder och krav som styr en anläggnings utformning samt vilka kriterier som påverkar val och placering av system och komponenter.&lt;/li&gt; &lt;li&gt;Upprättande av ljudförbindelse i passerkontrollsystem.&lt;/li&gt; &lt;li&gt;Installation av passersystem med tillhörande komponenter.&lt;/li&gt; &lt;li&gt;Projektering av passersystem med hänsyn till gällande regelverk samt med beaktande av risken för falska larm.&lt;/li&gt; &lt;li&gt;Programmering av passersystem med hänsyn till objektstyp, användarfunktioner samt övriga krav.&lt;/li&gt; &lt;li&gt;Olika typer av verktyg, instrument och övrig utrustning.&lt;/li&gt; &lt;li&gt;Vanliga mätinstrument och hjälpmedel för felsökning. &lt;/li&gt; &lt;li&gt;Metoder för felsökning och reparationer i passersystem.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör&lt;strong&gt; översiktligt&lt;/strong&gt; för uppbyggnad av och funktion hos olika typer av passersystem. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för olika typer av risker när man bygger passersystem.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare installationer och service av passersystem. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.&lt;/p&gt;&lt;p&gt;Eleven utför i olika miljöer och med&lt;strong&gt; visst &lt;/strong&gt;handlag vanligt förekommande arbeten med passersystem på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare material avsedda för uppgiften. Dessutom använder eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet. Under arbetet väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;verktyg, instrument och övrig utrustning samt använder dem med &lt;strong&gt;visst&lt;/strong&gt; handlag. Under arbetet upptäcker eleven problem som uppstår och löser dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Eleven kontrollerar säkerheten och driftsätter installationen &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Resultatet av elevens arbete uppfyller på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt ställda kvalitets- och miljökrav.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar och felsöker &lt;strong&gt;i samråd &lt;/strong&gt;med handledare anläggningar och system samt reparerar &lt;strong&gt;enkla &lt;/strong&gt;fel som uppkommer i såväl nya som befintliga installationer.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör&lt;strong&gt; utförligt&lt;/strong&gt; för uppbyggnad av och funktion hos olika typer av passersystem. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för olika typer av risker när man bygger passersystem.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare installationer och service av passersystem. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.&lt;/p&gt;&lt;p&gt;Eleven utför i olika miljöer och med &lt;strong&gt;gott&lt;/strong&gt; handlag vanligt förekommande arbeten med passersystem på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare material avsedda för uppgiften. Dessutom använder eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet. Under arbetet väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;verktyg, instrument och övrig utrustning samt använder dem med &lt;strong&gt;gott&lt;/strong&gt; handlag. Under arbetet upptäcker eleven problem som uppstår och löser dem &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare. Eleven kontrollerar säkerheten och driftsätter installationen &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Resultatet av elevens arbete uppfyller på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt ställda kvalitets- och miljökrav.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar och felsöker &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare anläggningar och system samt reparerar fel som uppkommer i såväl nya som befintliga installationer.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör&lt;strong&gt; utförligt och nyanserat&lt;/strong&gt; för uppbyggnad av och funktion hos olika typer av passersystem. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för olika typer av risker när man bygger passersystem.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare installationer och service av passersystem. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för hur hon eller han har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området.&lt;/p&gt;&lt;p&gt;Eleven utför i olika miljöer och med &lt;strong&gt;mycket gott&lt;/strong&gt; handlag vanligt förekommande arbeten med passersystem på ett sätt som är säkert för eleven själv och andra. Inför arbetet väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare material avsedda för uppgiften. Dessutom använder eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet. Under arbetet väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;verktyg, instrument och övrig utrustning samt använder dem med &lt;strong&gt;mycket gott&lt;/strong&gt; handlag. Under arbetet upptäcker eleven problem som uppstår och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Eleven kontrollerar säkerheten och driftsätter installationen &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Resultatet av elevens arbete uppfyller på ett &lt;strong&gt;gott &lt;/strong&gt;sätt ställda kvalitets- och miljökrav.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar och felsöker &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare anläggningar och system samt reparerar &lt;strong&gt;avancerade &lt;/strong&gt;fel som uppkommer i såväl nya som befintliga installationer.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>5</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

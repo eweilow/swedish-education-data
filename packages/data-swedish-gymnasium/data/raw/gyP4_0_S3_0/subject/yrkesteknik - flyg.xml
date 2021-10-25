@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Yrkesteknik – flyg</name>
+  <description
+  >&lt;p&gt;Ämnet yrkesteknik – flyg behandlar de kunskaper som krävs för att ge eleven en kunskapsram till den omgivning i form av naturlagar, internationella regelverk och kvalitetskrav som styr all verksamhet inom flygsektorn.&lt;/p&gt;</description>
+  <code>YRK</code>
+  <status>PUBLISHED</status>
+  <version>2</version>
+  <createdDate>2017-08-30T09:21:08+02:00</createdDate>
+  <modifiedDate>2020-02-19T16:03:19+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Yrkesteknik – flyg&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet yrkesteknik – flyg ska syfta till att ge eleverna möjlighet att utveckla kunskaper om aerodynamiska och atmosfäriska tillstånd som är tillämpbara på luftfartyg. Undervisningen ska ge eleverna möjlighet att utveckla förståelsen för samspelet mellan maskin och människa samt människans förutsättningar och begränsningar i samband med flygverksamhet. Undervisningen i ämnet ska leda till att eleverna utvecklar förutsättningar att förstå lagar och bestämmelser som skapar en bra arbetsmiljö och förebygger arbetsskador, samt är till för att skydda tredje person mot skador förorsakade av flygverksamhet.&lt;/p&gt;&lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla de kunskaper som krävs enligt gällande regler och krav för flygmekaniker. Undervisningen ska bidra till att eleverna utvecklar förståelse för hållbar utveckling med hänsyn till kvalitet, säkerhet, miljö och ekonomi.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet yrkesteknik – flyg ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om aerodynamik.&lt;/li&gt; &lt;li&gt;Kunskaper om faktorer som påverkar människan och om hur mänskliga misstag kan undvikas.&lt;/li&gt; &lt;li&gt;Kunskaper om tekniska systems anpassning till människan.&lt;/li&gt; &lt;li&gt;Kunskaper om lagar och andra bestämmelser samt standarder.&lt;/li&gt; &lt;li&gt;Förmåga att kommunicera och att använda begrepp och uttryck som är relevanta för området på såväl svenska som engelska.&lt;/li&gt; &lt;li&gt;Kunskaper om att arbeta på ett säkert, miljömässigt och kvalitetsmässigt sätt.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Aerodynamik, 100 poäng.&lt;/li&gt; &lt;li&gt;Flyglagstiftning, 50 poäng.&lt;/li&gt; &lt;li&gt;Mänskliga faktorer, 50 poäng.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2017:36</skolfsId>
+  <applianceDate>2017-08-18T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Aerodynamik</name>
+    <description
+    >&lt;p&gt;Kursen aerodynamik omfattar punkterna 1 och 5 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>YRKAER0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Aerodynamik, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: YRKAER0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Atmosfärens fysik med tillämpning på aerodynamik.&lt;/li&gt; &lt;li&gt;Aerodynamiska termer och begrepp relaterade till luftfartyg.&lt;/li&gt; &lt;li&gt;Flygteori som berör samband mellan krafter och faktorer som inverkar på lyftkraft och motstånd.&lt;/li&gt; &lt;li&gt;Flygstabilitet och dynamik.&lt;/li&gt; &lt;li&gt;Fackspråk på svenska och engelska.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; atmosfärens betydelse, hur lyftkraft skapas vid olika förhållanden och hur atmosfäriska omständigheter påverkar luftfartyg. Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; för området relevanta begrepp. När eleven kommunicerar med andra använder hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;relevant fackspråk på svenska och engelska. Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; atmosfärens betydelse, hur lyftkraft skapas vid olika förhållanden och hur atmosfäriska omständigheter påverkar luftfartyg. Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; för området relevanta begrepp. När eleven kommunicerar med andra använder hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;relevant fackspråk på svenska och engelska. Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; atmosfärens betydelse, hur lyftkraft skapas vid olika förhållanden och hur atmosfäriska omständigheter påverkar luftfartyg. Eleven använder &lt;strong&gt;med säkerhet&lt;/strong&gt; för området relevanta begrepp. När eleven kommunicerar med andra använder hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;relevant fackspråk på svenska och engelska. Resultatet av elevens arbete är &lt;strong&gt;gott&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Flyglagstiftning</name>
+    <description
+    >&lt;p&gt;Kursen flyglagstiftning omfattar punkterna 4–5 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>YRKFLY0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Flyglagstiftning, 50 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: YRKFLY0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Olika aktörers regelverk och roller enligt rådande luftfartsbestämmelser.&lt;/li&gt; &lt;li&gt;Förståelse för hur man håller sig uppdaterad på förändringar i regelverket.&lt;/li&gt; &lt;li&gt;Förståelse för regelverk som styr flygunderhållspersonals kunskapskrav och flygverkstäders verksamhet, enligt EASA Part-66 och Part-145.&lt;/li&gt; &lt;li&gt;Förståelse för operatörens ansvar för fortsatt luftvärdighet och underhåll.&lt;/li&gt; &lt;li&gt;Förståelse för regelverk som styr konstruktion, tillverkning och vidmakthållande av luftfartyg, enligt EASA Part-21 och Part-M.&lt;/li&gt; &lt;li&gt;Fackspråk på svenska och engelska.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>50</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; olika regelverk som styr verksamheten och vad de olika regelverken innehåller. Eleven beskriver också &lt;strong&gt;översiktligt&lt;/strong&gt; samband mellan nationella och internationella regelverk samt kopplingen till de olika verksamheterna inom området. Dessutom beskriver eleven &lt;strong&gt;översiktligt&lt;/strong&gt; olika organisationers och befattningshavares ansvar, befogenheter och skyldigheter enligt gällande regelsystem.&lt;/p&gt;&lt;p&gt;Eleven följer i bekanta situationer lagar och andra bestämmelser som de praktiska momenten i utbildningen kräver. Dessutom förklarar eleven &lt;strong&gt;översiktligt &lt;/strong&gt;sammanhang mellan regelverk och praktiska procedurer.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet &lt;/strong&gt;för området relevanta begrepp. Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; fackspråk på svenska och engelska för att uttrycka fakta och principer. Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; olika regelverk som styr verksamheten och vad de olika regelverken innehåller. Eleven beskriver också &lt;strong&gt;utförligt&lt;/strong&gt; samband mellan nationella och internationella regelverk samt kopplingen till de olika verksamheterna inom området. Dessutom beskriver eleven &lt;strong&gt;utförligt&lt;/strong&gt; olika organisationers och befattningshavares ansvar, befogenheter och skyldigheter enligt gällande regelsystem.&lt;/p&gt;&lt;p&gt;Eleven följer i bekanta &lt;strong&gt;och delvis nya &lt;/strong&gt;situationer lagar och andra bestämmelser som de praktiska momenten i utbildningen kräver. Dessutom förklarar eleven &lt;strong&gt;utförligt&lt;/strong&gt; sammanhang mellan regelverk och praktiska procedurer.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet &lt;/strong&gt;för området relevanta begrepp. Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; fackspråk på svenska och engelska för att uttrycka fakta och principer. Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; olika regelverk som styr verksamheten och vad de olika regelverken innehåller. Eleven beskriver också &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; samband mellan nationella och internationella regelverk samt kopplingen till de olika verksamheterna inom området. Dessutom beskriver eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; olika organisationers och befattningshavares ansvar, befogenheter och skyldigheter enligt gällande regelsystem.&lt;/p&gt;&lt;p&gt;Eleven följer i bekanta &lt;strong&gt;men även nya &lt;/strong&gt;situationer lagar och andra bestämmelser som de praktiska momenten i utbildningen kräver. Dessutom förklarar eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; sammanhang mellan regelverk och praktiska procedurer.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med säkerhet &lt;/strong&gt;för området relevanta begrepp. Eleven använder &lt;strong&gt;med säkerhet&lt;/strong&gt; fackspråk på svenska och engelska för att uttrycka fakta och principer. Resultatet av elevens arbete är &lt;strong&gt;gott&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Mänskliga faktorer</name>
+    <description
+    >&lt;p&gt;Kursen mänskliga faktorer omfattar punkterna 2–3 och 5–6 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>YRKMAN0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Mänskliga faktorer, 50 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: YRKMAN0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Avvikelser som kan hänföras till mänskliga faktorer.&lt;/li&gt; &lt;li&gt;Människans sinnen, förutsättningar och begränsningar.&lt;/li&gt; &lt;li&gt;Allmän orientering i socialpsykologi och gruppdynamik.&lt;/li&gt; &lt;li&gt;Faktorer som påverkar mänskliga prestationer.&lt;/li&gt; &lt;li&gt;Fysisk samt psykisk arbetsmiljö.&lt;/li&gt; &lt;li&gt;Kommunikation.&lt;/li&gt; &lt;li&gt;Arbetsplatsrisker.&lt;/li&gt; &lt;li&gt;Modeller och teorier om hur mänskliga misstag kan undvikas.&lt;/li&gt; &lt;li&gt;Flygsäkerhetskultur.&lt;/li&gt; &lt;li&gt;Faktorer som påverkar arbetsresultat och arbetsmiljö, till exempel struktur, ordning, trivsel, yrkesroll och den mänskliga faktorn. &lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>50</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; hur människans minne och tänkande fungerar samt vilka faktorer som påverkar minnet och tänkandet. Eleven beskriver också &lt;strong&gt;översiktligt&lt;/strong&gt; hur människan väljer ut, uppfattar och tolkar sinnesintryck. Dessutom beskriver eleven &lt;strong&gt;översiktligt&lt;/strong&gt; hur olika påfrestningar som stress, kriser och katastrofer påverkar den perceptuella och kognitiva förmågan.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; hur mänskliga misstag kan undvikas och ger exempel på konsekvenser av sådana misstag. Eleven beskriver också &lt;strong&gt;översiktligt&lt;/strong&gt; faktorer som påverkar människans motivation och prestation. Dessutom beskriver eleven &lt;strong&gt;översiktligt&lt;/strong&gt; problem med tekniska systems anpassning till människans psykiska förmåga och gör utifrån detta &lt;strong&gt;enkla &lt;/strong&gt;riskbedömningar och drar &lt;strong&gt;enkla&lt;/strong&gt; slutsatser. Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven kommunicerar med andra använder hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;relevant fackspråk på svenska och engelska.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; hur människans minne och tänkande fungerar samt vilka faktorer som påverkar minnet och tänkandet. Eleven beskriver också &lt;strong&gt;utförligt&lt;/strong&gt; hur människan väljer ut, uppfattar och tolkar sinnesintryck. Dessutom beskriver eleven &lt;strong&gt;utförligt&lt;/strong&gt; hur olika påfrestningar som stress, kriser och katastrofer påverkar den perceptuella och kognitiva förmågan.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; hur mänskliga misstag kan undvikas och ger exempel på konsekvenser av sådana misstag. Eleven beskriver också &lt;strong&gt;utförligt&lt;/strong&gt; faktorer som påverkar människans motivation och prestation. Dessutom beskriver eleven &lt;strong&gt;utförligt&lt;/strong&gt; problem med tekniska systems anpassning till människans psykiska förmåga och gör utifrån detta riskbedömningar och drar &lt;strong&gt;välgrundade&lt;/strong&gt; slutsatser. Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven kommunicerar med andra använder hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;relevant fackspråk på svenska och engelska.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; hur människans minne och tänkande fungerar samt vilka faktorer som påverkar minnet och tänkandet. Eleven beskriver också &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; hur människan väljer ut, uppfattar och tolkar sinnesintryck. Dessutom beskriver eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; hur olika påfrestningar som stress, kriser och katastrofer påverkar den perceptuella och kognitiva förmågan.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; hur mänskliga misstag kan undvikas och ger exempel på konsekvenser av sådana misstag. Eleven beskriver också &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; faktorer som påverkar människans motivation och prestation. Dessutom beskriver eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; problem med tekniska systems anpassning till människans psykiska förmåga och gör utifrån detta &lt;strong&gt;välgrundade&lt;/strong&gt; riskbedömningar och drar &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; slutsatser. Resultatet av elevens arbete är &lt;strong&gt;gott&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven kommunicerar med andra använder hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;relevant fackspråk på svenska och engelska.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Mobila maskiner – reparations- och systemteknik</name>
+  <englishName>Mobile machinery – repair and systems technology</englishName>
+  <description
+  >&lt;p&gt;Ämnet mobila maskiner – reparations- och systemteknik behandlar komponenter och system samt reparationer av mobila maskiner.&lt;/p&gt;</description>
+  <code>MOL</code>
+  <status>PUBLISHED</status>
+  <version>2</version>
+  <createdDate>2020-09-03T15:05:12+02:00</createdDate>
+  <modifiedDate>2020-09-03T15:05:32+02:00</modifiedDate>
+  <nameHeading
+  >&lt;h2&gt;Mobila maskiner – reparations- och systemteknik&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale>A-F</gradeScale>
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet mobila maskiner – reparations- och systemteknik ska syfta till att eleverna utvecklar kunskaper om mobila maskiners olika system och komponenter. Eleverna ska även ges möjlighet att utveckla förmåga att utföra reparationer av komponenter och system i mobila maskiner. Vidare ska undervisningen leda till att eleverna utvecklar förmåga att använda manualer och relevanta informationssystem i samband med felsökning och reparationer. Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta på ett kvalitetsmässigt sätt utifrån lagar och andra bestämmelser inom området.&lt;/p&gt; &lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla en yrkesidentitet och ett yrkesmässigt språk samt förmåga att kommunicera med såväl arbetskamrater som kunder. Eleverna ska även ges möjlighet att utveckla en förståelse för vikten av ett ansvarsfullt förhållningssätt gentemot kunden och kundens egendom. Undervisningen ska även leda till att eleverna utvecklar förmåga att arbeta med problemlösning såväl självständigt som tillsammans med andra. Vidare ska undervisningen leda till att eleverna utvecklar förmåga att dokumentera och kvalitetssäkra arbetet samt reflektera över hur arbetsprocessen har påverkat resultatet.&lt;/p&gt; &lt;p&gt;I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som återspeglar och förbereder för situationer som eleverna kommer att möta i yrkeslivet. Dessa uppgifter ska ge eleverna möjlighet att arbeta med problemlösning under laborativa former.&lt;/p&gt; &lt;h4&gt;Undervisningen i ämnet mobila maskiner – reparations- och systemteknik ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt; &lt;ol&gt; &lt;li&gt;Kunskaper om mobila maskiners olika komponenter och systemuppbyggnad samt hur de samverkar och kommunicerar med varandra.&lt;/li&gt; &lt;li&gt;Förmåga att utföra felsökning och reparationer på mobila maskiner samt deras olika system och komponenter.&lt;/li&gt; &lt;li&gt;Förmåga att utföra komponent- och kretsmätningar med mät- och diagnosutrustning samt tolka utläst mätdata i samband med felsökning och reparationer.&lt;/li&gt; &lt;li&gt;Förmåga att använda specialverktyg samt verktyg och övrig utrustning.&lt;/li&gt; &lt;li&gt;Förmåga att använda manualer, scheman och digitala informationssystem i samband med felsökning och reparationer.&lt;/li&gt; &lt;li&gt;Förmåga att arbeta på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser.&lt;/li&gt; &lt;li&gt;Förmåga att använda ett yrkesmässigt språk samt anpassa språket efter målgruppen.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Mobila maskiner – kraftöverföring, 100 poäng, som bygger på kursen lastbilar och mobila maskiner – förbränningsmotorer.&lt;/li&gt; &lt;li&gt;Mobila maskiner – hydraulsystem, 200 poäng, som bygger på kursen mobila maskiner – kraftöverföring.&lt;/li&gt; &lt;li&gt;Mobila maskiner – system- och diagnosteknik 1, 100 poäng, som bygger på kursen mobila maskiner – hydraulsystem.&lt;/li&gt; &lt;li&gt;Mobila maskiner – system- och diagnosteknik 2, 100 poäng, som bygger på kursen mobila maskiner – system- och diagnosteknik 1.&lt;/li&gt;&lt;/ul&gt;</purpose>
+  <skolfsId>2020:14</skolfsId>
+  <applianceDate>2020-07-01T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Mobila maskiner – kraftöverföring</name>
+    <englishName>Mobile machinery – power transmission</englishName>
+    <description
+    >&lt;p&gt;Kursen mobila maskiner – kraftöverföring omfattar punkterna 1–7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>MOLMOB0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Mobila maskiner – kraftöverföring, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MOLMOB0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul style="list-style-type: disc;"&gt; &lt;li&gt;Olika hydrauliska och mekaniska kraftöverföringar samt deras uppbyggnad, komponenter och manöversystem.&lt;/li&gt; &lt;li&gt;Olika elektrohydrauliska manöversystem samt deras uppbyggnad och komponenter.&lt;/li&gt; &lt;li&gt;Olika centralväxlar, navreduktioner och drivaxlar samt deras uppbyggnad och komponenter.&lt;/li&gt; &lt;li&gt;Metoder och utrustning för samt genomförande av funktionskontroll och felsökning av olika kraftöverföringar, deras komponenter och kringutrustningar.&lt;/li&gt; &lt;li&gt;Metoder och utrustning för samt genomförande av demontering, reparation, montering och efterkontroll av olika huvudkomponenter, bland annat momentomvandlare, drivknutar, lager och tätningar.&lt;/li&gt; &lt;li&gt;Användning av specialverktyg, verktyg och utrustning på ett kvalitetsmässigt sätt samt vård av dessa.&lt;/li&gt; &lt;li&gt;Fordonstillverkares anvisningar och krav samt scheman och övrig teknisk information på svenska och engelska.&lt;/li&gt; &lt;li&gt;Arbetsinstruktioner, servicelitteratur och system för reservdelsbeställning på svenska och engelska.&lt;/li&gt; &lt;li&gt;Säkerhet på arbetsplatsen och förebyggande av person- och egendomsskador.&lt;/li&gt; &lt;li&gt;Lagar och andra bestämmelser som gäller för arbetet.&lt;/li&gt; &lt;li&gt;Arbete med problemlösning och uppgifter såväl självständigt som tillsammans med andra.&lt;/li&gt; &lt;li&gt;Yrkesmässigt språk, kommunikation och målgruppsanpassning.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; funktionsprinciper för och konstruktioner av olika hydrauliska och mekaniska kraftöverföringar i mobila maskiner. Eleven beskriver även &lt;strong&gt;översiktligt&lt;/strong&gt; funktionsprinciper för och konstruktion av olika elektrohydrauliska manöversystem, centralväxlar, navreduktioner och drivaxlar.&lt;/p&gt; &lt;p&gt;Eleven utför, &lt;strong&gt;i samråd&lt;/strong&gt; med handledare, i bekanta situationer funktionskontroll samt felsökning och reparationer av olika kraftöverföringar, deras komponenter och kringutrustningar. Vid reparationer utför eleven, &lt;strong&gt;i samråd&lt;/strong&gt; med handledare, i bekanta situationer den demontering och montering samt justering av komponenter som arbetet kräver.&lt;/p&gt; &lt;p&gt;I arbetet använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; rätt arbetsmetod och med &lt;strong&gt;visst&lt;/strong&gt; handlag specialverktyg, verktyg och utrustning. Dessutom använder eleven&lt;strong&gt; med viss säkerhet&lt;/strong&gt; manualer, scheman och digitala informationssystem. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.&lt;/p&gt; &lt;p&gt;När eleven kommunicerar med kunder och arbetskamrater använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; ett yrkesmässigt språk. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;När eleven samråder med handledare bedömer hon eller han&lt;strong&gt; med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; funktionsprinciper för och konstruktioner av olika hydrauliska och mekaniska kraftöverföringar i mobila maskiner. Eleven beskriver även &lt;strong&gt;utförligt&lt;/strong&gt; funktionsprinciper för och konstruktion av olika elektrohydrauliska manöversystem, centralväxlar, navreduktioner och drivaxlar.&lt;/p&gt; &lt;p&gt;Eleven utför, &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare, i bekanta situationer funktionskontroll samt felsökning och reparationer av olika kraftöverföringar, deras komponenter och kringutrustningar. Vid reparationer utför eleven, &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare, i bekanta situationer den demontering och montering samt justering av komponenter som arbetet kräver.&lt;/p&gt; &lt;p&gt;I arbetet använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; rätt arbetsmetod och med &lt;strong&gt;gott&lt;/strong&gt; handlag specialverktyg, verktyg och utrustning. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; manualer, scheman och digitala informationssystem. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.&lt;/p&gt; &lt;p&gt;När eleven kommunicerar med kunder och arbetskamrater använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; ett yrkesmässigt språk. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; funktionsprinciper för och konstruktioner av olika hydrauliska och mekaniska kraftöverföringar i mobila maskiner. Eleven beskriver även &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; funktionsprinciper för och konstruktion av olika elektrohydrauliska manöversystem, centralväxlar, navreduktioner och drivaxlar.&lt;/p&gt; &lt;p&gt;Eleven utför, &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare, i bekanta &lt;strong&gt;men även nya&lt;/strong&gt; situationer funktionskontroll samt felsökning och reparationer av olika kraftöverföringar, deras komponenter och kringutrustningar. Vid reparationer utför eleven, &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare, i bekanta &lt;strong&gt;men även nya&lt;/strong&gt; situationer den demontering och montering samt justering av komponenter som arbetet kräver.&lt;/p&gt; &lt;p&gt;I arbetet använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; rätt arbetsmetod och med &lt;strong&gt;mycket gott&lt;/strong&gt; handlag specialverktyg, verktyg och utrustning. Dessutom använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; manualer, scheman och digitala informationssystem. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.&lt;/p&gt; &lt;p&gt;När eleven kommunicerar med kunder och arbetskamrater använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; ett yrkesmässigt språk. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är&lt;strong&gt; gott&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Mobila maskiner – hydraulsystem</name>
+    <englishName>Mobile machinery – hydraulic systems</englishName>
+    <description
+    >&lt;p&gt;Kursen mobila maskiner – hydraulsystem omfattar punkterna 1–7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>MOLMOI0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Mobila maskiner – hydraulsystem, 200 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MOLMOI0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul style="list-style-type: disc;"&gt; &lt;li&gt;Olika hydrauliksystem samt deras huvudkomponenter och funktion, bland annat system för lyft- och grävfunktion samt bromssystem.&lt;/li&gt; &lt;li&gt;Hydraulikpumpar och hydraulmotorer samt deras ventiler och manöversystem.&lt;/li&gt; &lt;li&gt;Olika hydraulikscheman samt deras uppbyggnad och symboler.&lt;/li&gt; &lt;li&gt;Olika begrepp och deras innebörd inom hydrauliken, bland annat tryck, kraft och volymströmmar.&lt;/li&gt; &lt;li&gt;Hydraulikvätskans egenskaper samt tankar, kylare och filter.&lt;/li&gt; &lt;li&gt;Metoder och utrustning för funktionskontroll, felsökning och reparationer av olika hydraulsystem, deras komponenter och kringutrustningar samt tryck-, flödes- och täthetskontroll.&lt;/li&gt; &lt;li&gt;Metoder för användning av digitala hjälpmedel, specialverktyg, verktyg och utrustning på ett kvalitetsmässigt sätt samt vård av dessa.&lt;/li&gt; &lt;li&gt;Fordonstillverkares anvisningar och krav samt scheman och övrig teknisk information på svenska och engelska.&lt;/li&gt; &lt;li&gt;Arbetsinstruktioner, servicelitteratur och system för reservdelsbeställning på svenska och engelska.&lt;/li&gt; &lt;li&gt;Miljö- och hälsoaspekter vid arbete med hydraulsystem.&lt;/li&gt; &lt;li&gt;Säkerhet på arbetsplatsen och förebyggande av person- och egendomsskador.&lt;/li&gt; &lt;li&gt;Lagar och andra bestämmelser som gäller för arbetet.&lt;/li&gt; &lt;li&gt;Arbete med problemlösning och uppgifter såväl självständigt som tillsammans med andra.&lt;/li&gt; &lt;li&gt;Yrkesmässigt språk, kommunikation och målgruppsanpassning.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>200</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; funktionsprinciper och konstruktion av olika hydrauliksystem i mobila maskiner. Eleven beskriver även &lt;strong&gt;översiktligt&lt;/strong&gt; olika hydraulikpumpar och hydraulmotorer samt deras ventiler och manöversystem. Dessutom beskriver eleven &lt;strong&gt;översiktligt&lt;/strong&gt; olika hjul- och hjälpbromssystem.&lt;/p&gt; &lt;p&gt;Eleven utför, &lt;strong&gt;i samråd&lt;/strong&gt; med handledare, i bekanta situationer funktionskontroll samt felsökning och reparationer av olika hydraulsystem deras komponenter och kringutrustningar i mobila maskiner. Vid reparationer utför eleven, &lt;strong&gt;i samråd&lt;/strong&gt; med handledare, i bekanta situationer den demontering, montering samt justering av komponenter som arbetet kräver. Eleven utför även, &lt;strong&gt;i samråd&lt;/strong&gt; med handledare, i bekanta situationer tryck-, flödes- och täthetskontroll.&lt;/p&gt; &lt;p&gt;I arbetet använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; rätt arbetsmetod och med &lt;strong&gt;visst&lt;/strong&gt; handlag specialverktyg, verktyg och utrustning. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; manualer, scheman och digitala informationssystem. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.&lt;/p&gt; &lt;p&gt;När eleven kommunicerar med kunder och arbetskamrater använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; ett yrkesmässigt språk. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver&lt;strong&gt; utförligt&lt;/strong&gt; funktionsprinciper och konstruktion av olika hydrauliksystem i mobila maskiner. Eleven beskriver även &lt;strong&gt;utförligt&lt;/strong&gt; olika hydraulikpumpar och hydraulmotorer samt deras ventiler och manöversystem. Dessutom beskriver eleven &lt;strong&gt;utförligt&lt;/strong&gt; olika hjul- och hjälpbromssystem.&lt;/p&gt; &lt;p&gt;Eleven utför, &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare, i bekanta situationer funktionskontroll samt felsökning och reparationer av olika hydraulsystem deras komponenter och kringutrustningar i mobila maskiner. Vid reparationer utför eleven, &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare, i bekanta situationer den demontering, montering samt justering av komponenter som arbetet kräver. Eleven utför även, &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare, i bekanta situationer tryck-, flödes- och täthetskontroll.&lt;/p&gt; &lt;p&gt;I arbetet använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; rätt arbetsmetod och med &lt;strong&gt;gott&lt;/strong&gt; handlag specialverktyg, verktyg och utrustning. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; manualer, scheman och digitala informationssystem. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.&lt;/p&gt; &lt;p&gt;När eleven kommunicerar med kunder och arbetskamrater använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; ett yrkesmässigt språk. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är&lt;strong&gt; tillfredsställande&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; funktionsprinciper och konstruktion av olika hydrauliksystem i mobila maskiner. Eleven beskriver även &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;olika hydraulikpumpar och hydraulmotorer samt deras ventiler och manöversystem. Dessutom beskriver eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; olika hjul- och hjälpbromssystem.&lt;/p&gt; &lt;p&gt;Eleven utför, &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare, i bekanta &lt;strong&gt;men även nya&lt;/strong&gt; situationer funktionskontroll samt felsökning och reparationer av olika hydraulsystem deras komponenter och kringutrustningar i mobila maskiner. Vid reparationer utför eleven, &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare, i bekanta &lt;strong&gt;men även nya&lt;/strong&gt; situationer den demontering, montering samt justering av komponenter som arbetet kräver. Eleven utför även, &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare, i bekanta &lt;strong&gt;men även nya&lt;/strong&gt; situationer tryck-, flödes- och täthetskontroll.&lt;/p&gt; &lt;p&gt;I arbetet använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; rätt arbetsmetod och med &lt;strong&gt;mycket gott&lt;/strong&gt; handlag specialverktyg, verktyg och utrustning. Dessutom använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; manualer, scheman och digitala informationssystem. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.&lt;/p&gt; &lt;p&gt;När eleven kommunicerar med kunder och arbetskamrater använder eleven&lt;strong&gt; med säkerhet&lt;/strong&gt; ett yrkesmässigt språk. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är &lt;strong&gt;gott&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Mobila maskiner – system- och diagnosteknik 1</name>
+    <englishName>
+      Mobile machinery – systems and diagnostics technology 1
+    </englishName>
+    <description
+    >&lt;p&gt;Kursen mobila maskiner – system- och diagnosteknik 1 omfattar punkterna 1–7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>MOLMOB01</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Mobila maskiner – system- och diagnosteknik 1, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MOLMOB01&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul style="list-style-type: disc;"&gt; &lt;li&gt;Mobila maskiners olika elektroniska nätverkssystem samt deras uppbyggnad, funktion och komponenter.&lt;/li&gt; &lt;li&gt;Kommunikationsteknik, bland annat CAN bus, LIN och MOST.&lt;/li&gt; &lt;li&gt;Elektroniska komponenter och deras funktion, bland annat ledare, halvledare och isolatorer.&lt;/li&gt; &lt;li&gt;Olika förarassistans- och säkerhetssystem, deras uppbyggnad, funktion och komponenter, bland annat system för backvarning, last- och grävsystem samt produktionssystem.&lt;/li&gt; &lt;li&gt;Olika elektroniska växlingssystem samt deras styrsystem och komponenter.&lt;/li&gt; &lt;li&gt;Metoder för och genomförande av funktionskontroll, felsökning och diagnos av el- och elektroniska system samt deras komponenter.&lt;/li&gt; &lt;li&gt;Digitala informationssystem och mätutrustningar samt tolkning och utvärdering av utläst mätdata i samband med felsökning och reparationer.&lt;/li&gt; &lt;li&gt;Användning av specialverktyg, verktyg och utrustning på ett kvalitetsmässigt sätt samt vård av dessa.&lt;/li&gt; &lt;li&gt;Fordonstillverkares anvisningar och krav samt scheman och övrig teknisk information på svenska och engelska.&lt;/li&gt; &lt;li&gt;Arbetsinstruktioner, servicelitteratur och system för reservdelsbeställning på svenska och engelska.&lt;/li&gt; &lt;li&gt;Säkerhet på arbetsplatsen och förebyggande av person- och egendomsskador.&lt;/li&gt; &lt;li&gt;Lagar och andra bestämmelser som gäller för arbetet.&lt;/li&gt; &lt;li&gt;Arbete med problemlösning och uppgifter, såväl självständigt som tillsammans med andra.&lt;/li&gt; &lt;li&gt;Yrkesmässigt språk, kommunikation och målgruppsanpassning.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; funktionsprinciper för och konstruktioner av olika mobila maskiners olika elektroniska nätverkssystem samt hur de kommunicerar med varandra. Eleven beskriver även &lt;strong&gt;översiktligt&lt;/strong&gt; olika förarassistans- och säkerhetssystem samt olika elektroniska växlingssystem och deras styrsystem.&lt;/p&gt; &lt;p&gt;Eleven utför,&lt;strong&gt; i samråd&lt;/strong&gt; med handledare, i bekanta situationer funktionskontroll, felsökning och diagnos av olika el- och elektroniska system samt deras komponenter. Eleven utför även,&lt;strong&gt; i samråd&lt;/strong&gt; med handledare, i bekanta situationer funktionskontroll, felsökning och diagnos på olika motorstyrsystem.&lt;/p&gt; &lt;p&gt;I arbetet använder eleven&lt;strong&gt; med viss säkerhet&lt;/strong&gt; rätt arbetsmetod och med&lt;strong&gt; visst&lt;/strong&gt; handlag mät- och diagnosutrustning, specialverktyg, verktyg och utrustning. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; manualer, scheman och digitala informationssystem. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.&lt;/p&gt; &lt;p&gt;När eleven kommunicerar med kunder och arbetskamrater använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; ett yrkesmässigt språk. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är&lt;strong&gt; tillfredsställande&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; funktionsprinciper för och konstruktioner av olika mobila maskiners olika elektroniska nätverkssystem samt hur de kommunicerar med varandra. Eleven beskriver även &lt;strong&gt;utförligt&lt;/strong&gt; olika förarassistans- och säkerhetssystem samt olika elektroniska växlingssystem och deras styrsystem.&lt;/p&gt; &lt;p&gt;Eleven utför, &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare, i bekanta situationer funktionskontroll, felsökning och diagnos av olika el- och elektroniska system samt deras komponenter. Eleven utför även, &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare, i bekanta situationer funktionskontroll, felsökning och diagnos på olika motorstyrsystem.&lt;/p&gt; &lt;p&gt;I arbetet använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; rätt arbetsmetod och med &lt;strong&gt;gott&lt;/strong&gt; handlag mät- och diagnosutrustning, specialverktyg, verktyg och utrustning. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; manualer, scheman och digitala informationssystem. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.&lt;/p&gt; &lt;p&gt;När eleven kommunicerar med kunder och arbetskamrater använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; ett yrkesmässigt språk. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; funktionsprinciper för och konstruktioner av olika mobila maskiners olika elektroniska nätverkssystem samt hur de kommunicerar med varandra. Eleven beskriver även &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; olika förarassistans- och säkerhetssystem samt olika elektroniska växlingssystem och deras styrsystem.&lt;/p&gt; &lt;p&gt;Eleven utför, &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare, i bekanta &lt;strong&gt;men även nya&lt;/strong&gt; situationer funktionskontroll, felsökning och diagnos av olika el- och elektroniska system samt deras komponenter. Eleven utför även, &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare, i bekanta &lt;strong&gt;men även nya&lt;/strong&gt; situationer funktionskontroll, felsökning och diagnos på olika motorstyrsystem.&lt;/p&gt; &lt;p&gt;I arbetet använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; rätt arbetsmetod och med &lt;strong&gt;mycket gott&lt;/strong&gt; handlag mät- och diagnosutrustning, specialverktyg, verktyg och utrustning. Dessutom använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; manualer, scheman och digitala informationssystem. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.&lt;/p&gt; &lt;p&gt;När eleven kommunicerar med kunder och arbetskamrater använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; ett yrkesmässigt språk. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är &lt;strong&gt;gott&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <courses>
+    <name>Mobila maskiner – system- och diagnosteknik 2</name>
+    <englishName>
+      Mobile machinery – systems and diagnostics technology 2
+    </englishName>
+    <description
+    >&lt;p&gt;Kursen mobila maskiner – system- och diagnosteknik 2 omfattar punkterna 1–7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>MOLMOB02</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Mobila maskiner – system- och diagnosteknik 2, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MOLMOB02&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul style="list-style-type: disc;"&gt; &lt;li&gt;Olika bränslevärmare samt deras uppbyggnad, funktion och komponenter.&lt;/li&gt; &lt;li&gt;Olika laddhybridstyrda hydraulsystem samt deras uppbyggnad, funktion och komponenter.&lt;/li&gt; &lt;li&gt;Metoder för och genomförande av felsökning och reparationer i hydrostatdrivningssystem samt deras olika komponenter.&lt;/li&gt; &lt;li&gt;Metoder för och genomförande av felsökning och reparationer av enklare fel i olika förarassistans- och säkerhetssystem samt deras olika komponenter.&lt;/li&gt; &lt;li&gt;Metoder för och genomförande av felsökning och reparationer av enklare fel i avgasreningssystem för förbränningsmotorer.&lt;/li&gt; &lt;li&gt;Metoder för och genomförande av analys och utvärdering av uppmätta mätvärden och testresultat med hjälp av manualer, scheman och övrig teknisk information.&lt;/li&gt; &lt;li&gt;Telematikutrustning och mobilitetslösningar i maskiner.&lt;/li&gt; &lt;li&gt;Användning av specialverktyg, verktyg och utrustning på ett kvalitetsmässigt sätt samt vård av dessa.&lt;/li&gt; &lt;li&gt;Administrativa verkstadsfunktioner, bland annat bokning, arbetsorder och prisuppgift till kund.&lt;/li&gt; &lt;li&gt;Fordonstillverkares anvisningar och krav samt scheman och övrig teknisk information på svenska och engelska.&lt;/li&gt; &lt;li&gt;Arbetsinstruktioner, servicelitteratur och system för reservdelsbeställning på svenska och engelska.&lt;/li&gt; &lt;li&gt;Säkerhet på arbetsplatsen och förebyggande av person- och egendomsskador.&lt;/li&gt; &lt;li&gt;Lagar och andra bestämmelser som gäller för arbetet.&lt;/li&gt; &lt;li&gt;Arbete med problemlösning och uppgifter, såväl självständigt som tillsammans med andra.&lt;/li&gt; &lt;li&gt;Yrkesmässigt språk, kommunikation och målgruppsanpassning.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; funktionsprinciper för och konstruktioner av olika mobila maskiners olika bränslevärmare, deras uppbyggnad, funktion och komponenter. Eleven beskriver även&lt;strong&gt; översiktligt&lt;/strong&gt; olika laddhybridstyrda system i mobila maskiner.&lt;/p&gt; &lt;p&gt;Eleven utför, &lt;strong&gt;i samråd&lt;/strong&gt; med handledare, i bekanta situationer felsökning och reparationer i hydrostatdrivningssystem samt deras olika komponenter i mobila maskiner. Eleven utför även,&lt;strong&gt; i samråd&lt;/strong&gt; med handledare, i bekanta situationer felsökning och reparationer av enklare fel i maskiners komfortelektronik samt i olika avgasreningssystem för förbränningsmotorer. Vid reparationer utför eleven, &lt;strong&gt;i samråd&lt;/strong&gt; med handledare, i bekanta situationer den demontering, montering samt justering av komponenter som arbetet kräver.&lt;/p&gt; &lt;p&gt;I arbetet använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; rätt arbetsmetod och med &lt;strong&gt;visst&lt;/strong&gt; handlag mät- och diagnosutrustning, specialverktyg, verktyg och utrustning. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; manualer, scheman och digitala informationssystem. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.&lt;/p&gt; &lt;p&gt;När eleven kommunicerar med kunder och arbetskamrater använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; ett yrkesmässigt språk. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; funktionsprinciper för och konstruktioner av olika mobila maskiners olika bränslevärmare, deras uppbyggnad, funktion och komponenter. Eleven beskriver även &lt;strong&gt;utförligt&lt;/strong&gt; olika laddhybridstyrda system i mobila maskiner.&lt;/p&gt; &lt;p&gt;Eleven utför, &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare, i bekanta situationer felsökning och reparationer i hydrostatdrivningssystem samt deras olika komponenter i mobila maskiner. Eleven utför även, &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare, i bekanta situationer felsökning och reparationer av enklare fel i maskiners komfortelektronik samt i olika avgasreningssystem för förbränningsmotorer. Vid reparationer utför eleven, &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare, i bekanta situationer den demontering, montering samt justering av komponenter som arbetet kräver.&lt;/p&gt; &lt;p&gt;I arbetet använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; rätt arbetsmetod och med &lt;strong&gt;gott&lt;/strong&gt; handlag mät- och diagnosutrustning, specialverktyg, verktyg och utrustning. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; manualer, scheman och digitala informationssystem. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.&lt;/p&gt; &lt;p&gt;När eleven kommunicerar med kunder och arbetskamrater använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; ett yrkesmässigt språk. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; funktionsprinciper för och konstruktioner av olika mobila maskiners olika bränslevärmare, deras uppbyggnad, funktion och komponenter. Eleven beskriver även &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; olika laddhybridstyrda system i mobila maskiner.&lt;/p&gt; &lt;p&gt;Eleven utför, &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare, i bekanta &lt;strong&gt;men även nya&lt;/strong&gt; situationer felsökning och reparationer i hydrostatdrivningssystem samt deras olika komponenter i mobila maskiner. Eleven utför även, &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare, i bekanta&lt;strong&gt; men även nya&lt;/strong&gt; situationer felsökning och reparationer av enklare fel i maskiners komfortelektronik samt i olika avgasreningssystem för förbränningsmotorer. Vid reparationer utför eleven, &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare, i bekanta &lt;strong&gt;men även nya&lt;/strong&gt; situationer den demontering, montering samt justering av komponenter som arbetet kräver.&lt;/p&gt; &lt;p&gt;I arbetet använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; rätt arbetsmetod och med &lt;strong&gt;mycket gott&lt;/strong&gt; handlag mät- och diagnosutrustning, specialverktyg, verktyg och utrustning. Dessutom använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; manualer, scheman och digitala informationssystem. Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav.&lt;/p&gt; &lt;p&gt;När eleven kommunicerar med kunder och arbetskamrater använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; ett yrkesmässigt språk. I kommunikationen med kunder anpassar eleven språket efter målgruppen. Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat. Resultatet av elevens arbete är &lt;strong&gt;gott&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>4</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

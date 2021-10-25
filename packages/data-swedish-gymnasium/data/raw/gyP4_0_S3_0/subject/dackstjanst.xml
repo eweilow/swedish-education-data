@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Däckstjänst</name>
+  <englishName>Deck service</englishName>
+  <description
+  >&lt;p&gt;Ämnet däckstjänst handlar om fartygs säkra framförande. I detta ingår kunskaper i navigation och sjömanskap. Ämnet behandlar den teknik och de metoder som används för drift och underhåll inom däcksavdelningen på handelsfartyg. &lt;/p&gt;</description>
+  <code>DAC</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2011-10-11T18:21:00+02:00</createdDate>
+  <modifiedDate>2020-02-19T15:50:16+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Däckstjänst&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet däckstjänst ska syfta till att eleverna utvecklar kunskaper om drift och vakthållning på fartyg samt förmåga att utföra driftsarbete inom däcksavdelningen och arbetsuppgifter som vaktgående däckspersonal. Den ska vidare leda till att eleverna utvecklar kunskaper i navigation och sjömanskap samt förmåga att sjömansmässigt handha fartyg och däcksutrustning. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om fartygs underhåll samt förmåga att utföra underhållsarbete inom däcksavdelningen. Dessa kunskaper är enligt nationella och internationella regler nödvändiga för tjänstgöring ombord på fartyg.&lt;/p&gt;&lt;p&gt;I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som är konstruerade så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Dessa arbetsuppgifter ska utgå från ett problemlösande arbetssätt. &lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet däckstjänst ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Förmåga att utföra arbetsuppgifter som vaktgående däckspersonal eller fartygsbefäl.&lt;/li&gt; &lt;li&gt;Förmåga att utföra driftsarbete inom däcksavdelningen på ett fartyg.&lt;/li&gt; &lt;li&gt;Förmåga att utföra underhållsarbete inom däcksavdelningen på ett fartyg.&lt;/li&gt; &lt;li&gt;Förmåga att arbeta miljö-, säkerhets- och kvalitetsmedvetet på ett sjömansmässigt sätt.&lt;/li&gt; &lt;li&gt;Förmåga att samarbeta och kommunicera med ett för yrket relevant fackspråk.&lt;/li&gt; &lt;li&gt;Kunskaper om de tekniska konstruktioner och den tekniska utrustning som finns inom däcksavdelningen på ett fartyg.&lt;/li&gt; &lt;li&gt;Kunskaper om lagar och andra bestämmelser som reglerar området. &lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Däckstjänst 1, 300 poäng.&lt;/li&gt; &lt;li&gt;Däckstjänst 2, 300 poäng, som bygger på kursen däckstjänst 1.&lt;/li&gt; &lt;li&gt;Fartygsbefäl, 100 poäng.&lt;/li&gt; &lt;li&gt;Radiokommunikation till sjöss, 50 poäng. &lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2011:129</skolfsId>
+  <applianceDate>2011-09-14T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Däckstjänst 1</name>
+    <englishName>Deck service 1</englishName>
+    <description
+    >&lt;p&gt;Kursen däckstjänst 1 omfattar punkterna 1–7 under rubriken Ämnets syfte, med särskild betoning på punkt 1. I kursen behandlas grundläggande kunskaper i ämnet. &lt;/p&gt;</description>
+    <code>DACDAC01</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Däckstjänst 1, 300 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DACDAC01&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;p&gt;&lt;i&gt;Undervisningen i kursen ska behandla följande centrala innehåll: &lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Vakthållning på handelsfartyg&lt;/strong&gt;&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt; &lt;li&gt;Vakthållningens organisation.&lt;/li&gt; &lt;li&gt;Överlämning av vakten.&lt;/li&gt; &lt;li&gt;Ordergivning och kommunikation med vakthavande befäl.&lt;/li&gt; &lt;li&gt;Fartygsterminologi. &lt;/li&gt; &lt;/ul&gt;&lt;p&gt; &lt;strong&gt;&lt;strong&gt;Rorsmannens arbetsuppgifter&lt;/strong&gt;&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt; &lt;li&gt;Roderindikator, magnet- och gyrokompass.&lt;/li&gt; &lt;li&gt;Handstyrning och omkoppling till automatstyrning.&lt;/li&gt; &lt;li&gt;Roderorder på svenska och engelska. &lt;/li&gt; &lt;/ul&gt;&lt;p&gt; &lt;strong&gt;&lt;strong&gt;Utkikens arbetsuppgifter&lt;/strong&gt;&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt; &lt;li&gt;Sjömärken samt fartygs dager-, ljus- och ljudsignaler.&lt;/li&gt; &lt;li&gt;Grundläggande internationella sjövägsregler.&lt;/li&gt; &lt;li&gt;Rapportering med riktning och bäring. &lt;/li&gt; &lt;/ul&gt;&lt;p&gt; &lt;strong&gt;&lt;strong&gt;Övriga arbetsuppgifter vid vakthållning&lt;/strong&gt;&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt; &lt;li&gt;Förtöjning, bogsering och ankring.&lt;/li&gt; &lt;li&gt;Kontroll och riggning av lotslejdare.&lt;/li&gt; &lt;li&gt;Lastning och stuvning av förråd på fartyg.&lt;/li&gt; &lt;li&gt;Grundläggande underhållsarbete samt verktygskunskap. &lt;/li&gt; &lt;/ul&gt;&lt;p&gt; &lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>300</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsuppgifter i samband med vakthållning inom ett fartygs däcksavdelning. I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar &lt;strong&gt;översiktligt&lt;/strong&gt; sina val. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; valda metoder, utrustning och verktyg. Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta situationer. I arbetet löser eleven &lt;strong&gt;enkla &lt;/strong&gt;problem som uppstår och anpassar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoder, utrustning och verktyg efter situationens krav. Dessutom tar eleven i arbetet ansvar för materiella värden samt för egen och andras säkerhet ombord.&lt;/p&gt;&lt;p&gt;Eleven samarbetar och kommunicerar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra för att utföra olika uppgifter. I kommunikationen använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;termer och begrepp som är relevanta för området.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; det arbete som utförs i samband med vakthållning inom däcksavdelningen. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för&lt;strong&gt; &lt;/strong&gt;lagar och andra bestämmelser som styr vakthållning på handelsfartyg.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsuppgifter i samband med vakthållning inom ett fartygs däcksavdelning. I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar &lt;strong&gt;utförligt&lt;/strong&gt; sina val. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; valda metoder, utrustning och verktyg. Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta &lt;strong&gt;och nya &lt;/strong&gt;situationer. I arbetet löser eleven problem som uppstår och anpassar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoder, utrustning och verktyg efter situationens krav. Dessutom tar eleven i arbetet ansvar för materiella värden samt för egen och andras säkerhet ombord.&lt;/p&gt;&lt;p&gt;Eleven samarbetar och kommunicerar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra för att utföra olika uppgifter. I kommunikationen använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;termer och begrepp som är relevanta för området.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; det arbete som utförs i samband med vakthållning inom däcksavdelningen. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för&lt;strong&gt; &lt;/strong&gt;lagar och andra bestämmelser som styr vakthållning på handelsfartyg. &lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsuppgifter i samband med vakthållning inom ett fartygs däcksavdelning. I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; sina val. Dessutom använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; valda metoder, utrustning och verktyg. Resultatet av elevens arbete är &lt;strong&gt;gott&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta &lt;strong&gt;och nya &lt;/strong&gt;situationer. I arbetet löser eleven &lt;strong&gt;komplexa&lt;/strong&gt; problem som uppstår och anpassar &lt;strong&gt;med säkerhet &lt;/strong&gt;metoder, utrustning och verktyg efter situationens krav. Dessutom tar eleven i arbetet ansvar för materiella värden samt för egen och andras säkerhet ombord.&lt;/p&gt;&lt;p&gt;Eleven samarbetar och kommunicerar &lt;strong&gt;med säkerhet &lt;/strong&gt;med andra för att utföra olika uppgifter. I kommunikationen använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;termer och begrepp som är relevanta för området.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; det arbete som utförs i samband med vakthållning inom däcksavdelningen. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för&lt;strong&gt; &lt;/strong&gt;lagar och andra bestämmelser som styr vakthållning på handelsfartyg. &lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Däckstjänst 2</name>
+    <englishName>Deck service 2</englishName>
+    <description
+    >&lt;p&gt;Kursen Däckstjänst 2 omfattar punkterna 2–6 under rubriken Ämnets syfte, med särskild betoning på punkterna 2–3 och 6. I kursen behandlas fördjupade kunskaper i ämnet. &lt;/p&gt;</description>
+    <code>DACDAC02</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Däckstjänst 2, 300 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DACDAC02&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;p&gt;&lt;i&gt;&lt;i&gt;Undervisningen i kursen ska behandla följande centrala innehåll: &lt;/i&gt;&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Driftsarbete&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt; &lt;li&gt;Procedurer och kommunikation vid förtöjning, ankring och koppling av bogserbåt.&lt;/li&gt; &lt;li&gt;Riggning av fallrep, lyftanordningar, båtsmansstol och ställning.&lt;/li&gt; &lt;li&gt;Knopar, splitsning och tagling.&lt;/li&gt; &lt;li&gt;Fastknopning, hissning och halning av flaggor.&lt;/li&gt; &lt;li&gt;Betydelsen av de mest använda signalflaggorna.&lt;/li&gt; &lt;li&gt;Förtöjnings- och ankringsteori och terminologi. &lt;/li&gt; &lt;/ul&gt;&lt;p&gt; &lt;strong&gt;Underhållsarbete&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt; &lt;li&gt;Planerat underhåll och underhållssystem.&lt;/li&gt; &lt;li&gt;Underhåll av konstruktioner och utrustning.&lt;/li&gt; &lt;li&gt;Underhåll av handverktyg.&lt;/li&gt; &lt;li&gt;Ytbehandlingstekniker och målningsmetoder.&lt;/li&gt; &lt;li&gt;Förvaring och underhåll av förtöjningsgods och tågvirke. &lt;/li&gt; &lt;/ul&gt;&lt;p&gt; &lt;strong&gt;Tekniska konstruktioner och teknisk utrustning&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt; &lt;li&gt;Förtöjningsutrustning.&lt;/li&gt; &lt;li&gt;Förtöjningsgods och tågvirke.&lt;/li&gt; &lt;li&gt;Ankringsutrustning.&lt;/li&gt; &lt;li&gt;Bogseringsarrangemang.&lt;/li&gt; &lt;li&gt;El- och luftdrivna handverktyg. &lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>300</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare drifts- och underhållsarbete inom ett fartygs däcksavdelning. I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar &lt;strong&gt;översiktligt &lt;/strong&gt;sina val. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; valda metoder, utrustning och verktyg. Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta situationer. I arbetet löser eleven &lt;strong&gt;enkla &lt;/strong&gt;problem som uppstår och anpassar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoder, utrustning och verktyg efter situationens krav. Dessutom tar eleven i arbetet ansvar för materiella värden och miljön samt för egen och andras säkerhet ombord.&lt;/p&gt;&lt;p&gt;Eleven samarbetar och kommunicerar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra för att utföra olika uppgifter. I kommunikationen använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; termer och begrepp som är relevanta för området.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; den teknik som används och det arbete som utförs i samband med förtöjning, ankring, bogsering samt underhåll på handelsfartyg.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare drifts- och underhållsarbete inom ett fartygs däcksavdelning. I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar &lt;strong&gt;utförligt &lt;/strong&gt;sina val. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; valda metoder, utrustning och verktyg. Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta &lt;strong&gt;och nya &lt;/strong&gt;situationer. I arbetet löser eleven problem som uppstår och anpassar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoder, utrustning och verktyg efter situationens krav. Dessutom tar eleven i arbetet ansvar för materiella värden och miljön samt för egen och andras säkerhet ombord.&lt;/p&gt;&lt;p&gt;Eleven samarbetar och kommunicerar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra för att utföra olika uppgifter. I kommunikationen använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; termer och begrepp som är relevanta för området.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; den teknik som används och det arbete som utförs i samband med förtöjning, ankring, bogsering samt underhåll på handelsfartyg.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare drifts- och underhållsarbete inom ett fartygs däcksavdelning. I arbetet väljer eleven metoder, utrustning och verktyg som är lämpliga för arbetsuppgiften samt motiverar &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;sina val. Dessutom använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; valda metoder, utrustning och verktyg. Resultatet av elevens arbete är &lt;strong&gt;gott&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven planerar, förbereder och genomför sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner i bekanta &lt;strong&gt;och nya &lt;/strong&gt;situationer. I arbetet löser eleven &lt;strong&gt;komplexa&lt;/strong&gt; problem som uppstår och anpassar &lt;strong&gt;med säkerhet &lt;/strong&gt;metoder, utrustning och verktyg efter situationens krav. Dessutom tar eleven i arbetet ansvar för materiella värden och miljön samt för egen och andras säkerhet ombord.&lt;/p&gt;&lt;p&gt;Eleven samarbetar och kommunicerar &lt;strong&gt;med säkerhet &lt;/strong&gt;med andra för att utföra olika uppgifter. I kommunikationen använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; termer och begrepp som är relevanta för området.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; den teknik som används och det arbete som utförs i samband med förtöjning, ankring, bogsering samt underhåll på handelsfartyg.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Fartygsbefäl</name>
+    <englishName>Bridge command</englishName>
+    <description
+    >&lt;p&gt;Kursen fartygsbefäl omfattar punkterna 1 och 4–7 under rubriken Ämnets syfte, med särskild betoning på punkt 1. &lt;/p&gt;</description>
+    <code>DACFAR0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Fartygsbefäl, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DACFAR0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;p&gt;&lt;i&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bryggtjänst&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt; &lt;li&gt;Navigation.&lt;/li&gt; &lt;li&gt;Elektroniska navigationshjälpmedel.&lt;/li&gt; &lt;li&gt;Meteorologi.&lt;/li&gt; &lt;li&gt;Svenska och internationella sjövägsregler.&lt;/li&gt; &lt;li&gt;Vakthållning på fartygs brygga.&lt;/li&gt; &lt;li&gt;Radar.&lt;/li&gt; &lt;/ul&gt;&lt;p&gt; &lt;strong&gt;Miljö- och fartygsteknik&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt; &lt;li&gt;Fartygsstabilitet.&lt;/li&gt; &lt;li&gt;Fartygsmanövrering.&lt;/li&gt; &lt;li&gt;Skydd av den marina miljön.&lt;/li&gt; &lt;li&gt;Manöver- och maskinsystem.&lt;/li&gt; &lt;li&gt;Lagar och andra bestämmelser.&lt;/li&gt; &lt;/ul&gt;&lt;p&gt; &lt;strong&gt;Säkerhet&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt; &lt;li&gt;Brandskydd.&lt;/li&gt; &lt;li&gt;Hälso- och sjukvård.&lt;/li&gt; &lt;li&gt;Personlig säkerhet.&lt;/li&gt; &lt;li&gt;Passagerarsäkerhet.&lt;/li&gt; &lt;li&gt;Nödåtgärder.&lt;/li&gt; &lt;li&gt;Lagar och andra bestämmelser. &lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare navigatoriska uppgifter och använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; metoder och hjälpmedel som är lämpliga för uppgiften. Eleven planerar och genomför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare en fiktiv resa inomskärs och i kustnära farvatten. I arbetet löser eleven &lt;strong&gt;enkla&lt;/strong&gt; problem som uppstår. Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; miljö- och säkerhetsrisker vid framförandet av fartyg samt de metoder och den utrustning som finns ombord för att undvika sådana risker. Eleven drar &lt;strong&gt;enkla &lt;/strong&gt;slutsatser om sambanden mellan risker och arbetsmetoder.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; termer och begrepp som är relevanta för området.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; navigationsmetoder och sjövägsregler samt den navigationsutrustning som används på fartygs brygga. Dessutom redogör eleven &lt;strong&gt;översiktligt&lt;/strong&gt; för de lagar och andra bestämmelser som gäller inom området.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare navigatoriska uppgifter och använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; metoder och hjälpmedel som är lämpliga för uppgiften. Eleven planerar och genomför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare en fiktiv resa inomskärs och i kustnära farvatten. I arbetet löser eleven problem som uppstår. Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; miljö- och säkerhetsrisker vid framförandet av fartyg samt de metoder och den utrustning som finns ombord för att undvika sådana risker. Eleven drar &lt;strong&gt;välgrundade &lt;/strong&gt;slutsatser om sambanden mellan risker och arbetsmetoder.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; termer och begrepp som är relevanta för området.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; navigationsmetoder och sjövägsregler samt den navigationsutrustning som används på fartygs brygga. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för de lagar och andra bestämmelser som gäller inom området.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare navigatoriska uppgifter och använder &lt;strong&gt;med säkerhet&lt;/strong&gt; metoder och hjälpmedel som är lämpliga för uppgiften. Eleven planerar och genomför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare en fiktiv resa inomskärs och i kustnära farvatten. I arbetet löser eleven &lt;strong&gt;komplexa&lt;/strong&gt; problem som uppstår. Resultatet av elevens arbete är &lt;strong&gt;gott&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; miljö- och säkerhetsrisker vid framförandet av fartyg samt de metoder och den utrustning som finns ombord för att undvika sådana risker. Eleven drar &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;slutsatser om sambanden mellan risker och arbetsmetoder.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med säkerhet&lt;/strong&gt; termer och begrepp som är relevanta för området.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; navigationsmetoder och sjövägsregler samt den navigationsutrustning som används på fartygs brygga. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för de lagar och andra bestämmelser som gäller inom området.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <courses>
+    <name>Radiokommunikation till sjöss</name>
+    <englishName>Radio communication at sea</englishName>
+    <description
+    >&lt;p&gt;Kursen radiokommunikation till sjöss omfattar punkterna 1 och 5–7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>DACRAD0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Radiokommunikation till sjöss, 50 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DACRAD0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;p&gt;&lt;i&gt;&lt;i&gt;Undervisningen i kursen ska behandla följande centrala innehåll&lt;/i&gt;&lt;/i&gt;:&lt;/p&gt;&lt;ul&gt; &lt;li&gt;Globalt marint nöd- och säkerhetssystem (GMDSS).&lt;/li&gt; &lt;li&gt;Radioteknik.&lt;/li&gt; &lt;li&gt;Grundläggande regler och metoder för radiotrafik: avgifter, digital selective calling (DSC), nöd-, il- och varningstrafik, navigational text messages&lt;i&gt; &lt;/i&gt;(NAVTEX), emergency position indicating radio beacon (EPIRB) och search and rescue transponder (SART) samt handburna VHF-stationer.&lt;/li&gt; &lt;li&gt;Strömförsörjning.&lt;/li&gt; &lt;li&gt;Falsklarm i GMDSS.&lt;/li&gt; &lt;li&gt;Sjöräddning.&lt;/li&gt; &lt;li&gt;Satellitkommunikation.&lt;/li&gt; &lt;li&gt;Automatic Identification System (AIS). &lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>50</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare uppgifter i samband med radiokommunikation och använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; radioutrustning. Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven kommunicerar och använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; termer och begrepp som är relevanta för området.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; regler och metoder för radioteknik till sjöss samt den radio- och kommunikationsutrustning som används på fartyg. Dessutom beskriver eleven &lt;strong&gt;översiktligt&lt;/strong&gt; GMDSS-systemet samt sjöräddningens organisation.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare uppgifter i samband med radiokommunikation och använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; radioutrustning. Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven kommunicerar och använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; termer och begrepp som är relevanta för området.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; regler och metoder för radioteknik till sjöss samt den radio- och kommunikationsutrustning som används på fartyg. Dessutom beskriver eleven &lt;strong&gt;utförligt&lt;/strong&gt; GMDSS-systemet samt sjöräddningens organisation.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare uppgifter i samband med radiokommunikation och använder &lt;strong&gt;med säkerhet&lt;/strong&gt; radioutrustning. Resultatet av elevens arbete är &lt;strong&gt;gott&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven kommunicerar och använder &lt;strong&gt;med säkerhet&lt;/strong&gt; termer och begrepp som är relevanta för området.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; regler och metoder för radioteknik till sjöss samt den radio- och kommunikationsutrustning som används på fartyg. Dessutom beskriver eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; GMDSS-systemet samt sjöräddningens organisation.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>4</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

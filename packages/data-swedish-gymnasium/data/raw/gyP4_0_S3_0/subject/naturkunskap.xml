@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Naturkunskap</name>
+  <englishName>Science studies</englishName>
+  <description
+  >&lt;p&gt;Ämnet naturkunskap är till sin karaktär tvärvetenskapligt med en grund i biologi, fysik, geovetenskap och kemi. I ämnet behandlas hälsa, energi och hållbar utveckling, kunskapsområden som har vuxit fram där naturvetenskap möter samhällsvetenskap.&lt;/p&gt;</description>
+  <code>NAK</code>
+  <status>PUBLISHED</status>
+  <version>2</version>
+  <createdDate>2017-11-29T08:37:09+01:00</createdDate>
+  <modifiedDate>2020-02-19T15:59:18+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Naturkunskap&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet naturkunskap ska syfta till att eleverna utvecklar kunskaper i naturvetenskap samt förmåga att kritiskt värdera och ta ställning i frågor som har ett naturvetenskapligt innehåll. Den ska leda till att eleverna utvecklar förståelse av hur naturvetenskapliga kunskaper kan användas i såväl yrkesliv som vardagsnära situationer och för att göra personliga val och ställningstaganden.&lt;/p&gt; &lt;p&gt;Utifrån aktuella frågeställningar och företeelser ska undervisningen ge eleverna möjlighet att, såväl med som utan digitala verktyg, använda naturvetenskapliga kunskaper och arbetsmetoder. Det betyder att samtidigt som undervisningen ska behandla olika innehåll som till exempel miljö- och klimatfrågor, jordens resursfördelning, kretslopp, hälsa eller genmodifiering ska den också påvisa hur dessa frågor kan hanteras utifrån ett naturvetenskapligt förhållningssätt. Genom att få diskutera och utforska frågor med samhällsanknytning ska eleverna ges möjlighet att befästa, fördjupa och utveckla naturvetenskapliga kunskaper för att kunna möta, förstå och påverka sin samtid. Undervisningen ska ge eleven möjlighet att använda digitala och andra verktyg samt göra simuleringar för att söka och uppnå kunskaper i naturvetenskap.&lt;/p&gt; &lt;h4&gt;Undervisningen i ämnet naturkunskap ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt; &lt;ol&gt; &lt;li&gt;Förmåga att använda kunskaper om naturvetenskap för att diskutera, göra ställningstaganden och formulera olika handlingsalternativ.&lt;/li&gt; &lt;li&gt;Kunskaper om naturvetenskapens roll i aktuella samhällsfrågor och i förhållande till hållbar utveckling.&lt;/li&gt; &lt;li&gt;Kunskaper om olika livsstilars konsekvenser såväl för den egna hälsan som för folkhälsan och miljön.&lt;/li&gt; &lt;li&gt;Kunskaper om människokroppens uppbyggnad och funktion samt dess växelverkan med omgivningen.&lt;/li&gt; &lt;li&gt;Kunskaper om hur naturvetenskap organiseras samt hur den kan granskas kritiskt och användas för kritisk granskning.&lt;/li&gt; &lt;li&gt;Kunskaper om de naturvetenskapliga teoriernas betydelse för samhällens framväxt och för människans världsbild.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Naturkunskap 1a1, 50 poäng, som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen naturkunskap 1b.&lt;/li&gt; &lt;li&gt;Naturkunskap 1a2, 50 poäng, som bygger på naturkunskap 1a1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen naturkunskap 1b.&lt;/li&gt; &lt;li&gt;Naturkunskap 1b, 100 poäng, som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen naturkunskap 1a1 eller kursen naturkunskap 1a2.&lt;/li&gt; &lt;li&gt;Naturkunskap 2, 100 poäng, som bygger på kursen naturkunskap 1a2 eller kursen naturkunskap 1b.&lt;/li&gt;&lt;/ul&gt;</purpose>
+  <skolfsId>2010:261</skolfsId>
+  <applianceDate>2017-07-01T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Naturkunskap 1a1</name>
+    <englishName>Science studies 1a1</englishName>
+    <description
+    >&lt;p&gt;Kursen naturkunskap 1a1 omfattar punkterna 1–6 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>NAKNAK01a1</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Naturkunskap 1a1, 50 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: NAKNAK01a1&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll: &lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Frågor om hållbar utveckling: energi, klimat och ekosystempåverkan. Ekosystemtjänster, resursutnyttjande och ekosystemens bärkraft.&lt;/li&gt; &lt;li&gt;Olika aspekter på hållbar utveckling, till exempel vad gäller konsumtion, resursfördelning, mänskliga rättigheter och jämställdhet.&lt;/li&gt; &lt;li&gt;Naturvetenskapliga aspekter på, reflektion över och diskussion om normer, rörande människans sexualitet, lust, relationer och sexuella hälsa.&lt;/li&gt; &lt;li&gt;Naturvetenskapliga arbetsmetoder, till exempel observationer, klassificering, mätningar, simuleringar och experiment samt etiska förhållningssätt kopplade till det naturvetenskapliga utforskandet.&lt;/li&gt; &lt;li&gt;Naturvetenskapligt förhållningssätt, hur man ställer frågor som går att undersöka naturvetenskapligt och hur man går till väga för att ställa företeelser i omvärlden under prövning.&lt;/li&gt; &lt;li&gt;Hur naturvetenskap kan granskas kritiskt samt hur ett naturvetenskapligt förhållningssätt kan användas för att kritiskt pröva ovetenskapligt grundade påståenden.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>50</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;översiktligt &lt;/strong&gt;diskutera frågor med naturvetenskapligt innehåll som har betydelse för individ och samhälle. I diskussionen använder eleven kunskaper om naturvetenskap för att ställa &lt;strong&gt;enkla&lt;/strong&gt; frågor samt för att ge &lt;strong&gt;enkla&lt;/strong&gt; förklaringar och argument. Dessutom kan eleven ge några exempel på tänkbara ställningstaganden eller handlingsalternativ samt ger &lt;strong&gt;enkla&lt;/strong&gt; argument för dessa.&lt;/p&gt; &lt;p&gt;Eleven kan redogöra &lt;strong&gt;översiktligt&lt;/strong&gt;, utifrån relevanta kunskaper om sexualitet och relationer, för hur människokroppen är uppbyggd och fungerar i växelverkan med omgivningen. I samband med redogörelsen kan eleven &lt;strong&gt;översiktligt&lt;/strong&gt; diskutera konsekvenser såväl för individens sexuella hälsa som för folkhälsan.&lt;/p&gt; &lt;p&gt;Eleven kan ge några utförliga exempel på hur naturvetenskap kan kopplas till hållbar utveckling. Utifrån exemplen drar eleven &lt;strong&gt;enkla&lt;/strong&gt; slutsatser och föreslår några handlingsalternativ samt ger &lt;strong&gt;enkla&lt;/strong&gt; argument för dessa.&lt;/p&gt; &lt;p&gt;Eleven kan översiktligt beskriva hur naturvetenskap organiseras och kan användas för kritisk granskning. Vidare föreslår och utför eleven en enkel naturvetenskaplig undersökning och redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för den. Dessutom kan eleven ge enkla exempel på hur teorier kan prövas genom kritisk granskning, samt diskuterar &lt;strong&gt;översiktligt &lt;/strong&gt;utifrån &lt;strong&gt;något&lt;/strong&gt; exempel på vilket sätt en naturvetenskaplig teori har haft betydelse för samhällets framväxt.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;utförligt &lt;/strong&gt;diskutera frågor med naturvetenskapligt innehåll som har betydelse för individ och samhälle. I diskussionen använder eleven kunskaper om naturvetenskap för att ställa &lt;strong&gt;utforskande&lt;/strong&gt; frågor samt för att ge förklaringar och argument. Dessutom kan eleven ge några exempel på tänkbara ställningstaganden eller handlingsalternativ samt ger &lt;strong&gt;välgrundade&lt;/strong&gt; argument för dessa.&lt;/p&gt; &lt;p&gt;Eleven kan redogöra &lt;strong&gt;utförligt&lt;/strong&gt;, utifrån relevanta kunskaper om sexualitet och relationer, för hur människokroppen är uppbyggd och fungerar i växelverkan med omgivningen. I samband med redogörelsen kan eleven &lt;strong&gt;utförligt &lt;/strong&gt;diskutera konsekvenser såväl för individens sexuella hälsa som för folkhälsan &lt;strong&gt;och underbygga diskussionen med välgrundade argument&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Eleven kan några ge utförliga exempel på hur naturvetenskap kan kopplas till hållbar utveckling. Utifrån exemplen drar eleven &lt;strong&gt;välgrundade &lt;/strong&gt;slutsatser och föreslår några handlingsalternativ samt ger &lt;strong&gt;välgrundade&lt;/strong&gt; argument för dessa.&lt;/p&gt; &lt;p&gt;Eleven kan översiktligt beskriva hur naturvetenskap organiseras och kan användas för kritisk granskning. Vidare föreslår och utför eleven en enkel naturvetenskaplig undersökning och redogör &lt;strong&gt;utförligt&lt;/strong&gt; för den. Dessutom kan eleven ge enkla exempel på hur teorier kan prövas genom kritisk granskning, samt diskuterar &lt;strong&gt;utförligt &lt;/strong&gt;utifrån &lt;strong&gt;några &lt;/strong&gt;exempel på vilket sätt naturvetenskapliga teorier har haft betydelse för samhällets framväxt.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;diskutera frågor med naturvetenskapligt innehåll som har betydelse för individ och samhälle. I diskussionen använder eleven kunskaper om naturvetenskap för att ställa &lt;strong&gt;utforskande&lt;/strong&gt; frågor samt för att ge &lt;strong&gt;komplexa&lt;/strong&gt; förklaringar och argument. Dessutom kan eleven ge några exempel på tänkbara ställningstaganden eller handlingsalternativ samt ger &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; argument för dessa.&lt;/p&gt; &lt;p&gt;Eleven kan redogöra &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt;, utifrån relevanta kunskaper om sexualitet och relationer, för hur människokroppen är uppbyggd och fungerar i växelverkan med omgivningen. I samband med redogörelsen kan eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;diskutera konsekvenser såväl för individens sexuella hälsa som för folkhälsan &lt;strong&gt;och underbygga diskussionen med välgrundade och nyanserade argument&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Eleven kan några ge utförliga exempel på hur naturvetenskap kan kopplas till hållbar utveckling. Utifrån exemplen drar eleven &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;slutsatser och föreslår några handlingsalternativ samt ger &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; argument för dessa.&lt;/p&gt; &lt;p&gt;Eleven kan översiktligt beskriva hur naturvetenskap organiseras och kan användas för kritisk granskning. Vidare föreslår och utför eleven en enkel naturvetenskaplig undersökning och redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för den. Dessutom kan eleven ge enkla exempel på hur teorier kan prövas genom kritisk granskning, samt diskuterar &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;utifrån &lt;strong&gt;några &lt;/strong&gt;exempel på vilket sätt naturvetenskapliga teorier har haft betydelse för samhällets framväxt.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Naturkunskap 1a2</name>
+    <englishName>Science studies 1a2</englishName>
+    <description
+    >&lt;p&gt;Kursen naturkunskap 1a2 omfattar punkterna 1–6 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>NAKNAK01a2</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Naturkunskap 1a2, 50 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: NAKNAK01a2&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Samband mellan individens hälsa, dagliga vanor och livsstilar i samhället, till exempel i fråga om träning, kost, droger och konsumtion samt påverkan på miljön. Hur naturvetenskap kan användas som utgångspunkt vid kritisk granskning av budskap och normer i medierna.&lt;/li&gt; &lt;li&gt;Evolutionära aspekter och etiska perspektiv på bioteknikens möjligheter och konsekvenser för mänsklighetens utveckling och för biologisk mångfald. Cellen och livets minsta delar som utgångspunkt för diskussioner om till exempel genteknik och andra aktuella forskningsområden.&lt;/li&gt; &lt;li&gt;Naturvetenskapliga arbetsmetoder, till exempel observationer, klassificering, mätningar, simuleringar och experiment samt etiska förhållningssätt kopplade till det naturvetenskapliga utforskandet.&lt;/li&gt; &lt;li&gt;Naturvetenskapligt förhållningssätt, hur man ställer frågor som går att undersöka naturvetenskapligt och hur man går till väga för att ställa företeelser i omvärlden under prövning.&lt;/li&gt; &lt;li&gt;Hur naturvetenskap kan granskas kritiskt samt hur ett naturvetenskapligt förhållningssätt kan användas för att kritiskt pröva ovetenskapligt grundade påståenden.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>50</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;översiktligt &lt;/strong&gt;diskutera frågor med naturvetenskapligt innehåll som har betydelse för individ och samhälle. I diskussionen använder eleven kunskaper om naturvetenskap för att ställa &lt;strong&gt;enkla&lt;/strong&gt; frågor samt för att ge &lt;strong&gt;enkla&lt;/strong&gt; förklaringar och argument. Dessutom kan eleven ge några exempel på tänkbara ställningstaganden eller handlingsalternativ samt ger &lt;strong&gt;enkla&lt;/strong&gt; argument för dessa.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;översiktligt &lt;/strong&gt;redogöra för hur människokroppen är uppbyggd och fungerar i växelverkan med omgivningen samt hur kroppen påverkas av livsstilen. I samband med redogörelsen kan eleven &lt;strong&gt;översiktligt&lt;/strong&gt; diskutera konsekvenser av olika livsstilar såväl för individens hälsa som för folkhälsan och miljön samt underbygger diskussionen med &lt;strong&gt;enkla&lt;/strong&gt; argument.&lt;/p&gt; &lt;p&gt;Eleven kan några ge utförliga exempel på hur naturvetenskap kan kopplas till hållbar utveckling. Utifrån exemplen drar eleven &lt;strong&gt;enkla&lt;/strong&gt; slutsatser och föreslår några handlingsalternativ samt ger &lt;strong&gt;enkla&lt;/strong&gt; argument för dessa.&lt;/p&gt; &lt;p&gt;Eleven kan översiktligt beskriva hur naturvetenskap organiseras och kan användas för kritisk granskning. Vidare föreslår och utför eleven en enkel naturvetenskaplig undersökning och redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för den. Dessutom kan eleven ge enkla exempel på hur teorier kan prövas genom kritisk granskning, samt diskuterar &lt;strong&gt;översiktligt &lt;/strong&gt;utifrån &lt;strong&gt;något&lt;/strong&gt; exempel på vilket sätt en naturvetenskaplig teori har haft betydelse för samhällets framväxt.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;utförligt &lt;/strong&gt;diskutera frågor med naturvetenskapligt innehåll som har betydelse för individ och samhälle. I diskussionen använder eleven kunskaper om naturvetenskap för att ställa &lt;strong&gt;utforskande&lt;/strong&gt; frågor samt för att ge förklaringar och argument. Dessutom kan eleven ge några exempel på tänkbara ställningstaganden eller handlingsalternativ samt ger &lt;strong&gt;välgrundade&lt;/strong&gt; argument för dessa.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;utförligt &lt;/strong&gt;redogöra för hur människokroppen är uppbyggd och fungerar i växelverkan med omgivningen samt hur kroppen påverkas av livsstilen. I samband med redogörelsen kan eleven &lt;strong&gt;utförligt &lt;/strong&gt;diskutera konsekvenser av olika livsstilar såväl för individens hälsa som för folkhälsan och miljön samt underbygger diskussionen med &lt;strong&gt;välgrundade&lt;/strong&gt; argument.&lt;/p&gt; &lt;p&gt;Eleven kan några ge utförliga exempel på hur naturvetenskap kan kopplas till hållbar utveckling. Utifrån exemplen drar eleven &lt;strong&gt;välgrundade &lt;/strong&gt;slutsatser och föreslår några handlingsalternativ samt ger &lt;strong&gt;välgrundade&lt;/strong&gt; argument för dessa.&lt;/p&gt; &lt;p&gt;Eleven kan översiktligt beskriva hur naturvetenskap organiseras och kan användas för kritisk granskning. Vidare föreslår och utför eleven en enkel naturvetenskaplig undersökning och redogör &lt;strong&gt;utförligt&lt;/strong&gt; för den. Dessutom kan eleven ge enkla exempel på hur teorier kan prövas genom kritisk granskning, samt diskuterar &lt;strong&gt;utförligt &lt;/strong&gt;utifrån &lt;strong&gt;några &lt;/strong&gt;exempel på vilket sätt naturvetenskapliga teorier har haft betydelse för samhällets framväxt.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;diskutera frågor med naturvetenskapligt innehåll som har betydelse för individ och samhälle. I diskussionen använder eleven kunskaper om naturvetenskap för att ställa &lt;strong&gt;utforskande&lt;/strong&gt; frågor samt för att ge &lt;strong&gt;komplexa&lt;/strong&gt; förklaringar och argument. Dessutom kan eleven ge några exempel på tänkbara ställningstaganden eller handlingsalternativ samt ger &lt;strong&gt;välgrundade&lt;/strong&gt; &lt;strong&gt;och nyanserade&lt;/strong&gt; argument för dessa.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; redogöra för hur människokroppen är uppbyggd och fungerar i växelverkan med omgivningen samt hur kroppen påverkas av livsstilen. I samband med redogörelsen kan eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; diskutera konsekvenser av olika livsstilar såväl för individens hälsa som för folkhälsan och miljön samt underbygger diskussionen med &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; argument.&lt;/p&gt; &lt;p&gt;Eleven kan ge några utförliga exempel på hur naturvetenskap kan kopplas till hållbar utveckling. Utifrån exemplen drar eleven &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;slutsatser och föreslår några handlingsalternativ samt ger &lt;strong&gt;välgrundade&lt;/strong&gt; &lt;strong&gt;och nyanserade&lt;/strong&gt; argument för dessa.&lt;/p&gt; &lt;p&gt;Eleven kan översiktligt beskriva hur naturvetenskap organiseras och kan användas för kritisk granskning. Vidare föreslår och utför eleven en enkel naturvetenskaplig undersökning och redogör &lt;strong&gt;utförligt&lt;/strong&gt; &lt;strong&gt;och nyanserat&lt;/strong&gt; för den. Dessutom kan eleven ge enkla exempel på hur teorier kan prövas genom kritisk granskning, samt diskuterar &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;utifrån &lt;strong&gt;några &lt;/strong&gt;exempel på vilket sätt naturvetenskapliga teorier har haft betydelse för samhällets framväxt.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Naturkunskap 1b</name>
+    <englishName>Science studies 1b</englishName>
+    <description
+    >&lt;p&gt;Kursen naturkunskap 1b omfattar punkterna 1–6 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>NAKNAK01b</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Naturkunskap 1b, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: NAKNAK01b&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll: &lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Frågor om hållbar utveckling: energi, klimat och ekosystempåverkan. Ekosystemtjänster, resursutnyttjande och ekosystemens bärkraft.&lt;/li&gt; &lt;li&gt;Olika aspekter på hållbar utveckling, till exempel vad gäller konsumtion, resursfördelning, mänskliga rättigheter och jämställdhet.&lt;/li&gt; &lt;li&gt;Samband mellan individens hälsa, dagliga vanor och livsstilar i samhället, till exempel i fråga om träning, kost, droger, konsumtion och påverkan på miljön. Hur naturvetenskap kan användas som utgångspunkt vid kritisk granskning av budskap och normer i medierna.&lt;/li&gt; &lt;li&gt;Naturvetenskapliga aspekter på, reflektion över och diskussion om normer, rörande människans sexualitet, lust, relationer och sexuella hälsa.&lt;/li&gt; &lt;li&gt;Evolutionära aspekter och etiska perspektiv på bioteknikens möjligheter och konsekvenser för mänsklighetens utveckling och för biologisk mångfald. Cellen och livets minsta delar som utgångspunkt för diskussioner om till exempel genteknik och andra aktuella forskningsområden.&lt;/li&gt; &lt;li&gt;Naturvetenskapliga arbetsmetoder, till exempel observationer, klassificering, mätningar, simuleringar och experiment samt etiska förhållningssätt kopplade till det naturvetenskapliga utforskandet.&lt;/li&gt; &lt;li&gt;Naturvetenskapligt förhållningssätt, hur man ställer frågor som går att undersöka naturvetenskapligt och hur man går till väga för att ställa företeelser i omvärlden under prövning.&lt;/li&gt; &lt;li&gt;Hur naturvetenskap kan granskas kritiskt samt hur ett naturvetenskapligt förhållningssätt kan användas för att kritiskt pröva ovetenskapligt grundade påståenden. &lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;översiktligt &lt;/strong&gt;diskutera frågor med naturvetenskapligt innehåll som har betydelse för individ och samhälle. I diskussionen använder eleven kunskaper om naturvetenskap för att ställa &lt;strong&gt;enkla&lt;/strong&gt; frågor samt för att ge &lt;strong&gt;enkla&lt;/strong&gt; förklaringar och argument. Dessutom kan eleven ge några exempel på tänkbara ställningstaganden eller handlingsalternativ samt ger &lt;strong&gt;enkla&lt;/strong&gt; argument för dessa.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;översiktligt &lt;/strong&gt;redogöra för hur människokroppen är uppbyggd och fungerar i växelverkan med omgivningen samt hur kroppen påverkas av livsstilen. I samband med redogörelsen kan eleven &lt;strong&gt;översiktligt&lt;/strong&gt; diskutera konsekvenser av olika livsstilar såväl för individens hälsa som för folkhälsan och miljön samt underbygger diskussionen med &lt;strong&gt;enkla&lt;/strong&gt; argument.&lt;/p&gt; &lt;p&gt;Eleven kan ge några utförliga exempel på hur naturvetenskap kan kopplas till hållbar utveckling. Utifrån exemplen drar eleven &lt;strong&gt;enkla&lt;/strong&gt; slutsatser och föreslår några handlingsalternativ samt ger &lt;strong&gt;enkla&lt;/strong&gt; argument för dessa.&lt;/p&gt; &lt;p&gt;Eleven kan översiktligt beskriva hur naturvetenskap organiseras och kan användas för kritisk granskning. Vidare föreslår och utför eleven en enkel naturvetenskaplig undersökning och redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för den. Dessutom kan eleven ge enkla exempel på hur teorier kan prövas genom kritisk granskning, samt diskuterar &lt;strong&gt;översiktligt &lt;/strong&gt;utifrån &lt;strong&gt;något&lt;/strong&gt; exempel på vilket sätt en naturvetenskaplig teori har haft betydelse för samhällets framväxt.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;utförligt &lt;/strong&gt;diskutera frågor med naturvetenskapligt innehåll som har betydelse för individ och samhälle. I diskussionen använder eleven kunskaper om naturvetenskap för att ställa &lt;strong&gt;utforskande&lt;/strong&gt; frågor samt för att ge förklaringar och argument. Dessutom kan eleven ge några exempel på tänkbara ställningstaganden eller handlingsalternativ samt ger &lt;strong&gt;välgrundade&lt;/strong&gt; argument för dessa.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;utförligt &lt;/strong&gt;redogöra för hur människokroppen är uppbyggd och fungerar i växelverkan med omgivningen samt hur kroppen påverkas av livsstilen. I samband med redogörelsen kan eleven &lt;strong&gt;utförligt &lt;/strong&gt;diskutera konsekvenser av olika livsstilar såväl för individens hälsa som för folkhälsan och miljön samt underbygger diskussionen med &lt;strong&gt;välgrundade&lt;/strong&gt; argument.&lt;/p&gt; &lt;p&gt;Eleven kan ge några utförliga exempel på hur naturvetenskap kan kopplas till hållbar utveckling. Utifrån exemplen drar eleven &lt;strong&gt;välgrundade &lt;/strong&gt;slutsatser och föreslår några handlingsalternativ samt ger &lt;strong&gt;välgrundade&lt;/strong&gt; argument för dessa.&lt;/p&gt; &lt;p&gt;Eleven kan översiktligt beskriva hur naturvetenskap organiseras och kan användas för kritisk granskning. Vidare föreslår och utför eleven en enkel naturvetenskaplig undersökning och redogör &lt;strong&gt;utförligt&lt;/strong&gt; för den. Dessutom kan eleven ge enkla exempel på hur teorier kan prövas genom kritisk granskning, samt diskuterar &lt;strong&gt;utförligt &lt;/strong&gt;utifrån &lt;strong&gt;några &lt;/strong&gt;exempel på vilket sätt naturvetenskapliga teorier har haft betydelse för samhällets framväxt.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;diskutera frågor med naturvetenskapligt innehåll som har betydelse för individ och samhälle. I diskussionen använder eleven kunskaper om naturvetenskap för att ställa &lt;strong&gt;utforskande&lt;/strong&gt; frågor samt för att ge &lt;strong&gt;komplexa&lt;/strong&gt; förklaringar och argument. Dessutom kan eleven ge några exempel på tänkbara ställningstaganden eller handlingsalternativ samt ger &lt;strong&gt;välgrundade&lt;/strong&gt; &lt;strong&gt;och nyanserade&lt;/strong&gt; argument för dessa.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; redogöra för hur människokroppen är uppbyggd och fungerar i växelverkan med omgivningen samt hur kroppen påverkas av livsstilen. I samband med redogörelsen kan eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; diskutera konsekvenser av olika livsstilar såväl för individens hälsa som för folkhälsan och miljön samt underbygger diskussionen med &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; argument.&lt;/p&gt; &lt;p&gt;Eleven kan ge några utförliga exempel på hur naturvetenskap kan kopplas till hållbar utveckling. Utifrån exemplen drar eleven &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;slutsatser och föreslår några handlingsalternativ samt ger &lt;strong&gt;välgrundade&lt;/strong&gt; &lt;strong&gt;och nyanserade&lt;/strong&gt; argument för dessa.&lt;/p&gt; &lt;p&gt;Eleven kan översiktligt beskriva hur naturvetenskap organiseras och kan användas för kritisk granskning. Vidare föreslår och utför eleven en enkel naturvetenskaplig undersökning och redogör &lt;strong&gt;utförligt&lt;/strong&gt; &lt;strong&gt;och nyanserat&lt;/strong&gt; för den. Dessutom kan eleven ge enkla exempel på hur teorier kan prövas genom kritisk granskning, samt diskuterar &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;utifrån &lt;strong&gt;några &lt;/strong&gt;exempel på vilket sätt naturvetenskapliga teorier har haft betydelse för samhällets framväxt.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <courses>
+    <name>Naturkunskap 2</name>
+    <englishName>Science studies 2</englishName>
+    <description
+    >&lt;p&gt;Kursen naturkunskap 2 omfattar punkterna 1–6 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>NAKNAK02</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Naturkunskap 2, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: NAKNAK02&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Universums utveckling som förklaring till materians uppkomst och jordens sammansättning.&lt;/li&gt; &lt;li&gt;Materians uppbyggnad, ämnens egenskaper, växelverkan, kretslopp och oförstörbarhet. Samband och skillnader mellan energi och materia.&lt;/li&gt; &lt;li&gt;Evolutionens mekanismer och organismers utveckling. Hur livets villkor och ekologi kan studeras på olika nivåer.&lt;/li&gt; &lt;li&gt;Människokroppens organ och organsystem, deras uppbyggnad, funktion, evolutionära utveckling och växelverkan med omgivningen.&lt;/li&gt; &lt;li&gt;Organiska och oorganiska ämnen i vardag och samhälle. Industriella processer, teknikutveckling och miljöperspektiv som rör framställning av moderna material, livsmedel och andra produkter.&lt;/li&gt; &lt;li&gt;Naturvetenskapliga arbetsmetoder, till exempel observationer, klassificering, mätningar, simuleringar och experiment samt etiska förhållningssätt och estetiska upplevelser kopplade till det naturvetenskapliga utforskandet.&lt;/li&gt; &lt;li&gt;Naturvetenskapligt förhållningssätt, hur man ställer frågor som går att pröva naturvetenskapligt och hur man går till väga för att ställa företeelser i omvärlden under prövning.&lt;/li&gt; &lt;li&gt;Hur naturvetenskap kan granskas kritiskt samt hur ett naturvetenskapligt förhållningssätt kan användas för att kritiskt pröva ovetenskapligt grundade påståenden.&lt;/li&gt; &lt;li&gt;Naturvetenskapens betydelse för mänsklighetens kultur och världsbild. Upptäckter och framsteg inom till exempel medicin, energi och materialutveckling ur historiska, nutida och framtida perspektiv. &lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;översiktligt &lt;/strong&gt;diskutera frågor med naturvetenskapligt innehåll som har betydelse för individ och samhälle. I diskussionen använder eleven kunskaper om naturvetenskap för att ställa utforskande frågor samt för att ge &lt;strong&gt;enkla&lt;/strong&gt; förklaringar och argument. Dessutom kan eleven ge några exempel på tänkbara ställningstaganden eller handlingsalternativ samt ger &lt;strong&gt;enkla&lt;/strong&gt; argument för dessa.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;översiktligt &lt;/strong&gt;redogöra för hur människokroppen är uppbyggd och fungerar i växelverkan med omgivningen samt hur kroppen påverkas av livsstilen och miljön. I samband med redogörelsen kan eleven &lt;strong&gt;översiktligt&lt;/strong&gt; diskutera konsekvenser av olika livsstilar och miljöpåverkan såväl för individens hälsa som för folkhälsan samt underbygger diskussionen med &lt;strong&gt;enkla&lt;/strong&gt; argument.&lt;/p&gt; &lt;p&gt;Eleven kan ge några utförliga exempel, från flera olika områden, på hur naturvetenskap kan kopplas till hållbar utveckling. Utifrån exemplen drar eleven &lt;strong&gt;enkla&lt;/strong&gt; slutsatser och föreslår några handlingsalternativ samt ger &lt;strong&gt;enkla&lt;/strong&gt; argument för dessa.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;översiktligt&lt;/strong&gt; beskriva, inom flera olika områden, hur naturvetenskap organiseras och kan användas för kritisk granskning. Vidare utför eleven en enkel naturvetenskaplig undersökning samt redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för den och värderar den med &lt;strong&gt;enkla&lt;/strong&gt; omdömen. Dessutom kan eleven ge&lt;strong&gt; enkla &lt;/strong&gt;exempel på hur teorier kan prövas genom kritisk granskning, samt diskuterar &lt;strong&gt;översiktligt &lt;/strong&gt;utifrån &lt;strong&gt;något&lt;/strong&gt; exempel på vilket sätt en naturvetenskaplig teori har haft betydelse för samhällets framväxt och för människans världsbild.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;utförligt &lt;/strong&gt;diskutera frågor med naturvetenskapligt innehåll som har betydelse för individ och samhälle. I diskussionen använder eleven kunskaper om naturvetenskap för att ställa utforskande frågor samt för att ge förklaringar och argument. Dessutom kan eleven ge några exempel på tänkbara ställningstaganden eller handlingsalternativ samt ger &lt;strong&gt;välgrundade&lt;/strong&gt; argument för dessa.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;utförligt &lt;/strong&gt;redogöra för hur människokroppen är uppbyggd och fungerar i växelverkan med omgivningen samt hur kroppen påverkas av livsstilen och miljön. I samband med redogörelsen kan eleven &lt;strong&gt;utförligt &lt;/strong&gt;diskutera konsekvenser av olika livsstilar och miljöpåverkan såväl för individens hälsa som för folkhälsan samt underbygger diskussionen med &lt;strong&gt;välgrundade&lt;/strong&gt; argument.&lt;/p&gt; &lt;p&gt;Eleven kan ge några utförliga exempel, från flera olika områden, på hur naturvetenskap kan kopplas till hållbar utveckling. Utifrån exemplen drar eleven &lt;strong&gt;välgrundade &lt;/strong&gt;slutsatser och föreslår några handlingsalternativ samt ger &lt;strong&gt;välgrundade &lt;/strong&gt;argument för dessa.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;utförligt&lt;/strong&gt; beskriva, inom flera olika områden, hur naturvetenskap organiseras och kan användas för kritisk granskning. Vidare utför eleven en enkel naturvetenskaplig undersökning samt redogör &lt;strong&gt;utförligt&lt;/strong&gt; för den och värderar den med &lt;strong&gt;nyanserade&lt;/strong&gt; omdömen. Dessutom kan eleven ge exempel på hur teorier kan prövas genom kritisk granskning, samt diskuterar &lt;strong&gt;utförligt &lt;/strong&gt;utifrån &lt;strong&gt;några &lt;/strong&gt;exempel på vilket sätt naturvetenskapliga teorier har haft betydelse för samhällets framväxt och för människans världsbild.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;diskutera frågor med naturvetenskapligt innehåll som har betydelse för individ och samhälle. I diskussionen använder eleven kunskaper om naturvetenskap för att ställa utforskande frågor samt för att ge &lt;strong&gt;komplexa&lt;/strong&gt; förklaringar och argument. Dessutom kan eleven ge några exempel på tänkbara ställningstaganden eller handlingsalternativ samt ger &lt;strong&gt;välgrundade&lt;/strong&gt; &lt;strong&gt;och nyanserade&lt;/strong&gt; argument för dessa.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; redogöra för hur människokroppen är uppbyggd och fungerar i växelverkan med omgivningen samt hur kroppen påverkas av livsstilen och miljön. I samband med redogörelsen kan eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; diskutera konsekvenser av olika livsstilar och miljöpåverkan såväl för individens hälsa som för folkhälsan samt underbygger diskussionen med &lt;strong&gt;välgrundade&lt;/strong&gt; &lt;strong&gt;och nyanserade&lt;/strong&gt; argument.&lt;/p&gt; &lt;p&gt;Eleven kan ge några utförliga exempel, från flera olika områden, på hur naturvetenskap kan kopplas till hållbar utveckling. Utifrån exemplen drar eleven &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;slutsatser och föreslår några handlingsalternativ samt ger &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; argument för dessa.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; beskriva, inom flera olika områden, hur naturvetenskap organiseras och kan användas för kritisk granskning. Vidare utför eleven en enkel naturvetenskaplig undersökning samt redogör &lt;strong&gt;utförligt&lt;/strong&gt; &lt;strong&gt;och nyanserat&lt;/strong&gt; för den, värderar den med &lt;strong&gt;nyanserade&lt;/strong&gt; omdömen &lt;strong&gt;och ger förslag på hur den kan förbättras&lt;/strong&gt;. Dessutom kan eleven ge&lt;strong&gt; komplexa&lt;/strong&gt; exempel på hur teorier kan prövas genom kritisk granskning, samt diskuterar &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;utifrån &lt;strong&gt;några &lt;/strong&gt;exempel på vilket sätt naturvetenskapliga teorier har haft betydelse för samhällets framväxt och för människans världsbild.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>4</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

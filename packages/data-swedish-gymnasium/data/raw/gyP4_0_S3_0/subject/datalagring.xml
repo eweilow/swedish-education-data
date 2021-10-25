@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Datalagring</name>
+  <englishName>Data storage</englishName>
+  <description
+  >&lt;p&gt;Ämnet datalagring behandlar hur lösningar för datalagring designas och hur det är möjligt att effektivt komma åt lagrad data från mjukvaruapplikationer. Ämnet datalagring får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.&lt;/p&gt;</description>
+  <code>DAA</code>
+  <status>PUBLISHED</status>
+  <version>3</version>
+  <createdDate>2017-07-07T10:02:10+02:00</createdDate>
+  <modifiedDate>2020-02-19T15:50:13+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Datalagring&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet datalagring ska syfta till att eleverna utvecklar kunskaper om olika former av datalagring, främst med databashanterare av olika slag. Genom undervisningen ska eleverna ges möjlighet att utveckla förståelse av olika datamodeller och förmåga att använda dem för att implementera datalagring.&lt;/p&gt;&lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om flera aspekter av datalagring, främst funktionalitet, prestanda, skalbarhet och säkerhet. Undervisningen ska också leda till att eleverna utvecklar förmåga att hantera lagrad data ansvarsfullt, säkert och med hänsyn till lagstiftning och personlig integritet.&lt;/p&gt;&lt;p&gt;Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om begrepp inom området samt förmåga att kommunicera om datalagring.&lt;/p&gt;&lt;p&gt;Eleverna ska ges möjlighet att utveckla förmåga att skapa system för lagring och åtkomst av data. Undervisningen ska leda till att eleverna utvecklar förmåga att skapa ändamålsenliga datalagringslösningar genom att genomföra utvecklingsprojekt.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet datalagring ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om olika datamodeller, datalagringslösningar och databastyper samt om deras användningsområden och om vanligt förekommande produkter inom området.&lt;/li&gt; &lt;li&gt;Kunskaper om begreppsbildning och terminologi inom området.&lt;/li&gt; &lt;li&gt;Kunskaper om datalagring i datafiler.&lt;/li&gt; &lt;li&gt;Kunskaper om relationsdatabaser och andra typer av databaser.&lt;/li&gt; &lt;li&gt;Förmåga att skapa datamodeller och en fungerande struktur för datalagring.&lt;/li&gt; &lt;li&gt;Förmåga att skapa, använda, felsöka och optimera datalagring samt att använda olika verktyg för detta.&lt;/li&gt; &lt;li&gt;Förmåga att använda ramverk, gränssnitt och frågespråk för att komma åt lagrad data.&lt;/li&gt; &lt;li&gt;Kunskaper om säkerhet samt lagar och andra bestämmelser inom området.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Datalagring, 100 poäng.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2015:12</skolfsId>
+  <applianceDate>2017-06-21T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Datalagring</name>
+    <englishName>Data storage</englishName>
+    <description
+    >&lt;p&gt;Kursen datalagring omfattar punkterna 1–8 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>DAADAT3</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Datalagring, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DAADAT3&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Terminologi och grundläggande teori om datalagring.&lt;/li&gt; &lt;li&gt;Grundläggande teoribildning för datamodeller.&lt;/li&gt; &lt;li&gt;Datalagring i strukturerade filer i olika format.&lt;/li&gt; &lt;li&gt;Datalagring i relationsdatabas samt i någon ytterligare typ av databas.&lt;/li&gt; &lt;li&gt;Prestandaoptimering och skalbarhet.&lt;/li&gt; &lt;li&gt;Dataintegritet, feltolerans och säkerhet.&lt;/li&gt; &lt;li&gt;Verktyg för administration och utveckling.&lt;/li&gt; &lt;li&gt;Frågespråk och verktyg för manipulering av lagrad data.&lt;/li&gt; &lt;li&gt;Åtkomst av data för att skapa, läsa, ändra eller radera data samt för att skapa och redigera schema.&lt;/li&gt; &lt;li&gt;Programvarugränssnitt för åtkomst till lagrad data.&lt;/li&gt; &lt;li&gt;Auktorisering av dataåtkomst, säker lagring och handhavande av känsliga uppgifter.&lt;/li&gt; &lt;li&gt;Datasäkerhet och backup.&lt;/li&gt; &lt;li&gt;Lagstiftning, andra bestämmelser och integritetsfrågor.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för grundläggande teorier inom området och använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; förekommande terminologi.&lt;/p&gt;&lt;p&gt;Eleven gör en &lt;strong&gt;enkel&lt;/strong&gt; analys av data som är aktuell för lagring och skapar med &lt;strong&gt;tillfredsställande&lt;/strong&gt; resultat en modell av denna data. Dessutom väljer eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; en lämplig datalagringslösning och ger &lt;strong&gt;enkla &lt;/strong&gt;motiv för sitt val.&lt;/p&gt;&lt;p&gt;Eleven implementerar med &lt;strong&gt;tillfredsställande&lt;/strong&gt; resultat avseende teknisk funktion datalagring utifrån sin modell. Dessutom identifierar eleven &lt;strong&gt;några&lt;/strong&gt; möjliga problem avseende prestanda, dataintegritet och säkerhet samt åtgärdar dem med &lt;strong&gt;tillfredsställande&lt;/strong&gt; resultat.&lt;/p&gt;&lt;p&gt;Eleven demonstrerar med &lt;strong&gt;visst&lt;/strong&gt; handlag operationer gentemot lagrad data samt skapar och vid behov redigerar ett &lt;strong&gt;enkelt&lt;/strong&gt; databasschema. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för åtkomst direkt via programspråkets inbyggda gränssnitt och genom ramverk eller externa kodbibliotek.&lt;/p&gt;&lt;p&gt;Eleven utvecklar med &lt;strong&gt;tillfredsställande&lt;/strong&gt; resultat fungerande funktioner för auktorisering och lösningar för lagring av data, så att den är säkrad mot obehörig åtkomst eller misstag gjorda av användare.&lt;/p&gt;&lt;p&gt;Eleven hanterar lagrad data ansvarsfullt och enligt gällande lagstiftning samt resonerar &lt;strong&gt;översiktligt &lt;/strong&gt;om personlig integritet och andra etiska frågor i relation till datalagring.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för grundläggande teorier inom området och använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; förekommande terminologi.&lt;/p&gt;&lt;p&gt;Eleven gör en analys av data som är aktuell för lagring och skapar med &lt;strong&gt;tillfredsställande&lt;/strong&gt; resultat en modell av denna data. Dessutom väljer eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; en lämplig datalagringslösning och ger &lt;strong&gt;välgrundade &lt;/strong&gt;motiv för sitt val.&lt;/p&gt;&lt;p&gt;Eleven implementerar med &lt;strong&gt;tillfredsställande&lt;/strong&gt; resultat avseende teknisk funktion datalagring utifrån sin modell. Dessutom identifierar eleven &lt;strong&gt;några&lt;/strong&gt; möjliga problem avseende prestanda, dataintegritet, &lt;strong&gt;feltolerans&lt;/strong&gt; och säkerhet samt åtgärdar dem med &lt;strong&gt;tillfredsställande&lt;/strong&gt; resultat.&lt;/p&gt;&lt;p&gt;Eleven demonstrerar med &lt;strong&gt;gott&lt;/strong&gt; handlag operationer gentemot lagrad data samt skapar och vid behov redigerar ett databasschema. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för åtkomst direkt via programspråkets inbyggda gränssnitt och genom ramverk eller externa kodbibliotek.&lt;/p&gt;&lt;p&gt;Eleven utvecklar med &lt;strong&gt;tillfredsställande&lt;/strong&gt; resultat fungerande funktioner för auktorisering och lösningar för lagring av data, så att den är säkrad mot obehörig åtkomst eller misstag gjorda av användare.&lt;/p&gt;&lt;p&gt;Eleven hanterar lagrad data ansvarsfullt och enligt gällande lagstiftning samt resonerar &lt;strong&gt;utförligt &lt;/strong&gt;om personlig integritet och andra etiska frågor i relation till datalagring.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för grundläggande teorier inom området och använder &lt;strong&gt;med säkerhet&lt;/strong&gt; förekommande terminologi.&lt;/p&gt;&lt;p&gt;Eleven gör en &lt;strong&gt;avancerad &lt;/strong&gt;analys av data som är aktuell för lagring och skapar med &lt;strong&gt;gott&lt;/strong&gt; resultat en modell av denna data. Dessutom väljer eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; en lämplig datalagringslösning och ger &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;motiv för sitt val.&lt;/p&gt;&lt;p&gt;Eleven implementerar med &lt;strong&gt;gott&lt;/strong&gt; resultat avseende teknisk &lt;strong&gt;och optimal&lt;/strong&gt; funktion datalagring utifrån sin modell. Dessutom identifierar eleven &lt;strong&gt;flera&lt;/strong&gt; möjliga problem avseende prestanda, &lt;strong&gt;skalbarhet&lt;/strong&gt;, dataintegritet, &lt;strong&gt;feltolerans&lt;/strong&gt; och säkerhet samt åtgärdar dem med &lt;strong&gt;gott&lt;/strong&gt; resultat.&lt;/p&gt;&lt;p&gt;Eleven demonstrerar med &lt;strong&gt;mycket&lt;/strong&gt; &lt;strong&gt;gott&lt;/strong&gt; handlag operationer gentemot lagrad data samt skapar och vid behov redigerar ett &lt;strong&gt;avancerat &lt;/strong&gt;databasschema. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för åtkomst direkt via programspråkets inbyggda gränssnitt och genom ramverk eller externa kodbibliotek.&lt;/p&gt;&lt;p&gt;Eleven utvecklar med &lt;strong&gt;gott&lt;/strong&gt; resultat fungerande funktioner för auktorisering och lösningar för lagring av data, så att den är säkrad mot obehörig åtkomst eller misstag gjorda av användare.&lt;/p&gt;&lt;p&gt;Eleven hanterar lagrad data ansvarsfullt och enligt gällande lagstiftning samt resonerar &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;om personlig integritet och andra etiska frågor i relation till datalagring.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Vatten- och miljöteknik</name>
+  <englishName>Water and environmental technology</englishName>
+  <description
+  >&lt;p&gt;Vatten är människans viktigaste livsmedel. Produktion och rening av vatten är livsviktigt både lokalt och globalt. Ämnet vatten- och miljöteknik behandlar drift, underhåll och service av anläggningar inom vatten- och miljöområdet. Det bygger på naturvetenskapliga principer eftersom en ekologisk grundsyn och kretsloppstänkande är viktigt inom området.&lt;/p&gt;</description>
+  <code>VAT</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2010-12-02T09:25:21+01:00</createdDate>
+  <modifiedDate>2020-02-19T16:02:53+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Vatten- och miljöteknik&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet vatten- och miljöteknik ska syfta till att eleverna utvecklar förmåga att utföra drift, underhåll och service i vattentekniska anläggningar. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om konventionella och alternativa reningsmetoder för vatten samt kunskaper om säkerhetstänkande, yrkesidentitet och yrkesetik. I undervisningen ska eleverna också ges möjlighet att studera tekniska åtgärder i relation till kommunens ansvar och gällande lagstiftning. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om hur man kan finna lösningar på internationella problem inom vatten- och miljöområdet.&lt;/p&gt;&lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla förmåga att utföra provtagningar och analyser av vatten samt vidta åtgärder utifrån de resultat som kommit fram. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om olika kvalitetssystem och standarder inom vatten- och miljöområdet samt om hur man arbetar på ett kvalitetsmedvetet sätt.&lt;/p&gt;&lt;p&gt;Genom experiment, laborationer och ett undersökande arbetssätt ska eleverna ges möjlighet att utveckla förmåga att lösa problem som gäller drift, underhåll och service av anläggningar som används inom vatten- och miljöområdet. Genom praktiska övningar ska eleverna ges möjlighet att utveckla tekniska kunskaper samt handha teknisk utrustning.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet vatten- och miljöteknik ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om vatten- och miljötekniska anläggningars uppbyggnad och funktion samt om konsekvenser av olika processförändringar i dessa anläggningar.&lt;/li&gt; &lt;li&gt;Kunskaper om mikrobiologiska processer som har betydelse för vattenrening och dricksvattenproduktion.&lt;/li&gt; &lt;li&gt;Kunskaper om olika kvalitetssystem och standarder inom miljöområdet.&lt;/li&gt; &lt;li&gt;Förmåga att utföra praktiska arbetsuppgifter i olika processtekniska anläggningar inom vatten- och miljöområdet samt att arbeta med hänsyn till säkerhet, kvalitet och miljö.&lt;/li&gt; &lt;li&gt;Förmåga att utföra beräkningar för att optimera driften av en anläggning avseende kvalitet, ekonomi och miljö.&lt;/li&gt; &lt;li&gt;Förmåga att hantera och vårda verktyg och utrustning.&lt;/li&gt; &lt;li&gt;Förmåga att utföra provtagningar samt efterbehandlings- och distributionsmetoder för dricksvatten.&lt;/li&gt; &lt;li&gt;Förmåga att samarbeta och kommunicera med andra samt att använda fackspråk.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Vatten- och miljöteknik, 200 poäng.&lt;/li&gt; &lt;li&gt;Dricksvatten, 100 poäng, som bygger på kursen vatten- och miljöteknik.&lt;/li&gt; &lt;li&gt;Rening av förorenat vatten, 100 poäng, som bygger på kursen vatten- och miljöteknik.&lt;/li&gt; &lt;li&gt;Vattenreningens mikrobiologi, 100 poäng, som bygger på kursen vatten- och miljöteknik.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2010:167</skolfsId>
+  <applianceDate>2011-07-01T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Vatten- och miljöteknik</name>
+    <englishName>Water and environmental technology</englishName>
+    <description
+    >&lt;p&gt;Kursen vatten- och miljöteknik omfattar punkterna 1–2, 4 och 6–8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>VATVAT0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Vatten- och miljöteknik, 200 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: VATVAT0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Reningsprocesser i vatten- och miljöanläggningar.&lt;/li&gt; &lt;li&gt;Konsekvenser av processförändringar i vatten- och miljöanläggningar.&lt;/li&gt; &lt;li&gt;Mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion.&lt;/li&gt; &lt;li&gt;Enklare underhållsarbeten i vatten- och miljötekniska anläggningar. Hur man löser problem med driften av anläggningarna.&lt;/li&gt; &lt;li&gt;Lagar och andra bestämmelser om kvalitet, säkerhet och miljö. Hygien i vatten- och miljöanläggningar.&lt;/li&gt; &lt;li&gt;Driftinstruktioner, processcheman och driftrapportering.&lt;/li&gt; &lt;li&gt;Handhavande av verktyg och utrustning.&lt;/li&gt; &lt;li&gt;Provtagningar samt analyser och utvärdering av dem.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>200</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;reningsprocesser i vatten- och miljöanläggningar. Eleven redogör också &lt;strong&gt;översiktligt&lt;/strong&gt; för konsekvenser av olika processförändringar i dessa anläggningar. Dessutom beskriver eleven &lt;strong&gt;översiktligt &lt;/strong&gt;mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare &lt;strong&gt;enkla&lt;/strong&gt; arbetsuppgifter i en vatten- och miljöteknisk anläggning på ett sätt som är säkert både för eleven själv och andra. Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;driftinstruktioner, processcheman och driftrapportering. Dessutom hanterar eleven med &lt;strong&gt;visst &lt;/strong&gt;handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;med viss säkerhet &lt;/strong&gt;provtagningar utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar och kommunicerar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra samt använder ett &lt;strong&gt;enkelt&lt;/strong&gt; fackspråk som fungerar för arbetsuppgiften.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;reningsprocesser i vatten- och miljöanläggningar. Eleven redogör också &lt;strong&gt;utförligt &lt;/strong&gt;för konsekvenser av olika processförändringar i dessa anläggningar. Dessutom beskriver eleven &lt;strong&gt;utförligt &lt;/strong&gt;mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsuppgifter i en vatten- och miljöteknisk anläggning på ett sätt som är säkert både för eleven själv och andra. Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;driftinstruktioner, processcheman och driftrapportering. Dessutom hanterar eleven med &lt;strong&gt;gott &lt;/strong&gt;handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;med viss säkerhet &lt;/strong&gt;provtagningar utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar och kommunicerar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra samt använder ett fackspråk som fungerar för arbetsuppgiften.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;reningsprocesser i vatten- och miljöanläggningar. Eleven redogör också &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för konsekvenser av olika processförändringar i dessa anläggningar. Dessutom beskriver eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare &lt;strong&gt;avancerade &lt;/strong&gt;arbetsuppgifter i en vatten- och miljöteknisk anläggning på ett sätt som är säkert både för eleven själv och andra. Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;driftinstruktioner, processcheman och driftrapportering. Dessutom hanterar eleven med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;med säkerhet &lt;/strong&gt;provtagningar utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar och kommunicerar &lt;strong&gt;med säkerhet &lt;/strong&gt;med andra samt använder ett &lt;strong&gt;nyanserat &lt;/strong&gt;fackspråk som fungerar för arbetsuppgiften.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Dricksvatten</name>
+    <englishName>Drinking water</englishName>
+    <description
+    >&lt;p&gt;Kursen dricksvatten omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>VATDRI0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Dricksvatten, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: VATDRI0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Skillnader mellan olika typer av grundvatten och ytvatten avseende sammansättning och lämplighet som råvatten.&lt;/li&gt; &lt;li&gt;Faktorer och processförändringar som påverkar reningsresultat och kostnader.&lt;/li&gt; &lt;li&gt;Mikrobiologiska processer inom dricksvattenområdet.&lt;/li&gt; &lt;li&gt;Föreskrifter om dricksvatten och skydd av vattentäkter samt miljökvalitetssystem inom området.&lt;/li&gt; &lt;li&gt;Underhållsarbeten i reningsanläggningar för dricksvatten. Hur man löser problem med driften av anläggningarna.&lt;/li&gt; &lt;li&gt;Metoder för rening av dricksvatten.&lt;/li&gt; &lt;li&gt;Intagningsanordningar vid ytvattenrening.&lt;/li&gt; &lt;li&gt;Tillsatskemikaliers effekt för olika typer av vatten, dosering och inblandning samt ekonomi vid vattenrening.&lt;/li&gt; &lt;li&gt;Datoriserad driftövervakning av vatten- och miljöanläggningar.&lt;/li&gt; &lt;li&gt;Metoder för optimering av drift, till exempel beräkningar och användning av grundläggande kemi.&lt;/li&gt; &lt;li&gt;Handhavande av verktyg och utrustning.&lt;/li&gt; &lt;li&gt;Provtagningar samt analyser av råvatten och dricksvatten enligt gällande bestämmelser.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för konsekvenser av olika processförändringar i reningsanläggningar för dricksvatten. Eleven beskriver också &lt;strong&gt;översiktligt &lt;/strong&gt;mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för olika kvalitetssystem och standarder inom miljöområdet.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare &lt;strong&gt;enkla&lt;/strong&gt; arbetsuppgifter i en reningsanläggning för dricksvatten på ett sätt som är säkert både för eleven själv och andra. Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav. Eleven utför &lt;strong&gt;enkla&lt;/strong&gt; beräkningar för att optimera driften av en anläggning avseende kvalitet, ekonomi och miljö. I arbetet hanterar eleven med &lt;strong&gt;visst &lt;/strong&gt;handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;med viss säkerhet &lt;/strong&gt;provtagningar utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar och kommunicerar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra samt använder ett &lt;strong&gt;enkelt&lt;/strong&gt; fackspråk som fungerar för arbetsuppgiften.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för konsekvenser av olika processförändringar i reningsanläggningar för dricksvatten. Eleven beskriver också &lt;strong&gt;utförligt&lt;/strong&gt; mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för olika kvalitetssystem och standarder inom miljöområdet.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsuppgifter i en reningsanläggning för dricksvatten på ett sätt som är säkert både för eleven själv och andra. Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav. Eleven utför beräkningar för att optimera driften av en anläggning avseende kvalitet, ekonomi och miljö. I arbetet hanterar eleven med &lt;strong&gt;gott &lt;/strong&gt;handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;med viss säkerhet &lt;/strong&gt;provtagningar utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar och kommunicerar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra samt använder ett fackspråk som fungerar för arbetsuppgiften.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för konsekvenser av olika processförändringar i reningsanläggningar för dricksvatten. Eleven beskriver också &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för olika kvalitetssystem och standarder inom miljöområdet.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare&lt;strong&gt; avancerade&lt;/strong&gt; arbetsuppgifter i en reningsanläggning för dricksvatten på ett sätt som är säkert både för eleven själv och andra. Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav. Eleven utför &lt;strong&gt;avancerade &lt;/strong&gt;beräkningar för att optimera driften av en anläggning avseende kvalitet, ekonomi och miljö. I arbetet hanterar eleven med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;med säkerhet &lt;/strong&gt;provtagningar utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar och kommunicerar &lt;strong&gt;med säkerhet &lt;/strong&gt;med andra samt använder ett &lt;strong&gt;nyanserat &lt;/strong&gt;fackspråk som fungerar för arbetsuppgiften.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Rening av förorenat vatten</name>
+    <englishName>Cleaning polluted water</englishName>
+    <description
+    >&lt;p&gt;Kursen rening av förorenat vatten omfattar punkterna 1–2 och 4–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>VATREN0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Rening av förorenat vatten, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: VATREN0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Konventionella och alternativa reningsanläggningars uppbyggnad och funktion.&lt;/li&gt; &lt;li&gt;Faktorer och processförändringar som påverkar reningsresultat och kostnader.&lt;/li&gt; &lt;li&gt;Olika typer av förorenat vatten samt deras sammansättning. Det förorenade vattnets inverkan på sjöar och vattendrag.&lt;/li&gt; &lt;li&gt;Mikrobiologiska processer inom vatten- och miljöområdet.&lt;/li&gt; &lt;li&gt;Underhållsarbeten i reningsanläggningar för dricksvatten. Hur man löser problem med driften av anläggningarna.&lt;/li&gt; &lt;li&gt;Metoder för rening av förorenat vatten.&lt;/li&gt; &lt;li&gt;Experiment för val av flockningskemikalier.&lt;/li&gt; &lt;li&gt;Flödesmätning i öppna och slutna system.&lt;/li&gt; &lt;li&gt;Olika slamtyper och metoder för behandling.&lt;/li&gt; &lt;li&gt;Datoriserad driftövervakning av vatten- och miljöanläggningar.&lt;/li&gt; &lt;li&gt;Metoder för optimering av drift, till exempel beräkningar och användning av grundläggande kemi.&lt;/li&gt; &lt;li&gt;Handhavande av verktyg och utrustning.&lt;/li&gt; &lt;li&gt;Provtagning inom vatten- och miljöområdet enligt gällande bestämmelser.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;reningsprocesser i vatten- och miljöanläggningar. Eleven redogör också &lt;strong&gt;översiktligt&lt;/strong&gt; för konsekvenser av olika processförändringar i dessa anläggningar. Dessutom beskriver eleven &lt;strong&gt;översiktligt &lt;/strong&gt;mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare &lt;strong&gt;enkla&lt;/strong&gt; arbetsuppgifter i en vatten- och miljöteknisk anläggning på ett sätt som är säkert både för eleven själv och andra. Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;driftinstruktioner, processcheman och driftrapportering. Eleven utför &lt;strong&gt;enkla&lt;/strong&gt; beräkningar för att optimera driften av en anläggning avseende kvalitet, ekonomi och miljö. Dessutom hanterar eleven med &lt;strong&gt;visst &lt;/strong&gt;handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;med viss säkerhet &lt;/strong&gt;provtagningar utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar och kommunicerar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra samt använder ett &lt;strong&gt;enkelt&lt;/strong&gt; fackspråk som fungerar för arbetsuppgiften.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;reningsprocesser i vatten- och miljöanläggningar. Eleven redogör också &lt;strong&gt;utförligt &lt;/strong&gt;för konsekvenser av olika processförändringar i dessa anläggningar. Dessutom beskriver eleven &lt;strong&gt;utförligt &lt;/strong&gt;mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsuppgifter i en vatten- och miljöteknisk anläggning på ett sätt som är säkert både för eleven själv och andra. Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;driftinstruktioner, processcheman och driftrapportering. Eleven utför beräkningar för att optimera driften av en anläggning avseende kvalitet, ekonomi och miljö. Dessutom hanterar eleven med &lt;strong&gt;gott &lt;/strong&gt;handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;med viss säkerhet &lt;/strong&gt;provtagningar utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar och kommunicerar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra samt använder ett fackspråk som fungerar för arbetsuppgiften.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;reningsprocesser i vatten- och miljöanläggningar. Eleven redogör också &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för konsekvenser av olika processförändringar i dessa anläggningar. Dessutom beskriver eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare&lt;strong&gt; avancerade&lt;/strong&gt; arbetsuppgifter i en vatten- och miljöteknisk anläggning på ett sätt som är säkert både för eleven själv och andra. Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;driftinstruktioner, processcheman och driftrapportering. Eleven utför &lt;strong&gt;avancerade &lt;/strong&gt;beräkningar för att optimera driften av en anläggning avseende kvalitet, ekonomi och miljö. Dessutom hanterar eleven med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;med säkerhet &lt;/strong&gt;provtagningar utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar och kommunicerar &lt;strong&gt;med säkerhet &lt;/strong&gt;med andra samt använder ett &lt;strong&gt;nyanserat &lt;/strong&gt;fackspråk som fungerar för arbetsuppgiften.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <courses>
+    <name>Vattenreningens mikrobiologi</name>
+    <englishName>Water purification microbiology</englishName>
+    <description
+    >&lt;p&gt;Kursen vattenreningens mikrobiologi omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>VATVAR0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Vattenreningens mikrobiologi, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: VATVAR0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Korrosionslära avseende vatten- och miljöanläggningar.&lt;/li&gt; &lt;li&gt;Mikrobiologiska processer som har betydelse för produktion av dricksvatten samt distribution genom ledningsnät och lagring i reservoarer.&lt;/li&gt; &lt;li&gt;Mikrobiologiska processer för nedbrytning av organiskt material i förorenat vatten, rening av kväve och fosfor i förorenat vatten samt i samband med stabilisering av slam.&lt;/li&gt; &lt;li&gt;Olika typer av virus, bakterier och svampars uppbyggnad och livscykler samt olika sätt att bestämma mikroorganismer.&lt;/li&gt; &lt;li&gt;Kvalitetssystem och standarder inom området.&lt;/li&gt; &lt;li&gt;Inblandning, dosering och olika kemikalier för behandling av dricksvatten samt regler för dessa kemikaliers hantering.&lt;/li&gt; &lt;li&gt;Metoder för optimering av vattenkvalitet, till exempel grundläggande kemiska beräkningar, i samband med dosering av kemikalier och utvärdering av resultat.&lt;/li&gt; &lt;li&gt;Handhavande av verktyg, laboratorieutrustning och maskinell utrustning för behandling och distribution av vatten.&lt;/li&gt; &lt;li&gt;Vattenprovtagningar och analyser av olika typer av vatten samt mikrobiologisk provning, mikroskopi och analys vid olika stadier i dricksvattenreningsprocessen.&lt;/li&gt; &lt;li&gt;Höjning av hårdhet, alkalinitet och desinfektion av dricksvatten samt alkalisering av vatten i samband med beredningsprocesser och distribution.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för konsekvenser av olika processförändringar i reningsanläggningar för dricksvatten. Eleven beskriver också &lt;strong&gt;översiktligt &lt;/strong&gt;mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för olika kvalitetssystem och standarder inom miljöområdet.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare &lt;strong&gt;enkla&lt;/strong&gt; vattenprovtagningar och analyser på olika typer av vatten och mikrobiologiska provtagningar på ett sätt som är säkert för eleven själv och andra. Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav. Eleven utför &lt;strong&gt;enkla&lt;/strong&gt; beräkningar för att optimera driften av en anläggning avseende kvalitet, ekonomi och miljö. I arbetet hanterar eleven med &lt;strong&gt;visst &lt;/strong&gt;handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;med viss säkerhet&lt;/strong&gt; provtagningar och efterbehandlings- och distributionsmetoder för dricksvatten utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen, efterbehandlingen och distributionen med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar och kommunicerar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra samt använder ett &lt;strong&gt;enkelt&lt;/strong&gt; fackspråk som fungerar för arbetsuppgiften.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för konsekvenser av olika processförändringar i reningsanläggningar för dricksvatten. Eleven beskriver också &lt;strong&gt;utförligt&lt;/strong&gt; mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för olika kvalitetssystem och standarder inom miljöområdet.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare vattenprovtagningar och analyser på olika typer av vatten och mikrobiologiska provtagningar på ett sätt som är säkert för eleven själv och andra. Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav. Eleven utför beräkningar för att optimera driften av en anläggning avseende kvalitet, ekonomi och miljö. I arbetet hanterar eleven med &lt;strong&gt;gott &lt;/strong&gt;handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;med viss säkerhet&lt;/strong&gt; provtagningar och efterbehandlings- och distributionsmetoder för dricksvatten utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen, efterbehandlingen och distributionen med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar och kommunicerar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra samt använder ett fackspråk som fungerar för arbetsuppgiften.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för konsekvenser av olika processförändringar i reningsanläggningar för dricksvatten. Eleven beskriver också &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; mikrobiologiska processer i samband med vattenrening och dricksvattenproduktion. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för olika kvalitetssystem och standarder inom miljöområdet.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare&lt;strong&gt; avancerade&lt;/strong&gt; vattenprovtagningar och analyser på olika typer av vatten och mikrobiologiska provtagningar på ett sätt som är säkert för eleven själv och andra. Arbetet uppfyller fastställda kvalitets-, säkerhets- och miljökrav. Eleven utför &lt;strong&gt;avancerade &lt;/strong&gt;beräkningar för att optimera driften av en anläggning avseende kvalitet, ekonomi och miljö. I arbetet hanterar eleven med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag verktyg och utrustning samt vårdar verktygen och utrustningen på ett riktigt sätt.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;med säkerhet&lt;/strong&gt; provtagningar och efterbehandlings- och distributionsmetoder för dricksvatten utifrån instruktioner och arbetsbeskrivningar samt utvärderar sitt resultat av provtagningen, efterbehandlingen och distributionen med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar och kommunicerar &lt;strong&gt;med säkerhet &lt;/strong&gt;med andra samt använder ett &lt;strong&gt;nyanserat &lt;/strong&gt;fackspråk som fungerar för arbetsuppgiften.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>4</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

@@ -55,11 +55,7 @@ export async function parseProgram(data: any, replacementsDirectory: string) {
         .trim()
     );
 
-    const left = strs
-      .join(" ")
-      .replace(/\n/g, " ")
-      .replace(/\s+/g, " ")
-      .trim();
+    const left = strs.join(" ").replace(/\n/g, " ").replace(/\s+/g, " ").trim();
     const right = $("<div>" + normalizeHTML(inputStr) + "</div>")
       .text()
       .replace(/\n/g, " ")

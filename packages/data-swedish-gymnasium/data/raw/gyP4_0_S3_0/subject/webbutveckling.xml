@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Webbutveckling</name>
+  <englishName>Web development</englishName>
+  <description
+  >&lt;p&gt;Ämnet webbutveckling behandlar de tekniker som används för att presentera och bearbeta information i webbläsaren samt utifrån dessa tekniker skapa och vidareutveckla statiska och dynamiska webbsidor, webbplatser eller webbapplikationer.&lt;/p&gt;</description>
+  <code>WEU</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2017-07-07T10:01:32+02:00</createdDate>
+  <modifiedDate>2020-02-19T16:03:18+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Webbutveckling&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Ämnet webbutveckling ska syfta till att eleverna utvecklar färdigheter i att skapa produkter med hjälp av olika webbtekniker. Eleverna ska ges möjlighet att utveckla kunskaper om olika webbteknikers konstruktion och funktionalitet samt kunskaper om samspelet mellan beställare, användare, formgivare och utvecklare. Genom undervisningen ska eleverna ges möjlighet att utveckla produkter som följer standarder, riktlinjer för god praxis, användbarhet och tillgänglighet även för användare med funktionsnedsättning. Undervisningen ska leda till att eleverna utvecklar kunskaper om relevanta lagar och andra bestämmelser samt förmåga att göra webbrelaterade etiska överväganden.&lt;/p&gt;&lt;p&gt;I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om och färdigheter i att använda verktyg för att producera och kontrollera den kod på en webbplats som exekveras av webbklienten.&lt;/p&gt;&lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om projekt som arbetsmetod och tillfälle till arbete i projektform.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet webbutveckling ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om webbens historia, betydelse och funktionalitet.&lt;/li&gt; &lt;li&gt;Förmåga att planera, genomföra, testa, dokumentera och utvärdera utvecklingsprojekt för webbplatser samt applikationer som bygger på klientbaserade webbtekniker.&lt;/li&gt; &lt;li&gt;Kunskaper om de tekniker som används för att bygga webbplatser och webbapplikationer.&lt;/li&gt; &lt;li&gt;Förmåga att använda externa webbtjänster för informationsutbyte mellan webbplatser.&lt;/li&gt; &lt;li&gt;Förmåga att utveckla dynamisk presentationslogik.&lt;/li&gt; &lt;li&gt;Förmåga att bygga webbplatser och webbapplikationer enligt standarder och riktlinjer för god praxis samt med god tillgänglighet.&lt;/li&gt; &lt;li&gt;Kunskaper om lagar och andra bestämmelser inom området samt förmåga att göra etiska överväganden och reflektera över integritetsfrågor.&lt;/li&gt; &lt;li&gt;Kunskaper om säkerhet och förmåga att identifiera och motarbeta attacker.&lt;/li&gt; &lt;li&gt;Förmåga att använda terminologi inom området.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Webbutveckling 1, 100 poäng.&lt;/li&gt; &lt;li&gt;Webbutveckling 2, 100 poäng, som bygger på kursen webbutveckling 1.&lt;/li&gt; &lt;li&gt;Webbutveckling 3, 100 poäng, som bygger på kursen webbutveckling 2. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2017:51</skolfsId>
+  <applianceDate>2017-06-21T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Webbutveckling 1</name>
+    <englishName>Web development 1</englishName>
+    <description
+    >&lt;p&gt;Kursen webbutveckling 1 omfattar punkterna 1–3 och 6–9 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>WEUWEB01</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Webbutveckling 1, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: WEUWEB01&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Webben som plattform, dess historia och samhällspåverkan.&lt;/li&gt; &lt;li&gt;Teknisk orientering om webbens protokoll, adresser, säkerhet och samspelet mellan klient och server.&lt;/li&gt; &lt;li&gt;Publikation av webbplatser med och utan webbpubliceringssystem.&lt;/li&gt; &lt;li&gt;Processen för ett webbutvecklingsprojekt med målsättningar, planering, specifikation av struktur och design, kodning, optimering, testning, dokumentation och uppföljning.&lt;/li&gt; &lt;li&gt;Märkspråk och deras inbördes roller, syntax och semantik – där det huvudsakliga innehållet är standarderna för HTML och CSS samt orientering om Ecmaskript och dokumentobjektsmodellen (DOM).&lt;/li&gt; &lt;li&gt;Teckenkodning, begrepp, standarder och handhavande.&lt;/li&gt; &lt;li&gt;Bilder och media med alternativa format, optimering och tillgänglighet.&lt;/li&gt; &lt;li&gt;Riktlinjer för god praxis inom webbutveckling.&lt;/li&gt; &lt;li&gt;Interoperabilitet genom att följa standarder och testa på olika användaragenter.&lt;/li&gt; &lt;li&gt;Applikationer som fungerar oberoende av val av användaragent, operativsystem eller hårdvaruplattform och hur tillgänglighet uppnås även för användare med funktionsnedsättning.&lt;/li&gt; &lt;li&gt;Kvalitetssäkring av applikationens funktion och validering av kodens kvalitet.&lt;/li&gt; &lt;li&gt;Säkerhet och sätt att identifiera hot och sårbarheter samt hur attacker kan motverkas genom effektiva åtgärder.&lt;/li&gt; &lt;li&gt;Lagar och andra bestämmelser som styr digital information, till exempel personuppgiftslagen och lagen om elektronisk kommunikation.&lt;/li&gt; &lt;li&gt;Terminologi inom området webbutveckling.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; webbens historia och dess påverkan på samhället och de grundläggande tekniker som webben bygger på. Eleven använder med &lt;strong&gt;visst&lt;/strong&gt; handlag webbpubliceringssystem och redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för dess funktionalitet.&lt;/p&gt;&lt;p&gt;Eleven upprättar en &lt;strong&gt;enkel&lt;/strong&gt; projektplan för en tänkt produkt. Eleven utvecklar utifrån planen en produkt &lt;strong&gt;i samråd&lt;/strong&gt; med handledare. I arbetet utvecklar eleven kod som med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat följer standarder och omfattar &lt;strong&gt;någon&lt;/strong&gt; av de grundläggande teknikerna för märkspråk och stilmallar. Eleven bearbetar också &lt;strong&gt;med viss säkerhet enkel&lt;/strong&gt; text, bild och eventuell annan media så att de anpassas till produkten.&lt;/p&gt;&lt;p&gt;Produkten är av &lt;strong&gt;tillfredsställande&lt;/strong&gt; kvalitet och följer etablerad god praxis vilket eleven kontrollerar med &lt;strong&gt;begränsade&lt;/strong&gt; tester. Eleven testar produkten i &lt;strong&gt;någon&lt;/strong&gt; webbläsare. Eleven testar också produkten på &lt;strong&gt;någon&lt;/strong&gt; plattform och vidtar &lt;strong&gt;begränsade&lt;/strong&gt; åtgärder för att åstadkomma snabb överföring av bilder eller andra mediafiler. Dessutom bygger eleven en webbplats som med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat följer grundläggande principer för tillgänglighet.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av de moment som har utförts och utvärderar med &lt;strong&gt;enkla &lt;/strong&gt;omdömen sitt arbete och resultat. Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete. Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för relevanta säkerhetslösningar samt hanterar lösenord och annan känslig data på ett etiskt riktigt sätt. Eleven för dessutom&lt;strong&gt; enkla &lt;/strong&gt;resonemang om webbrelaterade frågor om etik och integritet. Eleven använder &lt;strong&gt;med&lt;/strong&gt; &lt;strong&gt;viss säkerhet &lt;/strong&gt;terminologi inom området.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;webbens historia och dess påverkan på samhället och de grundläggande tekniker som webben bygger på. Eleven använder med &lt;strong&gt;gott &lt;/strong&gt;handlag webbpubliceringssystem och redogör &lt;strong&gt;utförligt &lt;/strong&gt;för dess funktionalitet.&lt;/p&gt;&lt;p&gt;Eleven upprättar en &lt;strong&gt;genomarbetad&lt;/strong&gt; projektplan för en tänkt produkt. Eleven utvecklar utifrån planen en produkt &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. I arbetet utvecklar eleven kod som med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat följer standarder och som omfattar &lt;strong&gt;några&lt;/strong&gt; av de grundläggande teknikerna för märkspråk och stilmallar. &lt;strong&gt;I produkten&lt;/strong&gt; &lt;strong&gt;infogar eleven enkla skript&lt;/strong&gt;&lt;strong&gt;.&lt;/strong&gt; Eleven bearbetar &lt;strong&gt;med viss säkerhet och via flera moment &lt;/strong&gt;text, bild och eventuell annan media, så att de anpassas till produkten.&lt;/p&gt;&lt;p&gt;Produkten är av &lt;strong&gt;tillfredsställande&lt;/strong&gt; kvalitet och följer etablerad god praxis vilket eleven kontrollerar med &lt;strong&gt;automatiserade&lt;/strong&gt; tester. Eleven testar produkten i &lt;strong&gt;några&lt;/strong&gt; webbläsare. Eleven testar också produkten på &lt;strong&gt;några&lt;/strong&gt; plattformar &lt;strong&gt;inklusive traditionella datorer eller mobila enheter &lt;/strong&gt;och vidtar åtgärder för att åstadkomma snabb överföring av bilder och andra mediafiler. Dessutom bygger eleven en webbplats som med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat följer grundläggande principer för tillgänglighet &lt;strong&gt;och&lt;/strong&gt; &lt;strong&gt;kontrollerar detta med några automatiserade tester&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av de moment som har utförts och utvärderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sitt arbete och resultat. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete. Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för relevanta säkerhetslösningar samt hanterar lösenord och annan känslig data på ett etiskt riktigt sätt. Eleven för dessutom&lt;strong&gt; välgrundade&lt;/strong&gt; resonemang om webbrelaterade frågor om etik och integritet. &lt;strong&gt;Eleven beskriver även&lt;/strong&gt; &lt;strong&gt;hur tredjepartskod kan innebära problem för produktens säkerhet. &lt;/strong&gt;Eleven använder &lt;strong&gt;med viss säkerhet &lt;/strong&gt;terminologi inom området.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;webbens historia och dess påverkan på samhället och de grundläggande tekniker som webben bygger på. Eleven använder med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag webbpubliceringssystem och redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för dess funktionalitet.&lt;/p&gt;&lt;p&gt;Eleven upprättar en &lt;strong&gt;genomarbetad&lt;/strong&gt; projektplan för en tänkt produkt och &lt;strong&gt;reviderar den&lt;/strong&gt; &lt;strong&gt;vid behov&lt;/strong&gt;. Eleven utvecklar utifrån planen en produkt &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. I arbetet utvecklar eleven kod som med &lt;strong&gt;gott &lt;/strong&gt;resultat följer standarder och som omfattar &lt;strong&gt;flera&lt;/strong&gt; av de grundläggande teknikerna för märkspråk och stilmallar. &lt;strong&gt;I produkten infogar eleven&lt;/strong&gt;&lt;strong&gt; diskreta domskript&lt;/strong&gt;&lt;strong&gt;.&lt;/strong&gt; Eleven bearbetar &lt;strong&gt;med säkerhet och via flera moment &lt;/strong&gt;text, bild och eventuell annan media så att de anpassas till produkten.&lt;/p&gt;&lt;p&gt;Produkten är av &lt;strong&gt;god&lt;/strong&gt; kvalitet och följer etablerad god praxis vilket eleven kontrollerar med &lt;strong&gt;omfattande automatiserade och manuella&lt;/strong&gt; tester. Eleven testar produkten i &lt;strong&gt;flera&lt;/strong&gt; webbläsare. Eleven testar också produkten på &lt;strong&gt;flera&lt;/strong&gt; plattformar&lt;strong&gt; inklusive traditionella datorer och mobila enheter&lt;/strong&gt;, vidtar &lt;strong&gt;omfattande &lt;/strong&gt;åtgärder&lt;strong&gt; samt optimerar &lt;/strong&gt;bilder eller andra mediafiler för att åstadkomma snabb överföring av dessa &lt;strong&gt;och&lt;/strong&gt; &lt;strong&gt;för att reducera antalet överföringar per sida&lt;/strong&gt;. Dessutom bygger eleven en webbplats som med &lt;strong&gt;gott &lt;/strong&gt;resultat följer grundläggande principer för tillgänglighet &lt;strong&gt;och kontrollerar detta med automatiserade tester&lt;/strong&gt; &lt;strong&gt;och simuleringar&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av de moment som har utförts &lt;strong&gt;med koppling till generella principer och testresultat &lt;/strong&gt;och utvärderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sitt arbete och resultat &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete. Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; &lt;strong&gt;och nyanserat&lt;/strong&gt; för relevanta säkerhetslösningar samt hanterar lösenord och annan känslig data på ett etiskt riktigt sätt. Eleven för dessutom&lt;strong&gt; välgrundade och nyanserade &lt;/strong&gt;resonemang om webbrelaterade frågor om etik och integritet. &lt;strong&gt;Eleven beskriver även hur&lt;/strong&gt; &lt;strong&gt;tredjepartskod kan innebära problem för produktens säkerhet samt beskriver grundläggande säkerhetskriterier vid val av webbhotell. &lt;/strong&gt;Eleven använder&lt;strong&gt; med säkerhet &lt;/strong&gt;terminologi inom området.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Webbutveckling 2</name>
+    <englishName>Web development 2</englishName>
+    <description
+    >&lt;p&gt;Kursen webbutveckling 2 omfattar punkterna 1–3 och 5–9 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>WEUWEB02</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Webbutveckling 2, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: WEUWEB02&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Webben som plattform för applikationer av olika slag.&lt;/li&gt; &lt;li&gt;Utvecklingsprocessen för ett webbtekniskt projekt med målsättningar, planering, specifikation av struktur och design, kodning, optimering, testning, dokumentation och uppföljning.&lt;/li&gt; &lt;li&gt;Fördjupning i märkspråk där det huvudsakliga innehållet är standarderna för HTML och CSS med särskilt fokus på responsiv design.&lt;/li&gt; &lt;li&gt;Språk med stöd för variabler för att förenkla CSS-generering.&lt;/li&gt; &lt;li&gt;Ramverk eller klassbibliotek inom design eller skriptspråk.&lt;/li&gt; &lt;li&gt;Skriptspråk för webbutveckling på klientsidan och dokumentobjektsmodell.&lt;/li&gt; &lt;li&gt;Bilder, ljud, video och två- eller tredimensionell interaktiv grafik för webbapplikationer.&lt;/li&gt; &lt;li&gt;Riktlinjer för god praxis inom webbutveckling.&lt;/li&gt; &lt;li&gt;Uppnående av interoperabilitet genom att följa standarder och testa på olika plattformar.&lt;/li&gt; &lt;li&gt;Applikationer som fungerar oberoende av vald plattform och hur tillgänglighet uppnås även för användare med funktionsnedsättning.&lt;/li&gt; &lt;li&gt;Kvalitetssäkring av applikationens funktion och validering av kodens kvalitet.&lt;/li&gt; &lt;li&gt;Lagar och andra bestämmelser som styr digital information, till exempel personuppgiftslagen och lagen om elektronisk kommunikation.&lt;/li&gt; &lt;li&gt;Säkerhet och sätt att identifiera hot och sårbarheter samt hur attacker kan motverkas genom effektiva åtgärder.&lt;/li&gt; &lt;li&gt;Terminologi inom området webbutveckling.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; webben som plattform samt gör en &lt;strong&gt;enkel &lt;/strong&gt;jämförelse med &lt;strong&gt;något&lt;/strong&gt; annat alternativ.&lt;/p&gt;&lt;p&gt;Eleven gör en &lt;strong&gt;enkel&lt;/strong&gt; projektplan för en tänkt produkt. Utifrån projektplanen utvecklar eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare produkten där logiker som styr innehåll, design och beteende &lt;strong&gt;i begränsad utsträckning&lt;/strong&gt; är åtskilda. I arbetet utvecklar eleven kod som med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat följer standarder och som omfattar &lt;strong&gt;någon&lt;/strong&gt; teknik för märkspråk och stilmallar där eleven &lt;strong&gt;i begränsad utsträckning&lt;/strong&gt; använder tekniker för att generera stilmallskod. I arbetet bearbetar eleven med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultattext, bild och eventuell annan media så att de blir anpassade för att fungera i produkten. Eleven utvecklar med &lt;strong&gt;tillfredsställande&lt;/strong&gt; funktionalitet inom något eller några av områdena domskript, interaktiv 2D-grafik, 3D-grafik eller animationer. I sitt arbete inkluderar eleven &lt;strong&gt;någon enkel&lt;/strong&gt; funktion från ett klassbibliotek eller ramverk inom områdena design eller skript.&lt;/p&gt;&lt;p&gt;Produkten är av &lt;strong&gt;tillfredsställande&lt;/strong&gt; kvalitet när det gäller funktion vilket eleven kontrollerar med hjälp av &lt;strong&gt;någon&lt;/strong&gt; test. Dessutom kontrollerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;produktens tillgänglighet med automatiserade tester. Eleven vidtar &lt;strong&gt;någon &lt;/strong&gt;åtgärd för att åstadkomma snabb överföring av bilder och andra mediafiler.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av de moment som har utförts samt utvärderar med &lt;strong&gt;enkla &lt;/strong&gt;omdömen sitt arbete och resultat. Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete. Dessutom för eleven &lt;strong&gt;enkla &lt;/strong&gt;resonemang kring webbrelaterade frågor om etik och integritet. Eleven tar hänsyn till säkerhetsaspekter i sitt arbete och i fråga om produkten samt kontrollerar produktens säkerhet med &lt;strong&gt;någon &lt;/strong&gt;test. Eleven använder &lt;strong&gt;med&lt;/strong&gt; &lt;strong&gt;viss säkerhet &lt;/strong&gt;terminologi inom området.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; webben som plattform samt gör en &lt;strong&gt;välgrundad &lt;/strong&gt;jämförelse med &lt;strong&gt;några&lt;/strong&gt; andra alternativ.&lt;/p&gt;&lt;p&gt;Eleven gör en &lt;strong&gt;genomarbetad&lt;/strong&gt; projektplan för en tänkt produkt. Utifrån projektplanen utvecklar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare produkten där logiker som styr innehåll, design och beteende är åtskilda. I arbetet utvecklar eleven kod som med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat följer standarder och som omfattar &lt;strong&gt;några&lt;/strong&gt; tekniker för märkspråk och stilmallar där eleven använder tekniker för att generera stilmallskod. I arbetet bearbetar eleven med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat &lt;strong&gt;och via flera moment&lt;/strong&gt; text, bild och eventuell annan media så att de blir anpassade för att fungera i produkten. Eleven utvecklar med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat funktionalitet inom något eller några av områdena domskript, interaktiv 2D-grafik, 3D-grafik eller animationer. I sitt arbete inkluderar eleven &lt;strong&gt;några &lt;/strong&gt;funktioner från ett klassbibliotek eller ramverk inom områdena design eller skript.&lt;/p&gt;&lt;p&gt;Produkten är av &lt;strong&gt;tillfredsställande&lt;/strong&gt; kvalitet när det gäller funktion vilket eleven kontrollerar med hjälp av &lt;strong&gt;några&lt;/strong&gt; tester. Dessutom kontrollerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;produktens tillgänglighet med automatiserade tester &lt;strong&gt;och begränsad&lt;/strong&gt; &lt;strong&gt;manuell testning&lt;/strong&gt;. Eleven vidtar &lt;strong&gt;några &lt;/strong&gt;åtgärder för att åstadkomma snabb överföring av bilder och andra mediafiler.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av de moment som har utförts samt utvärderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sitt arbete och resultat. &lt;strong&gt;I utvärderingen resonerar eleven kring eventuella avvikelser samt motiverar översiktligt de val som har gjorts.&lt;/strong&gt; Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete. Dessutom för eleven&lt;strong&gt; välgrundade &lt;/strong&gt;resonemang kring webbrelaterade frågor om etik och integritet. Eleven tar hänsyn till säkerhetsaspekter i sitt arbete och i fråga om produkten samt kontrollerar produktens säkerhet med &lt;strong&gt;några &lt;/strong&gt;tester. Eleven använder &lt;strong&gt;med&lt;/strong&gt; &lt;strong&gt;viss säkerhet &lt;/strong&gt;terminologi inom området.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; webben som plattform samt gör en &lt;strong&gt;välgrundad och nyanserad &lt;/strong&gt;jämförelse med &lt;strong&gt;flera&lt;/strong&gt; andra alternativ.&lt;/p&gt;&lt;p&gt;Eleven gör en &lt;strong&gt;genomarbetad&lt;/strong&gt; projektplan för en tänkt produkt, &lt;strong&gt;vid behov reviderar &lt;/strong&gt;&lt;strong&gt;eleven planen&lt;/strong&gt;. Utifrån projektplanen utvecklar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare produkten där logiker som styr innehåll, design och beteende &lt;strong&gt;i omfattande utsträckning &lt;/strong&gt;är åtskilda. I arbetet utvecklar eleven kod som med &lt;strong&gt;gott &lt;/strong&gt;resultat följer standarder och som omfattar &lt;strong&gt;flera&lt;/strong&gt; tekniker för märkspråk och stilmallar där eleven &lt;strong&gt;i&lt;/strong&gt; &lt;strong&gt;omfattande utsträckning&lt;/strong&gt; använder tekniker för att generera stilmallskod. I arbetet bearbetar eleven med &lt;strong&gt;gott &lt;/strong&gt;resultat &lt;strong&gt;och via flera moment&lt;/strong&gt; text, bild och eventuell annan media så att de blir anpassade för att fungera i produkten. Eleven utvecklar med &lt;strong&gt;gott &lt;/strong&gt;resultat funktionalitet inom något eller några av områdena domskript, interaktiv 2D-grafik, 3D-grafik eller animationer. I sitt arbete inkluderar eleven &lt;strong&gt;flera &lt;/strong&gt;funktioner&lt;strong&gt; av komplex natur&lt;/strong&gt; från ett klassbibliotek eller ramverk inom områdena design eller skript.&lt;/p&gt;&lt;p&gt;Produkten är av &lt;strong&gt;god&lt;/strong&gt; kvalitet när det gäller funktion vilket eleven kontrollerar med hjälp av &lt;strong&gt;flera&lt;/strong&gt; tester, &lt;strong&gt;även &lt;strong&gt;manuella&lt;/strong&gt;&lt;/strong&gt;. Dessutom kontrollerar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;produktens tillgänglighet med automatiserade tester &lt;strong&gt;och simuleringar samt manuella tester&lt;/strong&gt;. Eleven vidtar &lt;strong&gt;optimeringar av&lt;/strong&gt; bilder och andra mediafiler för att åstadkomma snabb överföring av dessa &lt;strong&gt;och vidtar åtgärder &lt;/strong&gt;&lt;strong&gt;för att reducera antalet överföringar per sida&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av de moment som har utförts &lt;strong&gt;med koppling till generella principer och testresultat&lt;/strong&gt; samt utvärderar med &lt;strong&gt;utförliga och&lt;/strong&gt; &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sitt arbete och resultat &lt;strong&gt;samt ger förslag på &lt;/strong&gt;&lt;strong&gt;hur arbetet kan förbättras&lt;/strong&gt;.&lt;strong&gt; I utvärderingen resonerar eleven kring eventuella avvikelser samt motiverar &lt;strong&gt;utförligt &lt;/strong&gt;&lt;/strong&gt;&lt;strong&gt;de val som har gjorts. &lt;/strong&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete. Dessutom för eleven &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;resonemang kring webbrelaterade frågor om etik och integritet. Eleven tar hänsyn till säkerhetsaspekter i sitt arbete och i fråga om produkten samt kontrollerar produktens säkerhet med &lt;strong&gt;flera &lt;/strong&gt;tester. Eleven använder &lt;strong&gt;med&lt;/strong&gt; &lt;strong&gt;säkerhet &lt;/strong&gt;terminologi inom området.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Webbutveckling 3</name>
+    <description
+    >&lt;p&gt;Kursen webbutveckling 3 omfattar punkterna 2–9 under rubriken Ämnets syfte. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.&lt;/p&gt;</description>
+    <code>WEUWEB33</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Webbutveckling 3, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: WEUWEB33&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Konsumtion av webbtjänster, protokoll, gränssnitt och format för datautbyte.&lt;/li&gt; &lt;li&gt;Processen för ett webbutvecklingsprojekt enligt standardiserad metod för mjukvaruutveckling.&lt;/li&gt; &lt;li&gt;Verktyg för pakethantering.&lt;/li&gt; &lt;li&gt;Optimering av processer med hjälp av verktyg, till exempel minifiering av javascript och CSS.&lt;/li&gt; &lt;li&gt;Riktlinjer för god praxis inom webbutveckling.&lt;/li&gt; &lt;li&gt;Klientsidestekniker för webbapplikationer.&lt;/li&gt; &lt;li&gt;Skriptspråk för webbutveckling på klientsidan och dokumentobjektsmodellen.&lt;/li&gt; &lt;li&gt;Interaktion med webbservern via skript.&lt;/li&gt; &lt;li&gt;Interaktiv webbgrafik och skalbar vektorgrafik.&lt;/li&gt; &lt;li&gt;Interoperabilitet.&lt;/li&gt; &lt;li&gt;Applikationer som fungerar oberoende av val av användaragent, operativsystem eller hårdvaruplattform.&lt;/li&gt; &lt;li&gt;Kvalitetssäkring av applikationens funktion samt validering av kodens kvalitet.&lt;/li&gt; &lt;li&gt;Kvalitetssäkring av skript genom olika manuella och automatiserade tester, till exempel med enhetstester.&lt;/li&gt; &lt;li&gt;Lagar och andra bestämmelser som styr digital information.&lt;/li&gt; &lt;li&gt;Säkerhet och sätt att identifiera hot och sårbarheter samt hur attacker kan motverkas genom effektiva åtgärder.&lt;/li&gt; &lt;li&gt;Terminologi inom området webbutveckling.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven följer &lt;strong&gt;med viss säkerhet&lt;/strong&gt; en projektplan för framtagning av en eller flera produkter. Planen uppfyller standardiserad projektmetodik för mjukvaruutveckling. Utifrån projektplanen utvecklar eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare produkten eller produkterna där logiker som styr innehåll, design och beteende är åtskilda. Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; pakethantering vid installation av olika klassbibliotek och ramverk. I arbetet utvecklar eleven kod som med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat följer standarder och etablerad god praxis.&lt;/p&gt;&lt;p&gt;Eleven utvecklar &lt;strong&gt;något&lt;/strong&gt; skript för användarinteraktion och &lt;strong&gt;något &lt;/strong&gt;skript för kommunikation med webbtjänster med &lt;strong&gt;tillfredsställande&lt;/strong&gt; funktionalitet. Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; &lt;strong&gt;enkla&lt;/strong&gt; tekniker för asynkrona anrop för sin produkt. Dessutom utvecklar eleven två- eller tredimensionell interaktiv grafik med &lt;strong&gt;tillfredsställande&lt;/strong&gt; funktionalitet. Produkten eller produkterna är av &lt;strong&gt;tillfredsställande&lt;/strong&gt; kvalitet när det gäller funktion och tillgänglighet. Detta kontrollerar eleven med &lt;strong&gt;&lt;strong&gt;automatiserade&lt;/strong&gt; &lt;/strong&gt;tester. Eleven vidtar &lt;strong&gt;någon&lt;/strong&gt; åtgärd för att åstadkomma god prestanda för produkten eller produkterna.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven en &lt;strong&gt;enkel&lt;/strong&gt; dokumentation i enlighet med vald projektmetod samt utvärderar med &lt;strong&gt;enkla &lt;/strong&gt;omdömen sitt arbete och resultat. Eleven följer i sitt arbete lagar och andra bestämmelser som rör mjukvaruutveckling och publicering på webben. Eleven tar hänsyn till&lt;br&gt;säkerhetsaspekter i sitt arbete och i fråga om produkten eller produkterna samt kontrollerar säkerheten genom &lt;strong&gt;begränsade&lt;/strong&gt; tester. Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; terminologi inom området.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven följer &lt;strong&gt;med viss säkerhet&lt;/strong&gt; en projektplan för framtagning av en eller flera produkter. Planen uppfyller standardiserad projektmetodik för mjukvaruutveckling. Utifrån projektplanen utvecklar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare produkten eller produkterna där logiker som styr innehåll, design och beteende är åtskilda. Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; pakethantering vid installation av olika klassbibliotek och ramverk. I arbetet utvecklar eleven kod som med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat följer standarder och etablerad god praxis.&lt;/p&gt;&lt;p&gt;Eleven utvecklar &lt;strong&gt;några &lt;/strong&gt;skript för användarinteraktion och &lt;strong&gt;några &lt;/strong&gt;skript för kommunikation med webbtjänster med &lt;strong&gt;tillfredsställande&lt;/strong&gt; funktionalitet. Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; tekniker för asynkrona anrop för sin produkt. Dessutom utvecklar eleven två- eller tredimensionell interaktiv grafik med &lt;strong&gt;tillfredsställande&lt;/strong&gt; funktionalitet. Produkten eller produkterna är av &lt;strong&gt;tillfredsställande&lt;/strong&gt; kvalitet när det gäller funktion och tillgänglighet. Detta kontrollerar eleven med &lt;strong&gt;manuella och automatiserade&lt;/strong&gt; tester. Eleven vidtar &lt;strong&gt;några &lt;/strong&gt;åtgärder för att åstadkomma god prestanda för produkten eller produkterna.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation i enlighet med vald projektmetod samt utvärderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sitt arbete och resultat. Eleven följer i sitt arbete lagar och andra bestämmelser som rör mjukvaruutveckling och publicering på webben. Eleven tar hänsyn till säkerhetsaspekter i sitt arbete och i fråga om produkten eller produkterna samt kontrollerar säkerheten genom tester. Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; terminologi inom området.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven följer &lt;strong&gt;med säkerhet&lt;/strong&gt; en projektplan för framtagning av en eller flera produkter. Planen uppfyller standardiserad projektmetodik för mjukvaruutveckling. Utifrån projektplanen utvecklar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare produkten eller produkterna där logiker som styr innehåll, design och beteende är åtskilda. Eleven använder &lt;strong&gt;med säkerhet&lt;/strong&gt; pakethantering vid installation av olika klassbibliotek och ramverk. I arbetet utvecklar eleven kod som med &lt;strong&gt;gott &lt;/strong&gt;resultat följer standarder och etablerad god praxis.&lt;/p&gt;&lt;p&gt;Eleven utvecklar &lt;strong&gt;flera &lt;/strong&gt;skript för användarinteraktion och &lt;strong&gt;flera &lt;/strong&gt;skript för kommunikation med webbtjänster med &lt;strong&gt;god &lt;/strong&gt;funktionalitet. Eleven använder &lt;strong&gt;med säkerhet avancerade&lt;/strong&gt; tekniker för asynkrona anrop för sin produkt. Dessutom utvecklar eleven två- eller tredimensionell interaktiv grafik med &lt;strong&gt;god &lt;/strong&gt;funktionalitet. Produkten eller produkterna är av &lt;strong&gt;god &lt;/strong&gt;kvalitet när det gäller funktion och tillgänglighet. Detta kontrollerar eleven med &lt;strong&gt;manuella och automatiserade &lt;/strong&gt;tester. Eleven vidtar &lt;strong&gt;flera &lt;/strong&gt;åtgärder&lt;br&gt;för att åstadkomma god prestanda för produkten eller produkterna.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation i enlighet med vald projektmetod samt utvärderar med &lt;strong&gt;utförliga&lt;/strong&gt; &lt;strong&gt;och&lt;/strong&gt; &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sitt arbete och resultat &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. Eleven följer i sitt arbete lagar och andra bestämmelser som rör mjukvaruutveckling och publicering på webben. Eleven tar hänsyn till säkerhetsaspekter i sitt arbete och i fråga om produkten eller produkterna samt kontrollerar säkerheten genom &lt;strong&gt;omfattande &lt;/strong&gt;tester. Eleven använder &lt;strong&gt;med säkerhet&lt;/strong&gt; terminologi inom området.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

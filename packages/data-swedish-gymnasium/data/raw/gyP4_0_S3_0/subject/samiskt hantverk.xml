@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Samiskt hantverk</name>
+  <englishName>Sami handicrafts</englishName>
+  <description
+  >&lt;p&gt;Ämnet samiskt hantverk behandlar tillverkning av redskap, bruksföremål och konsthantverk. Det behandlar traditionella och moderna hantverkstekniker, material, verktyg, maskiner och annan utrustning inom det hantverksområde som eleven har valt. Det behandlar också yrkesetik under arbetsprocessen och resultatets kvalitet. Ämnet behandlar vidare hantverkets betydelse som näring, binäring, kulturbärare och identitetsskapare i det samiska samhället, samt dess symbolvärde för den samiska identiteten, livsstilen och levnadssättet.&lt;/p&gt;</description>
+  <code>SAI</code>
+  <status>PUBLISHED</status>
+  <version>2</version>
+  <createdDate>2012-08-07T16:01:14+02:00</createdDate>
+  <modifiedDate>2020-02-19T16:00:30+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Samiskt hantverk&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet samiskt hantverk ska syfta till att eleverna utvecklar förmåga att genomföra alla steg i hantverksprocessen från idé till färdig produkt. Den ska bidra till att eleverna utvecklar förmåga att identifiera behov, planera med skiss eller ritning, välja lämpliga material och tekniker, genomföra och redovisa arbetet samt analysera och utvärdera resultatet. Undervisningen ska stimulera eleverna till att utveckla initiativförmåga, idérikedom, självständighet, personligt ansvarstagande, samarbetsförmåga, egen drivkraft och skaparglädje. Eleverna ska ges möjlighet att utveckla ett kreativt tänkande, ett estetiskt förhållningssätt och känsla för form. Därför ska undervisningen ge såväl kunskaper om färg och form som färdigheter i design och formgivning.&lt;/p&gt;&lt;p&gt;Undervisningen ska också bidra till att eleverna utvecklar förmåga att använda traditionella och nya material och tekniker inom valt hantverksområde liksom färdigheter i att använda verktyg och maskiner.&lt;/p&gt;&lt;p&gt;Undervisningen ska bidra till att eleverna utvecklar förståelse av att bevara och utveckla det samiska hantverket samt av hantverkets betydelse för samiskt kultur- och näringsliv. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att använda fackspråk och samisk terminologi som ett hjälpmedel för att förstå och beskriva det samiska hantverket i nutid och historisk tid.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet samiskt hantverk ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om den samiska hantverkstraditionen samt förmåga att bedöma hantverksprodukters kvalitet och estetiska värde.&lt;/li&gt; &lt;li&gt;Färdigheter i att utföra samiska hantverkstekniker och att planera, välja och använda lämpliga material, tekniker, verktyg och maskiner.&lt;/li&gt; &lt;li&gt;Kunskaper om att ta till vara material till samiskt hantverk och att bedöma materialets kvalitet.&lt;/li&gt; &lt;li&gt;Kunskaper om färg- och formlära, samiska ortskaraktärer och symboler samt färdigheter i att använda dem under skapandeprocessen.&lt;/li&gt; &lt;li&gt;Färdigheter i skisstekniker, rittekniker och tekniska beskrivningar som är relevanta för det valda hantverksområdet.&lt;/li&gt; &lt;li&gt;Förmåga att beräkna kostnader samt material- och tidsåtgång.&lt;/li&gt; &lt;li&gt;Färdigheter i att använda fackspråk och samisk terminologi samt färdigheter i att använda både internationella och samiska måttsystem.&lt;/li&gt; &lt;li&gt;Förmåga att utvärdera, analysera och dokumentera arbetsprocess och resultat.&lt;/li&gt; &lt;li&gt;Färdigheter i att sköta och underhålla material, verktyg och maskiner.&lt;/li&gt; &lt;li&gt;Färdigheter i att arbeta ergonomiskt och med hänsyn till miljö, arbetsmiljö och säkerhet.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Samisk hantverkskultur, 50 poäng.&lt;/li&gt; &lt;li&gt;Samiskt hantverk 1, 100 poäng. Kursen kan läsas flera gånger med innehåll från olika hantverksområden.&lt;/li&gt; &lt;li&gt;Samiskt hantverk 2, 100 poäng, som bygger på kursen samiskt hantverk 1. Kursen kan läsas flera gånger med innehåll från olika hantverksområden.&lt;/li&gt; &lt;li&gt;Samiskt hantverk 3, 100 poäng, som bygger på kursen samiskt hantverk 2. Kursen kan läsas flera gånger med innehåll från olika hantverksområden.&lt;/li&gt; &lt;li&gt;Samiskt hantverk 4, 100 poäng, som bygger på kursen samiskt hantverk 3.&lt;/li&gt; &lt;li&gt;Samiskt hantverk 5, 100 poäng, som bygger på kursen samiskt hantverk 4.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2011:169</skolfsId>
+  <applianceDate>2012-05-31T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Samisk hantverkskultur</name>
+    <englishName>Sami handicraft culture</englishName>
+    <description
+    >&lt;p&gt;Kursen samisk hantverkskultur omfattar punkterna 1 och 4–7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>SAISAM0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Samisk hantverkskultur, 50 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: SAISAM0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Det samiska hantverkets roll i samiskt näringsliv både ur ett historiskt och nutida perspektiv.&lt;/li&gt; &lt;li&gt;Samiska slöjdare och konstnärer och deras betydelse för den samiska kulturen och dess utveckling.&lt;/li&gt; &lt;li&gt;Användningsområde och material för samiskt hantverk och samiska bruksföremål samt utvecklingen av konsthantverk.&lt;/li&gt; &lt;li&gt;Material-, tids- och kostnadskalkyler samt arbetsbeskrivningar.&lt;/li&gt; &lt;li&gt;Samiska ortskaraktärer och traditionellt samiskt hantverk.&lt;/li&gt; &lt;li&gt;Samisk design med färg, form och symboler.&lt;/li&gt; &lt;li&gt;Samisk terminologi och fackspråk. &lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>50</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för huvuddragen i samiskt hantverk och den samiska kulturens utveckling från komsakulturen fram till i dag. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för vilken roll samiskt hantverk har i samiskt näringsliv. Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för användningsområden och material för samiskt hantverk och samiska bruksföremål. Dessutom redogör eleven &lt;strong&gt;översiktligt&lt;/strong&gt; för utvecklingen från bruksföremål till konsthantverk.&lt;/p&gt;&lt;p&gt;Eleven gör &lt;strong&gt;enkla &lt;/strong&gt;tolkningar och analyser av samiska konstnärers och slöjdares verk samt ger &lt;strong&gt;enkla &lt;/strong&gt;motiv för sina tolkningar och analyser. Dessutom resonerar eleven &lt;strong&gt;översiktligt &lt;/strong&gt;om vad konstnärer och slöjdare har haft för betydelse för det samiska samhället och den samiska kulturen. I sina tolkningar, analyser och resonemang använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;relevanta begrepp och någon relevant metod eller teori.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för de olika samiska ortskaraktärerna samt för &lt;strong&gt;enkla &lt;/strong&gt;resonemang kring beskrivning och identifiering av traditionellt samiskt hantverk. Eleven för också &lt;strong&gt;enkla &lt;/strong&gt;resonemang om hur de samiska symbolerna tolkas i samiskt hantverk och i den samiska kulturen.&lt;/p&gt;&lt;p&gt;Eleven skapar samisk design med färg, form och samiska symboler i &lt;strong&gt;enkla&lt;/strong&gt; arbetsbeskrivningar och skisser. Eleven gör &lt;strong&gt;med viss säkerhet &lt;/strong&gt;material-, tids- och kostnadskalkyler. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; relevant fackspråk och samisk terminologi. &lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för huvuddragen i samiskt hantverk och den samiska kulturens utveckling från komsakulturen fram till i dag. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för vilken roll samiskt hantverk har i samiskt näringsliv. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för användningsområden och material för samiskt hantverk och samiska bruksföremål. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för utvecklingen från bruksföremål till konsthantverk.&lt;/p&gt;&lt;p&gt;Eleven gör tolkningar och analyser av samiska konstnärers och slöjdares verk samt ger &lt;strong&gt;välgrundade &lt;/strong&gt;motiv för sina tolkningar och analyser. Dessutom resonerar eleven &lt;strong&gt;utförligt&lt;/strong&gt; om vad konstnärer och slöjdare har haft för betydelse för det samiska samhället och den samiska kulturen. I sina tolkningar, analyser och resonemang använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;relevanta begrepp och någon relevant metod eller teori.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för de olika samiska ortskaraktärerna samt för &lt;strong&gt;välgrundade &lt;/strong&gt;resonemang kring beskrivning och identifiering av traditionellt samiskt hantverk. Eleven för också &lt;strong&gt;välgrundade &lt;/strong&gt;resonemang om hur de samiska symbolerna tolkas i samiskt hantverk och i den samiska kulturen.&lt;/p&gt;&lt;p&gt;Eleven skapar samisk design med färg, form och samiska symboler i &lt;strong&gt;genomarbetade&lt;/strong&gt; arbetsbeskrivningar och skisser. Eleven gör &lt;strong&gt;med viss säkerhet &lt;/strong&gt;material-, tids- och kostnadskalkyler. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; relevant fackspråk och samisk terminologi. &lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för huvuddragen i samiskt hantverk och den samiska kulturens utveckling från komsakulturen fram till i dag. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för vilken roll samiskt hantverk har i samiskt näringsliv. Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för användningsområden och material för samiskt hantverk och samiska bruksföremål. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för utvecklingen från bruksföremål till konsthantverk.&lt;/p&gt;&lt;p&gt;Eleven gör &lt;strong&gt;avancerade &lt;/strong&gt;tolkningar och analyser av samiska konstnärers och slöjdares verk samt ger &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;motiv för sina tolkningar och analyser. Dessutom resonerar eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; om vad konstnärer och slöjdare har haft för betydelse för det samiska samhället och den samiska kulturen. I sina tolkningar, analyser och resonemang använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;relevanta begrepp och någon relevant metod eller teori.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för de olika samiska ortskaraktärerna samt för &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;resonemang kring beskrivning och identifiering av traditionellt samiskt hantverk. Eleven för också &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;resonemang om hur de samiska symbolerna tolkas i samiskt hantverk och i den samiska kulturen.&lt;/p&gt;&lt;p&gt;Eleven skapar samisk design med färg, form och samiska symboler i &lt;strong&gt;genomarbetade&lt;/strong&gt; arbetsbeskrivningar och skisser. Eleven gör &lt;strong&gt;med säkerhet &lt;/strong&gt;material-, tids- och kostnadskalkyler. Dessutom använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; relevant fackspråk och samisk terminologi. &lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Samiskt hantverk 1</name>
+    <englishName>Sami handicrafts 1</englishName>
+    <description
+    >&lt;p&gt;Kursen samiskt hantverk 1 omfattar punkterna 2–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2, 3, 5 och 10. I kursen behandlas grundläggande kunskaper i valt hantverksområde. &lt;/p&gt;</description>
+    <code>SAISAM01S</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Samiskt hantverk 1, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: SAISAM01S&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Traditionella material, redskap, arbetsmetoder, maskiner och tekniker. I samband med det behandlas materialberäkning och planering av tidsåtgång.&lt;/li&gt; &lt;li&gt;Produkt- och materialkunskap i samband med planering och genomförande.&lt;/li&gt; &lt;li&gt;Färg och form.&lt;/li&gt; &lt;li&gt;Skisser och mönster till olika samiska hantverksprodukter inom valt hantverksområde.&lt;/li&gt; &lt;li&gt;Fackspråk och samisk terminologi.&lt;/li&gt; &lt;li&gt;Utvärdering av arbetsprocess och resultat.&lt;/li&gt; &lt;li&gt;Hantering, underhåll och skötsel av maskiner och verktyg.&lt;/li&gt; &lt;li&gt;Ergonomi, säkerhet, arbetsmiljö och skyddsutrustning.&lt;/li&gt; &lt;li&gt;Miljöhänsyn i arbetet, till exempel återvinning och källsortering.&lt;/li&gt; &lt;li&gt;Ansvarsfullt uppträdande i yrkesutövandet. &lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven tolkar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsuppgifter samt gör en &lt;strong&gt;enkel &lt;/strong&gt;planering av sitt arbete. Eleven organiserar och genomför sitt arbete &lt;strong&gt;med viss säkerhet&lt;/strong&gt;. &lt;strong&gt;I samråd &lt;/strong&gt;med handledare väljer eleven traditionella material och arbetsmetoder utifrån den tänkta slutproduktens kvalitet och estetiska utformning. Eleven motiverar &lt;strong&gt;översiktligt &lt;/strong&gt;sina val med hänsyn till ekonomi och miljö.&lt;/p&gt;&lt;p&gt;I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av &lt;strong&gt;enkla &lt;/strong&gt;skisser och ritningar, ger &lt;strong&gt;enkla &lt;/strong&gt;förslag på alternativa lösningar och gör &lt;strong&gt;med viss säkerhet enkla&lt;/strong&gt; beräkningar.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;i samråd &lt;/strong&gt;med handledare och &lt;strong&gt;med viss säkerhet &lt;/strong&gt;tekniker och metoder och uppnår resultat &lt;strong&gt;med en&lt;/strong&gt; teknisk och estetisk kvalitet &lt;strong&gt;som går att använda i det avsedda sammanhanget&lt;/strong&gt;. I arbetet hanterar eleven verktyg och maskiner med &lt;strong&gt;visst &lt;/strong&gt;handlag. Under arbetet upptäcker och löser eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare eventuella problem som uppkommer.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;sin arbetsprocess och sitt resultat samt värderar dessa faktorer med &lt;strong&gt;enkla &lt;/strong&gt;omdömen. Beskrivningen innehåller &lt;strong&gt;enkla &lt;/strong&gt;förslag på förbättringar av arbetsprocessen. I beskrivningen använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; relevant fackspråk och samisk terminologi.&lt;/p&gt;&lt;p&gt;Eleven hanterar och vårdar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare material, verktyg och maskiner på ett riktigt och säkert sätt. Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven tolkar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsuppgifter samt gör en &lt;strong&gt;genomarbetad &lt;/strong&gt;planering av sitt arbete. Eleven organiserar och genomför sitt arbete &lt;strong&gt;med viss säkerhet&lt;/strong&gt;. &lt;strong&gt;Efter samråd &lt;/strong&gt;med handledare väljer eleven traditionella material och arbetsmetoder utifrån &lt;strong&gt;materialens egenskaper och &lt;/strong&gt;den tänkta slutproduktens kvalitet och estetiska utformning. Eleven motiverar &lt;strong&gt;utförligt &lt;/strong&gt;sina val med hänsyn till ekonomi och miljö.&lt;/p&gt;&lt;p&gt;I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av &lt;strong&gt;genomarbetade &lt;/strong&gt;skisser och ritningar, ger &lt;strong&gt;välgrundade &lt;/strong&gt;förslag på alternativa lösningar och gör &lt;strong&gt;med viss säkerhet &lt;/strong&gt;beräkningar.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare och &lt;strong&gt;med viss säkerhet &lt;/strong&gt;tekniker och metoder och uppnår resultat &lt;strong&gt;med en&lt;/strong&gt; teknisk och estetisk kvalitet &lt;strong&gt;som fungerar väl i det avsedda sammanhanget&lt;/strong&gt;. I arbetet hanterar eleven verktyg och maskiner med &lt;strong&gt;gott &lt;/strong&gt;handlag. Under arbetet upptäcker och löser eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare eventuella problem som uppkommer.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;sin arbetsprocess och sitt resultat samt värderar dessa faktorer med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen. Beskrivningen innehåller &lt;strong&gt;välgrundade &lt;/strong&gt;förslag på förbättringar av arbetsprocessen. I beskrivningen använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; relevant fackspråk och samisk terminologi.&lt;/p&gt;&lt;p&gt;Eleven hanterar och vårdar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare material, verktyg och maskiner på ett riktigt och säkert sätt. Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder.&lt;strong&gt; Eleven&lt;/strong&gt;&lt;strong&gt; utvärderar sin egen arbetsmiljö med enkla omdömen samt ger välgrundade förslag på förbättringar av arbetsmiljön.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven tolkar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsuppgifter samt gör en &lt;strong&gt;genomarbetad &lt;/strong&gt;planering av sitt arbete. Eleven organiserar och genomför sitt arbete &lt;strong&gt;med säkerhet&lt;/strong&gt;. &lt;strong&gt;Efter samråd &lt;/strong&gt;med handledare väljer eleven traditionella material och arbetsmetoder utifrån &lt;strong&gt;materialens egenskaper och &lt;/strong&gt;den tänkta slutproduktens kvalitet och estetiska utformning. Eleven motiverar &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;sina val med hänsyn till ekonomi och miljö.&lt;/p&gt;&lt;p&gt;I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av &lt;strong&gt;genomarbetade &lt;/strong&gt;skisser och ritningar, ger &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;förslag på alternativa lösningar och gör &lt;strong&gt;med säkerhet avancerade &lt;/strong&gt;beräkningar.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare och &lt;strong&gt;med säkerhet &lt;/strong&gt;tekniker och metoder och uppnår resultat &lt;strong&gt;som uppfyller höga krav på&lt;/strong&gt; teknisk och estetisk kvalitet. I arbetet hanterar eleven verktyg och maskiner med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag. Under arbetet upptäcker och löser eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare eventuella problem som uppkommer.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;sin arbetsprocess och sitt resultat samt värderar dessa faktorer med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen. Beskrivningen innehåller &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;förslag på förbättringar av arbetsprocessen. I beskrivningen använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; relevant fackspråk och samisk terminologi.&lt;/p&gt;&lt;p&gt;Eleven hanterar och vårdar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare material, verktyg och maskiner på ett riktigt och säkert sätt. Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder.&lt;strong&gt; Eleven&lt;/strong&gt;&lt;strong&gt; utvärderar sin egen arbetsmiljö med nyanserade omdömen samt ger välgrundade och nyanserade förslag på förbättringar av arbetsmiljön och hur hon eller han själv kan bidra till dessa.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Samiskt hantverk 2</name>
+    <englishName>Sami handicrafts 2</englishName>
+    <description
+    >&lt;p&gt;Kursen samiskt hantverk 2 omfattar punkterna 2–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2, 4 och 7–9. I kursen befästs grundkunskaperna i valt hantverksområde. &lt;/p&gt;</description>
+    <code>SAISAM02S</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Samiskt hantverk 2, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: SAISAM02S&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Kreativt och metodiskt tänkande i samiskt hantverk.&lt;/li&gt; &lt;li&gt;Beskrivning, hantering och kvalitetsbedömning av materialet redan vid materialinsamlingen.&lt;/li&gt; &lt;li&gt;Materialets uppbyggnad och tillväxt.&lt;/li&gt; &lt;li&gt;Färgers, formers och proportioners betydelse vid planering av produkter.&lt;/li&gt; &lt;li&gt;Ekonomiska beräkningar samt bedömning av produktens kvalitet och estetiska värde.&lt;/li&gt; &lt;li&gt;Traditionella samiska måttenheter samt internationella måttenheter och standarder.&lt;/li&gt; &lt;li&gt;Beskrivning och dokumentation av idéer och arbetsprocesser med hjälp av fackspråk och samisk terminologi.&lt;/li&gt; &lt;li&gt;Hantering, underhåll och skötsel av maskiner och verktyg enligt säkerhetsföreskrifter.&lt;/li&gt; &lt;li&gt;Ergonomiskt riktigt och arbetsmiljömässigt säkert arbetssätt och hur man använder skyddsutrustning.&lt;/li&gt; &lt;li&gt;Arbete med hänsyn till miljön, till exempel återvinning och källsortering. &lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven tolkar &lt;strong&gt;i samråd&lt;/strong&gt; med handledare arbetsuppgifter samt gör en &lt;strong&gt;enkel &lt;/strong&gt;planering av sitt arbete. Eleven organiserar och genomför sitt arbete &lt;strong&gt;med viss säkerhet&lt;/strong&gt;. &lt;strong&gt;I samråd med &lt;/strong&gt;handledare väljer eleven material och arbetsmetoder utifrån den tänkta slutproduktens kvalitet och estetiska utformning. Eleven motiverar &lt;strong&gt;översiktligt &lt;/strong&gt;sina val med hänsyn till ekonomi och miljö.&lt;/p&gt;&lt;p&gt;I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av &lt;strong&gt;enkla &lt;/strong&gt;skisser och ritningar, ger &lt;strong&gt;enkla &lt;/strong&gt;förslag på alternativa lösningar och gör &lt;strong&gt;med viss säkerhet enkla&lt;/strong&gt; beräkningar.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;i samråd &lt;/strong&gt;med handledare &lt;strong&gt;och med viss säkerhet &lt;/strong&gt;tekniker och metoder och uppnår resultat &lt;strong&gt;med en &lt;/strong&gt;teknisk och estetisk kvalitet &lt;strong&gt;som går att använda i det avsedda sammanhanget&lt;/strong&gt;. I arbetet hanterar eleven verktyg och maskiner med &lt;strong&gt;visst &lt;/strong&gt;handlag. Under arbetet upptäcker och löser eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare eventuella problem som uppkommer.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;sin arbetsprocess och sitt resultat samt värderar dessa faktorer med &lt;strong&gt;enkla &lt;/strong&gt;omdömen. Beskrivningen innehåller &lt;strong&gt;enkla &lt;/strong&gt;förslag på förbättringar av arbetsprocessen. I beskrivningen använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;relevant fackspråk och samisk terminologi.&lt;/p&gt;&lt;p&gt;Eleven hanterar och vårdar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare material, verktyg och maskiner på ett riktigt och säkert sätt. Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven tolkar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsuppgifter samt gör en &lt;strong&gt;genomarbetad &lt;/strong&gt;planering av sitt arbete. Eleven organiserar och genomför sitt arbete &lt;strong&gt;med viss säkerhet&lt;/strong&gt;. &lt;strong&gt;Efter samråd &lt;/strong&gt;med handledare väljer eleven material och arbetsmetoder utifrån &lt;strong&gt;materialens egenskaper och &lt;/strong&gt;den tänkta slutproduktens kvalitet och estetiska utformning. Eleven motiverar &lt;strong&gt;utförligt &lt;/strong&gt;sina val med hänsyn till ekonomi och miljö.&lt;/p&gt;&lt;p&gt;I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av &lt;strong&gt;genomarbetade &lt;/strong&gt;skisser och ritningar, ger &lt;strong&gt;välgrundade &lt;/strong&gt;förslag på alternativa lösningar och gör &lt;strong&gt;med viss säkerhet &lt;/strong&gt;beräkningar.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare och &lt;strong&gt;med viss säkerhet &lt;/strong&gt;tekniker och metoder och uppnår resultat &lt;strong&gt;med en&lt;/strong&gt; teknisk och estetisk kvalitet &lt;strong&gt;som fungerar väl i det avsedda sammanhanget&lt;/strong&gt;. I arbetet hanterar eleven verktyg och maskiner med &lt;strong&gt;gott &lt;/strong&gt;handlag. Under arbetet upptäcker och löser eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare eventuella problem som uppkommer.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;sin arbetsprocess och sitt resultat samt värderar dessa faktorer med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen. Beskrivningen innehåller &lt;strong&gt;välgrundade &lt;/strong&gt;förslag på förbättringar av arbetsprocessen. I beskrivningen använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; relevant fackspråk och samisk terminologi.&lt;/p&gt;&lt;p&gt;Eleven hanterar och vårdar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare material, verktyg och maskiner på ett riktigt och säkert sätt. Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder.&lt;strong&gt; Eleven&lt;/strong&gt;&lt;strong&gt; utvärderar sin egen arbetsmiljö med enkla omdömen samt ger välgrundade förslag på förbättringar av arbetsmiljön.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven tolkar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsuppgifter samt gör en &lt;strong&gt;genomarbetad &lt;/strong&gt;planering av sitt arbete. Eleven organiserar och genomför sitt arbete &lt;strong&gt;med säkerhet&lt;/strong&gt;. &lt;strong&gt;Efter samråd &lt;/strong&gt;med handledare väljer eleven material och arbetsmetoder utifrån &lt;strong&gt;materialens egenskaper och &lt;/strong&gt;den tänkta slutproduktens kvalitet och estetiska utformning. Eleven motiverar &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;sina val med hänsyn till ekonomi och miljö.&lt;/p&gt;&lt;p&gt;I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av &lt;strong&gt;genomarbetade &lt;/strong&gt;skisser och ritningar, ger &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;förslag på alternativa lösningar och gör &lt;strong&gt;med säkerhet avancerade &lt;/strong&gt;beräkningar.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare och &lt;strong&gt;med säkerhet &lt;/strong&gt;tekniker och metoder och uppnår resultat &lt;strong&gt;som uppfyller höga krav på&lt;/strong&gt; teknisk och estetisk kvalitet. I arbetet hanterar eleven verktyg och maskiner med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag. Under arbetet upptäcker och löser eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare eventuella problem som uppkommer.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;sin arbetsprocess och sitt resultat samt värderar dessa faktorer med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen. Beskrivningen innehåller &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;förslag på förbättringar av arbetsprocessen. I beskrivningen använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; relevant fackspråk och samisk terminologi.&lt;/p&gt;&lt;p&gt;Eleven hanterar och vårdar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare material, verktyg och maskiner på ett riktigt och säkert sätt. Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder.&lt;strong&gt; Eleven &lt;/strong&gt;&lt;strong&gt;utvärderar sin egen arbetsmiljö med nyanserade omdömen samt ger välgrundade och nyanserade förslag på förbättringar av arbetsmiljön och hur hon eller han själv kan bidra till dessa.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <courses>
+    <name>Samiskt hantverk 3</name>
+    <englishName>Sami handicrafts 3</englishName>
+    <description
+    >&lt;p&gt;Kursen samiskt hantverk 3 omfattar punkterna 2–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2, 6–8 och 10. I kursen behandlas fördjupade kunskaper i valt hantverksområde. &lt;/p&gt;</description>
+    <code>SAISAM03S</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Samiskt hantverk 3, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: SAISAM03S&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Välja och införskaffa traditionellt material till samiskt hantverk och göra det med hänsyn till natur och miljö.&lt;/li&gt; &lt;li&gt;Materialkunskaper i samband med framställning, förädling, egenskaper, skötsel och användningsområden.&lt;/li&gt; &lt;li&gt;Planering av arbetet. I samband med det behandlas material-, tids- och kostnadskalkyler.&lt;/li&gt; &lt;li&gt;Val av form, färg, material och metoder samt verktyg, maskiner och redskap till egna samiska hantverksprodukter.&lt;/li&gt; &lt;li&gt;Slöjd enligt traditionella former, skisser och tekniker och i enlighet med normer och kvalitetskriterier.&lt;/li&gt; &lt;li&gt;Samisk terminologi utifrån ortskaraktärer.&lt;/li&gt; &lt;li&gt;Utvärdering och analys av arbetsprocess och resultat.&lt;/li&gt; &lt;li&gt;Dokumentation av arbetsprocessen och det färdiga resultatet.&lt;/li&gt; &lt;li&gt;Hantering, underhåll och skötsel av maskiner och verktyg enligt säkerhetsföreskrifter.&lt;/li&gt; &lt;li&gt;Ergonomiskt riktigt och arbetsmiljömässigt säkert arbetssätt och användande av skyddsutrustning.&lt;/li&gt; &lt;li&gt;Arbete med hänsyn till miljön, till exempel genom återvinning och källsortering. &lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven tolkar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsuppgifter samt gör en &lt;strong&gt;enkel &lt;/strong&gt;planering av sitt arbete. Eleven organiserar och genomför sitt arbete &lt;strong&gt;med viss säkerhet&lt;/strong&gt;. &lt;strong&gt;I samråd &lt;/strong&gt;med handledare väljer eleven material och arbetsmetoder utifrån den tänkta slutproduktens kvalitet och estetiska utformning. Eleven motiverar &lt;strong&gt;översiktligt &lt;/strong&gt;sina val med hänsyn till ekonomi och miljö.&lt;/p&gt;&lt;p&gt;I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av &lt;strong&gt;enkla &lt;/strong&gt;skisser och ritningar, ger &lt;strong&gt;enkla &lt;/strong&gt;förslag på alternativa lösningar och gör &lt;strong&gt;med viss säkerhet enkla &lt;/strong&gt;beräkningar.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;i samråd &lt;/strong&gt;med handledare &lt;strong&gt;och med viss säkerhet &lt;/strong&gt;tekniker och metoder och uppnår resultat &lt;strong&gt;med en &lt;/strong&gt;teknisk och estetisk kvalitet&lt;strong&gt; som går att använda i det avsedda sammanhanget&lt;/strong&gt;. I arbetet hanterar eleven verktyg och maskiner med &lt;strong&gt;visst &lt;/strong&gt;handlag. Under arbetet upptäcker och löser eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare eventuella problem som uppkommer.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;sin arbetsprocess och sitt resultat samt värderar dessa faktorer med &lt;strong&gt;enkla &lt;/strong&gt;omdömen. Beskrivningen innehåller &lt;strong&gt;enkla &lt;/strong&gt;förslag på förbättringar av arbetsprocessen. I beskrivningen använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;relevant fackspråk och samisk terminologi.&lt;/p&gt;&lt;p&gt;Eleven hanterar och vårdar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare material, verktyg och maskiner på ett riktigt och säkert sätt. Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven tolkar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsuppgifter samt gör en &lt;strong&gt;genomarbetad &lt;/strong&gt;planering av sitt arbete. Eleven organiserar och genomför sitt arbete &lt;strong&gt;med viss säkerhet&lt;/strong&gt;. &lt;strong&gt;Efter samråd &lt;/strong&gt;med handledare väljer eleven material och arbetsmetoder utifrån &lt;strong&gt;materialens egenskaper och &lt;/strong&gt;den tänkta slutproduktens kvalitet och estetiska utformning. Eleven motiverar &lt;strong&gt;utförligt &lt;/strong&gt;sina val med hänsyn till ekonomi och miljö.&lt;/p&gt;&lt;p&gt;I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av &lt;strong&gt;genomarbetade &lt;/strong&gt;skisser och ritningar, ger &lt;strong&gt;välgrundade &lt;/strong&gt;förslag på alternativa lösningar och gör &lt;strong&gt;med viss säkerhet &lt;/strong&gt;beräkningar.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare och &lt;strong&gt;med viss säkerhet &lt;/strong&gt;tekniker och metoder och uppnår resultat &lt;strong&gt;med en&lt;/strong&gt; teknisk och estetisk kvalitet &lt;strong&gt;som fungerar väl i det avsedda sammanhanget&lt;/strong&gt;. I arbetet hanterar eleven verktyg och maskiner med &lt;strong&gt;gott &lt;/strong&gt;handlag. Under arbetet upptäcker och löser eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare eventuella problem som uppkommer.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;sin arbetsprocess och sitt resultat samt värderar dessa faktorer med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen. Beskrivningen innehåller &lt;strong&gt;välgrundade &lt;/strong&gt;förslag på förbättringar av arbetsprocessen. I beskrivningen använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; relevant fackspråk och samisk terminologi.&lt;/p&gt;&lt;p&gt;Eleven hanterar och vårdar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare material, verktyg och maskiner på ett riktigt och säkert sätt. Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder.&lt;strong&gt; Eleven &lt;/strong&gt;&lt;strong&gt;utvärderar sin egen arbetsmiljö med enkla omdömen samt ger välgrundade förslag på förbättringar av arbetsmiljön&lt;/strong&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven tolkar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsuppgifter samt gör en &lt;strong&gt;genomarbetad &lt;/strong&gt;planering av sitt arbete. Eleven organiserar och genomför sitt arbete &lt;strong&gt;med säkerhet&lt;/strong&gt;. &lt;strong&gt;Efter samråd &lt;/strong&gt;med handledare väljer eleven material och arbetsmetoder utifrån &lt;strong&gt;materialens egenskaper och &lt;/strong&gt;den tänkta slutproduktens kvalitet och estetiska utformning. Eleven motiverar &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;sina val med hänsyn till ekonomi och miljö.&lt;/p&gt;&lt;p&gt;I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av &lt;strong&gt;genomarbetade &lt;/strong&gt;skisser och ritningar, ger &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;förslag på alternativa lösningar och gör &lt;strong&gt;med säkerhet avancerade &lt;/strong&gt;beräkningar.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare och &lt;strong&gt;med säkerhet &lt;/strong&gt;tekniker och metoder och uppnår resultat &lt;strong&gt;som uppfyller höga krav på&lt;/strong&gt; teknisk och estetisk kvalitet. I arbetet hanterar eleven verktyg och maskiner med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag. Under arbetet upptäcker och löser eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare eventuella problem som uppkommer.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;sin arbetsprocess och sitt resultat samt värderar dessa faktorer med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen. Beskrivningen innehåller &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;förslag på förbättringar av arbetsprocessen. I beskrivningen använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; relevant fackspråk och samisk terminologi.&lt;/p&gt;&lt;p&gt;Eleven hanterar och vårdar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare material, verktyg och maskiner på ett riktigt och säkert sätt. Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder.&lt;strong&gt; Eleven &lt;/strong&gt;&lt;strong&gt;utvärderar sin egen arbetsmiljö med nyanserade omdömen samt ger välgrundade och nyanserade förslag på förbättringar av arbetsmiljön och hur hon eller han själv kan bidra till dessa&lt;/strong&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>4</sortOrder>
+  </courses>
+  <courses>
+    <name>Samiskt hantverk 4</name>
+    <englishName>Sami handicrafts 4</englishName>
+    <description
+    >&lt;p&gt;Kursen samiskt hantverk 4 omfattar punkterna 2–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2–3, 6–8 och 10. I kursen behandlas utökade fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>SAISAM04</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Samiskt hantverk 4, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: SAISAM04&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Produkt- och materialkunskap i samband med planering och genomförande.&lt;/li&gt; &lt;li&gt;Produktionsplanering för effektivisering. I samband med det behandlas material-, tids- och kostnadskalkyler.&lt;/li&gt; &lt;li&gt;Skissteknik, ritteknik och konstruktion för vidareutveckling av idéer. Analys av färg, form och proportioner för kvalitetshöjning av resultat.&lt;/li&gt; &lt;li&gt;Fackspråk och samisk terminologi, anpassat efter situation och mottagare, till exempel vid kommunikation med bransch och kund.&lt;/li&gt; &lt;li&gt;Utvärdering och analys av arbetsprocess och resultat.&lt;/li&gt; &lt;li&gt;Digitala tekniker för presentation av det färdiga arbetet.&lt;/li&gt; &lt;li&gt;Ergonomiskt riktigt och arbetsmiljömässigt säkert arbetssätt.&lt;/li&gt; &lt;li&gt;Arbete med hänsyn till miljön, till exempel genom återvinning och källsortering.&lt;/li&gt; &lt;li&gt;Kundorienterat och ansvarsfullt yrkesutövande vid målinriktad tillverkning, försäljning och service, till exempel vid kundsamtal.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven tolkar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsuppgifter samt gör en &lt;strong&gt;enkel &lt;/strong&gt;planering av sitt arbete. Eleven organiserar och genomför sitt arbete &lt;strong&gt;med viss säkerhet&lt;/strong&gt;. &lt;strong&gt;I samråd &lt;/strong&gt;med handledare väljer eleven material och arbetsmetoder utifrån den tänkta slutproduktens kvalitet och estetiska utformning. Eleven motiverar &lt;strong&gt;översiktligt &lt;/strong&gt;sina val med hänsyn till ekonomi och miljö.&lt;/p&gt;&lt;p&gt;I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av &lt;strong&gt;enkla &lt;/strong&gt;skisser och ritningar, ger &lt;strong&gt;enkla &lt;/strong&gt;förslag på alternativa lösningar och gör &lt;strong&gt;med viss säkerhet enkla &lt;/strong&gt;beräkningar.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;i samråd &lt;/strong&gt;med handledare &lt;strong&gt;och med viss säkerhet &lt;/strong&gt;tekniker och metoder och uppnår resultat &lt;strong&gt;med en &lt;/strong&gt;teknisk och estetisk kvalitet &lt;strong&gt;som går att använda i det avsedda sammanhanget&lt;/strong&gt;. I arbetet hanterar eleven verktyg och maskiner med &lt;strong&gt;visst &lt;/strong&gt;handlag. Under arbetet upptäcker och löser eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare eventuella problem som uppkommer.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;sin arbetsprocess och sitt resultat samt värderar dessa faktorer med &lt;strong&gt;enkla &lt;/strong&gt;omdömen. Beskrivningen innehåller &lt;strong&gt;enkla &lt;/strong&gt;förslag på förbättringar av arbetsprocessen. I beskrivningen använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;relevant fackspråk och samisk terminologi.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;i samråd &lt;/strong&gt;med handledare digitala tekniker. Dessutom hanterar och vårdar eleven på ett riktigt och säkert sätt material, verktyg och maskiner. Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder.&lt;/p&gt;&lt;p&gt;Eleven agerar kundorienterat i &lt;strong&gt;bekanta&lt;/strong&gt; försäljnings- eller servicesituationer samt motiverar &lt;strong&gt;översiktligt&lt;/strong&gt; sitt agerande.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven tolkar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsuppgifter samt gör en &lt;strong&gt;genomarbetad &lt;/strong&gt;planering av sitt arbete. Eleven organiserar och genomför sitt arbete &lt;strong&gt;med viss säkerhet&lt;/strong&gt;. &lt;strong&gt;Efter samråd &lt;/strong&gt;med handledare väljer eleven material och arbetsmetoder utifrån &lt;strong&gt;materialens egenskaper och &lt;/strong&gt;den tänkta slutproduktens kvalitet och estetiska utformning. Eleven motiverar &lt;strong&gt;utförligt &lt;/strong&gt;sina val med hänsyn till ekonomi och miljö.&lt;/p&gt;&lt;p&gt;I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av &lt;strong&gt;genomarbetade &lt;/strong&gt;skisser och ritningar, ger &lt;strong&gt;välgrundade &lt;/strong&gt;förslag på alternativa lösningar och gör &lt;strong&gt;med viss säkerhet &lt;/strong&gt;beräkningar.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare och &lt;strong&gt;med viss säkerhet &lt;/strong&gt;tekniker och metoder och uppnår resultat &lt;strong&gt;med en&lt;/strong&gt; teknisk och estetisk kvalitet &lt;strong&gt;som fungerar väl i det avsedda sammanhanget&lt;/strong&gt;. I arbetet hanterar eleven verktyg och maskiner med &lt;strong&gt;gott &lt;/strong&gt;handlag. Under arbetet upptäcker och löser eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare eventuella problem som uppkommer.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;sin arbetsprocess och sitt resultat samt värderar dessa faktorer med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen. Beskrivningen innehåller &lt;strong&gt;välgrundade &lt;/strong&gt;förslag på förbättringar av arbetsprocessen. I beskrivningen använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; relevant fackspråk och samisk terminologi.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare digitala tekniker. Dessutom hanterar och vårdar eleven på ett riktigt och säkert sätt material, verktyg och maskiner. Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder. &lt;strong&gt;Eleven utvärderar sin egen arbetsmiljö med enkla omdömen samt ger enkla förslag på förbättringar av arbetsmiljön.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Eleven agerar kundorienterat i &lt;strong&gt;bekanta&lt;/strong&gt; försäljnings- eller servicesituationer,&lt;strong&gt; tar egna initiativ&lt;/strong&gt; samt motiverar &lt;strong&gt;utförligt &lt;/strong&gt;sitt agerande.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven tolkar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsuppgifter samt gör en &lt;strong&gt;genomarbetad &lt;/strong&gt;planering av sitt arbete. Eleven organiserar och genomför sitt arbete &lt;strong&gt;med säkerhet&lt;/strong&gt;. &lt;strong&gt;Efter samråd &lt;/strong&gt;med handledare väljer eleven material och arbetsmetoder utifrån &lt;strong&gt;materialens egenskaper och &lt;/strong&gt;den tänkta slutproduktens kvalitet och estetiska utformning. Eleven motiverar &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;sina val med hänsyn till ekonomi och miljö.&lt;/p&gt;&lt;p&gt;I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av &lt;strong&gt;genomarbetade &lt;/strong&gt;skisser och ritningar, ger &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;förslag på alternativa lösningar och gör &lt;strong&gt;med säkerhet komplexa &lt;/strong&gt;beräkningar.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare och &lt;strong&gt;med säkerhet &lt;/strong&gt;tekniker och metoder och uppnår resultat &lt;strong&gt;som uppfyller höga krav på&lt;/strong&gt; teknisk och estetisk kvalitet. I arbetet hanterar eleven verktyg och maskiner med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag. Under arbetet upptäcker och löser eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare eventuella problem som uppkommer. Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;sin arbetsprocess och sitt resultat samt värderar dessa faktorer med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen. Beskrivningen innehåller &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;förslag på förbättringar av arbetsprocessen. I beskrivningen använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; relevant fackspråk och samisk terminologi.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare digitala tekniker. Dessutom hanterar och vårdar eleven på ett riktigt och säkert sätt material, verktyg och maskiner. Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder. &lt;strong&gt;Eleven&lt;/strong&gt; &lt;strong&gt;utvärderar sin egen arbetsmiljö med nyanserade omdömen samt ger välgrundade förslag på förbättringar av arbetsmiljön och hur hon eller han själv kan bidra till dessa.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Eleven agerar kundorienterat i &lt;strong&gt;nya&lt;/strong&gt; försäljnings- eller servicesituationer, &lt;strong&gt;tar egna initiativ&lt;/strong&gt; samt motiverar &lt;strong&gt;utförligt och&lt;/strong&gt; &lt;strong&gt;nyanserat&lt;/strong&gt; sitt agerande &lt;strong&gt;och ger förslag på alternativa tillvägagångssätt i agerandet&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>5</sortOrder>
+  </courses>
+  <courses>
+    <name>Samiskt hantverk 5</name>
+    <englishName>Sami handicrafts 5</englishName>
+    <description
+    >&lt;p&gt;Kursen samiskt hantverk 5 omfattar punkterna 2–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2, 4–6 och 8. I kursen behandlas utökade fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>SAISAM05</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Samiskt hantverk 5, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: SAISAM05&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Kreativt produktionsarbete med effektivisering, lönsamhet och resultatets kvalitet i fokus. I samband med det behandlas produktionsplanering samt material-, tids- och kostnadskalkyler.&lt;/li&gt; &lt;li&gt;Planering av inköp och prissättning av produkter, varor och tjänster.&lt;/li&gt; &lt;li&gt;Skissteknik, ritteknik och konstruktion för vidareutveckling av idéer. &lt;/li&gt; &lt;li&gt;Analys av färg, form och proportioner för kvalitetshöjning av resultatet.&lt;/li&gt; &lt;li&gt;Fackspråk och samisk terminologi, anpassat efter situation och mottagare, till exempel vid kommunikation med bransch och kund.&lt;/li&gt; &lt;li&gt;Utvärdering och analys av arbetsprocess och resultat.&lt;/li&gt; &lt;li&gt;Digitala tekniker för presentation av det färdiga arbetet.&lt;/li&gt; &lt;li&gt;Ergonomiskt riktigt och arbetsmiljömässigt säkert arbetssätt.&lt;/li&gt; &lt;li&gt;Arbete med hänsyn till miljön, till exempel genom återvinning och källsortering.&lt;/li&gt; &lt;li&gt;Kundorienterat och ansvarsfullt yrkesutövande vid målinriktad tillverkning, försäljning och service, till exempel behovsanalys.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven tolkar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsuppgifter samt gör en &lt;strong&gt;enkel &lt;/strong&gt;planering av sitt arbete. Eleven organiserar och genomför sitt arbete &lt;strong&gt;med viss säkerhet&lt;/strong&gt;. &lt;strong&gt;I samråd &lt;/strong&gt;med handledare väljer eleven material och arbetsmetoder utifrån den tänkta slutproduktens kvalitet och estetiska utformning. Eleven motiverar &lt;strong&gt;översiktligt &lt;/strong&gt;sina val med hänsyn till ekonomi och miljö.&lt;/p&gt;&lt;p&gt;I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av &lt;strong&gt;enkla &lt;/strong&gt;skisser och ritningar, ger &lt;strong&gt;enkla &lt;/strong&gt;förslag på alternativa lösningar och gör &lt;strong&gt;med viss säkerhet enkla &lt;/strong&gt;beräkningar.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;i samråd &lt;/strong&gt;med handledare &lt;strong&gt;och med viss säkerhet &lt;/strong&gt;tekniker och metoder och uppnår resultat &lt;strong&gt;med en &lt;/strong&gt;teknisk och estetisk kvalitet&lt;strong&gt; som går att använda i det avsedda sammanhanget&lt;/strong&gt;. I arbetet hanterar eleven verktyg och maskiner med &lt;strong&gt;visst &lt;/strong&gt;handlag. Under arbetet upptäcker och löser eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare eventuella problem som uppkommer. Eleven beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;sin arbetsprocess och sitt resultat samt värderar dessa faktorer med &lt;strong&gt;enkla &lt;/strong&gt;omdömen. Beskrivningen innehåller &lt;strong&gt;enkla &lt;/strong&gt;förslag på förbättringar av arbetsprocessen. I beskrivningen använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;relevant fackspråk och samisk terminologi.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;i samråd &lt;/strong&gt;med handledare digitala tekniker. Dessutom hanterar och vårdar eleven på ett riktigt och säkert sätt material, verktyg och maskiner. Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder.&lt;/p&gt;&lt;p&gt;Eleven agerar kundorienterat i &lt;strong&gt;bekanta&lt;/strong&gt; försäljnings- eller servicesituationer samt motiverar &lt;strong&gt;översiktligt&lt;/strong&gt; sitt agerande.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven tolkar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsuppgifter samt gör en &lt;strong&gt;genomarbetad &lt;/strong&gt;planering av sitt arbete. Eleven organiserar och genomför sitt arbete &lt;strong&gt;med viss säkerhet&lt;/strong&gt;. &lt;strong&gt;Efter samråd &lt;/strong&gt;med handledare väljer eleven material och arbetsmetoder utifrån &lt;strong&gt;materialens egenskaper och &lt;/strong&gt;den tänkta slutproduktens kvalitet och estetiska utformning. Eleven motiverar &lt;strong&gt;utförligt &lt;/strong&gt;sina val med hänsyn till ekonomi och miljö.&lt;/p&gt;&lt;p&gt;I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av &lt;strong&gt;genomarbetade &lt;/strong&gt;skisser och ritningar, ger &lt;strong&gt;välgrundade &lt;/strong&gt;förslag på alternativa lösningar och gör &lt;strong&gt;med viss säkerhet &lt;/strong&gt;beräkningar.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare och &lt;strong&gt;med viss säkerhet &lt;/strong&gt;tekniker och metoder och uppnår resultat &lt;strong&gt;med en&lt;/strong&gt; teknisk och estetisk kvalitet &lt;strong&gt;som fungerar väl i det avsedda sammanhanget&lt;/strong&gt;. I arbetet hanterar eleven verktyg och maskiner med &lt;strong&gt;gott &lt;/strong&gt;handlag. Under arbetet upptäcker och löser eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare eventuella problem som uppkommer. Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;sin arbetsprocess och sitt resultat samt värderar dessa faktorer med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen. Beskrivningen innehåller &lt;strong&gt;välgrundade &lt;/strong&gt;förslag på förbättringar av arbetsprocessen. I beskrivningen använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; relevant fackspråk och samisk terminologi.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare digitala tekniker. Dessutom hanterar och vårdar eleven på ett riktigt och säkert sätt material, verktyg och maskiner. Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder. &lt;strong&gt;Eleven utvärderar sin egen arbetsmiljö med enkla omdömen samt ger enkla förslag på förbättringar av arbetsmiljön.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Eleven agerar kundorienterat i &lt;strong&gt;bekanta&lt;/strong&gt; försäljnings- eller servicesituationer, &lt;strong&gt;tar egna initiativ&lt;/strong&gt; samt motiverar &lt;strong&gt;utförligt &lt;/strong&gt;sitt agerande.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven tolkar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsuppgifter samt gör en &lt;strong&gt;genomarbetad &lt;/strong&gt;planering av sitt arbete. Eleven organiserar och genomför sitt arbete &lt;strong&gt;med säkerhet&lt;/strong&gt;. &lt;strong&gt;Efter samråd &lt;/strong&gt;med handledare väljer eleven material och arbetsmetoder utifrån &lt;strong&gt;materialens egenskaper och &lt;/strong&gt;den tänkta slutproduktens kvalitet och estetiska utformning. Eleven motiverar &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;sina val med hänsyn till ekonomi och miljö.&lt;/p&gt;&lt;p&gt;I sitt arbete kommunicerar eleven kring idéer och estetisk utformning med hjälp av &lt;strong&gt;genomarbetade &lt;/strong&gt;skisser och ritningar, ger &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;förslag på alternativa lösningar och gör &lt;strong&gt;med säkerhet komplexa &lt;/strong&gt;beräkningar.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare och &lt;strong&gt;med säkerhet &lt;/strong&gt;tekniker och metoder och uppnår resultat &lt;strong&gt;som uppfyller höga krav på&lt;/strong&gt; teknisk och estetisk kvalitet. I arbetet hanterar eleven verktyg och maskiner med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag. Under arbetet upptäcker och löser eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare eventuella problem som uppkommer.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;sin arbetsprocess och sitt resultat samt värderar dessa faktorer med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen. Beskrivningen innehåller &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;förslag på förbättringar av arbetsprocessen. I beskrivningen använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; relevant fackspråk och samisk terminologi.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare digitala tekniker. Dessutom hanterar och vårdar eleven på ett riktigt och säkert sätt material, verktyg och maskiner. Eleven arbetar på ett ergonomiskt riktigt sätt och använder skyddsutrustning och lämpliga arbetskläder. &lt;strong&gt;Eleven&lt;/strong&gt; &lt;strong&gt;utvärderar sin egen arbetsmiljö med nyanserade omdömen samt ger välgrundade förslag på förbättringar av arbetsmiljön och hur hon eller han själv kan bidra till dessa.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Eleven agerar kundorienterat i &lt;strong&gt;nya&lt;/strong&gt; försäljnings- eller servicesituationer, &lt;strong&gt;tar egna initiativ&lt;/strong&gt; samt motiverar &lt;strong&gt;utförligt och&lt;/strong&gt; &lt;strong&gt;nyanserat&lt;/strong&gt; sitt agerande &lt;strong&gt;och ger förslag på alternativa tillvägagångssätt i agerandet&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>6</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

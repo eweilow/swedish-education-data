@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Mjukvarudesign</name>
+  <englishName>Software design</englishName>
+  <description
+  >&lt;p&gt;Ämnet mjukvarudesign behandlar hur datorprogram, webbapplikationer och andra mjukvaruapplikationer skapas. Ämnet mjukvarudesign får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.&lt;/p&gt;</description>
+  <code>MJK</code>
+  <status>PUBLISHED</status>
+  <version>4</version>
+  <createdDate>2017-07-07T10:02:21+02:00</createdDate>
+  <modifiedDate>2020-02-19T15:58:31+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Mjukvarudesign&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet mjukvarudesign ska syfta till att eleverna utvecklar kunskaper om mjukvaruutvecklingens olika delar från idé, analys och kravspecifikation till modellering, implementering, testning, förbättring, kvalitetskontroll, dokumentation och distribution. Undervisningen ska leda till att eleverna utvecklar förmåga att skapa en mjukvaruprodukt enligt en etablerad metodik och enligt angivna standarder för koden. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att använda verktyg för utveckling av mjukvara, för samarbete med andra deltagare i processen samt för testning och dokumentation. Genom undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om begrepp inom området samt förmåga att kommunicera om mjukvarudesign.&lt;/p&gt;&lt;p&gt;I undervisningen ska eleverna ges möjlighet att arbeta med olika delar av mjukvarudesign i projektform.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet mjukvarudesign ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om hela livscykeln för mjukvara, från idé till produkt, samt underhåll och vidareutveckling.&lt;/li&gt; &lt;li&gt;Kunskaper om utvecklingsmetoder, kodstandarder, körmiljöer och plattformar.&lt;/li&gt; &lt;li&gt;Förmåga att samarbeta i enlighet med utvecklingsmetodik inom teknikområdet.&lt;/li&gt; &lt;li&gt;Förmåga att skapa internationaliserade applikationer och att lokalisera applikationer.&lt;/li&gt; &lt;li&gt;Förmåga att sätta upp och använda verktyg för mjukvaruutveckling.&lt;/li&gt; &lt;li&gt;Kunskaper om arbetsmiljöfrågor.&lt;/li&gt; &lt;li&gt;Kunskaper om licensfrågor och distribution av mjukvara samt om betalningsmodeller.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Mjukvarudesign, 100 poäng.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2015:15</skolfsId>
+  <applianceDate>2017-05-27T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Mjukvarudesign</name>
+    <englishName>Software design</englishName>
+    <description
+    >&lt;p&gt;Kursen mjukvarudesign omfattar punkterna 1–7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>MJKMJU3</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Mjukvarudesign, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MJKMJU3&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Körmiljöer och plattformar, till exempel desktop, mobil, inbyggda system och webbapplikationer.&lt;/li&gt; &lt;li&gt;Utvecklingsmetodik, inklusive agila metoder.&lt;/li&gt; &lt;li&gt;Utvecklingsmiljöer och infrastrukturbehov.&lt;/li&gt; &lt;li&gt;Verktyg för projekthantering, ärendehantering och samarbete.&lt;/li&gt; &lt;li&gt;Kodkvalitet och kodstandarder.&lt;/li&gt; &lt;li&gt;Kodanalys och kvalitetskontroll, inklusive bugghantering och automatiserade tester.&lt;/li&gt; &lt;li&gt;Verktyg för versionshantering.&lt;/li&gt; &lt;li&gt;Internationalisering och lokalisering.&lt;/li&gt; &lt;li&gt;Upprättande av teknisk dokumentation, till exempel genererad från programkodskommentarer.&lt;/li&gt; &lt;li&gt;Ergonomiska krav på datorarbetsplatsen.&lt;/li&gt; &lt;li&gt;Paketering och distribution av mjukvara.&lt;/li&gt; &lt;li&gt;Licenser och betalningsmodeller.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven för &lt;strong&gt;enkla&lt;/strong&gt; resonemang om olika metoder inom mjukvaruutveckling och beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; hur området mjukvaruutveckling har utvecklats. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för olika kodstandarder, körmiljöer och plattformar.&lt;/p&gt;&lt;p&gt;Eleven deltar i ett projekt för att utveckla en applikation och följer &lt;strong&gt;med viss säkerhet&lt;/strong&gt; vald utvecklingsmetodik. Dessutom skapar eleven med &lt;strong&gt;tillfredsställande&lt;/strong&gt; resultat installerbara paket av applikationen eller installationsprogram för applikationen.&lt;/p&gt;&lt;p&gt;I sitt arbete använder eleven &lt;strong&gt;några&lt;/strong&gt; verktyg för kodning, projekthantering och samarbete samt för kvalitetskontroll, testning, kodanalys och versionshantering. Dessutom skapar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;kod som följer projektets specificerade kodstandard. Under arbetet använder och skapar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; teknisk dokumentation, buggrapporter och tester. Eleven för &lt;strong&gt;enkla&lt;/strong&gt; resonemang med användare och medarbetare för att föra arbetet framåt.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för hur applikationen har anpassats för vald körmiljö och hur denna förhåller sig till andra körmiljöer. Dessutom beskriver eleven &lt;strong&gt;översiktligt &lt;/strong&gt;hur produkten internationaliserats eller lokaliserats.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för hur en god arbetsmiljö vid mjukvarudesign kan utformas. Dessutom redogör eleven &lt;strong&gt;översiktligt&lt;/strong&gt; för olika alternativ för licenser, distributionsmetoder och betalningsmodeller.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven för &lt;strong&gt;välgrundade&lt;/strong&gt; resonemang om olika metoder inom mjukvaruutveckling och beskriver &lt;strong&gt;utförligt&lt;/strong&gt; hur området mjukvaruutveckling har utvecklats. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för olika kodstandarder, körmiljöer och plattformar.&lt;/p&gt;&lt;p&gt;Eleven deltar i ett projekt för att utveckla en applikation och följer &lt;strong&gt;med viss säkerhet&lt;/strong&gt; vald utvecklingsmetodik. Dessutom skapar eleven med &lt;strong&gt;tillfredsställande&lt;/strong&gt; resultat installerbara paket av applikationen eller installationsprogram för applikationen.&lt;/p&gt;&lt;p&gt;I sitt arbete &lt;strong&gt;installerar och &lt;/strong&gt;använder eleven &lt;strong&gt;några&lt;/strong&gt; verktyg för kodning, projekthantering och samarbete samt för kvalitetskontroll, testning, kodanalys och versionshantering. Dessutom skapar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;kod som följer projektets specificerade kodstandard. Under arbetet använder och skapar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; teknisk dokumentation, buggrapporter och tester. Eleven för &lt;strong&gt;välgrundade&lt;/strong&gt; resonemang med användare och medarbetare för att föra arbetet framåt.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för hur applikationen har anpassats för vald körmiljö och hur denna förhåller sig till andra körmiljöer. Dessutom beskriver eleven &lt;strong&gt;utförligt &lt;/strong&gt;hur produkten internationaliserats eller lokaliserats.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för hur en god arbetsmiljö vid mjukvarudesign kan utformas. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för olika alternativ för licenser, distributionsmetoder och betalningsmodeller.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven för &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; resonemang om olika metoder inom mjukvaruutveckling och beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; hur området mjukvaruutveckling har utvecklats. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för olika kodstandarder, körmiljöer och plattformar.&lt;/p&gt;&lt;p&gt;Eleven deltar i ett projekt för att utveckla en applikation och följer &lt;strong&gt;med säkerhet&lt;/strong&gt; vald utvecklingsmetodik. Dessutom skapar eleven med &lt;strong&gt;gott&lt;/strong&gt; resultat installerbara paket av applikationen eller installationsprogram för applikationen.&lt;/p&gt;&lt;p&gt;I sitt arbete &lt;strong&gt;installerar och &lt;/strong&gt;använder eleven &lt;strong&gt;flera&lt;/strong&gt; verktyg för kodning, projekthantering och samarbete samt för kvalitetskontroll, testning, kodanalys och versionshantering. Dessutom skapar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;kod som följer projektets specificerade kodstandard. Under arbetet använder och skapar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; teknisk dokumentation, buggrapporter och tester. Eleven för &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; resonemang med användare och medarbetare för att föra arbetet framåt.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för hur applikationen har anpassats för vald körmiljö och hur denna förhåller sig till andra körmiljöer. Dessutom beskriver eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;hur produkten internationaliserats eller lokaliserats.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för hur en god arbetsmiljö vid mjukvarudesign kan utformas. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för olika alternativ för licenser, distributionsmetoder och betalningsmodeller.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

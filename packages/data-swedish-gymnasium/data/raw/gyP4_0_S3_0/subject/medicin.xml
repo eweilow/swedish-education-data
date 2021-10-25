@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Medicin</name>
+  <englishName>Medicine</englishName>
+  <description
+  >&lt;p&gt;Ämnet medicin grundar sig huvudsakligen på de medicinska kunskapsområdena anatomi, fysiologi, mikrobiologi, farmakologi, patologi och geriatrik men i ämnet finns också inslag av vårdvetenskap. Ämnet behandlar människans fysiska uppbyggnad och funktion vid hälsa och ohälsa.&lt;/p&gt;</description>
+  <code>MED</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2010-11-04T08:57:56+01:00</createdDate>
+  <modifiedDate>2020-02-19T15:58:27+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Medicin&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet medicin ska syfta till att eleverna utvecklar kunskaper om människans fysiska, psykiska och sociala förutsättningar vid hälsa och ohälsa. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om orsaker, symtom, diagnoser, behandlingar, vård och omsorg vid olika sjukdomar samt förmåga att handla vid akuta sjukdomar och skador. Eleverna ska också ges möjlighet att utveckla förmåga att observera och rapportera förändringar i patienters och brukares hälsotillstånd. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper i medicinsk terminologi som bidrar till kommunikativ förmåga inom området.&lt;/p&gt;&lt;p&gt;Undervisningen ska genom praktiska övningar leda till att eleverna utvecklar förmåga att utföra första hjälpen och hjärt-lungräddning.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet medicin ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om hur människokroppen är uppbyggd och fungerar samt kunskaper om människans normala fysiska utveckling genom livet.&lt;/li&gt; &lt;li&gt;Kunskaper om sjukdomar samt förmåga att uppfatta symtom på sjukdom.&lt;/li&gt; &lt;li&gt;Kunskaper om läkemedel och läkemedelsanvändning samt om lagar och andra bestämmelser.&lt;/li&gt; &lt;li&gt;Kunskaper om mikroorganismer och deras spridningsvägar samt kroppens försvarssystem. &lt;/li&gt; &lt;li&gt;Förmåga att ge första hjälpen och hjärt-lungräddning. Kunskaper om samhällets hjälpinsatser vid krig och katastrofer samt kunskaper om brandsäkerhetsarbete.&lt;/li&gt; &lt;li&gt;Förmåga att använda medicinsk terminologi.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Medicin 1, 150 poäng.&lt;/li&gt; &lt;li&gt;Medicin 2, 100 poäng, som bygger på kursen medicin 1.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2010:96</skolfsId>
+  <applianceDate>2011-07-01T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Medicin 1</name>
+    <englishName>Medicine 1</englishName>
+    <description
+    >&lt;p&gt;Kursen medicin 1 omfattar punkterna 1–6 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>MEDMED01</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Medicin 1, 150 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MEDMED01&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Människokroppens uppbyggnad och utveckling samt dess förmåga till ämnesomsättning, rörelse, retbarhet, skydd, försvar och fortplantning.&lt;/li&gt; &lt;li&gt;Vanliga sjukdomar och deras orsaker, symtom och diagnoser, undersökningar, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar.&lt;/li&gt; &lt;li&gt;Vanliga läkemedel, deras verkningssätt, användningsområden och biverkningar samt lagar och andra bestämmelser som gäller för läkemedelsanvändning.&lt;/li&gt; &lt;li&gt;Vanliga mikroorganismer och deras spridningsvägar. &lt;/li&gt; &lt;li&gt;Första hjälpen vid skador och akuta sjukdomar samt hjärt-lungräddning.&lt;/li&gt; &lt;li&gt;Samhällets hjälpinsatser vid krig och katastrofer.&lt;/li&gt; &lt;li&gt;Brandsäkerhetsarbete som att upptäcka och åtgärda brandrisker samt agerande i händelse av brand.&lt;/li&gt; &lt;li&gt;Medicinsk terminologi.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>150</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;människokroppens uppbyggnad och funktion samt människans normala fysiska utveckling. Eleven beskriver också &lt;strong&gt;översiktligt &lt;/strong&gt;vanliga sjukdomar och deras fysiska och psykiska symtom. Dessutom ger eleven exempel på relevanta undersökningsmetoder, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;vanliga läkemedel, deras verkningssätt, användningsområden och biverkningar samt hänvisar till lagar och andra bestämmelser som gäller för läkemedelsanvändning. Eleven ger också exempel på mikroorganismer och beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; hur de kan spridas. Dessutom beskriver eleven &lt;strong&gt;översiktligt &lt;/strong&gt;hur första hjälpen och hjärt-lungräddning ges, samt genomför dessa insatser &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Eleven beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;samhällets hjälpinsatser vid krig och katastrofer samt åtgärder för att förebygga brand och hur man ska agera då brand uppstått.&lt;/p&gt;&lt;p&gt;I beskrivningarna använder eleven &lt;strong&gt;med viss säkerhet enkel&lt;/strong&gt; medicinsk terminologi.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;människokroppens uppbyggnad och funktion samt människans normala fysiska utveckling. Eleven beskriver också &lt;strong&gt;utförligt &lt;/strong&gt;vanliga sjukdomar och deras fysiska och psykiska symtom. Dessutom ger eleven exempel på,&lt;strong&gt; och förklarar sambanden mellan&lt;/strong&gt;, relevanta undersökningsmetoder, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar. &lt;strong&gt;Eleven förklarar även översiktligt några samband mellan människa, miljö, livsstil och sjukdom&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;vanliga läkemedel, deras verkningssätt, användningsområden och biverkningar samt hänvisar till lagar och andra bestämmelser som gäller för läkemedelsanvändning. Eleven ger också exempel på mikroorganismer och beskriver &lt;strong&gt;utförligt &lt;/strong&gt;hur de kan spridas. Dessutom beskriver eleven &lt;strong&gt;utförligt &lt;/strong&gt;hur första hjälpen och hjärt-lungräddning ges samt genomför dessa insatser &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;samhällets hjälpinsatser vid krig och katastrofer samt åtgärder för att förebygga brand och hur man ska agera då brand uppstått.&lt;/p&gt;&lt;p&gt;I beskrivningarna använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; medicinsk terminologi.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;människokroppens uppbyggnad och funktion samt människans normala fysiska utveckling. Eleven beskriver också &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;vanliga sjukdomar och deras fysiska och psykiska symtom. Dessutom ger eleven exempel på,&lt;strong&gt; och förklarar nyanserat sambanden mellan&lt;/strong&gt;, relevanta undersökningsmetoder, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar. &lt;strong&gt;Eleven förklarar även nyanserat några samband mellan människa, miljö, livsstil och sjukdom&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;vanliga läkemedel, deras verkningssätt, användningsområden och biverkningar samt hänvisar till lagar och andra bestämmelser som gäller för läkemedelsanvändning. Eleven ger också exempel på mikroorganismer och beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;hur de kan spridas. Dessutom beskriver eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;hur första hjälpen och hjärt-lungräddning ges, samt genomför dessa insatser &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;samhällets hjälpinsatser vid krig och katastrofer samt åtgärder för att förebygga brand och hur man ska agera då brand uppstått.&lt;/p&gt;&lt;p&gt;I beskrivningarna använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; medicinsk terminologi.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Medicin 2</name>
+    <englishName>Medicine 2</englishName>
+    <description
+    >&lt;p&gt;Kursen medicin 2 omfattar punkterna 1–4 och 6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>MEDMED02</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Medicin 2, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MEDMED02&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Människokroppens uppbyggnad med fördjupning i dess förmåga till ämnesomsättning, rörelse, retbarhet, skydd, försvar och fortplantning.&lt;/li&gt; &lt;li&gt;Fysiologiska processer med utgångspunkt i hälsa.&lt;/li&gt; &lt;li&gt;Sjukdomar och deras orsaker, symtom och diagnoser. Undersökningar, medicinska behandlingar, vård och omsorg vid dessa sjukdomar.&lt;/li&gt; &lt;li&gt;Vatten-, elektrolyt-, syrabas- och näringsbalans.&lt;/li&gt; &lt;li&gt;Farmakologi inklusive specifika läkemedel, deras verkningssätt, användningsområden och biverkningar.&lt;/li&gt; &lt;li&gt;Mikroorganismer och kroppens försvarssystem.&lt;/li&gt; &lt;li&gt;Medicinsk terminologi.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;människokroppens uppbyggnad och funktion. Eleven beskriver också &lt;strong&gt;översiktligt &lt;/strong&gt;olika sjukdomar och deras specifika fysiska och psykiska symtom. Dessutom ger eleven exempel på relevanta undersökningsmetoder, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar. Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; kroppens vätske- och näringsbalans samt ger exempel på sjukdomar där balansen kan rubbas.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;specifika läkemedel, deras verkningssätt, användningsområden och biverkningar. Eleven ger också exempel på mikroorganismer och beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; hur de kan spridas samt beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; kroppens försvarssystem. &lt;/p&gt;&lt;p&gt;I beskrivningarna använder eleven &lt;strong&gt;med viss säkerhet enkel&lt;/strong&gt; medicinsk terminologi.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;människokroppens uppbyggnad och funktion. Eleven beskriver också &lt;strong&gt;utförligt &lt;/strong&gt;olika sjukdomar och deras specifika fysiska och psykiska symtom. Dessutom ger eleven exempel på, &lt;strong&gt;och förklarar sambanden mellan&lt;/strong&gt;, relevanta undersökningsmetoder, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar. Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; kroppens vätske- och näringsbalans, ger exempel på sjukdomar där balansen kan rubbas &lt;strong&gt;samt beskriver symtom som uppkommer när balansen är rubbad&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Eleven förklarar utförligt några samband mellan människa, miljö, livsstil och specifika sjukdomar&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;specifika läkemedel, deras verkningssätt, användningsområden och biverkningar. Eleven ger också exempel på mikroorganismer och beskriver &lt;strong&gt;utförligt&lt;/strong&gt; hur de kan spridas samt beskriver &lt;strong&gt;utförligt&lt;/strong&gt; kroppens försvarssystem. &lt;/p&gt;&lt;p&gt;I beskrivningarna använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;medicinsk terminologi.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;människokroppens uppbyggnad och funktion. Eleven beskriver också &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;olika sjukdomar och deras specifika fysiska och psykiska symtom. Dessutom ger eleven exempel på, &lt;strong&gt;och förklarar nyanserat sambanden mellan&lt;/strong&gt;, relevanta undersökningsmetoder, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar. Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; kroppens vätske- och näringsbalans, ger exempel på sjukdomar där balansen kan rubbas &lt;strong&gt;samt beskriver symtom som uppkommer när balansen är rubbad och motiverar varför de uppkommer&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Eleven förklarar utförligt och nyanserat några samband mellan människa, miljö, livsstil och specifika sjukdomar. Dessutom värderar eleven med enkla omdömen olika förklaringar till samband mellan sjukdom och människans fysiska, psykiska och sociala förutsättningar&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;specifika läkemedel, deras verkningssätt, användningsområden och biverkningar. Eleven ger också exempel på mikroorganismer och beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; hur de kan spridas samt beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; kroppens försvarssystem. &lt;/p&gt;&lt;p&gt;I beskrivningarna använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;medicinsk terminologi.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Elektronikproduktion</name>
+  <englishName>Electronic production</englishName>
+  <description
+  >&lt;p&gt;Ämnet elektronikproduktion behandlar produktionsprocessens olika steg vid tillverkning av elektronikprodukter, från beredning och montering fram till utprovning och leveranskontroll. Ämnet behandlar också de metoder och maskiner som används i produktionsprocessens olika steg.&lt;/p&gt;</description>
+  <code>ELK</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2010-12-02T09:25:20+01:00</createdDate>
+  <modifiedDate>2020-02-19T15:51:00+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Elektronikproduktion&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt; Undervisningen i ämnet elektronikproduktion ska syfta till att eleverna utvecklar kunskaper i montering av elektronikkomponenter och metoder för lödteknik. Den ska ge eleverna möjlighet att utveckla kunskaper om olika monteringstekniker samt om monterings- och lödmaskiner för elektronikproduktion. Undervisningen ska även leda till att eleverna utvecklar kunskaper om de metoder och testutrustningar som används för provning och testning vid elektronikproduktion. Undervisningen ska omfatta både teoretiska och praktiska moment samt ge eleverna möjlighet att uttrycka sig såväl skriftligt som muntligt.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet elektronikproduktion ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om monteringsmaskiners och lödmaskiners konstruktion och arbetssätt.&lt;/li&gt; &lt;li&gt;Förmåga att planera och utföra enklare montering och lödning.&lt;/li&gt; &lt;li&gt;Förmåga att planera och utföra provning och kontroll av elektronik och elektronikapparater.&lt;/li&gt; &lt;li&gt;Förmåga att tolka arbetsinstruktioner, manualer, elektronikscheman och andra dokument på både svenska och engelska.&lt;/li&gt; &lt;li&gt;Färdigheter i att felsöka och reparera enklare fel i elektronik och elektronikapparater.&lt;/li&gt; &lt;li&gt;Förmåga att använda metoder, verktyg och övrig utrustning.&lt;/li&gt; &lt;li&gt;Kunskaper om kvalitetskrav och säkerhetskrav vid elektronikproduktion.&lt;/li&gt; &lt;li&gt;Förmåga att utvärdera sitt arbete och resultat samt kunskaper om kvalitetsbedömning, kvalitetsarbete och arbetsmiljö.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Elektronikproduktionsteknik, 100 poäng.&lt;/li&gt; &lt;li&gt;Provning och kontrollarbete, 100 poäng, som bygger på kursen elektronikproduktionsteknik.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2010:152</skolfsId>
+  <applianceDate>2011-07-01T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Elektronikproduktionsteknik</name>
+    <englishName>Electronic production technologies</englishName>
+    <description
+    >&lt;p&gt;Kursen elektronikproduktionsteknik omfattar punkterna 1–2, 4 och 6–8 under rubriken Ämnets syfte, med särskild betoning på punkt 2. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>ELKELO0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Elektronikproduktionsteknik, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: ELKELO0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Monteringsmaskiner för komponenter.&lt;/li&gt; &lt;li&gt;Lödmaskiner för våglödning, ångzonslödning, hällödning och IR-lödning.&lt;/li&gt; &lt;li&gt;Produktionsprocessens olika steg: beredning, montering, lödning, avsyning och testning.&lt;/li&gt; &lt;li&gt;Planering och beredning av monteringsarbetet.&lt;/li&gt; &lt;li&gt;Arbetsinstruktioner, manualer, elektronikscheman och andra dokument på både svenska och engelska.&lt;/li&gt; &lt;li&gt;Mönsterkort av olika material och materialens lödegenskaper.&lt;/li&gt; &lt;li&gt;Produktionsmetoder och monteringstekniker samt verktyg och övrig utrustning.&lt;/li&gt; &lt;li&gt;Krav för lödcertifikat.&lt;/li&gt; &lt;li&gt;ESD-skydd (electrostatic discharge) av komponenter och arbetsplatser.&lt;/li&gt; &lt;li&gt;Produktionsflöde och kvalitetsbedömning.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; hur monteringsmaskiner och lödmaskiner är konstruerade och arbetar.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare vanligt förekommande montering och lödning. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;arbetsinstruktioner, manualer, elektronikscheman och andra dokument. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare monteringen och lödningen utifrån fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoder, verktyg och övrig utrustning. Under arbetets gång upptäcker eleven problem som uppkommer och löser dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Arbetet utförs på ett sätt som är säkert för eleven själv och andra, och resultatet är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När arbetet är utfört utvärderar eleven med &lt;strong&gt;enkla &lt;/strong&gt;omdömen sitt arbete och resultat. Dessutom för eleven &lt;strong&gt;enkla &lt;/strong&gt;resonemang om vikten av kvalitetsbedömning, kvalitetsarbete och en god arbetsmiljö.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; hur monteringsmaskiner och lödmaskiner är konstruerade och arbetar.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare vanligt förekommande montering och lödning. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;arbetsinstruktioner, manualer, elektronikscheman och andra dokument. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare monteringen och lödningen utifrån fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoder, verktyg och övrig utrustning. Under arbetets gång upptäcker eleven problem som uppkommer och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Arbetet utförs på ett sätt som är säkert för eleven själv och andra, och resultatet är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När arbetet är utfört utvärderar eleven med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sitt arbete och resultat. Dessutom för eleven &lt;strong&gt;välgrundade &lt;/strong&gt;resonemang om vikten av kvalitetsbedömning, kvalitetsarbete och en god arbetsmiljö.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; hur monteringsmaskiner och lödmaskiner är konstruerade och arbetar.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare vanligt förekommande montering och lödning. I planeringen tolkar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;arbetsinstruktioner, manualer, elektronikscheman och andra dokument. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare monteringen och lödningen utifrån fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;metoder, verktyg och övrig utrustning. Under arbetets gång upptäcker eleven problem som uppkommer och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Arbetet utförs på ett sätt som är säkert för eleven själv och andra, och resultatet är &lt;strong&gt;gott&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När arbetet är utfört utvärderar eleven med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sitt arbete och resultat &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. Dessutom för eleven &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;resonemang om vikten av kvalitetsbedömning, kvalitetsarbete och en god arbetsmiljö.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Provning och kontrollarbete</name>
+    <englishName>Testing and inspection</englishName>
+    <description
+    >&lt;p&gt;Kursen provning och kontrollarbete omfattar punkterna 3–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 3 och 5. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>ELKPRV0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Provning och kontrollarbete, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: ELKPRV0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Praktiskt provningsarbete med automatisk teststation.&lt;/li&gt; &lt;li&gt;Montering av enklare testutrustningar.&lt;/li&gt; &lt;li&gt;Underhåll och funktionsprov av testutrustningar.&lt;/li&gt; &lt;li&gt;Testmetoder och verifieringsmetoder för elektronikproduktion.&lt;/li&gt; &lt;li&gt;Testutrustningar i produktionen.&lt;/li&gt; &lt;li&gt;Mätteknik och mätinstrument. &lt;/li&gt; &lt;li&gt;Felsökningsmetoder.&lt;/li&gt; &lt;li&gt;Granskning och bedömning av monterade mönsterkort.&lt;/li&gt; &lt;li&gt;Reparationsteknik vid lödfel.&lt;/li&gt; &lt;li&gt;Reparationsmetoder vid komponentfel. &lt;/li&gt; &lt;li&gt;Kvalitetsarbete.&lt;/li&gt; &lt;li&gt;Arbetsplatsens arbetsorganisation samt arbetsmiljökrav vid elektronikproduktion.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare vanligt förekommande provning och kontroll av elektronik och elektronikapparater. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;arbetsinstruktioner, manualer, elektronikscheman och andra dokument. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare provningen och kontrollen utifrån fastställda kvalitetskrav. Dessutom felsöker och reparerar eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare enklare fel som har uppkommit under tillverkningsprocessen av elektronik och elektronikapparater. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoder, verktyg och övrig utrustning. Under arbetets gång upptäcker eleven problem som uppkommer och löser dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Arbetet utförs på ett sätt som är säkert för eleven själv och andra, och resultatet är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När arbetet är utfört utvärderar eleven med &lt;strong&gt;enkla &lt;/strong&gt;omdömen sitt arbete och resultat. Dessutom för eleven &lt;strong&gt;enkla &lt;/strong&gt;resonemang om vikten av kvalitetsbedömning, kvalitetsarbete och en god arbetsmiljö.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare vanligt förekommande provning och kontroll av elektronik och elektronikapparater. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;arbetsinstruktioner, manualer, elektronikscheman och andra dokument. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare provningen och kontrollen utifrån fastställda kvalitetskrav. Dessutom felsöker och reparerar eleven &lt;strong&gt;efter &lt;/strong&gt;&lt;strong&gt;samråd &lt;/strong&gt;med handledare enklare fel som har uppkommit under tillverkningsprocessen av elektronik och elektronikapparater. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoder, verktyg och övrig utrustning. Under arbetets gång upptäcker eleven problem som uppkommer och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Arbetet utförs på ett sätt som är säkert för eleven själv och andra, och resultatet är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När arbetet är utfört utvärderar eleven med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sitt arbete och resultat. Dessutom för eleven &lt;strong&gt;välgrundade &lt;/strong&gt;resonemang om vikten av kvalitetsbedömning, kvalitetsarbete och en god arbetsmiljö.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare vanligt förekommande provning och kontroll av elektronik och elektronikapparater. I planeringen tolkar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;arbetsinstruktioner, manualer, elektronikscheman och andra dokument. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare provningen och kontrollen utifrån fastställda kvalitetskrav. Dessutom felsöker och reparerar eleven &lt;strong&gt;efter &lt;/strong&gt;&lt;strong&gt;samråd &lt;/strong&gt;med handledare enklare fel som har uppkommit under tillverkningsprocessen av elektronik och elektronikapparater. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;metoder, verktyg och övrig utrustning. Under arbetets gång upptäcker eleven problem som uppkommer och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Arbetet utförs på ett sätt som är säkert för eleven själv och andra, och resultatet är &lt;strong&gt;gott&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När arbetet är utfört utvärderar eleven med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sitt arbete och resultat &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. Dessutom för eleven &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;resonemang om vikten av kvalitetsbedömning, kvalitetsarbete och en god arbetsmiljö.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

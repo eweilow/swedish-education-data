@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Båtkunskap</name>
+  <englishName>Boats</englishName>
+  <description
+  >&lt;p&gt;Ämnet båtkunskap behandlar sjövägsregler och navigation för att framföra båtar eller skepp inomskärs och i kustnära vatten. Det behandlar även sjövett, sjösäkerhet och båtlivets inverkan på miljön.&lt;/p&gt;</description>
+  <code>BAT</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2011-06-16T10:39:12+02:00</createdDate>
+  <modifiedDate>2020-02-19T15:49:52+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Båtkunskap&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet båtkunskap ska syfta till att eleverna utvecklar förmåga att framföra olika typer av båtar och skepp på ett säkert och sjömannamässigt sätt. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper i navigation och om de regler som gäller till sjöss. Undervisningen ska leda till att eleverna utvecklar kunskaper om förebyggande säkerhetsåtgärder samt om åtgärder vid brand, överlevnad och olycksfall. Undervisningen ska dessutom bidra till att eleverna utvecklar förståelse av hur båtlivet påverkar vatten- och djurliv samt kunskap om de särskilda krav på miljöhänsyn som ställs inom området.&lt;/p&gt;&lt;p&gt;I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Dessa arbetsuppgifter ska utgå från ett problemlösande arbetssätt.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet båtkunskap ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om olika fartygs egenskaper och användningsområden.&lt;/li&gt; &lt;li&gt;Förmåga att hantera och framföra båtar på ett sjömannamässigt och säkerhetsmedvetet sätt, samt med hänsyn till miljön.&lt;/li&gt; &lt;li&gt;Förmåga att hantera och framföra skepp med hänsyn till deras maskinstyrka och manöversystem.&lt;/li&gt; &lt;li&gt;Kunskaper om sjövägsregler och navigation för framförande av fartyg.&lt;/li&gt; &lt;li&gt;Kunskaper om förebyggande säkerhetsåtgärder samt förmåga att vidta rätt åtgärd vid brand, olycksfall och överlevnad.&lt;/li&gt; &lt;li&gt;Förmåga att agera i olika situationer på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar området.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Skärgårdsnavigation, 100 poäng.&lt;/li&gt; &lt;li&gt;Kustnavigation och säkerhet, 100 poäng, som bygger på kursen skärgårdsnavigation.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2011:45</skolfsId>
+  <applianceDate>2011-05-03T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Skärgårdsnavigation</name>
+    <englishName>Archipelago navigation</englishName>
+    <description
+    >&lt;p&gt;Kursen kustnavigation och säkerhet omfattar punkterna 1–6 under rubriken Ämnets syfte, med särskild betoning på punkterna 3 och 5.&lt;/p&gt;</description>
+    <code>BATSKA0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Skärgårdsnavigation, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: BATSKA0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Olika båttyper, deras användningsområden och egenskaper.&lt;/li&gt; &lt;li&gt;Manövrering av olika typer av båtar inomskärs.&lt;/li&gt; &lt;li&gt;Ut- och tilläggningar i olika hamn- och väderleksförhållanden.&lt;/li&gt; &lt;li&gt;Kontroll före avfärd.&lt;/li&gt; &lt;li&gt;Förtöjning med ankare, boj, vid y-bommar samt förtöjning med långsida mot kaj.&lt;/li&gt; &lt;li&gt;Knopslagning.&lt;/li&gt; &lt;li&gt;Sjökort, styrning efter kompass, kurskontroll i enslinje, navigering i utprickat farvatten och positions- och lägesbestämningar.&lt;/li&gt; &lt;li&gt;Fyrbelysningssystem och lanternor.&lt;/li&gt; &lt;li&gt;Internationella sjövägsregler, sjötrafikförordning samt sjölagen.&lt;/li&gt; &lt;li&gt;Säkerhet ombord.&lt;/li&gt; &lt;li&gt;Sjöräddningsorganisationer.&lt;/li&gt; &lt;li&gt;Båtlivets påverkan på miljön.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; olika båttyper, deras egenskaper och användningsområden. &lt;/p&gt;&lt;p&gt;Eleven hanterar och framför &lt;strong&gt;med viss säkerhet &lt;/strong&gt;och i&lt;strong&gt; bekanta &lt;/strong&gt;situationer olika typer av fartyg inomskärs. I hantering och framförande genomför eleven med &lt;strong&gt;visst &lt;/strong&gt;handlag olika uppgifter på ett säkert och sjömannamässigt sätt. I arbetet gör eleven &lt;strong&gt;enkla&lt;/strong&gt; riskbedömningar.&lt;/p&gt;&lt;p&gt;Eleven navigerar, &lt;strong&gt;i samråd &lt;/strong&gt;med handledare, med olika typer av fartyg inomskärs och i kustnära vatten. Dessutom redogör eleven &lt;strong&gt;översiktligt&lt;/strong&gt; för sjövägsregler och regler för navigation.&lt;/p&gt;&lt;p&gt;I arbetet samarbetar eleven med andra och kommunicerar på ett språk som är relevant för uppgiften. Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; de termer och begrepp som är relevanta för ämnet.&lt;/p&gt;&lt;p&gt;Eleven ger &lt;strong&gt;något&lt;/strong&gt; exempel på förebyggande säkerhetsåtgärder och åtgärder vid brand, olycksfall och överlevnad. Dessutom beskriver eleven &lt;strong&gt;översiktligt&lt;/strong&gt; med stöd av &lt;strong&gt;enkla&lt;/strong&gt; exempel hur båtlivet påverkar miljön samt vatten- och djurliv. Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; de lagar och bestämmelser som reglerar området, samt arbetar utifrån krav på säkerhet, kvalitet och miljö.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; olika båttyper, deras egenskaper och användningsområden.&lt;/p&gt;&lt;p&gt;Eleven hanterar och framför &lt;strong&gt;med viss säkerhet &lt;/strong&gt;och i &lt;strong&gt;nya &lt;/strong&gt;situationer olika typer av fartyg inomskärs. I hantering och framförande genomför eleven med&lt;strong&gt; gott &lt;/strong&gt;handlag olika uppgifter på ett säkert och sjömannamässigt sätt. I arbetet gör eleven riskbedömningar.&lt;/p&gt;&lt;p&gt;Eleven navigerar, &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare, med olika typer av fartyg inomskärs och i kustnära vatten. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för sjövägsregler och regler för navigation.&lt;/p&gt;&lt;p&gt;I arbetet samarbetar eleven med andra och kommunicerar på ett språk som är relevant för uppgiften. Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; de termer och begrepp som är relevanta för ämnet.&lt;/p&gt;&lt;p&gt;Eleven ger &lt;strong&gt;några&lt;/strong&gt; exempel på förebyggande säkerhetsåtgärder och åtgärder vid brand, olycksfall och överlevnad. Dessutom beskriver eleven &lt;strong&gt;utförligt&lt;/strong&gt; med stöd av &lt;strong&gt;välgrundade &lt;/strong&gt;exempel hur båtlivet påverkar miljön samt vatten- och djurliv. Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; de lagar och bestämmelser som reglerar området, samt arbetar utifrån krav på säkerhet, kvalitet och miljö.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; olika båttyper, deras egenskaper och användningsområden.&lt;/p&gt;&lt;p&gt;Eleven hanterar och framför &lt;strong&gt;med säkerhet &lt;/strong&gt;och i &lt;strong&gt;nya &lt;/strong&gt;situationer olika typer av fartyg inomskärs. I hantering och framförande genomför eleven med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag olika uppgifter på ett säkert och sjömannamässigt sätt. I arbetet gör eleven &lt;strong&gt;välgrundade &lt;/strong&gt;riskbedömningar.&lt;/p&gt;&lt;p&gt;Eleven navigerar, &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare, med olika typer av fartyg inomskärs och i kustnära vatten. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för sjövägsregler och regler för navigation. &lt;/p&gt;&lt;p&gt;I arbetet samarbetar eleven med andra och kommunicerar &lt;strong&gt;i nya situationer &lt;/strong&gt;på ett språk som är relevant för uppgiften. Eleven använder &lt;strong&gt;med säkerhet&lt;/strong&gt; de termer och begrepp som är relevanta för ämnet.&lt;/p&gt;&lt;p&gt;Eleven ger &lt;strong&gt;flera&lt;/strong&gt; exempel på förebyggande säkerhetsåtgärder och åtgärder vid brand, olycksfall och överlevnad. Dessutom beskriver eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;med stöd av &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; exempel hur båtlivet påverkar miljön samt vatten- och djurliv. Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; de lagar och bestämmelser som reglerar området, samt arbetar utifrån krav på säkerhet, kvalitet och miljö.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Kustnavigation och säkerhet</name>
+    <englishName>Coastal navigation and safety</englishName>
+    <description
+    >&lt;p&gt;Kursen kustnavigation och säkerhet omfattar punkterna 2–6 under rubriken Ämnets syfte, med särskild betoning på punkterna 3 och 5.&lt;/p&gt;</description>
+    <code>BATKUS0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Kustnavigation och säkerhet, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: BATKUS0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Hantering och framförande av båtar och skepp i kustnära vatten.&lt;/li&gt; &lt;li&gt;Olika metoder för hantering och framförande beroende på maskinstyrka och manöversystem.&lt;/li&gt; &lt;li&gt;Val av naturhamn och ankrings- och förtöjningsmetod.&lt;/li&gt; &lt;li&gt;Kursrättning med hänsyn till deviation, missvisning, vind eller strömmar.&lt;/li&gt; &lt;li&gt;Positions- och lägesbestämningar i kustnära vatten.&lt;/li&gt; &lt;li&gt;Olika tillvägagångssätt vid bogsering av olika typer av flytetyg.&lt;/li&gt; &lt;li&gt;Handhavande av livräddningsfarkoster.&lt;/li&gt; &lt;li&gt;Brandrisker och brandbekämpning ombord.&lt;/li&gt; &lt;li&gt;Åtgärder vid brandskada, olycksfall eller akut sjukdom ombord.&lt;/li&gt; &lt;li&gt;Personlig skyddsutrustning.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven hanterar och framför &lt;strong&gt;med viss säkerhet &lt;/strong&gt;och i&lt;strong&gt; bekanta &lt;/strong&gt;situationer olika typer av fartyg i kustnära vatten. I hantering och framförande genomför eleven med&lt;strong&gt; visst &lt;/strong&gt;handlag olika uppgifter på ett säkert och sjömannamässigt sätt. Eleven arbetar utifrån &lt;strong&gt;givna &lt;/strong&gt;metoder med olika typer av fartyg och manöversystem. I arbetet gör eleven &lt;strong&gt;enkla &lt;/strong&gt;riskbedömningar.&lt;/p&gt;&lt;p&gt;Eleven navigerar, &lt;strong&gt;i samråd &lt;/strong&gt;med handledare, med olika typer av fartyg inomskärs och i kustnära vatten Dessutom redogör eleven &lt;strong&gt;översiktligt&lt;/strong&gt; för sjövägsregler och regler för navigation.&lt;/p&gt;&lt;p&gt;I arbetet samarbetar eleven med andra och kommunicerar på ett språk som är relevant för uppgiften. Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; de termer och begrepp som är relevanta för ämnet.&lt;/p&gt;&lt;p&gt;Eleven resonerar &lt;strong&gt;översiktligt&lt;/strong&gt;, utifrån olika &lt;strong&gt;enkla &lt;/strong&gt;fallbeskrivningar, om förebyggande säkerhetsåtgärder och åtgärder vid brand, olycksfall och överlevnad. Dessutom beskriver eleven &lt;strong&gt;översiktligt&lt;/strong&gt; de lagar och bestämmelser som reglerar området, samt arbetar utifrån krav på säkerhet, kvalitet och miljö.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven hanterar och framför &lt;strong&gt;med viss säkerhet &lt;/strong&gt;och i &lt;strong&gt;nya &lt;/strong&gt;situationer olika typer av fartyg i kustnära vatten. I hantering och framförande genomför eleven med&lt;strong&gt; gott &lt;/strong&gt;handlag olika uppgifter på ett säkert och sjömannamässigt sätt. Eleven &lt;strong&gt;väljer lämplig metod och &lt;/strong&gt;arbetar utifrån metoden med olika typer av fartyg och manöversystem. I arbetet gör eleven riskbedömningar.&lt;/p&gt;&lt;p&gt;Eleven navigerar, &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare, med olika typer av fartyg inomskärs och i kustnära vatten. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för sjövägsregler och regler för navigation. &lt;/p&gt;&lt;p&gt;I arbetet samarbetar eleven med andra och kommunicerar på ett språk som är relevant för uppgiften. Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; de termer och begrepp som är relevanta för ämnet.&lt;/p&gt;&lt;p&gt;Eleven resonerar &lt;strong&gt;utförligt&lt;/strong&gt;, utifrån olika fallbeskrivningar, om förebyggande säkerhetsåtgärder och åtgärder vid brand, olycksfall och överlevnad. Dessutom beskriver eleven &lt;strong&gt;utförligt&lt;/strong&gt; de lagar och bestämmelser som reglerar området, samt arbetar utifrån krav på säkerhet, kvalitet och miljö.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven hanterar och framför &lt;strong&gt;med säkerhet &lt;/strong&gt;och i &lt;strong&gt;nya &lt;/strong&gt;situationer olika typer av fartyg i kustnära vatten. I hantering och framförande genomför eleven med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag olika uppgifter på ett säkert och sjömannamässigt sätt. Eleven &lt;strong&gt;väljer lämplig metod, motiverar sitt val av metod och &lt;/strong&gt;arbetar utifrån metoden med olika typer av fartyg och manöversystem. I arbetet gör eleven &lt;strong&gt;välgrundade &lt;/strong&gt;riskbedömningar.&lt;/p&gt;&lt;p&gt;Eleven navigerar, &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare, med olika typer av fartyg inomskärs och i kustnära vatten. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för sjövägsregler och regler för navigation.&lt;/p&gt;&lt;p&gt;I arbetet samarbetar eleven med andra och kommunicerar &lt;strong&gt;i nya situationer &lt;/strong&gt;på ett språk som är relevant för uppgiften. Eleven använder &lt;strong&gt;med säkerhet&lt;/strong&gt; de termer och begrepp som är relevanta för ämnet.&lt;/p&gt;&lt;p&gt;Eleven resonerar &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt;, utifrån olika fallbeskrivningar, om förebyggande säkerhetsåtgärder och åtgärder vid brand, olycksfall och överlevnad. Dessutom beskriver eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; de lagar och bestämmelser som reglerar området, samt arbetar utifrån krav på säkerhet, kvalitet och miljö.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

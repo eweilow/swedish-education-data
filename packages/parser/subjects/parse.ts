@@ -24,7 +24,8 @@ export async function parseSubject(data: any, replacementsDirectory: string) {
       .text()
       .replace(/(\s|\n)+/gm, " ")
       .trim(),
-    typeOfSchooling: (data.typeOfSchooling ?? data.originatorTypeOfSchooling)?.[0]?.trim?.(),
+    typeOfSchooling: (data.typeOfSchooling ??
+      data.originatorTypeOfSchooling)?.[0]?.trim?.(),
     applicableFrom: new Date(data.applianceDate[0]).toISOString(),
     courses: data.courses.map((el: any) => el.code[0].trim()),
   };

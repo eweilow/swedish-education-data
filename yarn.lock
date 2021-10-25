@@ -215,9 +215,11 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@education-data/fetcher@workspace:packages/fetcher"
   dependencies:
+    "@types/glob": ^7.1.1
     "@types/mkdirp": ^0.5.2
     "@types/node-fetch": ^2.5.1
     "@types/tar": ^4.0.3
+    glob: ^7.1.4
     mkdirp: ^0.5.1
     node-fetch: ^2.6.0
     tar: ^4.4.11
@@ -249,6 +251,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@education-data/root@workspace:."
   dependencies:
+    "@prettier/plugin-xml": ^1.1.0
     "@types/node": 12.7.5
     lerna: ^3.10.7
     prettier: ^2.4.1
@@ -261,9 +264,11 @@ __metadata:
   dependencies:
     "@education-data/fetcher": ^0.0.1-alpha.9
     "@education-data/parser": ^0.0.1-alpha.9
+    "@prettier/plugin-xml": ^1.1.0
     date-fns: ^2.2.1
     del-cli: ^3.0.0
     jest: ^24.9.0
+    prettier: ^2.4.1
     ts-node: ^10.4.0
     ts-node-dev: ^1.1.8
     typescript: ^4.4.4
@@ -1449,6 +1454,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@prettier/plugin-xml@npm:^1.1.0":
+  version: 1.1.0
+  resolution: "@prettier/plugin-xml@npm:1.1.0"
+  dependencies:
+    "@xml-tools/parser": ^1.0.11
+    prettier: ">=2.3"
+  checksum: c2af6a816ff3a4fd555718046d5c6290616bcde7f51f67ecb2bfaa16f2162be84499c80b33a47ddcab18da58ea9814388883dbaf0aca9b814d01f8a7ede2a814
+  languageName: node
+  linkType: hard
+
 "@tootallnate/once@npm:1":
   version: 1.1.2
   resolution: "@tootallnate/once@npm:1.1.2"
@@ -1677,6 +1692,15 @@ __metadata:
   dependencies:
     "@types/yargs-parser": "*"
   checksum: 879c4d512fa31b9c5536119218db4a309d199000adca0483623a8aca1a729992457d429942d025591bbd1665e34fcd8306440846e1f20b37936f6737263d143e
+  languageName: node
+  linkType: hard
+
+"@xml-tools/parser@npm:^1.0.11":
+  version: 1.0.11
+  resolution: "@xml-tools/parser@npm:1.0.11"
+  dependencies:
+    chevrotain: 7.1.1
+  checksum: 79f32386ef935c1ba65d421e36b556fb14593c7b7e5ca99160ec8ec6dba912a00be6c32d0ab8bad35f82cb5640c05f1a8cfd1d227d563aed20ecc57d678ceab2
   languageName: node
   linkType: hard
 
@@ -2534,6 +2558,15 @@ __metadata:
     lodash: ^4.15.0
     parse5: ^3.0.1
   checksum: 90163e8f360d3a9ac27d7ee83edd891236cad63df75e4fde5efcc27269996716a3f8c8dfcefaa2e77ddd6a21c8e54ed6169138096c869913e571abe2264f36fe
+  languageName: node
+  linkType: hard
+
+"chevrotain@npm:7.1.1":
+  version: 7.1.1
+  resolution: "chevrotain@npm:7.1.1"
+  dependencies:
+    regexp-to-ast: 0.5.0
+  checksum: 3ba268b745b89674712930f5d5b212f0bae6218309a05e1f89301384a9a2e8482429c83b9c52f38e536c38bb1940a53c2c0e6149e15277ea6bc6a1307528474d
   languageName: node
   linkType: hard
 
@@ -7417,21 +7450,21 @@ fsevents@~2.3.2:
   languageName: node
   linkType: hard
 
+"prettier@npm:>=2.3, prettier@npm:^2.4.1":
+  version: 2.4.1
+  resolution: "prettier@npm:2.4.1"
+  bin:
+    prettier: bin-prettier.js
+  checksum: cc6830588b401b0d742862fe9c46bc9118204fb307c3abe0e49e95b35ed23629573807ffdf9cdd65289c252a0bb51fc0171437f6626ee36378dea80f0ee80b91
+  languageName: node
+  linkType: hard
+
 "prettier@npm:^1.18.2":
   version: 1.19.1
   resolution: "prettier@npm:1.19.1"
   bin:
     prettier: ./bin-prettier.js
   checksum: bc78219e0f8173a808f4c6c8e0a137dd8ebd4fbe013e63fe1a37a82b48612f17b8ae8e18a992adf802ee2cf7428f14f084e7c2846ca5759cf4013c6e54810e1f
-  languageName: node
-  linkType: hard
-
-"prettier@npm:^2.4.1":
-  version: 2.4.1
-  resolution: "prettier@npm:2.4.1"
-  bin:
-    prettier: bin-prettier.js
-  checksum: cc6830588b401b0d742862fe9c46bc9118204fb307c3abe0e49e95b35ed23629573807ffdf9cdd65289c252a0bb51fc0171437f6626ee36378dea80f0ee80b91
   languageName: node
   linkType: hard
 
@@ -7797,6 +7830,13 @@ fsevents@~2.3.2:
     extend-shallow: ^3.0.2
     safe-regex: ^1.1.0
   checksum: 3081403de79559387a35ef9d033740e41818a559512668cef3d12da4e8a29ef34ee13c8ed1256b07e27ae392790172e8a15c8a06b72962fd4550476cde3d8f77
+  languageName: node
+  linkType: hard
+
+"regexp-to-ast@npm:0.5.0":
+  version: 0.5.0
+  resolution: "regexp-to-ast@npm:0.5.0"
+  checksum: 72e32f2a1217bb22398ac30867ddd43e16943b6b569dd4eb472de47494c7a39e34f47ee3e92ad4cbf92308f98997da366fe094a0e58eb6b93eab0ee956fff86d
   languageName: node
   linkType: hard
 

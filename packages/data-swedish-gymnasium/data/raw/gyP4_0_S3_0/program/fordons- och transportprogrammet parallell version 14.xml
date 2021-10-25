@@ -1,0 +1,1398 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<program xmlns="http://syllabus2011program.types.skolverket.se/v4_0">
+  <name>Fordons- och transportprogrammet</name>
+  <code>FT001</code>
+  <codeExternal>FT</codeExternal>
+  <skolfsId>2010:41</skolfsId>
+  <applianceDate>2020-07-01T00:00:00+02:00</applianceDate>
+  <validTo>2023-06-30T00:00:00+02:00</validTo>
+  <version>14</version>
+  <status>PUBLISHED</status>
+  <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+  <typeOfProgram>VOCATIONAL_PROGRAM</typeOfProgram>
+  <commonMandatory>
+    <subject>
+      <optional>false</optional>
+      <name>Engelska</name>
+      <code>ENG</code>
+      <point>100</point>
+      <course>
+        <name>Engelska 5</name>
+        <code>ENGENG05</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Historia</name>
+      <code>HIS</code>
+      <point>50</point>
+      <course>
+        <name>Historia 1a1</name>
+        <code>HISHIS01a1</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Idrott och hälsa</name>
+      <code>IDR</code>
+      <point>100</point>
+      <course>
+        <name>Idrott och hälsa 1</name>
+        <code>IDRIDR01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Matematik</name>
+      <code>MAT</code>
+      <point>100</point>
+      <course>
+        <name>Matematik 1a</name>
+        <code>MATMAT01a</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Naturkunskap</name>
+      <code>NAK</code>
+      <point>50</point>
+      <course>
+        <name>Naturkunskap 1a1</name>
+        <code>NAKNAK01a1</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Religionskunskap</name>
+      <code>REL</code>
+      <point>50</point>
+      <course>
+        <name>Religionskunskap 1</name>
+        <code>RELREL01</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Samhällskunskap</name>
+      <code>SAM</code>
+      <point>50</point>
+      <course>
+        <name>Samhällskunskap 1a1</name>
+        <code>SAMSAM01a1</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska</name>
+      <code>SVE</code>
+      <point>100</point>
+      <course>
+        <name>Svenska 1</name>
+        <code>SVESVE01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska som andraspråk</name>
+      <code>SVA</code>
+      <point>100</point>
+      <course>
+        <name>Svenska som andraspråk 1</name>
+        <code>SVASVA01</code>
+        <point>100</point>
+      </course>
+    </subject>
+  </commonMandatory>
+  <commonProgram>
+    <subject>
+      <optional>false</optional>
+      <name>Fordons- och transportbranschen</name>
+      <code>FOR</code>
+      <point>200</point>
+      <course>
+        <name>Fordons- och transportbranschens villkor och arbetsområden</name>
+        <code>FORFOD0</code>
+        <point>200</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Fordonsteknik</name>
+      <code>FOD</code>
+      <point>200</point>
+      <course>
+        <name>Fordonsteknik – introduktion</name>
+        <code>FODFOO0</code>
+        <point>200</point>
+      </course>
+    </subject>
+  </commonProgram>
+  <programOrientations>
+    <programOrientation>
+      <subject>
+        <optional>false</optional>
+        <name>Godshantering</name>
+        <code>GOD</code>
+        <point>200</point>
+        <course>
+          <name>Maskinell godshantering</name>
+          <code>GODMAL0</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Lager och terminal</name>
+        <code>LAG</code>
+        <point>200</point>
+        <course>
+          <name>Lageradministration och terminallogistik</name>
+          <code>LAGLAG0</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <name>Godshantering</name>
+      <code>FTGOD</code>
+      <codeExternal>FTGOD</codeExternal>
+      <point>400</point>
+      <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+    </programOrientation>
+    <programOrientation>
+      <subject>
+        <optional>false</optional>
+        <name>Karosseriteknik</name>
+        <code>KAR</code>
+        <point>200</point>
+        <course>
+          <name>Riktningsteknik – introduktion</name>
+          <code>KARRIT0</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Lackeringsteknik</name>
+        <code>LAC</code>
+        <point>200</point>
+        <course>
+          <name>Lackeringsteknik – introduktion</name>
+          <code>LACLAE0</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <name>Karosseri och lackering</name>
+      <code>FTKAR</code>
+      <codeExternal>FTKAR</codeExternal>
+      <point>400</point>
+      <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+    </programOrientation>
+    <programOrientation>
+      <subject>
+        <optional>false</optional>
+        <name>
+          Lastbilar och mobila maskiner – service och underhållsteknik
+        </name>
+        <code>LAA</code>
+        <point>100</point>
+        <course>
+          <name>Lastbilar och mobila maskiner – verkstad och elteknik</name>
+          <code>LAALAS0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Lastbilar och mobila maskiner – basteknik</name>
+          <code>LAALAT0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Lastbilar och mobila maskiner – service och underhåll 1</name>
+          <code>LAALAS01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Lastbilar och mobila maskiner – service och underhåll 2</name>
+          <code>LAALAS02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <name>Lastbil och mobila maskiner</name>
+      <code>FTLAS</code>
+      <codeExternal>FTLAS</codeExternal>
+      <point>400</point>
+      <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+    </programOrientation>
+    <programOrientation>
+      <subject>
+        <optional>false</optional>
+        <name>Personbilar – service och underhållsteknik</name>
+        <code>SEO</code>
+        <point>100</point>
+        <course>
+          <name>Personbilar – verkstad och elteknik</name>
+          <code>SEOPER0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Personbilar – basteknik</name>
+          <code>SEOPEB0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Personbilar – service och underhåll 1</name>
+          <code>SEOPER01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Personbilar – service och underhåll 2</name>
+          <code>SEOPER02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <name>Personbil</name>
+      <code>FTPER</code>
+      <codeExternal>FTPER</codeExternal>
+      <point>400</point>
+      <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+    </programOrientation>
+    <programOrientation>
+      <subject>
+        <optional>false</optional>
+        <name>Transportteknik</name>
+        <code>TRA</code>
+        <point>200</point>
+        <course>
+          <name>Yrkestrafik 1a</name>
+          <code>TRAYRK01a</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Yrkestrafik 1b</name>
+          <code>TRAYRK01b</code>
+          <point>300</point>
+        </course>
+      </subject>
+      <name>Transport</name>
+      <code>FTTRA</code>
+      <codeExternal>FTTRA</codeExternal>
+      <point>500</point>
+      <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+    </programOrientation>
+  </programOrientations>
+  <profiles />
+  <specialization>
+    <subject>
+      <optional>false</optional>
+      <name />
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>ATV- och motorcykelteknik</name>
+      <code>ATO</code>
+      <point>200</point>
+      <course>
+        <name>ATV och motorcykel</name>
+        <code>ATOATV0</code>
+        <point>200</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Aktiviteter och värdskap</name>
+      <code>AKT</code>
+      <point>100</point>
+      <course>
+        <name>Guide och reseledare</name>
+        <code>AKTGUI0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Bussteknik</name>
+      <code>BUS</code>
+      <point>100</point>
+      <course>
+        <name>Bussteknik</name>
+        <code>BUSBUS0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>El- och hybridfordonsteknik</name>
+      <code>ELC</code>
+      <point>100</point>
+      <course>
+        <name>El- och hybridfordon 1</name>
+        <code>ELCELO01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>El- och hybridfordon 2</name>
+        <code>ELCELO02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Engelska</name>
+      <code>ENG</code>
+      <point>100</point>
+      <course>
+        <name>Engelska 6</name>
+        <code>ENGENG06</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Entreprenörskap</name>
+      <code>ENT</code>
+      <point>100</point>
+      <course>
+        <name>Entreprenörskap</name>
+        <code>ENTENR0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Flerbränslefordonsteknik</name>
+      <code>FLE</code>
+      <point>100</point>
+      <course>
+        <name>Flerbränslefordon</name>
+        <code>FLEFLR0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Flygplatsteknik</name>
+      <code>FLG</code>
+      <point>200</point>
+      <course>
+        <name>Flygplatsen</name>
+        <code>FLGFLY0</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Fälthållning</name>
+        <code>FLGFAL0</code>
+        <point>200</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Försäljning och kundservice</name>
+      <code>FÖS</code>
+      <point>100</point>
+      <course>
+        <name>Personlig försäljning 1</name>
+        <code>FÖSPER01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Personlig försäljning 2</name>
+        <code>FÖSPER02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Servicekunskap</name>
+        <code>FÖSSEV0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Godshantering</name>
+      <code>GOD</code>
+      <point>200</point>
+      <course>
+        <name>Hantering av varor och gods</name>
+        <code>GODHAT0</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Lastbärare</name>
+        <code>GODLAS0</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Maskinell godshantering</name>
+        <code>GODMAL0</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Tunga arbetsmaskiner</name>
+        <code>GODTUN0</code>
+        <point>200</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Godstransporter</name>
+      <code>GOS</code>
+      <point>200</point>
+      <course>
+        <name>Godstrafik</name>
+        <code>GOSGOD0</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Godstransporter – specialisering</name>
+        <code>GOSGOD00S</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Lastbilsmonterad kran</name>
+        <code>GOSLAL0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Grönyte- och småmaskinsteknik</name>
+      <code>GRO</code>
+      <point>100</point>
+      <course>
+        <name>Grönyte- och småmaskinsteknik</name>
+        <code>GROGRO0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Handel</name>
+      <code>HAN</code>
+      <point>100</point>
+      <course>
+        <name>Handel – specialisering</name>
+        <code>HANHAN00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Hjulutrustningsteknik</name>
+      <code>HJU</code>
+      <point>200</point>
+      <course>
+        <name>Hjulutrustning</name>
+        <code>HJUHJU0</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Hjulutrustning – specialisering</name>
+        <code>HJUHJT00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Husvagns- och husbilsteknik</name>
+      <code>HUV</code>
+      <point>300</point>
+      <course>
+        <name>Husvagnar och husbilar</name>
+        <code>HUVHUS0</code>
+        <point>300</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Inköp och logistik</name>
+      <code>INK</code>
+      <point>100</point>
+      <course>
+        <name>Inköp 1</name>
+        <code>INKINK01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Logistik 1</name>
+        <code>INKLOG01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Karosseriteknik</name>
+      <code>KAR</code>
+      <point>200</point>
+      <course>
+        <name>Riktningsteknik – introduktion</name>
+        <code>KARRIT0</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Karosserikonstruktioner och inredning</name>
+        <code>KARKAR0</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Riktbänkssystem</name>
+        <code>KARRIK0</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Skadebesiktning och produktionsflöde</name>
+        <code>KARSKA0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Skarvnings- och sammanfogningsteknik</name>
+        <code>KARSKR0</code>
+        <point>300</point>
+      </course>
+      <course>
+        <name>Småreparationer – karosseri</name>
+        <code>KARSMA0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Lackeringsteknik</name>
+      <code>LAC</code>
+      <point>200</point>
+      <course>
+        <name>Lackeringsteknik – introduktion</name>
+        <code>LACLAE0</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Baskurs i lackering</name>
+        <code>LACBAK0</code>
+        <point>300</point>
+      </course>
+      <course>
+        <name>Färg och dekorationslackering</name>
+        <code>LACFÄR0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Industriell lackering</name>
+        <code>LACINS0</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Lackeringsteknik – applicering</name>
+        <code>LACLAK0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Lackeringsteknik för tunga fordon</name>
+        <code>LACLAR0</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Lackeringssystem</name>
+        <code>LACLAC0</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Produktionsflöden</name>
+        <code>LACPRD0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Småreparationer – lackering</name>
+        <code>LACSMA0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Lager och terminal</name>
+      <code>LAG</code>
+      <point>200</point>
+      <course>
+        <name>Lageradministration och terminallogistik</name>
+        <code>LAGLAG0</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Lagerprocesser</name>
+        <code>LAGLAP0</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Plocklagerhantering</name>
+        <code>LAGPLO0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Lantbruksmaskinsteknik</name>
+      <code>LAK</code>
+      <point>100</point>
+      <course>
+        <name>Lantbruksmaskinsteknik</name>
+        <code>LAKLAN0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Lastbilar och mobila maskiner – motorteknik</name>
+      <code>LAI</code>
+      <point>200</point>
+      <course>
+        <name>Lastbilar och mobila maskiner – förbränningsmotorer</name>
+        <code>LAILAT0</code>
+        <point>200</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Lastbilar och mobila maskiner – service och underhållsteknik</name>
+      <code>LAA</code>
+      <point>100</point>
+      <course>
+        <name>Lastbilar och mobila maskiner – verkstad och elteknik</name>
+        <code>LAALAS0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Lastbilar och mobila maskiner – basteknik</name>
+        <code>LAALAT0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Lastbilar och mobila maskiner – service och underhåll 1</name>
+        <code>LAALAS01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Lastbilar och mobila maskiner – service och underhåll 2</name>
+        <code>LAALAS02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Lastbilar – reparations- och systemteknik</name>
+      <code>LAP</code>
+      <point>100</point>
+      <course>
+        <name>Lastbilar – kraftöverföring</name>
+        <code>LAPLAS0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Lastbilar – chassi och bromsar</name>
+        <code>LAPLAC0</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Lastbilar – system- och diagnosteknik 1</name>
+        <code>LAPLAS01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Lastbilar – system- och diagnosteknik 2</name>
+        <code>LAPLAS02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Lastbilspåbyggnadsteknik</name>
+      <code>LAL</code>
+      <point>100</point>
+      <course>
+        <name>Lastbilspåbyggnad – specialisering</name>
+        <code>LALLAS00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Marinmotorteknik</name>
+      <code>MAN</code>
+      <point>100</point>
+      <course>
+        <name>Diagnos och reparation</name>
+        <code>MANDIA0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Intervallservice</name>
+        <code>MANINT0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Matematik</name>
+      <code>MAT</code>
+      <point>100</point>
+      <course>
+        <name>Matematik 2a</name>
+        <code>MATMAT02a</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Mobila maskiner – reparations- och systemteknik</name>
+      <code>MOL</code>
+      <point>100</point>
+      <course>
+        <name>Mobila maskiner – kraftöverföring</name>
+        <code>MOLMOB0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Mobila maskiner – hydraulsystem</name>
+        <code>MOLMOI0</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Mobila maskiner – system- och diagnosteknik 1</name>
+        <code>MOLMOB01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Mobila maskiner – system- och diagnosteknik 2</name>
+        <code>MOLMOB02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Personbilar – reparations- och systemteknik</name>
+      <code>REP</code>
+      <point>100</point>
+      <course>
+        <name>Personbilar – förbränningsmotorer</name>
+        <code>REPPER0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Personbilar – kraftöverföring</name>
+        <code>REPPES0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Personbilar – chassi och bromsar</name>
+        <code>REPPEO0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Personbilar – system- och diagnosteknik 1</name>
+        <code>REPPER01</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Personbilar – system- och diagnosteknik 2</name>
+        <code>REPPER02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Personbilar – service och underhållsteknik</name>
+      <code>SEO</code>
+      <point>100</point>
+      <course>
+        <name>Personbilar – verkstad och elteknik</name>
+        <code>SEOPER0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Personbilar – basteknik</name>
+        <code>SEOPEB0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Personbilar – service och underhåll 1</name>
+        <code>SEOPER01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Personbilar – service och underhåll 2</name>
+        <code>SEOPER02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Persontransporter</name>
+      <code>PES</code>
+      <point>200</point>
+      <course>
+        <name>Persontrafik 1a</name>
+        <code>PESPER01a</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Persontrafik 1b</name>
+        <code>PESPER01b</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Persontransporter – specialisering</name>
+        <code>PESPER00S</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Taxitrafik</name>
+        <code>PESTAX0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Programmering</name>
+      <code>PRR</code>
+      <point>100</point>
+      <course>
+        <name>Programmering 1</name>
+        <code>PRRPRR01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Reseproduktion och marknadsföring</name>
+      <code>RES</code>
+      <point>100</point>
+      <course>
+        <name>Resmål och resvägar</name>
+        <code>RESREM0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Service och bemötande</name>
+      <code>SEV</code>
+      <point>100</point>
+      <course>
+        <name>Service och bemötande 1</name>
+        <code>SEVSEV01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Skogsbruksmaskinsteknik</name>
+      <code>SKB</code>
+      <point>100</point>
+      <course>
+        <name>Skogsbruksmaskinsteknik</name>
+        <code>SKBSKO0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Snöfordonsteknik</name>
+      <code>SNO</code>
+      <point>100</point>
+      <course>
+        <name>Reparation av snöskoter</name>
+        <code>SNOREE0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Tillämpad programmering</name>
+      <code>TIA</code>
+      <point>100</point>
+      <course>
+        <name>Tillämpad programmering</name>
+        <code>TIATIL00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Transportteknik</name>
+      <code>TRA</code>
+      <point>200</point>
+      <course>
+        <name>Fordonskombinationer – godstransporter</name>
+        <code>TRAFOR0</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Fordonskombinationer – persontransporter</name>
+        <code>TRAFOD0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Truckteknik</name>
+      <code>TRC</code>
+      <point>200</point>
+      <course>
+        <name>Truckteknik</name>
+        <code>TRCTRU0</code>
+        <point>200</point>
+      </course>
+    </subject>
+  </specialization>
+  <individualChoice />
+  <projectAssignment />
+  <professionalDegrees>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Lackeringsteknik</name>
+        <code>LAC</code>
+        <point>300</point>
+        <course>
+          <name>Baskurs i lackering</name>
+          <code>LACBAK0</code>
+          <point>300</point>
+        </course>
+        <course>
+          <name>Lackeringssystem</name>
+          <code>LACLAC0</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Produktionsflöden</name>
+          <code>LACPRD0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>FTKAR</programOrientationCode>
+      <name>Billackerare</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Karosseriteknik</name>
+        <code>KAR</code>
+        <point>200</point>
+        <course>
+          <name>Karosserikonstruktioner och inredning</name>
+          <code>KARKAR0</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Skadebesiktning och produktionsflöde</name>
+          <code>KARSKA0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Skarvnings- och sammanfogningsteknik</name>
+          <code>KARSKR0</code>
+          <point>300</point>
+        </course>
+      </subject>
+      <programOrientationCode>FTKAR</programOrientationCode>
+      <name>Bilskadereparatör</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Persontransporter</name>
+        <code>PES</code>
+        <point>200</point>
+        <course>
+          <name>Persontrafik 1a</name>
+          <code>PESPER01a</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Persontrafik 1b</name>
+          <code>PESPER01b</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Persontransporter – specialisering</name>
+          <code>PESPER00S</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Transportteknik</name>
+        <code>TRA</code>
+        <point>100</point>
+        <course>
+          <name>Fordonskombinationer – persontransporter</name>
+          <code>TRAFOD0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>FTTRA</programOrientationCode>
+      <name>Bussförare</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Godshantering</name>
+        <code>GOD</code>
+        <point>200</point>
+        <course>
+          <name>Hantering av varor och gods</name>
+          <code>GODHAT0</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Lastbärare</name>
+          <code>GODLAS0</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Lager och terminal</name>
+        <code>LAG</code>
+        <point>200</point>
+        <course>
+          <name>Lagerprocesser</name>
+          <code>LAGLAP0</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <programOrientationCode>FTGOD</programOrientationCode>
+      <name>Lagerarbetare</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Godshantering</name>
+        <code>GOD</code>
+        <point>200</point>
+        <course>
+          <name>Maskinell godshantering</name>
+          <code>GODMAL0</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Godstransporter</name>
+        <code>GOS</code>
+        <point>200</point>
+        <course>
+          <name>Godstrafik</name>
+          <code>GOSGOD0</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Godstransporter – specialisering</name>
+          <code>GOSGOD00S</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Transportteknik</name>
+        <code>TRA</code>
+        <point>200</point>
+        <course>
+          <name>Fordonskombinationer – godstransporter</name>
+          <code>TRAFOR0</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <programOrientationCode>FTTRA</programOrientationCode>
+      <name>Lastbilsförare</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Lastbilar och mobila maskiner – motorteknik</name>
+        <code>LAI</code>
+        <point>200</point>
+        <course>
+          <name>Lastbilar och mobila maskiner – förbränningsmotorer</name>
+          <code>LAILAT0</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Lastbilar – reparations- och systemteknik</name>
+        <code>LAP</code>
+        <point>100</point>
+        <course>
+          <name>Lastbilar – kraftöverföring</name>
+          <code>LAPLAS0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Lastbilar – chassi och bromsar</name>
+          <code>LAPLAC0</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Lastbilar – system- och diagnosteknik 1</name>
+          <code>LAPLAS01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Lastbilar – system- och diagnosteknik 2</name>
+          <code>LAPLAS02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>FTLAS</programOrientationCode>
+      <name>Lastbilsmekaniker</name>
+      <profSpecialization>
+        <subject>
+          <optional>false</optional>
+          <name>El- och hybridfordonsteknik</name>
+          <code>ELC</code>
+          <point>100</point>
+          <course>
+            <name>El- och hybridfordon 1</name>
+            <code>ELCELO01</code>
+            <point>100</point>
+          </course>
+        </subject>
+      </profSpecialization>
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Lastbilar och mobila maskiner – motorteknik</name>
+        <code>LAI</code>
+        <point>200</point>
+        <course>
+          <name>Lastbilar och mobila maskiner – förbränningsmotorer</name>
+          <code>LAILAT0</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Mobila maskiner – reparations- och systemteknik</name>
+        <code>MOL</code>
+        <point>100</point>
+        <course>
+          <name>Mobila maskiner – kraftöverföring</name>
+          <code>MOLMOB0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Mobila maskiner – hydraulsystem</name>
+          <code>MOLMOI0</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Mobila maskiner – system- och diagnosteknik 1</name>
+          <code>MOLMOB01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Mobila maskiner – system- och diagnosteknik 2</name>
+          <code>MOLMOB02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>FTLAS</programOrientationCode>
+      <name>Maskinmekaniker</name>
+      <profSpecialization>
+        <subject>
+          <optional>false</optional>
+          <name>El- och hybridfordonsteknik</name>
+          <code>ELC</code>
+          <point>100</point>
+          <course>
+            <name>El- och hybridfordon 1</name>
+            <code>ELCELO01</code>
+            <point>100</point>
+          </course>
+        </subject>
+      </profSpecialization>
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>El- och hybridfordonsteknik</name>
+        <code>ELC</code>
+        <point>100</point>
+        <course>
+          <name>El- och hybridfordon 1</name>
+          <code>ELCELO01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Personbilar – reparations- och systemteknik</name>
+        <code>REP</code>
+        <point>100</point>
+        <course>
+          <name>Personbilar – förbränningsmotorer</name>
+          <code>REPPER0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Personbilar – kraftöverföring</name>
+          <code>REPPES0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Personbilar – chassi och bromsar</name>
+          <code>REPPEO0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Personbilar – system- och diagnosteknik 1</name>
+          <code>REPPER01</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Personbilar – system- och diagnosteknik 2</name>
+          <code>REPPER02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>FTPER</programOrientationCode>
+      <name>Personbilsmekaniker</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Försäljning och kundservice</name>
+        <code>FÖS</code>
+        <point>100</point>
+        <course>
+          <name>Personlig försäljning 1</name>
+          <code>FÖSPER01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Personlig försäljning 2</name>
+          <code>FÖSPER02</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Servicekunskap</name>
+          <code>FÖSSEV0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Handel</name>
+        <code>HAN</code>
+        <point>100</point>
+        <course>
+          <name>Handel – specialisering</name>
+          <code>HANHAN00S</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Inköp och logistik</name>
+        <code>INK</code>
+        <point>100</point>
+        <course>
+          <name>Logistik 1</name>
+          <code>INKLOG01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>FTPER</programOrientationCode>
+      <name>Reservdelsspecialist, lätta fordon</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Försäljning och kundservice</name>
+        <code>FÖS</code>
+        <point>100</point>
+        <course>
+          <name>Personlig försäljning 1</name>
+          <code>FÖSPER01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Personlig försäljning 2</name>
+          <code>FÖSPER02</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Servicekunskap</name>
+          <code>FÖSSEV0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Handel</name>
+        <code>HAN</code>
+        <point>100</point>
+        <course>
+          <name>Handel – specialisering</name>
+          <code>HANHAN00S</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Inköp och logistik</name>
+        <code>INK</code>
+        <point>100</point>
+        <course>
+          <name>Logistik 1</name>
+          <code>INKLOG01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>FTLAS</programOrientationCode>
+      <name>Reservdelsspecialist, tunga fordon</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Godshantering</name>
+        <code>GOD</code>
+        <point>200</point>
+        <course>
+          <name>Hantering av varor och gods</name>
+          <code>GODHAT0</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Lastbärare</name>
+          <code>GODLAS0</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Tunga arbetsmaskiner</name>
+          <code>GODTUN0</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <programOrientationCode>FTGOD</programOrientationCode>
+      <name>Terminalarbetare</name>
+      <profSpecialization />
+    </professionalDegree>
+  </professionalDegrees>
+  <category>VOCATIONAL_PROGRAM</category>
+  <modifiedDate>2021-10-21T00:00:00+02:00</modifiedDate>
+  <createdDate>2020-07-01T09:48:52+02:00</createdDate>
+  <typeOfStudyPath>PROGRAM</typeOfStudyPath>
+</program>

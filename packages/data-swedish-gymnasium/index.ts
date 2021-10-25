@@ -17,9 +17,6 @@ import {
 } from "./cfg";
 
 async function main() {
-  console.info("\n[fetching and extracting data]");
-  await fetchSyllabus(dataDirectory);
-
   console.info("\n[parsing subject data]");
   await parseSubjects(sourceDirectory, outputDirectory, replacementsDirectory);
 

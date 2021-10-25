@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Materialkunskap</name>
+  <englishName>Material studies</englishName>
+  <description
+  >&lt;p&gt;Ämnet materialkunskap behandlar det produktionsmaterial som huvudsakligen används inom aktuellt industriområde. Det handlar om råvaror, förädlingsprocesser, var och hur materialet används i dag samt om kunskaper om materialets inre och yttre egenskaper ur såväl funktionella som kvalitativa aspekter. Ämnet behandlar också metoder och tekniker för att forma, bearbeta, dela, sammanfoga samt montera materialet.&lt;/p&gt;</description>
+  <code>MAE</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2010-12-15T09:52:39+01:00</createdDate>
+  <modifiedDate>2020-02-19T15:57:50+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Materialkunskap&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet materialkunskap ska syfta till att eleverna utvecklar ett kreativt intresse för det aktuella materialets användningspotential samt förmåga att utföra vanliga arbetsuppgifter inom relevant bearbetning av materialet enligt etablerade metoder och gällande säkerhetsföreskrifter.&lt;/p&gt;&lt;p&gt;Undervisningen ska också ge eleverna möjlighet att utveckla såväl kunskaper inom teoribildning som praktiskt handlag för att, med hänsyn till det aktuella materialets allmänna egenskaper och tillfälliga status, utföra bearbetning enligt beskrivning. Den ska därmed utveckla elevernas förmåga att hantera materialet ur såväl funktionella som kvalitetsmässiga aspekter i enlighet med materialets inre och yttre egenskaper.&lt;/p&gt;&lt;p&gt;Dessutom ska undervisningen bidra till att eleverna utvecklar ett helhetsperspektiv och en förmåga att bedöma materialets status i olika utvecklingsskeden. Undervisningen ska också ge eleverna möjlighet att utveckla kunskaper i nödvändiga beräkningar och en beredskap för att möta problemlösning i samband med hantering av materialet samt kunskaper om materialhanteringens betydelse för en produkts slutresultat. Undervisningen ska bidra till att eleverna utvecklar förmåga att med relevanta begrepp och symboler kommunicera omkring frågor om materialet.&lt;/p&gt;&lt;p&gt;Vidare ska undervisningen ge eleverna möjlighet att utveckla förmåga att ta ställning i frågor om hållbar utveckling kopplat till materialanvändning samt bedöma hur materialet påverkar verktyg och annan utrustning.&lt;/p&gt;&lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla färdigheter i att hantera materialet med såväl hand- som maskinverktyg, och därför ska praktiska övningar ingå i undervisningen.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet materialkunskap ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Förmåga att planera, organisera och bearbeta material i såväl förberedande bearbetning som i produktionsmoment samt förmåga att kontrollera att det färdiga resultatet uppfyller uppställda kvalitetskrav.&lt;/li&gt; &lt;li&gt;Förmåga att tolka relevanta berednings- och tillverkningsunderlag.&lt;/li&gt; &lt;li&gt;Förmåga att kunna utföra relevanta beräkningar.&lt;/li&gt; &lt;li&gt;Kunskaper om vad som kännetecknar en god och säker miljö och förmåga att tillämpa det vid eget arbete.&lt;/li&gt; &lt;li&gt;Kunskaper om materialets användningsområden.&lt;/li&gt; &lt;li&gt;Kunskaper om materialets inneboende egenskaper och samverkan med yttre tekniska, fysiska och kemikaliska betingelser och skeenden.&lt;/li&gt; &lt;li&gt;Kunskaper om hur materialet interagerar fysiskt och kemiskt med omgivande material och miljö.&lt;/li&gt; &lt;li&gt;Förmåga att använda korrekt fackspråk.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Materialkunskap 1, 100 poäng.&lt;/li&gt; &lt;li&gt;Materialkunskap 2, 100 poäng, som bygger på kursen materialkunskap 1.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2010:208</skolfsId>
+  <applianceDate>2011-07-01T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Materialkunskap 1</name>
+    <englishName>Material studies 1</englishName>
+    <description
+    >&lt;p&gt;Kursen materialkunskap 1 omfattar punkterna 1–8 under rubriken Ämnets syfte i ämnet materialkunskap. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>MAEMAT01</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Materialkunskap 1, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MAEMAT01&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Relevanta metoder för bearbetning fram till produktframställning. Enklare mät- och handverktyg. &lt;/li&gt; &lt;li&gt;Bearbetning, formning, sammanfogning och delning med hand- och maskindriven utrustning.&lt;/li&gt; &lt;li&gt;Beteckningar och standarder för hantering och kvalitetskontroll.&lt;/li&gt; &lt;li&gt;Berednings- och tillverkningsunderlag. &lt;/li&gt; &lt;li&gt;Materialberäkningar samt planering av optimerande användning.&lt;/li&gt; &lt;li&gt;Regler för arbetsmiljö och säkerhet samt exempel på olyckor i samband med hantering av materialet. &lt;/li&gt; &lt;li&gt;Korrigering för fel vid bearbetningen samt, genom laborativa inslag, lösningar av andra typer av problem som kan uppstå. &lt;/li&gt; &lt;li&gt;Materialets historia, nuvarande användningsområden och utvecklingspotential inför framtiden.&lt;/li&gt; &lt;li&gt;För materialet relevant färg- och formlära.&lt;/li&gt; &lt;li&gt;Materialets tekniska, fysiska och kemiska egenskaper och samverkan med omgivning och andra material. Fysiskt och kemiskt inre och yttre slitage samt åldrande.&lt;/li&gt; &lt;li&gt;Materialets förändrade egenskaper vid bearbetning.&lt;/li&gt; &lt;li&gt;Råvaruproduktion, förädling till olika materialvariationer, metoder för produkttillverkning, ytbehandling och annan efterbearbetning samt destruktion eller återvinning.&lt;/li&gt; &lt;li&gt;Materialets påverkan på verktyg och annan utrustning.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar materialbearbetning &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag samt gör &lt;strong&gt;med viss säkerhet&lt;/strong&gt; beräkningar för att optimera materialanvändningen. Vidare väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare materialbearbetning i enlighet med säkerhetsföreskrifter, givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner och tillverkningsunderlag. Eleven hanterar verktyg, utrustning, maskiner och material med&lt;strong&gt; visst &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Dessutom följer eleven lagar och andra bestämmelser om arbetsmiljö och hälsa. Under arbetet upptäcker eleven eventuella problem som uppkommer samt åtgärdar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för materialets egenskaper och hur det samverkar med teknik, metoder och verktyg som använts för arbetsuppgiften. Dessutom redogör eleven &lt;strong&gt;översiktligt&lt;/strong&gt; för hur materialets egenskaper och tillämpade arbetsmetoder påverkar kvalitet och slutresultat. Eleven redogör även &lt;strong&gt;översiktligt &lt;/strong&gt;för materialets användningsområden och för hur materialet interagerar med omgivande miljö. Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för genomförda arbetsmoment, resultatet, eventuella avvikelser från specifikationer samt den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar materialbearbetning &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag samt gör &lt;strong&gt;med viss säkerhet&lt;/strong&gt; beräkningar för att optimera materialanvändningen. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare materialbearbetning i enlighet med säkerhetsföreskrifter, givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;arbetsbeskrivningar och tillverkningsunderlag. Eleven hanterar verktyg, utrustning, maskiner och material med&lt;strong&gt; gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Dessutom följer eleven lagar och andra bestämmelser om arbetsmiljö och hälsa. Under arbetet upptäcker eleven eventuella problem som uppkommer samt åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för materialets egenskaper och hur det samverkar med teknik, metoder och verktyg som använts för arbetsuppgiften. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för hur materialets egenskaper och tillämpade arbetsmetoder påverkar kvalitet och slutresultat. Eleven redogör även &lt;strong&gt;utförligt &lt;/strong&gt;för materialets användningsområden och för hur materialet interagerar med omgivande miljö. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för genomförda arbetsmoment, resultatet, eventuella avvikelser från specifikationer samt den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar materialbearbetning &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. I planeringen tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag samt gör &lt;strong&gt;med säkerhet&lt;/strong&gt; beräkningar för att optimera materialanvändningen. &lt;strong&gt;Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det&lt;/strong&gt;. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare materialbearbetning i enlighet med säkerhetsföreskrifter, givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;arbetsbeskrivningar och tillverkningsunderlag. Eleven hanterar verktyg, utrustning, maskiner och material med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Dessutom följer eleven lagar och andra bestämmelser om arbetsmiljö och hälsa. Under arbetet upptäcker eleven eventuella problem som uppkommer samt åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för materialets egenskaper och hur det samverkar med teknik, metoder och verktyg som använts för arbetsuppgiften. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för hur materialets egenskaper och tillämpade arbetsmetoder påverkar kvalitet och slutresultat. Eleven redogör även &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för materialets användningsområden och för hur materialet interagerar med omgivande miljö. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för genomförda arbetsmoment, resultatet, eventuella avvikelser från specifikationer samt den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Materialkunskap 2</name>
+    <englishName>Material studies 2</englishName>
+    <description
+    >&lt;p&gt;Kursen materialkunskap 2 omfattar punkterna 1–8 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>MAEMAT02</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Materialkunskap 2, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MAEMAT02&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;ul&gt; &lt;li&gt;Avancerad hand- och maskindriven utrustning vid materialbearbetning samt vid formning, sammanfogning och delning.&lt;/li&gt; &lt;li&gt;Etablerade, alternativa metoder för materialbearbetning.&lt;/li&gt; &lt;li&gt;Materialbearbetning i modern tekniskt avancerad produktionsutrustning.&lt;/li&gt; &lt;li&gt;Eventuella alternativa material i produktproduktionen.&lt;/li&gt; &lt;li&gt;Berednings- och ritningsunderlag samt etablerade, alternativa metoder för materialoptimering.&lt;/li&gt; &lt;li&gt;Metoder för att lösa avancerade materialrelaterade problem.&lt;/li&gt; &lt;li&gt;För materialet relevant färg- och formlära.&lt;/li&gt; &lt;li&gt;Materialets tekniska, fysiska och kemiska yttre och inre egenskaper.&lt;/li&gt; &lt;li&gt;Introduktion till aktuell forskning och utveckling inom materialområdet.&lt;/li&gt; &lt;li&gt;Laborativa materialförsök. Idéutveckling.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar materialbearbetning &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag samt gör &lt;strong&gt;med viss säkerhet&lt;/strong&gt; beräkningar för att optimera materialanvändningen. Vidare väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare materialbearbetning i enlighet med säkerhetsföreskrifter, givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;arbetsbeskrivningar och tillverkningsunderlag. Eleven hanterar verktyg, utrustning, maskiner och material med&lt;strong&gt; visst &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Dessutom följer eleven lagar och andra bestämmelser om arbetsmiljö och hälsa. Under arbetet upptäcker eleven eventuella problem som uppkommer samt åtgärdar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; teknik, metoder, verktyg och material, som använts för arbetsuppgiften samt förklarar &lt;strong&gt;översiktligt&lt;/strong&gt; hur arbetsprocessen påverkar kvalitet och slutresultat. Eleven redogör även &lt;strong&gt;översiktligt &lt;/strong&gt;för materialets användningsområden samt för hur materialet interagerar med omgivande miljö. Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för arbetsprocessen, resultatet, eventuella avvikelser från specifikationen samt den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar materialbearbetning &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag samt gör &lt;strong&gt;med viss säkerhet&lt;/strong&gt; beräkningar för att optimera materialanvändningen. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare materialbearbetning i enlighet med säkerhetsföreskrifter, givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;arbetsbeskrivningar och tillverkningsunderlag. Eleven hanterar verktyg, utrustning, maskiner och material med&lt;strong&gt; gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Dessutom följer eleven lagar och andra bestämmelser om arbetsmiljö och hälsa. Under arbetet upptäcker eleven eventuella problem som uppkommer samt åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för materialets egenskaper och hur det samverkar med teknik, metoder och verktyg som använts för arbetsuppgiften. Dessutom förklarar eleven &lt;strong&gt;utförligt&lt;/strong&gt; hur arbetsprocessen påverkar kvalitet och slutresultat. Eleven redogör även &lt;strong&gt;utförligt &lt;/strong&gt;för materialets användningsområden samt för hur materialet interagerar med omgivande miljö. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för arbetsprocessen, resultatet, eventuella avvikelser från specifikationen samt den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar materialbearbetning &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. I planeringen tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag samt gör &lt;strong&gt;med säkerhet&lt;/strong&gt; beräkningar för att optimera materialanvändningen. &lt;strong&gt;Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det&lt;/strong&gt;. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare materialbearbetning i enlighet med säkerhetsföreskrifter, givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;arbetsbeskrivningar och tillverkningsunderlag. Eleven hanterar verktyg, utrustning, maskiner och material med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Dessutom följer eleven lagar och andra bestämmelser om arbetsmiljö och hälsa. Under arbetet upptäcker eleven eventuella problem som uppkommer samt åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för materialets egenskaper och hur det samverkar med teknik, metoder och verktyg som använts för arbetsuppgiften. Dessutom förklarar eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; hur arbetsprocessen påverkar kvalitet och slutresultat. Eleven redogör även &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för materialets användningsområden samt för hur materialet interagerar med omgivande miljö. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för arbetsprocessen, resultatet, eventuella avvikelser från specifikationen samt den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

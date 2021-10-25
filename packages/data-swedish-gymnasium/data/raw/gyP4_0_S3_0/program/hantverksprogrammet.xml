@@ -1,0 +1,1941 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<program xmlns="http://syllabus2011program.types.skolverket.se/v4_0">
+  <name>Hantverksprogrammet</name>
+  <code>HV001</code>
+  <codeExternal>HV</codeExternal>
+  <skolfsId>0000:00</skolfsId>
+  <applianceDate>2021-07-01T00:00:00+02:00</applianceDate>
+  <version>15</version>
+  <status>PUBLISHED</status>
+  <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+  <typeOfProgram>VOCATIONAL_PROGRAM</typeOfProgram>
+  <commonMandatory>
+    <subject>
+      <optional>false</optional>
+      <name>Engelska</name>
+      <code>ENG</code>
+      <point>100</point>
+      <course>
+        <name>Engelska 5</name>
+        <code>ENGENG05</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Historia</name>
+      <code>HIS</code>
+      <point>50</point>
+      <course>
+        <name>Historia 1a1</name>
+        <code>HISHIS01a1</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Idrott och hälsa</name>
+      <code>IDR</code>
+      <point>100</point>
+      <course>
+        <name>Idrott och hälsa 1</name>
+        <code>IDRIDR01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Matematik</name>
+      <code>MAT</code>
+      <point>100</point>
+      <course>
+        <name>Matematik 1a</name>
+        <code>MATMAT01a</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Naturkunskap</name>
+      <code>NAK</code>
+      <point>50</point>
+      <course>
+        <name>Naturkunskap 1a1</name>
+        <code>NAKNAK01a1</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Religionskunskap</name>
+      <code>REL</code>
+      <point>50</point>
+      <course>
+        <name>Religionskunskap 1</name>
+        <code>RELREL01</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Samhällskunskap</name>
+      <code>SAM</code>
+      <point>50</point>
+      <course>
+        <name>Samhällskunskap 1a1</name>
+        <code>SAMSAM01a1</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska</name>
+      <code>SVE</code>
+      <point>100</point>
+      <course>
+        <name>Svenska 1</name>
+        <code>SVESVE01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska som andraspråk</name>
+      <code>SVA</code>
+      <point>100</point>
+      <course>
+        <name>Svenska som andraspråk 1</name>
+        <code>SVASVA01</code>
+        <point>100</point>
+      </course>
+    </subject>
+  </commonMandatory>
+  <commonProgram>
+    <subject>
+      <optional>false</optional>
+      <name>Entreprenörskap</name>
+      <code>ENT</code>
+      <point>100</point>
+      <course>
+        <name>Entreprenörskap</name>
+        <code>ENTENR0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Hantverk</name>
+      <code>HAV</code>
+      <point>200</point>
+      <course>
+        <name>Hantverk – introduktion</name>
+        <code>HAVHAV0</code>
+        <point>200</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Hantverkskunskap</name>
+      <code>HVK</code>
+      <point>100</point>
+      <course>
+        <name>Tradition och utveckling</name>
+        <code>HVKTRA0</code>
+        <point>100</point>
+      </course>
+    </subject>
+  </commonProgram>
+  <programOrientations>
+    <programOrientation>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Finsnickeri 1</name>
+          <code>HAVFIN01</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Finsnickeri 2</name>
+          <code>HAVFIN02</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverkskunskap</name>
+        <code>HVK</code>
+        <point>100</point>
+        <course>
+          <name>Material och miljö</name>
+          <code>HVKMAE0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <name>Finsnickeri</name>
+      <code>HVFIN</code>
+      <codeExternal>HVFIN</codeExternal>
+      <point>500</point>
+      <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+    </programOrientation>
+    <programOrientation>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Florist 1</name>
+          <code>HAVFLO01</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Florist 2</name>
+          <code>HAVFLO02</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverkskunskap</name>
+        <code>HVK</code>
+        <point>100</point>
+        <course>
+          <name>Material och miljö</name>
+          <code>HVKMAE0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <name>Florist</name>
+      <code>HVFLO</code>
+      <codeExternal>HVFLO</codeExternal>
+      <point>500</point>
+      <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+    </programOrientation>
+    <programOrientation>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Frisör 1</name>
+          <code>HAVFRI01</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverkskunskap</name>
+        <code>HVK</code>
+        <point>100</point>
+        <course>
+          <name>Material och miljö</name>
+          <code>HVKMAE0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <name>Frisör, barberare, hår- och makeupstylist</name>
+      <code>HVFRS</code>
+      <codeExternal>HVFRS</codeExternal>
+      <point>300</point>
+      <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+    </programOrientation>
+    <programOrientation>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Textil design 1</name>
+          <code>HAVTEX01</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Textil design 2</name>
+          <code>HAVTEX02</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverkskunskap</name>
+        <code>HVK</code>
+        <point>100</point>
+        <course>
+          <name>Material och miljö</name>
+          <code>HVKMAE0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <name>Textil design</name>
+      <code>HVTEX</code>
+      <codeExternal>HVTEX</codeExternal>
+      <point>500</point>
+      <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+    </programOrientation>
+    <programOrientation>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Hantverksteknik 1</name>
+          <code>HAVHNT01</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 2</name>
+          <code>HAVHNT02</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverkskunskap</name>
+        <code>HVK</code>
+        <point>100</point>
+        <course>
+          <name>Material och miljö</name>
+          <code>HVKMAE0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <name>Övriga hantverk</name>
+      <code>HVXXX</code>
+      <codeExternal>HVXXX</codeExternal>
+      <point>500</point>
+      <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+    </programOrientation>
+  </programOrientations>
+  <profiles />
+  <specialization>
+    <subject>
+      <optional>false</optional>
+      <name>Administration</name>
+      <code>ADM</code>
+      <point>100</point>
+      <course>
+        <name>Administration 1</name>
+        <code>ADMADM01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Affärskommunikation</name>
+      <code>AFF</code>
+      <point>100</point>
+      <course>
+        <name>Affärskommunikation</name>
+        <code>AFFAFÄ00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Arkitektur</name>
+      <code>ARK</code>
+      <point>100</point>
+      <course>
+        <name>Arkitektur – rum</name>
+        <code>ARKARI0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Bild</name>
+      <code>BIL</code>
+      <point>50</point>
+      <course>
+        <name>Bild och form 1a1</name>
+        <code>BILBIL01a1</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Bild och form 1a2</name>
+        <code>BILBIL01a2</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Bild och form 1b</name>
+        <code>BILBIL01b</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Bild</name>
+        <code>BILBIL0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Form</name>
+        <code>BILFOM0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Bild och form – specialisering</name>
+        <code>BILBIL00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Cad</name>
+      <code>CAD</code>
+      <point>50</point>
+      <course>
+        <name>Cad 1</name>
+        <code>CADCAD01</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Cad 2</name>
+        <code>CADCAD02</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Datoriserad mönsterhantering</name>
+      <code>DAI</code>
+      <point>100</point>
+      <course>
+        <name>Datoriserad mönsterhantering 1</name>
+        <code>DAIMON01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Datoriserad mönsterhantering 2</name>
+        <code>DAIMON02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Datorstyrd produktion</name>
+      <code>DAR</code>
+      <point>100</point>
+      <course>
+        <name>Cad/cam</name>
+        <code>DARCAD0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Datorstyrd produktion 1</name>
+        <code>DARDAT01S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Design</name>
+      <code>DES</code>
+      <point>100</point>
+      <course>
+        <name>Design 1</name>
+        <code>DESDES01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Design 2</name>
+        <code>DESDES02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Designmodeller</name>
+        <code>DESDES0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Digitalt skapande</name>
+      <code>DIG</code>
+      <point>100</point>
+      <course>
+        <name>Digitalt skapande 1</name>
+        <code>DIGDIG01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Digitalt skapande 2</name>
+        <code>DIGDIG02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Elektroteknik</name>
+      <code>ELR</code>
+      <point>100</point>
+      <course>
+        <name>Elektromekanik</name>
+        <code>ELRELK0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Elkraftteknik</name>
+        <code>ELRELF0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Formgivning</name>
+      <code>FOM</code>
+      <point>100</point>
+      <course>
+        <name>Formgivning 1</name>
+        <code>FOMFOR01S</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Formgivning 2</name>
+        <code>FOMFOR02S</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Formgivning 3</name>
+        <code>FOMFOR03S</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Fackteckning och design</name>
+        <code>FOMFAC0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Textil färg och form</name>
+        <code>FOMTEX0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Företagsekonomi</name>
+      <code>FÖR</code>
+      <point>100</point>
+      <course>
+        <name>Företagsekonomi 1</name>
+        <code>FÖRFÖR01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Företagsekonomi 2</name>
+        <code>FÖRFÖR02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Entreprenörskap och företagande</name>
+        <code>FÖRENT0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Marknadsföring</name>
+        <code>FÖRMAD0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Redovisning 1</name>
+        <code>FÖRRED01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Redovisning 2</name>
+        <code>FÖRRED02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Försäljning och kundservice</name>
+      <code>FÖS</code>
+      <point>100</point>
+      <course>
+        <name>Personlig försäljning 1</name>
+        <code>FÖSPER01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Personlig försäljning 2</name>
+        <code>FÖSPER02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Servicekunskap</name>
+        <code>FÖSSEV0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Handel</name>
+      <code>HAN</code>
+      <point>100</point>
+      <course>
+        <name>Praktisk marknadsföring 1</name>
+        <code>HANPRA01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Hantverk</name>
+      <code>HAV</code>
+      <point>200</point>
+      <course>
+        <name>Barberare 2</name>
+        <code>HAVBAR02</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Barberare 3</name>
+        <code>HAVBAR03</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Barberare 4</name>
+        <code>HAVBAR04</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Barberare 5</name>
+        <code>HAVBAR05</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Barberare 6a</name>
+        <code>HAVBAR06a</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Barberare 6b</name>
+        <code>HAVBAR06b</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Finsnickeri 3</name>
+        <code>HAVFIN03</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Finsnickeri 4</name>
+        <code>HAVFIN04</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Finsnickeri 5</name>
+        <code>HAVFIN05</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Finsnickeri 6a</name>
+        <code>HAVFIN06a</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Finsnickeri 6b</name>
+        <code>HAVFIN06b</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Finsnickeri 4 – specialisering</name>
+        <code>HAVFIN04S</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Finsnickeri 5 – specialisering</name>
+        <code>HAVFIN05S</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Florist 3</name>
+        <code>HAVFLO03</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Florist 4</name>
+        <code>HAVFLO04</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Florist 5</name>
+        <code>HAVFLO05</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Florist 6a</name>
+        <code>HAVFLO06a</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Florist 6b</name>
+        <code>HAVFLO06b</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Florist 4 – specialisering</name>
+        <code>HAVFLO04S</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Florist 5 – specialisering</name>
+        <code>HAVFLO05S</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Frisör 2</name>
+        <code>HAVFRI02</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Frisör 3</name>
+        <code>HAVFRI03</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Frisör 4</name>
+        <code>HAVFRI04</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Frisör 5</name>
+        <code>HAVFRI05</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Frisör 6a</name>
+        <code>HAVFRI06a</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Frisör 6b</name>
+        <code>HAVFRI06b</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Frisör 4 – specialisering</name>
+        <code>HAVFRI04S</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Frisör 5 – specialisering</name>
+        <code>HAVFRI05S</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Hår- och makeupstylist 2</name>
+        <code>HAVHAR02</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Hår- och makeupstylist 3</name>
+        <code>HAVHAR03</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Hår- och makeupstylist 4</name>
+        <code>HAVHAR04</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Textil design 3</name>
+        <code>HAVTEX03</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Textil design 4</name>
+        <code>HAVTEX04</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Textil design 5</name>
+        <code>HAVTEX05</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Textil design 6a</name>
+        <code>HAVTEX06a</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Textil design 6b</name>
+        <code>HAVTEX06b</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Textil design 4 – specialisering</name>
+        <code>HAVTEX04S</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Textil design 5 – specialisering</name>
+        <code>HAVTEX05S</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Hantverksteknik 3</name>
+        <code>HAVHNT03</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Hantverksteknik 4</name>
+        <code>HAVHNT04</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Hantverksteknik 5</name>
+        <code>HAVHNT05</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Hantverksteknik 6a</name>
+        <code>HAVHNT06a</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Hantverksteknik 6b</name>
+        <code>HAVHNT06b</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Hantverksteknik 4 – specialisering</name>
+        <code>HAVHNT04S</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Hantverksteknik 5 – specialisering</name>
+        <code>HAVHNT05S</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Hantverkskunskap</name>
+      <code>HVK</code>
+      <point>50</point>
+      <course>
+        <name>Material</name>
+        <code>HVKMAT0</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Miljö</name>
+        <code>HVKMIL0</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Historia</name>
+      <code>HIS</code>
+      <point>50</point>
+      <course>
+        <name>Historia 1a2</name>
+        <code>HISHIS01a2</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Historia 2a</name>
+        <code>HISHIS02a</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Historia 2b – kultur</name>
+        <code>HISHIS02b</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Inköp och logistik</name>
+      <code>INK</code>
+      <point>100</point>
+      <course>
+        <name>Inköp 1</name>
+        <code>INKINK01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Inköp 2</name>
+        <code>INKINK02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Manuell mönsterkonstruktion</name>
+      <code>MNU</code>
+      <point>100</point>
+      <course>
+        <name>Mönsterkonstruktion 1</name>
+        <code>MNUMON01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Mönsterkonstruktion 2</name>
+        <code>MNUMON02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Matematik</name>
+      <code>MAT</code>
+      <point>100</point>
+      <course>
+        <name>Matematik 2a</name>
+        <code>MATMAT02a</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Matematik 3b</name>
+        <code>MATMAT03b</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Matematik 3c</name>
+        <code>MATMAT03c</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Naturkunskap</name>
+      <code>NAK</code>
+      <point>50</point>
+      <course>
+        <name>Naturkunskap 1a2</name>
+        <code>NAKNAK01a2</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Naturkunskap 2</name>
+        <code>NAKNAK02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Programmering</name>
+      <code>PRR</code>
+      <point>100</point>
+      <course>
+        <name>Programmering 1</name>
+        <code>PRRPRR01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Samhällskunskap</name>
+      <code>SAM</code>
+      <point>50</point>
+      <course>
+        <name>Samhällskunskap 1a2</name>
+        <code>SAMSAM01a2</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Samhällskunskap 2</name>
+        <code>SAMSAM02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Service och bemötande</name>
+      <code>SEV</code>
+      <point>100</point>
+      <course>
+        <name>Service och bemötande 1</name>
+        <code>SEVSEV01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Service och bemötande 2</name>
+        <code>SEVSEV02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska</name>
+      <code>SVE</code>
+      <point>100</point>
+      <course>
+        <name>Svenska 2</name>
+        <code>SVESVE02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska som andraspråk</name>
+      <code>SVA</code>
+      <point>100</point>
+      <course>
+        <name>Svenska som andraspråk 2</name>
+        <code>SVASVA02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Tillämpad programmering</name>
+      <code>TIA</code>
+      <point>100</point>
+      <course>
+        <name>Tillämpad programmering</name>
+        <code>TIATIL00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Utställningsdesign</name>
+      <code>UTS</code>
+      <point>100</point>
+      <course>
+        <name>Utställningsdesign 1</name>
+        <code>UTSUTS01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Utställningsdesign 2</name>
+        <code>UTSUTS02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Utställningsdesign 3</name>
+        <code>UTSUTS03S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Växtkunskap</name>
+      <code>VÄX</code>
+      <point>100</point>
+      <course>
+        <name>Växtkunskap 1</name>
+        <code>VÄXVÄX01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Växtkunskap 2</name>
+        <code>VÄXVÄX02</code>
+        <point>100</point>
+      </course>
+    </subject>
+  </specialization>
+  <individualChoice />
+  <projectAssignment />
+  <professionalDegrees>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Barberare 2</name>
+          <code>HAVBAR02</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Barberare 3</name>
+          <code>HAVBAR03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Barberare 4</name>
+          <code>HAVBAR04</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Barberare 5</name>
+          <code>HAVBAR05</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Barberare 6a</name>
+          <code>HAVBAR06a</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVFRS</programOrientationCode>
+      <name>Barberare</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Elektroteknik</name>
+        <code>ELR</code>
+        <point>100</point>
+        <course>
+          <name>Elkraftteknik</name>
+          <code>ELRELF0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Hantverk – introduktion</name>
+          <code>HAVHAV0</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Finsnickeri 3</name>
+          <code>HAVFIN03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Finsnickeri 4</name>
+          <code>HAVFIN04</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVFIN</programOrientationCode>
+      <name>Båtbyggare</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Hantverksteknik 3</name>
+          <code>HAVHNT03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4</name>
+          <code>HAVHNT04</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 5</name>
+          <code>HAVHNT05</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4 – specialisering</name>
+          <code>HAVHNT04S</code>
+          <point>50</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 5 – specialisering</name>
+          <code>HAVHNT05S</code>
+          <point>50</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVXXX</programOrientationCode>
+      <name>Bössmakare</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Florist 3</name>
+          <code>HAVFLO03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Florist 4</name>
+          <code>HAVFLO04</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Florist 4 – specialisering</name>
+          <code>HAVFLO04S</code>
+          <point>50</point>
+        </course>
+        <course>
+          <name>Florist 5 – specialisering</name>
+          <code>HAVFLO05S</code>
+          <point>50</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Utställningsdesign</name>
+        <code>UTS</code>
+        <point>100</point>
+        <course>
+          <name>Utställningsdesign 1</name>
+          <code>UTSUTS01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Växtkunskap</name>
+        <code>VÄX</code>
+        <point>100</point>
+        <course>
+          <name>Växtkunskap 1</name>
+          <code>VÄXVÄX01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVFLO</programOrientationCode>
+      <name>Florist</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Frisör 2</name>
+          <code>HAVFRI02</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Frisör 3</name>
+          <code>HAVFRI03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Frisör 4</name>
+          <code>HAVFRI04</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Frisör 5</name>
+          <code>HAVFRI05</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Frisör 6a</name>
+          <code>HAVFRI06a</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVFRS</programOrientationCode>
+      <name>Frisöraspirant</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Formgivning</name>
+        <code>FOM</code>
+        <point>100</point>
+        <course>
+          <name>Formgivning 1</name>
+          <code>FOMFOR01S</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Företagsekonomi</name>
+        <code>FÖR</code>
+        <point>100</point>
+        <course>
+          <name>Entreprenörskap och företagande</name>
+          <code>FÖRENT0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Hantverksteknik 3</name>
+          <code>HAVHNT03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4</name>
+          <code>HAVHNT04</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4 – specialisering</name>
+          <code>HAVHNT04S</code>
+          <point>50</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 5 – specialisering</name>
+          <code>HAVHNT05S</code>
+          <point>50</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVXXX</programOrientationCode>
+      <name>Glasblåsare</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Cad</name>
+        <code>CAD</code>
+        <point>50</point>
+        <course>
+          <name>Cad 1</name>
+          <code>CADCAD01</code>
+          <point>50</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Hantverksteknik 3</name>
+          <code>HAVHNT03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4</name>
+          <code>HAVHNT04</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 5</name>
+          <code>HAVHNT05</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4 – specialisering</name>
+          <code>HAVHNT04S</code>
+          <point>50</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVXXX</programOrientationCode>
+      <name>Guldsmed</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>50</point>
+        <course>
+          <name>Frisör 4 – specialisering</name>
+          <code>HAVFRI04S</code>
+          <point>50</point>
+        </course>
+        <course>
+          <name>Hår- och makeupstylist 3</name>
+          <code>HAVHAR03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hår- och makeupstylist 4</name>
+          <code>HAVHAR04</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVXXX</programOrientationCode>
+      <name>Hår- och makeupstylist</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Affärskommunikation</name>
+        <code>AFF</code>
+        <point>100</point>
+        <course>
+          <name>Affärskommunikation</name>
+          <code>AFFAFÄ00S</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Textil design 3</name>
+          <code>HAVTEX03</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Inköp och logistik</name>
+        <code>INK</code>
+        <point>100</point>
+        <course>
+          <name>Inköp 1</name>
+          <code>INKINK01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Inköp 2</name>
+          <code>INKINK02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVTEX</programOrientationCode>
+      <name>Inköpsassistent</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Cad</name>
+        <code>CAD</code>
+        <point>50</point>
+        <course>
+          <name>Cad 1</name>
+          <code>CADCAD01</code>
+          <point>50</point>
+        </course>
+        <course>
+          <name>Cad 2</name>
+          <code>CADCAD02</code>
+          <point>50</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Finsnickeri 3</name>
+          <code>HAVFIN03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Finsnickeri 4</name>
+          <code>HAVFIN04</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVFIN</programOrientationCode>
+      <name>Inredningssnickare</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Hantverksteknik 3</name>
+          <code>HAVHNT03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4</name>
+          <code>HAVHNT04</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4 – specialisering</name>
+          <code>HAVHNT04S</code>
+          <point>50</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 5 – specialisering</name>
+          <code>HAVHNT05S</code>
+          <point>50</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVXXX</programOrientationCode>
+      <name>Juvelfattare</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Hantverksteknik 3</name>
+          <code>HAVHNT03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4</name>
+          <code>HAVHNT04</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4 – specialisering</name>
+          <code>HAVHNT04S</code>
+          <point>50</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 5 – specialisering</name>
+          <code>HAVHNT05S</code>
+          <point>50</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVXXX</programOrientationCode>
+      <name>Kakelugnsmakare</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Hantverksteknik 3</name>
+          <code>HAVHNT03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4</name>
+          <code>HAVHNT04</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4 – specialisering</name>
+          <code>HAVHNT04S</code>
+          <point>50</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 5 – specialisering</name>
+          <code>HAVHNT05S</code>
+          <point>50</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVXXX</programOrientationCode>
+      <name>Keramiker</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Företagsekonomi</name>
+        <code>FÖR</code>
+        <point>100</point>
+        <course>
+          <name>Entreprenörskap och företagande</name>
+          <code>FÖRENT0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Finsnickeri 3</name>
+          <code>HAVFIN03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Finsnickeri 4</name>
+          <code>HAVFIN04</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVFIN</programOrientationCode>
+      <name>Möbelsnickare</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Hantverksteknik 3</name>
+          <code>HAVHNT03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4</name>
+          <code>HAVHNT04</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4 – specialisering</name>
+          <code>HAVHNT04S</code>
+          <point>50</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 5 – specialisering</name>
+          <code>HAVHNT05S</code>
+          <point>50</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVXXX</programOrientationCode>
+      <name>Sadelmakare</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Hantverksteknik 3</name>
+          <code>HAVHNT03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4</name>
+          <code>HAVHNT04</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4 – specialisering</name>
+          <code>HAVHNT04S</code>
+          <point>50</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 5 – specialisering</name>
+          <code>HAVHNT05S</code>
+          <point>50</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVXXX</programOrientationCode>
+      <name>Silversmed</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Hantverksteknik 3</name>
+          <code>HAVHNT03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4</name>
+          <code>HAVHNT04</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4 – specialisering</name>
+          <code>HAVHNT04S</code>
+          <point>50</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 5 – specialisering</name>
+          <code>HAVHNT05S</code>
+          <point>50</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVXXX</programOrientationCode>
+      <name>Skomakare</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Hantverksteknik 3</name>
+          <code>HAVHNT03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4</name>
+          <code>HAVHNT04</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4 – specialisering</name>
+          <code>HAVHNT04S</code>
+          <point>50</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 5 – specialisering</name>
+          <code>HAVHNT05S</code>
+          <point>50</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVXXX</programOrientationCode>
+      <name>Smed</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Hantverksteknik 3</name>
+          <code>HAVHNT03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4</name>
+          <code>HAVHNT04</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4 – specialisering</name>
+          <code>HAVHNT04S</code>
+          <point>50</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 5 – specialisering</name>
+          <code>HAVHNT05S</code>
+          <point>50</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVXXX</programOrientationCode>
+      <name>Sotare</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Textil design 3</name>
+          <code>HAVTEX03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Textil design 4</name>
+          <code>HAVTEX04</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Manuell mönsterkonstruktion</name>
+        <code>MNU</code>
+        <point>100</point>
+        <course>
+          <name>Mönsterkonstruktion 1</name>
+          <code>MNUMON01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVTEX</programOrientationCode>
+      <name>Sömmerska</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Hantverksteknik 3</name>
+          <code>HAVHNT03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4</name>
+          <code>HAVHNT04</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4 – specialisering</name>
+          <code>HAVHNT04S</code>
+          <point>50</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 5 – specialisering</name>
+          <code>HAVHNT05S</code>
+          <point>50</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVXXX</programOrientationCode>
+      <name>Tapetserare</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Datoriserad mönsterhantering</name>
+        <code>DAI</code>
+        <point>100</point>
+        <course>
+          <name>Datoriserad mönsterhantering 1</name>
+          <code>DAIMON01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Textil design 3</name>
+          <code>HAVTEX03</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Manuell mönsterkonstruktion</name>
+        <code>MNU</code>
+        <point>100</point>
+        <course>
+          <name>Mönsterkonstruktion 1</name>
+          <code>MNUMON01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Mönsterkonstruktion 2</name>
+          <code>MNUMON02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVTEX</programOrientationCode>
+      <name>Textil och konfektion</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Hantverksteknik 3</name>
+          <code>HAVHNT03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4</name>
+          <code>HAVHNT04</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4 – specialisering</name>
+          <code>HAVHNT04S</code>
+          <point>50</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 5 – specialisering</name>
+          <code>HAVHNT05S</code>
+          <point>50</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVXXX</programOrientationCode>
+      <name>Timmerman</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Försäljning och kundservice</name>
+        <code>FÖS</code>
+        <point>100</point>
+        <course>
+          <name>Personlig försäljning 1</name>
+          <code>FÖSPER01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Handel</name>
+        <code>HAN</code>
+        <point>100</point>
+        <course>
+          <name>Praktisk marknadsföring 1</name>
+          <code>HANPRA01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Finsnickeri 3</name>
+          <code>HAVFIN03</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Utställningsdesign</name>
+        <code>UTS</code>
+        <point>100</point>
+        <course>
+          <name>Utställningsdesign 1</name>
+          <code>UTSUTS01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVFIN</programOrientationCode>
+      <name>Trä- och byggvaruhandel</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Hantverksteknik 3</name>
+          <code>HAVHNT03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4</name>
+          <code>HAVHNT04</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 4 – specialisering</name>
+          <code>HAVHNT04S</code>
+          <point>50</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 5 – specialisering</name>
+          <code>HAVHNT05S</code>
+          <point>50</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVXXX</programOrientationCode>
+      <name>Urmakare</name>
+      <profSpecialization />
+    </professionalDegree>
+  </professionalDegrees>
+  <category>VOCATIONAL_PROGRAM</category>
+  <modifiedDate>2021-05-21T00:00:00+02:00</modifiedDate>
+  <createdDate>2019-12-16T09:55:22+01:00</createdDate>
+  <typeOfStudyPath>PROGRAM</typeOfStudyPath>
+</program>

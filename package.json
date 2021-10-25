@@ -14,11 +14,10 @@
   },
   "private": true,
   "devDependencies": {
+    "@prettier/plugin-xml": "^1.1.0",
     "@types/node": "12.7.5",
-    "lerna": "^3.10.7"
-  },
-  "packageManager": "yarn@3.0.2",
-  "dependencies": {
+    "lerna": "^3.10.7",
     "prettier": "^2.4.1"
-  }
+  },
+  "packageManager": "yarn@3.0.2"
 }

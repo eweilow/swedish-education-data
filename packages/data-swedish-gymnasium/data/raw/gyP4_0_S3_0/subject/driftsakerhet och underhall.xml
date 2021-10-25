@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Driftsäkerhet och underhåll</name>
+  <englishName>Operations and maintenance</englishName>
+  <description
+  >&lt;p&gt;Ämnet driftsäkerhet och underhåll handlar om hur ett välutvecklat underhåll får teknisk utrustning att fungera på ett optimalt sätt. Det behandlar tekniska utrustningars uppbyggnad, funktion och styrning samt hur man med hjälp av tekniska och organisatoriska åtgärder kan lösa drifttekniska problem. Ämnet behandlar också förbättringsprocessens betydelse.&lt;/p&gt;</description>
+  <code>DRI</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2010-12-15T09:52:40+01:00</createdDate>
+  <modifiedDate>2020-02-19T15:50:53+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Driftsäkerhet och underhåll&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet driftsäkerhet och underhåll ska syfta till att eleverna utvecklar förmåga att utföra underhållsarbete. Genom undervisningen ska eleverna ges möjligheter att utveckla kunskaper om metoder, tekniker, säkerhetssystem och organisationsformer för underhållsarbete i såväl enkla som avancerade utrustningar.&lt;/p&gt;&lt;p&gt;Undervisningen ska även bidra till att eleverna utvecklar kunskaper om underhållsarbetets betydelse för förhindra driftavbrott och minimera resursförbrukning, vilket leder till kostnadsminskningar på såväl kort som lång sikt. Dessutom ska undervisningen bidra till att eleverna utvecklar kunskaper om underhållsarbetets betydelse för att minimera miljöpåverkan, till exempel genom att det minskar risken för läckage av miljöfarliga ämnen. Genom undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om hur underhållsarbete främjar en säkrare arbetsmiljö.&lt;/p&gt;&lt;p&gt;I undervisningen ska eleverna ges möjlighet att utveckla ett kundorienterat, entreprenöriellt och innovativt förhållningssätt. Genom undervisningen ska eleverna även ges möjlighet att utveckla förmåga att agera säkerhetsmässigt och miljömedvetet. Ett viktigt inslag i allt underhållsarbete är läsning och tolkning av teknisk dokumentation samt redovisning av utförda åtgärder. Därför ska undervisningen leda till att eleverna utvecklar kunskaper om tolkning av teknisk information samt om dokumentation.&lt;/p&gt;&lt;p&gt;I undervisningen ska eleverna ges möjlighet att, enskilt eller i grupp, utveckla en helhetssyn på olika underhållsmetoder genom att få tillämpa förbättringsarbetets alla steg.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet driftsäkerhet och underhåll ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Förmåga att planera, organisera och genomföra förebyggande och avhjälpande underhåll samt att mäta och bedöma resultatet.&lt;/li&gt; &lt;li&gt;Förmåga att läsa och tolka instruktioner, ritningar, scheman och manualer.&lt;/li&gt; &lt;li&gt;Förmåga att tolka och bearbeta information om styrtekniska villkor och status hos utrustningen. Förmåga att använda program för styrning samt driftsätta och funktionsprova sammanbyggda utrustningar.&lt;/li&gt; &lt;li&gt;Förmåga att arbeta i enlighet med utrustningarnas säkerhetssystem för att undvika skaderisker för såväl människor som maskiner.&lt;/li&gt; &lt;li&gt;Förmåga att tillämpa felsökningsmetoder, hantera verktyg och utrustning samt utföra demontering, montering och funktionsprovning.&lt;/li&gt; &lt;li&gt;Förmåga att samarbeta, dokumentera och redovisa arbetet samt att uttrycka sig med en branschrelaterad nationell och internationell terminologi.&lt;/li&gt; &lt;li&gt;Kunskaper om metoder och arbetssätt för ständiga förbättringar.&lt;/li&gt; &lt;li&gt;Kunskaper om grundläggande mekatronik och elteknik samt dessa områdens terminologi.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Avhjälpande underhåll 1, 100 poäng.&lt;/li&gt; &lt;li&gt;Avhjälpande underhåll 2, 100 poäng, som bygger på kursen avhjälpande underhåll 1.&lt;/li&gt; &lt;li&gt;Underhåll – driftsäkerhet, 100 poäng.&lt;/li&gt; &lt;li&gt;Underhåll – elteknik, 100 poäng.&lt;/li&gt; &lt;li&gt;Underhåll – hydraulik och pneumatik, 100 poäng.&lt;/li&gt; &lt;li&gt;Underhåll – lager och smörjteknik, 100 poäng.&lt;/li&gt; &lt;li&gt;Underhåll – pumpteknik, 100 poäng.&lt;/li&gt; &lt;li&gt;Underhåll – transmissioner och uppriktning, 100 poäng.&lt;/li&gt; &lt;li&gt;Underhåll – vibrationsteknik, 100 poäng.&lt;/li&gt; &lt;li&gt;Underhåll – hydraulik, 100 poäng, som bygger på kursen underhåll – hydraulik och pneumatik.&lt;/li&gt; &lt;li&gt;Underhåll – mekatronik, 100 poäng, som bygger på kursen underhåll – hydraulik och pneumatik samt kursen underhåll – elteknik.&lt;/li&gt; &lt;li&gt;Underhåll – pneumatik, 100 poäng, som bygger på kursen underhåll – hydraulik och pneumatik.&lt;/li&gt; &lt;li&gt;Underhåll – produktionsmekanik, 100 poäng, som bygger på kursen underhåll – mekatronik.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2010:205</skolfsId>
+  <applianceDate>2011-07-01T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Avhjälpande underhåll 1</name>
+    <englishName>Support maintenance 1</englishName>
+    <description
+    >&lt;p&gt;Kursen avhjälpande underhåll 1 omfattar punkterna 1–2 och 4–5 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 4–5. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>DRIAVH01</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Avhjälpande underhåll 1, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DRIAVH01&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Enklare avhjälpande underhåll på maskiner och utrustningar.&lt;/li&gt; &lt;li&gt;Planering för och genomförande av avhjälpande underhåll med hjälp av ritningar, scheman och manualer.&lt;/li&gt; &lt;li&gt;Föreskrifter om arbetsmiljö samt person- och maskinsäkerhet.&lt;/li&gt; &lt;li&gt;Lagar och bestämmelser om till exempel lyftdon, tryckkärl, heta arbeten, kemikalier och gaser.&lt;/li&gt; &lt;li&gt;Grundläggande underhållstekniska begrepp och parametrar.&lt;/li&gt; &lt;li&gt;Grundläggande metoder och tekniker för felsökning och reparation.&lt;/li&gt; &lt;li&gt;Maskinelement och deras användningsområden samt material och verktygslära.&lt;/li&gt; &lt;li&gt;Momentdragning.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar&lt;strong&gt; i samråd &lt;/strong&gt;med handledare enklare avhjälpande underhåll. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, ritningar, scheman och manualer. Vidare väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare enklare avhjälpande underhåll i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, ritningar, scheman och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; visst &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. &lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för betydelsen av samarbete. &lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare enklare avhjälpande underhåll. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, ritningar, scheman och manualer. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare enklare avhjälpande underhåll i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, ritningar, scheman och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. &lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt redogör &lt;strong&gt;utförligt&lt;/strong&gt; för betydelsen av samarbete. &lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare enklare avhjälpande underhåll. I planeringen tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; instruktioner, ritningar, scheman och manualer. &lt;strong&gt;Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det&lt;/strong&gt;. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare enklare avhjälpande underhåll i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;instruktioner, ritningar, scheman och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. &lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för betydelsen av samarbete. &lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Avhjälpande underhåll 2</name>
+    <englishName>Support maintenance 2</englishName>
+    <description
+    >&lt;p&gt;Kursen avhjälpande underhåll 2 omfattar punkterna 1–2 och 4–6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>DRIAVH02</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Avhjälpande underhåll 2, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DRIAVH02&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Avhjälpande underhåll på maskiner och utrustningar.&lt;/li&gt; &lt;li&gt;Beredning, planering och dokumentation av åtgärder med stöd av ritningar, scheman och manualer.&lt;/li&gt; &lt;li&gt;Metoder och tekniker för avhjälpande underhåll, materialuppbyggnad med materialval samt för- och efterbehandling. &lt;/li&gt; &lt;li&gt;Arbetsinstruktioner för montering och demontering.&lt;/li&gt; &lt;li&gt;Föreskrifter om arbetsmiljö samt person- och maskinsäkerhet.&lt;/li&gt; &lt;li&gt;Underhållstekniska begrepp och parametrar.&lt;/li&gt; &lt;li&gt;Felsökningsmetoder, utvärdering och förbättringsteknik.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare avhjälpande underhåll. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, ritningar, scheman och manualer. Vidare väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare avhjälpande underhåll i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, ritningar, scheman och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; visst &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare avhjälpande underhåll. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, ritningar, scheman och manualer. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare avhjälpande underhåll i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, ritningar, scheman och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare avhjälpande underhåll. I planeringen tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; instruktioner, ritningar, scheman och manualer. &lt;strong&gt;Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det&lt;/strong&gt;. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare avhjälpande underhåll i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;instruktioner, ritningar, scheman och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Underhåll – driftsäkerhet</name>
+    <englishName>Maintenance – reliability</englishName>
+    <description
+    >&lt;p&gt;Kursen underhåll – driftsäkerhet omfattar punkterna 1–2, 4 och 6–7. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>DRIUND0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Underhåll – driftsäkerhet, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DRIUND0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Underhållsadministrativa system.&lt;/li&gt; &lt;li&gt;Användning av ritningar, scheman och manualer samt redovisning av utförda åtgärder.&lt;/li&gt; &lt;li&gt;Tekniker och utrustningar för inspektion, förebyggande underhåll och tillståndskontroll.&lt;/li&gt; &lt;li&gt;Subjektiva och objektiva inspektionsmetoder samt oförstörande provning.&lt;/li&gt; &lt;li&gt;Grundläggande symboler på ritningar och scheman inom till exempel elinstallation, ventilation, vatten, avlopp, värme och gas.&lt;/li&gt; &lt;li&gt;Föreskrifter om arbetsmiljö samt person- och maskinsäkerhet.&lt;/li&gt; &lt;li&gt;Grundläggande underhållstekniska begrepp samt parametrar, nyckeltal och internationell terminologi.&lt;/li&gt; &lt;li&gt;Funktionssäkerhet, underhållsmässighet och underhållssäkerhet samt metoder för ständiga förbättringar.&lt;/li&gt; &lt;li&gt;Grundläggande definitioner inom tillståndsbaserat underhåll samt beredning, planering av tillståndskontroll och förebyggande underhåll.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar&lt;strong&gt; i samråd &lt;/strong&gt;med handledare förebyggande underhåll, inspektion och tillståndskontroll. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, scheman, ritningar och manualer. Vidare väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare förebyggande underhåll, inspektion och tillståndskontroll i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, scheman, ritningar och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; visst &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Eleven redogör även &lt;strong&gt;översiktligt &lt;/strong&gt;för metoder och arbetssätt för ständiga förbättringar. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för betydelsen av samarbete. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare förebyggande underhåll, inspektion och tillståndskontroll. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, scheman, ritningar och manualer. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare förebyggande underhåll, inspektion och tillståndskontroll i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, scheman, ritningar och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Eleven redogör även &lt;strong&gt;utförligt &lt;/strong&gt;för metoder och arbetssätt för ständiga förbättringar. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt redogör &lt;strong&gt;utförligt&lt;/strong&gt; för betydelsen av samarbete. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare förebyggande underhåll, inspektion och tillståndskontroll. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, scheman, ritningar och manualer. &lt;strong&gt;Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det&lt;/strong&gt;. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare förebyggande underhåll, inspektion och tillståndskontroll i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;instruktioner, scheman, ritningar och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Eleven redogör även &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för metoder och arbetssätt för ständiga förbättringar. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för betydelsen av samarbete. Dessutom använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <courses>
+    <name>Underhåll – elteknik</name>
+    <englishName>Maintenance – electrical technology</englishName>
+    <description
+    >&lt;p&gt;Kursen underhåll – elteknik omfattar punkterna 1–6 och 8 under rubriken Ämnets syfte, med särskild betoning på punkt 3. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>DRIUNE0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Underhåll – elteknik, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DRIUNE0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Grundläggande ellära med elektriska storheter och samband, DC och AC. Likström, serie- och parallellkoppling, dioder och likriktarkopplingar.&lt;/li&gt; &lt;li&gt;Enfas växelström samt motor- och transformatorprinciperna. Trefas växelström med enklare effektberäkningar.&lt;/li&gt; &lt;li&gt;Praktiska uppkopplingar med standardprodukter, anslutning, loss- och inkoppling av apparater och utrustningar.&lt;/li&gt; &lt;li&gt;Montering, koppling och funktionsprovning med användning av symboler i ritnings- och schemaläsning.&lt;/li&gt; &lt;li&gt;Motorers olika kopplingar och överlastsskydd. Underspänningsskydd och obehörig igångsättning.&lt;/li&gt; &lt;li&gt;Gällande standarder och bestämmelser såväl för skötsel och underhåll av befintliga elanläggningar som för nyinstallation.&lt;/li&gt; &lt;li&gt;Föreskrifter och förordningar för drift och underhåll av elanläggningar.&lt;/li&gt; &lt;li&gt;Montering av olika relä- och kontaktorutrustningar. Funktionsprovning med hjälp av ritningar, scheman och tabeller.&lt;/li&gt; &lt;li&gt;Elsäkerhet och system för säkerhet i maskinutrustningar med säkerhetsrelä, nödstopp, ridåer, lås.&lt;/li&gt; &lt;li&gt;Kapslingsklasser, isolerklasser, EX-klasser.&lt;/li&gt; &lt;li&gt;CE-krav vid installation och underhåll.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar&lt;strong&gt; i samråd &lt;/strong&gt;med handledare åtgärder i utrustningar. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, scheman, ritningar och manualer. Dessutom tolkar och bearbetar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;hur åtgärden påverkar statusen hos utrustningen. Vidare väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare åtgärder i utrustningar i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, scheman, ritningar och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; visst &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare åtgärder i utrustningar. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, scheman, ritningar och manualer. Dessutom tolkar och bearbetar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;hur åtgärden påverkar statusen hos utrustningen. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare montering, koppling och funktionsprövning av eltekniska komponenter i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, scheman, ritningar och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare drift och underhåll av elanläggningar. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, scheman, ritningar och manualer. Dessutom tolkar och bearbetar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;hur åtgärden påverkar statusen hos utrustningen. &lt;strong&gt;Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det&lt;/strong&gt;. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare montering, koppling och funktionsprövning av eltekniska komponenter i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;instruktioner, scheman, ritningar och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>4</sortOrder>
+  </courses>
+  <courses>
+    <name>Underhåll – hydraulik och pneumatik</name>
+    <englishName>Maintenance – hydraulics and pneumatics</englishName>
+    <description
+    >&lt;p&gt;Kursen underhåll – hydraulik och pneumatik omfattar punkterna 1–2 och 4–6 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>DRIUNH0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Underhåll – hydraulik och pneumatik, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DRIUNH0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Grundläggande systemfunktion och systemuppbyggnad.&lt;/li&gt; &lt;li&gt;Grundläggande fysikaliska principer och standarder.&lt;/li&gt; &lt;li&gt;Styrningsprinciper, förbindelseelement samt standardkomponenters funktion och användningsområden.&lt;/li&gt; &lt;li&gt;Generering av tryck i pneumatiksystem och hydrauliksystem.&lt;/li&gt; &lt;li&gt;Grundläggande principer för hydrostatisk och pneumatisk energiöverföring.&lt;/li&gt; &lt;li&gt;Servoteknik.&lt;/li&gt; &lt;li&gt;Logiska grundfunktioner.&lt;/li&gt; &lt;li&gt;Ritningar, scheman och kopplingar för enkla system med elektriska, pneumatiska och hydrauliska komponenter.&lt;/li&gt; &lt;li&gt;Programmering av programmerbart styrsystem (PLC) för styrning av enkla system.&lt;/li&gt; &lt;li&gt;Föreskrifter om arbetsmiljö samt person- och maskinsäkerhet.&lt;/li&gt; &lt;li&gt;Skaderisker, renlighetskrav och miljömedvetenhet vid arbeten med pneumatiska och hydrauliska anläggningar.&lt;/li&gt; &lt;li&gt;Underhållstekniska begrepp och parametrar.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar, &lt;strong&gt;i samråd &lt;/strong&gt;med handledare, grundläggande systemuppbyggnad och systemfunktionskontroll av hydrauliska och pneumatiska system samt underhåll av dessa. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, scheman, ritningar och manualer. Vidare väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare grundläggande systemuppbyggnad och systemfunktionskontroll av hydrauliska och pneumatiska system samt underhåll av dessa i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, scheman, ritningar och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; visst &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar, &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare, grundläggande systemuppbyggnad och systemfunktionskontroll av hydrauliska och pneumatiska system samt underhåll av dessa. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, scheman, ritningar och manualer. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare grundläggande systemuppbyggnad och systemfunktionskontroll av hydrauliska och pneumatiska system samt underhåll av dessa i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, scheman, ritningar och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar,&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare, grundläggande systemuppbyggnad och systemfunktionskontroll av hydrauliska och pneumatiska system samt underhåll av dessa. I planeringen tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; instruktioner, scheman, ritningar och manualer. &lt;strong&gt;Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det&lt;/strong&gt;. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare grundläggande systemuppbyggnad och systemfunktionskontroll av hydrauliska och pneumatiska system samt underhåll av dessa i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;instruktioner, scheman, ritningar och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>5</sortOrder>
+  </courses>
+  <courses>
+    <name>Underhåll – lager och smörjteknik</name>
+    <englishName>Maintenance – bearings and lubricants</englishName>
+    <description
+    >&lt;p&gt;Kursen underhåll – lager och smörjteknik omfattar punkterna 1–2 och 4–6 under rubriken Ämnets syfte, med särskild betoning på punkterna 4 och 6. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>DRIUNÅ0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Underhåll – lager och smörjteknik, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DRIUNÅ0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Planering, genomförande och dokumentation av smörjunderhåll.&lt;/li&gt; &lt;li&gt;Sökning av teknisk data för olika lagertyper med tillhörande maskinelement.&lt;/li&gt; &lt;li&gt;Mätprotokoll och monteringsprotokoll.&lt;/li&gt; &lt;li&gt;Metoder för montering och demontering av olika lagertyper samt enklare tillståndskontroll.&lt;/li&gt; &lt;li&gt;Smörjmedelstyper, smörjmedelskvaliteter och användningsområden. Olika smörjtekniker och smörjsystem.&lt;/li&gt; &lt;li&gt;Föreskrifter om arbetsmiljö samt person- och maskinsäkerhet.&lt;/li&gt; &lt;li&gt;Termer och begrepp inom teknikområdet.&lt;/li&gt; &lt;li&gt;Grundläggande underhållstekniska begrepp och parametrar.&lt;/li&gt; &lt;li&gt;Tribologiska grundbegrepp.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar, &lt;strong&gt;i&lt;/strong&gt; &lt;strong&gt;samråd &lt;/strong&gt;med handledare, montering och demontering av lager och maskinelement samt lager- och smörjunderhåll. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, scheman, ritningar och manualer. Vidare väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare montering och demontering av lager och maskinelement. Dessutom utför eleven med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare lager- och smörjunderhåll i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, scheman, ritningar och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; visst &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar, &lt;strong&gt;efter&lt;/strong&gt; &lt;strong&gt;samråd &lt;/strong&gt;med handledare, montering och demontering av lager och maskinelement samt lager- och smörjunderhåll. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, scheman, ritningar och manualer. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare montering och demontering av lager och maskinelement. Dessutom utför eleven med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare lager- och smörjunderhåll i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, scheman, ritningar och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar,&lt;strong&gt; efter&lt;/strong&gt; &lt;strong&gt;samråd &lt;/strong&gt;med handledare, montering och demontering av lager och maskinelement samt lager- och smörjunderhåll. I planeringen tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; instruktioner, scheman, ritningar och manualer. &lt;strong&gt;Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det&lt;/strong&gt;. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare montering och demontering av lager och maskinelement. Dessutom utför eleven med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare lager- och smörjunderhåll i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;instruktioner, scheman, ritningar och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>6</sortOrder>
+  </courses>
+  <courses>
+    <name>Underhåll – pumpteknik</name>
+    <englishName>Maintenance – pump technology</englishName>
+    <description
+    >&lt;p&gt;Kursen underhåll – pumpteknik omfattar punkterna 1–6 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 4. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>DRIUNU0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Underhåll – pumpteknik, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DRIUNU0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Planering, genomförande och dokumentation av förebyggande och avhjälpande underhåll av vald pumputrustning.&lt;/li&gt; &lt;li&gt;Grundläggande principer för vald pumpteknik, pumpprestanda och pumpkonstruktion.&lt;/li&gt; &lt;li&gt;Grundläggande teorier, begrepp och terminologi inom teknikområdet.&lt;/li&gt; &lt;li&gt;Termisk inverkan på pumpar och medier.&lt;/li&gt; &lt;li&gt;Avtätningssystem, tätningstyper, kopplingar för drivning och lagerteknik.&lt;/li&gt; &lt;li&gt;Montering, demontering, uppriktning, balansering och vibrationsmätning på utrustning.&lt;/li&gt; &lt;li&gt;Analys av mätvärden och utvärdering av tänkbara felkällor.&lt;/li&gt; &lt;li&gt;Föreskrifter om arbetsmiljö samt person- och maskinsäkerhet.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar,&lt;strong&gt; i samråd &lt;/strong&gt;med handledare, förebyggande och avhjälpande underhåll av vald pumputrustning. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, ritningar, scheman och manualer. Dessutom tolkar och bearbetar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;information om utrustningens status. Vidare väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av vald pumputrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, ritningar, scheman och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; visst &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar,&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare, förebyggande och avhjälpande underhåll av vald pumputrustning. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, ritningar, scheman och manualer. Dessutom tolkar och bearbetar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;information om utrustningens status. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av vald pumputrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, ritningar, scheman och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar,&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare, förebyggande och avhjälpande underhåll av vald pumputrustning. I planeringen tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; instruktioner, ritningar, scheman och manualer. Dessutom tolkar och bearbetar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;information om utrustningens status. &lt;strong&gt;Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det&lt;/strong&gt;. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av vald pumputrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;instruktioner, ritningar, scheman och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>7</sortOrder>
+  </courses>
+  <courses>
+    <name>Underhåll – transmissioner och uppriktning</name>
+    <englishName>Maintenance – transmissions and alignment</englishName>
+    <description
+    >&lt;p&gt;Kursen underhåll – transmissioner och uppriktning omfattar punkterna 1–2 och 4–6 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 4. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>DRIUNT0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Underhåll – transmissioner och uppriktning, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DRIUNT0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Planering, utförande och dokumentation av förebyggande och avhjälpande underhåll av industriella drivsystem, till exempel transmissioner, växlar, variatorer samt kardan-, rem- och kedjedrifter.&lt;/li&gt; &lt;li&gt;Driv- och servokomponenter.&lt;/li&gt; &lt;li&gt;Grundläggande uppriktningsteknik.&lt;/li&gt; &lt;li&gt;Orsaker till och verkan av uppriktningsfel.&lt;/li&gt; &lt;li&gt;Montering och demontering av vanligt förekommande transmissionselement.&lt;/li&gt; &lt;li&gt;Föreskrifter om arbetsmiljö samt person- och maskinsäkerhet.&lt;/li&gt; &lt;li&gt;Underhållstekniska begrepp och parametrar.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar&lt;strong&gt; i samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av industriella drivsystem. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, ritningar, scheman och manualer. Vidare väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av industriella drivsystem i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, ritningar, scheman och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; visst &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av industriella drivsystem. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, ritningar, scheman och manualer. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av industriella drivsystem i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, ritningar, scheman och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av industriella drivsystem. I planeringen tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; instruktioner, ritningar, scheman och manualer. &lt;strong&gt;Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det&lt;/strong&gt;. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av industriella drivsystem i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;instruktioner, ritningar, scheman och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>8</sortOrder>
+  </courses>
+  <courses>
+    <name>Underhåll – vibrationsteknik</name>
+    <englishName>Maintenance – vibration technology</englishName>
+    <description
+    >&lt;p&gt;Kursen underhåll – vibrationsteknik omfattar punkterna 1–2 och 4–6 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 5. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>DRIUNV0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Underhåll – vibrationsteknik, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DRIUNV0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Planering, genomförande och dokumentation av förebyggande och avhjälpande underhåll av maskinutrustningar.&lt;/li&gt; &lt;li&gt;Grundläggande principer och tekniker för vibrationsmätning.&lt;/li&gt; &lt;li&gt;Vibrationsmätning på utrustningar.&lt;/li&gt; &lt;li&gt;Inspektion och tillståndskontroll.&lt;/li&gt; &lt;li&gt;Ronderade tillståndskontroller.&lt;/li&gt; &lt;li&gt;Analys av mätvärden och utvärdering av tänkbara felkällor.&lt;/li&gt; &lt;li&gt;Balansering av utrustningar.&lt;/li&gt; &lt;li&gt;Föreskrifter om arbetsmiljö samt person- och maskinsäkerhet.&lt;/li&gt; &lt;li&gt;Relevanta fysikaliska begrepp och relevant terminologi.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar&lt;strong&gt; i samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av maskinutrustningar. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, ritningar, scheman och manualer. Vidare väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av maskinutrustningar i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, ritningar, scheman och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; visst &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för det material, den teknik, de metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av maskinutrustningar. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, ritningar, scheman och manualer. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av maskinutrustningar i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, ritningar, scheman och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar,&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare, förebyggande och avhjälpande underhåll av maskinutrustningar. I planeringen tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; instruktioner, ritningar, scheman och manualer. &lt;strong&gt;Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det&lt;/strong&gt;. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av maskinutrustningar i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;instruktioner, ritningar, scheman och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för eventuella avvikelser från specifikationen samt den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>9</sortOrder>
+  </courses>
+  <courses>
+    <name>Underhåll – hydraulik</name>
+    <englishName>Maintenance – hydraulics</englishName>
+    <description
+    >&lt;p&gt;Kursen underhåll – hydraulik omfattar punkterna 1–6 under rubriken Ämnets syfte, med särskild betoning på punkterna 4 och 6. I kursen behandlas fördjupade kunskaper och färdigheter i ämnet.&lt;/p&gt;</description>
+    <code>DRIUNR0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Underhåll – hydraulik, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DRIUNR0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Konstruktionsprinciper för hydrauliska styrsystem och reglersystem.&lt;/li&gt; &lt;li&gt;Energiöverföring, systemfunktion och systemuppbyggnad.&lt;/li&gt; &lt;li&gt;Styrningsteknik och proportionalteknik.&lt;/li&gt; &lt;li&gt;Styrning via bus-teknik.&lt;/li&gt; &lt;li&gt;Hantering av höga hydrauliska tryck och skaderisker i samband med det.&lt;/li&gt; &lt;li&gt;Renovering och montage av komponenter.&lt;/li&gt; &lt;li&gt;Medie- och genereringsteknik av hydrauliskt tryck.&lt;/li&gt; &lt;li&gt;Ritningar och scheman, förbindelseelement, blockmontage, specialcylindrar, vriddon och gripdon.&lt;/li&gt; &lt;li&gt;Montageteknik, standarder och symboler för säkerhet och komponenter.&lt;/li&gt; &lt;li&gt;Föreskrifter om arbetsmiljö, person- och maskinsäkerhet samt övriga krav och bestämmelser inom teknikområdet. &lt;/li&gt; &lt;li&gt;Termer och begrepp inom teknikområdet.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar&lt;strong&gt; i samråd &lt;/strong&gt;med handledare underhåll av hydrauliska styr- och reglersystem. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, scheman, ritningar och manualer. Dessutom tolkar och bearbetar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;information om styrtekniska villkor och status hos anläggningen. Vidare väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare underhåll av hydrauliska styr- och reglersystem i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, scheman, ritningar och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; visst &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare underhåll av hydrauliska styr- och reglersystem. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, scheman, ritningar och manualer. Dessutom tolkar och bearbetar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;information om styrtekniska villkor och status hos anläggningen. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare underhåll av hydrauliska styr- och reglersystem i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, scheman, ritningar och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare underhåll av hydrauliska styr- och reglersystem. I planeringen tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; instruktioner, scheman, ritningar och manualer. Dessutom tolkar och bearbetar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;information om styrtekniska villkor och status hos anläggningen. &lt;strong&gt;Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det&lt;/strong&gt;. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare underhåll av hydrauliska styr- och reglersystem i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;instruktioner, scheman, ritningar och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>10</sortOrder>
+  </courses>
+  <courses>
+    <name>Underhåll – mekatronik</name>
+    <englishName>Maintenance – mechatronics</englishName>
+    <description
+    >&lt;p&gt;Kursen underhåll – mekatronik omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkt 4. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>DRIUNL0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Underhåll – mekatronik, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DRIUNL0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Planering, genomförande och dokumentation av förebyggande och avhjälpande underhåll i enkla mekatroniska utrustningar.&lt;/li&gt; &lt;li&gt;Felsökning och installation i sammansatta system samt reparation av elektriska och mekaniska fel.&lt;/li&gt; &lt;li&gt;Färdigheter i att använda informationsteknik som stöd vid installation och underhåll av mekatroniska utrustningar.&lt;/li&gt; &lt;li&gt;Enkel uppläggning för styrning av automatiserade processer eller utrustningar. Uppbyggnad med användning av PC/PLC-system. Installation och programmering, intrimning och driftsättning av enkla och sammanbyggda styrutrustningar.&lt;/li&gt; &lt;li&gt;Givare i PC/PLC-system och utorgan i PC/PLC-system, till exempel kontaktorer, reläer och ventiler.&lt;/li&gt; &lt;li&gt;PLC, uppbyggnad och programhantering samt installation och driftsättning av utrustning. Användning av bus-teknik inom automation.&lt;/li&gt; &lt;li&gt;Grundläggande styrning med servon samt frekvens och spänning för motorer. Styrning med servosystem och stegmotor. Driftsättning och programmering av styrsystem med mjukstartare och frekvensomriktare för motordrift.&lt;/li&gt; &lt;li&gt;Positionering med återkoppling av signaler från olika typer av rörelseenheter, till exempel robotens koordinatsystem och ändring av positioner via operatörspanelen.&lt;/li&gt; &lt;li&gt;Föreskrifter om arbetsmiljö samt person- och maskinsäkerhet inom arbetsområdet.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar,&lt;strong&gt; i samråd &lt;/strong&gt;med handledare, förebyggande och avhjälpande underhåll av enkla mekatroniska utrustningar. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, scheman, ritningar och manualer. Dessutom tolkar och bearbetar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;information om styrtekniska villkor och status hos anläggningen. Vidare väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av enkla mekatroniska utrustningar i enlighet med säkerhetsföreskrifter. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, scheman, ritningar och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; visst &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Dessutom redogör eleven &lt;strong&gt;översiktligt&lt;/strong&gt; för teorier, sammanhang och definitioner inom mekatronik och elteknik. Eleven redogör även &lt;strong&gt;översiktligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för metoder och arbetssätt för ständiga förbättringar. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar,&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare, förebyggande och avhjälpande underhåll av enkla mekatroniska utrustningar. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, scheman, ritningar och manualer. Dessutom tolkar och bearbetar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;information om styrtekniska villkor och status hos anläggningen. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av enkla mekatroniska utrustningar i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, scheman, ritningar och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för teorier, sammanhang och definitioner inom mekatronik och elteknik. Eleven redogör även &lt;strong&gt;utförligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för metoder och arbetssätt för ständiga förbättringar. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar,&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare, förebyggande och avhjälpande underhåll av enkla mekatroniska utrustningar. I planeringen tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; instruktioner, scheman, ritningar och manualer. Dessutom tolkar och bearbetar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;information om styrtekniska villkor och status hos anläggningen. &lt;strong&gt;Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det&lt;/strong&gt;. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av enkla mekatroniska utrustningar i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;instruktioner, scheman, ritningar och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för teorier, sammanhang och definitioner inom mekatronik och elteknik. Eleven redogör även &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för metoder och arbetssätt för ständiga förbättringar. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>11</sortOrder>
+  </courses>
+  <courses>
+    <name>Underhåll – pneumatik</name>
+    <englishName>Maintenance – pneumatics</englishName>
+    <description
+    >&lt;p&gt;Kursen underhåll – pneumatik omfattar punkterna 1–6 under rubriken Ämnets syfte, med särskild betoning på punkterna 4 och 5. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>DRIUNP0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Underhåll – pneumatik, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DRIUNP0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Hantering av höga pneumatiska tryck och skaderisker i samband med det.&lt;/li&gt; &lt;li&gt;Konstruktionsprinciper för pneumatiska styr- och reglersystem. &lt;/li&gt; &lt;li&gt;Energiöverföring, systemfunktion och systemuppbyggnad.&lt;/li&gt; &lt;li&gt;Styrningstekniker.&lt;/li&gt; &lt;li&gt;Renovering och montage av komponenter.&lt;/li&gt; &lt;li&gt;Medie- och genereringsteknik av pneumatiskt tryck.&lt;/li&gt; &lt;li&gt;Vakuumteknik.&lt;/li&gt; &lt;li&gt;Termer och begrepp inom teknikområdet.&lt;/li&gt; &lt;li&gt;Ritningar, scheman, förbindelseelement, blockmontage, specialcylindrar, vriddon och gripdon.&lt;/li&gt; &lt;li&gt;Montageteknik, standarder och symboler för säkerhet och komponenter.&lt;/li&gt; &lt;li&gt;Föreskrifter om arbetsmiljö, person- och maskinsäkerhet samt övriga krav och bestämmelser.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar,&lt;strong&gt; i samråd &lt;/strong&gt;med handledare, förebyggande och avhjälpande underhåll av pneumatiska styr- och reglersystem. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, scheman, ritningar och manualer. Dessutom tolkar och bearbetar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;information om styrtekniska villkor och status hos anläggningen. Vidare väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av pneumatiska styr- och reglersystem i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, scheman, ritningar och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; visst &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar,&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare, förebyggande och avhjälpande underhåll av pneumatiska styr- och reglersystem. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, scheman, ritningar och manualer. Dessutom tolkar och bearbetar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;information om styrtekniska villkor och status hos anläggningen. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av pneumatiska styr- och reglersystem i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, scheman, ritningar och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar,&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare, förebyggande och avhjälpande underhåll av pneumatiska styr- och reglersystem. I planeringen tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; instruktioner, scheman, ritningar och manualer. Dessutom tolkar och bearbetar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;information om styrtekniska villkor och status hos anläggningen. &lt;strong&gt;Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det&lt;/strong&gt;. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av pneumatiska styr- och reglersystem i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;instruktioner, scheman, ritningar och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>12</sortOrder>
+  </courses>
+  <courses>
+    <name>Underhåll – produktionsmekanik</name>
+    <englishName>Maintenance – production mechanics</englishName>
+    <description
+    >&lt;p&gt;Kursen underhåll – produktionsmekanik omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 3 och 8. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>DRIUNO0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Underhåll – produktionsmekanik, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DRIUNO0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Grundläggande förebyggande och avhjälpande underhåll av produktionsutrustningar.&lt;/li&gt; &lt;li&gt;Ritningar och scheman, felsökningsmetoder, maskinelement, material och verktyg.&lt;/li&gt; &lt;li&gt;Grundläggande operatörsprogrammering av PC/PLC-system.&lt;/li&gt; &lt;li&gt;Inkoppling, urkoppling samt funktionsprovning och felsökning av in- och utorgan.&lt;/li&gt; &lt;li&gt;Provkörning av utrustning.&lt;/li&gt; &lt;li&gt;Återställning av utrustningars säkerhetssystem.&lt;/li&gt; &lt;li&gt;Skaderisker vid arbeten med pneumatiska, hydrauliska och motordrivna anläggningar.&lt;/li&gt; &lt;li&gt;Föreskrifter om arbetsmiljö, person- och maskinsäkerhet samt övriga krav och bestämmelser inom teknikområdet.&lt;/li&gt; &lt;li&gt;Underhållstekniska begrepp och parametrar.&lt;/li&gt; &lt;li&gt;Robottekniska begrepp samt principiell uppbyggnad av industrirobotar och hanteringsutrustningar.&lt;/li&gt; &lt;li&gt;Termer och begrepp inom teknikområdet.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av produktionsutrustningar. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, scheman, ritningar och manualer. Dessutom tolkar och bearbetar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;information om styrtekniska villkor och status hos anläggningen. Vidare väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av produktionsutrustningar i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, scheman, ritningar och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; visst &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Dessutom redogör eleven &lt;strong&gt;översiktligt&lt;/strong&gt; för den principiella uppbyggnaden av industrirobotar och hanteringsutrustningar samt för teorier, sammanhang och definitioner inom mekatronik och elteknik. Eleven redogör även &lt;strong&gt;översiktligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för metoder och arbetssätt för ständiga förbättringar. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av produktionsutrustningar. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner, scheman, ritningar och manualer. Dessutom tolkar och bearbetar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;information om styrtekniska villkor och status hos anläggningen. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av produktionsutrustningar i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner, scheman, ritningar och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för den principiella uppbyggnaden av industrirobotar och hanteringsutrustningar samt för teorier, sammanhang och definitioner inom mekatronik och elteknik. Eleven redogör även &lt;strong&gt;utförligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för metoder och arbetssätt för ständiga förbättringar. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt redogör &lt;strong&gt;utförligt&lt;/strong&gt; för betydelsen av samarbete. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar förebyggande och avhjälpande underhåll av produktionsutrustningar&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare. I planeringen tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; instruktioner, scheman, ritningar och manualer. Dessutom tolkar och bearbetar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;information om styrtekniska villkor och status hos anläggningen. &lt;strong&gt;Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det&lt;/strong&gt;. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare förebyggande och avhjälpande underhåll av produktionsutrustningar i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;instruktioner, scheman, ritningar och manualer. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för den principiella uppbyggnaden av industrirobotar och hanteringsutrustningar samt för teorier, sammanhang och definitioner inom mekatronik och elteknik. Eleven redogör även &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för metoder och arbetssätt för ständiga förbättringar. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för betydelsen av samarbete. Dessutom använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>13</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Historia</name>
+  <englishName>History</englishName>
+  <description
+  >&lt;p&gt;Historia är ett både humanistiskt och samhällsvetenskapligt ämne som behandlar individens villkor och samhällets förändringar över tid. Människors möjligheter och val inför framtiden är beroende av såväl handlingar och händelser i det förflutna som nutida tolkningar av dessa.&lt;/p&gt;</description>
+  <code>HIS</code>
+  <status>PUBLISHED</status>
+  <version>9</version>
+  <createdDate>2020-03-19T14:09:11+01:00</createdDate>
+  <modifiedDate>2020-03-19T14:10:11+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Historia&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale>A-F</gradeScale>
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet historia ska syfta till att eleverna breddar, fördjupar och utvecklar sitt historiemedvetande genom kunskaper om det förflutna, förmåga att använda historisk metod och förståelse av hur historia används. Eleverna ska därigenom ges möjlighet att utveckla sin förståelse av hur olika tolkningar och perspektiv på det förflutna präglar synen på nutiden och uppfattningar om framtiden.&lt;/p&gt; &lt;p&gt;Genom undervisningen ska eleverna ges möjlighet att utveckla sin historiska bildning och förmåga att använda historia som en referensram för att förstå frågor som har betydelse för nuet och framtiden, samt för att analysera historiska förändringsprocesser ur olika perspektiv. Eleverna ska också ges möjlighet att utveckla förståelse av olika tiders levnadsvillkor och förklara människors roller i samhällsförändringar. Undervisningen ska bidra till insikt i att varje tids människor ska förstås utifrån sin tids villkor och värderingar. Eleverna ska också få utveckla förståelse av nutiden samt förmåga att orientera sig inför framtiden. Historia används för att både påverka samhällsförändringar och skapa olika identiteter. Undervisningen ska därför ge eleverna möjlighet att utveckla förståelse av och värdera hur olika människor och grupper i tid och rum har använt historia, samt möjlighet att reflektera över kulturarvets betydelse för identitets- och verklighetsuppfattning.&lt;/p&gt; &lt;p&gt;I undervisningen ska eleverna ges möjlighet att arbeta med historiska begrepp, frågeställningar, förklaringar och olika samband i tid och rum för att utveckla förståelse av historiska samhällsförändringar. Att arbeta med historisk metod ska ingå i undervisningen. Det innebär att eleverna ska ges möjlighet att söka, granska, tolka och värdera olika typer av källor samt använda olika teorier, perspektiv och verktyg som förklarar och åskådliggör historiska förändringsprocesser. I undervisningen ska eleverna ges möjlighet att använda digitala verktyg för att söka information från olika medier. Genom undervisningen ska eleverna ges möjlighet att presentera resultatet av sitt arbete med hjälp av varierande uttrycksformer, såväl muntligt som skriftligt samt med hjälp av digitala verktyg.&lt;/p&gt; &lt;h4&gt;Undervisningen i ämnet historia ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt; &lt;ol&gt; &lt;li&gt;Kunskaper om tidsperioder, förändringsprocesser, händelser och personer utifrån olika tolkningar och perspektiv.&lt;/li&gt; &lt;li&gt;Förmåga att använda en historisk referensram för att förstå nutiden och för att ge perspektiv på framtiden.&lt;/li&gt; &lt;li&gt;Förmåga att använda olika historiska teorier och begrepp för att formulera, utreda, förklara och dra slutsatser om historiska frågeställningar utifrån olika perspektiv.&lt;/li&gt; &lt;li&gt;Förmåga att söka, granska, tolka och värdera källor utifrån källkritiska metoder och presentera resultatet med varierande uttrycksformer.&lt;/li&gt; &lt;li&gt;Förmåga att undersöka, förklara och värdera användningen av historia i olika sammanhang och under olika tidsperioder.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Historia 1a1, 50 poäng, som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen historia 1b.&lt;/li&gt; &lt;li&gt;Historia 1a2, 50 poäng, som bygger på kursen historia 1a1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen historia 1b.&lt;/li&gt; &lt;li&gt;Historia 1b, 100 poäng, som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen historia 1a1 eller kursen historia 1a2.&lt;/li&gt; &lt;li&gt;Historia 2a, 100 poäng, som bygger på kursen historia 1a2 eller kursen historia 1b. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen historia 2b – kultur.&lt;/li&gt; &lt;li&gt;Historia 2b – kultur, 100 poäng, som bygger på kursen historia 1a2 eller kursen historia 1b. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen historia 2a.&lt;/li&gt; &lt;li&gt;Historia 3, 100 poäng, som bygger på kursen historia 2a eller kursen historia 2b – kultur.&lt;/li&gt;&lt;/ul&gt;</purpose>
+  <skolfsId>2010:261</skolfsId>
+  <applianceDate>2020-03-18T00:00:00+01:00</applianceDate>
+  <courses>
+    <name>Historia 1a1</name>
+    <englishName>History 1a1</englishName>
+    <description
+    >&lt;p&gt;Kursen historia 1a1 omfattar punkterna 1–2 och 4–5 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>HISHIS01a1</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Historia 1a1, 50 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: HISHIS01a1&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll: &lt;/h4&gt; &lt;ul&gt; &lt;li&gt;Den europeiska epokindelningen utifrån ett kronologiskt perspektiv. Förhistorisk tid, forntiden, antiken, medeltiden, renässansen och upplysningstiden med vissa valda förändringsprocesser och fördjupningar. Problematisering av historiska tidsindelningars beroende av kulturella och politiska förutsättningar utifrån valda områden till exempel varför tidsbegreppet vikingatid infördes i Sverige under 1800-talets slut eller jämförelser med tidsindelningar i någon utomeuropeisk kultursfär som Kina eller Indien.&lt;/li&gt; &lt;li&gt;Industrialisering och demokratisering under 1800- och 1900-talen samt viktiga globala förändringsprocesser och händelser, till exempel migration, fredssträvanden, resursfördelning och ökat välstånd, teknisk utveckling, internationellt samarbete, mänskliga rättigheter, jämställdhet, kolonialism, diktaturer, folkmord och konflikter.&lt;/li&gt; &lt;li&gt;Historiskt källmaterial som speglar människors roll i politiska konflikter, kulturella förändringar eller kvinnors och mäns försök att förändra sin egen eller andras situation. Olika perspektiv utifrån till exempel social bakgrund, etnicitet, generation, kön och sexualitet.&lt;/li&gt; &lt;li&gt;Tolkning och användning av olika slags källmaterial i digital och annan form.&lt;/li&gt; &lt;li&gt;Hur individer och grupper använt historia i samband med aktuella konflikter och samarbetssträvanden. &lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>50</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;översiktligt&lt;/strong&gt; redogöra för förändringsprocesser, händelser och personer under olika tidsperioder samt för olika tolkningar av dem. Dessutom kan eleven &lt;strong&gt;översiktligt &lt;/strong&gt;redogöra för förloppen av förändringsprocesserna och händelserna samt deras orsaker och konsekvenser. Eleven ger exempel på några enskilda personer och förklarar &lt;strong&gt;översiktligt&lt;/strong&gt; deras betydelse för olika skeenden. Eleven ger &lt;strong&gt;enkla&lt;/strong&gt; exempel på, och förklarar &lt;strong&gt;översiktligt&lt;/strong&gt;, samband mellan skeenden i det förflutna och förhållanden i nutiden. Dessutom kan eleven dra några &lt;strong&gt;enkla&lt;/strong&gt; slutsatser om vad skeenden i det förflutna och förhållanden i nutiden kan ha för betydelse för framtiden.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med viss säkerhet&lt;/strong&gt; söka, granska och tolka källmaterial för att besvara frågor om historiska skeenden samt göra &lt;strong&gt;enkla&lt;/strong&gt; reflektioner över materialets relevans. I värderingen utgår eleven från &lt;strong&gt;något källkritiskt kriterium om källans användbarhet och dess betydelse för tolkningen&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;översiktligt&lt;/strong&gt; redogöra för några historiska skeenden och händelser som har använts på olika sätt samt &lt;strong&gt;översiktligt&lt;/strong&gt; förklara varför de har använts olika. Dessutom ger eleven några exempel på olika sätt att använda historia och värderar med &lt;strong&gt;enkla&lt;/strong&gt; omdömen deras betydelse för nutida skeenden och händelser.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;utförligt &lt;/strong&gt;redogöra för förändringsprocesser, händelser och personer under olika tidsperioder samt för olika tolkningar av dem. &lt;strong&gt;Eleven jämför de olika tolkningarna, förordar en av dem och motiverar med enkla omdömen sitt val&lt;/strong&gt;. Dessutom kan eleven &lt;strong&gt;utförligt &lt;/strong&gt;redogöra för förloppen av förändringsprocesserna och händelserna samt deras orsaker och konsekvenser. Eleven ger exempel på några enskilda personer och förklarar &lt;strong&gt;utförligt &lt;/strong&gt;deras betydelse för olika skeenden. Eleven ger &lt;strong&gt;enkla&lt;/strong&gt; exempel på, och förklarar &lt;strong&gt;utförligt&lt;/strong&gt;, samband mellan skeenden i det förflutna och förhållanden i nutiden. Dessutom kan eleven dra några &lt;strong&gt;välgrundade&lt;/strong&gt; slutsatser om vad skeenden i det förflutna och förhållanden i nutiden kan ha för betydelse för framtiden.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med viss säkerhet&lt;/strong&gt; söka, granska och tolka källmaterial för att besvara frågor om historiska skeenden samt göra &lt;strong&gt;välgrundade&lt;/strong&gt; reflektioner över materialets relevans. I värderingen utgår eleven från &lt;strong&gt;olika tolkningsmöjligheter av källmaterialet och värderar dessa med enkla omdömen&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;utförligt&lt;/strong&gt; redogöra för några historiska skeenden och händelser som har använts på olika sätt samt &lt;strong&gt;utförligt&lt;/strong&gt; förklara varför de har använts olika. Dessutom ger eleven några exempel på olika sätt att använda historia och värderar med &lt;strong&gt;enkla&lt;/strong&gt; omdömen deras betydelse för nutida skeenden och händelser.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; redogöra för förändringsprocesser, händelser och personer under olika tidsperioder samt för olika tolkningar av dem. &lt;strong&gt;Eleven jämför de olika tolkningarna, förordar en av dem och motiverar med nyanserade omdömen sitt val&lt;/strong&gt;. Dessutom kan eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; redogöra för förloppen av förändringsprocesserna och händelserna samt deras orsaker och konsekvenser. Eleven ger exempel på några enskilda personer och förklarar &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; deras betydelse för olika skeenden. Eleven ger &lt;strong&gt;komplexa&lt;/strong&gt; exempel på, och förklarar &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt;, samband mellan skeenden i det förflutna och förhållanden i nutiden samt argumenterar för och emot olika sätt att se på dessa samband. Dessutom kan eleven dra några &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; slutsatser om vad skeenden i det förflutna och förhållanden i nutiden kan ha för betydelse för framtiden.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med säkerhet&lt;/strong&gt; söka, granska och tolka källmaterial för att besvara frågor om historiska skeenden samt göra &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; reflektioner över materialets relevans. I värderingen utgår eleven från &lt;strong&gt;källkritiska metoder och värderar med nyanserade omdömen olika tolkningsmöjligheter av källmaterialet&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; redogöra för några historiska skeenden och händelser som har använts på olika sätt samt &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; förklara varför de har använts olika. Dessutom ger eleven några exempel på olika sätt att använda historia och värderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen deras betydelse för nutida skeenden och händelser.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Historia 1a2</name>
+    <englishName>History 1a2</englishName>
+    <description
+    >&lt;p&gt;Kursen historia 1a2 omfattar punkterna 1–5 under rubriken Ämnets syfte, med särskild betoning på punkterna 3 och 4.&lt;/p&gt;</description>
+    <code>HISHIS01a2</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Historia 1a2, 50 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: HISHIS01a2&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll: &lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Olika historiska frågeställningar och förklaringar när det gäller långsiktiga historiska förändringsprocesser i ett kronologiskt perspektiv som speglar både kontinuitet och förändring, till exempel befolkningsutveckling, statsbildning, jordbrukets utveckling och olika syn på människors värde, på makt och på könsmönster.&lt;/li&gt; &lt;li&gt;Industrialisering och demokratisering under 1800- och 1900-talen i Sverige och globalt samt viktiga globala förändringsprocesser och händelser, till exempel migration, fredssträvanden, resursfördelning och ökat välstånd, teknisk utveckling, internationellt samarbete, mänskliga rättigheter och jämställdhet men också kolonialism, diktaturer, folkmord och konflikter. Långsiktiga historiska perspektiv på förändrade maktförhållanden och olika historiska förklaringar till dem.&lt;/li&gt; &lt;li&gt;Historiskt källmaterial som speglar människors roll i politiska konflikter, kulturella förändringar eller kvinnors och mäns försök att förändra sin egen eller andras situation. Olika perspektiv utifrån till exempel social bakgrund, etnicitet, generation, kön och sexualitet.&lt;/li&gt; &lt;li&gt;Kritisk granskning, tolkning och användning av olika slags källmaterial, i digital och annan form, utifrån källkritiska kriterier och metoder.&lt;/li&gt; &lt;li&gt;Hur individer och grupper använt historia i vardagsliv, samhällsliv och politik. Betydelsen av historia i formandet av identiteter, till exempel olika föreställningar om gemensamma kulturarv. &lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>50</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;översiktligt &lt;/strong&gt;redogöra för förändringsprocesser, händelser och personer under olika tidsperioder samt för olika tolkningar av dem. Dessutom kan eleven &lt;strong&gt;översiktligt &lt;/strong&gt;redogöra för förloppen av förändringsprocesserna och händelserna samt deras orsaker och konsekvenser. Eleven ger exempel på några enskilda personer och förklarar &lt;strong&gt;översiktligt &lt;/strong&gt;deras betydelse för olika skeenden. Eleven ger &lt;strong&gt;enkla&lt;/strong&gt; exempel på, och förklarar &lt;strong&gt;översiktligt&lt;/strong&gt;, samband mellan skeenden i det förflutna och förhållanden i nutiden. Dessutom kan eleven dra några &lt;strong&gt;enkla&lt;/strong&gt; slutsatser om vad skeenden i det förflutna och förhållanden i nutiden kan ha för betydelse för framtiden.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med viss säkerhet&lt;/strong&gt; använda &lt;strong&gt;några&lt;/strong&gt; historiska begrepp för att formulera, utreda, förklara och dra slutsatser om historiska frågeställningar utifrån olika perspektiv.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med viss säkerhet &lt;/strong&gt;söka, granska och tolka källmaterial för att besvara frågor om historiska skeenden samt göra &lt;strong&gt;enkla&lt;/strong&gt; reflektioner över materialets relevans. I värderingen utgår eleven från &lt;strong&gt;något källkritiskt kriterium om källans användbarhet och dess betydelse för tolkningen&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;översiktligt&lt;/strong&gt; redogöra för några historiska skeenden och händelser som har använts på olika sätt samt &lt;strong&gt;översiktligt&lt;/strong&gt; förklara varför de har använts olika. Dessutom ger eleven några exempel på olika sätt att använda historia och värderar med &lt;strong&gt;enkla&lt;/strong&gt; omdömen deras betydelse för nutida skeenden och händelser.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;utförligt &lt;/strong&gt;redogöra för förändringsprocesser, händelser och personer under olika tidsperioder samt för olika tolkningar av dem. &lt;strong&gt;Eleven jämför de olika tolkningarna, förordar en av dem och motiverar med enkla omdömen sitt val&lt;/strong&gt;. Dessutom kan eleven &lt;strong&gt;utförligt&lt;/strong&gt; redogöra för förloppen av förändringsprocesserna och händelserna samt deras orsaker och konsekvenser. Eleven ger exempel på några enskilda personer och förklarar &lt;strong&gt;utförligt &lt;/strong&gt;deras betydelse för olika skeenden. Eleven ger &lt;strong&gt;enkla&lt;/strong&gt; exempel på, och förklarar &lt;strong&gt;utförligt&lt;/strong&gt;, samband mellan skeenden i det förflutna och förhållanden i nutiden. Dessutom kan eleven dra några &lt;strong&gt;välgrundade&lt;/strong&gt; slutsatser om vad skeenden i det förflutna och förhållanden i nutiden kan ha för betydelse för framtiden.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med viss säkerhet &lt;/strong&gt;använda historiska begrepp för att formulera, utreda, förklara och dra slutsatser om historiska frågeställningar utifrån olika perspektiv.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med viss säkerhet&lt;/strong&gt; söka, granska och tolka källmaterial för att besvara frågor om historiska skeenden samt göra &lt;strong&gt;välgrundade&lt;/strong&gt; reflektioner över materialets relevans. I värderingen utgår eleven från &lt;strong&gt;källkritiska metoder och värderar med enkla omdömen olika tolkningsmöjligheter av källmaterialet&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;utförligt&lt;/strong&gt; redogöra för några historiska skeenden och händelser som har använts på olika sätt samt &lt;strong&gt;utförligt&lt;/strong&gt; förklara varför de har använts olika. Dessutom ger eleven några exempel på olika sätt att använda historia och värderar med &lt;strong&gt;enkla&lt;/strong&gt; omdömen deras betydelse för nutida skeenden och händelser.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; redogöra för förändringsprocesser, händelser och personer under olika tidsperioder samt för olika tolkningar av dem. Eleven jämför de olika tolkningarna, förordar en av dem och motiverar med &lt;strong&gt;nyanserade&lt;/strong&gt; omdömen sitt val. Dessutom kan eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; redogöra för förloppen av förändringsprocesserna och händelserna samt deras orsaker och konsekvenser. Eleven ger exempel på några enskilda personer och förklarar &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; deras betydelse för olika skeenden. Eleven ger &lt;strong&gt;komplexa&lt;/strong&gt; exempel på, och förklarar &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt;, samband mellan skeenden i det förflutna och förhållanden i nutiden samt argumenterar för och emot olika sätt att se på dessa samband. Dessutom kan eleven dra några &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; slutsatser om vad skeenden i det förflutna och förhållanden i nutiden kan ha för betydelse för framtiden.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med säkerhet &lt;/strong&gt;använda historiska begrepp för att formulera, utreda, förklara och dra slutsatser om historiska frågeställningar utifrån olika perspektiv.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med säkerhet&lt;/strong&gt; söka, granska och tolka källmaterial för att besvara frågor om historiska skeenden samt göra &lt;strong&gt;välgrundade och&lt;/strong&gt; &lt;strong&gt;nyanserade&lt;/strong&gt; reflektioner över materialets relevans. I värderingen utgår eleven från &lt;strong&gt;källkritiska metoder och värderar med nyanserade omdömen olika tolkningsmöjligheter av källmaterialet&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;utförligt och&lt;/strong&gt; &lt;strong&gt;nyanserat&lt;/strong&gt; redogöra för några historiska skeenden och händelser som har använts på olika sätt samt &lt;strong&gt;utförligt och&lt;/strong&gt; &lt;strong&gt;nyanserat&lt;/strong&gt; förklara varför de har använts olika. Dessutom ger eleven några exempel på olika sätt att använda historia och värderar med &lt;strong&gt;nyanserade&lt;/strong&gt; omdömen deras betydelse för nutida skeenden och händelser.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Historia 1b</name>
+    <englishName>History 1b</englishName>
+    <description
+    >&lt;p&gt;Kursen historia 1b omfattar punkterna 1–5 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>HISHIS01b</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Historia 1b, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: HISHIS01b&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll: &lt;/h4&gt; &lt;ul&gt; &lt;li&gt;Den europeiska epokindelningen utifrån ett kronologiskt perspektiv. Förhistorisk tid, forntiden, antiken, medeltiden, renässansen och upplysningstiden med vissa fördjupningar. Problematisering av historiska tidsindelningars beroende av kulturella och politiska förutsättningar utifrån valda områden till exempel varför tidsbegreppet vikingatid infördes i Sverige under 1800-talets slut eller jämförelser med tidsindelningar i någon utomeuropeisk kultur.&lt;/li&gt; &lt;li&gt;Industrialisering och demokratisering under 1800- och 1900-talen i Sverige och globalt samt viktiga globala förändringsprocesser och händelser, till exempel migration, fredssträvanden, resursfördelning och ökat välstånd, teknisk utveckling, internationellt samarbete, mänskliga rättigheter och jämställdhet men också kolonialism, diktaturer, folkmord, konflikter och ökat resursutnyttjande. Långsiktiga historiska perspektiv på förändrade maktförhållanden och olika historiska förklaringar till dem.&lt;/li&gt; &lt;li&gt;Olika historiska frågeställningar och förklaringar när det gäller långsiktiga historiska förändringsprocesser som speglar både kontinuitet och förändring, till exempel befolkningsutveckling, statsbildning, jordbrukets utveckling och olika syn på människors värde, på makt och på könsmönster.&lt;/li&gt; &lt;li&gt;Historiskt källmaterial som speglar människors roll i politiska konflikter, kulturella förändringar eller kvinnors och mäns försök att förändra sin egen eller andras situation. Olika perspektiv utifrån till exempel social bakgrund, etnicitet, generation, kön och sexualitet.&lt;/li&gt; &lt;li&gt;Kritisk granskning, tolkning och användning av olika slags källmaterial, i digital och annan form, utifrån källkritiska kriterier och metoder.&lt;/li&gt; &lt;li&gt;Hur individer och grupper använt historia i vardagsliv, samhällsliv och politik. Betydelsen av historia i formandet av identiteter, till exempel olika föreställningar om gemensamma kulturarv, och som medel för påverkan i aktuella konflikter. &lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;översiktligt &lt;/strong&gt;redogöra för förändringsprocesser, händelser och personer under olika tidsperioder samt för olika tolkningar av dem. Dessutom kan eleven &lt;strong&gt;översiktligt &lt;/strong&gt;redogöra för förloppen av förändringsprocesserna och händelserna samt deras orsaker och konsekvenser. Eleven ger exempel på några enskilda personer och förklarar &lt;strong&gt;översiktligt &lt;/strong&gt;deras betydelse för olika skeenden. Eleven ger &lt;strong&gt;enkla&lt;/strong&gt; exempel på, och förklarar &lt;strong&gt;översiktligt&lt;/strong&gt;, samband mellan skeenden i det förflutna och förhållanden i nutiden. Dessutom kan eleven dra några &lt;strong&gt;enkla&lt;/strong&gt; slutsatser om vad skeenden i det förflutna och förhållanden i nutiden kan ha för betydelse för framtiden.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med viss säkerhet &lt;/strong&gt;använda &lt;strong&gt;några&lt;/strong&gt; historiska begrepp för att formulera, utreda, förklara och dra slutsatser om historiska frågeställningar utifrån olika perspektiv.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med viss säkerhet &lt;/strong&gt;söka, granska och tolka källmaterial för att besvara frågor om historiska skeenden samt göra &lt;strong&gt;enkla&lt;/strong&gt; reflektioner över materialets relevans. I värderingen utgår eleven från &lt;strong&gt;något källkritiskt kriterium om källans användbarhet och dess betydelse för tolkningen&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;översiktligt&lt;/strong&gt; redogöra för några historiska skeenden och händelser som har använts på olika sätt samt &lt;strong&gt;översiktligt&lt;/strong&gt; förklara varför de har använts olika. Dessutom ger eleven några exempel på olika sätt att använda historia och värderar med &lt;strong&gt;enkla&lt;/strong&gt; omdömen deras betydelse för nutida skeenden och händelser.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;utförligt &lt;/strong&gt;redogöra för förändringsprocesser, händelser och personer under olika tidsperioder samt för olika tolkningar av dem. &lt;strong&gt;Eleven jämför de olika tolkningarna, förordar en av dem och motiverar med enkla omdömen sitt val.&lt;/strong&gt; Dessutom kan eleven &lt;strong&gt;utförligt &lt;/strong&gt;redogöra för förloppen av förändringsprocesserna och händelserna samt deras orsaker och konsekvenser. Eleven ger exempel på några enskilda personer och förklarar &lt;strong&gt;utförligt &lt;/strong&gt;deras betydelse för olika skeenden. Eleven ger &lt;strong&gt;enkla&lt;/strong&gt; exempel på, och förklarar &lt;strong&gt;utförligt&lt;/strong&gt;, samband mellan skeenden i det förflutna och förhållanden i nutiden. Dessutom kan eleven dra några &lt;strong&gt;välgrundade&lt;/strong&gt; slutsatser om vad skeenden i det förflutna och förhållanden i nutiden kan ha för betydelse för framtiden.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med viss säkerhet &lt;/strong&gt;använda historiska begrepp för att formulera, utreda, förklara och dra slutsatser om historiska frågeställningar utifrån olika perspektiv.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med&lt;/strong&gt; &lt;strong&gt;viss säkerhet&lt;/strong&gt; söka, granska och tolka källmaterial för att besvara frågor om historiska skeenden samt göra &lt;strong&gt;välgrundade &lt;/strong&gt;reflektioner över materialets relevans. I värderingen utgår eleven från &lt;strong&gt;källkritiska metoder och värderar med enkla omdömen olika tolkningsmöjligheter av källmaterialet&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;utförligt&lt;/strong&gt; redogöra för några historiska skeenden och händelser som har använts på olika sätt samt &lt;strong&gt;utförligt&lt;/strong&gt; förklara varför de har använts olika. Dessutom ger eleven några exempel på olika sätt att använda historia och värderar med &lt;strong&gt;enkla&lt;/strong&gt; omdömen deras betydelse för nutida skeenden och händelser.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; redogöra för förändringsprocesser, händelser och personer under olika tidsperioder samt för olika tolkningar av dem. &lt;strong&gt;Eleven jämför de olika tolkningarna, förordar en av dem och motiverar med nyanserade omdömen sitt val.&lt;/strong&gt; Dessutom kan eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; redogöra för förloppen av förändringsprocesserna och händelserna samt deras orsaker och konsekvenser. Eleven ger exempel på några enskilda personer och förklarar &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; deras betydelse för olika skeenden. Eleven ger &lt;strong&gt;komplexa &lt;/strong&gt;exempel på, och förklarar &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt;, samband mellan skeenden i det förflutna och förhållanden i nutiden samt argumenterar för och emot olika sätt att se på dessa samband. Dessutom kan eleven dra några &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; slutsatser om vad skeenden i det förflutna och förhållanden i nutiden kan ha för betydelse för framtiden.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med säkerhet&lt;/strong&gt; använda historiska begrepp för att formulera, utreda, förklara och dra slutsatser om historiska frågeställningar utifrån olika perspektiv.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med säkerhet&lt;/strong&gt; söka, granska och tolka källmaterial för att besvara frågor om historiska skeenden samt göra välgrundade och nyanserade reflektioner över materialets relevans. I värderingen utgår eleven från &lt;strong&gt;källkritiska metoder och värderar med nyanserade omdömen olika tolkningsmöjligheter av källmaterialet&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; redogöra för några historiska skeenden och händelser som har använts på olika sätt samt &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; förklara varför de har använts olika. Dessutom ger eleven några exempel på olika sätt att använda historia och värderar med &lt;strong&gt;nyanserade&lt;/strong&gt; omdömen deras betydelse för nutida skeenden och händelser.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <courses>
+    <name>Historia 2a</name>
+    <englishName>History 2a</englishName>
+    <description
+    >&lt;p&gt;Kursen historia 2a omfattar punkterna 1–5 under rubriken Ämnets syfte, med särskild betoning på punkt 3. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>HISHIS02a</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Historia 2a, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: HISHIS02a&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll: &lt;/h4&gt; &lt;ul&gt; &lt;li&gt;Tematiska fördjupningar när det gäller historiska frågeställningar av betydelse för individer, grupper och samhällen, till exempel lokalhistoria, global migration och kulturmöten, olika historiska världsbilder, synen på jämställdhet och människors värde, moderna mediers framväxt samt resursutnyttjande och människors förhållande till naturen.&lt;/li&gt; &lt;li&gt;Historiska begrepp och förklaringsmodeller och deras tillämpning på olika historiska frågeställningar.&lt;/li&gt; &lt;li&gt;Granskningar och tolkningar av historiskt källmaterial, till exempel arkivmaterial, pressmaterial och databaser, som utgångspunkt för behandling av historiska frågeställningar.&lt;/li&gt; &lt;li&gt;Hur historia används inom olika kulturformer. Betydelsen av olika historiska teman inom olika genrer, till exempel film, litteratur och musik samt inom olika former av ungdomskultur.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;översiktligt &lt;/strong&gt;redogöra för förändringsprocesser, händelser och personer under olika tidsperioder samt för olika tolkningar av dem. Dessutom kan eleven &lt;strong&gt;översiktligt &lt;/strong&gt;redogöra för förloppen av förändringsprocesserna och händelserna samt deras orsaker och konsekvenser. Eleven ger exempel på några enskilda personer och förklarar &lt;strong&gt;översiktligt &lt;/strong&gt;deras betydelse för olika skeenden. Eleven ger &lt;strong&gt;enkla&lt;/strong&gt; exempel på, och förklarar &lt;strong&gt;översiktligt&lt;/strong&gt;, samband mellan skeenden i det förflutna och förhållanden i nutiden. Dessutom kan eleven dra några &lt;strong&gt;enkla&lt;/strong&gt; slutsatser om vad skeenden i det förflutna och förhållanden i nutiden kan ha för betydelse för framtiden.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med viss säkerhet &lt;/strong&gt;använda &lt;strong&gt;några&lt;/strong&gt; historiska begrepp och &lt;strong&gt;någon&lt;/strong&gt; teori för att formulera, utreda, förklara och dra slutsatser om historiska frågeställningar utifrån olika perspektiv.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med viss säkerhet &lt;/strong&gt;söka, granska och tolka källmaterial för att besvara frågor om historiska skeenden samt göra &lt;strong&gt;enkla&lt;/strong&gt; reflektioner över materialets relevans. I värderingen utgår eleven från &lt;strong&gt;källkritiska kriterier om källans användbarhet och dess betydelse för tolkningen&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;översiktligt&lt;/strong&gt; redogöra för några historiska skeenden och händelser som har använts på olika sätt samt &lt;strong&gt;översiktligt &lt;/strong&gt;förklara varför de har använts olika. Dessutom ger eleven några exempel på olika sätt att använda historia och värderar med &lt;strong&gt;enkla&lt;/strong&gt; omdömen deras betydelse för nutida skeenden och händelser.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;utförligt &lt;/strong&gt;redogöra för förändringsprocesser, händelser och personer under olika tidsperioder samt för olika tolkningar av dem. &lt;strong&gt;Eleven jämför de olika tolkningarna, förordar en av dem och motiverar med enkla omdömen sitt val&lt;/strong&gt;. Dessutom kan eleven &lt;strong&gt;utförligt &lt;/strong&gt;redogöra för förloppen av förändringsprocesserna och händelserna samt deras orsaker och konsekvenser. Eleven ger exempel på några enskilda personer och förklarar &lt;strong&gt;utförligt &lt;/strong&gt;deras betydelse för olika skeenden. Eleven ger &lt;strong&gt;enkla&lt;/strong&gt; exempel på, och förklarar &lt;strong&gt;utförligt&lt;/strong&gt;, samband mellan skeenden i det förflutna och förhållanden i nutiden. Dessutom kan eleven dra några &lt;strong&gt;välgrundade&lt;/strong&gt; slutsatser om vad skeenden i det förflutna och förhållanden i nutiden kan ha för betydelse för framtiden.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med viss säkerhet &lt;/strong&gt;använda historiska begrepp och &lt;strong&gt;olika &lt;/strong&gt;teorier för att formulera, utreda, förklara och dra slutsatser om historiska frågeställningar utifrån olika perspektiv.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med viss säkerhet &lt;/strong&gt;söka, granska och tolka källmaterial för att besvara frågor om historiska skeenden samt göra &lt;strong&gt;välgrundade &lt;/strong&gt;reflektioner över materialets relevans. I värderingen utgår eleven från &lt;strong&gt;källkritiska metoder och värderar med enkla omdömen olika tolkningsmöjligheter av källmaterialet&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;utförligt&lt;/strong&gt; redogöra för några historiska skeenden och händelser som har använts på olika sätt samt &lt;strong&gt;utförligt&lt;/strong&gt; förklara varför de har använts olika. Dessutom ger eleven några exempel på olika sätt att använda historia och värderar med &lt;strong&gt;enkla&lt;/strong&gt; omdömen deras betydelse för nutida skeenden och händelser.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; redogöra för förändringsprocesser, händelser och personer under olika tidsperioder samt för olika tolkningar av dem. &lt;strong&gt;Eleven jämför de olika tolkningarna, förordar en av dem och motiverar med nyanserade omdömen sitt val&lt;/strong&gt;. Dessutom kan eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; redogöra för förloppen av förändringsprocesserna och händelserna samt deras orsaker och konsekvenser. Eleven ger exempel på några enskilda personer och förklarar &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; deras betydelse för olika skeenden. Eleven ger &lt;strong&gt;komplexa&lt;/strong&gt; exempel på, och förklarar &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt;, samband mellan skeenden i det förflutna och förhållanden i nutiden samt argumenterar för och emot olika sätt att se på dessa samband. Dessutom kan eleven dra några &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; slutsatser om vad skeenden i det förflutna och förhållanden i nutiden kan ha för betydelse för framtiden.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med säkerhet&lt;/strong&gt; använda historiska begrepp och olika teorier för att formulera, utreda, förklara och dra slutsatser om historiska frågeställningar utifrån olika perspektiv.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med säkerhet&lt;/strong&gt; söka, granska och tolka källmaterial för att besvara frågor om historiska skeenden samt göra &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; reflektioner över materialets relevans. I värderingen utgår eleven från &lt;strong&gt;källkritiska metoder och värderar med nyanserade omdömen olika tolkningsmöjligheter av källmaterialet&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; redogöra för några historiska skeenden och händelser som har använts på olika sätt samt &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; förklara varför de har använts olika. Dessutom ger eleven några exempel på olika sätt att använda historia och värderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen deras betydelse för nutida skeenden och händelser.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>4</sortOrder>
+  </courses>
+  <courses>
+    <name>Historia 2b – kultur</name>
+    <englishName>History 2b – culture</englishName>
+    <description
+    >&lt;p&gt;Kursen historia 2b – kultur omfattar punkterna 1–5 under rubriken Ämnets syfte, med särskild betoning på punkt 3. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>HISHIS02b</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Historia 2b – kultur, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: HISHIS02b&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll: &lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Tematiska fördjupningar när det gäller historiska frågeställningar av betydelse för individer, grupper och samhällen ur ett kulturhistoriskt perspektiv, till exempel idéströmningar, mentaliteter och världsbilder, konstarternas utveckling samt de skiftande kulturella formerna för kommunikation genom tiderna.&lt;/li&gt; &lt;li&gt;Olika konst- och kulturbegrepp i historiskt perspektiv. Möten mellan etablerad kultur och olika former av nya kulturella rörelser.&lt;/li&gt; &lt;li&gt;Historiska begrepp och förklaringsmodeller och deras tillämpning på olika historiska frågeställningar.&lt;/li&gt; &lt;li&gt;Granskningar och tolkningar av historiskt källmaterial, till exempel arkivmaterial, pressmaterial och databaser, som utgångspunkt för behandling av historiska frågeställningar.&lt;/li&gt; &lt;li&gt;Hur historia används inom olika kulturformer. Betydelsen av olika historiska teman inom olika genrer, till exempel film, litteratur och musik samt inom olika former av ungdomskultur.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;översiktligt &lt;/strong&gt;redogöra för förändringsprocesser, händelser och personer under olika tidsperioder samt för olika tolkningar av dem. Dessutom kan eleven &lt;strong&gt;översiktligt &lt;/strong&gt;redogöra för förloppen av förändringsprocesserna och händelserna samt deras orsaker och konsekvenser. Eleven ger exempel på några enskilda personer och förklarar &lt;strong&gt;översiktligt &lt;/strong&gt;deras betydelse för olika skeenden. Eleven ger &lt;strong&gt;enkla&lt;/strong&gt; exempel på, och förklarar &lt;strong&gt;översiktligt&lt;/strong&gt;, samband mellan skeenden i det förflutna och förhållanden i nutiden. Dessutom kan eleven dra några &lt;strong&gt;enkla&lt;/strong&gt; slutsatser om vad skeenden i det förflutna och förhållanden i nutiden kan ha för betydelse för framtiden.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med viss säkerhet &lt;/strong&gt;använda &lt;strong&gt;några&lt;/strong&gt; historiska begrepp och &lt;strong&gt;någon&lt;/strong&gt; teori för att formulera, utreda, förklara och dra slutsatser om historiska frågeställningar utifrån olika perspektiv.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med viss säkerhet &lt;/strong&gt;söka, granska och tolka källmaterial för att besvara frågor om historiska skeenden samt göra &lt;strong&gt;enkla&lt;/strong&gt; reflektioner över materialets relevans. I värderingen utgår eleven från &lt;strong&gt;källkritiska kriterier om källans användbarhet och dess betydelse för tolkningen&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;översiktligt&lt;/strong&gt; redogöra för några historiska skeenden och händelser som har använts på olika sätt samt &lt;strong&gt;översiktligt&lt;/strong&gt; förklara varför de har använts olika. Dessutom ger eleven några exempel på olika sätt att använda historia och värderar med &lt;strong&gt;enkla&lt;/strong&gt; omdömen deras betydelse för nutida skeenden och händelser.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;utförligt &lt;/strong&gt;redogöra för förändringsprocesser, händelser och personer under olika tidsperioder samt för olika tolkningar av dem. &lt;strong&gt;Eleven jämför de olika tolkningarna, förordar en av dem och motiverar med enkla omdömen sitt val&lt;/strong&gt;. Dessutom kan eleven &lt;strong&gt;utförligt &lt;/strong&gt;redogöra för förloppen av förändringsprocesserna och händelserna samt deras orsaker och konsekvenser. Eleven ger exempel på några enskilda personer och förklarar &lt;strong&gt;utförligt &lt;/strong&gt;deras betydelse för olika skeenden. Eleven ger &lt;strong&gt;enkla&lt;/strong&gt; exempel på, och förklarar &lt;strong&gt;utförligt&lt;/strong&gt;, samband mellan skeenden i det förflutna och förhållanden i nutiden. Dessutom kan eleven dra några &lt;strong&gt;välgrundade&lt;/strong&gt; slutsatser om vad skeenden i det förflutna och förhållanden i nutiden kan ha för betydelse för framtiden.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med viss säkerhet &lt;/strong&gt;använda historiska begrepp och &lt;strong&gt;olika &lt;/strong&gt;teorier för att formulera, utreda, förklara och dra slutsatser om historiska frågeställningar utifrån olika perspektiv.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med viss säkerhet &lt;/strong&gt;söka, granska och tolka källmaterial för att besvara frågor om historiska skeenden samt göra &lt;strong&gt;välgrundade &lt;/strong&gt;reflektioner över materialets relevans. I värderingen utgår eleven från &lt;strong&gt;källkritiska metoder och värderar med enkla omdömen olika tolkningsmöjligheter av källmaterialet&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;utförligt&lt;/strong&gt; redogöra för några historiska skeenden och händelser som har använts på olika sätt samt &lt;strong&gt;utförligt&lt;/strong&gt; förklara varför de har använts olika. Dessutom ger eleven några exempel på olika sätt att använda historia och värderar med &lt;strong&gt;enkla&lt;/strong&gt; omdömen deras betydelse för nutida skeenden och händelser.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; redogöra för förändringsprocesser, händelser och personer under olika tidsperioder samt för olika tolkningar av dem. &lt;strong&gt;Eleven jämför de olika tolkningarna, förordar en av dem och motiverar med nyanserade omdömen sitt val&lt;/strong&gt;. Dessutom kan eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; redogöra för förloppen av förändringsprocesserna och händelserna samt deras orsaker och konsekvenser. Eleven ger exempel på några enskilda personer och förklarar &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; deras betydelse för olika skeenden. Eleven ger &lt;strong&gt;komplexa&lt;/strong&gt; exempel på, och förklarar &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt;, samband mellan skeenden i det förflutna och förhållanden i nutiden &lt;strong&gt;samt argumenterar för och emot olika sätt att se på dessa samband&lt;/strong&gt;. Dessutom kan eleven dra några &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; slutsatser om vad skeenden i det förflutna och förhållanden i nutiden kan ha för betydelse för framtiden.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med säkerhet&lt;/strong&gt; använda historiska begrepp och olika teorier för att formulera, utreda, förklara och dra slutsatser om historiska frågeställningar utifrån olika perspektiv.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;med säkerhet&lt;/strong&gt; söka, granska och tolka källmaterial för att besvara frågor om historiska skeenden samt gör &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;reflektioner över materialets relevans. I värderingen utgår eleven från &lt;strong&gt;källkritiska metoder och värderar med nyanserade omdömen olika tolkningsmöjligheter av källmaterialet&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Eleven kan &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; redogöra för några historiska skeenden och händelser som har använts på olika sätt samt &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; förklara varför de har använts olika. Dessutom ger eleven några exempel på olika sätt att använda historia och värderar med &lt;strong&gt;nyanserade&lt;/strong&gt; omdömen deras betydelse för nutida skeenden och händelser.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>5</sortOrder>
+  </courses>
+  <courses>
+    <name>Historia 3</name>
+    <englishName>History 3</englishName>
+    <description
+    >&lt;p&gt;Kursen historia 3 omfattar punkterna 1–5 under rubriken Ämnets syfte, med särskild betoning på punkterna 3–5. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>HISHIS03</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Historia 3, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: HISHIS03&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll: &lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Någon global förändringsprocess under 1800- och 1900-talen. Dess konkreta förlopp samt konsekvenser för samhällen, grupper och individer på regional eller lokal nivå.&lt;/li&gt; &lt;li&gt;Olika metoder för att söka, bearbeta och sammanställa historiskt källmaterial, till exempel genom arkiv, muntlig historia eller digitala media.&lt;/li&gt; &lt;li&gt;Källkritiska och metodiska problem förknippade med behandlingen av olika typer av historiskt källmaterial inom till exempel politisk historia, socialhistoria eller miljöhistoria.&lt;/li&gt; &lt;li&gt;Hur undersökningar baserade på primärkällor utifrån en formulerad historisk frågeställning genomförs samt hur resultatet kan sammanställas, presenteras och ventileras.&lt;/li&gt; &lt;li&gt;Hur historia används inom kulturarvssektorn, till exempel arkiv, bibliotek och museer utifrån ett regionalt eller lokalt perspektiv.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;översiktligt &lt;/strong&gt;redogöra för förändringsprocesser, händelser och personer under olika tidsperioder samt för olika tolkningar av dem. Dessutom kan eleven &lt;strong&gt;översiktligt &lt;/strong&gt;redogöra för förloppen av förändringsprocesserna och händelserna samt deras orsaker och konsekvenser. Eleven ger exempel på några enskilda personer och förklarar &lt;strong&gt;översiktligt &lt;/strong&gt;deras betydelse för olika skeenden. Eleven ger &lt;strong&gt;enkla&lt;/strong&gt; exempel på, och förklarar &lt;strong&gt;översiktligt&lt;/strong&gt;, samband mellan skeenden i det förflutna och förhållanden i nutiden. Dessutom kan eleven dra några &lt;strong&gt;enkla&lt;/strong&gt; slutsatser om vad skeenden i det förflutna och förhållanden i nutiden kan ha för betydelse för framtiden.&lt;/p&gt;&lt;p&gt;Eleven kan &lt;strong&gt;med viss säkerhet &lt;/strong&gt;använda&lt;strong&gt; några&lt;/strong&gt; historiska begrepp och &lt;strong&gt;någon&lt;/strong&gt; teori för att formulera, utreda, förklara och dra slutsatser om historiska frågeställningar utifrån olika perspektiv.&lt;/p&gt;&lt;p&gt;Eleven kan &lt;strong&gt;med viss säkerhet &lt;/strong&gt;söka, granska och tolka källmaterial för att besvara frågor om historiska skeenden samt göra &lt;strong&gt;enkla&lt;/strong&gt; reflektioner över materialets relevans. I värderingen utgår eleven från källkritiska metoder och av eleven påvisade tolkningsmöjligheter. Dessutom motiverar eleven &lt;strong&gt;översiktligt &lt;/strong&gt;sitt val av såväl metoder som tolkningar.&lt;/p&gt;&lt;p&gt;Eleven kan &lt;strong&gt;översiktligt &lt;/strong&gt;redogöra för några historiska skeenden och händelser som har använts på olika sätt samt &lt;strong&gt;översiktligt&lt;/strong&gt; förklara varför de har använts olika. Dessutom ger eleven några exempel på olika sätt att använda historia och värderar med &lt;strong&gt;enkla&lt;/strong&gt; omdömen deras betydelse för nutida skeenden och händelser.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;utförligt &lt;/strong&gt;redogöra för förändringsprocesser, händelser och personer under olika tidsperioder samt för olika tolkningar av dem. &lt;strong&gt;Eleven jämför de olika tolkningarna, förordar en av dem och motiverar med enkla omdömen sitt val&lt;/strong&gt;. Dessutom kan eleven &lt;strong&gt;utförligt &lt;/strong&gt;redogöra för förloppen av förändringsprocesserna och händelserna samt deras orsaker och konsekvenser. Eleven ger exempel på några enskilda personer och förklarar &lt;strong&gt;utförligt &lt;/strong&gt;deras betydelse för olika skeenden. Eleven ger &lt;strong&gt;enkla&lt;/strong&gt; exempel på, och förklarar &lt;strong&gt;utförligt&lt;/strong&gt;, samband mellan skeenden i det förflutna och förhållanden i nutiden. Dessutom kan eleven dra några &lt;strong&gt;välgrundade&lt;/strong&gt; slutsatser om vad skeenden i det förflutna och förhållanden i nutiden kan ha för betydelse för framtiden.&lt;/p&gt;&lt;p&gt;Eleven kan &lt;strong&gt;med viss säkerhet &lt;/strong&gt;använda historiska begrepp och &lt;strong&gt;olika &lt;/strong&gt;teorier för att formulera, utreda, förklara och dra slutsatser om historiska frågeställningar utifrån olika perspektiv.&lt;/p&gt;&lt;p&gt;Eleven kan &lt;strong&gt;med viss säkerhet&lt;/strong&gt; söka, granska och tolka källmaterial för att besvara frågor om historiska skeenden samt gör &lt;strong&gt;välgrundade &lt;/strong&gt;reflektioner över materialets relevans. I värderingen utgår eleven från källkritiska metoder och av eleven påvisade tolkningsmöjligheter. Dessutom motiverar eleven &lt;strong&gt;utförligt&lt;/strong&gt; sitt val av såväl metoder som tolkningar.&lt;/p&gt;&lt;p&gt;Eleven kan &lt;strong&gt;utförligt&lt;/strong&gt; redogöra för några historiska skeenden och händelser som har använts på olika sätt samt &lt;strong&gt;utförligt&lt;/strong&gt; förklara varför de har använts olika. Dessutom ger eleven några exempel på olika sätt att använda historia och värderar med &lt;strong&gt;enkla&lt;/strong&gt; omdömen deras betydelse för nutida skeenden och händelser.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven kan &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; redogöra för förändringsprocesser, händelser och personer under olika tidsperioder samt för olika tolkningar av dem. &lt;strong&gt;Eleven jämför de olika tolkningarna, förordar en av dem och motiverar med nyanserade omdömen sitt val&lt;/strong&gt;. Dessutom kan eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; redogöra för förloppen av förändringsprocesserna och händelserna samt deras orsaker och konsekvenser. Eleven ger exempel på några enskilda personer och förklarar &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; deras betydelse för olika skeenden. Eleven ger &lt;strong&gt;komplexa&lt;/strong&gt; exempel på, och förklarar &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt;, samband mellan skeenden i det förflutna och förhållanden i nutiden samt argumenterar för och emot olika sätt att se på dessa samband. Dessutom kan eleven dra några &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; slutsatser om vad skeenden i det förflutna och förhållanden i nutiden kan ha för betydelse för framtiden.&lt;/p&gt;&lt;p&gt;Eleven kan &lt;strong&gt;med säkerhet&lt;/strong&gt; använda historiska begrepp och &lt;strong&gt;olika&lt;/strong&gt; teorier för att formulera, utreda, förklara och dra slutsatser om historiska frågeställningar utifrån olika perspektiv.&lt;/p&gt;&lt;p&gt;Eleven kan &lt;strong&gt;med säkerhet&lt;/strong&gt; söka, granska och tolka källmaterial för att besvara frågor om historiska skeenden samt göra &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; reflektioner över materialets relevans. I värderingen utgår eleven från källkritiska metoder och av eleven påvisade tolkningsmöjligheter. Dessutom motiverar eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; sitt val av såväl metoder som tolkningar.&lt;/p&gt;&lt;p&gt;Eleven kan &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; redogöra för några historiska skeenden och händelser som har använts på olika sätt samt &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; förklara varför de har använts olika. Dessutom ger eleven några exempel på olika sätt att använda historia och värderar med &lt;strong&gt;nyanserade&lt;/strong&gt; omdömen deras betydelse för nutida skeenden och händelser.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>6</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

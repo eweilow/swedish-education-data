@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Medicinsk teknik</name>
+  <englishName>Medical technology</englishName>
+  <description
+  >&lt;p&gt;Inom området medicinsk teknik används teknik och naturvetenskap för att ta fram nya behandlingar och diagnostik för sjukvården. Där integreras fysik, matematik och biovetenskap med tekniskt kunnande för att utveckla material, produkter, hjälpmedel, system och informationsmetoder. Ämnet medicinsk teknik behandlar hjälpmedel och utrustning som används för att ställa diagnos på sjukdom, behandla sjukdom och rehabilitera. Det behandlar också hur människa och maskin samverkar.&lt;/p&gt;</description>
+  <code>MEI</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2010-11-11T09:29:22+01:00</createdDate>
+  <modifiedDate>2020-02-19T15:58:28+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Medicinsk teknik&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet medicinsk teknik ska syfta till att eleverna utvecklar förmåga att installera, driftsätta, underhålla och reparera medicinteknisk utrustning. Den ska också ge eleverna möjlighet att utveckla kunskaper om hur medicinsk teknik har utvecklats och utvecklas i växelverkan med det omgivande samhället. Eleverna ska ges möjlighet att utveckla kunskaper om hur föreställningar och traditioner styr uppfattningar om manligt och kvinnligt i förhållande till teknikområdet. Dessutom ska eleverna ges möjlighet att utveckla förståelse av vilka olika förutsättningar människor har att använda medicinsk teknik.&lt;/p&gt;&lt;p&gt;Undervisningen ska bidra till att eleverna utvecklar kunskaper om samspelet mellan maskin och människa. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om medicintekniska begrepp samt kunskaper i att kommunicera om medicinsk teknik.&lt;/p&gt;&lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla medicintekniska kunskaper genom att arbeta med mätningar, observationer, experiment, tekniska beräkningar, matematiska modelleringar samt risk- och rimlighetsbedömningar.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet medicinsk teknik ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om uppbyggnad och funktion hos system, apparater och komponenter samt om hur de används inom sjukvården.&lt;/li&gt; &lt;li&gt;Förmåga att installera, driftsätta och underhålla medicinteknisk utrustning.&lt;/li&gt; &lt;li&gt;Förmåga att läsa och tolka ritningar, tekniska instruktioner och andra dokument inom teknikområdet.&lt;/li&gt; &lt;li&gt;Färdigheter i att utföra mätningar, felsökningar och reparationer av medicinteknisk utrustning samt förmåga att dokumentera sitt arbete.&lt;/li&gt; &lt;li&gt;Kunskaper om risker vid användning av medicinteknisk utrustning samt om normer och säkerhetsbestämmelser.&lt;/li&gt; &lt;li&gt;Förmåga att förebygga skador på person, egendom och miljö.&lt;/li&gt; &lt;li&gt;Förmåga att kommunicera med användare.&lt;/li&gt; &lt;li&gt;Kunskaper om medicintekniska begrepp inom området.&lt;/li&gt; &lt;li&gt;Förmåga att utvärdera sitt arbete och resultat.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Elektromedicinsk teknik, 100 poäng. &lt;/li&gt; &lt;li&gt;Gas- och vätsketeknik, 100 poäng. &lt;/li&gt; &lt;li&gt;Radiologiska utrustningar, 100 poäng. &lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2010:133</skolfsId>
+  <applianceDate>2011-07-01T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Elektromedicinsk teknik</name>
+    <englishName>Electromedical technology</englishName>
+    <description
+    >&lt;p&gt;Kursen elektromedicinsk teknik omfattar punkterna 1–9 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>MEIELE0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Elektromedicinsk teknik, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MEIELE0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Fysiologisk och neurofysiologisk utrustning för diagnostik och övervakning, datorstyrda utrustningar samt laserteknik och laserutrustningar.&lt;/li&gt; &lt;li&gt;Medicintekniska produkters användningsområden inom elektromedicin.&lt;/li&gt; &lt;li&gt;Fysikaliska samband och elektriska tillämpningar.&lt;/li&gt; &lt;li&gt;Elektromedicinsk historia samt introduktion i aktuella utvecklingsområden inom medicinsk teknik.&lt;/li&gt; &lt;li&gt;Grundläggande teknikfilosofi, till exempel etiska värderingar och genusstrukturer, samt hur den har påverkat och påverkar den elektromedicinska tekniken, dess användning och tillgänglighet.&lt;/li&gt; &lt;li&gt;Installation och driftsättning, service, reparation och förebyggande underhåll av elektromedicinsk utrustning.&lt;/li&gt; &lt;li&gt;Ritningar, tekniska instruktioner, kopplingsscheman och servicemanualer.&lt;/li&gt; &lt;li&gt;Mätteknik, schemaläsning och systematisk felsökning samt funktions- och säkerhetskontroller.&lt;/li&gt; &lt;li&gt;Säkerhetsbestämmelser, funktionskrav och rutiner.&lt;/li&gt; &lt;li&gt;Dokumentation av utförda åtgärder och administrativa rutiner.&lt;/li&gt; &lt;li&gt;Kommunikation med olika kategorier av sjukvårdspersonal.&lt;/li&gt; &lt;li&gt;Informationsteknik inom området med avseende på funktion, arbetssätt, patientsäkerhet och hantering av känslig information.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;uppbyggnad och funktion hos elektromedicinsk utrustning samt hur den används inom sjukvården.&lt;/p&gt;&lt;p&gt;Eleven installerar och driftsätter &lt;strong&gt;i samråd&lt;/strong&gt; med handledare elektromedicinsk utrustning. I arbetet läser och tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; ritningar, tekniska instruktioner och andra dokument. Eleven utför också &lt;strong&gt;med viss säkerhet&lt;/strong&gt; funktions- och säkerhetskontroll, underhåll och enkla servicearbeten på elektromedicinsk utrustning samt gör en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utförda arbeten. I arbetet utför eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;mätningar och tekniska beräkningar samt gör en &lt;strong&gt;enkel &lt;/strong&gt;bedömning av resultatets rimlighet.&lt;/p&gt;&lt;p&gt;Eleven hanterar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; utrustningar, mätinstrument och verktyg samt följer normer och säkerhetsbestämmelser. Dessutom diskuterar eleven &lt;strong&gt;översiktligt &lt;/strong&gt;risker vid användningen av elektromedicinsk utrustning samt hur man kan förebygga skador på person, egendom och miljö.&lt;/p&gt;&lt;p&gt;Eleven anpassar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; sin kommunikation till användaren och använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; elektromedicinska begrepp för att presentera sitt arbete. Dessutom använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;datorn som verktyg för kommunikation, dokumentation och information inom området.&lt;/p&gt;&lt;p&gt;Eleven utvärderar med &lt;strong&gt;enkla &lt;/strong&gt;omdömen sin tekniska lösning utifrån kvalitet, säkerhet och miljö.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;uppbyggnad och funktion hos elektromedicinsk utrustning samt hur den används inom sjukvården.&lt;/p&gt;&lt;p&gt;Eleven installerar och driftsätter &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare elektromedicinsk utrustning. I arbetet läser och tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; ritningar, tekniska instruktioner och andra dokument. Eleven utför också &lt;strong&gt;med viss säkerhet&lt;/strong&gt; funktions- och säkerhetskontroll, underhåll och enkla servicearbeten på elektromedicinsk utrustning samt gör en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utförda arbeten. I arbetet utför eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;mätningar och tekniska beräkningar samt gör en &lt;strong&gt;välgrundad &lt;/strong&gt;bedömning av resultatets rimlighet.&lt;/p&gt;&lt;p&gt;Eleven hanterar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; utrustningar, mätinstrument och verktyg samt följer normer och säkerhetsbestämmelser. Dessutom diskuterar eleven &lt;strong&gt;utförligt &lt;/strong&gt;risker vid användningen av elektromedicinsk utrustning samt hur man kan förebygga skador på person, egendom och miljö.&lt;/p&gt;&lt;p&gt;Eleven anpassar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; sin kommunikation till användaren och använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; elektromedicinska begrepp för att presentera sitt arbete. Dessutom använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;datorn som verktyg för kommunikation, dokumentation och information inom området.&lt;/p&gt;&lt;p&gt;Eleven utvärderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sin tekniska lösning utifrån kvalitet, säkerhet och miljö.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;uppbyggnad och funktion hos elektromedicinsk utrustning samt hur den används inom sjukvården.&lt;/p&gt;&lt;p&gt;Eleven installerar och driftsätter &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare elektromedicinsk utrustning. I arbetet läser och tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; ritningar, tekniska instruktioner och andra dokument. Eleven utför också &lt;strong&gt;med säkerhet&lt;/strong&gt; funktions- och säkerhetskontroll, underhåll och enkla servicearbeten på elektromedicinsk utrustning samt gör en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utförda arbeten. I arbetet utför eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;mätningar och tekniska beräkningar samt gör en &lt;strong&gt;välgrundad och nyanserad &lt;/strong&gt;bedömning av resultatets rimlighet.&lt;/p&gt;&lt;p&gt;Eleven hanterar &lt;strong&gt;med säkerhet&lt;/strong&gt; utrustningar, mätinstrument och verktyg samt följer normer och säkerhetsbestämmelser. Dessutom diskuterar eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;risker vid användningen av elektromedicinsk utrustning samt hur man kan förebygga skador på person, egendom och miljö.&lt;/p&gt;&lt;p&gt;Eleven anpassar &lt;strong&gt;med säkerhet&lt;/strong&gt; sin kommunikation till användaren och använder &lt;strong&gt;med säkerhet&lt;/strong&gt; elektromedicinska begrepp för att presentera sitt arbete. Dessutom använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;datorn som verktyg för kommunikation, dokumentation och information inom området.&lt;/p&gt;&lt;p&gt;Eleven utvärderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sin tekniska lösning utifrån kvalitet, säkerhet och miljö &lt;strong&gt;samt ger förslag på hur den tekniska lösningen kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Gas- och vätsketeknik</name>
+    <englishName>Gas and liquid technology</englishName>
+    <description
+    >&lt;p&gt;Kursen gas- och vätsketeknik omfattar punkterna 1–9 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>MEIGAS0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Gas- och vätsketeknik, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MEIGAS0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Gasmedicinska utrustningar för diagnostik, övervakning och behandling.&lt;/li&gt; &lt;li&gt;Vätskefysikaliska behandlings- och infusionsutrustningar.&lt;/li&gt; &lt;li&gt;Hur gas- och vätskefysikaliska medicinska utrustningar används inom sjukvården.&lt;/li&gt; &lt;li&gt;Grundläggande teknikfilosofi, till exempel etiska värderingar och genusstrukturer, samt hur den har påverkat och påverkar tekniken, dess användning och tillgänglighet.&lt;/li&gt; &lt;li&gt;Installation, drift och underhållsarbete samt funktions- och säkerhetskontroll av gas- och vätskefysikaliska medicinska utrustningar.&lt;/li&gt; &lt;li&gt;Konstruktion och uppbyggnad av gas- och vätskefysikalisk medicinsk utrustning samt gas- och vätskefysikaliska samband och tillämpningar.&lt;/li&gt; &lt;li&gt;Mätmetoder och mätinstrument samt systematisk felsökning i gas- och vätskefysikalisk medicinsk utrustning.&lt;/li&gt; &lt;li&gt;Säkerhetsbestämmelser, funktionskrav och rutiner vid användning, reparation samt underhåll av gas- och vätskefysikalisk medicinsk utrustning.&lt;/li&gt; &lt;li&gt;Reparationsteknik med säkerhet i fokus samt hur dokumentation av utförda åtgärder och administrativa rutiner genomförs.&lt;/li&gt; &lt;li&gt;Kommunikation med olika kategorier av sjukvårdspersonal.&lt;/li&gt; &lt;li&gt;Informationsteknik inom området med avseende på funktion, arbetssätt, patientsäkerhet och hantering av känslig information.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;uppbyggnad och funktion hos gas- och vätskefysikalisk utrustning samt hur den används inom sjukvården.&lt;/p&gt;&lt;p&gt;Eleven installerar och driftsätter &lt;strong&gt;i samråd&lt;/strong&gt; med handledare gas- och vätskefysikalisk utrustning. I arbetet läser och tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; ritningar, tekniska instruktioner och andra dokument. Eleven utför också &lt;strong&gt;med viss säkerhet&lt;/strong&gt; funktions- och säkerhetskontroll, underhåll och enkla servicearbeten på gas- och vätskefysikalisk utrustning samt gör en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utförda arbeten. I arbetet utför eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;mätningar och tekniska beräkningar samt gör en &lt;strong&gt;enkel &lt;/strong&gt;bedömning av resultatets rimlighet.&lt;/p&gt;&lt;p&gt;Eleven hanterar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; utrustningar, mätinstrument och verktyg samt följer normer och säkerhetsbestämmelser. Dessutom diskuterar eleven &lt;strong&gt;översiktligt &lt;/strong&gt;risker vid användningen av gas- och vätskefysikalisk utrustning samt hur man kan förebygga skador på person, egendom och miljö.&lt;/p&gt;&lt;p&gt;Eleven anpassar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; sin kommunikation till användaren och använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; gas- och vätskefysikaliska begrepp för att presentera sitt arbete. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; datorn som verktyg för kommunikation, dokumentation och information inom området.&lt;/p&gt;&lt;p&gt;Eleven utvärderar med &lt;strong&gt;enkla &lt;/strong&gt;omdömen sin tekniska lösning utifrån kvalitet, säkerhet och miljö.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;uppbyggnad och funktion hos gas- och vätskefysikalisk utrustning samt hur den används inom sjukvården.&lt;/p&gt;&lt;p&gt;Eleven installerar och driftsätter &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare gas- och vätskefysikalisk utrustning. I arbetet läser och tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; ritningar, tekniska instruktioner och andra dokument. Eleven utför också &lt;strong&gt;med viss säkerhet&lt;/strong&gt; funktions- och säkerhetskontroll, underhåll och enkla servicearbeten på gas- och vätskefysikalisk utrustning samt gör en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utförda arbeten. I arbetet utför eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;mätningar och tekniska beräkningar samt gör en &lt;strong&gt;välgrundad &lt;/strong&gt;bedömning av resultatets rimlighet.&lt;/p&gt;&lt;p&gt;Eleven hanterar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; utrustningar, mätinstrument och verktyg samt följer normer och säkerhetsbestämmelser. Dessutom diskuterar eleven &lt;strong&gt;utförligt &lt;/strong&gt;risker vid användningen av gas- och vätskefysikalisk utrustning samt hur man kan förebygga skador på person, egendom och miljö.&lt;/p&gt;&lt;p&gt;Eleven anpassar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; sin kommunikation till användaren och använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; gas- och vätskefysikaliska begrepp för att presentera sitt arbete. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; datorn som verktyg för kommunikation, dokumentation och information inom området.&lt;/p&gt;&lt;p&gt;Eleven utvärderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sin tekniska lösning utifrån kvalitet, säkerhet och miljö.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;uppbyggnad och funktion hos gas- och vätskefysikalisk utrustning samt hur den används inom sjukvården.&lt;/p&gt;&lt;p&gt;Eleven installerar och driftsätter &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare gas- och vätskefysikalisk utrustning. I arbetet läser och tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; ritningar, tekniska instruktioner och andra dokument. Eleven utför också &lt;strong&gt;med säkerhet&lt;/strong&gt; funktions- och säkerhetskontroll, underhåll och enkla servicearbeten på gas- och vätskefysikalisk utrustning samt gör en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utförda arbeten. I arbetet utför eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;mätningar och tekniska beräkningar samt gör en &lt;strong&gt;välgrundad och nyanserad &lt;/strong&gt;bedömning av resultatets rimlighet.&lt;/p&gt;&lt;p&gt;Eleven hanterar &lt;strong&gt;med säkerhet&lt;/strong&gt; utrustningar, mätinstrument och verktyg samt följer normer och säkerhetsbestämmelser. Dessutom diskuterar eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;risker vid användningen av gas- och vätskefysikalisk utrustning samt hur man kan förebygga skador på person, egendom och miljö.&lt;/p&gt;&lt;p&gt;Eleven anpassar &lt;strong&gt;med säkerhet&lt;/strong&gt; sin kommunikation till användaren och använder &lt;strong&gt;med säkerhet&lt;/strong&gt; gas- och vätskefysikaliska begrepp för att presentera sitt arbete. Dessutom använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;datorn som verktyg för kommunikation, dokumentation och information inom området.&lt;/p&gt;&lt;p&gt;Eleven utvärderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sin tekniska lösning utifrån kvalitet, säkerhet och miljö &lt;strong&gt;samt ger förslag på hur den tekniska lösningen kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Radiologiska utrustningar</name>
+    <englishName>Radiological equipment</englishName>
+    <description
+    >&lt;p&gt;Kursen radiologiska utrustningar omfattar punkterna 1–9 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>MEIRAD0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Radiologiska utrustningar, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MEIRAD0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Röntgenutrustningar, datorstyrd skiktröntgen, nukleärmedicin och strålningsterapiutrustningar samt radiologiska utrustningars användning inom sjukvården.&lt;/li&gt; &lt;li&gt;Röntgenrörets och röntgengeneratorns funktion och arbetssätt.&lt;/li&gt; &lt;li&gt;Grundprinciperna för MR-kamerautrustningars funktion och arbetssätt.&lt;/li&gt; &lt;li&gt;Grundprinciperna för bildgenerering och kvalitetskrav inom det fototekniska området.&lt;/li&gt; &lt;li&gt;Videosystemets användning inom medicinsk teknik.&lt;/li&gt; &lt;li&gt;Röntgenutrustningars användningsområde och funktion.&lt;/li&gt; &lt;li&gt;Grundläggande teknikfilosofi, till exempel etiska värderingar och genusstrukturer, samt hur den har påverkat och påverkar radiologin, dess användning och tillgänglighet.&lt;/li&gt; &lt;li&gt;Installation, drift, reparation och underhåll av radiologiska utrustningar.&lt;/li&gt; &lt;li&gt;Mätmetoder, mätinstrument och mätövningar.&lt;/li&gt; &lt;li&gt;Säkerhetsbestämmelser, funktionskrav och rutiner samt strål- och personskydd vid arbete med röntgenutrustningar och radioaktiva ämnen.&lt;/li&gt; &lt;li&gt;Funktions- och säkerhetskontroller, dokumentation av utförda åtgärder och administrativa rutiner.&lt;/li&gt; &lt;li&gt;Miljökrav och handhavande av avfallsprodukter.&lt;/li&gt; &lt;li&gt;Kommunikation med olika kategorier av sjukvårdspersonal.&lt;/li&gt; &lt;li&gt;Informationsteknik inom området med avseende på funktion, arbetssätt, patientsäkerhet och hantering av känslig information.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;uppbyggnad och funktion hos radiologiska utrustningar samt hur de används inom sjukvården. Eleven installerar och driftsätter &lt;strong&gt;i samråd&lt;/strong&gt; med handledare radiologiska utrustningar. I arbetet läser och tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; ritningar, tekniska instruktioner och andra dokument. Eleven utför också &lt;strong&gt;med viss säkerhet&lt;/strong&gt; funktions- och säkerhetskontroll, underhåll och enkla servicearbeten på radiologiska utrustningar samt gör en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utförda arbeten. I arbetet utför eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; mätningar och tekniska beräkningar samt gör en &lt;strong&gt;enkel &lt;/strong&gt;bedömning av resultatets rimlighet.&lt;/p&gt;&lt;p&gt;Eleven hanterar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; utrustningar, mätinstrument och verktyg samt följer normer och säkerhetsbestämmelser. Dessutom diskuterar eleven &lt;strong&gt;översiktligt &lt;/strong&gt;risker vid användningen av radiologiska utrustningar samt hur man kan förebygga skador på person, egendom och miljö.&lt;/p&gt;&lt;p&gt;Eleven anpassar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; sin kommunikation till användaren och använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; radiologiska begrepp för att presentera sitt arbete. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; datorn som verktyg för kommunikation, dokumentation och information inom området.&lt;/p&gt;&lt;p&gt;Eleven utvärderar med &lt;strong&gt;enkla &lt;/strong&gt;omdömen sin tekniska lösning utifrån kvalitet, säkerhet och miljö.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;uppbyggnad och funktion hos radiologiska utrustningar samt hur de används inom sjukvården.&lt;/p&gt;&lt;p&gt;Eleven installerar och driftsätter &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare radiologiska utrustningar. I arbetet läser och tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; ritningar, tekniska instruktioner och andra dokument. Eleven utför också &lt;strong&gt;med viss säkerhet&lt;/strong&gt; funktions- och säkerhetskontroll, underhåll och enkla servicearbeten på radiologiska utrustningar samt gör en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utförda arbeten. I arbetet utför eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;mätningar och tekniska beräkningar samt gör en &lt;strong&gt;välgrundad &lt;/strong&gt;bedömning av resultatets rimlighet.&lt;/p&gt;&lt;p&gt;Eleven hanterar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; utrustningar, mätinstrument och verktyg samt följer normer och säkerhetsbestämmelser. Dessutom diskuterar eleven &lt;strong&gt;utförligt &lt;/strong&gt;risker vid användningen av radiologiska utrustningar samt hur man kan förebygga skador på person, egendom och miljö.&lt;/p&gt;&lt;p&gt;Eleven anpassar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; sin kommunikation till användaren och använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; radiologiska begrepp för att presentera sitt arbete. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; datorn som verktyg för kommunikation, dokumentation och information inom området.&lt;/p&gt;&lt;p&gt;Eleven utvärderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sin tekniska lösning utifrån kvalitet, säkerhet och miljö.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;uppbyggnad och funktion hos radiologiska utrustningar samt hur de används inom sjukvården.&lt;/p&gt;&lt;p&gt;Eleven installerar och driftsätter &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare radiologiska utrustningar. I arbetet läser och tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; ritningar, tekniska instruktioner och andra dokument. Eleven utför också &lt;strong&gt;med säkerhet&lt;/strong&gt; funktions- och säkerhetskontroll, underhåll och enkla servicearbeten på radiologiska utrustningar samt gör en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utförda arbeten. I arbetet utför eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;mätningar och tekniska beräkningar samt gör en &lt;strong&gt;välgrundad och nyanserad &lt;/strong&gt;bedömning av resultatets rimlighet.&lt;/p&gt;&lt;p&gt;Eleven hanterar &lt;strong&gt;med säkerhet&lt;/strong&gt; utrustningar, mätinstrument och verktyg samt följer normer och säkerhetsbestämmelser. Dessutom diskuterar eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;risker vid användningen av radiologiska utrustningar samt hur man kan förebygga skador på person, egendom och miljö.&lt;/p&gt;&lt;p&gt;Eleven anpassar &lt;strong&gt;med säkerhet&lt;/strong&gt; sin kommunikation till användaren och använder &lt;strong&gt;med säkerhet&lt;/strong&gt; radiologiska begrepp för att presentera sitt arbete. Dessutom använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; datorn som verktyg för kommunikation, dokumentation och information inom området.&lt;/p&gt;&lt;p&gt;Eleven utvärderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sin tekniska lösning utifrån kvalitet, säkerhet och miljö &lt;strong&gt;samt ger förslag på hur den tekniska lösningen kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

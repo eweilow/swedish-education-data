@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Sjöfartssäkerhet</name>
+  <englishName>Maritime safety</englishName>
+  <description
+  >&lt;p&gt;Ämnet sjöfartssäkerhet behandlar den teknik och de metoder som används på fartyg för att förhindra och hantera nödsituationer ombord. Ämnet behandlar även arbetsmiljö och skydd av den marina miljön. &lt;/p&gt;</description>
+  <code>SJO</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2011-10-11T18:21:00+02:00</createdDate>
+  <modifiedDate>2020-02-19T16:01:14+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Sjöfartssäkerhet&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet sjöfartssäkerhet ska syfta till att eleverna utvecklar förmåga att utföra säkerhets-, arbetsmiljö- och miljöskyddsarbete på fartyg. Den ska bidra till att eleverna utvecklar kunskaper om rederiers och fartygs säkerhetsorganisation. Dessa kunskaper är enligt nationella och internationella regler nödvändiga för tjänstgöring ombord på fartyg.&lt;/p&gt;&lt;p&gt;Genom praktiska övningar och ett undersökande arbetssätt tillsammans med teoretiska förklaringar ska eleverna ges möjlighet att utveckla kunskaper i ämnet. Med hjälp av tekniska och naturvetenskapliga begrepp och teorier analyseras och förklaras risker och nödsituationer. I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Dessa arbetsuppgifter ska utgå från ett problemlösande arbetssätt. &lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet sjöfartssäkerhet ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om lagar och andra bestämmelser som reglerar området.&lt;/li&gt; &lt;li&gt;Kunskaper om säkerhets- och miljöskyddsorganisationen i rederier och på fartyg.&lt;/li&gt; &lt;li&gt;Förståelse av arbetsmiljön och arbetsmiljöarbetet ombord på fartyg i handelsflottan.&lt;/li&gt; &lt;li&gt;Kunskaper om konstruktioner och teknisk utrustning för säkerhet och miljöskydd på fartyg.&lt;/li&gt; &lt;li&gt;Färdigheter i att använda nödutrustning och utföra nödåtgärder ombord på fartyg samt ge första hjälpen vid olycksfall.&lt;/li&gt; &lt;li&gt;Förmåga att utföra säkerhets-, arbetsmiljö- och miljöskyddsarbete på fartyg.&lt;/li&gt; &lt;li&gt;Förmåga att kommunicera och använda de termer och begrepp som används inom området.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Grundläggande säkerhet, 100 poäng.&lt;/li&gt; &lt;li&gt;Säkerhet och miljö, 200 poäng, som bygger på kursen grundläggande säkerhet.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2011:135</skolfsId>
+  <applianceDate>2011-09-14T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Grundläggande säkerhet</name>
+    <englishName>Basic safety</englishName>
+    <description
+    >&lt;p&gt;Kursen grundläggande säkerhet omfattar punkterna 1–7 under rubriken Ämnets syfte, med särskild betoning på punkt 5. I kursen behandlas grundläggande kunskaper i ämnet. &lt;/p&gt;</description>
+    <code>SJOGRN0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Grundläggande säkerhet, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: SJOGRN0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;p&gt;&lt;i&gt; &lt;i&gt;Undervisningen i kursen ska behandla följande centrala innehåll&lt;/i&gt;: &lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Överlevnadsteknik&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt; &lt;li&gt;Nödsituationer till sjöss.&lt;/li&gt; &lt;li&gt;Livräddningsutrustning ombord på fartyg.&lt;/li&gt; &lt;li&gt;Livbåts- och livflotteutrustning.&lt;/li&gt; &lt;li&gt;Personlig livräddningsutrustning.&lt;/li&gt; &lt;li&gt;Överlevnadsmetoder.&lt;/li&gt; &lt;li&gt;Handhavande av radioutrustning, pyrotekniska signaler, emergency position indicating radio beacon (EPIRB) och search and rescue transponder (SART).&lt;/li&gt; &lt;/ul&gt;&lt;p&gt; &lt;strong&gt;Brandskydd&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt; &lt;li&gt;Grundläggande brandteori.&lt;/li&gt; &lt;li&gt;Brandskyddsorganisationen ombord på fartyg.&lt;/li&gt; &lt;li&gt;Brandskyddsutrustning, brand- och rökdetektorer samt automatiska brandlarm.&lt;/li&gt; &lt;li&gt;Brandskyddsåtgärder på fartyg.&lt;/li&gt; &lt;li&gt;Släckmedel och släckmetoder samt rökdykning. &lt;/li&gt; &lt;/ul&gt;&lt;p&gt; &lt;strong&gt;Första hjälpen&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt; &lt;li&gt;Kroppens uppbyggnad och funktioner.&lt;/li&gt; &lt;li&gt;Lägesbedömning av olycksplats och skadade.&lt;/li&gt; &lt;li&gt;Omedelbara åtgärder vid olycksfall, ABC-vård och HLR.&lt;/li&gt; &lt;/ul&gt;&lt;p&gt; &lt;strong&gt;Nödåtgärder&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt; &lt;li&gt;Nödrutiner ombord på fartyg.&lt;/li&gt; &lt;li&gt;Nödsignaler, larmlistor, samlingsstationer och nödutgångar.&lt;/li&gt; &lt;li&gt;Åtgärder vid nödsituationer och larm.&lt;/li&gt; &lt;li&gt;Interna kommunikations- och alarmsystem.&lt;/li&gt; &lt;li&gt;Värdet av utbildning och övningar.&lt;/li&gt; &lt;/ul&gt;&lt;p&gt; &lt;strong&gt;Skydd av den marina miljön&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt; &lt;li&gt;Sjöfartens påverkan på den marina miljön.&lt;/li&gt; &lt;li&gt;Miljöskyddsåtgärder på fartyg.&lt;/li&gt; &lt;li&gt;Hantering av farligt gods.&lt;/li&gt; &lt;/ul&gt;&lt;p&gt; &lt;strong&gt;Personlig säkerhet&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt; &lt;li&gt;Säkra arbetsprocedurer samt säkerhetsinstruktioner.&lt;/li&gt; &lt;li&gt;Säkerhets- och skyddsutrustning.&lt;/li&gt; &lt;li&gt;Skyddsåtgärder vid ingång i slutna utrymmen. &lt;/li&gt; &lt;/ul&gt;&lt;p&gt; &lt;strong&gt;Relationer på arbetsplatsen&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt; &lt;li&gt;Förutsättningar för och hinder mot god kommunikation mellan individer och grupper inom besättningen.&lt;/li&gt; &lt;li&gt;Relationernas betydelse på arbetsplatsen.&lt;/li&gt; &lt;li&gt;Grundläggande principer för samarbete och konfliktlösning.&lt;/li&gt; &lt;li&gt;Anställningsvillkor, sjömäns rättigheter och skyldigheter, riskerna med alkohol- och drogmissbruk. &lt;/li&gt; &lt;/ul&gt;&lt;p&gt; &lt;strong&gt;Åtgärder mot uttröttning&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt; &lt;li&gt;Nödvändigheten av vila samt effekterna av sömnbrist och störd dygnsrytm.&lt;/li&gt; &lt;li&gt;Arbetsscheman och effekterna av förändringar i dem.&lt;/li&gt; &lt;li&gt;Effekterna av fysisk och psykisk stress. &lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; lagar och andra bestämmelser som styr säkerhet, miljöskydd och arbetsmiljö. Dessutom beskriver eleven &lt;strong&gt;översiktligt &lt;/strong&gt;rederiets och fartygets säkerhets- och miljöskyddsorganisation samt de säkerhets- och miljöskyddsuppgifter som utförs på handelsfartyg. Vidare beskriver eleven &lt;strong&gt;översiktligt &lt;/strong&gt;fartygets tekniska utrustning för säkerhet och miljöskydd. Eleven diskuterar &lt;strong&gt;översiktligt &lt;/strong&gt;risker med drogmissbruk och uttröttning samt gör &lt;strong&gt;enkla&lt;/strong&gt; riskbedömningar.&lt;/p&gt;&lt;p&gt;Eleven utför&lt;strong&gt; i samråd &lt;/strong&gt;med handledare arbetsuppgifter i samband med säkerhets-, miljöskydds- och arbetsmiljöarbetet på fartyg. I arbetet använder eleven &lt;strong&gt;i enkla situationer&lt;/strong&gt; den utrustning och de verktyg som är lämpliga för arbetsuppgiften. Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven genomför &lt;strong&gt;med viss säkerhet&lt;/strong&gt; sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner. I arbetet samarbetar och kommunicerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra för att utföra olika uppgifter. I kommunikationen använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;termer och begrepp som är relevanta för området.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; lagar och andra bestämmelser som styr säkerhet, miljöskydd och arbetsmiljö. Dessutom beskriver eleven &lt;strong&gt;utförligt &lt;/strong&gt;rederiets och fartygets säkerhets- och miljöskyddsorganisation samt de säkerhets- och miljöskyddsuppgifter som utförs på handelsfartyg. Vidare beskriver eleven &lt;strong&gt;utförligt &lt;/strong&gt;fartygets tekniska utrustning för säkerhet och miljöskydd. Eleven diskuterar &lt;strong&gt;utförligt &lt;/strong&gt;risker med drogmissbruk och uttröttning samt gör riskbedömningar.&lt;/p&gt;&lt;p&gt;Eleven utför&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare arbetsuppgifter i samband med säkerhets-, miljöskydds- och arbetsmiljöarbetet på fartyg. I arbetet använder eleven den utrustning och de verktyg som är lämpliga för arbetsuppgiften. Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven genomför &lt;strong&gt;med viss säkerhet&lt;/strong&gt; sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner. I arbetet samarbetar och kommunicerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra för att utföra olika uppgifter. I kommunikationen använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;termer och begrepp som är relevanta för området.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;lagar och andra bestämmelser som styr säkerhet, miljöskydd och arbetsmiljö. Dessutom beskriver eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;rederiets och fartygets säkerhets- och miljöskyddsorganisation samt de säkerhets- och miljöskyddsuppgifter som utförs på handelsfartyg. Vidare beskriver eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;fartygets tekniska utrustning för säkerhet och miljöskydd. Eleven diskuterar &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;risker med drogmissbruk och uttröttning samt gör &lt;strong&gt;välgrundade &lt;/strong&gt;riskbedömningar.&lt;/p&gt;&lt;p&gt;Eleven utför&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare arbetsuppgifter i samband med säkerhets-, miljöskydds- och arbetsmiljöarbetet på fartyg. I arbetet använder eleven &lt;strong&gt;i komplexa situationer&lt;/strong&gt; den utrustning och de verktyg som är lämpliga för arbetsuppgiften. Resultatet av elevens arbete är &lt;strong&gt;gott&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven genomför &lt;strong&gt;med säkerhet&lt;/strong&gt; sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner. I arbetet samarbetar och kommunicerar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;med andra för att utföra olika uppgifter. I kommunikationen använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;termer och begrepp som är relevanta för området.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Säkerhet och miljö</name>
+    <englishName>Safety and environment</englishName>
+    <description
+    >&lt;p&gt;Kursen säkerhet och miljö omfattar punkterna 1–7 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet. &lt;/p&gt;</description>
+    <code>SJOSAE0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Säkerhet och miljö, 200 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: SJOSAE0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;p&gt;&lt;i&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Säkerhets- och miljöskyddsorganisation &lt;/strong&gt; &lt;/p&gt;&lt;ul&gt; &lt;li&gt;Rederiers och fartygs säkerhets- och miljöskyddsorganisation.&lt;/li&gt; &lt;li&gt;Systematiskt säkerhetsarbete på fartyg.&lt;/li&gt; &lt;/ul&gt;&lt;p&gt; &lt;strong&gt;Personlig säkerhet&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt; &lt;li&gt;Elektriska, mekaniska, kemiska och biologiska risker.&lt;/li&gt; &lt;li&gt;Fartygs säkerhetsinstruktioner.&lt;/li&gt; &lt;li&gt;Tillverkares säkerhetsinstruktioner.&lt;/li&gt; &lt;li&gt;Tillstånd och checklistor för farliga arbeten.&lt;/li&gt; &lt;li&gt;Personlig skyddsutrustning.&lt;/li&gt; &lt;li&gt;Arbete på hög höjd och på fartygets utsida.&lt;/li&gt; &lt;li&gt;Arbete i slutna utrymmen.&lt;/li&gt; &lt;li&gt;Ergonomi, till exempel vid lyft. &lt;/li&gt; &lt;/ul&gt;&lt;p&gt; &lt;strong&gt;Miljöskyddsarbete på fartyg&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt; &lt;li&gt;Åtgärder för att förebygga förorening av den marina miljön.&lt;/li&gt; &lt;li&gt;Utrustning för att förhindra förorening.&lt;/li&gt; &lt;li&gt;Metoder för avfallshantering på fartyg. &lt;/li&gt; &lt;/ul&gt;&lt;p&gt; &lt;strong&gt;Räddningsfarkoster och beredskapsbåtar&lt;/strong&gt; &lt;/p&gt;&lt;ul&gt; &lt;li&gt;Handhavande av räddningsfarkoster och beredskapsbåtar under och efter sjösättning.&lt;/li&gt; &lt;li&gt;Drift och skötsel av räddningsfarkosters motorer.&lt;/li&gt; &lt;li&gt;Omhändertagande av överlevande.&lt;/li&gt; &lt;li&gt;Handhavande av lokaliseringsutrustning, radioutrustning och pyrotekniska signaler.&lt;/li&gt; &lt;li&gt;Handhavande av räddningsfarkoster efter övergivande av fartyget.&lt;/li&gt; &lt;li&gt;VHF-telefoni. &lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>200</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; lagar och andra bestämmelser som styr säkerhet, miljöskydd och arbetsmiljö. Dessutom beskriver eleven &lt;strong&gt;översiktligt &lt;/strong&gt;rederiets och fartygets säkerhets- och miljöskyddsorganisation samt de säkerhets- och miljöskyddsuppgifter som utförs på handelsfartyg. Vidare beskriver eleven &lt;strong&gt;översiktligt &lt;/strong&gt;fartygets tekniska utrustning för säkerhet och miljöskydd. Eleven diskuterar &lt;strong&gt;översiktligt &lt;/strong&gt;risker samt gör &lt;strong&gt;enkla&lt;/strong&gt; riskbedömningar.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsuppgifter i samband med säkerhets-, miljöskydds- och arbetsmiljöarbetet på fartyg. I arbetet väljer och använder eleven &lt;strong&gt;i enkla situationer&lt;/strong&gt; den utrustning och de verktyg som är lämpliga för arbetsuppgiften. Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven genomför &lt;strong&gt;med viss säkerhet &lt;/strong&gt;sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner samt tar ansvar för materiella värden samt för egen och andras säkerhet ombord. I arbetet kommunicerar och samarbetar eleven&lt;strong&gt; med viss säkerhet &lt;/strong&gt;med andra för att utföra olika uppgifter. I kommunikationen använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;termer och begrepp som är relevanta för området.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; lagar och andra bestämmelser som styr säkerhet, miljöskydd och arbetsmiljö. Dessutom beskriver eleven &lt;strong&gt;utförligt &lt;/strong&gt;rederiets och fartygets säkerhets- och miljöskyddsorganisation samt de säkerhets- och miljöskyddsuppgifter som utförs på handelsfartyg. Vidare beskriver eleven &lt;strong&gt;utförligt &lt;/strong&gt;fartygets tekniska utrustning för säkerhet och miljöskydd. Eleven diskuterar &lt;strong&gt;utförligt &lt;/strong&gt;risker samt gör riskbedömningar.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsuppgifter i samband med säkerhets-, miljöskydds- och arbetsmiljöarbetet på fartyg. I arbetet väljer och använder eleven den utrustning och de verktyg som är lämpliga för arbetsuppgiften. Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven genomför &lt;strong&gt;med viss säkerhet &lt;/strong&gt;sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner samt tar ansvar för materiella värden samt för egen och andras säkerhet ombord. I arbetet kommunicerar och samarbetar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra för att utföra olika uppgifter. I kommunikationen använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;termer och begrepp som är relevanta för området.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;lagar och andra bestämmelser som styr säkerhet, miljöskydd och arbetsmiljö. Dessutom beskriver eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;rederiets och fartygets säkerhets- och miljöskyddsorganisation samt de säkerhets- och miljöskyddsuppgifter som utförs på handelsfartyg. Vidare beskriver eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;fartygets tekniska utrustning för säkerhet och miljöskydd. Eleven diskuterar &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;risker samt gör &lt;strong&gt;välgrundade&lt;/strong&gt; riskbedömningar.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsuppgifter i samband med säkerhets-, miljöskydds- och arbetsmiljöarbetet på fartyg. I arbetet väljer och använder eleven &lt;strong&gt;i komplexa situationer&lt;/strong&gt; den utrustning och de verktyg som är lämpliga för arbetsuppgiften. Resultatet av elevens arbete är &lt;strong&gt;gott&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven genomför &lt;strong&gt;med säkerhet &lt;/strong&gt;sina arbetsuppgifter enligt fastställda rutiner och givna instruktioner samt tar ansvar för materiella värden samt för egen och andras säkerhet ombord. I arbetet kommunicerar och samarbetar eleven&lt;strong&gt; med säkerhet &lt;/strong&gt;med andra för att utföra olika uppgifter. I kommunikationen använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;termer och begrepp som är relevanta för området.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

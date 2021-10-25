@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<program xmlns="http://syllabus2011program.types.skolverket.se/v4_0">
+  <name>Vård- och omsorgsprogrammet</name>
+  <code>VO001</code>
+  <codeExternal>VO</codeExternal>
+  <skolfsId>2010:48</skolfsId>
+  <applianceDate>2021-07-01T00:00:00+02:00</applianceDate>
+  <version>9</version>
+  <status>PUBLISHED</status>
+  <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+  <typeOfProgram>VOCATIONAL_PROGRAM</typeOfProgram>
+  <commonMandatory>
+    <subject>
+      <optional>false</optional>
+      <name>Engelska</name>
+      <code>ENG</code>
+      <point>100</point>
+      <course>
+        <name>Engelska 5</name>
+        <code>ENGENG05</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Historia</name>
+      <code>HIS</code>
+      <point>50</point>
+      <course>
+        <name>Historia 1a1</name>
+        <code>HISHIS01a1</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Idrott och hälsa</name>
+      <code>IDR</code>
+      <point>100</point>
+      <course>
+        <name>Idrott och hälsa 1</name>
+        <code>IDRIDR01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Matematik</name>
+      <code>MAT</code>
+      <point>100</point>
+      <course>
+        <name>Matematik 1a</name>
+        <code>MATMAT01a</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Naturkunskap</name>
+      <code>NAK</code>
+      <point>50</point>
+      <course>
+        <name>Naturkunskap 1a1</name>
+        <code>NAKNAK01a1</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Religionskunskap</name>
+      <code>REL</code>
+      <point>50</point>
+      <course>
+        <name>Religionskunskap 1</name>
+        <code>RELREL01</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Samhällskunskap</name>
+      <code>SAM</code>
+      <point>50</point>
+      <course>
+        <name>Samhällskunskap 1a1</name>
+        <code>SAMSAM01a1</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska</name>
+      <code>SVE</code>
+      <point>100</point>
+      <course>
+        <name>Svenska 1</name>
+        <code>SVESVE01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska som andraspråk</name>
+      <code>SVA</code>
+      <point>100</point>
+      <course>
+        <name>Svenska som andraspråk 1</name>
+        <code>SVASVA01</code>
+        <point>100</point>
+      </course>
+    </subject>
+  </commonMandatory>
+  <commonProgram>
+    <subject>
+      <optional>false</optional>
+      <name>Anatomi och fysiologi</name>
+      <code>ANO</code>
+      <point>50</point>
+      <course>
+        <name>Anatomi och fysiologi 1</name>
+        <code>ANOANA01</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Anatomi och fysiologi 2</name>
+        <code>ANOANA02</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Funktionsförmåga och funktionsnedsättning</name>
+      <code>FUT</code>
+      <point>100</point>
+      <course>
+        <name>Funktionsförmåga och funktionsnedsättning 1</name>
+        <code>FUTFUN01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Funktionsförmåga och funktionsnedsättning 2</name>
+        <code>FUTFUN02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Gerontologi och geriatrik</name>
+      <code>GER</code>
+      <point>100</point>
+      <course>
+        <name>Gerontologi och geriatrik</name>
+        <code>GERGER0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Hälso- och sjukvård</name>
+      <code>HAO</code>
+      <point>100</point>
+      <course>
+        <name>Hälso- och sjukvård 1</name>
+        <code>HAOHAL01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Hälso- och sjukvård 2</name>
+        <code>HAOHAL02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Omvårdnad</name>
+      <code>OMV</code>
+      <point>100</point>
+      <course>
+        <name>Omvårdnad 1</name>
+        <code>OMVOMV01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Omvårdnad 2</name>
+        <code>OMVOMV02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Psykiatri</name>
+      <code>PSY</code>
+      <point>100</point>
+      <course>
+        <name>Psykiatri 1</name>
+        <code>PSYPSY01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Psykiatri 2</name>
+        <code>PSYPSY02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Psykologi</name>
+      <code>PSK</code>
+      <point>50</point>
+      <course>
+        <name>Psykologi 1</name>
+        <code>PSKPSY01</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Samhällskunskap</name>
+      <code>SAM</code>
+      <point>50</point>
+      <course>
+        <name>Samhällskunskap 1a2</name>
+        <code>SAMSAM01a2</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Social omsorg</name>
+      <code>SOA</code>
+      <point>100</point>
+      <course>
+        <name>Social omsorg 1</name>
+        <code>SOASOC01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Social omsorg 2</name>
+        <code>SOASOC02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska</name>
+      <code>SVE</code>
+      <point>100</point>
+      <course>
+        <name>Svenska 2</name>
+        <code>SVESVE02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska som andraspråk</name>
+      <code>SVA</code>
+      <point>100</point>
+      <course>
+        <name>Svenska som andraspråk 2</name>
+        <code>SVASVA02</code>
+        <point>100</point>
+      </course>
+    </subject>
+  </commonProgram>
+  <programOrientations />
+  <profiles />
+  <specialization>
+    <subject>
+      <optional>false</optional>
+      <name />
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Barn- och ungdomsvård</name>
+      <code>BAO</code>
+      <point>100</point>
+      <course>
+        <name>Barn- och ungdomshälsa</name>
+        <code>BAOBAR0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Barn- och ungdomssjukvård</name>
+        <code>BAOBAN0</code>
+        <point>200</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Engelska</name>
+      <code>ENG</code>
+      <point>100</point>
+      <course>
+        <name>Engelska 6</name>
+        <code>ENGENG06</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Entreprenörskap</name>
+      <code>ENT</code>
+      <point>100</point>
+      <course>
+        <name>Entreprenörskap</name>
+        <code>ENTENR0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Hälsa</name>
+      <code>HAL</code>
+      <point>100</point>
+      <course>
+        <name>Ergonomi</name>
+        <code>HALERG0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Kost och hälsa</name>
+        <code>HALKOC0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Mental träning</name>
+        <code>HALMEN0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Hälso- och sjukvård</name>
+      <code>HAO</code>
+      <point>100</point>
+      <course>
+        <name>Räddningsmedicin</name>
+        <code>HAORAD0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Hälsovård</name>
+      <code>HAA</code>
+      <point>100</point>
+      <course>
+        <name>Friskvård och hälsa</name>
+        <code>HAAFRI0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Komplementärmedicin</name>
+        <code>HAAKOM0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Kost, måltid och munhälsa</name>
+        <code>HAAKOS0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Ledarskap och organisation</name>
+      <code>LED</code>
+      <point>100</point>
+      <course>
+        <name>Ledarskap och organisation</name>
+        <code>LEDLED0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Matematik</name>
+      <code>MAT</code>
+      <point>100</point>
+      <course>
+        <name>Matematik 2a</name>
+        <code>MATMAT02a</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Människan</name>
+      <code>MÄN</code>
+      <point>100</point>
+      <course>
+        <name>Etik och människans livsvillkor</name>
+        <code>MÄNETI0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Internationellt arbete</name>
+        <code>MÄNINA0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Människans säkerhet</name>
+      <code>MÄS</code>
+      <point>100</point>
+      <course>
+        <name>Människans säkerhet</name>
+        <code>MÄSMÄN0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Pedagogik i vård och omsorg</name>
+      <code>PEA</code>
+      <point>100</point>
+      <course>
+        <name>Vårdpedagogik och handledning</name>
+        <code>PEAVÅD0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Programmering</name>
+      <code>PRR</code>
+      <point>100</point>
+      <course>
+        <name>Programmering 1</name>
+        <code>PRRPRR01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Psykologi</name>
+      <code>PSK</code>
+      <point>50</point>
+      <course>
+        <name>Psykologi 2b</name>
+        <code>PSKPSY02b</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Rättspsykiatri</name>
+      <code>RAT</code>
+      <point>100</point>
+      <course>
+        <name>Rättspsykiatri</name>
+        <code>RATRAT0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Social omsorg</name>
+      <code>SOA</code>
+      <point>100</point>
+      <course>
+        <name>Socialpedagogik</name>
+        <code>SOASOC0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Socialt arbete</name>
+      <code>SOC</code>
+      <point>100</point>
+      <course>
+        <name>Socialt arbete 1</name>
+        <code>SOCSOC01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Socialt arbete 2</name>
+        <code>SOCSOC02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska</name>
+      <code>SVE</code>
+      <point>100</point>
+      <course>
+        <name>Svenska 3</name>
+        <code>SVESVE03</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska som andraspråk</name>
+      <code>SVA</code>
+      <point>100</point>
+      <course>
+        <name>Svenska som andraspråk 3</name>
+        <code>SVASVA03</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Tillämpad programmering</name>
+      <code>TIA</code>
+      <point>100</point>
+      <course>
+        <name>Tillämpad programmering</name>
+        <code>TIATIL00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Vård och omsorg specialisering</name>
+      <code>VAD</code>
+      <point>100</point>
+      <course>
+        <name>Vård och omsorg – specialisering</name>
+        <code>VADVAR00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+  </specialization>
+  <individualChoice />
+  <projectAssignment />
+  <professionalDegrees />
+  <category>VOCATIONAL_PROGRAM</category>
+  <modifiedDate>2021-06-14T00:00:00+02:00</modifiedDate>
+  <createdDate>2019-05-29T15:19:57+02:00</createdDate>
+  <typeOfStudyPath>PROGRAM</typeOfStudyPath>
+</program>

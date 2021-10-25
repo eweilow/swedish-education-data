@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Fastighetsautomation</name>
+  <englishName>Property automation</englishName>
+  <description
+  >&lt;p&gt;Ämnet fastighetsautomation behandlar underhåll, mätning, styrning och reglering av klimat- och belysningsanläggningar i fastigheter.&lt;/p&gt;</description>
+  <code>FAI</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2014-10-16T09:45:23+02:00</createdDate>
+  <modifiedDate>2020-02-19T15:51:19+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Fastighetsautomation&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet fastighetsautomation ska syfta till att eleverna utvecklar kunskaper i att planera och utföra arbete på automatiserade system i fastigheter med hjälp av systemdokumentation, till exempel ritningar och manualer. Undervisningen ska även leda till att eleverna utvecklar förståelse av hur informationsteknik kan användas vid arbete med automatiserade system. Dessutom ska eleverna ges möjlighet att utveckla förmåga att hantera verktyg och utrustning inom valt område.&lt;/p&gt;&lt;p&gt;Undervisningen ska bidra till att eleverna utvecklar förståelse av säkerhet, standarder och begrepp samt färdigheter i att tillämpa dessa. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att förebygga och avhjälpa fel i automatiserade system i fastigheter. Dessutom ska undervisningen ge eleverna möjlighet att utveckla teoretisk förståelse av begrepp, teorier och metoder.&lt;/p&gt;&lt;p&gt;Genom både praktiskt och teoretiskt arbete med uppgifter ska eleverna ges möjlighet att öva sig i att arbeta enligt yrkespraxis.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet fastighetsautomation ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om uppbyggnad av, funktion och principer för samt de risker som finns vid arbete med automatiserade system i fastigheter.&lt;/li&gt; &lt;li&gt;Kunskaper om standarder och begrepp som används vid arbete med automatiserade system i fastigheter.&lt;/li&gt; &lt;li&gt;Förmåga att planera och på ett säkert sätt utföra arbete i automatiserade system i fastigheter.&lt;/li&gt; &lt;li&gt;Förmåga att läsa och framställa scheman, ritningar och annan dokumentation över automatiserade system i fastigheter.&lt;/li&gt; &lt;li&gt;Förmåga att installera, programmera och driftsätta automatiserade system i fastigheter.&lt;/li&gt; &lt;li&gt;Färdigheter i att använda informationsteknik som stöd vid byggnation, drift och underhåll av automatiserade system i fastigheter.&lt;/li&gt; &lt;li&gt;Förmåga att förebygga och avhjälpa fel i automatiserade system i fastigheter.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Fastighetsautomation 1, 100 poäng.&lt;/li&gt; &lt;li&gt;Fastighetsautomation 2, 100 poäng, som bygger på kursen fastighetsautomation 1 eller kursen mät- och reglerteknik.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2014:58</skolfsId>
+  <applianceDate>2014-10-03T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Fastighetsautomation 1</name>
+    <englishName>Property automation 1</englishName>
+    <description
+    >&lt;p&gt;Kursen fastighetsautomation 1 omfattar punkterna 1–7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>FAIFAS01</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Fastighetsautomation 1, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: FAIFAS01&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Grundläggande systemfunktioner, tekniska begrepp, beteckningar, symboler och enheter inom området värme och ventilation, till exempel luftbehandling, värmeväxlare, panna, varmvattenberedare, spjällmotor, radiatorslinga, tidkanal, fjärrvärme, varmvattencirkulation, shuntventil, expansionskärl, säkerhetsventil, närvarostyrning, koldioxidstyrning, datorhuvudcentral och datorundercentral.&lt;/li&gt; &lt;li&gt;Grundläggande systemfunktioner, tekniska begrepp, beteckningar, symboler och enheter inom området fastighetsstyrning, till exempel konstantljusreglering, kopplingsur, tidkanal, närvarostyrning, skymningsrelä, ljusrelä och ljussensor.&lt;/li&gt; &lt;li&gt;Vanligt förekommande informationstekniska standarder inom fastighetsautomation.&lt;/li&gt; &lt;li&gt;Vanligt förekommande automationsenheter och drifttekniskt övergripande system inom fastighetsautomation.&lt;/li&gt; &lt;li&gt;Vanligt förekommande systemlösningar för olika funktioner inom fastighetsautomation samt hur de kan integreras och samverka.&lt;/li&gt; &lt;li&gt;Utveckling och framtid inom fastighetsautomation.&lt;/li&gt; &lt;li&gt;Planering, installation, konfigurering, programmering och driftsättning av vanligt förekommande automatiseringar långt ut i fastigheter, till exempel belysning eller solavskärmning.&lt;/li&gt; &lt;li&gt;Behörigheter och sociala aspekter vid arbete i fastigheter, till exempel vilka arbeten som kräver vilken behörighet samt tolkning av kundkrav och översättning av dessa till en teknisk lösning.&lt;/li&gt; &lt;li&gt;Metoder för att mäta ljusstyrka och vindstyrka samt funktioner hos regnsensorer.&lt;/li&gt; &lt;li&gt;Vanligt förekommande spänningar och standardiserade analoga signaler i fastigheter.&lt;/li&gt; &lt;li&gt;Risker och säkerhet vid arbeten i fastigheter, till exempel brandrisker och risken att lösa ut brandlarm eller inbrottslarm.&lt;/li&gt; &lt;li&gt;Tolkning av kravspecifikationer och dokumentation.&lt;/li&gt; &lt;li&gt;Dokumentation av arbeten i fastigheter.&lt;/li&gt; &lt;li&gt;Förebyggande och avhjälpande underhåll inom fastighetsautomation.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom fastighetsautomation. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för begrepp och standarder som styr arbetet med automatiserade system i fastigheter.&lt;/p&gt;&lt;p&gt;Eleven planerar och utför&lt;strong&gt; i samråd &lt;/strong&gt;med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller fastställda kvalitets- och miljökrav. Eleven arbetar på ett sätt som är säkert för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;manualer, scheman och ritningar. Vidare driftsätter och kontrollerar eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare anläggningen, upptäcker och åtgärdar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare de fel som uppstår samt genomför en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av sitt arbete. Eleven strukturerar uppgiften &lt;strong&gt;med viss säkerhet&lt;/strong&gt; och programmerar eller konfigurerar med&lt;strong&gt; visst &lt;/strong&gt;handlag styrsystemet för anläggningens funktioner utifrån användarens funktionsbeskrivning. Vidare förebygger eleven&lt;strong&gt; i samråd &lt;/strong&gt;med handledare fel och optimerar med&lt;strong&gt; visst &lt;/strong&gt;handlag anläggningen. I arbetet beskriver eleven &lt;strong&gt;översiktligt &lt;/strong&gt;hur de olika delarna fungerar och samverkar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom fastighetsautomation. Dessutom redogör eleven&lt;strong&gt; utförligt&lt;/strong&gt; för begrepp och standarder som styr arbetet med automatiserade system i fastigheter.&lt;/p&gt;&lt;p&gt;Eleven planerar och utför&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller fastställda kvalitets- och miljökrav. Eleven arbetar på ett sätt som är säkert för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;manualer, scheman och ritningar. Vidare driftsätter och kontrollerar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare anläggningen, upptäcker och åtgärdar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare de fel som uppstår samt genomför en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av sitt arbete. Eleven strukturerar uppgiften &lt;strong&gt;med viss säkerhet &lt;/strong&gt;och programmerar eller konfigurerar med&lt;strong&gt; gott &lt;/strong&gt;handlag styrsystemet för anläggningens funktioner utifrån användarens funktionsbeskrivning. Vidare förebygger eleven&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare fel och optimerar med &lt;strong&gt;gott &lt;/strong&gt;handlag anläggningen. I arbetet beskriver eleven &lt;strong&gt;utförligt &lt;/strong&gt;hur de olika delarna fungerar och samverkar &lt;strong&gt;samt ger enkla förslag på förbättringar av anläggningen&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom fastighetsautomation. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för begrepp och standarder som styr arbetet med automatiserade system i fastigheter.&lt;/p&gt;&lt;p&gt;Eleven planerar och utför&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett &lt;strong&gt;gott &lt;/strong&gt;sätt uppfyller fastställda kvalitets- och miljökrav. Eleven arbetar på ett sätt som är säkert för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;manualer, scheman och ritningar. Vidare driftsätter och kontrollerar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare anläggningen, upptäcker och åtgärdar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare de fel som uppstår samt genomför en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av sitt arbete. Eleven strukturerar uppgiften &lt;strong&gt;med säkerhet &lt;/strong&gt;och programmerar eller konfigurerar med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag styrsystemet för anläggningens funktioner. Vidare förebygger eleven&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare fel och optimerar med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag anläggningen utifrån användarens funktionsbeskrivning. I arbetet beskriver eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;hur de olika delarna fungerar och samverkar &lt;strong&gt;samt ger välgrundade förslag på förbättringar av anläggningen&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Fastighetsautomation 2</name>
+    <englishName>Property automation 2</englishName>
+    <description
+    >&lt;p&gt;Kursen fastighetsautomation omfattar punkterna 1–7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>FAIFAS02</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Fastighetsautomation 2, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: FAIFAS02&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Uppbyggnad och funktion av värme- och ventilationssystem.&lt;/li&gt; &lt;li&gt;Grundläggande luftbehandling utifrån sambandet mellan temperatur, tryck, fuktinnehåll och daggpunkt.&lt;/li&gt; &lt;li&gt;Teorier och metoder för kylteknik.&lt;/li&gt; &lt;li&gt;Utveckling och framtid inom fastighetsautomation.&lt;/li&gt; &lt;li&gt;Vanligt förekommande informationstekniska standarder inom fastighetsautomation.&lt;/li&gt; &lt;li&gt;Planering, inkoppling, programmering och dokumentation av styrtekniska funktioner med automationsenheter som är vanligt förekommande i fastigheter, till exempel reläer, kontaktorer, frekvensomformare, ur, skymningsreläer eller fastighetsanpassade programmerbara styrsystem.&lt;/li&gt; &lt;li&gt;Inkoppling av vanligt förekommande automationsenheter för värme och ventilation, till exempel temperaturgivare, transmitter, spjällmotor, shuntventil och DUC (dataundercentral).&lt;/li&gt; &lt;li&gt;Metoder för klimatreglering i fastigheter med begrepp som framkoppling, prognosstyrning, multivariabel reglering, fuktreglering, oskarp logik (&lt;i&gt;fuzzy logic)&lt;/i&gt;, nattsänkning, nattkyla och kaskadreglering.&lt;/li&gt; &lt;li&gt;Metoder att mäta temperatur, tryck, fuktighet, ljusstyrka, koldioxidhalt, vindhastighet, flöde och energi.&lt;/li&gt; &lt;li&gt;Risker och säkerhet vid arbeten i fastigheter, till exempel brandrisker och risker att lösa ut brandlarm eller inbrottslarm.&lt;/li&gt; &lt;li&gt;Tolkning av förekommande kravspecifikationer och dokumentation.&lt;/li&gt; &lt;li&gt;Dokumentation av arbete i fastigheter.&lt;/li&gt; &lt;li&gt;Drifttekniskt övergripande system i fastigheter.&lt;/li&gt; &lt;li&gt;Konfigurering, driftsättning, driftlarmhantering och underhåll av värme- och ventilationssystem.&lt;/li&gt; &lt;li&gt;Energioptimering av fastigheter med värmeväxlare, värmepumpar, koldioxidstyrning samt närvarostyrning av ventilation och belysning.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom fastighetsautomation. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för begrepp och standarder som styr arbetet med automatiserade system i fastigheter.&lt;/p&gt;&lt;p&gt;Eleven planerar och utför&lt;strong&gt; i samråd &lt;/strong&gt;med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller fastställda kvalitets- och miljökrav. Eleven arbetar på ett sätt som är säkert för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;manualer, scheman och ritningar. Vidare driftsätter och kontrollerar eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare anläggningen, upptäcker och åtgärdar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare de fel som uppstår samt genomför en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av sitt arbete. Eleven strukturerar uppgiften &lt;strong&gt;med viss säkerhet&lt;/strong&gt; och programmerar eller konfigurerar med&lt;strong&gt; visst &lt;/strong&gt;handlag styrsystemet för anläggningens funktioner. Vidare förebygger eleven&lt;strong&gt; i samråd &lt;/strong&gt;med handledare fel och optimerar med&lt;strong&gt; visst &lt;/strong&gt;handlag anläggningen. I arbetet beskriver eleven &lt;strong&gt;översiktligt &lt;/strong&gt;hur de olika delarna fungerar och samverkar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom fastighetsautomation. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för begrepp och standarder som styr arbetet med automatiserade system i fastigheter.&lt;/p&gt;&lt;p&gt;Eleven planerar och utför&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller fastställda kvalitets- och miljökrav. Eleven arbetar på ett sätt som är säkert för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;manualer, scheman och ritningar. Vidare driftsätter och kontrollerar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare anläggningen, upptäcker och åtgärdar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare de fel som uppstår samt genomför en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av sitt arbete. Eleven strukturerar uppgiften &lt;strong&gt;med viss säkerhet&lt;/strong&gt; och programmerar eller konfigurerar med&lt;strong&gt; gott &lt;/strong&gt;handlag styrsystemet för anläggningens funktioner. Vidare förebygger eleven&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare fel och optimerar med &lt;strong&gt;gott &lt;/strong&gt;handlag anläggningen. I arbetet beskriver eleven &lt;strong&gt;utförligt &lt;/strong&gt;hur de olika delarna fungerar och samverkar&lt;strong&gt; samt ger enkla förslag på förbättringar av anläggningen&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom fastighetsautomation. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för begrepp och standarder som styr arbetet med automatiserade system i fastigheter.&lt;/p&gt;&lt;p&gt;Eleven planerar och utför&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett &lt;strong&gt;gott &lt;/strong&gt;sätt uppfyller fastställda kvalitets- och miljökrav. Eleven arbetar på ett sätt som är säkert för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;manualer, scheman och ritningar. Vidare driftsätter och kontrollerar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare anläggningen, upptäcker och åtgärdar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare de fel som uppstår samt genomför en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av sitt arbete. Eleven strukturerar uppgiften &lt;strong&gt;med säkerhet&lt;/strong&gt; och programmerar eller konfigurerar med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag styrsystemet för anläggningens funktioner. Vidare förebygger eleven&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare fel och optimerar med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag anläggningen. I arbetet beskriver eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;hur de olika delarna fungerar och samverkar &lt;strong&gt;samt ger välgrundade förslag på förbättringar av anläggningen&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

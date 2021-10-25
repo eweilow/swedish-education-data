@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Elektroniksystem – installation och underhåll</name>
+  <englishName>Electronic systems – installation and maintenance</englishName>
+  <description
+  >&lt;p&gt;Ämnet elektroniksystem – installation och underhåll behandlar felsökning och reparation i olika typer av elektroniksystem och apparater. Elektroniksystem och apparater innehåller normalt flera olika funktioner och komponenter, vilket kräver ett systematiskt arbetssätt för att lokalisera fel och felfunktioner.&lt;/p&gt;</description>
+  <code>ELO</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2014-10-16T10:03:35+02:00</createdDate>
+  <modifiedDate>2020-02-19T15:51:04+01:00</modifiedDate>
+  <nameHeading
+  >&lt;h2&gt;Elektroniksystem – installation och underhåll&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet elektroniksystem – installation och underhåll ska syfta till att eleverna utvecklar förmåga att utföra support och service på ett systematiskt och effektivt sätt i elektronikapparater och elektroniksystem. Genom undervisningen ska eleverna ges möjlighet att utveckla färdigheter i att installera, programmera och driftsätta elektronikapparater och elektroniksystem. Undervisningen ska även leda till att eleverna utvecklar förmåga att läsa och tolka kopplingsscheman och servicemanualer på svenska och engelska. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om mätteknik samt färdigheter i att använda mätinstrument för olika mätuppgifter.&lt;/p&gt;&lt;p&gt;Genom laborationer, ett undersökande arbetssätt och praktiska övningar ska eleverna ges möjlighet att utveckla kunskaper i problemlösning som krävs för support och service på elektroniksystem.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet elektroniksystem – installation och underhåll ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om funktion, konstruktion och uppbyggnad hos elektronikapparater och system.&lt;/li&gt; &lt;li&gt;Kunskaper om lagar och andra bestämmelser samt om standarder och begrepp inom området.&lt;/li&gt; &lt;li&gt;Färdigheter i att planera, organisera, utföra och dokumentera reparationsarbete.&lt;/li&gt; &lt;li&gt;Färdigheter i att utföra support och service av elektronikapparater och elektroniksystem.&lt;/li&gt; &lt;li&gt;Färdigheter i att installera, programmera och driftsätta elektronikapparater och elektroniksystem.&lt;/li&gt; &lt;li&gt;Förmåga att läsa och tolka kopplingsscheman och servicemanualer på svenska och engelska.&lt;/li&gt; &lt;li&gt;Färdigheter i att använda mätinstrument för olika mätuppgifter.&lt;/li&gt; &lt;li&gt;Färdigheter i att instruera användare i hur de handhar apparater och system.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Bild- och ljudanläggningar, 100 poäng, som bygger på kursen elektronik och mikrodatorteknik.&lt;/li&gt; &lt;li&gt;Kontorstekniksystem, 100 poäng, som bygger på kursen elektronik och mikrodatorteknik.&lt;/li&gt; &lt;li&gt;Trådlösa radiosystem, 100 poäng, som bygger på kursen elektronik och mikrodatorteknik.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2014:62</skolfsId>
+  <applianceDate>2014-10-03T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Bild- och ljudanläggningar</name>
+    <englishName>Video and audio systems</englishName>
+    <description
+    >&lt;p&gt;Kursen bild- och ljudanläggningar omfattar punkterna 1–8 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>ELOBID0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Bild- och ljudanläggningar, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: ELOBID0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Funktion och arbetssätt hos apparater och system som är vanliga i anläggningar för video- och bildhantering för hemmabruk, i samlingslokaler och i konferensanläggningar.&lt;/li&gt; &lt;li&gt;Funktion och arbetssätt hos apparater och system som är vanliga i ljudanläggningar för hemmabruk, i samlingslokaler och i konferensanläggningar.&lt;/li&gt; &lt;li&gt;Krav på egenskaper hos ljudförstärkare för olika ändamål.&lt;/li&gt; &lt;li&gt;Egenskaper och arbetssätt hos högtalare och högtalarsystem.&lt;/li&gt; &lt;li&gt;Prestandabehov hos förstärkare och högtalare i olika ljudmiljöer.&lt;/li&gt; &lt;li&gt;Akustikens inverkan vid ljudåtergivning.&lt;/li&gt; &lt;li&gt;Bestämmelser och riktlinjer för en bra ljudmiljö som förebygger skador.&lt;/li&gt; &lt;li&gt;Konsumenttjänstlagens tillämpning vid support och servicearbete.&lt;/li&gt; &lt;li&gt;Support och service på apparater och system som ingår i bild- och ljudanläggningar.&lt;/li&gt; &lt;li&gt;Installation, programmering och driftsättning samt sammankoppling av apparater för bild- och ljudanläggningar.&lt;/li&gt; &lt;li&gt;Installation och konfiguration av bildskärmar och projektorer.&lt;/li&gt; &lt;li&gt;Montering av kablar och kontakter.&lt;/li&gt; &lt;li&gt;Metoder för systematisk felsökning och reparation.&lt;/li&gt; &lt;li&gt;Metoder för digitalisering av bild- och ljudsignaler.&lt;/li&gt; &lt;li&gt;Elektronikscheman, servicemanualer och bruksanvisningar på svenska och engelska.&lt;/li&gt; &lt;li&gt;Mätinstrument och verktyg. Användningsområden och handhavande.&lt;/li&gt; &lt;li&gt;Metoder för dokumentation av utfört arbete.&lt;/li&gt; &lt;li&gt;Instruktion till användare i handhavande av apparater och system.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör&lt;strong&gt; översiktligt&lt;/strong&gt; för funktion, konstruktion och uppbyggnad av apparater och system för bild- och ljudanläggningar. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för lagar och andra bestämmelser samt standarder och begrepp inom området.&lt;/p&gt;&lt;p&gt;Eleven planerar, organiserar och utför systematiskt och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare support och service av bild- och ljudanläggningar med ett resultat som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller kvalitetskraven. Under arbetet väljer eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; mätinstrument, verktyg och arbetsmetoder samt hanterar instrument och verktyg med&lt;strong&gt; visst &lt;/strong&gt;handlag och på ett sätt som är säkert för eleven själv och andra. Eleven motiverar &lt;strong&gt;översiktligt&lt;/strong&gt; sina val med hänsyn till hälsa, miljö och säkerhet. Under arbetet upptäcker eleven problem som uppstår och löser dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. I arbetet använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; apparaternas kopplingsscheman och manualer. I arbetet samverkar och kommunicerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra samt använder ett &lt;strong&gt;enkelt&lt;/strong&gt; fackspråk som är anpassat till situationen.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utfört arbete. Eleven utvärderar sitt arbete med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven ger &lt;strong&gt;med viss säkerhet &lt;/strong&gt;tydliga instruktioner till användare av apparater och system.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för funktion, konstruktion och uppbyggnad av apparater och system för bild- och ljudanläggningar. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för lagar och andra bestämmelser samt standarder och begrepp inom området.&lt;/p&gt;&lt;p&gt;Eleven planerar, organiserar och utför systematiskt och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare support och service av bild- och ljudanläggningar med ett resultat som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller kvalitetskraven. Under arbetet väljer eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; mätinstrument, verktyg och arbetsmetoder samt hanterar instrument och verktyg med&lt;strong&gt; gott &lt;/strong&gt;handlag och på ett sätt som är säkert för eleven själv och andra. Eleven motiverar &lt;strong&gt;utförligt&lt;/strong&gt; sina val med hänsyn till hälsa, miljö och säkerhet. Under arbetet upptäcker eleven problem som uppstår och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. I arbetet använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; apparaternas kopplingsscheman och manualer. I arbetet samverkar och kommunicerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra samt använder ett fackspråk som är anpassat till situationen.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utfört arbete. Eleven utvärderar sitt arbete med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven ger &lt;strong&gt;med viss säkerhet &lt;/strong&gt;tydliga instruktioner till användare av apparater och system.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör&lt;strong&gt; utförligt och nyanserat&lt;/strong&gt; för funktion, konstruktion och uppbyggnad av apparater och system för bild- och ljudanläggningar. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för lagar och andra bestämmelser samt standarder och begrepp inom området.&lt;/p&gt;&lt;p&gt;Eleven planerar, organiserar och utför systematiskt och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare support och service av bild- och ljudanläggningar med ett resultat som på ett &lt;strong&gt;gott &lt;/strong&gt;sätt uppfyller kvalitetskraven. Under arbetet väljer eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; mätinstrument, verktyg och arbetsmetoder samt hanterar instrument och verktyg med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och på ett sätt som är säkert för eleven själv och andra. Eleven motiverar &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; sina val med hänsyn till hälsa, miljö och säkerhet. Under arbetet upptäcker eleven problem som uppstår och löser dem &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare. I arbetet använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; apparaternas kopplingsscheman och manualer. I arbetet samverkar och kommunicerar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;med andra samt använder ett &lt;strong&gt;nyanserat &lt;/strong&gt;fackspråk som är anpassat till situationen.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utfört arbete. Eleven utvärderar sitt arbete med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven ger &lt;strong&gt;med säkerhet &lt;/strong&gt;tydliga instruktioner till användare av apparater och system.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Kontorstekniksystem</name>
+    <englishName>Office technology systems</englishName>
+    <description
+    >&lt;p&gt;Kursen kontorstekniksystem omfattar punkterna 1–8 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>ELOKOT0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Kontorstekniksystem, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: ELOKOT0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Funktion och arbetssätt hos vanligt förekommande kontorstekniksystem.&lt;/li&gt; &lt;li&gt;Principer för kopiering i svartvitt och färg med analoga och digitala metoder.&lt;/li&gt; &lt;li&gt;Uppbyggnad och arbetssätt hos laser och termotryckverk.&lt;/li&gt; &lt;li&gt;Lagar och andra bestämmelser. Standarder och begrepp, till exempel konsumenttjänstlagens tillämpning vid support och service samt prisinformationslagen.&lt;/li&gt; &lt;li&gt;Support och service på kontorssystem, till exempel kopiatorer och skrivare.&lt;/li&gt; &lt;li&gt;Metoder för systematisk felsökning och reparation.&lt;/li&gt; &lt;li&gt;Elektronikscheman och bruksanvisningar på svenska och engelska.&lt;/li&gt; &lt;li&gt;Installation, programmering, driftsättning och nätverksanslutning av kontorsutrustningar.&lt;/li&gt; &lt;li&gt;Nätverksteknik och nätverksapplikationer för kontorstekniksystem.&lt;/li&gt; &lt;li&gt;Systematiskt underhållsarbete på kopiatorer.&lt;/li&gt; &lt;li&gt;Mätteknik och mätinstrument samt tekniska servicehjälpmedel.&lt;/li&gt; &lt;li&gt;Underhållsplanering och dokumentation av arbetet.&lt;/li&gt; &lt;li&gt;Instruktion till användare i handhavande av kontorsutrustningar.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för funktion, konstruktion och uppbyggnad av kontorssystem och apparater. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för lagar och andra bestämmelser samt standarder och begrepp inom området.&lt;/p&gt;&lt;p&gt;Eleven planerar, organiserar och utför systematiskt och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare underhåll på kontorsteknikutrustning, med ett resultat som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller kvalitetskraven. Under arbetet väljer eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; mätinstrument, verktyg och arbetsmetoder samt hanterar instrument och verktyg med &lt;strong&gt;visst &lt;/strong&gt;handlag och på ett sätt som är säkert för eleven själv och andra. Eleven motiverar &lt;strong&gt;översiktligt&lt;/strong&gt; sina val med hänsyn till hälsa, miljö och säkerhet. Under arbetet upptäcker eleven problem som uppstår och löser dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. I arbetet använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; apparaternas kopplingsscheman och manualer. I arbetet samverkar och kommunicerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra samt använder ett &lt;strong&gt;enkelt&lt;/strong&gt; fackspråk som är anpassat till situationen.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utfört arbete. Eleven utvärderar sitt arbete med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven ger &lt;strong&gt;med viss säkerhet &lt;/strong&gt;tydliga instruktioner till användare av apparater och system.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör&lt;strong&gt; utförligt&lt;/strong&gt; för funktion, konstruktion och uppbyggnad av kontorssystem och apparater. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för lagar och andra bestämmelser samt standarder och begrepp inom området.&lt;/p&gt;&lt;p&gt;Eleven planerar, organiserar och utför systematiskt och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare underhåll på kontorsteknikutrustning, med ett resultat som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller kvalitetskraven. Under arbetet väljer eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; mätinstrument, verktyg och arbetsmetoder samt hanterar instrument och verktyg med&lt;strong&gt; gott &lt;/strong&gt;handlag och på ett sätt som är säkert för eleven själv och andra. Eleven motiverar &lt;strong&gt;utförligt&lt;/strong&gt; sina val med hänsyn till hälsa, miljö och säkerhet. Under arbetet upptäcker eleven problem som uppstår och löser dem &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare. I arbetet använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; apparaternas kopplingsscheman och manualer. I arbetet samverkar och kommunicerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra samt använder ett fackspråk som är anpassat till situationen.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utfört arbete. Eleven utvärderar sitt arbete med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven ger &lt;strong&gt;med viss säkerhet &lt;/strong&gt;tydliga instruktioner till användare av apparater och system.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för funktion, konstruktion och uppbyggnad av kontorssystem och apparater. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för lagar och andra bestämmelser samt standarder och begrepp inom området.&lt;/p&gt;&lt;p&gt;Eleven planerar, organiserar och utför systematiskt och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare underhåll på kontorsteknikutrustning, med ett resultat som på ett &lt;strong&gt;gott &lt;/strong&gt;sätt uppfyller kvalitetskraven. Under arbetet väljer eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; mätinstrument, verktyg och arbetsmetoder samt hanterar instrument och verktyg med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och på ett sätt som är säkert för eleven själv och andra. Eleven motiverar &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; sina val med hänsyn till hälsa, miljö och säkerhet. Under arbetet upptäcker eleven problem som uppstår och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. I arbetet använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; apparaternas kopplingsscheman och manualer. I arbetet samverkar och kommunicerar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;med andra samt använder ett &lt;strong&gt;nyanserat &lt;/strong&gt;fackspråk som är anpassat till situationen.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utfört arbete. Eleven utvärderar sitt arbete med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven ger &lt;strong&gt;med säkerhet &lt;/strong&gt;tydliga instruktioner till användare av apparater och system.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Trådlösa radiosystem</name>
+    <englishName>Wireless radio systems</englishName>
+    <description
+    >&lt;p&gt;Kursen trådlösa radiosystem omfattar punkterna 1–8 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>ELOTRL0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Trådlösa radiosystem, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: ELOTRL0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Radiovågornas egenskaper och utbredning.&lt;/li&gt; &lt;li&gt;Frekvenser och frekvensband för radiokommunikation.&lt;/li&gt; &lt;li&gt;Antennteknik, antenntyper och deras egenskaper.&lt;/li&gt; &lt;li&gt;Kablar, impedanser och ståendevågmätningar (SWR).&lt;/li&gt; &lt;li&gt;Trådlösa system för lokala nätverk.&lt;/li&gt; &lt;li&gt;Kommunikationsradiosystem och apparater.&lt;/li&gt; &lt;li&gt;Utrustningar för kortdistansförbindelser, till exempel blåtand.&lt;/li&gt; &lt;li&gt;Trådlösa telefoner och mobiltelefoner.&lt;/li&gt; &lt;li&gt;Inbyggda mobiltelefonsystem med GPS.&lt;/li&gt; &lt;li&gt;Radiolänkar för lokala nätverk.&lt;/li&gt; &lt;li&gt;Lagar och myndighetskrav inom området, till exempel lagen om elektronisk kommunikation och tillstånd att använda radiosändare.&lt;/li&gt; &lt;li&gt;Integritetsaspekter och säkerhet vid radiokommunikation.&lt;/li&gt; &lt;li&gt;Aktuella standarder för radiokommunikation, till exempel Tetra (terrestrial trunked radio).&lt;/li&gt; &lt;li&gt;Hälsorisker med radiostrålning och risken att störa känslig utrustning.&lt;/li&gt; &lt;li&gt;Support och service på trådlösa radiosystem.&lt;/li&gt; &lt;li&gt;Metoder för systematisk felsökning och reparation.&lt;/li&gt; &lt;li&gt;Mätteknik, mätinstrument och mätmetoder för högfrekventa radiosignaler.&lt;/li&gt; &lt;li&gt;Elektronikschema, servicemanualer och bruksanvisningar på svenska och engelska.&lt;/li&gt; &lt;li&gt;Metoder för dokumentation av arbetet.&lt;/li&gt; &lt;li&gt;Instruktion till användare i handhavande av apparater och system.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för funktion, konstruktion och uppbyggnad av trådlösa radiosystem och apparater. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för lagar och andra bestämmelser samt standarder och begrepp inom området.&lt;/p&gt;&lt;p&gt;Eleven planerar, organiserar och utför systematiskt och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare support och service av trådlösa radiosystem och apparater, med ett resultat som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller kvalitetskraven. Under arbetet väljer eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; mätinstrument, verktyg och arbetsmetoder samt hanterar instrument och verktyg med&lt;strong&gt; visst &lt;/strong&gt;handlag och på ett sätt som är säkert för eleven själv och andra. Eleven motiverar &lt;strong&gt;översiktligt&lt;/strong&gt; sina val med hänsyn till hälsa, miljö och säkerhet. Under arbetet upptäcker eleven problem som uppstår och löser dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. I arbetet använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; apparaternas kopplingsscheman och manualer. I arbetet samverkar och kommunicerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra samt använder ett &lt;strong&gt;enkelt&lt;/strong&gt; fackspråk som är anpassat till situationen.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utfört arbete. Eleven utvärderar sitt arbete med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven ger &lt;strong&gt;med viss säkerhet &lt;/strong&gt;tydliga instruktioner till användare av apparater och system.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för funktion, konstruktion och uppbyggnad av trådlösa radiosystem och apparater. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för lagar och andra bestämmelser samt standarder och begrepp inom området.&lt;/p&gt;&lt;p&gt;Eleven planerar, organiserar och utför systematiskt och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare support och service av trådlösa radiosystem och apparater med ett resultat som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller kvalitetskraven. Under arbetet väljer eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; mätinstrument, verktyg och arbetsmetoder samt hanterar instrument och verktyg med &lt;strong&gt;gott &lt;/strong&gt;handlag och på ett sätt som är säkert för eleven själv och andra. Eleven motiverar &lt;strong&gt;utförligt&lt;/strong&gt; sina val med hänsyn till hälsa, miljö och säkerhet. Under arbetet upptäcker eleven problem som uppstår och löser dem &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare. I arbetet använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; apparaternas kopplingsscheman och manualer. I arbetet samverkar och kommunicerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra samt använder ett fackspråk som är anpassat till situationen.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utfört arbete. Eleven utvärderar sitt arbete med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven ger &lt;strong&gt;med viss säkerhet &lt;/strong&gt;tydliga instruktioner till användare av apparater och system.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör&lt;strong&gt; utförligt och nyanserat&lt;/strong&gt; för funktion, konstruktion och uppbyggnad av trådlösa radiosystem och apparater. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för lagar och andra bestämmelser samt standarder och begrepp inom området.&lt;/p&gt;&lt;p&gt;Eleven planerar, organiserar och utför systematiskt och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare support och service av trådlösa radiosystem och apparater med ett resultat som på ett &lt;strong&gt;gott &lt;/strong&gt;sätt uppfyller kvalitetskraven. Under arbetet väljer eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; mätinstrument, verktyg och arbetsmetoder samt hanterar instrument och verktyg med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och på ett sätt som är säkert för eleven själv och andra. Eleven motiverar &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; sina val med hänsyn till hälsa, miljö och säkerhet. Under arbetet upptäcker eleven problem som uppstår och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. I arbetet använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; apparaternas kopplingsscheman och manualer. I arbetet samverkar och kommunicerar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;med andra samt använder ett &lt;strong&gt;nyanserat &lt;/strong&gt;fackspråk som är anpassat till situationen.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utfört arbete. Eleven utvärderar sitt arbete med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven ger &lt;strong&gt;med säkerhet &lt;/strong&gt;tydliga instruktioner till användare av apparater och system.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

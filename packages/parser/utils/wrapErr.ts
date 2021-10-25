@@ -1,7 +1,8 @@
 export function wrapError(err: Error, context: string) {
   const newErr = new Error(`[${JSON.stringify(context)}] ${err.message}`);
-  newErr.stack = `[${JSON.stringify(context, null, "  ")}]\n${err.stack ||
-    newErr.stack}`;
+  newErr.stack = `[${JSON.stringify(context, null, "  ")}]\n${
+    err.stack || newErr.stack
+  }`;
   newErr.name = err.name;
   return newErr;
 }

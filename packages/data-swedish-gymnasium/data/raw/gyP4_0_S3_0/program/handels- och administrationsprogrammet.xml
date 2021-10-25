@@ -1,0 +1,1374 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<program xmlns="http://syllabus2011program.types.skolverket.se/v4_0">
+  <name>Handels- och administrationsprogrammet</name>
+  <code>HA001</code>
+  <codeExternal>HA</codeExternal>
+  <skolfsId>2010:42</skolfsId>
+  <applianceDate>2018-08-01T00:00:00+02:00</applianceDate>
+  <validTo>2024-06-30T00:00:00+02:00</validTo>
+  <version>11</version>
+  <status>PUBLISHED</status>
+  <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+  <typeOfProgram>VOCATIONAL_PROGRAM</typeOfProgram>
+  <commonMandatory>
+    <subject>
+      <optional>false</optional>
+      <name>Engelska</name>
+      <code>ENG</code>
+      <point>100</point>
+      <course>
+        <name>Engelska 5</name>
+        <code>ENGENG05</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Historia</name>
+      <code>HIS</code>
+      <point>50</point>
+      <course>
+        <name>Historia 1a1</name>
+        <code>HISHIS01a1</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Idrott och hälsa</name>
+      <code>IDR</code>
+      <point>100</point>
+      <course>
+        <name>Idrott och hälsa 1</name>
+        <code>IDRIDR01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Matematik</name>
+      <code>MAT</code>
+      <point>100</point>
+      <course>
+        <name>Matematik 1a</name>
+        <code>MATMAT01a</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Naturkunskap</name>
+      <code>NAK</code>
+      <point>50</point>
+      <course>
+        <name>Naturkunskap 1a1</name>
+        <code>NAKNAK01a1</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Religionskunskap</name>
+      <code>REL</code>
+      <point>50</point>
+      <course>
+        <name>Religionskunskap 1</name>
+        <code>RELREL01</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Samhällskunskap</name>
+      <code>SAM</code>
+      <point>50</point>
+      <course>
+        <name>Samhällskunskap 1a1</name>
+        <code>SAMSAM01a1</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska</name>
+      <code>SVE</code>
+      <point>100</point>
+      <course>
+        <name>Svenska 1</name>
+        <code>SVESVE01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska som andraspråk</name>
+      <code>SVA</code>
+      <point>100</point>
+      <course>
+        <name>Svenska som andraspråk 1</name>
+        <code>SVASVA01</code>
+        <point>100</point>
+      </course>
+    </subject>
+  </commonMandatory>
+  <commonProgram>
+    <subject>
+      <optional>false</optional>
+      <name>Entreprenörskap</name>
+      <code>ENT</code>
+      <point>100</point>
+      <course>
+        <name>Entreprenörskap</name>
+        <code>ENTENR0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Försäljning och kundservice</name>
+      <code>FÖS</code>
+      <point>100</point>
+      <course>
+        <name>Servicekunskap</name>
+        <code>FÖSSEV0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Handel</name>
+      <code>HAN</code>
+      <point>100</point>
+      <course>
+        <name>Branschkunskap inom handel och administration</name>
+        <code>HANBRS0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Information och kommunikation</name>
+      <code>INF</code>
+      <point>100</point>
+      <course>
+        <name>Information och kommunikation 1</name>
+        <code>INFINF01</code>
+        <point>100</point>
+      </course>
+    </subject>
+  </commonProgram>
+  <programOrientations>
+    <programOrientation>
+      <subject>
+        <optional>false</optional>
+        <name>Administration</name>
+        <code>ADM</code>
+        <point>100</point>
+        <course>
+          <name>Administration 1</name>
+          <code>ADMADM01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Affärskommunikation</name>
+        <code>AFF</code>
+        <point>100</point>
+        <course>
+          <name>Affärskommunikation</name>
+          <code>AFFAFÄ00S</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Information och kommunikation</name>
+        <code>INF</code>
+        <point>100</point>
+        <course>
+          <name>Information och kommunikation 2</name>
+          <code>INFINF02</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Intern och extern kommunikation</name>
+          <code>INFINE0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Ledarskap och organisation</name>
+        <code>LED</code>
+        <point>100</point>
+        <course>
+          <name>Ledarskap och organisation</name>
+          <code>LEDLED0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <name>Administrativ service</name>
+      <code>HAADM</code>
+      <codeExternal>HAADM</codeExternal>
+      <point>500</point>
+      <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+    </programOrientation>
+    <programOrientation>
+      <subject>
+        <optional>false</optional>
+        <name>Försäljning och kundservice</name>
+        <code>FÖS</code>
+        <point>100</point>
+        <course>
+          <name>Personlig försäljning 1</name>
+          <code>FÖSPER01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Handel</name>
+        <code>HAN</code>
+        <point>100</point>
+        <course>
+          <name>Affärsutveckling och ledarskap</name>
+          <code>HANAFR0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Praktisk marknadsföring 1</name>
+          <code>HANPRA01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Inköp och logistik</name>
+        <code>INK</code>
+        <point>100</point>
+        <course>
+          <name>Inköp 1</name>
+          <code>INKINK01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Näthandel</name>
+        <code>NÄT</code>
+        <point>100</point>
+        <course>
+          <name>Näthandel 1</name>
+          <code>NÄTNÄT01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <name>Handel och service</name>
+      <code>HAHAN</code>
+      <codeExternal>HAHAN</codeExternal>
+      <point>500</point>
+      <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+    </programOrientation>
+  </programOrientations>
+  <profiles />
+  <specialization>
+    <subject>
+      <optional>false</optional>
+      <name>Administration</name>
+      <code>ADM</code>
+      <point>100</point>
+      <course>
+        <name>Administration 1</name>
+        <code>ADMADM01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Administration 2</name>
+        <code>ADMADM02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Administration – specialisering</name>
+        <code>ADMADM00S</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Personaladministration</name>
+        <code>ADMPER0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Receptions- och konferensservice</name>
+        <code>ADMREC0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Affärskommunikation</name>
+      <code>AFF</code>
+      <point>100</point>
+      <course>
+        <name>Affärskommunikation</name>
+        <code>AFFAFÄ00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Aktiviteter och värdskap</name>
+      <code>AKT</code>
+      <point>100</point>
+      <course>
+        <name>Besöksnäringen</name>
+        <code>AKTBEO0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Dator- och kommunikationsteknik</name>
+      <code>DAO</code>
+      <point>100</point>
+      <course>
+        <name>Datorteknik 1b</name>
+        <code>DAODAT01b</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Engelska</name>
+      <code>ENG</code>
+      <point>100</point>
+      <course>
+        <name>Engelska 6</name>
+        <code>ENGENG06</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Eventteknik</name>
+      <code>EVE</code>
+      <point>100</point>
+      <course>
+        <name>Eventteknik</name>
+        <code>EVEEVN0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Fastighetsförvaltning</name>
+      <code>FAF</code>
+      <point>100</point>
+      <course>
+        <name>Fastighetsförvaltning</name>
+        <code>FAFFAS0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Företagsekonomi</name>
+      <code>FÖR</code>
+      <point>100</point>
+      <course>
+        <name>Företagsekonomi 1</name>
+        <code>FÖRFÖR01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Företagsekonomi 2</name>
+        <code>FÖRFÖR02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Entreprenörskap och företagande</name>
+        <code>FÖRENT0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Marknadsföring</name>
+        <code>FÖRMAD0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Redovisning 1</name>
+        <code>FÖRRED01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Redovisning 2</name>
+        <code>FÖRRED02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Försäljning och kundservice</name>
+      <code>FÖS</code>
+      <point>100</point>
+      <course>
+        <name>Personlig försäljning 1</name>
+        <code>FÖSPER01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Personlig försäljning 2</name>
+        <code>FÖSPER02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Personlig försäljning 3</name>
+        <code>FÖSPER03</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Telefon- och internetservice</name>
+        <code>FÖSTEL0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Godshantering</name>
+      <code>GOD</code>
+      <point>200</point>
+      <course>
+        <name>Hantering av varor och gods</name>
+        <code>GODHAT0</code>
+        <point>200</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Grafisk kommunikation</name>
+      <code>GRA</code>
+      <point>100</point>
+      <course>
+        <name>Grafisk kommunikation 1</name>
+        <code>GRAGRA01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Handel</name>
+      <code>HAN</code>
+      <point>100</point>
+      <course>
+        <name>Handel – specialisering</name>
+        <code>HANHAN00S</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Praktisk marknadsföring 1</name>
+        <code>HANPRA01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Praktisk marknadsföring 2</name>
+        <code>HANPRA02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Praktisk marknadsföring 3</name>
+        <code>HANPRA03</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Hygienkunskap</name>
+      <code>HYG</code>
+      <point>100</point>
+      <course>
+        <name>Hygien</name>
+        <code>HYGHYG0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Information och kommunikation</name>
+      <code>INF</code>
+      <point>100</point>
+      <course>
+        <name>Information och kommunikation 2</name>
+        <code>INFINF02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Programhantering</name>
+        <code>INFPRG0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Inköp och logistik</name>
+      <code>INK</code>
+      <point>100</point>
+      <course>
+        <name>Inköp 2</name>
+        <code>INKINK02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Logistik 1</name>
+        <code>INKLOG01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Logistik 2</name>
+        <code>INKLOG02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Transport och spedition</name>
+        <code>INKTRP0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Konferens och evenemang</name>
+      <code>KON</code>
+      <point>100</point>
+      <course>
+        <name>Evenemang</name>
+        <code>KONEVE0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Lager och terminal</name>
+      <code>LAG</code>
+      <point>100</point>
+      <course>
+        <name>Plocklagerhantering</name>
+        <code>LAGPLO0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Ledarskap och organisation</name>
+      <code>LED</code>
+      <point>100</point>
+      <course>
+        <name>Ledarskap och organisation</name>
+        <code>LEDLED0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Mat och butik</name>
+      <code>MAO</code>
+      <point>100</point>
+      <course>
+        <name>Mat och butik 1</name>
+        <code>MAOMAT01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Mat och butik 2</name>
+        <code>MAOMAT02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Mat och butik – specialisering</name>
+        <code>MAOMAT00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Matematik</name>
+      <code>MAT</code>
+      <point>100</point>
+      <course>
+        <name>Matematik 2a</name>
+        <code>MATMAT02a</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Medier, samhälle och kommunikation</name>
+      <code>MER</code>
+      <point>100</point>
+      <course>
+        <name>Medier, samhälle och kommunikation 1</name>
+        <code>MERMEE01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Moderna språk</name>
+      <code>MOD</code>
+      <point>100</point>
+      <course>
+        <name>Moderna språk 1</name>
+        <code>MODXXX01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Moderna språk 2</name>
+        <code>MODXXX02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Moderna språk 3</name>
+        <code>MODXXX03</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Moderna språk 4</name>
+        <code>MODXXX04</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Moderna språk 5</name>
+        <code>MODXXX05</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Moderna språk 6</name>
+        <code>MODXXX06</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Moderna språk 7</name>
+        <code>MODXXX07</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Kinesiska 1</name>
+        <code>MODZHO01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Kinesiska 2</name>
+        <code>MODZHO02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Kinesiska 3</name>
+        <code>MODZHO03</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Kinesiska 4</name>
+        <code>MODZHO04</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Kinesiska 5</name>
+        <code>MODZHO05</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Kinesiska 6</name>
+        <code>MODZHO06</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Kinesiska 7</name>
+        <code>MODZHO07</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Näthandel</name>
+      <code>NÄT</code>
+      <point>100</point>
+      <course>
+        <name>Näthandel 1</name>
+        <code>NÄTNÄT01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Näthandel 2</name>
+        <code>NÄTNÄT02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Programmering</name>
+      <code>PRR</code>
+      <point>100</point>
+      <course>
+        <name>Programmering 1</name>
+        <code>PRRPRR01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Svenska</name>
+      <code>SVE</code>
+      <point>100</point>
+      <course>
+        <name>Retorik</name>
+        <code>SVERET0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska</name>
+      <code>SVE</code>
+      <point>100</point>
+      <course>
+        <name>Svenska 2</name>
+        <code>SVESVE02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska som andraspråk</name>
+      <code>SVA</code>
+      <point>100</point>
+      <course>
+        <name>Svenska som andraspråk 2</name>
+        <code>SVASVA02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Tillämpad programmering</name>
+      <code>TIA</code>
+      <point>100</point>
+      <course>
+        <name>Tillämpad programmering</name>
+        <code>TIATIL00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Utställningsdesign</name>
+      <code>UTS</code>
+      <point>100</point>
+      <course>
+        <name>Utställningsdesign 1</name>
+        <code>UTSUTS01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Utställningsdesign 2</name>
+        <code>UTSUTS02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Utställningsdesign 3</name>
+        <code>UTSUTS03S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Webbutveckling</name>
+      <code>WEU</code>
+      <point>100</point>
+      <course>
+        <name>Webbutveckling 1</name>
+        <code>WEUWEB01</code>
+        <point>100</point>
+      </course>
+    </subject>
+  </specialization>
+  <individualChoice />
+  <projectAssignment />
+  <professionalDegrees>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Engelska</name>
+        <code>ENG</code>
+        <point>100</point>
+        <course>
+          <name>Engelska 6</name>
+          <code>ENGENG06</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Försäljning och kundservice</name>
+        <code>FÖS</code>
+        <point>100</point>
+        <course>
+          <name>Personlig försäljning 2</name>
+          <code>FÖSPER02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Handel</name>
+        <code>HAN</code>
+        <point>100</point>
+        <course>
+          <name>Handel – specialisering</name>
+          <code>HANHAN00S</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Praktisk marknadsföring 2</name>
+          <code>HANPRA02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Svenska</name>
+        <code>SVE</code>
+        <point>100</point>
+        <course>
+          <name>Svenska 2</name>
+          <code>SVESVE02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Svenska som andraspråk</name>
+        <code>SVA</code>
+        <point>100</point>
+        <course>
+          <name>Svenska som andraspråk 2</name>
+          <code>SVASVA02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>HAHAN</programOrientationCode>
+      <name>Butikssäljare</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Engelska</name>
+        <code>ENG</code>
+        <point>100</point>
+        <course>
+          <name>Engelska 6</name>
+          <code>ENGENG06</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Företagsekonomi</name>
+        <code>FÖR</code>
+        <point>100</point>
+        <course>
+          <name>Företagsekonomi 1</name>
+          <code>FÖRFÖR01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Försäljning och kundservice</name>
+        <code>FÖS</code>
+        <point>100</point>
+        <course>
+          <name>Personlig försäljning 2</name>
+          <code>FÖSPER02</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Personlig försäljning 3</name>
+          <code>FÖSPER03</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Svenska</name>
+        <code>SVE</code>
+        <point>100</point>
+        <course>
+          <name>Svenska 2</name>
+          <code>SVESVE02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Svenska som andraspråk</name>
+        <code>SVA</code>
+        <point>100</point>
+        <course>
+          <name>Svenska som andraspråk 2</name>
+          <code>SVASVA02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>HAHAN</programOrientationCode>
+      <name>Företagssäljare</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Engelska</name>
+        <code>ENG</code>
+        <point>100</point>
+        <course>
+          <name>Engelska 6</name>
+          <code>ENGENG06</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Företagsekonomi</name>
+        <code>FÖR</code>
+        <point>100</point>
+        <course>
+          <name>Företagsekonomi 1</name>
+          <code>FÖRFÖR01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Inköp och logistik</name>
+        <code>INK</code>
+        <point>100</point>
+        <course>
+          <name>Inköp 2</name>
+          <code>INKINK02</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Logistik 1</name>
+          <code>INKLOG01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Svenska</name>
+        <code>SVE</code>
+        <point>100</point>
+        <course>
+          <name>Svenska 2</name>
+          <code>SVESVE02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Svenska som andraspråk</name>
+        <code>SVA</code>
+        <point>100</point>
+        <course>
+          <name>Svenska som andraspråk 2</name>
+          <code>SVASVA02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>HAHAN</programOrientationCode>
+      <name>Inköpsassistent</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Administration</name>
+        <code>ADM</code>
+        <point>100</point>
+        <course>
+          <name>Administration 2</name>
+          <code>ADMADM02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Affärskommunikation</name>
+        <code>AFF</code>
+        <point>100</point>
+        <course>
+          <name>Affärskommunikation</name>
+          <code>AFFAFÄ00S</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Engelska</name>
+        <code>ENG</code>
+        <point>100</point>
+        <course>
+          <name>Engelska 6</name>
+          <code>ENGENG06</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Information och kommunikation</name>
+        <code>INF</code>
+        <point>100</point>
+        <course>
+          <name>Programhantering</name>
+          <code>INFPRG0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Svenska</name>
+        <code>SVE</code>
+        <point>100</point>
+        <course>
+          <name>Svenska 2</name>
+          <code>SVESVE02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Svenska som andraspråk</name>
+        <code>SVA</code>
+        <point>100</point>
+        <course>
+          <name>Svenska som andraspråk 2</name>
+          <code>SVASVA02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>HAADM</programOrientationCode>
+      <name>Kundtjänstbiträde</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Godshantering</name>
+        <code>GOD</code>
+        <point>200</point>
+        <course>
+          <name>Hantering av varor och gods</name>
+          <code>GODHAT0</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Inköp och logistik</name>
+        <code>INK</code>
+        <point>100</point>
+        <course>
+          <name>Logistik 1</name>
+          <code>INKLOG01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Lager och terminal</name>
+        <code>LAG</code>
+        <point>100</point>
+        <course>
+          <name>Plocklagerhantering</name>
+          <code>LAGPLO0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Svenska</name>
+        <code>SVE</code>
+        <point>100</point>
+        <course>
+          <name>Svenska 2</name>
+          <code>SVESVE02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Svenska som andraspråk</name>
+        <code>SVA</code>
+        <point>100</point>
+        <course>
+          <name>Svenska som andraspråk 2</name>
+          <code>SVASVA02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>HAHAN</programOrientationCode>
+      <name>Lagerarbetare</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Administration</name>
+        <code>ADM</code>
+        <point>100</point>
+        <course>
+          <name>Administration 2</name>
+          <code>ADMADM02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Affärskommunikation</name>
+        <code>AFF</code>
+        <point>100</point>
+        <course>
+          <name>Affärskommunikation</name>
+          <code>AFFAFÄ00S</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Engelska</name>
+        <code>ENG</code>
+        <point>100</point>
+        <course>
+          <name>Engelska 6</name>
+          <code>ENGENG06</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Företagsekonomi</name>
+        <code>FÖR</code>
+        <point>100</point>
+        <course>
+          <name>Företagsekonomi 1</name>
+          <code>FÖRFÖR01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Marknadsföring</name>
+          <code>FÖRMAD0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Svenska</name>
+        <code>SVE</code>
+        <point>100</point>
+        <course>
+          <name>Svenska 2</name>
+          <code>SVESVE02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Svenska som andraspråk</name>
+        <code>SVA</code>
+        <point>100</point>
+        <course>
+          <name>Svenska som andraspråk 2</name>
+          <code>SVASVA02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>HAADM</programOrientationCode>
+      <name>Marknadsassistent</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Administration</name>
+        <code>ADM</code>
+        <point>100</point>
+        <course>
+          <name>Administration 2</name>
+          <code>ADMADM02</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Administration – specialisering</name>
+          <code>ADMADM00S</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Personaladministration</name>
+          <code>ADMPER0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Företagsekonomi</name>
+        <code>FÖR</code>
+        <point>100</point>
+        <course>
+          <name>Företagsekonomi 1</name>
+          <code>FÖRFÖR01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Svenska</name>
+        <code>SVE</code>
+        <point>100</point>
+        <course>
+          <name>Svenska 2</name>
+          <code>SVESVE02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Svenska som andraspråk</name>
+        <code>SVA</code>
+        <point>100</point>
+        <course>
+          <name>Svenska som andraspråk 2</name>
+          <code>SVASVA02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>HAADM</programOrientationCode>
+      <name>Personalassistent</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Administration</name>
+        <code>ADM</code>
+        <point>100</point>
+        <course>
+          <name>Administration 2</name>
+          <code>ADMADM02</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Administration – specialisering</name>
+          <code>ADMADM00S</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Företagsekonomi</name>
+        <code>FÖR</code>
+        <point>100</point>
+        <course>
+          <name>Redovisning 1</name>
+          <code>FÖRRED01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Redovisning 2</name>
+          <code>FÖRRED02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Matematik</name>
+        <code>MAT</code>
+        <point>100</point>
+        <course>
+          <name>Matematik 2a</name>
+          <code>MATMAT02a</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>HAADM</programOrientationCode>
+      <name>Redovisningsassistent</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Affärskommunikation</name>
+        <code>AFF</code>
+        <point>100</point>
+        <course>
+          <name>Affärskommunikation</name>
+          <code>AFFAFÄ00S</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Engelska</name>
+        <code>ENG</code>
+        <point>100</point>
+        <course>
+          <name>Engelska 6</name>
+          <code>ENGENG06</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Information och kommunikation</name>
+        <code>INF</code>
+        <point>100</point>
+        <course>
+          <name>Information och kommunikation 2</name>
+          <code>INFINF02</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Programhantering</name>
+          <code>INFPRG0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Svenska</name>
+        <code>SVE</code>
+        <point>100</point>
+        <course>
+          <name>Svenska 2</name>
+          <code>SVESVE02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Svenska som andraspråk</name>
+        <code>SVA</code>
+        <point>100</point>
+        <course>
+          <name>Svenska som andraspråk 2</name>
+          <code>SVASVA02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>HAADM</programOrientationCode>
+      <name>Säljassistent</name>
+      <profSpecialization />
+    </professionalDegree>
+  </professionalDegrees>
+  <category>VOCATIONAL_PROGRAM</category>
+  <modifiedDate>2020-10-08T13:54:28+02:00</modifiedDate>
+  <createdDate>2019-08-20T11:22:49+02:00</createdDate>
+  <typeOfStudyPath>PROGRAM</typeOfStudyPath>
+</program>

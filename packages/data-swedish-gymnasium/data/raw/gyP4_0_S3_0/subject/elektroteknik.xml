@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Elektroteknik</name>
+  <englishName>Electrotechnology</englishName>
+  <description
+  >&lt;p&gt;Ämnet elektroteknik behandlar enklare installationer och elarbeten på elanläggningar samt vanligt verkstadsarbete inom området. I allt arbete med elektricitet är säkerhetsfrågor centrala eftersom ett misstag kan orsaka stora skador både på personer och på egendom. &lt;/p&gt;</description>
+  <code>ELR</code>
+  <status>PUBLISHED</status>
+  <version>2</version>
+  <createdDate>2018-05-30T11:15:34+02:00</createdDate>
+  <modifiedDate>2020-02-19T15:51:06+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Elektroteknik&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet elektroteknik ska syfta till att eleverna utvecklar kunskaper i att planera och utföra elarbete, verkstadsarbete, mekaniskt arbete och olika sammanfogningstekniker samt färdigheter i att hantera material, verktyg och utrustning. Den ska också bidra till att eleverna förstår betydelsen av energieffektivisering och av att utföra arbetet säkert samt kan tillämpa föreskrifter, standarder och bestämmelser inom området. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att avhjälpa fel och underhålla elanläggningar. Undervisningen ska leda till att eleverna utvecklar förmåga att utifrån scheman och ritningar utföra elarbeten och verkstadsarbeten. Eleverna ska ges möjlighet att planera arbetsuppgifter samt utveckla förmåga att använda material och utrustning på ett ansvarsfullt sätt. Genom att både praktiskt och teoretiskt arbeta med uppgifterna ska eleverna ges möjlighet att öva sin förmåga att arbeta ergonomiskt, yrkesetiskt, miljömässigt och estetiskt.&lt;/p&gt; &lt;h4&gt;Undervisningen i ämnet elektroteknik ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt; &lt;ol&gt; &lt;li&gt;Förmåga att utföra elarbete, verkstadsarbete, installationsteknik, mekaniskt arbete och sammanfogningsteknik.&lt;/li&gt; &lt;li&gt;Färdigheter i att använda ritningar, scheman, instruktioner, standarder och föreskrifter.&lt;/li&gt; &lt;li&gt;Förmåga att välja och använda olika verktyg, instrument, material och övrig utrustning som används inom området.&lt;/li&gt; &lt;li&gt;Kunskaper om miljökrav och bestämmelser inom området.&lt;/li&gt; &lt;li&gt;Färdigheter i att avhjälpa fel och underhålla elanläggningar.&lt;/li&gt; &lt;li&gt;Förmåga att arbeta säkert, arbetsmiljömässigt, ergonomiskt och estetiskt.&lt;/li&gt; &lt;li&gt;Förmåga att dokumentera sitt arbete.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Elektromekanik, 100 poäng. &lt;/li&gt; &lt;li&gt;Elkraftteknik, 100 poäng. &lt;/li&gt; &lt;li&gt;Antenn- och kabel-TV-teknik, 100 poäng, som bygger på kursen elkraftteknik.&lt;/li&gt; &lt;li&gt;Data- och medianät, 100 poäng, som bygger på kursen elkraftteknik.&lt;/li&gt;&lt;/ul&gt;</purpose>
+  <skolfsId>2010:153</skolfsId>
+  <applianceDate>2018-08-01T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Elektromekanik</name>
+    <englishName>Electromechanics</englishName>
+    <description
+    >&lt;p&gt;Kursen elektromekanik omfattar punkterna 1–4 och 6–7 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>ELRELK0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Elektromekanik, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: ELRELK0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Elarbete, till exempel losskoppling och anslutning av apparater samt funktionsprovning.&lt;/li&gt; &lt;li&gt;Enklare verkstadsarbete, till exempel mjuklödning, skruvförband och popnitning.&lt;/li&gt; &lt;li&gt;Ritningsläsning inom verkstadstekniken.&lt;/li&gt; &lt;li&gt;Pressverktyg för olika kontakttyper som används inom yrkesområdet.&lt;/li&gt; &lt;li&gt;Fästteknik, materialkunskap och mekanisk mätning.&lt;/li&gt; &lt;li&gt;Handverktyg som används inom de olika yrkesområdena.&lt;/li&gt; &lt;li&gt;Elsäkerhet för personer och egendom.&lt;/li&gt; &lt;li&gt;Egenkontroll, ergonomi, elsäkert arbete, kvalitetskrav, arbetsmiljö och säkerhet.&lt;/li&gt; &lt;li&gt;Säkerhet i heta arbeten, ställningsbyggande och arbete från stege.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven utför med&lt;strong&gt; visst &lt;/strong&gt;handlag enkelt elarbete, verkstadsarbete, mekaniskt arbete och sammanfogningsteknik inom området. Eleven gör en &lt;strong&gt;enkel &lt;/strong&gt;planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften. Inför arbetet väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med&lt;strong&gt; visst &lt;/strong&gt;handlag och på ett miljömässigt sätt.&lt;/p&gt;&lt;p&gt;Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik. Eleven gör en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av sitt arbete.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven utför med&lt;strong&gt; gott &lt;/strong&gt;handlag enkelt elarbete, verkstadsarbete, mekaniskt arbete och sammanfogningsteknik inom området. Eleven gör en &lt;strong&gt;genomarbetad &lt;/strong&gt;planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften. Inför arbetet väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med&lt;strong&gt; gott &lt;/strong&gt;handlag och på ett miljömässigt sätt.&lt;/p&gt;&lt;p&gt;Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik. Eleven gör en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av sitt arbete.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven utför med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag enkelt,&lt;strong&gt; men även mer avancerat&lt;/strong&gt;, elarbete, verkstadsarbete, mekaniskt arbete och sammanfogningsteknik inom området. Eleven gör en &lt;strong&gt;genomarbetad &lt;/strong&gt;planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften. Inför arbetet väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och på ett miljömässigt sätt.&lt;/p&gt;&lt;p&gt;Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik. Eleven gör en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av sitt arbete.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Elkraftteknik</name>
+    <englishName>Electrical power technology</englishName>
+    <description
+    >&lt;p&gt;Kursen elkraftteknik omfattar punkterna 1–7 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>ELRELF0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Elkraftteknik, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: ELRELF0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Anslutning, losskoppling och funktionsprovning av apparater och utrustning.&lt;/li&gt; &lt;li&gt;Montering och flyttning i befintliga gruppledningar.&lt;/li&gt; &lt;li&gt;Elmotorer med enklare tillhörande startutrustningar.&lt;/li&gt; &lt;li&gt;Kopplingsutrustningar, apparatskåp och enklare styrutrustning.&lt;/li&gt; &lt;li&gt;Förläggning och anslutning av ledningar.&lt;/li&gt; &lt;li&gt;Ritning och schemaläsning inom området.&lt;/li&gt; &lt;li&gt;Föreskrifter, standarder och bestämmelser enligt gällande auktorisation.&lt;/li&gt; &lt;li&gt;Olika materials egenskaper och kapslingsklasser.&lt;/li&gt; &lt;li&gt;Mätning av vanligt förekommande elektriska storheter.&lt;/li&gt; &lt;li&gt;Begreppet elkvalitet och installationer för elektromagnetisk kompatibilitet.&lt;/li&gt; &lt;li&gt;Felsökning och underhåll av befintlig elutrustning.&lt;/li&gt; &lt;li&gt;Personligt skydd vid arbete med spänningssatta föremål och arbete nära spänning samt elfara för personer och egendom.&lt;/li&gt; &lt;li&gt;Kontroll inför drifttagning.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven utför med&lt;strong&gt; visst &lt;/strong&gt;handlag enkelt elarbete inom området. Eleven gör en &lt;strong&gt;enkel &lt;/strong&gt;planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften. Inför arbetet väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med&lt;strong&gt; visst &lt;/strong&gt;handlag och på ett miljömässigt sätt.&lt;/p&gt;&lt;p&gt;Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga elinstallationer, samt löser och reparerar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare.&lt;/p&gt;&lt;p&gt;Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik. Eleven kontrollerar säkerheten med&lt;strong&gt; tillfredsställande &lt;/strong&gt;resultat, gör en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av sitt arbete och tar i drift elinstallationen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven utför med&lt;strong&gt; gott &lt;/strong&gt;handlag enkelt elarbete inom området. Eleven gör en &lt;strong&gt;genomarbetad &lt;/strong&gt;planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften. Inför arbetet väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med&lt;strong&gt; gott &lt;/strong&gt;handlag och på ett miljömässigt sätt.&lt;/p&gt;&lt;p&gt;Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga elinstallationer, samt löser och reparerar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare.&lt;/p&gt;&lt;p&gt;Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik. Eleven kontrollerar säkerheten med&lt;strong&gt; tillfredsställande &lt;/strong&gt;resultat, gör en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av sitt arbete och tar i drift elinstallationen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven utför med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag enkelt,&lt;strong&gt; men även mer avancerat&lt;/strong&gt;, elarbete inom området. Eleven gör en &lt;strong&gt;genomarbetad &lt;/strong&gt;planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften. Inför arbetet väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och på ett miljömässigt sätt.&lt;/p&gt;&lt;p&gt;Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga elinstallationer, samt löser och reparerar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare.&lt;/p&gt;&lt;p&gt;Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik. Eleven kontrollerar säkerheten med&lt;strong&gt; gott &lt;/strong&gt;resultat, gör en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av sitt arbete och tar i drift elinstallationen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Antenn- och kabel-TV-teknik</name>
+    <englishName>Aerial and cable TV technology</englishName>
+    <description
+    >&lt;p&gt;Kursen antenn- och kabel-TV-teknik omfattar punkterna 1–7 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>ELRANT0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Antenn- och kabel-TV-teknik, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: ELRANT0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Planering, installation och driftsättning samt underhåll av antenn- och kabel-tv-anläggningar för mark- och satellitdistribuerad tv.&lt;/li&gt; &lt;li&gt;Digital tv-teknik och tv-signalens uppbyggnad vid satellit- och kabelsändningar.&lt;/li&gt; &lt;li&gt;Uppbyggnad och funktionssätt hos bredbandiga multifunktionsnät för fastigheter (BMF-nät) samt hybrid-, fiber- och coaxnät (HFC-nät).&lt;/li&gt; &lt;li&gt;Användning och tolkning av de mättekniska begreppen decibel, dämpning och förstärkning, samt intermodulationsavstånd och carrier to noise (C/N).&lt;/li&gt; &lt;li&gt;Skalning av kablar och montering av kontakter. &lt;/li&gt; &lt;li&gt;Standarder, normer och systemkrav för antenn- och kabel-tv-anläggningar.&lt;/li&gt; &lt;li&gt;Europanormens krav på distributionssystem för television och ljudradio.&lt;/li&gt; &lt;li&gt;Krav på strålningsimmunitet hos komponenter och kablar för att minska ledningsbundna störningar.&lt;/li&gt; &lt;li&gt;Antenner, mottagningsutrustningar och mätinstrument för satellitmottagning.&lt;/li&gt; &lt;li&gt;Antenner för tv-mottagning och mätinstrument för kontroll av signalnivå och kvalitet.&lt;/li&gt; &lt;li&gt;Felsökning och reparation av antenn- och kabel-tv-anläggningar.&lt;/li&gt; &lt;li&gt;Kontrollmätning och signalnivåjustering i kabel-tv-anläggningar.&lt;/li&gt; &lt;li&gt;Registrering av mätdata och dokumentation av arbetet.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven utför med&lt;strong&gt; visst &lt;/strong&gt;handlag enkelt installationsarbete på antenn- och kabel-tv. Eleven gör en &lt;strong&gt;enkel &lt;/strong&gt;planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften. Inför arbetet väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med&lt;strong&gt; visst &lt;/strong&gt;handlag och på ett miljömässigt sätt.&lt;/p&gt;&lt;p&gt;Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga installationer, samt löser och reparerar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare.&lt;/p&gt;&lt;p&gt;Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik. Eleven kontrollerar säkerheten med&lt;strong&gt; tillfredsställande &lt;/strong&gt;resultat, gör en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av sitt arbete och tar i drift installationen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven utför med&lt;strong&gt; gott &lt;/strong&gt;handlag enkelt installationsarbete på antenn- och kabel-tv. Eleven gör en &lt;strong&gt;genomarbetad &lt;/strong&gt;planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften. Inför arbetet väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med&lt;strong&gt; gott &lt;/strong&gt;handlag och på ett miljömässigt sätt.&lt;/p&gt;&lt;p&gt;Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga installationer, samt löser och reparerar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare.&lt;/p&gt;&lt;p&gt;Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik. Eleven kontrollerar säkerheten med&lt;strong&gt; tillfredsställande &lt;/strong&gt;resultat, gör en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av sitt arbete och tar i drift installationen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven utför med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag enkelt,&lt;strong&gt; men även mer avancerat&lt;/strong&gt;, installationsarbete på antenn- och kabel-tv. Eleven gör en &lt;strong&gt;genomarbetad &lt;/strong&gt;planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften. Inför arbetet väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och på ett miljömässigt sätt.&lt;/p&gt;&lt;p&gt;Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga installationer, samt löser och reparerar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare.&lt;/p&gt;&lt;p&gt;Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik. Eleven kontrollerar säkerheten med&lt;strong&gt; gott &lt;/strong&gt;resultat, gör en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av sitt arbete och tar i drift installationen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <courses>
+    <name>Data- och medianät</name>
+    <englishName>Computing and media networks</englishName>
+    <description
+    >&lt;p&gt;Kursen data- och medianät omfattar punkterna 1–7 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>ELRDAA0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Data- och medianät, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: ELRDAA0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Planering, installation, driftsättning och registrering samt underhåll av data- och medianätinstallationer.&lt;/li&gt; &lt;li&gt;Funktion och uppbyggnad hos data- och medianät.&lt;/li&gt; &lt;li&gt;Uppbyggnad och funktionssätt hos bredbandiga multifunktionsnät för fastigheter (BMF-nät) samt hybrid-, fiber- och coaxnät (HFC-nät). &lt;/li&gt; &lt;li&gt;Datakommunikationsteknikens grunder.&lt;/li&gt; &lt;li&gt;Inkoppling av fiberboxar och användaruttag.&lt;/li&gt; &lt;li&gt;Kabelförläggning och regler vid samförläggning.&lt;/li&gt; &lt;li&gt;Skarvnings- och inslipningsteknik för optofiberkabel.&lt;/li&gt; &lt;li&gt;Kontaktering av fiberkabel och kategori 5- och 6-nät.&lt;/li&gt; &lt;li&gt;Mätteknik och mätinstrument för inmätning och provning i fibernät.&lt;/li&gt; &lt;li&gt;Felsöknings- och reparationsteknik för data- och medianät.&lt;/li&gt; &lt;li&gt;Mät- och felsökningsteknik för fibernät.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven utför med&lt;strong&gt; visst &lt;/strong&gt;handlag enkelt installationsarbete på data- och medianät. Eleven gör en &lt;strong&gt;enkel &lt;/strong&gt;planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften. Inför arbetet väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med&lt;strong&gt; visst &lt;/strong&gt;handlag och på ett miljömässigt sätt.&lt;/p&gt;&lt;p&gt;Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga installationer, samt löser och reparerar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare.&lt;/p&gt;&lt;p&gt;Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik. Eleven kontrollerar säkerheten med&lt;strong&gt; tillfredsställande &lt;/strong&gt;resultat, gör en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av sitt arbete och tar i drift installationen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven utför med&lt;strong&gt; gott &lt;/strong&gt;handlag enkelt installationsarbete på data- och medianät. Eleven gör en &lt;strong&gt;genomarbetad &lt;/strong&gt;planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften. Inför arbetet väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med&lt;strong&gt; gott &lt;/strong&gt;handlag och på ett miljömässigt sätt.&lt;/p&gt;&lt;p&gt;Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga installationer, samt löser och reparerar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare.&lt;/p&gt;&lt;p&gt;Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik. Eleven kontrollerar säkerheten med&lt;strong&gt; tillfredsställande &lt;/strong&gt;resultat, gör en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av sitt arbete och tar i drift installationen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven utför med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag enkelt, &lt;strong&gt;men även mer avancerat&lt;/strong&gt;, installationsarbete på data- och medianät. Eleven gör en &lt;strong&gt;genomarbetad &lt;/strong&gt;planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften. Inför arbetet väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och på ett miljömässigt sätt.&lt;/p&gt;&lt;p&gt;Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga installationer, samt löser och reparerar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare.&lt;/p&gt;&lt;p&gt;Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik. Eleven kontrollerar säkerheten med&lt;strong&gt; gott &lt;/strong&gt;resultat, gör en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av sitt arbete och tar i drift installationen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>4</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

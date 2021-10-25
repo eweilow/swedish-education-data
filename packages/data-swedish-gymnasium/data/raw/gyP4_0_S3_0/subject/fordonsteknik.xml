@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Fordonsteknik</name>
+  <englishName>Vehicle technology</englishName>
+  <description
+  >&lt;p&gt;Ämnet fordonsteknik behandlar fordons uppbyggnad och funktion samt bakomliggande principer inom mekanik, el, hydraulik och pneumatik. Det behandlar också materiallära, arbetsmetoder, verktyg och andra hjälpmedel.&lt;/p&gt;</description>
+  <code>FOD</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2010-12-22T08:46:27+01:00</createdDate>
+  <modifiedDate>2020-02-19T15:51:31+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Fordonsteknik&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet fordonsteknik ska syfta till att eleverna utvecklar tekniskt kunnande och intresse för teknik. Eleverna ska ges möjlighet att utveckla förmåga att utföra service på och reparationer av fordon samt förmåga att hantera verktyg och utrustning. Undervisningen ska leda till att eleverna utvecklar kunskaper om fordons huvudkomponenter. Dessutom ska undervisningen ge eleverna möjlighet att utveckla kunskaper i demonterings- och monteringsarbete samt i hantering av några av de informationssystem som används för att lösa arbetsuppgifterna.&lt;/p&gt;&lt;p&gt;Undervisningen ska betona ett problemlösande arbetssätt och ta sin utgångspunkt i situationer i verkstadsmiljö.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet fordonsteknik ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om fordons huvudkomponenter, uppbyggnad och användningsområden samt om huvudkomponenternas funktion och hur de samverkar i fordonet.&lt;/li&gt; &lt;li&gt;Förmåga att utföra enklare reparationer på olika typer av fordon.&lt;/li&gt; &lt;li&gt;Förmåga att välja den arbetsmetod som passar för uppgiften.&lt;/li&gt; &lt;li&gt;Förmåga att använda verktyg och utrustning.&lt;/li&gt; &lt;li&gt;Förmåga att i arbetet ta ansvar för maskinella och ekonomiska värden samt för sin egen och andras säkerhet.&lt;/li&gt; &lt;li&gt;Kunskaper om lagar och andra bestämmelser samt förmåga att arbeta utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetsuppgifterna.&lt;/li&gt; &lt;li&gt;Förmåga att samarbeta och kommunicera med andra samt att använda begrepp och uttryck som är relevanta för ämnesområdet.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Fordonsteknik – introduktion, 200 poäng.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2010:217</skolfsId>
+  <applianceDate>2011-07-01T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Fordonsteknik – introduktion</name>
+    <englishName>Vehicle technology – introduction</englishName>
+    <description
+    >&lt;p&gt;Kursen fordonsteknik – introduktion omfattar punkterna 1–7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>FODFOO0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Fordonsteknik – introduktion, 200 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: FODFOO0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Fordons huvudkomponenter, till exempel motor, drivlina, chassikomponenter och bromsar.&lt;/li&gt; &lt;li&gt;Materiallära och olika sammanfogningstekniker som används i fordon.&lt;/li&gt; &lt;li&gt;Enklare intervallservice enligt fordonstillverkarens anvisningar.&lt;/li&gt; &lt;li&gt;Enklare demonterings- och monteringsmoment av olika delar i fordons huvudkomponenter.&lt;/li&gt; &lt;li&gt;Informationssystem och manualer för arbetet.&lt;/li&gt; &lt;li&gt;Hantering av de verktyg och maskiner som används i arbetet.&lt;/li&gt; &lt;li&gt;Underhåll av verktyg, utrustning och verkstadsmiljöer.&lt;/li&gt; &lt;li&gt;Lyft och uppallning av motorfordon.&lt;/li&gt; &lt;li&gt;Säkerhet på arbetsplatsen och förebyggande av person- och egendomsskador samt lagar och andra bestämmelser som gäller för arbetet.&lt;/li&gt; &lt;li&gt;Tekniska termer och begrepp. &lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>200</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; fordons olika huvudkomponenter och deras funktion, dels var för sig, dels hur de samverkar i fordonet.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;i samråd&lt;/strong&gt; med handledare service och reparationer på fordon. I arbetet väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämpliga arbetsmetoder. Eleven genomför också i bekanta situationer &lt;strong&gt;enkelt &lt;/strong&gt;demonterings- och monteringsarbete. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;de verktyg och andra hjälpmedel som är lämpliga för att lösa de specifika arbetsuppgifterna. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven tar ansvar för materiella värden och för sin egen och andras säkerhet samt håller välordnat på arbetsplatsen. I arbetet redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för lagar och andra bestämmelser som styr arbetet. Dessutom arbetar eleven efter de krav på säkerhet, kvalitet och miljö som reglerar arbetet.&lt;/p&gt;&lt;p&gt;Eleven samarbetar för att nå planerade resultat samt använder i sin kommunikation begrepp och uttryck som är relevanta för ämnesområdet.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; fordons olika huvudkomponenter och deras funktion, dels var för sig, dels hur de samverkar i fordonet.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare service och reparationer på fordon. I arbetet väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämpliga arbetsmetoder. Eleven genomför också i bekanta situationer &lt;strong&gt;komplext &lt;/strong&gt;demonterings- och monteringsarbete. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;de verktyg och andra hjälpmedel som är lämpliga för att lösa de specifika arbetsuppgifterna. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven tar ansvar för materiella värden och för sin egen och andras säkerhet samt håller välordnat på arbetsplatsen. I arbetet redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för lagar och andra bestämmelser som styr arbetet. Dessutom arbetar eleven efter de krav på säkerhet, kvalitet och miljö som reglerar arbetet.&lt;/p&gt;&lt;p&gt;Eleven samarbetar &lt;strong&gt;och medverkar till att upprätthålla samarbetet &lt;/strong&gt;för att nå planerade resultat samt använder i sin kommunikation begrepp och uttryck som är relevanta för ämnesområdet.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; fordons olika huvudkomponenter och deras funktion, dels var för sig, dels hur de samverkar i fordonet.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare service och reparationer på fordon. I arbetet väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;lämpliga arbetsmetoder. Eleven genomför också i bekanta &lt;strong&gt;och nya &lt;/strong&gt;situationer &lt;strong&gt;komplext &lt;/strong&gt;demonterings- och monteringsarbete. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;de verktyg och andra hjälpmedel som är lämpliga för att lösa de specifika arbetsuppgifterna. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven tar ansvar för materiella värden och för sin egen och andras säkerhet samt håller välordnat på arbetsplatsen. I arbetet redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för lagar och andra bestämmelser som styr arbetet. Dessutom arbetar eleven efter de krav på säkerhet, kvalitet och miljö som reglerar arbetet.&lt;/p&gt;&lt;p&gt;Eleven samarbetar &lt;strong&gt;och medverkar till att upprätthålla och utveckla samarbetet &lt;/strong&gt;för att nå planerade resultat samt använder i sin kommunikation begrepp och uttryck som är relevanta för ämnesområdet.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

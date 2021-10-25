@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Sprinklerteknik</name>
+  <englishName>Sprinkler technology</englishName>
+  <description
+  >&lt;p&gt;Ämnet sprinklerteknik behandlar uppbyggnad och funktion av sprinklersystem i byggnader och är till sin karaktär både praktiskt och teoretiskt. Ämnet behandlar branschens tekniska utveckling och betydelsen av en effektiv säkerhetsnivå enligt gällande regelverk inom bygglagstiftning och brandskydd.&lt;/p&gt;</description>
+  <code>SPN</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2018-02-13T14:28:58+01:00</createdDate>
+  <modifiedDate>2020-02-19T16:01:43+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Sprinklerteknik&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet sprinklerteknik ska syfta till att eleverna utvecklar kunskaper om sprinklersystem, deras funktion och uppbyggnad. Den ska även leda till att eleverna utvecklar kunskaper om och färdigheter i att hantera material och utrustning samt att arbeta i enlighet med regler för miljö och säkerhet.&lt;/p&gt; &lt;p&gt;I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera, organisera, genomföra och utvärdera arbetsuppgifter. Dessutom ska eleverna ges möjlighet att utveckla förmåga att använda ritningar, instruktioner och arbetsbeskrivningar samt utveckla kunskaper om gällande bygglagstiftning och brandskyddsregler.&lt;/p&gt; &lt;p&gt;I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om och färdigheter i montering, provtryckning och driftsättning samt service och underhåll av sprinklersystem i fastigheter.&lt;/p&gt; &lt;p&gt;Undervisningen ska leda till att eleverna utvecklar servicekänsla i yrkesutövandet. I undervisningen ska eleverna också ges möjlighet att utveckla ett yrkesetiskt förhållningssätt och känsla för installationernas estetiska utformning.&lt;/p&gt; &lt;p&gt;Genom ett problemlösande arbetssätt och konkreta arbetsuppgifter ska eleverna ges möjlighet att utveckla både praktiska och teoretiska kunskaper samt förmåga att arbeta ansvarsfullt, individuellt och i samarbete med andra.&lt;/p&gt; &lt;h4&gt;Undervisningen i ämnet sprinklerteknik ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt; &lt;ol&gt; &lt;li&gt;Kunskaper om olika sprinkleranläggningars uppbyggnad och funktion, miljö- och säkerhetskrav samt brandskyddsregler som gäller för dessa.&lt;/li&gt; &lt;li&gt;Kunskaper om komponenter, apparater och olika medier samt om material och metoder för sammanfogning enligt standarder och myndighetskrav.&lt;/li&gt; &lt;li&gt;Förmåga att planera och utföra installationsarbeten utifrån lagar, andra bestämmelser och fastställda kvalitetskrav.&lt;/li&gt; &lt;li&gt;Förmåga att använda ritningar med tillhörande handlingar.&lt;/li&gt; &lt;li&gt;Kunskaper om nya och beprövade produkter och material samt förmåga att utföra montering, reparationer, service och underhåll på system och installationer.&lt;/li&gt; &lt;li&gt;Förmåga att utföra kontroller samt att värdera och dokumentera sitt arbete.&lt;/li&gt; &lt;li&gt;Kunskap om och förmåga att arbeta ergonomiskt, tillämpa säkerhetsföreskrifter samt genomföra arbete tryggt för sig själv och andra.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Sprinklerteknik 1, 100 poäng. &lt;/li&gt; &lt;li&gt;Sprinklerteknik 2, 100 poäng, som bygger på kursen sprinklerteknik 1.&lt;/li&gt;&lt;/ul&gt;</purpose>
+  <skolfsId>2018:33</skolfsId>
+  <applianceDate>2018-08-01T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Sprinklerteknik 1</name>
+    <englishName>Sprinkler technology 1</englishName>
+    <description
+    >&lt;p&gt;Kursen sprinklerteknik 1 omfattar punkterna 1–5 och 7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>SPNSPR01</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Sprinklerteknik 1, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: SPNSPR01&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Anläggningar, system, apparater och komponenter för sprinkler samt deras uppbyggnad och funktion.&lt;/li&gt; &lt;li&gt;Sprinklercentraler.&lt;/li&gt; &lt;li&gt;Material i rör, komponenter och apparater.&lt;/li&gt; &lt;li&gt;Placering och förläggningssätt av rör.&lt;/li&gt; &lt;li&gt;Val och användning av lämpliga verktyg, maskiner och övriga hjälpmedel vid montering av rör.&lt;/li&gt; &lt;li&gt;Korrosionsskydd i material vid inre och yttre påverkan.&lt;/li&gt; &lt;li&gt;Planering och organisering av arbetsplatsen och arbetsuppgiften vid arbete med sprinklerinstallationer.&lt;/li&gt; &lt;li&gt;Grundläggande hantverksteknik vid montering med lämpliga verktyg och maskiner för material och förläggningssätt.&lt;/li&gt; &lt;li&gt;Ritningsläsning och arbetsbeskrivning specifikt för sprinkler.&lt;/li&gt; &lt;li&gt;Praktisk tillämpning av fogningsteknik, till exempel rillning och gängfogar.&lt;/li&gt; &lt;li&gt;Måttsättning, avsättning och fogberedning vid montering.&lt;/li&gt; &lt;li&gt;Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen.&lt;/li&gt; &lt;li&gt;Ergonomiskt riktigt arbetssätt.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; uppbyggnad och funktion av olika sprinklersystem. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för de miljö- och säkerhetskrav samt de brandskyddsregler som gäller sprinkleranläggningar. Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; vilka komponenter, material och metoder som används vid sammanfogning, samt vilka standarder och myndighetskrav som gäller. Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för olika medier i sprinklersystem samt för deras användningsområden, miljöpåverkan och driftegenskaper.&lt;/p&gt; &lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsplatsen och sitt arbete. I planeringen och utförandet väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;någon vanligt förekommande arbetsmetod och teknik, utifrån lagar, andra bestämmelser och fastställda kvalitetskrav. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; verktyg och maskiner samt följer föreskrifter och anvisningar för dem. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar och andra gällande handlingar.&lt;/p&gt; &lt;p&gt;Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare enklare reparationer, service och underhåll på både äldre och nyare system och installationer. Eleven värderar också med &lt;strong&gt;enkla &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utförda åtgärder. Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt; &lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; uppbyggnad och funktion av olika sprinklersystem. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för de miljö- och säkerhetskrav samt de brandskyddsregler som gäller sprinkleranläggningar. Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; vilka komponenter, material och metoder som används vid sammanfogning, samt vilka standarder och myndighetskrav som gäller. Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för olika medier i sprinklersystem samt för deras användningsområden, miljöpåverkan och driftegenskaper.&lt;/p&gt; &lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsplatsen och sitt arbete. I planeringen och utförandet väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;någon vanligt förekommande arbetsmetod och teknik, utifrån lagar, andra bestämmelser och fastställda kvalitetskrav. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; verktyg och maskiner samt följer föreskrifter och anvisningar för dem. Eleven utför &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare arbetet utifrån ritningar och andra gällande handlingar.&lt;/p&gt; &lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare enklare reparationer, service och underhåll på både äldre och nyare system och installationer. Eleven värderar också med &lt;strong&gt;välgrundade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utförda åtgärder. Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt; &lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; uppbyggnad och funktion av olika sprinklersystem. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för de miljö- och säkerhetskrav samt de brandskyddsregler som gäller sprinkleranläggningar. Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; vilka komponenter, material och metoder som används vid sammanfogning, samt vilka standarder och myndighetskrav som gäller. Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för olika medier i sprinklersystem samt för deras användningsområden, miljöpåverkan och driftegenskaper.&lt;/p&gt; &lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsplatsen och sitt arbete. I planeringen och utförandet väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;någon vanligt förekommande arbetsmetod och teknik, utifrån lagar, andra bestämmelser och fastställda kvalitetskrav. Dessutom använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; verktyg och maskiner samt följer föreskrifter och anvisningar för dem. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar och andra gällande handlingar. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare enklare reparationer, service och underhåll på både äldre och nyare system och installationer.&lt;/p&gt; &lt;p&gt;Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. Dessutom gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utförda åtgärder. Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt; &lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Sprinklerteknik 2</name>
+    <englishName>Sprinkler technology 2</englishName>
+    <description
+    >&lt;p&gt;Kursen sprinklerteknik 2 omfattar punkterna 1–7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>SPNSPR02</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Sprinklerteknik 2, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: SPNSPR02&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Vattenförsörjning för sprinkleranläggningar.&lt;/li&gt; &lt;li&gt;El och larmfunktioner i sprinkleranläggningar.&lt;/li&gt; &lt;li&gt;Gränsdragning mot andra teknikområden.&lt;/li&gt; &lt;li&gt;Regelverk som styr installation av sprinkler, till exempel BBR och Europanormer.&lt;/li&gt; &lt;li&gt;Ritningar och dokumentation av installation och genomförda arbeten.&lt;/li&gt; &lt;li&gt;Montering och placering vid installation av vanligt förekommande sprinklerutrustning.&lt;/li&gt; &lt;li&gt;Felsökning, service- och underhållsarbete.&lt;/li&gt; &lt;li&gt;Kontroll och provning.&lt;/li&gt; &lt;li&gt;Täthetsprovning.&lt;/li&gt; &lt;li&gt;Dokumentation enligt arbetsbeskrivning.&lt;/li&gt; &lt;li&gt;Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen.&lt;/li&gt; &lt;li&gt;Ergonomiskt riktigt arbetssätt.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; uppbyggnad och funktion av olika sprinklersystem. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för de miljö- och säkerhetskrav samt de brandskyddsregler som gäller sprinkleranläggningar. Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; vilka komponenter, material och metoder som används vid sammanfogning, samt vilka standarder och myndighetskrav som gäller. Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för olika medier i sprinklersystem samt för deras användningsområden, miljöpåverkan och driftegenskaper.&lt;/p&gt; &lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsplatsen och sitt arbete. I planeringen och utförandet väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;någon vanligt förekommande arbetsmetod och teknik, utifrån lagar, andra bestämmelser och fastställda kvalitetskrav. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; verktyg och maskiner samt följer föreskrifter och anvisningar för dem. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar och andra gällande handlingar.&lt;/p&gt; &lt;p&gt;Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare enklare reparationer, service och underhåll på både äldre och nyare system och installationer. Eleven värderar också med &lt;strong&gt;enkla &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utförda åtgärder. Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt; &lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; uppbyggnad och funktion av olika sprinklersystem. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för de miljö- och säkerhetskrav samt de brandskyddsregler som gäller sprinkleranläggningar. Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; vilka komponenter, material och metoder som används vid sammanfogning, samt vilka standarder och myndighetskrav som gäller. Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för olika medier i sprinklersystem samt för deras användningsområden, miljöpåverkan och driftegenskaper.&lt;/p&gt; &lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsplatsen och sitt arbete. I planeringen och utförandet väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;någon vanligt förekommande arbetsmetod och teknik, utifrån lagar, andra bestämmelser och fastställda kvalitetskrav. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; verktyg och maskiner samt följer föreskrifter och anvisningar för dem. Eleven utför &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare arbetet utifrån ritningar och andra gällande handlingar.&lt;/p&gt; &lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare enklare reparationer, service och underhåll på både äldre och nyare system och installationer. Eleven värderar också med &lt;strong&gt;välgrundade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utförda åtgärder. Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt; &lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; uppbyggnad och funktion av olika sprinklersystem. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för de miljö- och säkerhetskrav samt de brandskyddsregler som gäller sprinkleranläggningar. Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; vilka komponenter, material och metoder som används vid sammanfogning, samt vilka standarder och myndighetskrav som gäller. Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för olika medier i sprinklersystem samt för deras användningsområden, miljöpåverkan och driftegenskaper.&lt;/p&gt; &lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsplatsen och sitt arbete. I planeringen och utförandet väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;någon vanligt förekommande arbetsmetod och teknik, utifrån lagar, andra bestämmelser och fastställda kvalitetskrav. Dessutom använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; verktyg och maskiner samt följer föreskrifter och anvisningar för dem. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar och andra gällande handlingar. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare enklare reparationer, service och underhåll på både äldre och nyare system och installationer.&lt;/p&gt; &lt;p&gt;Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. Dessutom gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utförda åtgärder. Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt; &lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

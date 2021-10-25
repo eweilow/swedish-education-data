@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>VVS – installation</name>
+  <englishName>HVAC installation</englishName>
+  <description
+  >&lt;p&gt;Ämnet VVS – installation behandlar uppbyggnad och funktion av värme- och sanitetstekniska installationer i byggnader och är till sin karaktär både praktiskt och teoretiskt. I ämnet läggs grunderna för hantverkskunnande, yrkesidentitet och yrkesmässighet inom VVS. Branschens tekniska utveckling och betydelsen av en hållbar utveckling behandlas också.&lt;/p&gt;</description>
+  <code>VVI</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2014-10-21T07:22:42+02:00</createdDate>
+  <modifiedDate>2020-02-19T16:03:10+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;VVS – installation&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet VVS – installation ska syfta till att eleverna utvecklar kunskaper om värme- och sanitetstekniska installationer och deras konstruktioner. Den ska även leda till att eleverna utvecklar kunskaper om och färdigheter i att hantera material och utrustning samt att arbeta i enlighet med regler för miljö och säkerhet. Eleverna ska också ges möjlighet att utveckla kunskaper i att förebygga och hantera brand i den egna arbetsmiljön.&lt;/p&gt;&lt;p&gt;I undervisningen ska eleverna ges möjlighet att utveckla förmåga att planera, organisera, genomföra och utvärdera arbetsuppgifter. Dessutom ska eleverna ges möjlighet att utveckla förmåga att använda ritningar, instruktioner och arbetsbeskrivningar samt utveckla kunskaper om gällande bygglagstiftning och branschregler.&lt;/p&gt;&lt;p&gt;I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om och färdigheter i sammanfogningstekniker av permanenta och demonterbara fogar samt förband för rör och tillhörande utrustning.&lt;/p&gt;&lt;p&gt;Undervisningen ska leda till att eleverna utvecklar servicekänsla i yrkesutövandet och kunskaper i entreprenörskap. I undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om yrkesetik och installationernas estetiska utformning.&lt;/p&gt;&lt;p&gt;Genom ett problemlösande arbetssätt och praktiskt laborativa övningar i undervisningen ska eleverna ges möjlighet att utveckla förmåga att arbeta ansvarsfullt, individuellt och i samarbete med andra. Undervisningen ska genomföras så att de praktiska och teoretiska kunskaperna kopplas samman.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet VVS – installation ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om olika energianläggningars uppbyggnad och funktion samt miljökrav som gäller för dessa.&lt;/li&gt; &lt;li&gt;Kunskaper om byggprocessen.&lt;/li&gt; &lt;li&gt;Förmåga att planera och utföra installationsarbeten utifrån lagar och andra bestämmelser och fastställda kvalitetskrav.&lt;/li&gt; &lt;li&gt;Förmåga att använda ritningar med tillhörande handlingar.&lt;/li&gt; &lt;li&gt;Kunskaper om komponenter och apparater samt om material och metoder för sammanfogning enligt standarder och myndighetskrav.&lt;/li&gt; &lt;li&gt;Kunskaper om olika medier i VVS-system.&lt;/li&gt; &lt;li&gt;Kunskaper om nya och beprövade produkter och material samt förmåga att utföra reparationer, service och underhåll på system och installationer.&lt;/li&gt; &lt;li&gt;Förmåga att bemöta och kommunicera med andra.&lt;/li&gt; &lt;li&gt;Förmåga att utföra kontroller samt att värdera och dokumentera sitt arbete.&lt;/li&gt; &lt;li&gt;Kunskaper om systematiskt arbetsmiljöarbete.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Entreprenadteknik, 100 poäng.&lt;/li&gt; &lt;li&gt;Sanitetsteknik 1, 100 poäng.&lt;/li&gt; &lt;li&gt;Sanitetsteknik 2, 100 poäng, som bygger på kursen sanitetsteknik 1.&lt;/li&gt; &lt;li&gt;VVS-teknik, 200 poäng, som bygger på kursen sanitetsteknik 2 och kursen värmeteknik 2.&lt;/li&gt; &lt;li&gt;VVS svets och lödning rör, 100 poäng.&lt;/li&gt; &lt;li&gt;VVS gassvetsning rör, 100 poäng, som bygger på kursen VVS svets och lödning rör.&lt;/li&gt; &lt;li&gt;Värmeteknik 1, 100 poäng.&lt;/li&gt; &lt;li&gt;Värmeteknik 2, 100 poäng, som bygger på kursen värmeteknik 1.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2014:76</skolfsId>
+  <applianceDate>2014-10-02T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Entreprenadteknik</name>
+    <englishName>Contracting</englishName>
+    <description
+    >&lt;p&gt;Kursen entreprenadteknik omfattar punkterna 2–4 och 8–10 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>VVIENT0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Entreprenadteknik, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: VVIENT0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Byggprocessen från produktframställning till förvaltning.&lt;/li&gt; &lt;li&gt;Planering och organisering av arbetsuppgifter utifrån information i bygghandlingar.&lt;/li&gt; &lt;li&gt;Ritningsläsning och ritteknik med symboler, skalor, vyer och beteckningar.&lt;/li&gt; &lt;li&gt;Bygglagstiftning, föreskrifter, standarder och branschregler som används vid byggprocessens olika skeden.&lt;/li&gt; &lt;li&gt;Avtal, lagar och andra bestämmelser som gäller i samarbetet mellan beställare och utförare.&lt;/li&gt; &lt;li&gt;Konsumentlagar i samband med entreprenader.&lt;/li&gt; &lt;li&gt;Tillträdesregler, till exempel vid arbeten i bostäder och andra lokaler utanför den egna verksamheten.&lt;/li&gt; &lt;li&gt;Framställning av drift- och underhållsinstruktioner.&lt;/li&gt; &lt;li&gt;Bemötande av beställare, fastighetsägare och bostadsinnehavare.&lt;/li&gt; &lt;li&gt;Provning, besiktning, funktionskontroll och dokumentation.&lt;/li&gt; &lt;li&gt;Föreskrifter om arbetsmiljö, miljövård och byggande. Förekommande entreprenadformer samt samordning och gränsdragning mellan entreprenader.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för byggprocessens olika delar från produktframställning till förvaltning.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare installationsarbete utifrån information i ritningar och andra handlingar samt utifrån lagar och andra bestämmelser. Dessutom framställer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare egna drift- och underhållsinstruktioner.&lt;/p&gt;&lt;p&gt;Eleven bemöter och kommunicerar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med beställare, fastighetsägare och bostadsinnehavare.&lt;/p&gt;&lt;p&gt;Eleven gör, utifrån ritningarna och handlingarna, provning, besiktning och funktionskontroll samt värderar med &lt;strong&gt;enkla &lt;/strong&gt;omdömen om installationerna uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av arbetet.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;entreprenaders arbetsmiljöarbete samt olika entreprenadformer och samordning och gränsdragning mellan dessa.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för byggprocessens olika delar från produktframställning till förvaltning.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare installationsarbete utifrån information i ritningar och andra handlingar samt utifrån lagar och andra bestämmelser. Dessutom framställer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare egna drift- och underhållsinstruktioner.&lt;/p&gt;&lt;p&gt;Eleven bemöter och kommunicerar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med beställare, fastighetsägare och bostadsinnehavare.&lt;/p&gt;&lt;p&gt;Eleven gör, utifrån ritningarna och handlingarna, provning, besiktning och funktionskontroll samt värderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om installationerna uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av arbetet.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;entreprenaders arbetsmiljöarbete samt olika entreprenadformer och samordning och gränsdragning mellan dessa.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för byggprocessens olika delar från produktframställning till förvaltning.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare installationsarbete utifrån information i ritningar och andra handlingar samt utifrån lagar och andra bestämmelser. Dessutom framställer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare egna drift- och underhållsinstruktioner.&lt;/p&gt;&lt;p&gt;Eleven bemöter och kommunicerar &lt;strong&gt;med säkerhet &lt;/strong&gt;med beställare, fastighetsägare och bostadsinnehavare.&lt;/p&gt;&lt;p&gt;Eleven gör, utifrån ritningarna och handlingarna, provning, besiktning och funktionskontroll samt värderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om installationerna uppfyller fastställda kvalitetskrav &lt;strong&gt;samt ger förslag på hur installationerna kan förbättras&lt;/strong&gt;. Dessutom gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av arbetet.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;entreprenaders arbetsmiljöarbete samt olika entreprenadformer och samordning och gränsdragning mellan dessa.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Sanitetsteknik 1</name>
+    <englishName>Sanitary technology 1</englishName>
+    <description
+    >&lt;p&gt;Kursen sanitetsteknik 1 omfattar punkterna 1, 3–7 och 9–10 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>VVISAN01</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Sanitetsteknik 1, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: VVISAN01&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Vattnets kretslopp i naturen och hur miljön påverkar tillgången på rent vatten.&lt;/li&gt; &lt;li&gt;Vattentäkter för kommunala och enskilda anläggningar samt apparater och komponenter för behandling av dricksvatten.&lt;/li&gt; &lt;li&gt;Uppfordring, rening och uppvärmning av tappvatten.&lt;/li&gt; &lt;li&gt;Montering av tappvatteninstallationer i sanitetsutrymmen.&lt;/li&gt; &lt;li&gt;Material i rör och armatur för användning i tappvattensystem.&lt;/li&gt; &lt;li&gt;Kommunala och enskilda system och anläggningar för behandling av avloppsvatten.&lt;/li&gt; &lt;li&gt;Måttsättning, montering och funktionskontroll av vanligt förekommande apparater och utrustning.&lt;/li&gt; &lt;li&gt;Montering av avloppsinstallationer för sanitetsutrymmen i bostäder.&lt;/li&gt; &lt;li&gt;Korrosionsskydd i material vid inre och yttre påverkan.&lt;/li&gt; &lt;li&gt;Hur planering och organisering av arbetsplatsen och arbetsuppgiften genomförs vid arbete med sanitetstekniska installationer.&lt;/li&gt; &lt;li&gt;Ritningar, arbetsbeskrivningar och monteringsanvisningar.&lt;/li&gt; &lt;li&gt;Bygglagstiftning, branschregler och övriga regler för arbeten med vatten- och sanitetsanläggningar.&lt;/li&gt; &lt;li&gt;Täthetskontroller och dokumentation enligt arbetsbeskrivning.&lt;/li&gt; &lt;li&gt;Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen.&lt;/li&gt; &lt;li&gt;Ergonomiskt riktigt arbetssätt.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;uppbyggnad och funktion hos olika system för rening av vatten och avlopp. I beskrivningen redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för behandlingsprocesser i vatten- och avloppsanläggningar. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för de miljökrav som gäller.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare måttsättning, montering och funktionskontroll av vatten- och sanitetssystem utifrån ritningar, andra handlingar samt lagar och andra bestämmelser. I sin funktionskontroll utför eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare täthetskontroller samt värderar med &lt;strong&gt;enkla &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;uppbyggnad och funktion hos olika system för rening av vatten och avlopp. I beskrivningen redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för behandlingsprocesser i vatten- och avloppsanläggningar. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för de miljökrav som gäller.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare måttsättning, montering och funktionskontroll av vatten- och sanitetssystem utifrån ritningar, andra handlingar samt lagar och andra bestämmelser. I sin funktionskontroll utför eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare täthetskontroller samt värderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;uppbyggnad och funktion hos olika system för rening av vatten och avlopp. I beskrivningen redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för behandlingsprocesser i vatten- och avloppsanläggningar. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för de miljökrav som gäller.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare måttsättning, montering och funktionskontroll av vatten- och sanitetssystem utifrån ritningar, andra handlingar samt lagar och andra bestämmelser. I sin funktionskontroll utför eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare täthetskontroller samt värderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. Dessutom gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Sanitetsteknik 2</name>
+    <englishName>Sanitary technology 2</englishName>
+    <description
+    >&lt;p&gt;Kursen sanitetsteknik 2 omfattar punkterna 1, 3–7 och 9–10 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>VVISAN02</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Sanitetsteknik 2, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: VVISAN02&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Trycksatta kärl, pumpar och övrig utrustning för tryckhållning och funktion vid drift av tappvattensystem.&lt;/li&gt; &lt;li&gt;Montering av kallvattenmatning, varmvattenberedning och tappställe för varm- och kallvatten för hygien, disk och renspolning enligt gängse krav på funktion och utförande.&lt;/li&gt; &lt;li&gt;Avskiljning och rening av avloppsvatten, anläggningar, pumpar och övrig utrustning samt anslutning av system enligt bygglagstiftning och miljölagstiftning.&lt;/li&gt; &lt;li&gt;Avloppssystem, hur de förläggs och monteras både inom- och utomhus.&lt;/li&gt; &lt;li&gt;Planering och organisering av arbetsplatsen vid arbete med sanitetstekniska installationer.&lt;/li&gt; &lt;li&gt;Ritningar, arbetsbeskrivningar och monteringsanvisningar.&lt;/li&gt; &lt;li&gt;Bygglagstiftning, branschregler och övriga regler för arbeten med vatten- och sanitetssystem.&lt;/li&gt; &lt;li&gt;Hantverksteknik enligt krav på utförande, arbetsmetoder och ekonomi.&lt;/li&gt; &lt;li&gt;Fogningsteknik, till exempel lödfogar och mekaniska kopplingar.&lt;/li&gt; &lt;li&gt;Måttsättning för montering, isoleringsavstånd, avsättning och fogberedning.&lt;/li&gt; &lt;li&gt;Egenskaper och användningsområden för material, komponenter och apparater med hänsyn till yttre och inre korrosion, brandskydd och ljud.&lt;/li&gt; &lt;li&gt;Verktyg, maskiner och övriga hjälpmedel.&lt;/li&gt; &lt;li&gt;Täthetskontroller och dokumentation enligt arbetsbeskrivning.&lt;/li&gt; &lt;li&gt;Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen.&lt;/li&gt; &lt;li&gt;Ergonomiskt riktigt arbetssätt.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; uppbyggnad, funktion och drift av tappvattensystem och avloppssystem. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för de miljökrav som gäller.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;någon vanligt förekommande arbetsmetod och teknik. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar, andra handlingar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;komponenter och apparater samt material och metoder för sammanfogning. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; verktyg och maskiner samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven ger exempel på, och redogör &lt;strong&gt;översiktligt &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på system och installationer. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare täthetskontroller. Eleven värderar också med &lt;strong&gt;enkla &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; uppbyggnad, funktion och drift av tappvattensystem och avloppssystem. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för de miljökrav som gäller.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;någon vanligt förekommande arbetsmetod och teknik. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar, andra handlingar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;komponenter och apparater samt material och metoder för sammanfogning. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; verktyg och maskiner samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven ger exempel på, och redogör &lt;strong&gt;utförligt &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på system och installationer. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare täthetskontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; uppbyggnad, funktion och drift av tappvattensystem och avloppssystem. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för de miljökrav som gäller.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;någon vanligt förekommande arbetsmetod och teknik &lt;strong&gt;samt motiverar sina val&lt;/strong&gt;. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar, andra handlingar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;komponenter och apparater samt material och metoder för sammanfogning. Dessutom använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; verktyg och maskiner samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven ger exempel på, och redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på system och installationer. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare täthetskontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. Dessutom gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <courses>
+    <name>VVS-teknik</name>
+    <englishName>HVAC technology</englishName>
+    <description
+    >&lt;p&gt;Kursen VVS-teknik omfattar punkterna 1, 3–7 och 9–10 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>VVIVVT0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;VVS-teknik, 200 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: VVIVVT0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Konventionella och alternativa energisystem samt deras uppbyggnad och funktion.&lt;/li&gt; &lt;li&gt;Avluftning och avgasning av värmesystem och komfortkylsystem.&lt;/li&gt; &lt;li&gt;Planering, organisering och genomförande av VVS-installationer.&lt;/li&gt; &lt;li&gt;Ritningar, arbetsbeskrivningar och monteringsanvisningar.&lt;/li&gt; &lt;li&gt;Bygglagstiftning, standarder, branschregler och övriga regler för uppbyggnad av VVS-anläggningar.&lt;/li&gt; &lt;li&gt;Montering av sammansatta VVS-installationer med produktionsenhet, distributionssystem och förbrukningsdelar med värme- och sanitetstekniska system.&lt;/li&gt; &lt;li&gt;Dimensionering av rör, värmare och luftkylare.&lt;/li&gt; &lt;li&gt;Fogningsteknik med odemonterbara och demonterbara förband, till exempel löd- och svetsfogar, mekaniska kopplingar och flänsförband.&lt;/li&gt; &lt;li&gt;Verktyg, maskiner och övriga hjälpmedel.&lt;/li&gt; &lt;li&gt;Medier i VVS-system och deras användningsområden, miljöpåverkan och driftegenskaper.&lt;/li&gt; &lt;li&gt;Felsökning, service- och underhållsarbeten i VVS-anläggningar.&lt;/li&gt; &lt;li&gt;Täthetsprovning, kontroller och bedömning samt dokumentation av utförda åtgärder.&lt;/li&gt; &lt;li&gt;Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen.&lt;/li&gt; &lt;li&gt;Ergonomiskt riktigt arbetssätt.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>200</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; uppbyggnad och funktion av olika energisystem och värme- och komfortkylsystem. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för de miljökrav som gäller.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;någon vanligt förekommande arbetsmetod och teknik. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar, andra handlingar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;komponenter och apparater samt material och metoder för sammanfogning. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; verktyg och maskiner samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för olika medier i VVS-system samt för deras användningsområden, miljöpåverkan och driftegenskaper. Dessutom ger eleven exempel på, och redogör &lt;strong&gt;översiktligt &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på system och installationer. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;enkla &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; uppbyggnad och funktion av olika energisystem och värme- och komfortkylsystem. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för de miljökrav som gäller.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;någon vanligt förekommande arbetsmetod och teknik. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar, andra handlingar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;komponenter och apparater samt material och metoder för sammanfogning. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; verktyg och maskiner samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för olika medier i VVS-system samt för deras användningsområden, miljöpåverkan och driftegenskaper. Dessutom ger eleven exempel på, och redogör &lt;strong&gt;utförligt &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på system och installationer. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; uppbyggnad och funktion av olika energisystem och värme- och komfortkylsystem. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för de miljökrav som gäller.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;någon vanligt förekommande arbetsmetod och teknik &lt;strong&gt;samt motiverar sina val&lt;/strong&gt;. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar, andra handlingar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;komponenter och apparater samt material och metoder för sammanfogning. Dessutom använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; verktyg och maskiner samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för olika medier i VVS-system samt för deras användningsområden, miljöpåverkan och driftegenskaper. Dessutom ger eleven exempel på, och redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på system och installationer. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. Dessutom gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>4</sortOrder>
+  </courses>
+  <courses>
+    <name>VVS svets och lödning rör</name>
+    <englishName>HVAC welding and soldering pipes</englishName>
+    <description
+    >&lt;p&gt;Kursen VVS svets och lödning rör omfattar punkterna 3–5, 7 och 9–10 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>VVIVVS0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;VVS svets och lödning rör, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: VVIVVS0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Löd- och svetsdatablad som behandlar parametrar, till exempel val av munstycke för olika materialtjocklekar och lägen.&lt;/li&gt; &lt;li&gt;Kvalitetsnivåer och kompetenskrav inom svetsning och lödning.&lt;/li&gt; &lt;li&gt;Förbränningsprocessen, lågans reglering och temperaturzoner.&lt;/li&gt; &lt;li&gt;Sammanfogning med gassvetsning med teknikerna från- och motsvets i förekommande positioner i horisontellt och vertikalt läge i plattstål och horisontellt läge i tubrör.&lt;/li&gt; &lt;li&gt;Metoder för hård- och mjuklödning i förekommande positioner med rör som formvara.&lt;/li&gt; &lt;li&gt;Fogberedning samt håltagning, demontering och användning av skärutrustning.&lt;/li&gt; &lt;li&gt;Materiallära för stål och koppar och deras legeringar samt för tillsatsmaterial. Grundmaterial och tillsatsmaterial för svetsning och lödning.&lt;/li&gt; &lt;li&gt;Skötsel och underhåll av maskiner och utrustning.&lt;/li&gt; &lt;li&gt;Täthetsprovning, kontroller och dokumentation vid svets- och lödarbeten.&lt;/li&gt; &lt;li&gt;Egenskaper hos och förvaring av behållare för bränngaser och syre.&lt;/li&gt; &lt;li&gt;Distribution av svetsgaser till arbetsplatser.&lt;/li&gt; &lt;li&gt;Arbetsmiljö, hälsa och säkerhet vid arbete med svetsning och lödning.&lt;/li&gt; &lt;li&gt;Brandsäkerhet för skydd mot brand och brandgasspridning samt lagar och föreskrifter om brandsäkerhet.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare sitt arbete utifrån ritningar och andra handlingar. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;material och utrustning. Eleven utför arbetet med &lt;strong&gt;visst&lt;/strong&gt; handlag och med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoder och tekniker för sammanfogning enligt lagar och andra bestämmelser. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; verktyg och maskiner samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven ger exempel på, och redogör &lt;strong&gt;översiktligt &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på maskiner och utrustning. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;enkla &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete utifrån ritningar och andra handlingar. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet metoder&lt;/strong&gt;, material och utrustning. Eleven utför arbetet med &lt;strong&gt;gott&lt;/strong&gt; handlag och med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoder och tekniker för sammanfogning enligt lagar och andra bestämmelser. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; verktyg och maskiner samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven ger exempel på, och redogör &lt;strong&gt;utförligt &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på maskiner och utrustning. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete utifrån ritningar och andra handlingar. I planeringen väljer eleven &lt;strong&gt;med säkerhet metoder&lt;/strong&gt;, material och utrustning &lt;strong&gt;samt motiverar sina val&lt;/strong&gt;. Eleven utför arbetet med &lt;strong&gt;mycket gott&lt;/strong&gt; handlag och med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;metoder och tekniker för sammanfogning enligt lagar och andra bestämmelser. Dessutom använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; verktyg och maskiner samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven ger exempel på, och redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på maskiner och utrustning. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. Dessutom gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>5</sortOrder>
+  </courses>
+  <courses>
+    <name>VVS gassvetsning rör</name>
+    <englishName>HVAC oxy-fuel welding pipes</englishName>
+    <description
+    >&lt;p&gt;Kursen VVS gassvetsning rör omfattar punkterna 3–5, 7 och 9–10 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>VVIVVG0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;VVS gassvetsning rör, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: VVIVVG0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Svetsdatablad som behandlar parametrar, till exempel val av munstycke för olika materialtjocklekar och lägen.&lt;/li&gt; &lt;li&gt;Vanliga problem och formavvikelser vid gassvetsning.&lt;/li&gt; &lt;li&gt;Kvalitetsnivåer och provmetoder av svetsförband samt kompetenskrav vid svetsning.&lt;/li&gt; &lt;li&gt;Förbränningsprocessen, lågans reglering och temperaturzoner.&lt;/li&gt; &lt;li&gt;Sammanfogning med gassvetsning med teknikerna från- och motsvets i förekommande positioner i horisontellt och vertikalt läge i tubrör.&lt;/li&gt; &lt;li&gt;Arbetsmetoder med maskiner och gasskärutrustning för bearbetning och fogförberedelser.&lt;/li&gt; &lt;li&gt;Gasskärning och utrustning för håltagning till påstick, rörförgreningar och stutsförband samt för demontering.&lt;/li&gt; &lt;li&gt;Materiallära för stål och dess legeringar samt för tillsatsmaterial.&lt;/li&gt; &lt;li&gt;Skötsel och underhåll av gassvetsutrustning, verktyg och maskiner.&lt;/li&gt; &lt;li&gt;Täthetsprovning, kontroller och dokumentation vid svetsarbeten.&lt;/li&gt; &lt;li&gt;Egenskaper och förvaring av behållare för bränngaser och syre.&lt;/li&gt; &lt;li&gt;Distribution av svetsgaser till arbetsplatser.&lt;/li&gt; &lt;li&gt;Arbetsmiljö, hälsa och säkerhet vid arbete med svetsning och skärning.&lt;/li&gt; &lt;li&gt;Brandsäkerhet för skydd mot brand och brandgasspridning samt lagar och föreskrifter om brandsäkerhet.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare sitt arbete utifrån ritningar och andra handlingar. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;material och utrustning. Eleven utför arbetet med &lt;strong&gt;visst&lt;/strong&gt; handlag och med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoder och tekniker för sammanfogning enligt lagar och andra bestämmelser. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; verktyg och maskiner samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven ger exempel på, och redogör &lt;strong&gt;översiktligt &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på maskiner och utrustning. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;enkla &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete utifrån ritningar och andra handlingar. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet metoder&lt;/strong&gt;, material och utrustning. Eleven utför arbetet med &lt;strong&gt;gott&lt;/strong&gt; handlag och med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoder och tekniker för sammanfogning enligt lagar och andra bestämmelser. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; verktyg och maskiner samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven ger exempel på, och redogör &lt;strong&gt;utförligt &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på maskiner och utrustning. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete utifrån ritningar och andra handlingar. I planeringen väljer eleven &lt;strong&gt;med säkerhet metoder&lt;/strong&gt;, material och utrustning &lt;strong&gt;samt motiverar sina val&lt;/strong&gt;. Eleven utför arbetet med &lt;strong&gt;mycket gott&lt;/strong&gt; handlag och med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;metoder och tekniker för sammanfogning enligt lagar och andra bestämmelser. Dessutom använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; verktyg och maskiner samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven ger exempel på, och redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på maskiner och utrustning. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. Dessutom gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>6</sortOrder>
+  </courses>
+  <courses>
+    <name>Värmeteknik 1</name>
+    <englishName>Heating technology 1</englishName>
+    <description
+    >&lt;p&gt;Kursen värmeteknik 1 omfattar punkterna 1, 3–5, 7 och 9–10 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>VVIVAR01</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Värmeteknik 1, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: VVIVAR01&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Anläggningar, system, apparater och komponenter för värme och komfortkyla samt deras uppbyggnad, funktion och säkerhet.&lt;/li&gt; &lt;li&gt;Planering och organisering av arbetsplatsen och arbetsuppgiften vid arbete med värmetekniska installationer.&lt;/li&gt; &lt;li&gt;Ritningar, arbetsbeskrivningar och monteringsanvisningar.&lt;/li&gt; &lt;li&gt;Montering och installation av vanligt förekommande värmeteknisk utrustning.&lt;/li&gt; &lt;li&gt;Grundläggande hantverksteknik med lämpliga verktyg och maskiner för material och förläggningssätt.&lt;/li&gt; &lt;li&gt;Fogningsteknik, till exempel lödfogar och mekaniska kopplingar.&lt;/li&gt; &lt;li&gt;Måttsättning för montering, isoleringsavstånd, avsättning och fogberedning.&lt;/li&gt; &lt;li&gt;Material i rör, komponenter och apparater.&lt;/li&gt; &lt;li&gt;Mekanisk påverkan i material vid montering och drift av installationer.&lt;/li&gt; &lt;li&gt;Täthetsprovning, kontroller och dokumentation enligt arbetsbeskrivning.&lt;/li&gt; &lt;li&gt;Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen.&lt;/li&gt; &lt;li&gt;Ergonomiskt riktigt arbetssätt.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; uppbyggnad och funktion av anläggningar, system och komponenter för värme och komfortkyla. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för de miljökrav som gäller.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;någon vanligt förekommande arbetsmetod och teknik. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar, andra handlingar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;komponenter och apparater samt material och metoder för sammanfogning. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; verktyg och maskiner samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven ger exempel på, och redogör &lt;strong&gt;översiktligt &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på system och installationer. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;enkla &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; uppbyggnad och funktion av anläggningar, system och komponenter för värme och komfortkyla. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för de miljökrav som gäller.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;någon vanligt förekommande arbetsmetod och teknik. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar, andra handlingar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;komponenter och apparater samt material och metoder för sammanfogning. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; verktyg och maskiner samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven ger exempel på, och redogör &lt;strong&gt;utförligt &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på system och installationer. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; uppbyggnad och funktion av anläggningar, system och komponenter för värme och komfortkyla. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för de miljökrav som gäller.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;någon vanligt förekommande arbetsmetod och teknik &lt;strong&gt;samt motiverar sina val&lt;/strong&gt;. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar, andra handlingar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;komponenter och apparater samt material och metoder för sammanfogning. Dessutom använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; verktyg och maskiner samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven ger exempel på, och redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på system och installationer. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. Dessutom gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>7</sortOrder>
+  </courses>
+  <courses>
+    <name>Värmeteknik 2</name>
+    <englishName>Heating technology 2</englishName>
+    <description
+    >&lt;p&gt;Kursen värmeteknik 2 omfattar punkterna 1, 3–5, 7 och 9–10 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>VVIVAR02</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Värmeteknik 2, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: VVIVAR02&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Anläggningar, system, apparater och komponenter för värme och komfortkyla samt deras uppbyggnad, funktion och säkerhet.&lt;/li&gt; &lt;li&gt;Planering och organisering av arbetsplatsen och arbetsuppgiften vid arbete med värmetekniska installationer.&lt;/li&gt; &lt;li&gt;Ritningar, arbetsbeskrivningar och monteringsanvisningar samt egna skisser som hjälpmedel.&lt;/li&gt; &lt;li&gt;Montering och installation av förekommande värmeteknisk utrustning samt uppbyggnad av delsystem för värmedistribution.&lt;/li&gt; &lt;li&gt;Fogningsteknik med odemonterbara och demonterbara förband, till exempel lödfogar, mekaniska kopplingar och flänsförband.&lt;/li&gt; &lt;li&gt;Måttsättning för montering, isoleringsavstånd, avsättning och fogberedning.&lt;/li&gt; &lt;li&gt;Material i rör, komponenter och apparater. Placering och förläggningssätt av rör. Lämpliga verktyg, maskiner och övriga hjälpmedel för montering av rör.&lt;/li&gt; &lt;li&gt;Täthetsprovning, kontroller och dokumentation enligt arbetsbeskrivning.&lt;/li&gt; &lt;li&gt;Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen.&lt;/li&gt; &lt;li&gt;Ergonomiskt riktigt arbetssätt.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; uppbyggnad och funktion av anläggningar, system och komponenter för värme och komfortkyla. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för de miljökrav som gäller.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;någon vanligt förekommande arbetsmetod och teknik. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar, andra handlingar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;komponenter och apparater samt material och metoder för sammanfogning. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; verktyg och maskiner samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven ger exempel på, och redogör &lt;strong&gt;översiktligt &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på system och installationer. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;enkla &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; uppbyggnad och funktion av anläggningar, system och komponenter för värme och komfortkyla. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för de miljökrav som gäller.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;någon vanligt förekommande arbetsmetod och teknik. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar, andra handlingar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;komponenter och apparater samt material och metoder för sammanfogning. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; verktyg och maskiner samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven ger exempel på, och redogör &lt;strong&gt;utförligt &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på system och installationer. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; uppbyggnad och funktion av anläggningar, system och komponenter för värme och komfortkyla. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för de miljökrav som gäller.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;någon vanligt förekommande arbetsmetod och teknik &lt;strong&gt;samt motiverar sina val&lt;/strong&gt;. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar, andra handlingar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;komponenter och apparater samt material och metoder för sammanfogning. Dessutom använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; verktyg och maskiner samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven ger exempel på, och redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på system och installationer. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. Dessutom gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>8</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

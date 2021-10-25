@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Tillverkningsunderlag</name>
+  <englishName>Manufacturing basis</englishName>
+  <description
+  >&lt;p&gt;Ämnet tillverkningsunderlag behandlar tolkning av underlag som används vid produktion av produkter samt skapande av egna tillverkningsunderlag från enkla skisser med hjälp av datorteknik. Det behandlar även beredningsunderlag, material- och produktionsstyrning samt informationssökning.&lt;/p&gt;</description>
+  <code>TIL</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2010-12-15T09:52:40+01:00</createdDate>
+  <modifiedDate>2020-02-19T16:02:23+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Tillverkningsunderlag&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet tillverkningsunderlag ska syfta till att eleverna utvecklar kunskaper om ritnings- eller mönsterläsning inom ett teknikområde. Den ska även leda till att eleverna utvecklar kunskaper om hur man, för att skapa enklare tillverkningsunderlag, med hjälp av datorteknik tillverkar egna ritningar eller mönster utifrån skisser. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om beredningsunderlag samt förmåga att ta fram beredningsunderlag utifrån ett tillverkningsunderlag.&lt;/p&gt;&lt;p&gt;Vidare ska eleverna ges möjlighet att utveckla kunskaper om hur material- och produktionsstyrningssystem fungerar i den tillverkande industrin samt om deras betydelse för att skapa ordning och reda i produktionen. Undervisningen ska även leda till att eleverna utvecklar förmåga att söka information i tabeller, handböcker och andra relevanta källor samt att använda begrepp och uttryck som är relevanta inom branschområdet.&lt;/p&gt;&lt;p&gt;Undervisningen ska innehålla såväl teoretiska som praktiska övningar för att ge eleverna möjlighet att utveckla en trygghet i att tolka och skapa tillverkningsunderlag samt utveckla förståelse för betydelsen av material- och produktionsstyrningssystem.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet tillverkningsunderlag ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Förmåga att tolka mönster- eller ritningsunderlag.&lt;/li&gt; &lt;li&gt;Förmåga att organisera och bereda arbetet utifrån tillverkningsritningar.&lt;/li&gt; &lt;li&gt;Förmåga att skapa enkla ritningar eller mönster manuellt eller med datorteknik.&lt;/li&gt; &lt;li&gt;Kunskaper om metoder för att skapa ritningar eller mönster.&lt;/li&gt; &lt;li&gt;Kunskaper om informationssökning i relevanta källor.&lt;/li&gt; &lt;li&gt;Kunskaper om specifika beteckningar inom valt område.&lt;/li&gt; &lt;li&gt;Kunskaper om material- och produktionsstyrningssystem.&lt;/li&gt; &lt;li&gt;Förmåga att använda termer och begrepp inom teknikområdet.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Tillverkningsunderlag 1, 100 poäng.&lt;/li&gt; &lt;li&gt;Tillverkningsunderlag 2, 100 poäng, som bygger på kursen tillverkningsunderlag 1.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2010:215</skolfsId>
+  <applianceDate>2011-07-01T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Tillverkningsunderlag 1</name>
+    <englishName>Manufacturing basis 1</englishName>
+    <description
+    >&lt;p&gt;Kursen tillverkningsunderlag 1 omfattar punkterna 1–6 och 8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>TILTIL01</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Tillverkningsunderlag 1, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: TILTIL01&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Tolkning av mönster- och ritningsunderlag.&lt;/li&gt; &lt;li&gt;Metoder för manuell framställning av ritningar eller mönster.&lt;/li&gt; &lt;li&gt;Metoder för beredning av tillverkningsritningar.&lt;/li&gt; &lt;li&gt;Specifika beteckningar för mönster eller ritningar.&lt;/li&gt; &lt;li&gt;Informationssökning i relevanta källor.&lt;/li&gt; &lt;li&gt;Termer och begrepp som är relevanta för teknikområdet.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven tolkar i sitt arbete &lt;strong&gt;med viss säkerhet&lt;/strong&gt; mönster- eller ritningsunderlag samt bereder och organiserar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetet utifrån dem. Dessutom framställer eleven med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare mönster eller ritningar manuellt i enlighet med givna instruktioner och kravspecifikationer. Elevens mönster eller ritningar är av &lt;strong&gt;tillfredsställande&lt;/strong&gt; kvalitet. I arbetet med att framställa mönster eller ritningar väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare metoder och utrustning som passar för uppgiften. Dessutom söker eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;information från relevanta källor. Eleven hanterar verktyg och utrustning&lt;strong&gt; med viss säkerhet &lt;/strong&gt;och håller god ordning på arbetsplatsen. Under arbetet upptäcker eleven eventuella problem som uppkommer samt åtgärdar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för den teknik och de metoder som använts för arbetsuppgiften. Dessutom redogör eleven &lt;strong&gt;översiktligt&lt;/strong&gt; för hur tillämpningen av dessa påverkar kvalitet och slutresultat. Eleven redogör även &lt;strong&gt;översiktligt &lt;/strong&gt;för använda beteckningar. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven tolkar i sitt arbete &lt;strong&gt;med viss säkerhet&lt;/strong&gt; mönster- eller ritningsunderlag samt bereder och organiserar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån dem. Dessutom framställer eleven med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare mönster eller ritningar manuellt i enlighet med givna instruktioner och kravspecifikationer. Elevens mönster eller ritningar är av &lt;strong&gt;tillfredsställande&lt;/strong&gt; kvalitet. I arbetet med att framställa mönster eller ritningar väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare metoder och utrustning som passar för uppgiften. Dessutom söker eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;information från relevanta källor. Eleven hanterar verktyg och utrustning &lt;strong&gt;med viss säkerhet &lt;/strong&gt;och håller god ordning på arbetsplatsen. Under arbetet upptäcker eleven eventuella problem som uppkommer samt åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för den teknik och de metoder som använts för arbetsuppgiften. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för hur tillämpningen av dessa påverkar kvalitet och slutresultat. Eleven redogör även &lt;strong&gt;utförligt &lt;/strong&gt;för använda beteckningar. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven tolkar i sitt arbete &lt;strong&gt;med säkerhet&lt;/strong&gt; mönster- eller ritningsunderlag samt bereder och organiserar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån dem. Dessutom framställer eleven med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare mönster eller ritningar manuellt i enlighet med givna instruktioner och kravspecifikationer. Elevens mönster eller ritningar är av &lt;strong&gt;god&lt;/strong&gt; kvalitet. I arbetet med att framställa mönster eller ritningar väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare metoder och utrustning som passar för uppgiften. Dessutom söker eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;information från relevanta källor. Eleven hanterar verktyg och utrustning &lt;strong&gt;med säkerhet &lt;/strong&gt;och håller god ordning på arbetsplatsen. Under arbetet upptäcker eleven eventuella problem som uppkommer samt åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för den teknik och de metoder som använts för arbetsuppgiften. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för hur tillämpningen av dessa påverkar kvalitet och slutresultat. Eleven redogör även &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för använda beteckningar. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Tillverkningsunderlag 2</name>
+    <englishName>Manufacturing basis 2</englishName>
+    <description
+    >&lt;p&gt;Kursen tillverkningsunderlag 2 omfattar punkterna 3–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>TILTIL02</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Tillverkningsunderlag 2, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: TILTIL02&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Tolkning av mönster- och ritningsunderlag.&lt;/li&gt; &lt;li&gt;Metoder för framställning av mönster eller ritningar med hjälp av datorteknik.&lt;/li&gt; &lt;li&gt;Metoder för beredning av tillverkningsritningar.&lt;/li&gt; &lt;li&gt;Specifika beteckningar för datorframställning av mönster eller ritningar.&lt;/li&gt; &lt;li&gt;Informationssökning i relevanta källor.&lt;/li&gt; &lt;li&gt;Material- och produktionsstyrningssystem, hur de fungerar och deras betydelse för produktionen.&lt;/li&gt; &lt;li&gt;Termer och begrepp som är relevanta för teknikområdet.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven tolkar i sitt arbete &lt;strong&gt;med viss säkerhet&lt;/strong&gt; mönster- eller ritningsunderlag samt bereder och organiserar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetet utifrån dem. Dessutom framställer eleven med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare mönster eller ritningar både manuellt och med datorteknik i enlighet med givna instruktioner och kravspecifikationer. Elevens mönster eller ritningar är av &lt;strong&gt;tillfredsställande&lt;/strong&gt; kvalitet. I arbetet med att framställa mönster eller ritningar väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare metoder, utrustning och datorprogram som passar för uppgiften. Dessutom söker eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;information från relevanta källor. Eleven hanterar verktyg, utrustning, och datorprogram &lt;strong&gt;med viss säkerhet &lt;/strong&gt;och håller god ordning på arbetsplatsen. Under arbetet upptäcker eleven eventuella problem som uppkommer samt åtgärdar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för den teknik, de metoder och de datorprogram som använts för arbetsuppgiften. Dessutom redogör eleven &lt;strong&gt;översiktligt&lt;/strong&gt; för hur tillämpningen av dessa påverkar kvalitet och slutresultat. Eleven redogör även &lt;strong&gt;översiktligt &lt;/strong&gt;för använda beteckningar. Vidare redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för hur material- och produktionsstyrningsprogram fungerar samt för deras betydelse för produktionen. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven tolkar i sitt arbete &lt;strong&gt;med viss säkerhet&lt;/strong&gt; mönster- eller ritningsunderlag samt bereder och organiserar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån dem. Dessutom framställer eleven med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare mönster eller ritningar både manuellt och med datorteknik i enlighet med givna instruktioner och kravspecifikationer. Elevens mönster eller ritningar är av &lt;strong&gt;tillfredsställande&lt;/strong&gt; kvalitet. I arbetet med att framställa mönster eller ritningar väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare metoder, utrustning och datorprogram som passar för uppgiften. Dessutom söker eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;information från relevanta källor. Eleven hanterar verktyg, utrustning, och datorprogram &lt;strong&gt;med viss säkerhet &lt;/strong&gt;och håller god ordning på arbetsplatsen. Under arbetet upptäcker eleven eventuella problem som uppkommer samt åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för den teknik, de metoder och de datorprogram som använts för arbetsuppgiften. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för hur tillämpningen av dessa påverkar kvalitet och slutresultat. Eleven redogör även &lt;strong&gt;utförligt&lt;/strong&gt; för använda beteckningar. Vidare redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för hur material- och produktionsstyrningsprogram fungerar samt för deras betydelse för produktionen. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven tolkar i sitt arbete &lt;strong&gt;med säkerhet&lt;/strong&gt; mönster- eller ritningsunderlag samt bereder och organiserar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån dem. Dessutom framställer eleven med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare mönster eller ritningar både manuellt och med datorteknik i enlighet med givna instruktioner och kravspecifikationer. Elevens mönster eller ritningar är av &lt;strong&gt;god&lt;/strong&gt; kvalitet. I arbetet med att framställa mönster eller ritningar väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare metoder, utrustning och datorprogram som passar för uppgiften. Dessutom söker eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;information från relevanta källor. Eleven hanterar verktyg, utrustning, och datorprogram &lt;strong&gt;med säkerhet &lt;/strong&gt;och håller god ordning på arbetsplatsen. Under arbetet upptäcker eleven eventuella problem som uppkommer samt åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för den teknik, de metoder och de datorprogram som använts för arbetsuppgiften. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för hur tillämpningen av dessa påverkar kvalitet och slutresultat. Eleven redogör även &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för använda beteckningar. Vidare redogör eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för hur material- och produktionsstyrningsprogram fungerar samt för deras betydelse för produktionen. Eleven utvärderar sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

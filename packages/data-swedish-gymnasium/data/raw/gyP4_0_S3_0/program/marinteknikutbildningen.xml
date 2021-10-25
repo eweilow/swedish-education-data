@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<program xmlns="http://syllabus2011program.types.skolverket.se/v4_0">
+  <name>Marinteknikutbildningen</name>
+  <code>MX</code>
+  <codeExternal>MX</codeExternal>
+  <skolfsId>0000:00</skolfsId>
+  <applianceDate>2017-03-01T00:00:00+01:00</applianceDate>
+  <version>1</version>
+  <status>PUBLISHED</status>
+  <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+  <typeOfProgram>NATIONAL_RECRUITMENT_FOR_LOCAL_SPECIALIZATION</typeOfProgram>
+  <commonMandatory>
+    <subject>
+      <optional>false</optional>
+      <name>Engelska</name>
+      <code>ENG</code>
+      <point>100</point>
+      <course>
+        <name>Engelska 5</name>
+        <code>ENGENG05</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Historia</name>
+      <code>HIS</code>
+      <point>50</point>
+      <course>
+        <name>Historia 1a1</name>
+        <code>HISHIS01a1</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Idrott och hälsa</name>
+      <code>IDR</code>
+      <point>100</point>
+      <course>
+        <name>Idrott och hälsa 1</name>
+        <code>IDRIDR01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Matematik</name>
+      <code>MAT</code>
+      <point>100</point>
+      <course>
+        <name>Matematik 1a</name>
+        <code>MATMAT01a</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Naturkunskap</name>
+      <code>NAK</code>
+      <point>50</point>
+      <course>
+        <name>Naturkunskap 1a1</name>
+        <code>NAKNAK01a1</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Religionskunskap</name>
+      <code>REL</code>
+      <point>50</point>
+      <course>
+        <name>Religionskunskap 1</name>
+        <code>RELREL01</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Samhällskunskap</name>
+      <code>SAM</code>
+      <point>50</point>
+      <course>
+        <name>Samhällskunskap 1a1</name>
+        <code>SAMSAM01a1</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska</name>
+      <code>SVE</code>
+      <point>100</point>
+      <course>
+        <name>Svenska 1</name>
+        <code>SVESVE01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska som andraspråk</name>
+      <code>SVA</code>
+      <point>100</point>
+      <course>
+        <name>Svenska som andraspråk 1</name>
+        <code>SVASVA01</code>
+        <point>100</point>
+      </course>
+    </subject>
+  </commonMandatory>
+  <commonProgram>
+    <subject>
+      <optional>false</optional>
+      <name>Båtkunskap</name>
+      <code>BAT</code>
+      <point>100</point>
+      <course>
+        <name>Skärgårdsnavigation</name>
+        <code>BATSKA0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Fritidsbåtteknik</name>
+      <code>FRD</code>
+      <point>100</point>
+      <course>
+        <name>Båthantering och underhåll</name>
+        <code>FRDBAT0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Marin el och elektronik</name>
+      <code>MAI</code>
+      <point>100</point>
+      <course>
+        <name>Båtel 1</name>
+        <code>MAIBAT01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Marinelektronik 1</name>
+        <code>MAIMAR01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Marinmotorteknik</name>
+      <code>MAN</code>
+      <point>100</point>
+      <course>
+        <name>Marinmotor – introduktion</name>
+        <code>MANMAR0</code>
+        <point>100</point>
+      </course>
+    </subject>
+  </commonProgram>
+  <programOrientations>
+    <programOrientation>
+      <subject>
+        <optional>false</optional>
+        <name>Elektronik</name>
+        <code>ELE</code>
+        <point>100</point>
+        <course>
+          <name>Elektronik och mikrodatorteknik</name>
+          <code>ELEELR0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Marin el och elektronik</name>
+        <code>MAI</code>
+        <point>100</point>
+        <course>
+          <name>Båtel 2</name>
+          <code>MAIBAT02</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Motorelektronik 1</name>
+          <code>MAIMOT01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <name>El och elektronik</name>
+      <code>MXELO</code>
+      <codeExternal>MXELO</codeExternal>
+      <point>300</point>
+      <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+    </programOrientation>
+    <programOrientation>
+      <subject>
+        <optional>false</optional>
+        <name>Fritidsbåtteknik</name>
+        <code>FRD</code>
+        <point>200</point>
+        <course>
+          <name>Konstruktion och reparation 1</name>
+          <code>FRDKON01</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Marinmotorteknik</name>
+        <code>MAN</code>
+        <point>100</point>
+        <course>
+          <name>Intervallservice</name>
+          <code>MANINT0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <name>Service och reparation</name>
+      <code>MXSER</code>
+      <codeExternal>MXSER</codeExternal>
+      <point>300</point>
+      <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+    </programOrientation>
+  </programOrientations>
+  <profiles />
+  <specialization>
+    <subject>
+      <optional>false</optional>
+      <name>Båtkunskap</name>
+      <code>BAT</code>
+      <point>100</point>
+      <course>
+        <name>Kustnavigation och säkerhet</name>
+        <code>BATKUS0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Däckstjänst</name>
+      <code>DAC</code>
+      <point>50</point>
+      <course>
+        <name>Fartygsbefäl</name>
+        <code>DACFAR0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Radiokommunikation till sjöss</name>
+        <code>DACRAD0</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Entreprenörskap</name>
+      <code>ENT</code>
+      <point>100</point>
+      <course>
+        <name>Entreprenörskap</name>
+        <code>ENTENR0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Fritidsbåtteknik</name>
+      <code>FRD</code>
+      <point>100</point>
+      <course>
+        <name>Båtsystem</name>
+        <code>FRDBAS0</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Konstruktion och reparation 2</name>
+        <code>FRDKON02</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Plast- och lamineringsteknik</name>
+        <code>FRDPLA0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Fysik</name>
+      <code>FYS</code>
+      <point>100</point>
+      <course>
+        <name>Fysik 1b1</name>
+        <code>FYSFYS01b1</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Fysik 1b2</name>
+        <code>FYSFYS01b2</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Hantverk</name>
+      <code>HAV</code>
+      <point>200</point>
+      <course>
+        <name>Hantverk – introduktion</name>
+        <code>HAVHAV0</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Finsnickeri 1</name>
+        <code>HAVFIN01</code>
+        <point>200</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Marin el och elektronik</name>
+      <code>MAI</code>
+      <point>100</point>
+      <course>
+        <name>Marinelektronik 2</name>
+        <code>MAIMAR02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Marinelektronik 3</name>
+        <code>MAIMAR03</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Motorelektronik 1</name>
+        <code>MAIMOT01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Motorelektronik 2</name>
+        <code>MAIMOT02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Marinmotorteknik</name>
+      <code>MAN</code>
+      <point>100</point>
+      <course>
+        <name>Diagnos och reparation</name>
+        <code>MANDIA0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Nyinstallation</name>
+        <code>MANNYI0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Maskintjänst</name>
+      <code>MAK</code>
+      <point>100</point>
+      <course>
+        <name>Maskinbefäl</name>
+        <code>MAKMAS0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Matematik</name>
+      <code>MAT</code>
+      <point>100</point>
+      <course>
+        <name>Matematik 2a</name>
+        <code>MATMAT02a</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Sammanfogningsteknik</name>
+      <code>SAA</code>
+      <point>100</point>
+      <course>
+        <name>Svets grund</name>
+        <code>SAASVT0</code>
+        <point>100</point>
+      </course>
+    </subject>
+  </specialization>
+  <individualChoice />
+  <projectAssignment />
+  <professionalDegrees>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Fritidsbåtteknik</name>
+        <code>FRD</code>
+        <point>200</point>
+        <course>
+          <name>Konstruktion och reparation 2</name>
+          <code>FRDKON02</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Plast- och lamineringsteknik</name>
+          <code>FRDPLA0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Hantverk – introduktion</name>
+          <code>HAVHAV0</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Finsnickeri 3</name>
+          <code>HAVFIN03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Finsnickeri 4</name>
+          <code>HAVFIN04</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Marinmotorteknik</name>
+        <code>MAN</code>
+        <point>100</point>
+        <course>
+          <name>Nyinstallation</name>
+          <code>MANNYI0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>MXSER</programOrientationCode>
+      <name>Båtbyggare</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Fysik</name>
+        <code>FYS</code>
+        <point>150</point>
+        <course>
+          <name>Fysik 1a</name>
+          <code>FYSFYS01a</code>
+          <point>150</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Marin el och elektronik</name>
+        <code>MAI</code>
+        <point>100</point>
+        <course>
+          <name>Marinelektronik 2</name>
+          <code>MAIMAR02</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Marinelektronik 3</name>
+          <code>MAIMAR03</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Motorelektronik 2</name>
+          <code>MAIMOT02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Marinmotorteknik</name>
+        <code>MAN</code>
+        <point>100</point>
+        <course>
+          <name>Nyinstallation</name>
+          <code>MANNYI0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>MXELO</programOrientationCode>
+      <name>Marin systemtekniker</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Fritidsbåtteknik</name>
+        <code>FRD</code>
+        <point>100</point>
+        <course>
+          <name>Båtsystem</name>
+          <code>FRDBAS0</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Plast- och lamineringsteknik</name>
+          <code>FRDPLA0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Marin el och elektronik</name>
+        <code>MAI</code>
+        <point>100</point>
+        <course>
+          <name>Marinelektronik 2</name>
+          <code>MAIMAR02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Marinmotorteknik</name>
+        <code>MAN</code>
+        <point>100</point>
+        <course>
+          <name>Diagnos och reparation</name>
+          <code>MANDIA0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Nyinstallation</name>
+          <code>MANNYI0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>MXSER</programOrientationCode>
+      <name>Marintekniker</name>
+      <profSpecialization />
+    </professionalDegree>
+  </professionalDegrees>
+  <category>NATIONAL_RECRUITMENT_FOR_LOCAL_SPECIALIZATION</category>
+  <modifiedDate>2017-03-01T14:52:08+01:00</modifiedDate>
+  <createdDate>2017-03-01T14:52:08+01:00</createdDate>
+  <typeOfStudyPath>PROGRAM</typeOfStudyPath>
+</program>

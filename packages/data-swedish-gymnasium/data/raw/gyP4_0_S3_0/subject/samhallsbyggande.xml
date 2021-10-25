@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Samhällsbyggande</name>
+  <englishName>Community planning</englishName>
+  <description
+  >&lt;p&gt;Ämnet samhällsbyggande behandlar byggprocessens olika delar samt byggmaterial, byggnadsteknik och installationsteknik. &lt;/p&gt;</description>
+  <code>SAH</code>
+  <status>PUBLISHED</status>
+  <version>4</version>
+  <createdDate>2021-02-12T13:23:17+01:00</createdDate>
+  <modifiedDate>2021-05-18T12:06:37+02:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Samhällsbyggande&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet samhällsbyggande ska syfta till att eleverna utvecklar kunskaper om byggprocessen från stadsplanering till fastighetsförvaltning och dess roll i samhällsbyggandet. Undervisningen ska leda till att eleverna utvecklar förståelse av vilka aktörer som är involverade i de olika skedena, hur byggprocessen organiseras och vilka lagar och regler som är tillämpliga.&lt;/p&gt;&lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla förståelse av sambandet mellan byggnadsteknik, installationsteknik, byggnadsfysik och byggnadsmaterial för hållbara byggnadsverk. Den ska även ge eleverna möjlighet att utveckla grundläggande kunskaper om installationsteknik främst inom VVS- och elområdet.&lt;/p&gt;&lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om byggprojektledning inom projektering och produktion, främst inom produktionsplanering och kvalitets- och miljöarbete. Eleverna ska även ges möjlighet att utveckla grundläggande kunskaper om vanliga avtalsformer för projektering och produktion samt om formerna för kontraktsskrivning mellan byggprocessens parter.&lt;/p&gt;&lt;p&gt;Eleverna ska ges möjlighet att arbeta i verklighetsnära projekt med koppling till teknikområdet.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet samhällsbyggande ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om byggnadsmaterial samt om byggnadsteknik, konstruktionselement och olika typer av byggnader och anläggningar.&lt;/li&gt; &lt;li&gt;Kunskaper om byggnadsfysik samt om vanligt förekommande funktionskrav.&lt;/li&gt; &lt;li&gt;Kunskaper om installationstekniska system för ventilation, värme, sanitet och el i byggnader samt om samhällets tekniska system för vatten och avlopp.&lt;/li&gt; &lt;li&gt;Kunskaper om vanligt förekommande funktionskrav för belysning, el, värme och komfort, vattenkvalitet, luftväxling och ljud.&lt;/li&gt; &lt;li&gt;Kunskaper om vanligt förekommande installationers uppbyggnad och hur dessa är redovisade och dokumenterade i ritningar och scheman.&lt;/li&gt; &lt;li&gt;Kunskaper om byggprocessens olika skeden samt om byggprojektets genomförandeformer och organisation.&lt;/li&gt; &lt;li&gt;Kunskaper om planering i projekterings- och utförandeskedet.&lt;/li&gt; &lt;li&gt;Kunskaper om lagar och andra bestämmelser inom området.&lt;/li&gt; &lt;li&gt;Kunskaper om kvalitets-, miljö- och arbetsmiljöledningssystem.&lt;/li&gt; &lt;li&gt;Förmåga att planera, genomföra och dokumentera miljöklassning av byggnader.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Byggnadsverk, 100 poäng. &lt;/li&gt; &lt;li&gt;Byggprocessen, 100 poäng. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.&lt;/li&gt; &lt;li&gt;Miljöcertifierade hus, 100 poäng. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.&lt;/li&gt; &lt;li&gt;BIM-samordning, 100 poäng. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.&lt;/li&gt;&lt;/ul&gt;</purpose>
+  <skolfsId>2011:44</skolfsId>
+  <applianceDate>2021-07-01T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Byggnadsverk</name>
+    <englishName>Construction</englishName>
+    <description
+    >&lt;p&gt;Kursen byggnadsverk omfattar punkterna 1-5 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>SAHBYV0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Byggnadsverk, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: SAHBYV0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Byggnadsteknik och konstruktionselement inom husbyggnad och anläggning, till exempel undergrund, grundkonstruktion inklusive dränering och eventuell radon, bärande och icke bärande delar av en byggnad, väggar, bjälklag, takkonstruktion, fönster och dörrar, vägar och rörgravar.&lt;/li&gt; &lt;li&gt;Viktiga byggnadsmaterial, till exempel trä, betong, isolering, tätskikt, murverk, grus och markbeläggning med hänsyn till dess tillverkning, uppbyggnad, egenskaper, användningsområden och hantering vid rivning.&lt;/li&gt; &lt;li&gt;Materialbedömningar, jämförelse av olika material utifrån hållbarhetsaspekter.&lt;/li&gt; &lt;li&gt;Byggnadsfysik för byggande av god inre och yttre miljö. Vanliga funktionskrav vad gäller värme, fukt, ljud, brand och beständighet samt energieffektivitet och miljö.&lt;/li&gt; &lt;li&gt;Tvärsektionsritningar där sambandet mellan byggnadsfysik, byggnadsmaterial och byggteknik framgår.&lt;/li&gt; &lt;li&gt;Tekniska beskrivningar av mark- och grundläggning samt byggnadsbeskrivningar inklusive materialval.&lt;/li&gt; &lt;li&gt;Installationstekniska system för ventilation, värme, sanitet och el i byggnader samt hur dessa system kan påverka både inre och yttre miljö.&lt;/li&gt; &lt;li&gt;Vanligt förekommande funktionskrav för belysning, el, värme och komfort, vattenkvalitet, luftväxling och ljud.&lt;/li&gt; &lt;li&gt;Övergripande driftsekonomi som skötsel, underhållsintervall och åtgärder samt kostnader för investering, drift och underhåll.&lt;/li&gt; &lt;li&gt;Kännedom om Boverket, PBL (plan- och bygglagen) och BBR (Boverkets byggregler).&lt;/li&gt; &lt;li&gt;Kännedom om processen runt bygglovshandlingar.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör&lt;strong&gt; översiktligt &lt;/strong&gt;för vanliga byggnadstekniker och vanliga konstruktionselement inom husbyggnad och anläggning. Dessutom beskriver och jämför eleven&lt;strong&gt; översiktligt &lt;/strong&gt;olika, viktiga byggnadsmaterial och dess uppbyggnad, egenskaper, tillverkning, användningsområden och livscykel. Vidare redogör eleven&lt;strong&gt; översiktligt &lt;/strong&gt;för olika typer av byggnader och anläggningar.&lt;/p&gt;&lt;p&gt;Eleven redogör för de byggnadsfysikaliska funktionskraven för värme, fukt, ljud, brand och beständighet. Dessutom redogör eleven &lt;strong&gt;översiktligt&lt;/strong&gt; för byggnadsfysikaliska faktorer som har betydelse för energieffektivitet och miljö. Vidare redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;med sektionsritningar samt tekniska beskrivningar för sambandet mellan byggnadsfysik, byggnadsmaterial och byggnadsteknik med PBL och BBR som grund.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för olika installationstekniska system för ventilation, värme, sanitet och el i byggnader samt beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;hur dessa system kan påverka inre och yttre miljö.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för funktionskraven för belysning, värme och komfort, vattenkvalitet, luftväxling och ljud. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för på vilket sätt dessa krav kan bidra till god driftsekonomi.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för vanliga byggnadstekniker och vanliga konstruktionselement inom husbyggnad och anläggning. Dessutom beskriver och jämför eleven &lt;strong&gt;utförligt &lt;/strong&gt;olika, viktiga byggnadsmaterial och dess uppbyggnad, egenskaper, tillverkning, användningsområden och livscykel. Vidare redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för olika typer av byggnader och anläggningar.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för de byggnadsfysikaliska funktionskraven för värme, fukt, ljud, brand och beständighet. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för byggnadsfysikaliska faktorer som har betydelse för energieffektivitet och miljö. Vidare redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;med sektionsritningar samt tekniska beskrivningar för sambandet mellan byggnadsfysik, byggnadsmaterial och byggnadsteknik med PBL och BBR som grund.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för olika installationstekniska system för ventilation, värme, sanitet och el i byggnader samt beskriver &lt;strong&gt;utförligt &lt;/strong&gt;hur dessa system kan påverka inre och yttre miljö.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för funktionskraven för belysning, värme och komfort, vattenkvalitet, luftväxling och ljud. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för på vilket sätt dessa krav kan bidra till god driftsekonomi.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för vanliga byggnadstekniker och vanliga konstruktionselement inom husbyggnad och anläggning. Dessutom beskriver och jämför eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;olika, viktiga byggnadsmaterial och dess uppbyggnad, egenskaper, tillverkning, användningsområden och livscykel. Vidare redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för olika typer av byggnader och anläggningar.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för de byggnadsfysikaliska funktionskraven för värme, fukt, ljud, brand och beständighet. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för byggnadsfysikaliska faktorer som har betydelse för energieffektivitet och miljö. Vidare redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;med sektionsritningar samt tekniska beskrivningar för sambandet mellan byggnadsfysik, byggnadsmaterial och byggnadsteknik med PBL och BBR som grund.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för olika installationstekniska system för ventilation, värme, sanitet och el i byggnader samt beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;hur dessa system kan påverka inre och yttre miljö.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för funktionskraven för belysning, värme och komfort, vattenkvalitet, luftväxling och ljud. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för på vilket sätt dessa krav kan bidra till god driftsekonomi.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Byggprocessen</name>
+    <englishName>Building process</englishName>
+    <description
+    >&lt;p&gt;Kursen byggprocessen omfattar punkterna 6–9 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>SAHBYC3</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Byggprocessen, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: SAHBYC3&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Byggprocessens olika skeden: markförvärv, projektering, upphandling, produktion, överlämning, förvaltning, drift, underhåll och rivning.&lt;/li&gt; &lt;li&gt;Byggprojektets genomförandeformer och organisation för byggprocessens olika delar. Byggprocessens olika aktörer.&lt;/li&gt; &lt;li&gt;Tillämpliga regler i byggprocessen, till exempel PBL (plan- och bygglagen), BBR (Boverkets byggregler), AFS (Arbetsmiljöverkets författningssamling) och miljöbalken.&lt;/li&gt; &lt;li&gt;Förfrågningsunderlag kopplade till AMA-systemet (allmän material- och arbetsbeskrivning).&lt;/li&gt; &lt;li&gt;Anbudsprocessen - beräkningar, kalkyl, offertförfrågan, förhandling, beställning och entreprenadavtal.&lt;/li&gt; &lt;li&gt;Upphandling av entreprenader och material enligt AB (allmänna bestämmelser) och AF (administrativa föreskrifter).&lt;/li&gt; &lt;li&gt;Entreprenad- och ersättningsformer.&lt;/li&gt; &lt;li&gt;Kvalitetsplan, miljöplan och arbetsmiljöplan.&lt;/li&gt; &lt;li&gt;Bas P (planering och projektering) och Bas U (utförande).&lt;/li&gt; &lt;li&gt;Byggnaders och installationers påverkan utifrån ett livscykelperspektiv.&lt;/li&gt; &lt;li&gt;Produktionsplanering, produktionsbudget och produktionstidplan.&lt;/li&gt; &lt;li&gt;Grundläggande samordningsplanering mellan olika aktörer.&lt;/li&gt; &lt;li&gt;Olika typer av besiktningar.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för byggprocessens olika skeden. Dessutom redogör eleven &lt;strong&gt;översiktligt&lt;/strong&gt; för byggprojektets genomförandeformer och organisation samt för de olika aktörerna i byggprocessen.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för projekt- och samordningsplanering i projekterings- och utförandeskedet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för tillämpliga regler som styr byggprocessen. Dessutom redogör eleven utifrån enkla fallbeskrivningar, &lt;strong&gt;översiktligt &lt;/strong&gt;för avtals- och kontraktskrivningar.&lt;/p&gt;&lt;p&gt;Eleven upprättar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare, utifrån förfrågningsunderlag, plan för utförandeskedet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för kontrollansvaret enligt PBL och byggarbetsmiljösamordning enligt Bas P och Bas U. Dessutom redogör eleven, utifrån&lt;strong&gt; enkla&lt;/strong&gt; fallbeskrivningar, &lt;strong&gt;översiktligt&lt;/strong&gt; för kvalitets-, miljö- och arbetsmiljöledningssystem.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för byggprocessens olika skeden. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för byggprojektets genomförandeformer och organisation samt för de olika aktörerna i byggprocessen.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för projekt- och samordningsplanering i projekterings- och utförandeskedet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för tillämpliga regler som styr byggprocessen. Dessutom redogör eleven utifrån enkla fallbeskrivningar, &lt;strong&gt;utförligt &lt;/strong&gt;för avtals- och kontraktskrivningar.&lt;/p&gt;&lt;p&gt;Eleven upprättar &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare, utifrån förfrågningsunderlag, plan för utförandeskedet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för kontrollansvaret enligt PBL och byggarbetsmiljösamordning enligt Bas P och Bas U. Dessutom redogör eleven, utifrån fallbeskrivningar, &lt;strong&gt;utförligt&lt;/strong&gt; för kvalitets-, miljö- och arbetsmiljöledningssystem.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; &lt;strong&gt;och nyanserat&lt;/strong&gt; för byggprocessens olika skeden. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; &lt;strong&gt;och nyanserat&lt;/strong&gt; för byggprojektets genomförandeformer och organisation samt för de olika aktörerna i byggprocessen.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för projekt- och samordningsplanering i projekterings- och utförandeskedet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; &lt;strong&gt;och nyanserat&lt;/strong&gt; för tillämpliga regler som styr byggprocessen. Dessutom redogör eleven utifrån enkla fallbeskrivningar, &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för avtals- och kontraktskrivningar.&lt;/p&gt;&lt;p&gt;Eleven upprättar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare, utifrån förfrågningsunderlag, plan för utförandeskedet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för kontrollansvaret enligt PBL och byggarbetsmiljösamordning enligt Bas P och Bas U. Dessutom redogör eleven, utifrån &lt;strong&gt;komplexa&lt;/strong&gt; fallbeskrivningar, &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för kvalitets-, miljö- och arbetsmiljöledningssystem.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Miljöcertifierade hus</name>
+    <englishName>Eco-labelled buildings</englishName>
+    <description
+    >&lt;p&gt;Kursen miljöcertifierade hus omfattar punkterna 2, 8–10 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>SAHMIL3</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Miljöcertifierade hus, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: SAHMIL3&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Energiberäkning och energideklaration.&lt;/li&gt; &lt;li&gt;Olika typer av lågenergibyggnader.&lt;/li&gt; &lt;li&gt;Miljöklassning av byggnader samt dokumentationen av detta.&lt;/li&gt; &lt;li&gt;Miljöklassningssystem.&lt;/li&gt; &lt;li&gt;Miljöbalken.&lt;/li&gt; &lt;li&gt;Aktörer i arbetet med livscykelanalyser.&lt;/li&gt; &lt;li&gt;Livscykelanalys.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven räknar&lt;strong&gt; med viss säkerhet &lt;/strong&gt;ut U-värdet och energibehovet för byggnader.&lt;/p&gt;&lt;p&gt;Eleven redogör&lt;strong&gt; översiktligt&lt;/strong&gt; för de delar av miljöbalken som berör miljöcertifiering av byggnader. Eleven redogör även &lt;strong&gt;översiktligt &lt;/strong&gt;för vad en livscykelanalys innebär och hur den genomförs samt vilka aktörer som är involverade. Eleven för dessutom &lt;strong&gt;enkla&lt;/strong&gt; resonemang om de olika aktörernas behov och intressen.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för miljöklassningssystem. Eleven utför &lt;strong&gt;i samråd&lt;/strong&gt; med handledare en miljöklassning och gör en &lt;strong&gt;enkel&lt;/strong&gt; dokumentation av miljöklassningen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven räknar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;ut U-värdet och energibehovet för byggnader.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för de delar av miljöbalken som berör miljöcertifiering av byggnader. Eleven redogör även &lt;strong&gt;utförligt &lt;/strong&gt;för vad en livscykelanalys innebär och hur den genomförs samt vilka aktörer som är involverade. Eleven för dessutom &lt;strong&gt;välgrundade&lt;/strong&gt; resonemang om de olika aktörernas behov och intressen.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för miljöklassningssystem. Eleven utför &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare en miljöklassning och gör en &lt;strong&gt;noggrann&lt;/strong&gt; dokumentation av miljöklassningen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven räknar&lt;strong&gt; med säkerhet &lt;/strong&gt;ut U-värdet och energibehovet för byggnader.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för de delar av miljöbalken som berör miljöcertifiering av byggnader. Eleven redogör även &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för vad en livscykelanalys innebär och hur den genomförs samt vilka aktörer som är involverade. Eleven för dessutom &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; resonemang om de olika aktörernas behov och intressen.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för miljöklassningssystem. Eleven utför &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare en miljöklassning och gör en &lt;strong&gt;noggrann och utförlig&lt;/strong&gt; dokumentation av miljöklassningen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <courses>
+    <name>BIM-samordning</name>
+    <englishName>BIM coordination</englishName>
+    <description
+    >&lt;p&gt;Kursen BIM-samordning omfattar punkterna 6–9 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>SAHBIM3</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;BIM-samordning, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: SAHBIM3&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;BIM (Building Information Modelling).&lt;/li&gt; &lt;li&gt;Projektering, förvaltning, projektstyrning, ledarskap, organisation och kommunikation enligt BIM-metodik.&lt;/li&gt; &lt;li&gt;3D-projektering och samgranskning.&lt;/li&gt; &lt;li&gt;Modellinformation och databaser i BIM-projektering.&lt;/li&gt; &lt;li&gt;Avtalsrätt och ABK (allmänna bestämmelser för konsultuppdrag) inom arkitekt- och ingenjörsverksamhet.&lt;/li&gt; &lt;li&gt;Hållbart byggande. Effekt- och energibehov. Ekonomi och material.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för hur BIM påverkar projektering, produktion och förvaltning av byggnaden. Eleven för &lt;strong&gt;enkla&lt;/strong&gt; resonemang om projektstyrning, ledarskap, organisation, kommunikation och samgranskning enligt BIM-metodiken. Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för hur datorverktyg används vid hantering av virtuella modeller.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för vad som styr en projektering gällande avtal och kontrakt.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för hur allmän avtalsrätt och ABK påverkar projekteringens utformning. Eleven gör &lt;strong&gt;enkla&lt;/strong&gt; jämförelser av energi- och effektbehov, ekonomi och material baserade på BIM-projektering.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för hur BIM påverkar projektering, produktion och förvaltning av byggnaden. Eleven för &lt;strong&gt;välgrundade&lt;/strong&gt; resonemang om projektstyrning, ledarskap, organisation, kommunikation och samgranskning enligt BIM-metodiken. Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för hur datorverktyg används vid hantering av virtuella modeller.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för vad som styr en projektering gällande avtal och kontrakt.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för hur allmän avtalsrätt och ABK påverkar projekteringens utformning. Eleven gör &lt;strong&gt;noggranna&lt;/strong&gt; jämförelser av energi- och effektbehov, ekonomi och material baserade på BIM-projektering.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för hur BIM påverkar projektering, produktion och förvaltning av byggnaden. Eleven för &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; resonemang om projektstyrning, ledarskap, organisation, kommunikation och samgranskning enligt BIM-metodiken. Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; &lt;strong&gt;och nyanserat&lt;/strong&gt; för hur datorverktyg används vid hantering av virtuella modeller.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för vad som styr en projektering gällande avtal och kontrakt.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för hur allmän avtalsrätt och ABK påverkar projekteringens utformning. Eleven gör &lt;strong&gt;noggranna och utförliga&lt;/strong&gt; jämförelser av energi- och effektbehov, ekonomi och material baserade på BIM-projektering.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>4</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

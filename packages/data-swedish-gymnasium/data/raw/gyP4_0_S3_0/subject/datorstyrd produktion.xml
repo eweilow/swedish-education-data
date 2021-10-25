@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Datorstyrd produktion</name>
+  <englishName>Computer-controlled production</englishName>
+  <description
+  >&lt;p&gt;Ämnet datorstyrd produktion behandlar teknik och metoder för datorstyrd produktion, från hantverksmässigt arbete med datorstyrd utrustning avsedd för prototyp och enstyckstillverkning till serieproduktion med grupper av sammankopplade datorstyrda maskiner. Det behandlar också effektiv användning av datorstyrd teknik med hög automatiseringsgrad.&lt;/p&gt;</description>
+  <code>DAR</code>
+  <status>PUBLISHED</status>
+  <version>3</version>
+  <createdDate>2012-08-07T16:05:03+02:00</createdDate>
+  <modifiedDate>2020-02-19T15:50:36+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Datorstyrd produktion&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet datorstyrd produktion ska syfta till att eleverna utvecklar kunskaper om metoder, teknik och utrustning som används inom datorstyrd industriell produktion. Undervisningen ska leda till att eleverna utvecklar förmåga att tillverka produkter med hjälp av datorstyrd utrustning. Den ska också ge eleverna möjlighet att utveckla kunskaper om operatörens roll i datorstyrd industriell produktion och förståelse av det ansvar som följer med arbetsuppgifterna inom ämnesområdet.&lt;/p&gt;&lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om vanligt förekommande redskap för programmering och produktionsstyrning. Eleverna ska också ges möjlighet att utveckla kunskaper om verktyg och system för processövervakning samt om hur kommunikation mellan utrustningar styrs och övervakas. Undervisningen ska dessutom bidra till att eleverna utvecklar kunskaper om metoder för strukturerad produktion, eftersom ordning och noggrannhet är avgörande faktorer för en framgångsrik industriell produktion.&lt;/p&gt;&lt;p&gt;Undervisningen ska ge eleverna möjlighet att samtala om och reflektera över teknikens möjligheter samt bidra till att eleverna utvecklar förmåga att lösa produktionstekniska problem. Estetik och form har stor betydelse för hur produkter uppfattas, och eleverna ska därför ges möjlighet att utveckla förståelse av dessa aspekter av produktionen.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet datorstyrd produktion ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Förmåga att läsa och tolka produktionsunderlag, att planera och programmera i styrsystem samt att simulera, testa och optimera program. Förmåga att utföra produktionsarbete i datorstyrd utrustning.&lt;/li&gt; &lt;li&gt;Förmåga att planera, programmera och utföra produktionsarbete i produktionsgrupper med flera samverkande programmerbara utrustningar.&lt;/li&gt; &lt;li&gt;Kunskaper om säkerhetsrisker vid arbete med datorstyrd produktionsutrustning samt kunskaper om hur risker kan minimeras.&lt;/li&gt; &lt;li&gt;Förmåga att utföra felsökning och enklare underhållsarbete i datorstyrd produktionsutrustning.&lt;/li&gt; &lt;li&gt;Kunskaper om begrepp, metoder, teknik och utrustning som används inom datorstyrd industriell produktion.&lt;/li&gt; &lt;li&gt;Förmåga att mäta, bedöma och dokumentera kvaliteten på utfört arbete.&lt;/li&gt; &lt;li&gt;Kunskaper om verktyg och metoder för processövervakning och kommunikation mellan utrustningar samt operatörens roll vid arbete i datorstyrda produktionssystem.&lt;/li&gt; &lt;li&gt;Kunskaper om produktionsekonomi och förståelse av det egna ansvarstagandets betydelse för produktionen.&lt;/li&gt; &lt;li&gt;Förmåga att tolka och bearbeta information om styrtekniska villkor och status hos utrustningen samt förmåga att lösa produktionstekniska problem.&lt;/li&gt; &lt;li&gt;Förmåga att kommunicera med olika målgrupper och använda begrepp och uttryck som är relevanta för ämnesområdet.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Cad/cam, 100 poäng.&lt;/li&gt; &lt;li&gt;Datorstyrd produktion 1, 100 poäng. Kursen kan läsas flera gånger med olika innehåll.&lt;/li&gt; &lt;li&gt;Datorstyrd produktion 2, 100 poäng, som bygger på kursen datorstyrd produktion 1.&lt;/li&gt; &lt;li&gt;Datorstyrd produktion 3, 100 poäng, som bygger på kursen datorstyrd produktion 2.&lt;/li&gt; &lt;li&gt;Datorstyrd produktion 4, 100 poäng, som bygger på kursen datorstyrd produktion 3.&lt;/li&gt; &lt;li&gt;Datorstyrd produktion 5, 100 poäng, som bygger på kursen datorstyrd produktion 4.&lt;/li&gt; &lt;li&gt;Datorstyrd produktion 6, 100 poäng, som bygger på kursen datorstyrd produktion 5.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2010:204</skolfsId>
+  <applianceDate>2012-05-03T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Cad/cam</name>
+    <englishName>CAD/CAM</englishName>
+    <description
+    >&lt;p&gt;Kursen cad/cam omfattar punkterna 1, 5–6 och 10 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>DARCAD0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Cad/cam, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DARCAD0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Ritteknik för 2D, 3D och solidmodellering inom valt område.&lt;/li&gt; &lt;li&gt;Cad/cam-teknikens möjligheter.&lt;/li&gt; &lt;li&gt;Anpassning av cam-system för aktuellt område.&lt;/li&gt; &lt;li&gt;Beredning och planering för generering av programkod till datorstyrd utrustning.&lt;/li&gt; &lt;li&gt;Generering av koder, överföring av cam-resultat till maskin, anpassning av programmet för maskinen samt iordningställande av maskin för bearbetning.&lt;/li&gt; &lt;li&gt;Kommunikation och informationsutbyte mellan utrustningar och applikationer.&lt;/li&gt; &lt;li&gt;Produktionsunderlag för aktuell utrustning samt kontroll, och vid behov komplettering, av geometri och programkod.&lt;/li&gt; &lt;li&gt;Anpassning med hänsyn tagen till miljö, ekonomi och säkerhet.&lt;/li&gt; &lt;li&gt;Kontroll, bedömning och dokumentation av kvaliteten på utfört arbete.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar arbete i cam-system för programmering, simulering och testning av bearbetningsprogram för datorstyrd produktionsutrustning &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Dessutom planerar och organiserar eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare iordningställande av och arbete med datorstyrd produktionsutrustning. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag. Vidare väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare cam&lt;strong&gt;-&lt;/strong&gt;programmering, simulering, testning och överföring av bearbetningsprogram samt iordningställande av datorstyrd produktionsutrustning. Dessutom utför eleven med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare produktionsarbete i datorstyrd utrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner och tillverkningsunderlag. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; visst &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar arbete i cam-system för programmering, simulering och testning av bearbetningsprogram för datorstyrd produktionsutrustning &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Dessutom planerar och organiserar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare iordningställande av och arbete med datorstyrd produktionsutrustning. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare cam-programmering, simulering, testning och överföring av bearbetningsprogram samt iordningställande av datorstyrd produktionsutrustning. Dessutom utför eleven med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare produktionsarbete i datorstyrd utrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner och tillverkningsunderlag. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar arbete i cam-system för programmering, simulering och testning av bearbetningsprogram för datorstyrd produktionsutrustning &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Dessutom planerar och organiserar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare iordningställande av och arbete med datorstyrd produktionsutrustning. I planeringen tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag.&lt;strong&gt; Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det&lt;/strong&gt;. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare cam-programmering, simulering, testning och överföring av bearbetningsprogram samt iordningställande av datorstyrd produktionsutrustning. Dessutom utför eleven med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare produktionsarbete i datorstyrd utrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;instruktioner och tillverkningsunderlag. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Datorstyrd produktion 1</name>
+    <description
+    >&lt;p&gt;Kursen datorstyrd produktion 1 omfattar punkterna 1, 4–6 och 10 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper för vald utrustning eller valda metoder och programmeringssätt.&lt;/p&gt;</description>
+    <code>DARDAT01S</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Datorstyrd produktion 1, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DARDAT01S&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Programmering efter etablerade koder för valt programmeringssätt, manuellt och med programmeringsstöd samt med pc-baserade hjälpsystem.&lt;/li&gt; &lt;li&gt;Simulering och testkörning av valda program.&lt;/li&gt; &lt;li&gt;Iordningställande av vald datorstyrd utrustning för enklare bearbetning eller produktion.&lt;/li&gt; &lt;li&gt;Tolkning av tillverkningsunderlag till styrsystem och överförande av dessa till aktuell utrustning.&lt;/li&gt; &lt;li&gt;Tillverkning av produkter efter eget skapat program.&lt;/li&gt; &lt;li&gt;Enklare felsökning och systematiskt underhåll.&lt;/li&gt; &lt;li&gt;Föreskrifter för arbetsmiljö samt person- och maskinsäkerhet. &lt;/li&gt; &lt;li&gt;Resultatkontroll samt justering av program och inställningar.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar programmering, simulering och testning i datorstyrd produktionsutrustning &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Dessutom planerar och organiserar eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare iordningställande av och arbete med datorstyrd produktionsutrustning. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag. Vidare väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare programmering, simulering och testning samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner och tillverkningsunderlag. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; visst &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för betydelsen av samarbete. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar programmering, simulering och testning i datorstyrd produktionsutrustning &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Dessutom planerar och organiserar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare iordningställande av och arbete med datorstyrd produktionsutrustning. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare programmering, simulering och testning samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner och tillverkningsunderlag. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt redogör &lt;strong&gt;utförligt&lt;/strong&gt; för betydelsen av samarbete. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar programmering, simulering och testning i datorstyrd produktionsutrustning &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Dessutom planerar och organiserar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare iordningställande av och arbete med datorstyrd produktionsutrustning. I planeringen tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag. &lt;strong&gt;Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det&lt;/strong&gt;. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare programmering, simulering och testning samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;instruktioner och tillverkningsunderlag. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för betydelsen av samarbete. Dessutom använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Datorstyrd produktion 2</name>
+    <englishName>Computer-controlled production 2</englishName>
+    <description
+    >&lt;p&gt;Kursen datorstyrd produktion 2 omfattar punkterna 1, 4–6, och 10 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>DARDAT02</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Datorstyrd produktion 2, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DARDAT02&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Planering av och programmering för produktion i datorstyrd utrustning.&lt;/li&gt; &lt;li&gt;Tolkning och överföring av tillverkningsunderlag och ritningar till utrustning genom manuell programmering och med dialogbaserat programmeringsstöd.&lt;/li&gt; &lt;li&gt;Programmeringsstöd, till exempel cykler, subprogram och konturprogrammering.&lt;/li&gt; &lt;li&gt;Justeringar i program och maskininställningar.&lt;/li&gt; &lt;li&gt;Val av utrustning, verktyg och metod för att uppnå rätt kvalitet på tillverkade produkter.&lt;/li&gt; &lt;li&gt;Felsökning och systematiskt underhåll.&lt;/li&gt; &lt;li&gt;Föreskrifter för arbetsmiljö samt person- och maskinsäkerhet.&lt;/li&gt; &lt;li&gt;Kontroll, bedömning och dokumentation av kvaliteten på utfört arbete.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar programmering med styrsystemets stödfunktioner samt simulering och testning i datorstyrd produktionsutrustning &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Dessutom planerar och organiserar eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare iordningställande av och arbete med datorstyrd produktionsutrustning. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner och tillverkningsunderlag. Vidare väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare programmering med hjälp av styrsystemets stödfunktioner, simulering och testning samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter, givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner och tillverkningsunderlag. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; visst &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Dessutom vårdar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;utrustningen enligt instruktion. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar programmering med styrsystemets stödfunktioner samt simulering och testning i datorstyrd produktionsutrustning &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Dessutom planerar och organiserar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare iordningställande av och arbete med datorstyrd produktionsutrustning. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner och tillverkningsunderlag. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare programmering med hjälp av styrsystemets stödfunktioner, simulering och testning samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter, givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner och tillverkningsunderlag. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Dessutom vårdar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;utrustningen enligt instruktion. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar programmering med styrsystemets stödfunktioner samt simulering och testning i datorstyrd produktionsutrustning &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Dessutom planerar och organiserar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare iordningställande av och arbete med datorstyrd produktionsutrustning. I planeringen tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag. &lt;strong&gt;Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det&lt;/strong&gt;. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare programmering med styrsystemets stödfunktioner, simulering och testning samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter, givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;instruktioner och tillverkningsunderlag. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Dessutom vårdar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;utrustningen enligt instruktion. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <courses>
+    <name>Datorstyrd produktion 3</name>
+    <englishName>Computer-controlled production 3</englishName>
+    <description
+    >&lt;p&gt;Kursen datorstyrd produktion 3 omfattar punkterna 1–2, 4–6 och 8–10 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>DARDAT03</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Datorstyrd produktion 3, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DARDAT03&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Programmering och produktionsförberedelse med hjälp av pc-baserat programmeringsstöd.&lt;/li&gt; &lt;li&gt;Avancerade produktionsunderlag och komplexa program.&lt;/li&gt; &lt;li&gt;Val av utrustning, verktyg och teknik för optimalt produktionsresultat.&lt;/li&gt; &lt;li&gt;Produktionsarbete i datorstyrd utrustning enligt angivna kvalitetskrav.&lt;/li&gt; &lt;li&gt;Avancerad felsökning och systematiskt underhåll.&lt;/li&gt; &lt;li&gt;Påverkan på produktionsekonomi med koppling till val av utrustning, verktyg och teknik.&lt;/li&gt; &lt;li&gt;Föreskrifter för arbetsmiljö samt person- och maskinsäkerhet.&lt;/li&gt; &lt;li&gt;Kontroll, bedömning och dokumentation av kvaliteten på utfört arbete.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar programmering, simulering, testning och optimering av datorstyrd produktionsutrustning &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Dessutom planerar och organiserar eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare iordningställande av och arbete med datorstyrd produktionsutrustning. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag. Vidare väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare programmering, simulering, testning och optimering samt iordningställande av och produktionsarbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner och tillverkningsunderlag. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; visst &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Dessutom vårdar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;utrustningen enligt instruktion. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat. Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar programmering, simulering, testning och optimering av datorstyrd produktionsutrustning &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Dessutom planerar och organiserar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare iordningställande av och arbete med datorstyrd produktionsutrustning. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare programmering, simulering, testning och optimering samt iordningställande av och produktionsarbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner och tillverkningsunderlag. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Dessutom vårdar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;utrustningen enligt instruktion. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar programmering, simulering, testning och optimering av datorstyrd produktionsutrustning &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Dessutom planerar och organiserar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare iordningställande av och arbete med datorstyrd produktionsutrustning. I planeringen tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag. &lt;strong&gt;Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det&lt;/strong&gt;. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare programmering, simulering, testning och optimering samt iordningställande av och produktionsarbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;instruktioner och tillverkningsunderlag. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Dessutom vårdar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;utrustningen enligt instruktion. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>4</sortOrder>
+  </courses>
+  <courses>
+    <name>Datorstyrd produktion 4</name>
+    <englishName>Computer-controlled production 4</englishName>
+    <description
+    >&lt;p&gt;Kursen datorstyrd produktion 4 omfattar punkterna 1, 4–6, 8 och 10 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>DARDAT04</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Datorstyrd produktion 4, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DARDAT04&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Programmering och operatörsarbete med utrustning för komplettbearbetning.&lt;/li&gt; &lt;li&gt;3D-bearbetning och programmering för bearbetning av ytor med oregelbundna former.&lt;/li&gt; &lt;li&gt;Operatörsarbete i datorstyrd utrustning för komplettbearbetning.&lt;/li&gt; &lt;li&gt;Bearbetning med programmerbara uppspänningsutrustningar.&lt;/li&gt; &lt;li&gt;Felsökning och systematiskt underhåll.&lt;/li&gt; &lt;li&gt;Påverkan på produktionsekonomi med koppling till val av utrustning, verktyg och teknik.&lt;/li&gt; &lt;li&gt;Föreskrifter för arbetsmiljö samt person- och maskinsäkerhet.&lt;/li&gt; &lt;li&gt;Kontroll, bedömning och dokumentation av kvaliteten på utfört arbete.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar programmering, simulering, testning och optimering av datorstyrd produktionsutrustning &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Dessutom planerar och organiserar eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare iordningställande av och arbete med datorstyrd produktionsutrustning. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag. Vidare väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare programmering, simulering, testning och optimering samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner och tillverkningsunderlag. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; visst &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Dessutom vårdar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;utrustningen enligt instruktion. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat. Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar programmering, simulering, testning och optimering av datorstyrd produktionsutrustning &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Dessutom planerar och organiserar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare iordningställande av och arbete med datorstyrd produktionsutrustning. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare programmering, simulering, testning och optimering samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner och tillverkningsunderlag. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Dessutom vårdar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;utrustningen enligt instruktion. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar programmering, simulering, testning och optimering av datorstyrd produktionsutrustning &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Dessutom planerar och organiserar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare iordningställande av och arbete med datorstyrd produktionsutrustning. I planeringen tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag. &lt;strong&gt;Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det&lt;/strong&gt;. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare programmering, simulering, testning och optimering samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;instruktioner och tillverkningsunderlag. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Dessutom vårdar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;utrustningen enligt instruktion. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>5</sortOrder>
+  </courses>
+  <courses>
+    <name>Datorstyrd produktion 5</name>
+    <englishName>Computer-controlled production 5</englishName>
+    <description
+    >&lt;p&gt;Kursen datorstyrd produktion 5 omfattar punkterna 1 och 3–10 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>DARDAT05</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Datorstyrd produktion 5, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DARDAT05&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Programmering, problemlösning och operatörsarbete i datorstyrd utrustning med programmerbar villkorsstyrd kringutrustning och materialhanteringssystem.&lt;/li&gt; &lt;li&gt;Enklare säkerhetsanalys vid automatiserad bearbetning.&lt;/li&gt; &lt;li&gt;Operatörsarbete i datorstyrd utrustning med övervakning och styrning med hjälp av kvalitetsstyrningsmetoder.&lt;/li&gt; &lt;li&gt;Operatörsarbete i robotbetjänad utrustning.&lt;/li&gt; &lt;li&gt;Arbete med metoder och verktyg för processtyrning.&lt;/li&gt; &lt;li&gt;Produktionstekniska åtgärder för förbättrad produktionsekonomi med koppling till val av utrustning, verktyg och teknik.&lt;/li&gt; &lt;li&gt;Föreskrifter för arbetsmiljö samt person- och maskinsäkerhet.&lt;/li&gt; &lt;li&gt;Kontroll, bedömning och dokumentation av kvaliteten på utfört arbete.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar programmering, simulering och testning av datorstyrda produktionsutrustningar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Dessutom planerar och organiserar eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare iordningställande av och arbete med datorstyrda produktionsutrustningar. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag samt gör en &lt;strong&gt;enkel &lt;/strong&gt;värdering av säkerhetsriskerna. Vidare väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som produktionstekniskt passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare programmering, simulering och testning samt iordningställande av och arbete med datorstyrda produktionsutrustningar i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner och tillverkningsunderlag. Dessutom utför eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;optimering av datorstyrda produktionsutrustningar. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; visst &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Dessutom vårdar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;utrustningen enligt instruktion. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat. Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar programmering, simulering och testning av datorstyrda produktionsutrustningar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Dessutom planerar och organiserar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare iordningställande av och arbete med datorstyrda produktionsutrustningar. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag samt gör en &lt;strong&gt;nyanserad &lt;/strong&gt;värdering av säkerhetsriskerna. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som produktionstekniskt passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare programmering, simulering och testning samt iordningställande av och arbete med datorstyrda produktionsutrustningar i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner och tillverkningsunderlag. Dessutom utför eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;optimering av datorstyrda produktionsutrustningar. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Dessutom vårdar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;utrustningen enligt instruktion. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar programmering, simulering och testning av datorstyrda produktionsutrustningar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Dessutom planerar och organiserar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare iordningställande av och arbete med datorstyrda produktionsutrustningar. I planeringen tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag samt gör en &lt;strong&gt;nyanserade &lt;/strong&gt;värdering av säkerhetsriskerna. &lt;strong&gt;Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter detta samt utifrån sin värdering av säkerhetsriskerna&lt;/strong&gt;. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som är produktionstekniskt lämpligt för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare programmering, simulering och testning samt i ordningsställande av och arbete med datorstyrda produktionsutrusningar i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;instruktioner och tillverkningsunderlag. Dessutom utför eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;optimering av datorstyrda produktionsutrustningar. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett för sig själv och andra säkert sätt samt med hänsyn till miljön. Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Dessutom vårdar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;utrustningen enligt instruktion. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för det material, den teknik, de metoder och verktyg som använts för arbetsuppgiften samt hur dessa påverkat produktionsekonomi, kvalitet och slutresultat. Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>6</sortOrder>
+  </courses>
+  <courses>
+    <name>Datorstyrd produktion 6</name>
+    <englishName>Computer-controlled production 6</englishName>
+    <description
+    >&lt;p&gt;Kursen datorstyrd produktion 6 omfattar punkterna 1–10 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>DARDAT06</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Datorstyrd produktion 6, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DARDAT06&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Programmering av kommunikation mellan grupper av datorstyrd utrustning.&lt;/li&gt; &lt;li&gt;Arbete i robotbetjänad produktionsgrupp.&lt;/li&gt; &lt;li&gt;Hanteringssystem för råmaterial och för bearbetat material.&lt;/li&gt; &lt;li&gt;Produktionstekniska problem vid automatiserad tillverkning.&lt;/li&gt; &lt;li&gt;Säkerhetsanalys vid automatiserad bearbetning.&lt;/li&gt; &lt;li&gt;Arbete med datorstyrd mätutrustning och automatiserad processövervakning.&lt;/li&gt; &lt;li&gt;Automatiserad kvalitetskontroll och bearbetningsövervakning.&lt;/li&gt; &lt;li&gt;Förebyggande underhåll av utrustningen samt kontroll och åtgärder vid driftstörningar.&lt;/li&gt; &lt;li&gt;Påverkan på produktionsekonomi med koppling till val av utrustning, verktyg och teknik.&lt;/li&gt; &lt;li&gt;Driftsäkerhet, felsökning och säkerhetsrisker i automatiserad produktion.&lt;/li&gt; &lt;li&gt;Föreskrifter för arbetsmiljö samt person- och maskinsäkerhet. &lt;/li&gt; &lt;li&gt;Kontroll, bedömning och dokumentation av kvaliteten på utfört arbete.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar programmering, simulering, testning och optimering av datorstyrd produktionsutrustning &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Dessutom planerar och organiserar eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare iordningställande av och arbete med datorstyrd produktionsutrustning. Eleven förutser också produktionstekniska problem som kan uppstå och anpassar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare planering och organisation efter detta. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag samt gör en &lt;strong&gt;enkel &lt;/strong&gt;värdering av säkerhetsriskerna. Vidare väljer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare programmering, simulering, testning och optimering samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner och tillverkningsunderlag. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; visst &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet avläser och tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;information från övervakningssystem och föreslår åtgärder som påverkar resultatet. Dessutom upptäcker eleven eventuella produktionstekniska problem och åtgärdar dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Eleven vårdar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;utrustningen enligt instruktion. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för de metoder som använts för automatisk kvalitetskontroll. Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar programmering, simulering, testning och optimering av datorstyrd produktionsutrustning &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Dessutom planerar och organiserar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare iordningställande av och arbete med datorstyrd produktionsutrustning. Eleven förutser också produktionstekniska problem som kan uppstå och anpassar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare planering och organisation efter detta. I planeringen tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag samt gör en &lt;strong&gt;nyanserad &lt;/strong&gt;värdering av säkerhetsriskerna. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare programmering, simulering, testning och optimering samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;instruktioner och tillverkningsunderlag. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet avläser och tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;information från övervakningssystem och föreslår åtgärder som påverkar resultatet. Dessutom upptäcker eleven eventuella produktionstekniska problem och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Eleven vårdar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;utrustningen enligt instruktion. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för de metoder som använts för automatisk kvalitetskontroll. Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt; Eleven planerar och organiserar programmering, simulering, testning och optimering av datorstyrd produktionsutrustning &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Dessutom planerar och organiserar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare iordningställande av och arbete med datorstyrd produktionsutrustning. Eleven förutser också produktionstekniska problem som kan uppstå och anpassar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare planering och organisation efter detta. I planeringen tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; instruktioner och tillverkningsunderlag samt gör en &lt;strong&gt;nyanserad &lt;/strong&gt;värdering av säkerhetsriskerna. &lt;strong&gt;Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter detta samt utifrån sin värdering av säkerhetsriskerna&lt;/strong&gt;. Vidare väljer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften.&lt;/p&gt;&lt;p&gt;Eleven utför med noggrannhet och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare programmering, simulering, testning och optimering samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt; utifrån givna kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;instruktioner och tillverkningsunderlag. Eleven hanterar material, utrustning, verktyg och maskiner med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag och håller god ordning på arbetsplatsen. Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön. Under arbetet avläser och tolkar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;information från övervakningssystem och föreslår åtgärder som påverkar resultatet. Dessutom upptäcker eleven eventuella produktionstekniska problem och åtgärdar dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Eleven vårdar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;utrustningen enligt instruktion. När arbetsuppgiften är utförd gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av arbetsprocessen och resultatet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat produktionsekonomi, kvalitet och slutresultat. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för de metoder som använts för automatisk kvalitetskontroll. Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för eventuella avvikelser från specifikationen och den egna arbetsinsatsen. Dessutom utvärderar eleven sitt arbete och resultat med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven samarbetar i sitt arbete med andra samt använder &lt;strong&gt;med säkerhet&lt;/strong&gt; korrekt fackspråk.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>7</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>
