@@ -6,6 +6,7 @@ import * as glob from "glob";
 import { join } from "path";
 
 import { getMarkdownFromHtml } from "../utils/markdown";
+import { assert } from "chai";
 
 function parsePurpose(purpose?: string) {
   const markdown = getMarkdownFromHtml(pickOnlyIf.string(purpose) ?? "")
@@ -113,6 +114,21 @@ export async function normalizeSubjects(
         }) ?? []
       ).filter((el: string | null) => el != null) as string[],
     };
+
+    assert.isNotNull(result.name);
+    assert.isNotNull(result.code);
+    assert.lengthOf(result.description ?? [], 1, `${result.code}: description`);
+    assert.lengthOf(
+      result.purpose?.sections ?? [],
+      3,
+      `${result.code}: description`
+    );
+    assert.equal(result.purpose?.sections?.[0]?.title, null);
+    assert.match(
+      result.purpose?.sections?.[1]?.title ?? "-",
+      /Undervisningen i .+? ska ge eleverna/
+    );
+    assert.match(result.purpose?.sections?.[2]?.title ?? "-", /Kurser i ämnet/);
 
     writeFileSync(
       join(subjectsDir, `s_${result.code}.json`),
