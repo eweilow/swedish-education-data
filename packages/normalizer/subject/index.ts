@@ -5,74 +5,51 @@ import * as mkdirp from "mkdirp";
 import * as glob from "glob";
 import { join } from "path";
 
-import { getMarkdownFromHtml } from "../utils/markdown";
+import { getMarkdownFromHtml, normalizeSections } from "../utils/markdown";
 import { assert } from "chai";
 import { normalizeCode } from "../utils/code";
 
-function parsePurpose(purpose?: string) {
-  const markdown = getMarkdownFromHtml(pickOnlyIf.string(purpose) ?? "")
-    ?.split("\n")
-    ?.map((el) => el.trim());
+function fixPurpose(rows: string[]) {
+  let hasFoundHeader = false;
 
-  if (markdown == null) {
-    return null;
-  }
-
-  const sections: Array<{ title: string | null; rows: string[] }> = [];
-  let header: string | null = null;
-  let rows: string[] = [];
-
-  const pop = () => {
-    if (rows.length === 0) {
-      return;
-    }
-
-    sections.push({
-      title: header?.replace(/^#+/g, "")?.trim() ?? null,
-      rows: rows
-        .filter((el) => !!el)
-        .map((row, i) => {
-          if (row.startsWith("*")) {
-            return row.replace(/^\*/, `${i + 1}.`);
-          }
-
-          return row;
-        }),
-    });
-    rows = [];
-  };
-
-  for (let row of markdown) {
-    // Current row is a header
+  return rows.flatMap((row, index) => {
     if (
-      row.startsWith("#") ||
-      /Undervisningen i ämnet .+? ska ge eleverna förutsättningar att utveckla följande:/.test(
+      /^Undervisningen i ämnet .+? ska ge eleverna förutsättningar att utveckla följande:/.test(
         row
       )
     ) {
-      pop();
-      header = row;
-      continue;
+      hasFoundHeader = true;
+      return `# ${row}`;
     }
 
-    // We are in the "first" section, but encountered a list. Pop the section and force a header
-    if (header == null && row.startsWith("1.")) {
-      pop();
-      header = `Undervisningen i ämnet ska ge eleverna förutsättningar att utveckla följande:`;
+    if (row.startsWith("1.") && !hasFoundHeader) {
+      hasFoundHeader = true;
+      return [
+        `# Undervisningen i ämnet PLACEHOLDER ska ge eleverna förutsättningar att utveckla följande:`,
+        row,
+      ];
     }
 
-    rows.push(row);
+    if (row.startsWith("#")) {
+      hasFoundHeader = true;
+    }
+
+    return row;
+  });
+}
+
+function parsePurpose(purpose?: string) {
+  const markdownRows = getMarkdownFromHtml(pickOnlyIf.string(purpose) ?? "")
+    ?.split("\n")
+    ?.map((el) => el.trim());
+
+  if (markdownRows == null) {
+    return null;
   }
 
-  pop();
+  const fixedRows = fixPurpose(markdownRows);
 
-  if (sections.length !== 3) {
-    console.log(sections);
-  }
-
-  return {
-    sections,
-  };
+  return normalizeSections(fixedRows);
 }
 
 function parseDescription(description: string | null) {
