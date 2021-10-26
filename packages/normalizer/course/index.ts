@@ -95,11 +95,12 @@ export async function normalizeCourses(
         /Undervisningen i kursen ska behandla följande centrala innehåll/,
         `in ${result.name} (${result.code})`
       );
+
       for (const section of result.centralContent?.sections ?? []) {
         for (const row of section.rows) {
           assert.match(
             row,
-            /^[0-9]+\. .*\.?/,
+            /^[0-9]+\. .+\.$/i,
             `in ${result.name} (${result.code})`
           );
         }

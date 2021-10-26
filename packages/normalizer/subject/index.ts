@@ -108,6 +108,25 @@ export async function normalizeSubjects(
     );
     assert.match(result.purpose?.sections?.[2]?.title ?? "-", /Kurser i ämnet/);
 
+    for (const section of result.purpose?.sections?.slice?.(0, 1) ?? []) {
+      for (const row of section.rows) {
+        assert.match(
+          row,
+          /^[A-zÅÄÖ].+\.$/i,
+          `in ${result.name} (${result.code})`
+        );
+      }
+    }
+    for (const section of result.purpose?.sections?.slice?.(1) ?? []) {
+      for (const row of section.rows) {
+        assert.match(
+          row,
+          /^[0-9]+\. .+\.$/i,
+          `in ${result.name} (${result.code})`
+        );
+      }
+    }
+
     writeFileSync(
       join(subjectsDir, `s_${normalizeCode(result.code)}.json`),
       JSON.stringify(result, null, "  ")

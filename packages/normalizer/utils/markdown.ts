@@ -5,7 +5,8 @@ export function getMarkdownFromHtml(html?: string) {
     return null;
   }
 
-  html = html.replace(/<br>/g, " ");
+  html = html.replace(/<br>/g, " "); // Remove line breaks
+  html = html.replace(/<i>\s*\.\s*<\/i>/g, "."); // Remove dots with emphasis
   return NodeHtmlMarkdown.translate(html).replace(/\\\./g, ".");
 }
 
@@ -26,6 +27,17 @@ export function normalizeSections(markdownRows: string[]) {
         .map((row, i) => {
           if (row.startsWith("* ")) {
             return row.replace(/^\* /, `${i + 1}. `);
+          }
+
+          return row;
+        })
+        .map((row) => {
+          if (!row.endsWith(".") && /[A-ZÅÄÖ0-9]$/i.test(row)) {
+            return `${row}.`;
+          }
+
+          if (row.endsWith(",")) {
+            return `${row.slice(0, -1)}.`; // Remove the , and replace with .
           }
 
           return row;
