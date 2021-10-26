@@ -1,4 +1,21 @@
 {
   "name": "Administration 2",
-  "code": "ADMADM02"
+  "code": "ADMADM02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Handläggning av ärenden, till exempel sammanställning och uppföljning av ansökningar.",
+          "2. Arbetsmarknad, till exempel att söka arbete, vägar till arbete och att arbeta utomlands.",
+          "3. Användning av modern teknik och programvara i olika administrativa och kommunikativa arbetsuppgifter.",
+          "4. Serviceinriktat arbete och bemötande samt den egna rollen i mötet med andra som till exempel kunder och medarbetare.",
+          "5. Metoder för planering, genomförande, presentation och utvärdering av projekt.",
+          "6. Register, regler, lagar och andra bestämmelser inom administration, till exempel offentlighetsprincipen och sekretessregler.",
+          "7. Ergonomi, arbetsrättslagar och andra bestämmelser samt arbetsmiljöfrågor, till exempel hur en ergonomiskt riktig arbetsplats planeras och hur man arbetar med fysiska och psykosociala frågor.",
+          "8. Kvalitetssäkring och internkontroll på företag."
+        ]
+      }
+    ]
+  }
 }

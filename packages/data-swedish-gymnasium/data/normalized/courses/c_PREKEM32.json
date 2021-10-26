@@ -1,4 +1,28 @@
 {
   "name": "Processteknik – kemi 2",
-  "code": "PREKEM32"
+  "code": "PREKEM32",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Standarder och föreskrifter inom området kemisk industri och pappersindustri.",
+          "2. Tekniker för pappersindustri och petrokemi.",
+          "3. Reaktorfysik och förbränningsteknik.",
+          "4. Processens påverkan på miljön. Åtgärder för att minimera miljöpåverkan.",
+          "5. Processreglering och distribuerade styrsystem.",
+          "6. Störstorheter som påverkar reglerprocessen.",
+          "7. Styrning och mätning av olika förlopp i produktionsutrustning.",
+          "8. Organisk kemi med tillämpning i kemisk processindustri.",
+          "9. Kvalitativa och kvantitativa metoder för kemisk analys.",
+          "10. Planering och genomförande av experimentella undersökningar och observationer samt formulering och prövning av hypoteser i samband med dessa.",
+          "11. Kontroll av råvara, mellanprodukt och färdigprodukt med hjälp av mät- och analysinstrument.",
+          "12. Kvalitetskrav gentemot den kemiska processindustrin samt gällande säkerhets- och miljökrav.",
+          "13. Händelseförloppet mot kemiska tillverkningsprocesser, materialhantering, kontroll och underhållsrutiner.",
+          "14. Mätmetoder och mätdon.",
+          "15. Styrdon och deras karakteristik."
+        ]
+      }
+    ]
+  }
 }

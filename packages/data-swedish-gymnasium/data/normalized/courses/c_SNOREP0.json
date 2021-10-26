@@ -1,4 +1,30 @@
 {
   "name": "Reparation av snöfordon",
-  "code": "SNOREP0"
+  "code": "SNOREP0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Elsystemets konstruktion och funktion samt dess huvudkomponenter inklusive schemasymboler, till exempel ISO, SIS och DIN.",
+          "2. Bromssystemets konstruktion och funktion samt dess huvudkomponenter.",
+          "3. Drivlinans konstruktion och funktion samt dess huvudkomponenter.",
+          "4. Ramars, chassiers, axlars och fjädringssystems konstruktion och funktion samt deras huvudkomponenter.",
+          "5. Styrsystems konstruktion och funktion samt deras huvudkomponenter.",
+          "6. Demontering, montering och justering av komponenter i samband med service och reparationsarbeten.",
+          "7. Svetsning av icke bärande konstruktioner.",
+          "8. Underhåll, reparationsarbete samt kostnadseffektivt arbetssätt och kundvänlig behandling vid arbete med snöfordon.",
+          "9. Lyft och transporter av tunga komponenter.",
+          "10. Användning av branschrelaterad diagnosutrustning.",
+          "11. Användning av branschrelaterad verkstadsutrustning.",
+          "12. Rengöring och vård samt kontroll och reparation av verktyg och verkstadsutrustning.",
+          "13. Bestämmelser om hur man får förändra egenskaper som påverkar handhavande och säkerhet.",
+          "14. Bestämmelser och anvisningar om sammanfogningstekniker för snöfordon.",
+          "15. Arbetsinstruktioner, servicelitteratur och informationsmaterial om reservdelshantering på svenska och engelska, inklusive information i datormiljö.",
+          "16. Administrativa funktioner, kommunikationssystem, garantier samt dialog för felsökning och reparation, inklusive information i datormiljö.",
+          "17. Yrkesmässig dokumentation av service och reparationsarbeten."
+        ]
+      }
+    ]
+  }
 }

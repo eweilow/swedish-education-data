@@ -1,4 +1,23 @@
 {
   "name": "Servering 1",
-  "code": "SERSER01"
+  "code": "SERSER01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Metoder, material, redskap och annan utrustning som används vid servering.",
+          "2. Uppdukningar i matsal.",
+          "3. Arbetsorganisation och servering av mat och dryck i matsal.",
+          "4. Bärtekniker i matsal.",
+          "5. Olika typer av serveringssätt, till exempel fatservering och bufféservering.",
+          "6. Matsedlars och dryckeslistors uppbyggnad.",
+          "7. Ansvarsfull alkoholservering och alkoholpolitik.",
+          "8. Kommunikation, både verbal och icke verbal, gästbemötande, service och försäljning.",
+          "9. Kassaarbete och kassarutiner.",
+          "10. Lagar och andra bestämmelser inom området, till exempel i fråga om hygien, ergonomi och säkerhet samt ändamålsenlig klädsel."
+        ]
+      }
+    ]
+  }
 }

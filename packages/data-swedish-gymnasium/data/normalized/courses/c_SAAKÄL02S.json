@@ -1,4 +1,22 @@
 {
   "name": "Kälsvets 2",
-  "code": "SAAKÄL02S"
+  "code": "SAAKÄL02S",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Svetsning med vald svetsmetod av kälfogar plåt mot plåt samt plåt mot rör i olika relevanta svetslägen till gängse acceptanskrav.",
+          "2. Tillverkningsunderlag, till exempel svetsdatablad, ritningar och standarder.",
+          "3. Funktion hos utrustning och kringutrustning för vald svetsmetod.",
+          "4. Systematiskt underhåll och service på utrustningen. Organisation av arbetsplatsen.",
+          "5. Lagar och andra bestämmelser om arbetsmiljö, systematiskt arbetsmiljöarbete samt säkerhetsföreskrifter. Betydelsen av dessa för organisation och genomförande av det egna arbetet.",
+          "6. Metoder för reparation av enklare fel som uppstår under svetsningen samt för att lösa enklare produktionstekniska problem.",
+          "7. Standarder för kvalitetsbedömning av den utförda sammanfogningen.",
+          "8. Termer och begrepp inom teknikområdet.",
+          "9. Olika delar i produktionsprocessen. Betydelsen av kommunikation och samverkan mellan dessa."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,21 @@
 {
   "name": "Personlig försäljning 3",
-  "code": "FÖSPER03"
+  "code": "FÖSPER03",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Säljplaner och säljprocessen, till exempel försäljning mellan företag, nyckelkundsförsäljning, systemförsäljning, teknisk försäljning och tjänsteförsäljning.",
+          "2. Affärskommunikation och försäljning i olika affärskulturer och påverkan av olika affärsseder.",
+          "3. Säljtekniker för säljare i exportföretag.",
+          "4. Säljstyrning och säljledning, hur man leder och utvecklar säljare samt utvecklar säljarbetet och säljstrategier i verksamheten.",
+          "5. Marknadsföring och säljarens roll i ett marknadsföringssystem.",
+          "6. Kundpsykologi.",
+          "7. Förhandlingstekniker och hur man driver egna projekt inom försäljningsområdet.",
+          "8. Retorik och presentationsteknik för säljbudskap."
+        ]
+      }
+    ]
+  }
 }

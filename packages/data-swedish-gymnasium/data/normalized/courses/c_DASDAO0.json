@@ -1,4 +1,17 @@
 {
   "name": "Dansorientering",
-  "code": "DASDAO0"
+  "code": "DASDAO0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Färdighetsträning i en eller flera dansformer. Dansformernas estetiska ideal när det gäller rörelser, rörelsekvaliteter, användning av rum och musik samt relationen till meddansare. En eller flera dansformers sociala eller kulturella sammanhang.",
+          "2. Olika danstyper, deras kännetecken och kulturella bakgrund. Dans som levande kroppsligt uttryck. Dans och dansande i olika sammanhang med exempel från olika kulturer samt dansens olika funktioner.",
+          "3. Dans som uttryck för kulturella värderingar. Dans i relation till synen på kropp, genus, etnicitet och nationalitet. Kulturella värderingar av dans i olika medier.",
+          "4. Begrepp, till exempel stil och vokabulär. Begrepp som används när dans delas in i olika typer och som tillämpas inom de olika dansformerna."
+        ]
+      }
+    ]
+  }
 }

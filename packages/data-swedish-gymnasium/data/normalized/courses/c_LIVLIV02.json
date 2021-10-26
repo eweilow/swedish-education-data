@@ -1,4 +1,20 @@
 {
   "name": "Livsmedels- och näringskunskap 2",
-  "code": "LIVLIV02"
+  "code": "LIVLIV02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Kvalitetsbedömning och jämförelser av råvaror och livsmedel.",
+          "2. Råvarors, livsmedels och näringsämnens kemiska uppbyggnad, till exempel cellstrukturer, fiber- och muskeluppbyggnad samt vatten- och fettlöslighet.",
+          "3. Kemiska och fysikaliska processer i råvaror och färdiga produkter vid till exempel fermentering, torkning och stekning.",
+          "4. Energibehov och näringsbehov i förhållande till livsstil, motion, matvanor och särskilda behov.",
+          "5. Etiska frågor gällande råvarors kvalitet och ursprung, till exempel rättviseförhållanden, genmodifiering och transporter.",
+          "6. Livsmedelskvalitet i relation till hållbar utveckling och ekonomi.",
+          "7. Lagar och andra bestämmelser inom området som till exempel rör livsmedelstillsatser, märknings- och packningsbestämmelser."
+        ]
+      }
+    ]
+  }
 }

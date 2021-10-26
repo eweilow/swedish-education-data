@@ -1,4 +1,21 @@
 {
   "name": "Idrottsspecialisering 2",
-  "code": "SPEIDS32"
+  "code": "SPEIDS32",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Regler, taktik och teknik inom specifik idrott vid träning och tävling.",
+          "2. Utformning och genomförande av individuella träningsprogram i relation till krav- och kapacitetsanalys samt till olika träningsmetoder inom specifik idrott.",
+          "3. Värdering av individuellt utformade träningsprogram.",
+          "4. Värdering av olika träningsmetoder i relation till specifik idrott, till exempel rörlighets-, teknik- eller koncentrationsträning.",
+          "5. Utformning och genomförande av skadeförebyggande träningsprogram inom specifik idrott.",
+          "6. Individers tränings- och tävlingsvillkor ur jämlik- och jämställdhetsperspektiv.",
+          "7. Samhällsideal som påverkar idrottsutövandet, till exempel kroppsideal och klädsel samt vanligt förekommande orättvisor inom idrotten och hur de kan motverkas.",
+          "8. Kommunikation och samarbete som syftar till utveckling av idrottsresultat."
+        ]
+      }
+    ]
+  }
 }

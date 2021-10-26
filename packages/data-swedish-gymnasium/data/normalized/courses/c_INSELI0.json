@@ -1,4 +1,27 @@
 {
   "name": "Elinstallationer",
-  "code": "INSELI0"
+  "code": "INSELI0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Installationer av kraft- och belysningsanläggningar.",
+          "2. Elmaterials olika egenskaper och användningsområden.",
+          "3. Apparaters kapslingsklass och placering i olika miljöer.",
+          "4. Lagar och andra bestämmelser om säkerhet inom området. Standarder.",
+          "5. Val av ledningssystem och förläggningssätt med hänsyn till ledningsburna störningar.",
+          "6. Förläggning av kabel på olika underlag och i mark samt installation av rör och kanalisation.",
+          "7. Installation av kopplingsutrustning med tillhörande skydd.",
+          "8. Dokumentation och anvisningar rörande elinstallationsarbete, till exempel Allmän material- och arbetsbeskrivning för elektriska arbeten (AMA EL).",
+          "9. Avbrottsfri krafts (UPS-systemens) användning och funktion.",
+          "10. Säkerhet vid elinstallationsarbete.",
+          "11. Ergonomins betydelse vid elinstallationsarbete.",
+          "12. Kontroll inför drifttagning och elarbetsansvar.",
+          "13. Dokumentation inom belysningsområdet.",
+          "14. Felsökning och reparation av befintliga elinstallationer."
+        ]
+      }
+    ]
+  }
 }

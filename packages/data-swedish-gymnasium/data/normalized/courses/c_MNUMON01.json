@@ -1,4 +1,20 @@
 {
   "name": "Mönsterkonstruktion 1",
-  "code": "MNUMON01"
+  "code": "MNUMON01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Måttagning och storlekssystem.",
+          "2. Grundkonstruktioner.",
+          "3. Mönsterförändringar utifrån grundmallar.",
+          "4. Mönsterförändringar utifrån olika kroppsformer.",
+          "5. Framställning av mönster utifrån den färdiga produktens användningsområde.",
+          "6. Fackspråk för att förstå och använda instruktioner och tekniska beskrivningar, till exempel manualer.",
+          "7. Ergonomiskt, säkert och arbetsmiljömässigt arbetssätt."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,24 @@
 {
   "name": "Robotteknik",
-  "code": "INRROB0"
+  "code": "INRROB0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Industrirobotens principiella uppbyggnad och användningsområden.",
+          "2. Robottekniska begrepp, definition och användning av olika koordinatsystem samt grundläggande kinematik.",
+          "3. Vanligt förekommande standarder inom robotteknik, till exempel standarder för informationsteknik och säkerhet.",
+          "4. Kontroll före drifttagning samt provkörning av program på ett säkert sätt vad gäller både person och utrustning.",
+          "5. Tillämpning av gällande säkerhetsföreskrifter vid arbete i robotcellen.",
+          "6. Val av gripdon.",
+          "7. Kommunikation mellan robotsystemet och yttre enheter i robotcellen.",
+          "8. Metoder för skriftlig och muntlig dokumentation av robotcellens funktion, uppbyggnad och program.",
+          "9. Programskrivning bestående av huvudrutin och underrutin samt ändring och definition av systemparametrar.",
+          "10. Felsökning i robotcellen.",
+          "11. Förebyggande och avhjälpande underhåll av industrirobotar."
+        ]
+      }
+    ]
+  }
 }

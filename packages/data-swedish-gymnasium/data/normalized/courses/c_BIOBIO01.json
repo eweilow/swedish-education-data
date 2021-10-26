@@ -1,4 +1,55 @@
 {
   "name": "Biologi 1",
-  "code": "BIOBIO01"
+  "code": "BIOBIO01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Ekologi",
+        "rows": [
+          "1. Ekosystemens struktur och dynamik. Energiflöden och kretslopp av materia samt ekosystemtjänster.",
+          "2. Naturliga och av människan orsakade störningar i ekosystem med koppling till frågor om bärkraft och biologisk mångfald.",
+          "3. Populationers storlek, samhällens artrikedom och artsammansättning samt faktorer som påverkar detta.",
+          "4. Ekologiskt hållbar utveckling lokalt och globalt samt olika sätt att bidra till detta."
+        ]
+      },
+      {
+        "title": "Genetik",
+        "rows": [
+          "1. Eukaryota och prokaryota cellers egenskaper och funktion.",
+          "2. Arvsmassans uppbyggnad samt ärftlighetens lagar och mekanismer. Celldelning, dna-replikation och mutationer.",
+          "3. Genernas uttryck. Proteinsyntes, monogena och polygena egenskaper, arv och miljö.",
+          "4. Genetikens användningsområden. Möjligheter, risker och etiska frågor."
+        ]
+      },
+      {
+        "title": "Evolution",
+        "rows": [
+          "1. Naturvetenskapliga teorier om livets uppkomst och utveckling.",
+          "2. Evolutionens mekanismer, till exempel naturligt urval och sexuell selektion samt deras betydelse för artbildning.",
+          "3. Organismers beteende samt beteendets betydelse för överlevnad och reproduktiv framgång.",
+          "4. Släktträd och principer för indelning av organismvärlden. Organismernas huvudgrupper och evolutionära historia.",
+          "5. Biologins idéhistoria med tyngdpunkt på evolutionen."
+        ]
+      },
+      {
+        "title": "Biologins karaktär och arbetsmetoder",
+        "rows": [
+          "1. Vad som kännetecknar en naturvetenskaplig frågeställning.",
+          "2. Modeller och teorier som förenklingar av verkligheten. Hur de förändras över tid.",
+          "3. Det experimentella arbetets betydelse för att testa, omvärdera och revidera hypoteser, teorier och modeller.",
+          "4. Avgränsningar och studier av problem och frågor med hjälp av biologiska resonemang.",
+          "5. Planering och genomförande av fältstudier, experiment och observationer samt formulering och prövning av hypoteser i samband med dessa.",
+          "6. Utvärdering av resultat och slutsatser genom analys av metodval, arbetsprocess och felkällor.",
+          "7. Fältstudier och undersökningar inom ekologi inklusive användning av modern utrustning. Simulering av evolutionära mekanismer, till exempel naturligt urval. Hur man identifierar organismer. Mikroskopering vid till exempel studier av celler eller celldelning.",
+          "8. Bearbetning av biologiska data med enkla statistiska metoder.",
+          "9. Användning av genetiska data för studier av biologiska sammanhang.",
+          "10. Ställningstagande i samhällsfrågor utifrån biologiska förklaringsmodeller, till exempel frågor om hållbar utveckling."
+        ]
+      }
+    ]
+  }
 }

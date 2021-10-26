@@ -1,4 +1,43 @@
 {
   "name": "Däckstjänst 2",
-  "code": "DACDAC02"
+  "code": "DACDAC02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Driftsarbete",
+        "rows": [
+          "1. Procedurer och kommunikation vid förtöjning, ankring och koppling av bogserbåt.",
+          "2. Riggning av fallrep, lyftanordningar, båtsmansstol och ställning.",
+          "3. Knopar, splitsning och tagling.",
+          "4. Fastknopning, hissning och halning av flaggor.",
+          "5. Betydelsen av de mest använda signalflaggorna.",
+          "6. Förtöjnings- och ankringsteori och terminologi."
+        ]
+      },
+      {
+        "title": "Underhållsarbete",
+        "rows": [
+          "1. Planerat underhåll och underhållssystem.",
+          "2. Underhåll av konstruktioner och utrustning.",
+          "3. Underhåll av handverktyg.",
+          "4. Ytbehandlingstekniker och målningsmetoder.",
+          "5. Förvaring och underhåll av förtöjningsgods och tågvirke."
+        ]
+      },
+      {
+        "title": "Tekniska konstruktioner och teknisk utrustning",
+        "rows": [
+          "1. Förtöjningsutrustning.",
+          "2. Förtöjningsgods och tågvirke.",
+          "3. Ankringsutrustning.",
+          "4. Bogseringsarrangemang.",
+          "5. El- och luftdrivna handverktyg."
+        ]
+      }
+    ]
+  }
 }

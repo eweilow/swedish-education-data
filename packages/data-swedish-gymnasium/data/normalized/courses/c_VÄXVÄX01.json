@@ -1,4 +1,18 @@
 {
   "name": "Växtkunskap 1",
-  "code": "VÄXVÄX01"
+  "code": "VÄXVÄX01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Identifiering, beskrivning och namngivning av ett begränsat sortiment av träd, buskar, barrväxter, perenner och annueller med vetenskapliga och yrkesmässiga termer.",
+          "2. Växtmiljöer samt växters härdighet, ståndort och proveniens.",
+          "3. Växternas funktion i olika miljöer, till exempel som rumsbildare, vindskydd och estetiska uttryck med färg och form.",
+          "4. Olika moment i planteringen av växter, till exempel jordförbättring, efterarbete, skötsel och uppföljning.",
+          "5. Sortiment, växtkvalitet samt handel med växter, till exempel vad gäller kvalitetsmärkningen E-planta och växtpass."
+        ]
+      }
+    ]
+  }
 }

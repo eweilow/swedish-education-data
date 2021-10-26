@@ -1,4 +1,40 @@
 {
   "name": "Fiskodling 2",
-  "code": "VANFIS02"
+  "code": "VANFIS02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Arbetsuppgifter",
+        "rows": [
+          "1. Planering, genomförande och uppföljning av skötsel av en fiskodling.",
+          "2. Ekonomiska beräkningar och kalkyler för en fiskodling.",
+          "3. Bedömning av produktkvalitet.",
+          "4. Planering och genomförande av arbetsuppgifter i samband med slakt.",
+          "5. Skötsel, service och underhåll av utrustning och redskap.",
+          "6. Arbetsrutiner vid förebyggande hälsovård och för att upptäcka ohälsa inom aktuell produktion."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Ergonomi, arbetsmiljö- och säkerhetsfrågor i samband med fiskodling.",
+          "2. Lagar och andra bestämmelser som rör odling i vatten: lagstiftning som rör fiskodling och lagstiftning för småskalig livsmedelshantering.",
+          "3. Arbetsgången med ett tillståndsärende för fiskodling."
+        ]
+      },
+      {
+        "title": "Biologisk grund",
+        "rows": [
+          "1. Förutsättningar och krav på odlingsplats, vattenkvalitet och miljöhänsyn.",
+          "2. Foder, utfodring och näringstillgång samt fodrets påverkan på tillväxt och kvalitet.",
+          "3. Förebyggande hälsovård, vanliga sjukdomar och behandlingsmetoder.",
+          "4. Fisk som livsmedel och de krav som gäller för den fisk som går till konsumtion."
+        ]
+      }
+    ]
+  }
 }

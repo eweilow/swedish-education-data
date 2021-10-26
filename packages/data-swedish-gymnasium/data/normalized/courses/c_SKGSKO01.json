@@ -1,4 +1,28 @@
 {
   "name": "Skogsskötsel 1",
-  "code": "SKGSKO01"
+  "code": "SKGSKO01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Svenska trädslag samt deras egenskaper, ståndortskrav och användningsområden.",
+          "2. Begreppet ståndortsindex.",
+          "3. Vanliga skadegörare på växande träd.",
+          "4. Förebyggande åtgärder mot vanliga skadegörare på växande träd.",
+          "5. Grundläggande metoder för tolkning av skogsbruksplaner.",
+          "6. Röjning och uppföljning av röjningsarbete i olika typer av bestånd.",
+          "7. Markberedning och olika föryngringsmetoder.",
+          "8. Gallring och grundläggande metoder för uppföljning av gallring.",
+          "9. Grundläggande metoder för skogsuppskattning samt användning av skogsuppskattningsinstrument och gallringsmallar.",
+          "10. Bonitering med höjdutvecklingskurvor.",
+          "11. Ekonomiska beräkningar av kostnader och intäkter för olika skogsskötselåtgärder.",
+          "12. Ergonomi, arbetsmiljö och säkerhet i samband med skogsskötsel.",
+          "13. Brandförebyggande åtgärder.",
+          "14. Certifieringssystem inom skogsbruk.",
+          "15. Lagar och andra bestämmelser inom området, till exempel skogsvårdslagen."
+        ]
+      }
+    ]
+  }
 }

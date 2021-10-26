@@ -1,4 +1,20 @@
 {
   "name": "Mental träning",
-  "code": "HALMEN0"
+  "code": "HALMEN0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Psykologiska faktorer i relation till prestation.",
+          "2. Olika stressorer i vardagen.",
+          "3. Teoretiska modeller för stresshantering.",
+          "4. Aktuell forskning inom området.",
+          "5. Motivation och målfokusering.",
+          "6. Mentala avslappnings- och träningsmetoder, till exempel mindfulness.",
+          "7. Pedagogiska modeller för instruktion och handledning."
+        ]
+      }
+    ]
+  }
 }

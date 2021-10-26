@@ -1,4 +1,20 @@
 {
   "name": "Avhjälpande underhåll 2",
-  "code": "DRIAVH02"
+  "code": "DRIAVH02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Avhjälpande underhåll på maskiner och utrustningar.",
+          "2. Beredning, planering och dokumentation av åtgärder med stöd av ritningar, scheman och manualer.",
+          "3. Metoder och tekniker för avhjälpande underhåll, materialuppbyggnad med materialval samt för- och efterbehandling.",
+          "4. Arbetsinstruktioner för montering och demontering.",
+          "5. Föreskrifter om arbetsmiljö samt person- och maskinsäkerhet.",
+          "6. Underhållstekniska begrepp och parametrar.",
+          "7. Felsökningsmetoder, utvärdering och förbättringsteknik."
+        ]
+      }
+    ]
+  }
 }

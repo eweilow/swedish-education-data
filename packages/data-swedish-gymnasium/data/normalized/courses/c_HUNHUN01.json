@@ -1,4 +1,43 @@
 {
   "name": "Hundkunskap 1",
-  "code": "HUNHUN01"
+  "code": "HUNHUN01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Biologisk grund",
+        "rows": [
+          "1. Vanliga hundraser och deras egenskaper, ursprung och användning.",
+          "2. Olika verksamhetsområden för olika typer av hundar.",
+          "3. Hundars naturliga beteende och mentala egenskaper samt olika beteendeproblem.",
+          "4. Hundars näringsbehov.",
+          "5. Hundars anatomi och fysiologi med fokus på exteriör och näringsfysiologi.",
+          "6. Vanliga skador och sjukdomar samt förebyggande åtgärder.",
+          "7. Reproduktion och uppfödning av hundar."
+        ]
+      },
+      {
+        "title": "Arbetsuppgifter",
+        "rows": [
+          "1. Daglig skötsel av hundar, till exempel utfodring, tillsyn, kontroll av utrustning och rengöring.",
+          "2. Grundläggande hantering av hundar, samspel med hundar och träning av hundar mot uppsatta mål.",
+          "3. Rastning av hundar samt olika metoder för att sysselsätta hundar och berika deras miljö.",
+          "4. Arbete med bad, trimning och klippning.",
+          "5. Förebyggande hälsovård samt vård av sjuka och skadade hundar.",
+          "6. Skötsel av anläggningar och utrustning."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Säkerhet vid arbete med hundar.",
+          "2. Djurskyddslagstiftning och andra bestämmelser som rör hundhållning.",
+          "3. Bestämmelser som reglerar utformning och skötsel av anläggningar avsedda för hundhållning."
+        ]
+      }
+    ]
+  }
 }

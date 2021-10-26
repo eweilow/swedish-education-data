@@ -1,4 +1,28 @@
 {
   "name": "Bussteknik",
-  "code": "BUSBUS0"
+  "code": "BUSBUS0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Olika bussar, deras konstruktion, funktion, system och komponenter samt användningsområden, bland annat linjebussar, turistbussar samt bussar inrättade för färdtjänst och sjukresor.",
+          "2. Olika tilläggsutrustningar, deras konstruktion, funktion, system och komponenter, till exempel utrustning för rörelsehindrade samt nätverks- och mediautrustning.",
+          "3. Metoder för och genomförande av service och underhåll av bussar och tilläggsutrustningar.",
+          "4. Konsekvenser av eftersatt underhåll beträffande ekonomi, driftstörningar och trafiksäkerhet.",
+          "5. Metoder för och genomförande av enklare felsökning, diagnostisering och reparationer av bussars och tilläggsutrustningars system och komponenter.",
+          "6. Metoder för och genomförande av demontering, montering och justering av komponenter i samband med reparationer.",
+          "7. Metoder för användning av specialverktyg på ett kvalitetsmässigt sätt samt vård av dessa.",
+          "8. Fordonstillverkares anvisningar och teknisk information på svenska och engelska.",
+          "9. Arbetsinstruktioner, servicelitteratur och system för reservdelsbeställning på svenska och engelska.",
+          "10. Risker i samband med service och reparationsarbete på eller i närheten av högvoltssystem och gassystem avsedda för framdrivning.",
+          "11. Säkerhet på arbetsplatsen och förebyggande av person- och egendomsskador.",
+          "12. Brandförebyggande åtgärder och åtgärder vid brand.",
+          "13. Lagar och andra bestämmelser som gäller för arbetet.",
+          "14. Arbete med problemlösning och uppgifter såväl självständigt som tillsammans med andra.",
+          "15. Yrkesmässigt språk, kommunikation och målgruppsanpassning."
+        ]
+      }
+    ]
+  }
 }

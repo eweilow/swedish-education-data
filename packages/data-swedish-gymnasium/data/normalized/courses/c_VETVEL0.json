@@ -1,4 +1,21 @@
 {
   "name": "Ventilationsteknik – injustering",
-  "code": "VETVEL0"
+  "code": "VETVEL0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Grundläggande injustering av luftbehandlingssystem.",
+          "2. Grundläggande temperatur- och luftflödesmätningar.",
+          "3. Kanalsystem, kanaler och kanaldetaljer.",
+          "4. Fläktar på en grundläggande nivå.",
+          "5. Tryckfall och strömningsförluster.",
+          "6. Ritningsläsning och arbetsbeskrivningar.",
+          "7. Arbetsmiljö, ergonomi och hälsa, personlig skyddsutrustning.",
+          "8. Lagar och andra bestämmelser, till exempel säkerhetsföreskrifter, behörigheter och EU-direktiv."
+        ]
+      }
+    ]
+  }
 }

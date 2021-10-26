@@ -1,4 +1,24 @@
 {
   "name": "Projektering VVS 1",
-  "code": "TESPRO31"
+  "code": "TESPRO31",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Beskrivningsteknik, till exempel för att formulera beställarens krav på den färdiga produkten och dess delar samt gränsdragning mellan yrkeskategorier.",
+          "2. AMA, dess struktur, användningsform och funktion i en teknisk beskrivning.",
+          "3. VVS-områdets regelverk och standarder och deras tillämpning i arbetet med planering, projektering, konstruktion och dokumentation.",
+          "4. Miljöns betydelse vid installationer med avseende på till exempel energieffektivitet, estetik, säkerhet och tillgänglighet. Arbetsmiljö.",
+          "5. Teknisk kommunikation, till exempel offerter och avtal.",
+          "6. Teknisk dokumentation, till exempel relationshandlingar och dokumentation kring besiktningar.",
+          "7. Energiprestanda med utgångspunkt i energieffektivitet.",
+          "8. BIM – dess konsekvenser för projekteringsarbetet.",
+          "9. Datorstödda tillämpningar för till exempel kalkylering och tidplanering.",
+          "10. Ritningsläsning och mängdning, såväl manuellt som med datorstöd.",
+          "11. Säkerhet, till exempel heta arbeten, ställningsbyggande och arbete från stege."
+        ]
+      }
+    ]
+  }
 }

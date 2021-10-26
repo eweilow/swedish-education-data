@@ -1,4 +1,23 @@
 {
   "name": "Mekanik och hållfasthetslära",
-  "code": "KORMEK3"
+  "code": "KORMEK3",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Mekanikens och hållfasthetslärans roll i konstruktionsarbetet.",
+          "2. Fördjupning i teorier, modeller och begrepp inom mekanik och hållfasthetslära och konstruktionsmässiga tillämpningar av dessa.",
+          "3. Metod och struktur för mekanik- och hållfasthetsberäkning och dimensionering samt rimlighetsbedömning.",
+          "4. Antaganden och motivering för mekanik- och hållfasthetsberäkningar.",
+          "5. Manuella och datorstödda verktyg för mekanik- och hållfasthetsberäkning och dimensionering, samt deras egenskaper och begränsningar.",
+          "6. Relevanta standarder och normer för beräkningar och dimensionering.",
+          "7. Utvärdering av material utifrån teorier och modeller i mekanik och hållfasthetslära.",
+          "8. Analys av tekniska system för att kunna utföra mekanik- och hållfasthetsberäkningar och dimensionering, till exempel vid friläggning.",
+          "9. Manuell och datorstödd provning av en konstruktions hållfasthet via mätningar, simuleringar och test.",
+          "10. Dokumentation och redovisning av mekanik- och hållfasthetsberäkning."
+        ]
+      }
+    ]
+  }
 }

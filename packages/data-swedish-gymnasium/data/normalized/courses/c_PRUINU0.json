@@ -1,4 +1,20 @@
 {
   "name": "Industriell mätteknik – fördjupning",
-  "code": "PRUINU0"
+  "code": "PRUINU0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Installation, kalibrering och intrimning av olika typer av mätutrustning samt genomförande av mätningar.",
+          "2. Lokalisering av felkällor samt tolkning och användning av mätresultat för lämpliga korrigerande åtgärder.",
+          "3. Anpassning av givare till mätsystem samt skydd av givare mot olika typer av överlast och yttre störningar.",
+          "4. Funktionskontroll, regelbunden service samt vård av den utrustning som tillämpas inom verksamheten.",
+          "5. Mätprinciper och karakteristiska egenskaper för vanliga mätartyper, till exempel deplacement-, rotor-, virvelspridnings- och ultraljudsmätare, induktiva mätare samt massflödesmätare.",
+          "6. Metoder för signalöverföring och anpassning av givare till mät- och styrsystem.",
+          "7. Konstruktion och funktion hos utrustning för mätning av olika parametrar i gas- och vätskeströmmar samt av fasta ämnen inom industrin."
+        ]
+      }
+    ]
+  }
 }

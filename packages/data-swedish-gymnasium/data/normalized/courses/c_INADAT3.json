@@ -1,4 +1,36 @@
 {
   "name": "Datakommunikation och informationssäkerhet",
-  "code": "INADAT3"
+  "code": "INADAT3",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Begreppen konfidentialitet, autenticitet, integritet och tillgänglighet ur ett informationssäkerhetsperspektiv.",
+          "2. Referensmodeller för uppbyggnad av system för datakommunikation.",
+          "3. Hårdvara i LAN (Local Area Network) och WAN (Wide Area Network) och deras användningsområden.",
+          "4. Paketförmedlande nät och inkapslingsprocessen. Dataflödet i en referensmodell.",
+          "5. TCP (Transmission Control Protocol). Funktion och konfigurering.",
+          "6. IP (Internet Protocol). Funktion och konfigurering i olika versioner. CIDR (Classless Inter-Domain Routing), sub- och supernetting.",
+          "7. Routningsprotokolls funktioner och konfigurering av routrar.",
+          "8. Accessmetoder och media för överföring av data, till exempel kopparbaserade, fiberbaserade och trådlösa tekniker.",
+          "9. Ethernets funktion och konfigurering. Konfigurering av ethernetswitchar.",
+          "10. Kartläggning och dokumentation av ett befintligt system för datakommunikation med avseende på fysisk struktur och informationssäkerhet.",
+          "11. Felsökningsmetodik i ett system för datakommunikation.",
+          "12. Vanliga motåtgärder för hot mot informationssäkerheten.",
+          "13. Vanliga krypteringsprotokolls funktion.",
+          "14. Autenticering och system för inloggning på vanligt förekommande nätverksoperativsystem.",
+          "15. Informationssäkerhet i trådlösa tekniker.",
+          "16. PKI (Public-Key Infrastructure), SSL (Secure Socket Layer) och system för certifikathantering. Installation och konfigurering av en PKI-lösning.",
+          "17. Virtuella LAN. Installation och konfigurering av flera VLAN.",
+          "18. NAT (Network Address Translation). Installation och konfigurering av NAT.",
+          "19. Olika varianter av VPN (Virtual Private Network). Installation och konfigurering av en fungerande VPN-lösning.",
+          "20. IPSec (Internet Protocol Security) och dess användning för att åstadkomma konfidentialitet, autenticitet och integritet.",
+          "21. Installation och konfigurering av en brandvägg.",
+          "22. Åtgärder mot förlust av data. Installation och konfigurering av system för säkerhetskopiering och återställning av data.",
+          "23. Presentationsverktyg som används inom kunskapsområdet."
+        ]
+      }
+    ]
+  }
 }

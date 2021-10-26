@@ -1,4 +1,54 @@
 {
   "name": "Fysik 1b2",
-  "code": "FYSFYS01b2"
+  "code": "FYSFYS01b2",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Rörelse och krafter",
+        "rows": [
+          "1. Orientering om aktuella modeller för beskrivning av materiens minsta beståndsdelar och av de fundamentala krafterna samt om hur modellerna har vuxit fram."
+        ]
+      },
+      {
+        "title": "Energi och energiresurser",
+        "rows": [
+          "1. Kärnenergi: atomkärnans struktur och bindningsenergi, den starka kraften, massa-energiekvivalensen, kärnreaktioner, fission och fusion."
+        ]
+      },
+      {
+        "title": "Strålning inom medicin och teknik",
+        "rows": [
+          "1. Radioaktivt sönderfall, joniserande strålning, partikelstrålning, halveringstid och aktivitet.",
+          "2. Orientering om elektromagnetisk strålning och ljusets partikelegenskaper.",
+          "3. Växelverkan mellan olika typer av strålning och biologiska system, absorberad och ekvivalent dos. Strålsäkerhet.",
+          "4. Tillämpningar inom medicin och teknik."
+        ]
+      },
+      {
+        "title": "Klimat- och väderprognoser",
+        "rows": [
+          "1. Ideala gaslagen som en modell för att beskriva atmosfärens fysik.",
+          "2. Orientering om hur fysikaliska modeller och mätmetoder används för att göra prognoser för klimat och väder.",
+          "3. Prognosers tillförlitlighet och begränsningar."
+        ]
+      },
+      {
+        "title": "Fysikens karaktär, arbetssätt och matematiska metoder",
+        "rows": [
+          "1. Vad som kännetecknar en naturvetenskaplig frågeställning.",
+          "2. Hur modeller och teorier utgör förenklingar av verkligheten och kan förändras över tid.",
+          "3. Det experimentella arbetets betydelse för att testa, omvärdera och revidera hypoteser, teorier och modeller.",
+          "4. Avgränsning och studier av problem med hjälp av fysikaliska resonemang och matematisk modellering innefattande linjära ekvationer, potens- och exponentialekvationer, funktioner och grafer.",
+          "5. Planering och genomförande av experimentella undersökningar och observationer samt formulering och prövning av hypoteser i samband med dessa.",
+          "6. Bearbetning och utvärdering av data och resultat med hjälp av analys av grafer, enhetsanalys och storleksuppskattningar.",
+          "7. Utvärdering av resultat och slutsatser genom analys av metodval, arbetsprocess och felkällor.",
+          "8. Ställningstaganden i samhällsfrågor utifrån fysikaliska förklaringsmodeller, till exempel frågor om hållbar utveckling."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,21 @@
 {
   "name": "Stumsvets 2",
-  "code": "SAASTU02S"
+  "code": "SAASTU02S",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Svetsning med vald svetsmetod av stumfogar i olika relevanta svetslägen till gängse acceptanskrav.",
+          "2. Avancerade tillverkningsunderlag.",
+          "3. Funktion hos utrustning och kringutrustning för vald svetsmetod.",
+          "4. Systematiskt underhåll och service samt felsökning på utrustningen. Organisation av arbetsplatsen.",
+          "5. Lagar och andra bestämmelser om arbetsmiljö, systematiskt arbetsmiljöarbete samt säkerhetsföreskrifter. Betydelsen av dessa för organisation och genomförande av det egna arbetet.",
+          "6. Metoder för reparation av fel som uppstår under svetsningen samt för att lösa enklare produktionstekniska problem.",
+          "7. Standarder för kvalitetsbedömning av den utförda sammanfogningen.",
+          "8. Termer och begrepp inom teknikområdet."
+        ]
+      }
+    ]
+  }
 }

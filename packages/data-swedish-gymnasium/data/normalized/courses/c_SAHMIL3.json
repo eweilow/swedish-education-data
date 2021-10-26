@@ -1,4 +1,20 @@
 {
   "name": "Miljöcertifierade hus",
-  "code": "SAHMIL3"
+  "code": "SAHMIL3",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Energiberäkning och energideklaration.",
+          "2. Olika typer av lågenergibyggnader.",
+          "3. Miljöklassning av byggnader samt dokumentationen av detta.",
+          "4. Miljöklassningssystem.",
+          "5. Miljöbalken.",
+          "6. Aktörer i arbetet med livscykelanalyser.",
+          "7. Livscykelanalys."
+        ]
+      }
+    ]
+  }
 }

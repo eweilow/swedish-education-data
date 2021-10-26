@@ -1,4 +1,35 @@
 {
   "name": "Maskintjänst 1",
-  "code": "MAKMAS01"
+  "code": "MAKMAS01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Vakthållning på handelsfartyg",
+        "rows": [
+          "1. Överlämning av vakten.",
+          "2. Ordergivning och kommunikation med vakthavande befäl.",
+          "3. Maskinrumsterminologi.",
+          "4. Interna kommunikations- och alarmsystem ombord.",
+          "5. Vakthållningens organisation.",
+          "6. Lagar och andra bestämmelser som styr verksamheten."
+        ]
+      },
+      {
+        "title": "Säkra arbetsprocedurer i samband med maskinrumsarbete",
+        "rows": [
+          "1. Maskinrumsalarm.",
+          "2. Övervakning av ångpannor.",
+          "3. Lastning och stuvning av förråd på fartyg.",
+          "4. Grundläggande underhållsarbete och verktygskunskap.",
+          "5. Pumpsystem för länsvatten, barlast och last.",
+          "6. Elektriska installationer samt risker förbundna med dessa.",
+          "7. Lagar och andra bestämmelser som styr verksamheten."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,23 @@
 {
   "name": "Samiskt hantverk 1",
-  "code": "SAISAM01S"
+  "code": "SAISAM01S",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Traditionella material, redskap, arbetsmetoder, maskiner och tekniker. I samband med det behandlas materialberäkning och planering av tidsåtgång.",
+          "2. Produkt- och materialkunskap i samband med planering och genomförande.",
+          "3. Färg och form.",
+          "4. Skisser och mönster till olika samiska hantverksprodukter inom valt hantverksområde.",
+          "5. Fackspråk och samisk terminologi.",
+          "6. Utvärdering av arbetsprocess och resultat.",
+          "7. Hantering, underhåll och skötsel av maskiner och verktyg.",
+          "8. Ergonomi, säkerhet, arbetsmiljö och skyddsutrustning.",
+          "9. Miljöhänsyn i arbetet, till exempel återvinning och källsortering.",
+          "10. Ansvarsfullt uppträdande i yrkesutövandet."
+        ]
+      }
+    ]
+  }
 }

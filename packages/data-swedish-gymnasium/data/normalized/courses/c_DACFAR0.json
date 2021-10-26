@@ -1,4 +1,44 @@
 {
   "name": "Fartygsbefäl",
-  "code": "DACFAR0"
+  "code": "DACFAR0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Bryggtjänst",
+        "rows": [
+          "1. Navigation.",
+          "2. Elektroniska navigationshjälpmedel.",
+          "3. Meteorologi.",
+          "4. Svenska och internationella sjövägsregler.",
+          "5. Vakthållning på fartygs brygga.",
+          "6. Radar."
+        ]
+      },
+      {
+        "title": "Miljö- och fartygsteknik",
+        "rows": [
+          "1. Fartygsstabilitet.",
+          "2. Fartygsmanövrering.",
+          "3. Skydd av den marina miljön.",
+          "4. Manöver- och maskinsystem.",
+          "5. Lagar och andra bestämmelser."
+        ]
+      },
+      {
+        "title": "Säkerhet",
+        "rows": [
+          "1. Brandskydd.",
+          "2. Hälso- och sjukvård.",
+          "3. Personlig säkerhet.",
+          "4. Passagerarsäkerhet.",
+          "5. Nödåtgärder.",
+          "6. Lagar och andra bestämmelser."
+        ]
+      }
+    ]
+  }
 }

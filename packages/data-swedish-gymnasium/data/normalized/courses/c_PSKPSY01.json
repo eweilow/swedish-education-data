@@ -1,4 +1,19 @@
 {
   "name": "Psykologi 1",
-  "code": "PSKPSY01"
+  "code": "PSKPSY01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Psykologins historiska framväxt. I samband med det behandlas psykoanalysens och behaviorismens tidiga förklaringar av mänskliga beteenden, känslor och tankar.",
+          "2. Kognitionspsykologi och dess tillämpningar: hur människan uppfattar och förstår sin omvärld och sig själv. I samband med det behandlas hur hjärnan tar emot och bearbetar information.",
+          "3. Biologisk psykologi och dess tillämpningar: hur människan förstås utifrån fysiska förklaringar av tänkande, känslor och beteende.",
+          "4. Socialpsykologi och dess tillämpningar: hur människan påverkas och formas tillsammans med andra utifrån de grupper och organisationer hon eller han tillhör.",
+          "5. Verklighetsuppfattningar och självbilder. Hur de påverkas och formas.",
+          "6. Psykisk hälsa och ohälsa med betoning på stress och stresshantering samt kriser och krishantering."
+        ]
+      }
+    ]
+  }
 }

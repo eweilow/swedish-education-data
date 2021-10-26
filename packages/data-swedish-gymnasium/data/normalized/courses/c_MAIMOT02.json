@@ -1,4 +1,22 @@
 {
   "name": "Motorelektronik 2",
-  "code": "MAIMOT02"
+  "code": "MAIMOT02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Uppbyggnad och programmering av datorbaserade kontrollsystem för presentation av motordata.",
+          "2. Sammankopplingstekniker för kommunikation mellan motortekniska installationer samt multifunktionsdisplayer.",
+          "3. Analytisk felsökning på motorelektroniska system.",
+          "4. Oscilloskopbaserade diagnosverktyg.",
+          "5. Tolkning av installationsbeskrivningar och servicemanualer.",
+          "6. Yrkets fackspråk, termer och begrepp.",
+          "7. Beräkningar av material- och tidsåtgång samt kostnader.",
+          "8. Sambandet mellan kvalitet och ekonomi.",
+          "9. Dokumentation, presentation och utvärdering av arbete."
+        ]
+      }
+    ]
+  }
 }

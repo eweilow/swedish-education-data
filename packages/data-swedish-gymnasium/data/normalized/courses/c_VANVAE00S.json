@@ -1,4 +1,44 @@
 {
   "name": "Vattenbruk – specialisering",
-  "code": "VANVAE00S"
+  "code": "VANVAE00S",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Arbetsuppgifter",
+        "rows": [
+          "1. Planering, genomförande och uppföljning av daglig skötsel av vald odlingsanläggning. Exempel på odlingar är musselodling, kräftodling och fiskodling.",
+          "2. Skötsel, service och underhåll av utrustning och redskap.",
+          "3. Val av foder, hantering av foder, beräkning av fodergivor, planering och genomförande av utfodring samt olika utfodringssystem i samband med fisk- och kräftodling.",
+          "4. Hantering av levande organismer.",
+          "5. Arbetsrutiner och provtagningar i samband med miljöövervakning.",
+          "6. Skötsel och genomförande av behandlingsmetoder vid sjukdomsutbrott i fisk- och kräftodling alternativt åtgärder vid risk för toxin i skaldjur.",
+          "7. Skörd och vidareförädling av odlade produkter.",
+          "8. Arbetsrutiner vid sortering och transport av odlade produkter.",
+          "9. Ekonomiska beräkningar och kalkyler."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Ergonomi, arbetsmiljö- och säkerhetsfrågor i samband med vald odling.",
+          "2. Lagar och andra bestämmelser som rör odling i vatten: miljölagstiftning som rör vattenbruk och lagstiftning för småskalig livsmedelshantering.",
+          "3. Tillståndsprövning för vattenbruk."
+        ]
+      },
+      {
+        "title": "Biologisk grund",
+        "rows": [
+          "1. Den odlade organismens krav på odlingsmiljön.",
+          "2. Olika organismers näringsbehov, tillgång på näring och optimal tillväxt samt miljöhänsyn i samband med odling.",
+          "3. Biologiska, fysikaliska och kemiska faktorer som styr odlingsprocessen.",
+          "4. Sjukdomar och behandlingsmetoder samt hälsokontroll och hälsovård inom fisk- och kräftodling.",
+          "5. Livsmedelskontroll med avseende på toxiner, bakterier och virus."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,23 @@
 {
   "name": "Fiskevård 3",
-  "code": "FIKFIS03"
+  "code": "FIKFIS03",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Planering, organisation, genomförande och utvärdering av ett mindre fiskevårdsprojekt.",
+          "2. Informationssökning och upprättande av en projektplan.",
+          "3. Etiska frågeställningar i samband med fiskevård.",
+          "4. Ekonomiska beräkningar och kalkyler.",
+          "5. Ergonomi, arbetsmiljö och säkerhet.",
+          "6. Lagar och andra bestämmelser som rör till exempel försöksdjur, kulturminnen, dammar och fiskerätt.",
+          "7. Val, användning och skötsel av teknisk utrustning.",
+          "8. Utförande av praktiska arbetsuppgifter inom ett fiskevårdsprojekt.",
+          "9. Tolkning och utvärdering av biologiska, kemiska, hydrologiska och fysikaliska data.",
+          "10. Dokumentation och redovisning av genomfört projekt."
+        ]
+      }
+    ]
+  }
 }

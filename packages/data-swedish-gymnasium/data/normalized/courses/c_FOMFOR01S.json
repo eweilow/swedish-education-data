@@ -1,4 +1,23 @@
 {
   "name": "Formgivning 1",
-  "code": "FOMFOR01S"
+  "code": "FOMFOR01S",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Grundläggande hantverksmässigt arbete i ett eller flera valda material. Exempel på material kan vara trä, tyg eller glas.",
+          "2. Enkla bearbetningsmetoder, användningsområden och verktyg.",
+          "3. Grundläggande färg- och formlära.",
+          "4. Introduktion i formgivningsprocessen och formgivningens grundläggande uttrycksmöjligheter, till exempel färg, form och material.",
+          "5. Det valda materialets egenskaper.",
+          "6. Grundläggande värdering av formgivning i relation till intentioner.",
+          "7. Relevanta begrepp.",
+          "8. Traditionell och samtida formgivning.",
+          "9. Lagar och andra bestämmelser som gäller för formgivningsområdet.",
+          "10. Säkerhet och arbetsmiljö för maskiner och verktyg samt materials miljöpåverkan."
+        ]
+      }
+    ]
+  }
 }

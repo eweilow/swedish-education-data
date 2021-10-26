@@ -1,4 +1,21 @@
 {
   "name": "Belysningsteknik",
-  "code": "INSBES0"
+  "code": "INSBES0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Olika typer av ljuskällor för olika miljöer. Installation av olika ljuskällor.",
+          "2. Lagar och andra bestämmelser om säkerhet inom området. Standarder.",
+          "3. Enklare ljusberäkningar med hjälp av olika hjälpmedel, till exempel datorprogrammet Dialux.",
+          "4. Val av ledningar med hänsyn till störningar och olika miljöer.",
+          "5. Installation av styrutrustning och styrsystem.",
+          "6. Driftsättning och underhåll av belysningsinstallationer.",
+          "7. Dokumentation inom belysningsområdet.",
+          "8. Felsökning och felavhjälpning av belysningsinstallationer."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,22 @@
 {
   "name": "Personaladministration",
-  "code": "ADMPER0"
+  "code": "ADMPER0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Organisationer för arbetsgivare och arbetstagare.",
+          "2. Rekrytering och anställningsförfarande samt introduktion för nyanställda.",
+          "3. Personalavdelning och personalpolitik.",
+          "4. Kompetens- och personalplanering.",
+          "5. Personalekonomi, löner och personalkostnader.",
+          "6. Ledarskap och förändringsarbete.",
+          "7. Gruppsykologi och konflikthantering.",
+          "8. Arbetsrättslagar.",
+          "9. Arbetsmiljölagen och personalvård."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,22 @@
 {
   "name": "Film- och tv-produktion 1",
-  "code": "FILFIL01"
+  "code": "FILFIL01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Research, produktionsplanering och utvärdering.",
+          "2. Inspelnings- och redigeringsteknik.",
+          "3. Distribution och offentliggörande av produktioner.",
+          "4. Orientering om hur man skriver manus för spelfilm, tv eller dokumentärfilm.",
+          "5. Intervjuteknik.",
+          "6. Berättarkomponenter, till exempel bildutsnitt, kamerarörelser, ljud och musik. Orientering om dramaturgi.",
+          "7. Orientering om olika genrer och stilar genom film- och tv-historien.",
+          "8. Förutsättningar för produktion för public service jämfört med reklamfinansierade medier.",
+          "9. Upphovsrätt och pressetiska regler."
+        ]
+      }
+    ]
+  }
 }

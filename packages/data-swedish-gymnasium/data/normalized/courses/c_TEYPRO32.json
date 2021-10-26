@@ -1,4 +1,23 @@
 {
   "name": "Projektering el 2",
-  "code": "TEYPRO32"
+  "code": "TEYPRO32",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Projektledarrollen i samband med projektering.",
+          "2. Abonnentanläggningar för såväl utom- som inomhusbruk.",
+          "3. Tillfälliga elanläggningar.",
+          "4. Datorstödda tillämpningar anpassade för elområdet, till exempel belysning och ledningsdimensionering.",
+          "5. Framställning av arbetsorder för montör.",
+          "6. Framställning av ritningar och scheman.",
+          "7. Dimensionering av ledningssystem och skydd.",
+          "8. Regelverk och standarder för specifika miljöer, till exempel våtrum och industri och dess tillämpning i arbetet med planering, projektering, konstruktion och dokumentation.",
+          "9. Handböcker för utförande av installationer och dess koppling till regelverk och standarder.",
+          "10. Besiktningar."
+        ]
+      }
+    ]
+  }
 }

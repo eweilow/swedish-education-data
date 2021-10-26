@@ -1,4 +1,25 @@
 {
   "name": "Energiteknik 2",
-  "code": "ENEENE02"
+  "code": "ENEENE02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Egenskaper hos energibärande medier.",
+          "2. Allmän pumpteknik, termodynamikens och hydrodynamikens lagar.",
+          "3. Allmän korrosionslära och olika materials egenskaper.",
+          "4. Centrala storheter inom energiområdet, till exempel kraft, tryck, temperatur, energi, effekt och verkningsgrad.",
+          "5. Uppbyggnad, funktion, arbetsprinciper, produktionsförutsättningar och miljökonsekvenser för energi-, miljö- och vattentekniska anläggningar.",
+          "6. Underhållsrutiner inom energiområdet.",
+          "7. Kontroll- och driftrutiner i olika anläggningar.",
+          "8. Säkerhetsföreskrifter inom energiområdet.",
+          "9. Beräkningar och tillämpningar av mekanik och värmelära på energitekniska anläggningar.",
+          "10. Optimering av verkningsgrad och kvalitet hos energi-, miljö- och vattentekniska anläggningar.",
+          "11. Användning och skötsel av utrustning och verktyg.",
+          "12. Säkerhetstänkande och yrkesetik."
+        ]
+      }
+    ]
+  }
 }

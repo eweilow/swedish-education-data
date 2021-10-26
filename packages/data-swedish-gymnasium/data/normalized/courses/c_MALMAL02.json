@@ -1,4 +1,24 @@
 {
   "name": "Matlagning 2",
-  "code": "MALMAL02"
+  "code": "MALMAL02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Yrkesmässig matlagning och metoder avsedda för restaurang och storkök.",
+          "2. Rationella arbetssätt vid matlagning i restaurang och storkök.",
+          "3. Kalla och varma maträtter, klassiska såväl som nyskapande.",
+          "4. Kökets redskap, maskiner och annan utrustning. Hur de används, hanteras och vårdas på ett säkert sätt.",
+          "5. Grundläggande allergi- och specialkostmatlagning.",
+          "6. Råvaror och hur de kan kombineras på ett näringsmässigt, kreativt och ekonomiskt sätt.",
+          "7. Hygien och dagliga hygienrutiner, till exempel rengöring av lokaler och utrustning.",
+          "8. Ergonomi i det egna arbetet samt ergonomiska riskfaktorer.",
+          "9. Arbetsmiljö och säkerhet samt lagar och andra bestämmelser som gäller inom området, till exempel livsmedelslagen.",
+          "10. Metoder för utvärdering.",
+          "11. Grundläggande kommunikation för arbete i kök samt grundläggande fackterminologi."
+        ]
+      }
+    ]
+  }
 }

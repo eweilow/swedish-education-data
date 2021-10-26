@@ -1,4 +1,52 @@
 {
   "name": "Djurvård inom djurens hälso- och sjukvård 2",
-  "code": "DJRDJU02"
+  "code": "DJRDJU02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Sjukdomslära",
+        "rows": [
+          "1. Djursjukdomar och förebyggande åtgärder.",
+          "2. Infektioner som kan spridas mellan djur och människa.",
+          "3. Behandlingsmetoder.",
+          "4. Farmakologi, till exempel verkningsmekanismer och användning av mediciner.",
+          "5. Veterinärmedicinsk utrustning och veterinärmedicinska termer och begrepp.",
+          "6. Hygien, smitta, smittspridning och smittskydd.",
+          "7. Hygien och eftervård i samband med operationer.",
+          "8. Etik inom djurens hälso- och sjukvård."
+        ]
+      },
+      {
+        "title": "Arbetsuppgifter",
+        "rows": [
+          "1. Hantering av rädda och osäkra djur så att lidandet för djuren minimeras.",
+          "2. Diagnostiska metoder.",
+          "3. Vård av skadade och sjuka djur, till exempel bandagering, sårvård och pälsvård.",
+          "4. Iordningställande av undersökningsrum och burar.",
+          "5. Provtagning, till exempel urinprov och träckprov.",
+          "6. Vissa administrativa rutiner, till exempel arbete i reception och beställning av varor och blanketter.",
+          "7. Assistans till veterinär och djursjukskötare.",
+          "8. Träning i samband med rehabilitering.",
+          "9. Bemötande av djur och djurägare.",
+          "10. Hygienrutiner.",
+          "11. Skötsel, rengöring, förpackning och sterilisering av instrument och annan utrustning.",
+          "12. Rapportering och dokumentation av djurs hälsotillstånd."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor samt lagar och andra bestämmelser",
+        "rows": [
+          "1. Ergonomi, arbetsmiljö och säkerhet.",
+          "2. Lagar och andra bestämmelser, till exempel djurskyddslagstiftning och miljölagstiftning.",
+          "3. Tystnadsplikt och etiska regler.",
+          "4. Djurförsäkringar.",
+          "5. Organisationer inom djursjukvård."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,22 @@
 {
   "name": "Allmän automationsteknik",
-  "code": "AUOALL0"
+  "code": "AUOALL0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Uppbyggnad av, funktion och principer för olika typer av automatiserade system.",
+          "2. Olika typer av risker i automatiska system inom valt område.",
+          "3. Standarder och koncept som används vid arbete med automatiserade system inom valt område.",
+          "4. Planering och genomförande av arbete i automatiserade system.",
+          "5. Arbetsmiljö och säkerhet vid arbete med automatiserade system.",
+          "6. Olika typer av scheman, ritningar och annan dokumentation över automatiserade system inom valt område. Tolkning av och metoder för framställning av dessa.",
+          "7. Metoder för installation, programmering och driftsättning av automatiserade system inom valt område.",
+          "8. Informationsteknik som arbetsmetod vid byggnation, drift och underhåll av automatiserade system inom valt område.",
+          "9. Förebyggande och avhjälpande underhåll i automatiserade system inom valt område."
+        ]
+      }
+    ]
+  }
 }

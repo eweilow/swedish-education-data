@@ -1,4 +1,20 @@
 {
   "name": "Processdatorsystem",
-  "code": "PROPRO0"
+  "code": "PROPRO0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. HMI, dvs. användning av programvara för visualisering av en process med trender, historik och larmhantering.",
+          "2. Informationstekniska strukturer och nivåer i processindustrin samt hur olika fältbussar används i dessa nivåer med koppling till administrativa kontorsnät.",
+          "3. Distribuerade styrsystem med konfigurering av processkontrollerande enheter och programvaror för insamling av processdata.",
+          "4. Informationsteknik i processdatorsystem med upprättande av kommunikation mot processen med OPC-server (open connectivity), fältbuss eller ethernet.",
+          "5. Metoder för omvandling av analoga signaler till digitala värden och vice versa med upplösning, noggrannhet, ingenjörsstorhet, signalhantering och signalkonditionering.",
+          "6. Systematisk dokumentation i nätverk.",
+          "7. Säkerhet i processdatorsystem med skanntider, behörighetsinloggning, spårbarhet, redundans, realtidsoperativsystem (rtos), reglerfunktioner långt ut i anläggningen samt riskanalyser för informationsbortfall."
+        ]
+      }
+    ]
+  }
 }

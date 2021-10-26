@@ -1,4 +1,28 @@
 {
   "name": "Järnvägsbyggnad 3",
-  "code": "JÄRJÄR03"
+  "code": "JÄRJÄR03",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Informationssökning för arbetsuppgiften med hjälp av internet och på andra sätt.",
+          "2. Planeringar och beräkningar för att lösa arbetsuppgifterna.",
+          "3. Olika typer av material och deras egenskaper.",
+          "4. Olika arbetsmetoder vid banbyggnad.",
+          "5. Maskiner och tillbehör. Handhavande och skötsel.",
+          "6. Kapning och slipning av rälsmaterial.",
+          "7. Gasskärning och värmning av plåt och balkar.",
+          "8. Hantering av gassvets samt slip- och kaputrustning.",
+          "9. Förvärmning och kapning av räler samt kontroll av föreskrivna temperaturgränser.",
+          "10. Lagar och andra bestämmelser om arbetsmiljö, hälsa och säkerhet. Ergonomiskt arbetssätt.",
+          "11. Olika typer av risker förknippade med arbetsuppgifterna samt metoder för att göra riskbedömningar.",
+          "12. Problemlösning i samband med arbetsuppgifterna.",
+          "13. Metoder för att utvärdera sitt arbete.",
+          "14. Hållbart byggande. Hantering av material, till exempel förvaring, minimering av spill samt sortering av byggavfall och restprodukter. Resursanvändande kopplat till arbetsuppgiften.",
+          "15. Facktermer i relation till arbetsuppgiften."
+        ]
+      }
+    ]
+  }
 }

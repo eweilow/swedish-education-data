@@ -1,4 +1,20 @@
 {
   "name": "Mekatronik 2",
-  "code": "MEKMEK02"
+  "code": "MEKMEK02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Mekatroniska system och mekatroniska processer.",
+          "2. Fördjupad tolkning av ritningar och manualer.",
+          "3. Informationsteknik som stöd vid uppbyggnad och programmering av mekatroniska system, till exempel cad-programvara med stöd för hållfasthetsprövning vid olika belastningar och programmeringsverktyg för aktuellt styrsystem.",
+          "4. Metoder för integration av mekanisk struktur, elektroteknik och styrteknik vid byggandet av mekatroniska system i form av såväl produkter som tillverkningssystem.",
+          "5. Begreppen process och system.",
+          "6. Modularisering och demodularisering av tillverkningssystem och tekniska system i vardagen.",
+          "7. Matematiska och fysikaliska begrepp vid arbete med mekatroniska system, till exempel hävarm, moment, kraft, tröghet, uthållning, styvhet och jämvikt."
+        ]
+      }
+    ]
+  }
 }

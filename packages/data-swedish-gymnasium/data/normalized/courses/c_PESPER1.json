@@ -1,4 +1,31 @@
 {
   "name": "Persontrafik – vux",
-  "code": "PESPER1"
+  "code": "PESPER1",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Transportadministration med biljettsystem och turlistor.",
+          "2. Administrativa rutiner vid gränspassager med dokumentation och tillstånd för internationella persontransporter utanför och inom EU.",
+          "3. Ergonomi i förarmiljön och vid lastning av gods.",
+          "4. Olika transportverksamheter för persontrafiken, till exempel linjetrafik, beställningstrafik, skolskjuts, sjukresor och färdtjänst. De olika transportverksamheternas förutsättningar och krav på utförande och utmärkning.",
+          "5. Uppbyggnad, funktion och användningsområden för de vanligast förekommande busskonstruktionerna samt riskfaktorer med vindkänslighet och tyngdpunktsfördelning.",
+          "6. Körning och manövrering av buss i skiftande trafikmiljöer med rätt nyttjande av bussens kapacitet. Val av växel och motorvarv samt användning av övriga tekniska funktioner för ökad framkomlighet i olika trafiksituationer och väglag.",
+          "7. Service, tillsyn, vård och underhåll av fordon, utrustning och lastutrymmen.",
+          "8. Avancerad körteknik, mjukhet vid inbromsningar och stopp, betryggande säkerhetsavstånd till övrig trafik samt manövrering och trafikuppträdande vid hållplatser för av- och påstigning.",
+          "9. Ekonomisk och miljövänlig körning.",
+          "10. Användning av olika informationssystem för färdplanering och vägval samt planering av körtider fram till olika resmål.",
+          "11. Användning av kommunikationsutrustning under färd.",
+          "12. Körning utifrån tidtabell och rutiner vid hållplatser.",
+          "13. Körning med passagerare, med planering av färdvägar och tidsplaner för resmål. Förmedlande av aktuell information till resande.",
+          "14. Omhändertagande av passagerare med särskilda behov, till exempel barn, äldre och personer med funktionsnedsättning.",
+          "15. Passagerarsäkerhet. Handlande vid olyckstillbud. Brandrisker, utrymningsvägar samt orsaker till bussbränder. Olika sjukdomstillstånd hos passagerare samt hur man kan agera och hjälpa personer som uppvisar symtom på sjukdom.",
+          "16. Lastsäkring av resgods och viktberäkningar utifrån fordonets kapacitet och vägval.",
+          "17. Gods med speciella farliga egenskaper i samband med persontransporter.",
+          "18. Service och kundbemötande vid persontransporter."
+        ]
+      }
+    ]
+  }
 }

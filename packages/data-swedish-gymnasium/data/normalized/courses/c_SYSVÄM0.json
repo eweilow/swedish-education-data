@@ -1,4 +1,19 @@
 {
   "name": "Värmelära",
-  "code": "SYSVÄM0"
+  "code": "SYSVÄM0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Sambanden mellan värme och andra former av energi. Begrepp inom termodynamiken, till exempel värmeöverföring, temperatur, energiomvandling och tryck.",
+          "2. Bedömning av exempelvis energi- och effektbehov i rör- och luftkanalsystem, värmare och köldbärarsystemens luftkylare samt flöden och tryckfall i dessa.",
+          "3. Effektiv energianvändning för byggnader.",
+          "4. Enkla systemritningar, ritningssymboler och beteckningar samt hur de används för att beskriva system.",
+          "5. Produktinformation, beräkningshandböcker, schabloner, lathundar och datorprogram samt hur de används för att utföra uppskattningar av system.",
+          "6. Bygglagstiftning för att uppfylla samhällets krav på energihushållning, hälsa och säkerhet."
+        ]
+      }
+    ]
+  }
 }

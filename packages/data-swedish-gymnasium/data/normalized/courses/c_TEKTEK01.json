@@ -1,4 +1,24 @@
 {
   "name": "Teknik 1",
-  "code": "TEKTEK01"
+  "code": "TEKTEK01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Teknikutvecklingsprocessens alla delar från idé och modell, produkt eller tjänst till användning och återvinning med praktisk tillämpning av teknik och teknikutveckling inom ett eller flera teknikområden.",
+          "2. Entreprenörskap och entreprenörskapets villkor med utgångspunkt i innovativa och kreativa processer.",
+          "3. Materials tekniska egenskaper, till exempel termiska, elektriska, mekaniska och kemiska samt materialens möjligheter och begränsningar utifrån olika användningsområden.",
+          "4. Teknikens och teknikerns roll med fokus på framtidens teknik och ett hållbart samhälle, till exempel med utgångspunkt i energieffektivisering.",
+          "5. Kvalitetsarbete, till exempel kvalitetssäkring, miljösäkring, arbetsmiljö och riskanalys.",
+          "6. Ritningsläsning och skiss- och ritteknik med introduktion i hur man hanterar cad-program.",
+          "7. Projektarbets-, kommunikations-, presentations- och modellteknik, till exempel digitala medier och programvaror, manualer och instruktioner, muntliga och skriftliga framställningar samt digitala och manuella tekniker för att skapa modeller.",
+          "8. Tekniska begrepp, teorier och modeller innefattande beräkningar och rimlighetsbedömningar.",
+          "9. Teknikens historia och teknikutvecklingens betydelse för samhället samt introduktion i aktuella utvecklingsområden inom teknik.",
+          "10. Grundläggande teknikfilosofi: etiska värderingar och genusstrukturer samt hur de har påverkat och påverkar tekniken, dess användning och tillgänglighet. Hur teknik och teknikens attribut könsmärks.",
+          "11. Kommunikations-, dator- och nätverksteknik för lärande och förmedling av teknik och information."
+        ]
+      }
+    ]
+  }
 }

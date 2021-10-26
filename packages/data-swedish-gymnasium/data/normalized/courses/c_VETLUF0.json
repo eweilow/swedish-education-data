@@ -1,4 +1,20 @@
 {
   "name": "Luftbehandling",
-  "code": "VETLUF0"
+  "code": "VETLUF0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Ventilationsteknikens historia och utveckling.",
+          "2. Grundläggande principer och förutsättningar för ventilationsteknik och luftbehandling samt grundläggande underhållsrutiner.",
+          "3. Luftens egenskaper på en grundläggande nivå.",
+          "4. Användning av verktyg, utrustning och material.",
+          "5. Ritningsläsning och arbetsbeskrivningar.",
+          "6. Arbetsmiljö, ergonomi och hälsa, personlig skyddsutrustning. Lagar och andra bestämmelser, till exempel säkerhetsföreskrifter, behörigheter och EU-direktiv.",
+          "7. Metoder för dokumentation."
+        ]
+      }
+    ]
+  }
 }

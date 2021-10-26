@@ -1,4 +1,27 @@
 {
   "name": "Programmering 3",
-  "code": "PRRPRR33"
+  "code": "PRRPRR33",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Olika programmeringsparadigms historik och användningsområden.",
+          "2. Olika programspråks historik och inbördes släktskap samt de vanligaste programspråkens aktuella användningsområden.",
+          "3. Programmering i kompilerade och tolkade programspråk.",
+          "4. Rekursion.",
+          "5. Abstrakta modeller, till exempel tillståndsmaskin.",
+          "6. Analys och val av datastrukturer och algoritmer utifrån tillämpning och prestanda.",
+          "7. Designmönster och mjukvaruarkitektur.",
+          "8. Analys, nedbrytning och modellering av programmeringstekniska problem med flera lämpliga verktyg och metoder.",
+          "9. Dokumentation.",
+          "10. Design av lämplig lösning ur föregående analys med flera lämpliga verktyg och metoder.",
+          "11. Programmering i språk från flera paradigm.",
+          "12. Användning av webbtjänster, protokoll, gränssnitt och format för datautbyte.",
+          "13. Användning av databashanterare för lagring av data.",
+          "14. Kvalitetssäkring och testning av källkod genom manuella och automatiserade metoder, till exempel kodgranskning och enhetstestning."
+        ]
+      }
+    ]
+  }
 }

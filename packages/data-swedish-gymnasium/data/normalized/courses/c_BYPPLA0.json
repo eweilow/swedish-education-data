@@ -1,4 +1,23 @@
 {
   "name": "Planering före byggstart",
-  "code": "BYPPLA0"
+  "code": "BYPPLA0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Anbudskalkyl och anbudsprocess: förfrågan, anbudsberäkning, offertförfrågan, anbud, förhandling, beställning och entreprenadkontrakt.",
+          "2. Produktionsplanering, produktionsbudget och produktionstidplan.",
+          "3. APD-planer (arbetsplatsdisposition), planering av byggarbetsplatsens utformning, till exempel vad gäller byggnadsställningar, transportvägar, transportanordningar, arbetsmiljö, restprodukter och tillfälliga installationer.",
+          "4. Logistik och materialadministration för byggarbetsplatsen.",
+          "5. Hantering av restprodukter, energiförbrukning i produktionsskedet.",
+          "6. Arbetsmiljöarbete i byggprojekt.",
+          "7. Begrepp som används inom kunskapsområdet, till exempel upphandling, anbudskalkyl, entreprenadkontrakt, produktionstidplan, produktionsbudget, bygglogistik, byggarbetsmiljö, BIM (Building Information Modelling) och Lean Construction.",
+          "8. Tidplan, CPM (Critical Path Method) och strukturplan.",
+          "9. Elsäkerhet. Elolycksfall, ljusbågs- och strömgenomgångsrisker, arbete utan och med nära spänning, elarbetesansvarigs arbetsuppgifter, entreprenörsarbete med el och ansvarsfrågor.",
+          "10. Kunskaper om och planering av el på en byggarbetsplats."
+        ]
+      }
+    ]
+  }
 }

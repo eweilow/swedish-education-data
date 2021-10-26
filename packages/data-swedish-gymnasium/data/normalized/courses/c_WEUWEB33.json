@@ -1,4 +1,29 @@
 {
   "name": "Webbutveckling 3",
-  "code": "WEUWEB33"
+  "code": "WEUWEB33",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Konsumtion av webbtjänster, protokoll, gränssnitt och format för datautbyte.",
+          "2. Processen för ett webbutvecklingsprojekt enligt standardiserad metod för mjukvaruutveckling.",
+          "3. Verktyg för pakethantering.",
+          "4. Optimering av processer med hjälp av verktyg, till exempel minifiering av javascript och CSS.",
+          "5. Riktlinjer för god praxis inom webbutveckling.",
+          "6. Klientsidestekniker för webbapplikationer.",
+          "7. Skriptspråk för webbutveckling på klientsidan och dokumentobjektsmodellen.",
+          "8. Interaktion med webbservern via skript.",
+          "9. Interaktiv webbgrafik och skalbar vektorgrafik.",
+          "10. Interoperabilitet.",
+          "11. Applikationer som fungerar oberoende av val av användaragent, operativsystem eller hårdvaruplattform.",
+          "12. Kvalitetssäkring av applikationens funktion samt validering av kodens kvalitet.",
+          "13. Kvalitetssäkring av skript genom olika manuella och automatiserade tester, till exempel med enhetstester.",
+          "14. Lagar och andra bestämmelser som styr digital information.",
+          "15. Säkerhet och sätt att identifiera hot och sårbarheter samt hur attacker kan motverkas genom effektiva åtgärder.",
+          "16. Terminologi inom området webbutveckling."
+        ]
+      }
+    ]
+  }
 }

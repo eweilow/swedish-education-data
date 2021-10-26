@@ -1,4 +1,27 @@
 {
   "name": "Byggstyrning",
-  "code": "BYPBYG0"
+  "code": "BYPBYG0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Lagar och regler för verksamheten på byggarbetsplatsen. Tillstånd och behörigheter som krävs under byggskedet.",
+          "2. Uppföljning och avstämning av tidplan enligt CPM (Critical Path Method), personalplan och kostnader. Löpande planering.",
+          "3. Planering och arbete med arbetsplatsdispositionsplaner av byggarbetsplatsens utformning, till exempel vad gäller byggnadsställningar, transportvägar, transportanordningar, arbetsmiljö, restprodukter och tillfälliga installationer.",
+          "4. Beräkning av energiförbrukning under byggskedet med fokus på energibesparingar.",
+          "5. Arbetsmiljöarbete i byggprojekt.",
+          "6. Arbetsrätt och kollektivavtal.",
+          "7. Materialhantering på arbetsplatsen. Olika leveransvillkor. Interntransporter.",
+          "8. Produktionsmetoder samt utrustning, verktyg, hjälpmaterial och hjälpmedel för att genomföra produktionsaktiviteter.",
+          "9. Arbetsberedning för olika arbetsmoment. Gemensam planering för flera yrkeskategorier med hjälp av till exempel visuell planering och erfarenhetsdatabank eller arbetsinstruktioner. Genomförs inom olika delområden.",
+          "10. Tekniska krav, arbetsmiljö- och miljökrav på arbetsberedning.",
+          "11. Fakturering och avstämning.",
+          "12. Kontrakthantering och entreprenadtvister. Hantering av ÄTA-arbeten (ändringsarbete, tilläggsarbete och avgående arbete).",
+          "13. Kvalitets-, miljö- och arbetsmiljöledningssystem på grundläggande nivå enligt Bas P (planering och projektering) och Bas U (utförande).",
+          "14. Kvalitetsmätmetoder beträffande fuktförhållande i material, akustikegenskaper, lufttäthet hos byggnader och byggnaders energiegenskaper, till exempel täthetsprovning."
+        ]
+      }
+    ]
+  }
 }

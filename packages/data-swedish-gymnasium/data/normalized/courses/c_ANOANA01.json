@@ -1,4 +1,19 @@
 {
   "name": "Anatomi och fysiologi 1",
-  "code": "ANOANA01"
+  "code": "ANOANA01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Grundläggande om människokroppens uppbyggnad och funktion.",
+          "2. Grundläggande medicinsk terminologi.",
+          "3. Grundläggande om läkemedel och läkemedelshantering, däribland olika administreringssätt, halveringstid, terapeutisk bredd och vanliga biverkningar.",
+          "4. Bestämmelser kring delegering och personligt ansvar för läkemedelshantering.",
+          "5. Vanliga mikroorganismer och hur de sprids.",
+          "6. Åtgärder för att förebygga smitta."
+        ]
+      }
+    ]
+  }
 }

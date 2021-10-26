@@ -1,4 +1,21 @@
 {
   "name": "Radiokommunikation till sjöss",
-  "code": "DACRAD0"
+  "code": "DACRAD0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Globalt marint nöd- och säkerhetssystem (GMDSS).",
+          "2. Radioteknik.",
+          "3. Grundläggande regler och metoder för radiotrafik: avgifter, digital selective calling (DSC), nöd-, il- och varningstrafik, navigational text messages(NAVTEX), emergency position indicating radio beacon (EPIRB) och search and rescue transponder (SART) samt handburna VHF-stationer.",
+          "4. Strömförsörjning.",
+          "5. Falsklarm i GMDSS.",
+          "6. Sjöräddning.",
+          "7. Satellitkommunikation.",
+          "8. Automatic Identification System (AIS)."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,40 @@
 {
   "name": "Skogsmaskiner – specialisering",
-  "code": "SKMSKO00S"
+  "code": "SKMSKO00S",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Teknisk grund",
+        "rows": [
+          "1. Användningsområden för vald maskin, tilläggsutrustning och teknisk utrustning.",
+          "2. Tekniska system för styrning, kontroll och datainsamling.",
+          "3. Maskin- och avverkningsekonomi samt investeringskalkyler.",
+          "4. Aktuell teknisk utveckling – försök och forskning."
+        ]
+      },
+      {
+        "title": "Arbete med skogsmaskiner",
+        "rows": [
+          "1. Arbetsmetodik och användning av digitala system, datorprogram och GIS vid körning med aktuell skogsmaskin.",
+          "2. Planering av körmetoder för att minimera markskador och miljöpåverkan.",
+          "3. Inställning och körning av maskiner för optimalt utnyttjande i samband med olika arbetsmoment.",
+          "4. Funktionskontroll och felsökning på maskiner och teknisk utrustning samt kvalitetsuppföljning.",
+          "5. Arbete enligt traktdirektiv."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Arbetsmiljö och ergonomi samt miljö- och säkerhetsfrågor.",
+          "2. Säkerhetskontroll inför användning av fordon, redskap och tilläggsutrustning.",
+          "3. Brandförebyggande åtgärder.",
+          "4. Lagar och andra bestämmelser inom området."
+        ]
+      }
+    ]
+  }
 }

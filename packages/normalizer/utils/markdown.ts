@@ -5,6 +5,7 @@ export function getMarkdownFromHtml(html?: string) {
     return null;
   }
 
+  html = html.replace(/<br>/g, " ");
   return NodeHtmlMarkdown.translate(html).replace(/\\\./g, ".");
 }
 
@@ -23,8 +24,8 @@ export function normalizeSections(markdownRows: string[]) {
       rows: rows
         .filter((el) => !!el)
         .map((row, i) => {
-          if (row.startsWith("*")) {
-            return row.replace(/^\*/, `${i + 1}.`);
+          if (row.startsWith("* ")) {
+            return row.replace(/^\* /, `${i + 1}. `);
           }
 
           return row;

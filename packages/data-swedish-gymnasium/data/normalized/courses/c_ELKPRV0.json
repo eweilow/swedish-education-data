@@ -1,4 +1,25 @@
 {
   "name": "Provning och kontrollarbete",
-  "code": "ELKPRV0"
+  "code": "ELKPRV0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Praktiskt provningsarbete med automatisk teststation.",
+          "2. Montering av enklare testutrustningar.",
+          "3. Underhåll och funktionsprov av testutrustningar.",
+          "4. Testmetoder och verifieringsmetoder för elektronikproduktion.",
+          "5. Testutrustningar i produktionen.",
+          "6. Mätteknik och mätinstrument.",
+          "7. Felsökningsmetoder.",
+          "8. Granskning och bedömning av monterade mönsterkort.",
+          "9. Reparationsteknik vid lödfel.",
+          "10. Reparationsmetoder vid komponentfel.",
+          "11. Kvalitetsarbete.",
+          "12. Arbetsplatsens arbetsorganisation samt arbetsmiljökrav vid elektronikproduktion."
+        ]
+      }
+    ]
+  }
 }

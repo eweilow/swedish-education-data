@@ -1,4 +1,23 @@
 {
   "name": "Laboratorieteknik",
-  "code": "INULAB0"
+  "code": "INULAB0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Arbetsuppgifter i ett laboratorium inom industritekniska processer, till exempel mottagning av prover, utförande av analyser, dokumentation och rapportering.",
+          "2. Tillvägagångssätt vid provtagningar.",
+          "3. Faktorer som påverkar val av mätmetoder och analysmetoder för kvalitetskontroll och produktutveckling.",
+          "4. Bedömning, hantering och dokumentation av provresultat enligt bestämmelser för toleransvärden.",
+          "5. Förädlingsvärden.",
+          "6. Systematiskt kvalitetsarbete och dess innebörd för industritekniska processer och produktionsresultat.",
+          "7. Uppbyggnad av, egenskaper hos, hantering av och hälsorisker med kemikalier och material.",
+          "8. Arbetsmiljöfrågor och säkerhetsföreskrifter.",
+          "9. Kommunikation och samarbete mellan olika målgrupper inom den industritekniska processen, till exempel personalgrupper, leverantörer och kunder.",
+          "10. Kemiska begrepp och formler inom teknikområdet."
+        ]
+      }
+    ]
+  }
 }

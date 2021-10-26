@@ -1,4 +1,38 @@
 {
   "name": "Småskalig skogsteknik",
-  "code": "SKMSMA0"
+  "code": "SKMSMA0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Teknisk grund",
+        "rows": [
+          "1. Konstruktions- och funktionsbeskrivningar samt användningsområden för maskiner och teknisk utrustning.",
+          "2. Inställningar av teknisk utrustning.",
+          "3. Tillsyn, underhåll och service enligt instruktionsböcker."
+        ]
+      },
+      {
+        "title": "Arbete med småskalig skogsteknik",
+        "rows": [
+          "1. Arbete med småskalig skogsteknik, till exempel griplastarvagnar, miniprocessorer, minilunnare och småskalig sågning.",
+          "2. Användning av tilläggsutrustning.",
+          "3. Bedömning av kvalitet på utfört arbete och ekonomiskt resultat."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Ergonomiskt lämplig arbetsteknik.",
+          "2. Risker i arbetet vid arbete med småskalig skogsteknik.",
+          "3. Användning av skyddsutrustning.",
+          "4. Brandförebyggande åtgärder.",
+          "5. Miljö- och säkerhetsföreskrifter."
+        ]
+      }
+    ]
+  }
 }

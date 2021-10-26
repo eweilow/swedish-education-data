@@ -1,4 +1,42 @@
 {
   "name": "Hästkunskap 2",
-  "code": "HÄTHÄS02"
+  "code": "HÄTHÄS02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Biologisk grund",
+        "rows": [
+          "1. Skador och sjukdomar samt förebyggande åtgärder.",
+          "2. Hästsjukdomar, sjukdomstillstånd och dopning samt profylax och rehabilitering.",
+          "3. Fortplantningsorganen hos hingst och sto. Brunstcykeln hos sto, betäckning, befruktning, dräktighet samt eventuella komplikationer i samband med detta.",
+          "4. Avelsvärde, arvbarhet och nedärvning.",
+          "5. Signalement och färg samt förekomst och placering av tecken och virvlar.",
+          "6. Exteriör, kroppsbyggnad, hållbarhet och prestation. Exteriörbedömning och avelsvärdering."
+        ]
+      },
+      {
+        "title": "Arbetsuppgifter",
+        "rows": [
+          "1. Planering och genomförande av häst- och stallskötsel utifrån dags-, vecko- och årsrutiner.",
+          "2. Iordningställande av hästar för transport och lastning.",
+          "3. Åtgärdande av tappsko: avtagning av skon, raspning av hoven och påslagning av skon.",
+          "4. Vård av hästar vid sjukdomstillstånd, till exempel sjukbandagering och sårvård.",
+          "5. Hantering av hästar vid visitering, sjukdom och besiktning.",
+          "6. Hantering av hästar i olika åldrar. Tolkning och bedömning av olika reaktioner utifrån hästars naturliga beteende och individuella förutsättningar.",
+          "7. Beräkning av foderåtgång samt upprättande av foderstat och ekonomisk plan för foderinköp."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Ergonomi, arbetsmiljö och säkerhet i samband med hästskötsel.",
+          "2. Lagar och andra bestämmelser i samband med hästskötsel."
+        ]
+      }
+    ]
+  }
 }

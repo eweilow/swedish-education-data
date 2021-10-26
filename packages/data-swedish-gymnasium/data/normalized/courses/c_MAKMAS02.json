@@ -1,4 +1,44 @@
 {
   "name": "Maskintjänst 2",
-  "code": "MAKMAS02"
+  "code": "MAKMAS02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Driftsarbete",
+        "rows": [
+          "1. Procedurer och kommunikation vid start och stopp av huvud- och hjälpmaskineri.",
+          "2. Övervakning av tryck, temperaturer och nivåer under drift av huvud- och hjälpmaskineri.",
+          "3. Procedurer och kommunikation vid bunkring och bränsletransferering.",
+          "4. Procedurer och kommunikation vid barlast-, länsvatten- och sludgehantering.",
+          "5. Riggning av lyftanordningar i maskinrummet.",
+          "6. Användning av maskinverktyg och mätinstrument.",
+          "7. Skydd av den marina miljön vid bunkring och bränsletransferering samt barlast-, länsvatten- och sludgehantering."
+        ]
+      },
+      {
+        "title": "Underhållsarbete",
+        "rows": [
+          "1. Planerat underhåll och underhållssystem.",
+          "2. Underhåll av huvud- och hjälpmaskineri samt övriga tekniska system.",
+          "3. Metoder för smörjning och rengöring.",
+          "4. Underhåll av maskinverktyg och mätinstrument.",
+          "5. Ytbehandlingstekniker och målningsmetoder."
+        ]
+      },
+      {
+        "title": "Tekniska konstruktioner och teknisk utrustning",
+        "rows": [
+          "1. Huvud- och hjälpmaskineri och tillhörande system.",
+          "2. Bunker-, bränsle- och smörjoljesystem.",
+          "3. Länsnings- och barlastsystem.",
+          "4. Elektriska system.",
+          "5. El-, hydraul- och luftdrivna handverktyg."
+        ]
+      }
+    ]
+  }
 }

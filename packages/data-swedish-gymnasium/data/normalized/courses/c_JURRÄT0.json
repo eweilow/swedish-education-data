@@ -1,4 +1,19 @@
 {
   "name": "Rätten och samhället",
-  "code": "JURRÄT0"
+  "code": "JURRÄT0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Konstitutionell rätt: Sveriges grundlagar med särskild betoning på offentlighetsprincipen och skyddet för mänskliga fri- och rättigheter.",
+          "2. Internationell rätt: Europarätt inklusive EU-rätt samt det internationella skyddet för mänskliga rättigheter.",
+          "3. Straffrätt: regler som rör brott och straff samt straffrättsliga ideologier.",
+          "4. Processrätt: regler som rör det svenska rättegångsväsendet och praktiskt processförfarande.",
+          "5. Juridiska begrepp och problemlösning i rättsliga sammanhang.",
+          "6. Sambandet mellan etik och moral i samhället, lagstiftning och tolkning av lagar."
+        ]
+      }
+    ]
+  }
 }

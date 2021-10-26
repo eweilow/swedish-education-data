@@ -1,4 +1,18 @@
 {
   "name": "Trädgårdsanläggning – specialisering",
-  "code": "TRDTRÄ00S"
+  "code": "TRDTRÄ00S",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Arbetsuppgifter inom ett specialområde inom trädgårdsanläggning, till exempel stenarbeten, växtval, vattenanläggningar och gröna inomhusmiljöer.",
+          "2. Säkerhet, arbetsteknik och ergonomi.",
+          "3. Lagar och andra bestämmelser inom området.",
+          "4. Kvalitetsfrågor och ekonomi.",
+          "5. Anläggningsteknik, materialanvändning, växtval och estetik."
+        ]
+      }
+    ]
+  }
 }

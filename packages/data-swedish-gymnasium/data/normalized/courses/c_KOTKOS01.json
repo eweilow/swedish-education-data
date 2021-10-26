@@ -1,4 +1,23 @@
 {
   "name": "Konstruktion 1",
-  "code": "KOTKOS01"
+  "code": "KOTKOS01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Introduktion i produktionstekniska förutsättningar, kvalitet och lönsamhet enligt modern produktionsfilosofi.",
+          "2. Teknikmetoder och konstruktionsmetoder inom något eller några områden, till exempel produktutveckling och byggnation.",
+          "3. Teoretiska modeller, observationer och konstruktionsprojekt inom det teknikområde som används i kursen.",
+          "4. Grundläggande materialegenskaper och materialets betydelse för funktion, kvalitet, lönsamhet, tillverkning och återvinning.",
+          "5. Beräkningar, provningar, mätningar, simuleringar och rimlighetsbedömningar inom något eller några teknikområden med hänsyn tagen till matematiska och teknikvetenskapliga teorier och modeller.",
+          "6. Datorkunskap och användning av relevanta datorprogram, till exempel kalkylprogram eller projektstyrningsprogram, inom valt teknikområde.",
+          "7. Ritteknik med hantering av cad-program eller andra programvaror.",
+          "8. Nationella och internationella system för teknisk standardisering med grundläggande standarder och normer inom valt teknikområde.",
+          "9. Faktorer som påverkar utformningen av produkter, till exempel tillgänglighet och säkerhetsaspekter.",
+          "10. Dokumentation, redovisning och presentation av konstruktionsarbete och resultat."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,24 @@
 {
   "name": "Virkesmätning",
-  "code": "SKGVIK0"
+  "code": "SKGVIK0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Virkets byggnad.",
+          "2. Identifiering av virkesskador. Skadornas orsaker samt bedömning av skadornas inverkan på slutprodukten.",
+          "3. Timmerklassning.",
+          "4. Virkesmätning vid terminal och skogsarbetsplats.",
+          "5. Arbetsorganisation vid en mätstation.",
+          "6. Användning och skötsel av teknisk utrustning och andra hjälpmedel för mätning och redovisning.",
+          "7. Statistiska beräkningsmetoder som används i samband med virkesmätning.",
+          "8. Ergonomi, arbetsmiljö och säkerhet i samband med virkesmätning.",
+          "9. Virkesmätningsföreningens uppgift och organisation samt föreningens förhållande till virkesmarknadens parter.",
+          "10. Branschens bestämmelser och instruktioner för virkesmätning.",
+          "11. Redovisningsbestämmelser som används i samband med virkesmätning."
+        ]
+      }
+    ]
+  }
 }

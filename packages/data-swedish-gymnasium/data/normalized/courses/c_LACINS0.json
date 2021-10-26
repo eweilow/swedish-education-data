@@ -1,4 +1,24 @@
 {
   "name": "Industriell lackering",
-  "code": "LACINS0"
+  "code": "LACINS0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Olika branscher och marknader inom industriell lackering samt deras olika processer.",
+          "2. Industriell lackering för vald bransch.",
+          "3. Materialkännedom.",
+          "4. Uppbyggnad av en produktionslina som är anpassad till produktionsvillkoren.",
+          "5. Ventilation och luftföring för den aktuella processen.",
+          "6. Kemiska produkters miljöpåverkan.",
+          "7. Appliceringstekniker anpassade till vald produktion.",
+          "8. Utrustning för applicering av färg för den valda processen.",
+          "9. Metoder för att söka information som är viktig för arbetet. Tillgänglighet till informationssystem för bedömning av produkter enligt substitutionsregeln.",
+          "10. Skyddsutrustning som är anpassad till verkstadens produktion och de produkter som används.",
+          "11. Produktion och produktionsflöden för det aktuella arbetet samt värdering av kvalitet och kostnad."
+        ]
+      }
+    ]
+  }
 }

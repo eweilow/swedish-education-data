@@ -1,4 +1,21 @@
 {
   "name": "Instrument eller sång 1",
-  "code": "MUSINS01S"
+  "code": "MUSINS01S",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Grundläggande instrumental spelteknik, alternativt sångteknik.",
+          "2. Spel eller sång efter noter och på gehör.",
+          "3. Grundläggande musikalisk tolkning, stil och form.",
+          "4. Grundläggande repertoar för det egna instrumentet.",
+          "5. Musikaliska instuderingsmetoder och övningsmetoder.",
+          "6. Instruments konstruktion, grundläggande egenskaper och instrumentvård, alternativt grundläggande röstfysiologi och röstvård och metoder för detta.",
+          "7. Grundläggande principer för att möta publik, till exempel presentation av program och medverkande, scennärvaro.",
+          "8. Arbetsmiljö vid musikutövning, till exempel ergonomi, hörselvård och elsäkerhet vid instrumentalspel eller sång."
+        ]
+      }
+    ]
+  }
 }

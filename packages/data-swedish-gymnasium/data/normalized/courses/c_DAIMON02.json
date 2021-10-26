@@ -1,4 +1,20 @@
 {
   "name": "Datoriserad mönsterhantering 2",
-  "code": "DAIMON02"
+  "code": "DAIMON02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Gradering.",
+          "2. Grundkonstruktioner.",
+          "3. Modellkonstruktion och modellutveckling utifrån tekniska plaggskisser.",
+          "4. Mönsterkonstruktioner utifrån den färdiga produktens användningsområde samt estetiska och tekniska produktkrav.",
+          "5. Läggbilder och materialplanering.",
+          "6. Fackspråk för att kommunicera inom branschen.",
+          "7. Ergonomiskt, säkert och arbetsmiljömässigt arbetssätt."
+        ]
+      }
+    ]
+  }
 }

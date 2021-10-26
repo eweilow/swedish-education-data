@@ -1,4 +1,21 @@
 {
   "name": "Kälsvets 1",
-  "code": "SAAKÄL01S"
+  "code": "SAAKÄL01S",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Svetsning med vald svetsmetod av kälfogar i olika relevanta svetslägen till gängse acceptanskrav.",
+          "2. Tillverkningsunderlag, till exempel svetsdatablad och ritningar.",
+          "3. Funktion hos utrustning och kringutrustning för vald svetsmetod.",
+          "4. Enklare underhåll och service på utrustningen.",
+          "5. Lagar och andra bestämmelser om arbetsmiljö, systematiskt arbetsmiljöarbete samt säkerhetsföreskrifter. Betydelsen av dessa för organisation och genomförande av det egna arbetet.",
+          "6. Metoder för reparation av enklare fel som uppstår under svetsningen samt för att lösa enklare produktionstekniska problem.",
+          "7. Standarder för kvalitetsbedömning av sammanfogningar.",
+          "8. Termer och begrepp inom teknikområdet."
+        ]
+      }
+    ]
+  }
 }

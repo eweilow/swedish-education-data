@@ -1,4 +1,22 @@
 {
   "name": "Persontrafik 1a",
-  "code": "PESPER01a"
+  "code": "PESPER01a",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Användning av mobil kommunikationsutrustning under färd.",
+          "2. Körning och manövrering av tung buss i skiftande trafikmiljöer med rätt nyttjande av bussens kapacitet. Val av växel och motorvarv samt användning av övriga tekniska funktioner för ökad framkomlighet i olika trafiksituationer och väglag.",
+          "3. Service, tillsyn, vård och underhåll av fordon, utrustning och lastutrymmen.",
+          "4. Avancerad körteknik, mjukhet vid inbromsningar och stopp, betryggande säkerhetsavstånd till övrig trafik samt manövrering och trafikuppträdande vid hållplatser för av- och påstigning.",
+          "5. Användning av olika informationssystem för färdplanering och vägval samt planering av körtider fram till olika resmål.",
+          "6. Körning utifrån tidtabell och rutiner vid hållplatser.",
+          "7. Körning med passagerare, med planering av färdvägar och tidsplaner för resmål. Förmedlande av aktuell information till resande.",
+          "8. Lastsäkring av resgods och viktberäkningar utifrån fordonets kapacitet och vägval.",
+          "9. Ergonomi i förarmiljön och vid lastning av gods."
+        ]
+      }
+    ]
+  }
 }

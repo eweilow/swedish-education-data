@@ -1,4 +1,25 @@
 {
   "name": "Vård och omsorg specialisering",
-  "code": "VADVAD00S"
+  "code": "VADVAD00S",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Bedömning av hälsotillstånd och förebyggande av ohälsa.",
+          "2. Bevarande eller förbättrande av funktionsförmåga.",
+          "3. Planering, genomförande och dokumentation av arbetsuppgifter på ett yrkesmässigt sätt.",
+          "4. Anpassning av den dagliga vården och omsorgen utifrån aktuellt hälsotillstånd.",
+          "5. Förebyggande av skador och olyckor för brukare, patienter och personal.",
+          "6. Etiska frågeställningar inom valt kunskapsområde.",
+          "7. Hygienrutiner vid vård- och omsorgsarbete.",
+          "8. Ergonomiska arbetsmetoder utifrån valt kunskapsområde.",
+          "9. Metoder för samtal och kommunikation med patienter, brukare och närstående inom valt kunskapsområde.",
+          "10. Samarbete med andra yrkesgrupper för ökad vård- och omsorgskvalitet inom valt kunskapsområde.",
+          "11. Analys och förslag på problemlösning i det systematiska kvalitetsarbetet inom valt kunskapsområde.",
+          "12. Lagar och andra bestämmelser som påverkar arbetet inom valt kunskapsområde."
+        ]
+      }
+    ]
+  }
 }

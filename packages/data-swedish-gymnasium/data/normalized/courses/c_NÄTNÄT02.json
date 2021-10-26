@@ -1,4 +1,22 @@
 {
   "name": "Näthandel 2",
-  "code": "NÄTNÄT02"
+  "code": "NÄTNÄT02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Affärsidé, finansiering, marknads- och säljplaner för nätbutik.",
+          "2. Affärsmöjligheter och entreprenörskap.",
+          "3. Teknikutveckling och hur tekniken på bästa sätt kan anpassas till människan.",
+          "4. Målgrupper och kundrelationer.",
+          "5. Marknadsundersökningar med hjälp av internet.",
+          "6. Programvaror och annan utrustning för webbplatsproduktion, bildbehandling och layout.",
+          "7. Planering, utformning, start och drift av en nätbutik.",
+          "8. Datasäkerhet, etiska regler, lagar och andra bestämmelser inom området.",
+          "9. Databashantering i webbplatser för näthandel."
+        ]
+      }
+    ]
+  }
 }

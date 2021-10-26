@@ -1,4 +1,18 @@
 {
   "name": "Miljö",
-  "code": "HVKMIL0"
+  "code": "HVKMIL0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Materials och produkters beståndsdelar och egenskaper.",
+          "2. Materials och produkters hantering, funktion och användningsområden.",
+          "3. Återanvändning och återvinning av material och produkter.",
+          "4. Materials och produkters påverkan på människor och miljö vid användning, framställning och hantering.",
+          "5. Material- och produktjämförelse. Hur material och produkter kan ersättas med mer miljövänliga alternativ utifrån användningsområde, egenskaper och önskat resultat."
+        ]
+      }
+    ]
+  }
 }

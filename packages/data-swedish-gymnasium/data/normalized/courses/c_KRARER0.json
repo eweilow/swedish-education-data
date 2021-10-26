@@ -1,4 +1,23 @@
 {
   "name": "Reservkraft",
-  "code": "KRARER0"
+  "code": "KRARER0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Uppbyggnad och funktion hos dieselmotor-, gasturbin- och batterianläggningar.",
+          "2. Drift och underhåll av dieselmotoranläggningar.",
+          "3. Drift och underhåll av gasturbinanläggningar.",
+          "4. Drift och underhåll av batterianläggningar.",
+          "5. Drift och underhåll av mindre och mobila reservkraftanläggningar.",
+          "6. Planering, övervakning och provkörning.",
+          "7. Beräkningsmetoder för optimering av driften.",
+          "8. Olika typer av konsekvenser vid avbrott i produktionen.",
+          "9. Verktyg, instrument och manualer.",
+          "10. Infasning av olika system samt krav och säkerhet."
+        ]
+      }
+    ]
+  }
 }

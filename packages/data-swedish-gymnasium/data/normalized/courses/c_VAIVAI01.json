@@ -1,4 +1,23 @@
 {
   "name": "Våningsservice 1",
-  "code": "VAIVAI01"
+  "code": "VAIVAI01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Organisation, yrkesroller och arbetsuppgifter inom våningsservice.",
+          "2. Systematisk och säker städning samt underhåll av inredning.",
+          "3. Design, färg och form samt dess påverkan på upplevelsen.",
+          "4. Inredning i gästrum och övriga lokaler, med hänsyn till säkerhet, ekonomi, miljö och ergonomi.",
+          "5. Miljömärkningar och certifieringar.",
+          "6. Ergonomi, arbetsmiljö och säkerhet utifrån lagar och andra bestämmelser.",
+          "7. Hänsyn till gästens integritet och säkerhet utifrån företagets policy.",
+          "8. Service och bemötande samt omtanke om gästen inför ankomst och under vistelse.",
+          "9. Kommunikation och samverkan såväl inom som mellan olika avdelningar.",
+          "10. Bedömning av kvaliteten på utfört arbete."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,55 @@
 {
   "name": "Fysik 2",
-  "code": "FYSFYS02"
+  "code": "FYSFYS02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Rörelse och krafter",
+        "rows": [
+          "1. Tvådimensionell rörelse i gravitationsfält och elektriska fält.",
+          "2. Centralrörelse.",
+          "3. Vridmoment för att beskriva jämviktstillstånd.",
+          "4. Simulering av tvådimensionell rörelse med hjälp av enkla numeriska metoder."
+        ]
+      },
+      {
+        "title": "Vågor, elektromagnetism och signaler",
+        "rows": [
+          "1. Harmonisk svängning som modell för att beskriva fenomen inom vardag och teknik.",
+          "2. Reflektion, brytning och interferens av ljus, ljud och annan vågrörelse.",
+          "3. Stående vågor och resonans med tillämpningar inom vardag och teknik.",
+          "4. Orientering om ljudstyrka och dopplereffekt.",
+          "5. Samband mellan elektriska och magnetiska fält: magnetiskt fält kring strömförande ledare, rörelse av elektrisk laddning i magnetiskt fält, induktion och några tillämpningar, till exempel växelspänningsgeneratorn och transformatorn.",
+          "6. Våg- och partikelbeskrivning av elektromagnetisk strålning. Orientering om elektromagnetiska vågors utbredning. Fotoelektriska effekten och fotonbegreppet.",
+          "7. Materiens vågegenskaper: de Broglies hypotes och våg-partikeldualism.",
+          "8. Fysikaliska principer bakom tekniska tillämpningar för kommunikation och detektering."
+        ]
+      },
+      {
+        "title": "Universums utveckling och struktur",
+        "rows": [
+          "1. Orientering om aktuella modeller och teorier för beskrivningen av universums storskaliga utveckling och av galax-, stjärn- och planetbildning.",
+          "2. Atomens elektronstruktur samt absorptions- och emissionsspektra.",
+          "3. Metoder för undersökning av universum. Elektromagnetisk strålning från stjärnor och interstellära rymden.",
+          "4. Metoder för att upptäcka och undersöka exoplaneter. Villkor för liv på andra planeter."
+        ]
+      },
+      {
+        "title": "Fysikens karaktär, arbetssätt och matematiska metoder",
+        "rows": [
+          "1. Modeller och teorier som förenklingar av verkligheten. Modellers och teoriers giltighetsområden och samt hur de kan utvecklas, generaliseras eller ersättas av andra modeller och teorier över tid.",
+          "2. Det experimentella arbetets betydelse för att testa, omvärdera och revidera hypoteser, teorier och modeller.",
+          "3. Avgränsning och studier av problem med hjälp av fysikaliska resonemang och matematisk modellering innefattande linjära och icke-linjära funktioner, ekvationer och grafer samt derivator och vektorer.",
+          "4. Planering och genomförande av experimentella undersökningar och observationer samt formulering och prövning av hypoteser i samband med dessa.",
+          "5. Bearbetning och utvärdering av data och resultat med hjälp av regressionsanalys, analys av grafer, enhetsanalys och storleksuppskattningar.",
+          "6. Utvärdering av resultat och slutsatser genom analys av metodval, arbetsprocess, felkällor och mätosäkerhet.",
+          "7. Fysikens relation till och gränser mot etiska, filosofiska och religiösa frågor."
+        ]
+      }
+    ]
+  }
 }

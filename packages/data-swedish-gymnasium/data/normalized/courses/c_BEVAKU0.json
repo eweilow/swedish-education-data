@@ -1,4 +1,21 @@
 {
   "name": "Akut omhändertagande",
-  "code": "BEVAKU0"
+  "code": "BEVAKU0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Lagar och andra bestämmelser som styr räddningstjänsten.",
+          "2. Prehospitalt omhändertagande av drabbade enligt L-ABCDE-principen.",
+          "3. Hjärt-lungräddning (HLR) för vuxna.",
+          "4. Grunderna för hjärt-lungräddning och akut omhändertagande av barn.",
+          "5. Sjukdomsfall viktiga att känna till, till exempel epilepsi, diabetes, allergier.",
+          "6. Akut omhändertagande avseende anatomi, fysiologi, kinematik och skadelära.",
+          "7. Fysiska, psykiska och sociala krav som kan påverka hälsa och arbetsinsats.",
+          "8. Bemötande av människor i olika olyckssituationer."
+        ]
+      }
+    ]
+  }
 }

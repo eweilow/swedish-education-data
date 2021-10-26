@@ -1,4 +1,21 @@
 {
   "name": "Lastbilsmonterad kran",
-  "code": "GOSLAL0"
+  "code": "GOSLAL0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Lastbilsmonterade kranars uppbyggnad och konstruktion för olika användningsområden.",
+          "2. Hydraulsystemets uppbyggnad och funktion med styrsystem och säkerhetsfunktioner.",
+          "3. Manövrering och säkerhet vid lastningsmoment samt handhavande vid på- och avställning från fordonet.",
+          "4. Uppställningsstabilitet och belastning vid lyftmoment för lastning och lossning av gods.",
+          "5. Lyftmetoder och användning av olika lyftredskap vid lastning och lossning av gods.",
+          "6. Underhåll och tillsyn samt besiktningskrav på kranar.",
+          "7. Säkerhetsavstånd vid arbete med lastbilsmonterade kranar.",
+          "8. Personlig säkerhet och skyddsutrustning för kranförare."
+        ]
+      }
+    ]
+  }
 }

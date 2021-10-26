@@ -1,4 +1,22 @@
 {
   "name": "Mät- och styrteknik",
-  "code": "MÄTMÄO0"
+  "code": "MÄTMÄO0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Logiska grundfunktioner för olika styrtekniska lösningar.",
+          "2. Diskreta mätgivare, till exempel induktiva givare, kapacitiva givare, optiska givare och lägesgivare.",
+          "3. Relästyrning av till exempel motorer och lampor.",
+          "4. Beteckningar, märkningar och symboler för pneumatisk och hydraulisk styrning samt dimensionering av pneumatisk och hydraulisk styrning.",
+          "5. Uppkoppling av pneumatisk eller hydraulisk styrkrets.",
+          "6. Funktionsbeskrivningar och ritnings- och schemaunderlag för styrtekniska anläggningar.",
+          "7. Vanligt förekommande styrda storheter och enheter inom mät- och styrteknik, till exempel belysning, pneumatiska och hydrauliska ventiler, reläer, kontaktorer, temperatur, tryck och nivå.",
+          "8. Vanligt förekommande begrepp och uttryck inom mät- och styrteknik, till exempel diskreta I/O (input/output), relä- och transistorutgångar, garanterad svarstid, väg-tiddiagram, flödesschema, galvanisk isolering, NPN/PNP, sink/source, polaritetsskydd och kortslutningsskydd.",
+          "9. Metoder för dokumentation av styrtekniska anläggningar, till exempel skapande av ritningar."
+        ]
+      }
+    ]
+  }
 }

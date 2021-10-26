@@ -1,4 +1,22 @@
 {
   "name": "Larm-, övervaknings- och säkerhetssystem",
-  "code": "LARLAM0"
+  "code": "LARLAM0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Uppbyggnad och funktion hos vanliga larm-, övervaknings- och säkerhetssystem.",
+          "2. Risker vid installation av larm och säkerhetssystem. Försäkringsbolagens krav på installationer och installatörer.",
+          "3. Planering och genomgång av ritningsunderlag inför installation av anläggningar för larm-, övervaknings- och säkerhetssystem.",
+          "4. Krav på registrering och dokumentation av utfört arbete.",
+          "5. Installation, driftsättning och provning av mindre anläggningar för inbrottslarm, brandlarm och passerkontroll.",
+          "6. Installation, integrering, driftsättning och provning av mindre trådlösa system och enheter för larm och övervakning.",
+          "7. Olika typer av verktyg, instrument och övrig utrustning.",
+          "8. Vanliga mätinstrument och hjälpmedel för felsökning.",
+          "9. Metoder för felsökning och reparationer i larm-, övervaknings- och säkerhetssystem."
+        ]
+      }
+    ]
+  }
 }

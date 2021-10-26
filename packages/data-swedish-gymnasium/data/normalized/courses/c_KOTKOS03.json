@@ -1,4 +1,20 @@
 {
   "name": "Konstruktion 3",
-  "code": "KOTKOS03"
+  "code": "KOTKOS03",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Konstruktionsmaterial eller komponenter för hållbar teknikutveckling.",
+          "2. Konstruktionsarbete, där teknikområden integreras.",
+          "3. Komponenter, material, verktyg, metoder och processer inom valda teknikområden samt deras egenskaper och begränsningar vid olika tillämpningar och i olika miljöer.",
+          "4. Fördjupning i teoretiska modeller och konstruktionsberäkningar med hänsyn tagen till matematiska och teknikvetenskapliga samband.",
+          "5. Dimensionering med och utan databaserade verktyg.",
+          "6. Fördjupning i standarder och normer inom valda teknikområden.",
+          "7. Dokumentation, redovisning och presentation av eget konstruktionsarbete och resultat."
+        ]
+      }
+    ]
+  }
 }

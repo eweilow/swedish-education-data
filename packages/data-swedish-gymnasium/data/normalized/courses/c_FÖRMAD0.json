@@ -1,4 +1,20 @@
 {
   "name": "Marknadsföring",
-  "code": "FÖRMAD0"
+  "code": "FÖRMAD0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Lagar och andra bestämmelser som styr marknadsföring. I samband med det behandlas etik och hållbar utveckling inom marknadsföring.",
+          "2. Teorier och tendenser inom området marknadsföring.",
+          "3. Marknads- och omvärldsanalys. I samband med det behandlas metoder och analysverktyg för marknadsinformation.",
+          "4. Marknadsstrategier och marknadsplanens innehåll och funktion.",
+          "5. Marknadsföring av varor och tjänster. I samband med det behandlas den betydelse som varaktiga relationer med kunder, leverantörer, anställda och andra intressenter har för ett företags affärsutveckling.",
+          "6. Intern och extern marknadskommunikation.",
+          "7. Internationell marknadsföring."
+        ]
+      }
+    ]
+  }
 }

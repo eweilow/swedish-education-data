@@ -1,4 +1,40 @@
 {
   "name": "Avverkningsmaskiner",
-  "code": "SKMAVV0"
+  "code": "SKMAVV0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Teknisk grund",
+        "rows": [
+          "1. Konstruktions- och funktionsbeskrivningar samt användningsområden för avverkningsmaskiner och teknisk utrustning.",
+          "2. Avverkningsmaskiners datautrustning.",
+          "3. Motorbränslen och smörjmedel.",
+          "4. Daglig tillsyn, periodisk kontroll och service."
+        ]
+      },
+      {
+        "title": "Arbete med avverkningsmaskiner",
+        "rows": [
+          "1. Arbete med avverkningsmaskiner på ett avverkningsområde.",
+          "2. Hantering av kran, instrument och reglage.",
+          "3. Markskador och miljöpåverkan.",
+          "4. Datorstyrd skördaraptering.",
+          "5. Arbete enligt traktdirektiv, arbetsplanering av avverkning, rapportering och uppföljning."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Arbetsmiljö och ergonomi samt miljö- och säkerhetsfrågor.",
+          "2. Säkerhetskontroll inför användning av fordon, redskap och tilläggsutrustning.",
+          "3. Brandförebyggande åtgärder.",
+          "4. Lagar och andra bestämmelser inom området."
+        ]
+      }
+    ]
+  }
 }

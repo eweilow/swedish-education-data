@@ -1,4 +1,19 @@
 {
   "name": "El- och verkstadsteknik",
-  "code": "VERVER0"
+  "code": "VERVER0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Elarbete, till exempel losskoppling och anslutning av apparater, samt funktionsprovning.",
+          "2. Verkstadsarbete, till exempel sammanfogning och skärande bearbetning.",
+          "3. Pressverktyg för olika kontakttyper som används inom yrkesområdet.",
+          "4. Handverktyg som används i verkstadsarbete.",
+          "5. Enklare ritningar och måttsättning.",
+          "6. Elsäkerhet för personer och egendom."
+        ]
+      }
+    ]
+  }
 }

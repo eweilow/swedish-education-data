@@ -1,4 +1,25 @@
 {
   "name": "Energiteknik 1",
-  "code": "ENEENE01"
+  "code": "ENEENE01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Grundläggande systemförståelse inom tillämpliga energiområden samt effektiv energihantering.",
+          "2. Energiinnehåll i olika bränslen.",
+          "3. Förnybara energikällor: sol, vind, våg, värmepump, energigaser, biobränslen samt alternativa drivmedel för fordon.",
+          "4. Energianvändning inom EU.",
+          "5. Processkännedom om kärnkraft, vattenkraft, värmekraft, fjärrvärme och fjärrkyla.",
+          "6. Processkännedom om vattenrening för dricksvatten och förorenat vatten samt miljö- och kretsloppstänkande.",
+          "7. Hantering, montering, mätning och enklare underhåll av energiteknisk utrustning.",
+          "8. Säkerhetsföreskrifter inom energiområdet.",
+          "9. Måttsystem för energi och effekt samt enheter och förkortningar för energi och effekt.",
+          "10. Användning och skötsel av utrustning och verktyg.",
+          "11. Säkerhetstänkande och yrkesetik. Arbetsmiljö och ergonomi.",
+          "12. Lagar och andra bestämmelser."
+        ]
+      }
+    ]
+  }
 }

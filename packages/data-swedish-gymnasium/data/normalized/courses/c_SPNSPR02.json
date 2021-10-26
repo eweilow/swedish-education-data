@@ -1,4 +1,25 @@
 {
   "name": "Sprinklerteknik 2",
-  "code": "SPNSPR02"
+  "code": "SPNSPR02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Vattenförsörjning för sprinkleranläggningar.",
+          "2. El och larmfunktioner i sprinkleranläggningar.",
+          "3. Gränsdragning mot andra teknikområden.",
+          "4. Regelverk som styr installation av sprinkler, till exempel BBR och Europanormer.",
+          "5. Ritningar och dokumentation av installation och genomförda arbeten.",
+          "6. Montering och placering vid installation av vanligt förekommande sprinklerutrustning.",
+          "7. Felsökning, service- och underhållsarbete.",
+          "8. Kontroll och provning.",
+          "9. Täthetsprovning.",
+          "10. Dokumentation enligt arbetsbeskrivning.",
+          "11. Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen.",
+          "12. Ergonomiskt riktigt arbetssätt."
+        ]
+      }
+    ]
+  }
 }

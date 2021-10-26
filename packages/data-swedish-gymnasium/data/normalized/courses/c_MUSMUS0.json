@@ -1,4 +1,22 @@
 {
   "name": "Musik",
-  "code": "MUSMUS0"
+  "code": "MUSMUS0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Musicerande i gehörsbaserad och noterad musik med röst eller instrument.",
+          "2. Musikalisk kommunikation med röst och rörelse i musik och danser från olika tider eller kulturer. Stildrag och kännetecken.",
+          "3. Sånger, alternativt låtar och danser, från olika tider eller kulturer.",
+          "4. Instudering i grupp.",
+          "5. Instrument och deras grundläggande egenskaper, kvaliteter och inbördes relationer. Grundläggande röstvård och metoder för det.",
+          "6. Grundläggande musikskapande och bearbetning av musikaliskt material, till exempel att göra en andrastämma, välja instrumentering, kompstil, musikalisk form och disposition.",
+          "7. Grundläggande musikalisk gestaltning och kommunikation vid framträdande inför publik och i samarbete med andra.",
+          "8. Programvaror för musikbearbetning och grundläggande hantering av musikteknisk utrustning och digital bearbetning av musikaliskt material.",
+          "9. Grundläggande arbetsmiljö vid musikutövning, till exempel elsäkerhet, ergonomi och hörselvård."
+        ]
+      }
+    ]
+  }
 }

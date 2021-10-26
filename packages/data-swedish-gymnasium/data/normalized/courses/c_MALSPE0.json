@@ -1,4 +1,23 @@
 {
   "name": "Specialkoster",
-  "code": "MALSPE0"
+  "code": "MALSPE0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Yrkesmässig tillagning av specialkoster.",
+          "2. Immunologi och födoämnesintolerans.",
+          "3. Mat och måltider för olika behov.",
+          "4. Ekonomiska konsekvenser vid val av råvaror samt vid hantering och förvaring.",
+          "5. Näringsberäkningar av måltider med hjälp av datorprogram.",
+          "6. Svenska näringsrekommendationer.",
+          "7. Kreativt framtagande av recept, matsedlar och menyer för olika specialkoster.",
+          "8. Hygien och dagliga hygienrutiner, till exempel rengöring av lokaler och utrustning.",
+          "9. Arbetsmiljö och livsmedelssäkerhet samt lagar och andra bestämmelser som gäller inom området.",
+          "10. Kommunikation med andra samt fackterminologi."
+        ]
+      }
+    ]
+  }
 }

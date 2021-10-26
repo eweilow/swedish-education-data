@@ -1,4 +1,44 @@
 {
   "name": "Virkestransport med skotare",
-  "code": "SKMVIE0"
+  "code": "SKMVIE0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Teknisk grund",
+        "rows": [
+          "1. Konstruktions- och funktionsbeskrivningar samt användningsområden för skotare och tilläggsutrustning.",
+          "2. Motorbränslen och smörjmedel.",
+          "3. Daglig tillsyn, periodisk kontroll och service."
+        ]
+      },
+      {
+        "title": "Arbete med skotare",
+        "rows": [
+          "1. Arbete med skotare samt hantering av kran, instrument och reglage.",
+          "2. Virkestransport med skotare i ett avverkningsområde.",
+          "3. Hantering av tilläggsutrustning, till exempel band och kedjor.",
+          "4. Körteknik som minimerar risken för skador på mark, bestånd och miljö samt minskar bränsleförbrukningen.",
+          "5. Olika virkessortiment och krav på virkesavlägg.",
+          "6. Körning på vägar samt trafikkunskap.",
+          "7. Ekonomisk körteknik.",
+          "8. Arbete enligt traktdirektiv, arbetsplanering, rapportering och uppföljning."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Arbetsmiljö och ergonomi samt miljö- och säkerhetsfrågor.",
+          "2. Säker hantering av farligt gods och farligt avfall.",
+          "3. Säkerhetskontroll inför användning av fordon, redskap och tilläggsutrustning.",
+          "4. Säkerhet på väg.",
+          "5. Brandförebyggande åtgärder.",
+          "6. Lagar och andra bestämmelser inom området."
+        ]
+      }
+    ]
+  }
 }

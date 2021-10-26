@@ -1,4 +1,44 @@
 {
   "name": "Hundkunskap 2",
-  "code": "HUNHUN02"
+  "code": "HUNHUN02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Biologisk grund",
+        "rows": [
+          "1. Olika hundraser och deras egenskaper och särskilda behov.",
+          "2. Olika verksamhetsområden för olika typer av hundar.",
+          "3. Olika miljöfaktorer i hundars vistelsemiljöer, till exempel temperatur, ljus, bottenmaterial och tillgång till vatten. Miljöberikning för att stimulera djurens naturliga beteende.",
+          "4. Foder, fodrets näringsinnehåll och kvalitet samt specifika foderbehov.",
+          "5. Ekonomiska beräkningar och kalkyler.",
+          "6. Vanliga hälsoproblem, skador och sjukdomar samt förebyggande åtgärder.",
+          "7. Avel och uppfödning av hundar för olika användningsområden. Avelsplanering, avelsstrategi och avelsorganisation."
+        ]
+      },
+      {
+        "title": "Arbetsuppgifter",
+        "rows": [
+          "1. Utarbetande av planer för skötsel av hundar. Arbetsuppgifter utifrån uppgjord plan samt uppföljning och rapportering.",
+          "2. Hantering av hundar, till exempel i samband med rastning och vid klippning, trimning och bad.",
+          "3. Foderberäkning, val av foder och utfodring av hundar.",
+          "4. Utarbetande och genomförande av planer för grundläggande fostran och träning av hundar mot uppsatta mål.",
+          "5. Hundar som resurs i arbete med människor, till exempel inom vård, rehabilitering och socialt arbete.",
+          "6. Rutiner för att upptäcka förändringar i hundars beteende som följd av skador och sjukdomar samt åtgärder för sjuka och skadade djur.",
+          "7. Olika grenar inom hundsport."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Säkerhet vid arbete med hundar.",
+          "2. Djurskyddslagstiftning och andra bestämmelser som rör hundhållning.",
+          "3. Bestämmelser som reglerar utformning och skötsel av anläggningar avsedda för hundhållning samt avel och uppfödning av hundar."
+        ]
+      }
+    ]
+  }
 }

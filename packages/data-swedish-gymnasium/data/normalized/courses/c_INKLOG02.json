@@ -1,4 +1,24 @@
 {
   "name": "Logistik 2",
-  "code": "INKLOG02"
+  "code": "INKLOG02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Logistikflöden och varuflödesoptimering.",
+          "2. Omsättning av modeller för resurseffektiva tankesätt och principer, till exempel lean logistics.",
+          "3. Transportplanering och leveransbevakning.",
+          "4. Leveransservice, lagerstyrning och uppföljning av lagerbindning.",
+          "5. Kretsloppstänkande och förpackningar.",
+          "6. Planering och kontroll av försörjningskedjor, till exempel hur flödet av varor, information och pengar från tillverkare till slutkund administreras genom alla led.",
+          "7. Logistikanalyser, till exempel modeller för ledtids- och lönsamhetsanalyser.",
+          "8. Nyckeltalsanalys och ekonomiska beräkningar inom logistikområdet.",
+          "9. Lagar och andra bestämmelser.",
+          "10. Arbetsmiljö- och ergonomifrågor inom logistikområdet.",
+          "11. Miljö- och resurshushållningsfrågor."
+        ]
+      }
+    ]
+  }
 }

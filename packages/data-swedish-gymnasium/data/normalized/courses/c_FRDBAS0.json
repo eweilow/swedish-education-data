@@ -1,4 +1,27 @@
 {
   "name": "Båtsystem",
-  "code": "FRDBAS0"
+  "code": "FRDBAS0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Använda materials och produkters olika egenskaper.",
+          "2. Funktion hos olika system, till exempel hydrauliska system, värme-, kyl- och VVS-system.",
+          "3. Installationer efter ritning, systembeskrivning, installationshandledning samt instruktion.",
+          "4. Installation, felsökning och service på hydrauliska installationer, till exempel trimplan.",
+          "5. Installation, felsökning och service på förekommande system, till exempel manöver-, värme-, kyl- och VVS-system.",
+          "6. Enklare elinstallationer.",
+          "7. Funktionskontroller.",
+          "8. Egna skisser och ritningar på installationer.",
+          "9. Arbetsinstruktioner, servicelitteratur och informationsmaterial på svenska och engelska, inklusive digitala informationssystem.",
+          "10. Yrkets fackspråk, termer och begrepp.",
+          "11. Hantering av miljöfarliga produkter.",
+          "12. Dokumentation och presentation samt metoder för utvärdering av arbete.",
+          "13. Beräkning av kostnader, material- och tidsåtgång. Offert och efterkalkyl.",
+          "14. Sambandet mellan kvalitet och ekonomi vid val av metod och material."
+        ]
+      }
+    ]
+  }
 }

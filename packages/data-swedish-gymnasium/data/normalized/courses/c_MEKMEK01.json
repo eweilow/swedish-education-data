@@ -1,4 +1,21 @@
 {
   "name": "Mekatronik 1",
-  "code": "MEKMEK01"
+  "code": "MEKMEK01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Elarbete, mekaniskt arbete och enklare programmering av styrenheter.",
+          "2. Tolkning av ritningar och manualer.",
+          "3. Uppbyggnad av mekatroniska system från sensor, via styrenhet, till aktuator.",
+          "4. Hur logiska grundfunktioner kan användas för olika styrtekniska lösningar.",
+          "5. Tekniska lösningar i vardagen för omvandling av energi, materia eller information.",
+          "6. Grundläggande mekaniska begrepp, till exempel hävstång, block, lutande planet, fackverk och balk.",
+          "7. Grundläggande elektriska storheter och begrepp, till exempel laddning, ström, spänning, resistans och sluten krets.",
+          "8. Mätning av olika mekaniska och elektriska storheter."
+        ]
+      }
+    ]
+  }
 }

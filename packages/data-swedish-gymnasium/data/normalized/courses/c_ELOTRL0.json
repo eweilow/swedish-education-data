@@ -1,4 +1,33 @@
 {
   "name": "Trådlösa radiosystem",
-  "code": "ELOTRL0"
+  "code": "ELOTRL0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Radiovågornas egenskaper och utbredning.",
+          "2. Frekvenser och frekvensband för radiokommunikation.",
+          "3. Antennteknik, antenntyper och deras egenskaper.",
+          "4. Kablar, impedanser och ståendevågmätningar (SWR).",
+          "5. Trådlösa system för lokala nätverk.",
+          "6. Kommunikationsradiosystem och apparater.",
+          "7. Utrustningar för kortdistansförbindelser, till exempel blåtand.",
+          "8. Trådlösa telefoner och mobiltelefoner.",
+          "9. Inbyggda mobiltelefonsystem med GPS.",
+          "10. Radiolänkar för lokala nätverk.",
+          "11. Lagar och myndighetskrav inom området, till exempel lagen om elektronisk kommunikation och tillstånd att använda radiosändare.",
+          "12. Integritetsaspekter och säkerhet vid radiokommunikation.",
+          "13. Aktuella standarder för radiokommunikation, till exempel Tetra (terrestrial trunked radio).",
+          "14. Hälsorisker med radiostrålning och risken att störa känslig utrustning.",
+          "15. Support och service på trådlösa radiosystem.",
+          "16. Metoder för systematisk felsökning och reparation.",
+          "17. Mätteknik, mätinstrument och mätmetoder för högfrekventa radiosignaler.",
+          "18. Elektronikschema, servicemanualer och bruksanvisningar på svenska och engelska.",
+          "19. Metoder för dokumentation av arbetet.",
+          "20. Instruktion till användare i handhavande av apparater och system."
+        ]
+      }
+    ]
+  }
 }

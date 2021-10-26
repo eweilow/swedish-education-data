@@ -1,4 +1,25 @@
 {
   "name": "Nätverksteknologier",
-  "code": "NAINAK0"
+  "code": "NAINAK0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Uppbyggnad av nätverks olika delar samt funktion av bandbredd, till exempel mätning av kapacitet och kapacitetsbehov för olika bredbandslösningar.",
+          "2. Referensmodellerna OSI och TCP/IP (Open Systems Interconnection och Transmission Control Protocol/Internet Protocol) och de olika skiktens specifika tjänst som är oberoende av de tekniker som används i lagret ovanför eller nedanför. Hur information hanteras och hur utrustning och tjänster fungerar i samverkan i olika kommunikationslösningar.",
+          "3. Nätverksprotokoll, dvs. hur digital kommunikation mellan olika datorenheter fungerar. Administration och konfiguration av nätverksprotokoll.",
+          "4. Adressering i nätverk, kommunikation av data mellan olika enheter samt hur kommunikationen fungerar utifrån tekniska regler för de olika protokollen. Hur utdelning av adresser fungerar med DHCP (Dynamic Host Configuration Protocol).",
+          "5. Subnätning, dvs. hur man delar upp ett datornätverk i mindre delar.",
+          "6. Routningsprotokoll, hantering av kommunikation mellan olika adressområden samt olika vägar på vilka data sänds mellan sändare och mottagare i olika nätverk.",
+          "7. Virtuella nät, dvs. VLAN (Virtual Local Area Network). Skydd mot avlyssning mellan olika nätverk.",
+          "8. Tunnling och WLAN (Wireless Local Area Network).",
+          "9. Nätverkstopologier, dvs. på vilket sätt olika noder i nätverk är kopplade till varandra.",
+          "10. Packet switching network, dvs. paketförmedling där data paketeras och adresseras mellan olika fysiska och logiska nivåer och komponenter i en datorbaserad kommunikationssituation.",
+          "11. Accessmetoder för att upprätta kommunikation mellan olika enheter i ett datornätverk.",
+          "12. Överföringsmedier, dvs. olika sätt att skicka digital information i form av data. Begränsningar samt säkerhet och prestanda vid val av olika överföringsmedier, till exempel kabelbaserad eller luftbaserad kommunikation."
+        ]
+      }
+    ]
+  }
 }

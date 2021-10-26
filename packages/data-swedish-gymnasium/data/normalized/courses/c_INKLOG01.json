@@ -1,4 +1,24 @@
 {
   "name": "Logistik 1",
-  "code": "INKLOG01"
+  "code": "INKLOG01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Logistikens roll i företaget.",
+          "2. Praktiskt logistik-, lager- och inköpsarbete samt organisering av lager, struktur, utrustning, plockmetoder och arbetsorganisation.",
+          "3. Lagerfunktioner, lagerhållning och lagrets olika avdelningar och arbetsuppgifter.",
+          "4. Logistikens utveckling.",
+          "5. Varans väg från producent till konsument.",
+          "6. Varudistribution och distributionssystem.",
+          "7. Leveransprocessen, leveransbevakning och kvalitet.",
+          "8. Värdeskapande i försörjningskedjan.",
+          "9. Lagar och andra bestämmelser.",
+          "10. Arbetsmiljö och ergonomi.",
+          "11. Miljö- och resurshushållningsfrågor."
+        ]
+      }
+    ]
+  }
 }

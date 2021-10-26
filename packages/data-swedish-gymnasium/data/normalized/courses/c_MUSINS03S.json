@@ -1,4 +1,21 @@
 {
   "name": "Instrument eller sång 3",
-  "code": "MUSINS03S"
+  "code": "MUSINS03S",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Avancerad instrumental spelteknik, alternativt avancerad sångteknik.",
+          "2. Musikalisk tolkning, uppförandepraxis och form.",
+          "3. Genrer, stilar och epoker.",
+          "4. Konstnärligt uttryck och tolkning vid musikframförande.",
+          "5. Repertoar för det egna instrumentet.",
+          "6. Musikaliska instuderingsmetoder.",
+          "7. Musikalisk kommunikation med publik och medmusiker, scennärvaro.",
+          "8. Solistiskt framträdande."
+        ]
+      }
+    ]
+  }
 }

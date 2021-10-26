@@ -1,4 +1,24 @@
 {
   "name": "Fotografisk bild 1",
-  "code": "FOTFOT01"
+  "code": "FOTFOT01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Den fotografiska processen från motivval till publicering.",
+          "2. Bildupplösning, dokumentstorlek vid digital bildbehandling, samt hur och varför man lagrar data i olika format.",
+          "3. Programvaror för digital bildbehandling.",
+          "4. Kopiering, bildredigering och metoder för att ta fram bilder på papper och för visning.",
+          "5. Den fotografiska bildens estetiska uttrycksmedel, till exempel komposition, ljussättning, färg och kontrast, och hur en känsla, en tanke, en idé eller ett budskap kan omsättas i fotografisk bild.",
+          "6. De fotografiska materialens egenskaper och användningsområden.",
+          "7. Metoder för idéproduktion, kreativa arbetsprocesser och ett personligt bildspråk.",
+          "8. Modeller för analys och tolkning av fotografiska bilder. Begrepp inom området, till exempel bildsemiotik och kommunikationsteori.",
+          "9. Fotografiet och fotografiska genrer förr och nu samt likheter och skillnader mellan olika genrer.",
+          "10. Lagar och andra bestämmelser om upphovsrätt och etiska frågeställningar i relation till fotografiska bilder.",
+          "11. Grundläggande miljö- och säkerhetsmässiga aspekter inom fotoområdet."
+        ]
+      }
+    ]
+  }
 }

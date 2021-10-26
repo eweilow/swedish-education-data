@@ -1,4 +1,24 @@
 {
   "name": "Marinelektronik 3",
-  "code": "MAIMAR03"
+  "code": "MAIMAR03",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Skillnader mellan olika kommunikationsgränssnitt.",
+          "2. Uppbyggnad av CanBus-baserade strömförsörjningsanläggningar.",
+          "3. Uppbyggnad och programmeringar av datorbaserade system i marina miljöer.",
+          "4. Lokala nätverkssystem.",
+          "5. Mätteknik och mätinstrument.",
+          "6. Felsökning i digitala system.",
+          "7. Tolkning av installationsbeskrivningar och servicemanualer.",
+          "8. Upprättande av system- och installationsritningar.",
+          "9. Yrkets fackspråk, termer och begrepp.",
+          "10. Beräkningar av material- och tidsåtgång samt kostnader.",
+          "11. Dokumentation, presentation och utvärdering av arbete."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,21 @@
 {
   "name": "Idrott och hälsa 1 – specialisering",
-  "code": "IDRIDO01"
+  "code": "IDRIDO01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Regler, tekniker och taktik inom vald idrott.",
+          "2. Planering, genomförande och analys av träningsprogram för vald idrott.",
+          "3. Hur vald idrott utvecklar den kroppsliga förmågan.",
+          "4. Vald idrott ur ett hälsoperspektiv.",
+          "5. Vald idrotts organisation och historia.",
+          "6. Organisation av barnverksamhet inom vald idrott.",
+          "7. Kulturella och sociala aspekter på vald idrott.",
+          "8. Etik och moral i förhållande till vald idrott."
+        ]
+      }
+    ]
+  }
 }

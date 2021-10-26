@@ -1,4 +1,24 @@
 {
   "name": "Mobila applikationer",
-  "code": "MOIMOB3"
+  "code": "MOIMOB3",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Utvecklingsprocessen för att utveckla en mobil applikation från målsättning, planering, specifikation av struktur och design, kodning, optimering, testning, till dokumentation och uppföljning.",
+          "2. Kvalitetssäkring av applikationens funktion med speciell hänsyn tagen till mobila applikationers begränsningar, till exempel risk för bruten kontakt med server.",
+          "3. Design av gränssnitt för mobila applikationer.",
+          "4. Applikationer som är användarvänliga och robusta.",
+          "5. Översikt över olika plattformar och dess olika operativ- och ekosystem.",
+          "6. Användning av API.",
+          "7. Tekniker för att undvika att användargränssnittet blockeras som asynkrona anrop eller flertrådiga applikationer.",
+          "8. Mobila plattformar och dess samhällspåverkan.",
+          "9. Utnyttjande av kringutrustning, till exempel kamera eller GPS.",
+          "10. Lagar och andra bestämmelser som styr digital information, till exempel personuppgiftslagen och lagen om elektronisk kommunikation.",
+          "11. Terminologi inom mobil applikationsutveckling."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,19 @@
 {
   "name": "Naturvetenskaplig spets",
-  "code": "NAENAT30S"
+  "code": "NAENAT30S",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Specialisering inom ett väl avgränsat kunskapsområde inom ramen för spetsutbildningen.",
+          "2. Begrepp, teorier, modeller och metoder inom kunskapsområdet och hur dessa har vuxit fram.",
+          "3. Experiment, fältstudier eller observationer.",
+          "4. Någon tillämpning inom kunskapsområdet, till exempel i samarbete med institutioner och organisationer i det omgivande samhället.",
+          "5. Källkritisk granskning, tolkning och värdering av information från olika medier och källor.",
+          "6. Naturvetenskapliga uttrycks- och presentationsformer, till exempel planschutställningar, rapporter, reportage och seminarier."
+        ]
+      }
+    ]
+  }
 }

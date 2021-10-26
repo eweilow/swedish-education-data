@@ -1,4 +1,42 @@
 {
   "name": "Lantbruksmaskiner 2",
-  "code": "LAULAT02"
+  "code": "LAULAT02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Teknisk grund",
+        "rows": [
+          "1. Användningsområden för maskiner och teknisk utrustning.",
+          "2. Tekniska system för styrning, kontroll och datainsamling.",
+          "3. Val av maskiner, teknisk utrustning och mekaniseringskedjor.",
+          "4. Teknik och biologi i samverkan.",
+          "5. Maskinekonomi och maskinsamverkan.",
+          "6. Aktuell teknisk utveckling – försök och forskning."
+        ]
+      },
+      {
+        "title": "Arbete med lantbruksmaskiner",
+        "rows": [
+          "1. Planering av arbetsmetoder inför användning av lantbruksmaskiner.",
+          "2. Arbetsmetodik vid till exempel plöjning, harvning, mekanisk ogräsbekämpning, tröskning, bärgning av halm samt vallskörd.",
+          "3. Service, underhåll och enklare reparationer av teknisk utrustning.",
+          "4. Inställning av maskiner för optimalt utnyttjande i samband med olika arbetsmoment.",
+          "5. Funktionskontroll och felsökning på maskiner och teknisk utrustning.",
+          "6. Bedömning av arbetsresultat."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Ergonomi samt arbetsmiljö- och säkerhetsfrågor i samband med användning av lantbruksmaskiner.",
+          "2. Brandförebyggande åtgärder.",
+          "3. Lagar och andra bestämmelser inom området."
+        ]
+      }
+    ]
+  }
 }

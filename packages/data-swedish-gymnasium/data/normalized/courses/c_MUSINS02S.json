@@ -1,4 +1,21 @@
 {
   "name": "Instrument eller sång 2",
-  "code": "MUSINS02S"
+  "code": "MUSINS02S",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Fördjupad instrumental spelteknik, alternativt sångteknik.",
+          "2. Spel eller sång efter noter och på gehör.",
+          "3. Musikalitet, konstnärlighet och personligt uttryck.",
+          "4. Repertoar för det egna instrumentet.",
+          "5. Musikalisk tolkning, stil och form.",
+          "6. Musikalisk instudering.",
+          "7. Konserter och andra former av publikframträdanden, scennärvaro.",
+          "8. Musikalisk kommunikation."
+        ]
+      }
+    ]
+  }
 }

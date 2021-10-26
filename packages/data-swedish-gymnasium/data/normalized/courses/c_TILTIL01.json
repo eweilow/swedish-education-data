@@ -1,4 +1,19 @@
 {
   "name": "Tillverkningsunderlag 1",
-  "code": "TILTIL01"
+  "code": "TILTIL01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Tolkning av mönster- och ritningsunderlag.",
+          "2. Metoder för manuell framställning av ritningar eller mönster.",
+          "3. Metoder för beredning av tillverkningsritningar.",
+          "4. Specifika beteckningar för mönster eller ritningar.",
+          "5. Informationssökning i relevanta källor.",
+          "6. Termer och begrepp som är relevanta för teknikområdet."
+        ]
+      }
+    ]
+  }
 }

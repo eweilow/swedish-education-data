@@ -1,4 +1,26 @@
 {
   "name": "Intervallservice",
-  "code": "MANINT0"
+  "code": "MANINT0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Konsekvenser för ekonomi och driftsäkerhet på grund av eftersatt underhåll.",
+          "2. Intervallservice på motor och drivlina enligt motortillverkarens instruktioner.",
+          "3. Metoder för diagnos, service, underhåll, funktions- och säkerhetskontroll av marina motorer.",
+          "4. Demontering, montering och justering av komponenter i samband med servicearbete.",
+          "5. Arbeten inför långtids- eller vinterförvaring.",
+          "6. Arbetsplanering. Val av metoder och verktyg.",
+          "7. Arbetsinstruktioner och servicelitteratur på svenska och engelska, inklusive information i datormiljö.",
+          "8. Kostnader för drift och underhåll.",
+          "9. Kostnadseffektivt arbetssätt och kundvänlig behandling.",
+          "10. Reservdelshantering och serviceprotokoll.",
+          "11. Lagar och andra bestämmelser som reglerar området, till exempel gällande miljö och säkerhet.",
+          "12. Motorunderhåll och service samt faktorer som påverkar miljö.",
+          "13. Yrkets fackspråk, termer och begrepp."
+        ]
+      }
+    ]
+  }
 }

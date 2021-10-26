@@ -1,4 +1,25 @@
 {
   "name": "Elektromedicinsk teknik",
-  "code": "MEIELE0"
+  "code": "MEIELE0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Fysiologisk och neurofysiologisk utrustning för diagnostik och övervakning, datorstyrda utrustningar samt laserteknik och laserutrustningar.",
+          "2. Medicintekniska produkters användningsområden inom elektromedicin.",
+          "3. Fysikaliska samband och elektriska tillämpningar.",
+          "4. Elektromedicinsk historia samt introduktion i aktuella utvecklingsområden inom medicinsk teknik.",
+          "5. Grundläggande teknikfilosofi, till exempel etiska värderingar och genusstrukturer, samt hur den har påverkat och påverkar den elektromedicinska tekniken, dess användning och tillgänglighet.",
+          "6. Installation och driftsättning, service, reparation och förebyggande underhåll av elektromedicinsk utrustning.",
+          "7. Ritningar, tekniska instruktioner, kopplingsscheman och servicemanualer.",
+          "8. Mätteknik, schemaläsning och systematisk felsökning samt funktions- och säkerhetskontroller.",
+          "9. Säkerhetsbestämmelser, funktionskrav och rutiner.",
+          "10. Dokumentation av utförda åtgärder och administrativa rutiner.",
+          "11. Kommunikation med olika kategorier av sjukvårdspersonal.",
+          "12. Informationsteknik inom området med avseende på funktion, arbetssätt, patientsäkerhet och hantering av känslig information."
+        ]
+      }
+    ]
+  }
 }

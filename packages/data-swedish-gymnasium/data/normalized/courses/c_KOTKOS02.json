@@ -1,4 +1,25 @@
 {
   "name": "Konstruktion 2",
-  "code": "KOTKOS02"
+  "code": "KOTKOS02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Fördjupning i produktionstekniska förutsättningar, kvalitet och lönsamhet enligt modern produktionsfilosofi.",
+          "2. Visualisering via datorbaserade verktyg och analys genom FEM (finita elementmetoden) eller simuleringar med hjälp av dator inom valt teknikområde.",
+          "3. Fördjupade teknikmetoder och konstruktionsmetoder inom något eller några områden.",
+          "4. Teoretiska modeller och observationer inom valt teknikområde.",
+          "5. Prototyptillverkning, om det förekommer inom valt teknikområde.",
+          "6. Komponenter, material, metoder och processer inom valt teknikområdet samt deras egenskaper och begränsningar vid varierande tillämpningar och miljöer.",
+          "7. Mätningar, bedömningar av mätfel och mätnoggrannhet vid planering, genomförande och utvärdering samt hur mätfelsanalyser genomförs.",
+          "8. Konstruktionsberäkningar inom valt teknikområde med hänsyn tagen till matematiska och teknikvetenskapliga teorier och modeller.",
+          "9. Dimensionering med och utan databaserade verktyg.",
+          "10. Normer och tekniska standarder samt hur något eller några standardiserade test utförs inom valt teknikområde.",
+          "11. Faktorer som påverkar utformningen av produkter, till exempel tillgänglighet och säkerhetsaspekter.",
+          "12. Dokumentation, redovisning och presentation av konstruktionsarbete och resultat."
+        ]
+      }
+    ]
+  }
 }

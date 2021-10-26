@@ -1,4 +1,19 @@
 {
   "name": "Luftbehandlingsanläggningar",
-  "code": "VETLUT0"
+  "code": "VETLUT0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Drift och underhåll av luftbehandlingsanläggningar.",
+          "2. Luftflödes- och ljudmätningar av luftbehandlingsanläggningar.",
+          "3. Luftbehandlingsanläggningars optimering efter byggnadens energi- och klimatbehov.",
+          "4. Mätningar av verkningsgrad för värmeåtervinning samt specifik fläkteffekt, SFP.",
+          "5. Ritningsläsning och arbetsbeskrivningar.",
+          "6. Arbetsmiljö, ergonomi och hälsa, personlig skyddsutrustning. Lagar och andra bestämmelser, till exempel säkerhetsföreskrifter och EU-direktiv. Behörigheter för ett säkert arbete."
+        ]
+      }
+    ]
+  }
 }

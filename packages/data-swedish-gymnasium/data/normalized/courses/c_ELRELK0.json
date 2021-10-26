@@ -1,4 +1,22 @@
 {
   "name": "Elektromekanik",
-  "code": "ELRELK0"
+  "code": "ELRELK0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Elarbete, till exempel losskoppling och anslutning av apparater samt funktionsprovning.",
+          "2. Enklare verkstadsarbete, till exempel mjuklödning, skruvförband och popnitning.",
+          "3. Ritningsläsning inom verkstadstekniken.",
+          "4. Pressverktyg för olika kontakttyper som används inom yrkesområdet.",
+          "5. Fästteknik, materialkunskap och mekanisk mätning.",
+          "6. Handverktyg som används inom de olika yrkesområdena.",
+          "7. Elsäkerhet för personer och egendom.",
+          "8. Egenkontroll, ergonomi, elsäkert arbete, kvalitetskrav, arbetsmiljö och säkerhet.",
+          "9. Säkerhet i heta arbeten, ställningsbyggande och arbete från stege."
+        ]
+      }
+    ]
+  }
 }

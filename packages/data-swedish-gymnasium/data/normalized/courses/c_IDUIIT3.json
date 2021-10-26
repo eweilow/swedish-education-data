@@ -1,4 +1,28 @@
 {
   "name": "Industriell it",
-  "code": "IDUIIT3"
+  "code": "IDUIIT3",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Funktion, principer och uppbyggnad av olika typer av industriella it-system.",
+          "2. Arbetsmiljö och säkerhet vid arbete med automatiserade system.",
+          "3. Nätverkstopologier, OSI-modellen, standarder och protokoll med tillämpning inom industriell it.",
+          "4. Programvaror för kontroll, övervakning och datainsamling.",
+          "5. Fältbussar och trådlös informationsteknik.",
+          "6. Program för simulering av industriell it.",
+          "7. Konsekvenser vid införandet av it-lösningar i produktion.",
+          "8. Driftsäkerhet och spårbarhet inom industriell informationsteknik.",
+          "9. Planering, montering, konfigurering och driftsättning av industriell informationsteknisk hårdvara för datainsamling från mät-, styr- eller reglertekniska applikationer.",
+          "10. Installering och konfigurering av industriell programvara för datainsamling, till exempel OPC-server och -klient.",
+          "11. Analys och bedömning av insamlad data med avseende på till exempel datakvalitet och funktion.",
+          "12. Tolkning av dokumentation, till exempel hård- och mjukvarors manualer.",
+          "13. Metoder för systematisk dokumentation i projekt, till exempel PDM (Product Data Management).",
+          "14. Systematisk dokumentation med hjälp av till exempel loggningsdata eller databashanterare.",
+          "15. Förebyggande underhåll samt felsökning och reparation av industriella it-system."
+        ]
+      }
+    ]
+  }
 }

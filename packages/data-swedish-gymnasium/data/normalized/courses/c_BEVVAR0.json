@@ -1,4 +1,18 @@
 {
   "name": "Vardagsolyckor",
-  "code": "BEVVAR0"
+  "code": "BEVVAR0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Kommunens regler och ansvar för att förebygga olyckor.",
+          "2. Grunderna för kommunens systematiska säkerhetsarbete.",
+          "3. Olycks- och skadebilden i samhället.",
+          "4. Olyckor som inträffar i hem- och fritidsmiljö och hur de kan förebyggas.",
+          "5. Risker och riskbeteende som finns hos särskilt utsatta grupper, till exempel barn, äldre och människor med funktionsnedsättning."
+        ]
+      }
+    ]
+  }
 }

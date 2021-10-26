@@ -1,4 +1,27 @@
 {
   "name": "Industriell automationsteknik",
-  "code": "IDUIND3"
+  "code": "IDUIND3",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Uppbyggnad och funktion av samt principer för olika typer av automatiserade system.",
+          "2. Arbetsmiljö och säkerhet vid arbete med automatiserade system.",
+          "3. Talsystem samt uppbyggnad och omvandling mellan talsystem som används i automatiserade system.",
+          "4. Tolkning och användning av de logiska grundfunktionerna.",
+          "5. Ventilbeteckningar och märkningar samt identifiering av komponenter.",
+          "6. Standarder för informationsteknik och säkerhet.",
+          "7. Program för simulering av automatiserade processer.",
+          "8. Automatiserade systems påverkan på miljö, ekonomi och samhälle.",
+          "9. Funktion, egenskaper och symboler hos styrtekniska lösningar där pneumatiska och elektriska komponenter ingår.",
+          "10. Hantering och programmering av digitala och analoga in- och utgångar.",
+          "11. Programmering, installering, intrimning och driftsättning av enkla och sammanbyggda styrutrustningar med olika automationsmoduler och givare.",
+          "12. Analys av befintlig automatiserad process och förslag på förbättringar och optimeringar.",
+          "13. Olika typer av scheman, ritningar och annan dokumentation över automatiska system inom valt område. Tolkning av och metoder för framställning av dessa.",
+          "14. Förebyggande underhåll samt felsökning och reparation på automatiserade system."
+        ]
+      }
+    ]
+  }
 }

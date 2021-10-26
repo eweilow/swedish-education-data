@@ -1,4 +1,38 @@
 {
   "name": "Matematik 3b",
-  "code": "MATMAT03b"
+  "code": "MATMAT03b",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Aritmetik, algebra och funktioner",
+        "rows": [
+          "1. Begreppet rationella uttryck. Hantering av rationella uttryck.",
+          "2. Begreppet gränsvärde. Begreppen sekant, tangent, förändringshastighet, ändringskvot och derivata för en funktion. Grafiska och digitala metoder för att derivera funktioner. Villkor för deriverbarhet.",
+          "3. Motivering och hantering av deriveringsregler för potens- och exponentialfunktioner samt summor av dessa. Begreppen talet e och naturlig logaritm.",
+          "4. Begreppet andraderivata. Metoder för att lösa extremvärdesproblem.",
+          "5. Begreppet polynom och egenskaper hos polynomfunktioner. Metoder för att lösa enklare polynomekvationer.",
+          "6. Begreppen primitiv funktion och bestämd integral. Sambandet mellan primitiv funktion och derivata.",
+          "7. Grafiska och digitala metoder för att bestämma integraler.",
+          "8. Motivering och hantering av metoder för att bestämma integraler för potens- och exponentialfunktioner samt summor av dessa.",
+          "9. Formulering och beräkning av integraler i enkla situationer.",
+          "10. Metoder för linjär optimering.",
+          "11. Begreppet geometrisk summa. Metoder för att bestämma geometriska summor."
+        ]
+      },
+      {
+        "title": "Problemlösning, verktyg och tillämpningar",
+        "rows": [
+          "1. Användning av digitala verktyg, även symbolhanterande, för att effektivisera beräkningar och komplettera metoder, till exempel vid ekvationslösning, derivering, integrering och hantering av algebraiska uttryck.",
+          "2. Problemlösning som omfattar begrepp och metoder i kursen, med särskild utgångspunkt i karaktärsämnen och samhällsliv.",
+          "3. Användning av programmering som verktyg vid problemlösning, databearbetning eller tillämpning av numeriska metoder.",
+          "4. Tillämpning och formulering av matematiska modeller i realistiska situationer. Utvärdering av matematiska modellers egenskaper och begränsningar.",
+          "5. Matematiska problem med anknytning till matematikens kulturhistoria."
+        ]
+      }
+    ]
+  }
 }

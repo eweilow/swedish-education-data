@@ -1,4 +1,22 @@
 {
   "name": "Programmering 1",
-  "code": "PRRPRR01"
+  "code": "PRRPRR01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Grundläggande programmering i ett eller flera programspråk varav minst ett av språken är textbaserat.",
+          "2. Programmering och dess olika användningsområden ur ett socialt perspektiv inklusive genus, kultur och socioekonomisk bakgrund.",
+          "3. Programmeringens möjligheter och begränsningar utifrån datorns funktionssätt.",
+          "4. Strukturerat arbetssätt för problemlösning och programmering.",
+          "5. Grundläggande kontrollstrukturer, konstruktioner och datatyper.",
+          "6. Arbetsmetoder för förebyggande av programmeringsfel, testning, felsökning och rättning av kod.",
+          "7. Grundläggande datastrukturer och algoritmer.",
+          "8. Gränssnitt för interaktion mellan program och användare.",
+          "9. Normer och värden inom programmering, till exempel läsbarhet, dokumentation, testbarhet, rena gränssnitt och nyttan av standard."
+        ]
+      }
+    ]
+  }
 }

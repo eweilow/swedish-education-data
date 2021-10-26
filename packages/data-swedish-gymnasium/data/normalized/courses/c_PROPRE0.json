@@ -1,4 +1,27 @@
 {
   "name": "Processreglering",
-  "code": "PROPRE0"
+  "code": "PROPRE0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Processreglering med distribuerade styrsystem.",
+          "2. Kontinuerlig och diskontinuerlig reglering med tidsproportionell utgång.",
+          "3. Reglering av flerkapacitiva processer.",
+          "4. Sammansatta reglersystem med framkoppling, internt och externt börvärde samt kvot- och kaskadreglering.",
+          "5. Multivariabla regleringar.",
+          "6. Parameterstyrning och adaptiv parameteruppdatering.",
+          "7. Reglering med oskarp logik (fuzzy logic).",
+          "8. Störningar i reglerprocessen, innefattande störtendenskompensering.",
+          "9. Laborativa konfigureringar av kontrollerande enheter och processanläggningar med optimeringsmetoder för process och parametrar.",
+          "10. Tolkning av anläggningsteknisk dokumentation, till exempel processcheman, plintscheman, tabeller, datablad, manualer och certifikat.",
+          "11. Dokumentation, till exempel regulatorinställningar.",
+          "12. Signalmätmetoder på automatiserade processanläggningar i drift.",
+          "13. Säkerhets-, energiförbruknings- och miljöaspekter vid processreglering, inklusive riskanalys, energioptimering och minimering av kemiska föroreningar.",
+          "14. Standarder och föreskrifter inom området, till exempel ATEX-direktiven."
+        ]
+      }
+    ]
+  }
 }

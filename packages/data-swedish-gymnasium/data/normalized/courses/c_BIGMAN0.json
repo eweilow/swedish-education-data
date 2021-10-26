@@ -1,4 +1,49 @@
 {
   "name": "Marken och växternas biologi",
-  "code": "BIGMAN0"
+  "code": "BIGMAN0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Mark, vatten och luft",
+        "rows": [
+          "1. Mark, mineral, berggrund, jordarter och jordmån.",
+          "2. Jordartsbildning och jordmånsbildande processer.",
+          "3. Jordarternas egenskaper.",
+          "4. Växtnäringsämnena och deras kretslopp.",
+          "5. Kolets kretslopp.",
+          "6. Markstruktur, markluft, dränering och markpackning.",
+          "7. Vattnets kretslopp, vattentillgångar och vattenmiljöer samt vattnets rörelser i marken och i landskapet.",
+          "8. Försurning i mark och vatten.",
+          "9. Klimat och väderlek."
+        ]
+      },
+      {
+        "title": "Växter",
+        "rows": [
+          "1. Olika växtarter i olika utvecklingsstadier.",
+          "2. Grundämnen och kemiska föreningar i växter.",
+          "3. Växternas byggnad innefattande växtcellen, växtvävnader och växtens olika organ.",
+          "4. Vattnet i växten, vattenupptagning och vattentransport.",
+          "5. Fotosyntes, andning och energiomsättning hos växter.",
+          "6. Växtnäringsämnen, växtnäringsupptagning och växtnäringsämnenas funktion i växten.",
+          "7. Växters utvecklingsstadier samt de yttre och inre faktorer som styr och påverkar utvecklingen.",
+          "8. Växters pollinering och spridning. Biodlingens betydelse för växternas pollinering.",
+          "9. Växters egenskaper och ärftlighet.",
+          "10. Växtskador och deras orsaker, till exempel skador som uppkommer av skadedjur eller väderlek."
+        ]
+      },
+      {
+        "title": "Mikrobiologi",
+        "rows": [
+          "1. Mikroorganismer, svampar, bakterier och övriga organismer av betydelse för markens näringsomsättning och kväveförsörjning.",
+          "2. Aeroba och anaeroba processer.",
+          "3. Mikroorganismer som är skadegörare på växter."
+        ]
+      }
+    ]
+  }
 }

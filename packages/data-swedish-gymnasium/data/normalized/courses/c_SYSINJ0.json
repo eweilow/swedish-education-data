@@ -1,4 +1,23 @@
 {
   "name": "Injusteringsteknik",
-  "code": "SYSINJ0"
+  "code": "SYSINJ0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Grundprinciper för pumpteknik, pumpdata och driftsätt för cirkulationspumpar, fläktar och ventiler.",
+          "2. Terminologi och begrepp samt funktioner hos komponenter inom reglerteknik.",
+          "3. Enheter och storheter som förekommer inom installations- och fastighetsbranscherna.",
+          "4. Metoder för att mäta tryck, temperatur, flöde och strömningshastighet i vatten och luft.",
+          "5. Mätinstrument för ändamålet.",
+          "6. Funktionstestning för att bedöma riktigheten i system i syfte att säkerställa funktionskrav.",
+          "7. Utrustning för att reglera temperaturer och flöden.",
+          "8. Inställning och idrifttagning av reglerkretsar.",
+          "9. Installationsregler, bygglagstiftning och arbetsmiljöregler för att uppfylla samhällets krav på energihushållning, hälsa och säkerhet.",
+          "10. Metoder för förbränningsanalys i värmepannor."
+        ]
+      }
+    ]
+  }
 }

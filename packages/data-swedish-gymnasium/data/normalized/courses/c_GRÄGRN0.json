@@ -1,4 +1,27 @@
 {
   "name": "Gränssnitt 3D",
-  "code": "GRÄGRN0"
+  "code": "GRÄGRN0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Begreppsbildning kring och användning av virtuell och förstärkt verklighet samt tjänster utformade efter geografisk kontext.",
+          "2. Genomförande av förstudier genom problemformulering utifrån kundönskemål, identifikation av målgrupper och typanvändare.",
+          "3. Undersökning av tekniska förutsättningar och formulering av målsättningar och framgångskriterier.",
+          "4. Genomförande av gränssnittsdesignprojekt med idégenerering, skisser, återkoppling till beställare, interaktiv prototyp, testning, dokumentation och överlämnande för implementering.",
+          "5. Datorstöd för projekthantering.",
+          "6. Utvecklingsverktyg för tredimensionell grafik.",
+          "7. Modellering och texturer.",
+          "8. Samverkan mellan tredimensionell användarmiljö, text och ljud.",
+          "9. Människa–datorinteraktion (HCI) samt användbarhet och tillgänglighet.",
+          "10. Metoder och teknik för navigation i tredimensionella miljöer.",
+          "11. Förflyttning genom tredimensionella miljöer och interaktion med tredimensionella objekt.",
+          "12. Datorsystem (ubicomp) och gränssnitt i vardagen.",
+          "13. Frågor som rör integritet och etik.",
+          "14. Lagar och andra bestämmelser inom området."
+        ]
+      }
+    ]
+  }
 }

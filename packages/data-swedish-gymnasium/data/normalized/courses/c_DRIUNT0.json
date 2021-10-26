@@ -1,4 +1,20 @@
 {
   "name": "Underhåll – transmissioner och uppriktning",
-  "code": "DRIUNT0"
+  "code": "DRIUNT0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Planering, utförande och dokumentation av förebyggande och avhjälpande underhåll av industriella drivsystem, till exempel transmissioner, växlar, variatorer samt kardan-, rem- och kedjedrifter.",
+          "2. Driv- och servokomponenter.",
+          "3. Grundläggande uppriktningsteknik.",
+          "4. Orsaker till och verkan av uppriktningsfel.",
+          "5. Montering och demontering av vanligt förekommande transmissionselement.",
+          "6. Föreskrifter om arbetsmiljö samt person- och maskinsäkerhet.",
+          "7. Underhållstekniska begrepp och parametrar."
+        ]
+      }
+    ]
+  }
 }

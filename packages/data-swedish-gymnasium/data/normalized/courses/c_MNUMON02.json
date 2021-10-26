@@ -1,4 +1,19 @@
 {
   "name": "Mönsterkonstruktion 2",
-  "code": "MNUMON02"
+  "code": "MNUMON02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Gradering. I samband med det behandlas internationella mönster- och storlekssystem.",
+          "2. Mönsterförändringar utifrån figuravvikelser.",
+          "3. Modellkonstruktion och modellutveckling utifrån tekniska plaggskisser.",
+          "4. Mönsterkonstruktion utifrån den färdiga produktens användningsområde samt estetiska och tekniska produktkrav.",
+          "5. Fackspråk för att kommunicera inom branschen och med kunder.",
+          "6. Ergonomiskt, säkert och arbetsmiljömässigt arbetssätt."
+        ]
+      }
+    ]
+  }
 }

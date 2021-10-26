@@ -1,4 +1,40 @@
 {
   "name": "Jakt och viltvård 2",
-  "code": "SKOJAK02"
+  "code": "SKOJAK02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Biologisk grund",
+        "rows": [
+          "1. Växtarter och djurarter i olika biotoper.",
+          "2. Viltvårdens samspel med biologisk mångfald och hållbar utveckling.",
+          "3. Viltskador samt deras ekonomiska betydelse och förebyggande åtgärder.",
+          "4. Jakthundar, lämpliga raser och träning av jakthundar.",
+          "5. Internationella förhållanden beträffande jakt och viltvård."
+        ]
+      },
+      {
+        "title": "Arbetsuppgifter",
+        "rows": [
+          "1. Utarbetande av viltvårdsplaner med beskrivning av åtgärder och arbetsuppgifter samt ekonomiska kalkyler.",
+          "2. Metoder för inventering av vilt.",
+          "3. Genomförande och utvärdering av planerade åtgärder.",
+          "4. Jaktledning och arbetsuppgifter i samband med jakt.",
+          "5. Användning av teknisk utrustning och hjälpmedel i samband med jakt och viltvård."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Arbetsmiljö, ergonomi och säkerhet i samband med jakt och viltvård.",
+          "2. Etiska ställningstaganden i samband med jakt och viltvård.",
+          "3. Lagar och andra bestämmelser i samband med jakt och viltvård, till exempel jaktlagstiftning och miljölagstiftning."
+        ]
+      }
+    ]
+  }
 }

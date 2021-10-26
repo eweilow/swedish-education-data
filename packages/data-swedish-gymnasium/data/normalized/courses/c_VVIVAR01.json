@@ -1,4 +1,25 @@
 {
   "name": "Värmeteknik 1",
-  "code": "VVIVAR01"
+  "code": "VVIVAR01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Anläggningar, system, apparater och komponenter för värme och komfortkyla samt deras uppbyggnad, funktion och säkerhet.",
+          "2. Planering och organisering av arbetsplatsen och arbetsuppgiften vid arbete med värmetekniska installationer.",
+          "3. Ritningar, arbetsbeskrivningar och monteringsanvisningar.",
+          "4. Montering och installation av vanligt förekommande värmeteknisk utrustning.",
+          "5. Grundläggande hantverksteknik med lämpliga verktyg och maskiner för material och förläggningssätt.",
+          "6. Fogningsteknik, till exempel lödfogar och mekaniska kopplingar.",
+          "7. Måttsättning för montering, isoleringsavstånd, avsättning och fogberedning.",
+          "8. Material i rör, komponenter och apparater.",
+          "9. Mekanisk påverkan i material vid montering och drift av installationer.",
+          "10. Täthetsprovning, kontroller och dokumentation enligt arbetsbeskrivning.",
+          "11. Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen.",
+          "12. Ergonomiskt riktigt arbetssätt."
+        ]
+      }
+    ]
+  }
 }

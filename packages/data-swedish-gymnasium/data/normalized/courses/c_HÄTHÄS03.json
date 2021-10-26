@@ -1,4 +1,21 @@
 {
   "name": "Hästkunskap 3",
-  "code": "HÄTHÄS03"
+  "code": "HÄTHÄS03",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Hygien och smittskyddsarbete i häststallar.",
+          "2. Arbete med hästar och utrustning för hästar inom ett specialområde, till exempel, trav, galopp, dressyr, hoppning, fälttävlan och stuteri.",
+          "3. Skötsel av stallar och anläggningar.",
+          "4. Planering av skötselrutiner och utfodringsrutiner i häststallar.",
+          "5. Etik i samband med hästhantering och hästskötsel.",
+          "6. Ergonomi, arbetsmiljö och säkerhet i samband med hästskötsel.",
+          "7. Lagar och andra bestämmelser i samband med hästskötsel.",
+          "8. Journalföring och rapportering."
+        ]
+      }
+    ]
+  }
 }

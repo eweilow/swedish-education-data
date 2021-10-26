@@ -1,4 +1,16 @@
 {
   "name": "Vattenkraftstationer",
-  "code": "VAEVAN0"
+  "code": "VAEVAN0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Vattenkraftstationers uppbyggnad, vilka faktorer som styr en vattenkraftstations utformning samt vattenkraftstationens funktion avseende energiomvandling till elkraftproduktion.",
+          "2. Vattenkraftstationers huvudkomponenter, till exempel vattenmagasin, dammar, vattenvägar, turbiner, generatorer, transformatorer och ställverk.",
+          "3. Kraftöverföringssystemets uppbyggnad och funktion."
+        ]
+      }
+    ]
+  }
 }

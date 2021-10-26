@@ -1,4 +1,26 @@
 {
   "name": "Ellära – spårfordon 2",
-  "code": "LLAELL02"
+  "code": "LLAELL02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Symmetrisk och osymmetrisk belastning.",
+          "2. TN-C-systemets och TN-S-systemets uppbyggnad, jordningsfunktioner och användning.",
+          "3. Resistiva, induktiva och kapacitiva kretsar i trefasnät.",
+          "4. Vagabonderande strömmars uppkomst och utbredning. Returströmmar vid spårdrift.",
+          "5. Filtrering, stabilisering och andra åtgärder för att minska ledningsburna störningar.",
+          "6. Trefassystemets uppbyggnad och funktion.",
+          "7. Mättekniker samt metoder för att analysera mätvärden, utföra felsökning och avhjälpa fel.",
+          "8. Standarder och bestämmelser för arbete med låg- och högspänning.",
+          "9. Kraftelektroniska utrustningar dess användning och funktion.",
+          "10. Ergonomiskt arbetssätt för att förebygga ohälsa och olycksfall.",
+          "11. Skyddsanordningars funktion och verkan, återledningsdon och sugtransformatorer.",
+          "12. ESA (elsäkerhetsanvisningar).",
+          "13. Relevant terminologi, funktionsbeskrivningar och säkerhetsbestämmelser."
+        ]
+      }
+    ]
+  }
 }

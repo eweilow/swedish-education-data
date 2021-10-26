@@ -1,4 +1,28 @@
 {
   "name": "Marinelektronik 1",
-  "code": "MAIMAR01"
+  "code": "MAIMAR01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Funktion och användningsområden för navigationsinstrument, till exempel logg, ekolod, GPS.",
+          "2. Egenskaper och arbetssätt hos resistorer, kondensatorer, spolar, dioder och transistorer.",
+          "3. Installation och driftsättning av enkla navigationsinstrument.",
+          "4. Montering och installationsteknik för givare och instrument.",
+          "5. Metoder för att undvika elektriska störningar.",
+          "6. Arbetsplanering. Val av metoder, verktyg och material.",
+          "7. Mätinstrument och digital utrustning.",
+          "8. Tolkning av installationsbeskrivningar och servicemanualer.",
+          "9. Schemaritningsteknik, symboler och funktioner.",
+          "10. Lödnings- och förbindningsteknik.",
+          "11. Mätteknik för krets- och komponentmätningar.",
+          "12. Yrkets fackspråk, termer och begrepp.",
+          "13. Krav på arbetsmiljö och säkerhet gällande elektroniska installationer i marin miljö.",
+          "14. Beräkningar av material- och tidsåtgång samt kostnader.",
+          "15. Dokumentation, presentation och utvärdering av resultat."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,27 @@
 {
   "name": "Fastighetsautomation 1",
-  "code": "FAIFAS01"
+  "code": "FAIFAS01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Grundläggande systemfunktioner, tekniska begrepp, beteckningar, symboler och enheter inom området värme och ventilation, till exempel luftbehandling, värmeväxlare, panna, varmvattenberedare, spjällmotor, radiatorslinga, tidkanal, fjärrvärme, varmvattencirkulation, shuntventil, expansionskärl, säkerhetsventil, närvarostyrning, koldioxidstyrning, datorhuvudcentral och datorundercentral.",
+          "2. Grundläggande systemfunktioner, tekniska begrepp, beteckningar, symboler och enheter inom området fastighetsstyrning, till exempel konstantljusreglering, kopplingsur, tidkanal, närvarostyrning, skymningsrelä, ljusrelä och ljussensor.",
+          "3. Vanligt förekommande informationstekniska standarder inom fastighetsautomation.",
+          "4. Vanligt förekommande automationsenheter och drifttekniskt övergripande system inom fastighetsautomation.",
+          "5. Vanligt förekommande systemlösningar för olika funktioner inom fastighetsautomation samt hur de kan integreras och samverka.",
+          "6. Utveckling och framtid inom fastighetsautomation.",
+          "7. Planering, installation, konfigurering, programmering och driftsättning av vanligt förekommande automatiseringar långt ut i fastigheter, till exempel belysning eller solavskärmning.",
+          "8. Behörigheter och sociala aspekter vid arbete i fastigheter, till exempel vilka arbeten som kräver vilken behörighet samt tolkning av kundkrav och översättning av dessa till en teknisk lösning.",
+          "9. Metoder för att mäta ljusstyrka och vindstyrka samt funktioner hos regnsensorer.",
+          "10. Vanligt förekommande spänningar och standardiserade analoga signaler i fastigheter.",
+          "11. Risker och säkerhet vid arbeten i fastigheter, till exempel brandrisker och risken att lösa ut brandlarm eller inbrottslarm.",
+          "12. Tolkning av kravspecifikationer och dokumentation.",
+          "13. Dokumentation av arbeten i fastigheter.",
+          "14. Förebyggande och avhjälpande underhåll inom fastighetsautomation."
+        ]
+      }
+    ]
+  }
 }

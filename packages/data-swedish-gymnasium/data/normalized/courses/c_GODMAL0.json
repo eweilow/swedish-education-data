@@ -1,4 +1,27 @@
 {
   "name": "Maskinell godshantering",
-  "code": "GODMAL0"
+  "code": "GODMAL0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Kapacitet hos lyftredskap.",
+          "2. Tillsatsaggregat och bakgavellyft.",
+          "3. Fraktdokument och godshandlingar.",
+          "4. Kapacitetsskyltar och märkning på truckar och maskiner.",
+          "5. Godsmärkning och symboler på gods som visar föraren hur godset ska hanteras, till exempel godstyngdpunkt, hanteras varsamt, denna sida upp, och slingas här.",
+          "6. Körning och manövrering av lättare truckar och maskiner, till exempel hjullastare.",
+          "7. Hantering och byte av redskap för olika användningsområden.",
+          "8. Lyftmetoder, staplingsmetoder och förankringsmetoder.",
+          "9. Uppställningsstabilitet och belastning vid lyftmoment för lastning och lossning av gods.",
+          "10. Tyngdpunktsberäkning för lastning, stapling och hantering av gods.",
+          "11. Lyftdiagram.",
+          "12. Hantering av olika typer av lastbärare, till exempel EUR-pallen, burar och IBC-behållare.",
+          "13. Aktivt arbete med säkerhetsrutiner.",
+          "14. Metoder och regler för teckengivning."
+        ]
+      }
+    ]
+  }
 }

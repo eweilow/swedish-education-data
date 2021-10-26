@@ -1,4 +1,24 @@
 {
   "name": "Arkitektur – hus",
-  "code": "ARKARK0"
+  "code": "ARKARK0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Arkitektur- och samhällsbyggnadshistoria, både nationellt och internationellt.",
+          "2. Den omgivande miljön och dess arkitektur.",
+          "3. Platsens förutsättningar, innefattande även den historiska och estetiska dimensionen, vid planering av nya byggnader.",
+          "4. Relevanta lagar och andra bestämmelser, planinstrument och handläggningsprocessen för den byggda miljön.",
+          "5. Ritningar, planer och modeller som används i byggplaneringsprocessen.",
+          "6. Gestaltning av byggnader.",
+          "7. Planering, avgränsning, genomförande och redovisning av arkitekturuppgifter.",
+          "8. Tekniker, verktyg och uttryckssätt för att beskriva och gestalta den byggda miljön och ge förslag till förändringar.",
+          "9. Digitala ritprogram, till exempel cad (computer aided design).",
+          "10. Sambanden mellan form, funktion och teknik.",
+          "11. Byggmaterial och hållbara byggtekniska lösningar samt enkel livscykelanalys."
+        ]
+      }
+    ]
+  }
 }

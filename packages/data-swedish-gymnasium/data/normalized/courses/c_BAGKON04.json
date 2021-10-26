@@ -1,4 +1,22 @@
 {
   "name": "Konditori 4",
-  "code": "BAGKON04"
+  "code": "BAGKON04",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Produktion av konditorivaror, utifrån beställning eller i befintlig verksamhet, med hänsyn tagen till drift, planering, rutiner, tempo, organisation och ekonomi.",
+          "2. Metoder, redskap, maskiner och annan utrustning som används vid produktion av konditoriprodukter.",
+          "3. Produktion av konditoriprodukter, utifrån branschens krav på kvantitet och kvalitet.",
+          "4. Ekonomiska kalkyler som är lämpliga för ändamålet.",
+          "5. Råvaror och andra ingredienser som är lämpliga för ändamålet.",
+          "6. Paketering och märkning av konditoriprodukter.",
+          "7. Hygien och hygienbestämmelser.",
+          "8. Ergonomi och ergonomiska riskfaktorer i arbetet.",
+          "9. Arbetsmiljö och säkerhet."
+        ]
+      }
+    ]
+  }
 }

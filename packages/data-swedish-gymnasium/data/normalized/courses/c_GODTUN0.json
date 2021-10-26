@@ -1,4 +1,23 @@
 {
   "name": "Tunga arbetsmaskiner",
-  "code": "GODTUN0"
+  "code": "GODTUN0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Fraktdokument och godshandlingar.",
+          "2. Godsmärkning och symboler på gods som visar föraren hur godset ska hanteras, till exempel godstyngdpunkt, hanteras varsamt, denna sida upp och slingas här.",
+          "3. Särskilda risker förknippade med tunga arbetsmaskiner.",
+          "4. Metoder och regler för teckengivning och radiodirigering vid till exempel lyft där föraren själv inte ser hela arbetsområdet.",
+          "5. Körning och manövrering av tunga truckar och maskiner som används vid godshantering, till exempel tung motviktstruck, containertruck och timmertruck.",
+          "6. Hantering och byte av redskap för olika användningsområden.",
+          "7. Lyftmetoder, staplingsmetoder och förankringsmetoder för containrar, trailrar och flak.",
+          "8. Tyngdpunktsberäkning för lastning, stapling och hantering av gods.",
+          "9. Stabilitet och marktrycksbegränsningar vid hantering av tungt gods.",
+          "10. Aktivt arbete med säkerhetsrutiner."
+        ]
+      }
+    ]
+  }
 }

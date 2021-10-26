@@ -1,4 +1,21 @@
 {
   "name": "Datorstyrd produktion 4",
-  "code": "DARDAT04"
+  "code": "DARDAT04",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Programmering och operatörsarbete med utrustning för komplettbearbetning.",
+          "2. 3D-bearbetning och programmering för bearbetning av ytor med oregelbundna former.",
+          "3. Operatörsarbete i datorstyrd utrustning för komplettbearbetning.",
+          "4. Bearbetning med programmerbara uppspänningsutrustningar.",
+          "5. Felsökning och systematiskt underhåll.",
+          "6. Påverkan på produktionsekonomi med koppling till val av utrustning, verktyg och teknik.",
+          "7. Föreskrifter för arbetsmiljö samt person- och maskinsäkerhet.",
+          "8. Kontroll, bedömning och dokumentation av kvaliteten på utfört arbete."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,24 @@
 {
   "name": "Styckning 1",
-  "code": "STCSTY01"
+  "code": "STCSTY01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Djurens anatomi. Alla i branschen vanligt förekommande djurslag.",
+          "2. Styckningsdetaljernas anatomi och användningsområden.",
+          "3. Klassificering och kvalitetsbedömning av djurkroppar.",
+          "4. Hantering och förvaring av råvaror.",
+          "5. Styckning, nedskärning och sortering av främst gris, lamm, kalv och nöt.",
+          "6. Enkla styckningskalkyler.",
+          "7. Användning och vård av handverktyg och maskiner inom styckningsindustrin.",
+          "8. Förpackningsmaterial, paketering och märkning.",
+          "9. Ergonomi och riskfaktorer i arbetet.",
+          "10. Arbetsmiljö och säkerhet.",
+          "11. Hygien och egenkontroll."
+        ]
+      }
+    ]
+  }
 }

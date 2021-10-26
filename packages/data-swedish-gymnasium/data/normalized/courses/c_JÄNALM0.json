@@ -1,4 +1,20 @@
 {
   "name": "Allmän järnvägsteknik",
-  "code": "JÄNALM0"
+  "code": "JÄNALM0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Uppbyggnad och funktion av teknik- och anläggningssystem inom järnvägsbranschen.",
+          "2. Föreskrifter om heta arbeten.",
+          "3. Avstängning av vägar samt regelverket kring säkerhet på väg.",
+          "4. Vistelse i spårmiljö.",
+          "5. Arbete med spänning.",
+          "6. Rutiner för olyckshantering inom järnvägsbranschen.",
+          "7. Hjärt-lungräddning."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,19 @@
 {
   "name": "Riktbänkssystem",
-  "code": "KARRIK0"
+  "code": "KARRIK0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Riktbänkssystems konstruktion och funktion samt olika riktbänkssystem med tillhörande mätsystem.",
+          "2. Reparation och byte av olika chassi- och karosserikomponenter med användning av riktbänksutrustningens olika gigg- och mätsystem.",
+          "3. Bedömning av skador för val av reparationsmetod utifrån olika typer av chassi- och karosserikonstruktioner.",
+          "4. Metoder för måttriktning med hjälp av riktbänksutrustning och lös hydraulik.",
+          "5. Riktbänkstillverkarens fordonsdatabas och biltillverkarens anvisningar och krav.",
+          "6. Säkerhet på arbetsplatsen, förebyggande av person- och egendomsskador samt regler som gäller för riktbänksarbetet."
+        ]
+      }
+    ]
+  }
 }

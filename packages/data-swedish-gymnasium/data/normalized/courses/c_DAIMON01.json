@@ -1,4 +1,19 @@
 {
   "name": "Datoriserad mönsterhantering 1",
-  "code": "DAIMON01"
+  "code": "DAIMON01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Gradering. I samband med det behandlas koordinatsystemets uppbyggnad.",
+          "2. Enkel grundkonstruktion.",
+          "3. Mönsterförändringar utifrån grundmallar.",
+          "4. Modellsammanställningar och läggbilder.",
+          "5. Fackspråk för att förstå och använda instruktioner och tekniska beskrivningar, till exempel manualer.",
+          "6. Ergonomiskt, säkert och arbetsmiljömässigt arbetssätt."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,20 @@
 {
   "name": "Gehörs- och musiklära 1",
-  "code": "MUIGEH01"
+  "code": "MUIGEH01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Musiklära med föredragsbeteckningar, skalor, intervall, notation, notationspraxis, ackord och harmonisering.",
+          "2. Grundläggande musikteoretiska begrepp i en eller flera genrer samt jämförelse av de olika genrernas musikteoretiska begrepp.",
+          "3. Gehörsträning av puls, rytm, melodi, harmoni och form.",
+          "4. Grundläggande satslära och harmonisk analys.",
+          "5. Notering av klingande musik.",
+          "6. A prima vista-träning.",
+          "7. Aktivt lyssnande och diskussion om musikframförande."
+        ]
+      }
+    ]
+  }
 }

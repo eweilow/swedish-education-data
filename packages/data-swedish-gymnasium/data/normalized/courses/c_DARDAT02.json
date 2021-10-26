@@ -1,4 +1,21 @@
 {
   "name": "Datorstyrd produktion 2",
-  "code": "DARDAT02"
+  "code": "DARDAT02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Planering av och programmering för produktion i datorstyrd utrustning.",
+          "2. Tolkning och överföring av tillverkningsunderlag och ritningar till utrustning genom manuell programmering och med dialogbaserat programmeringsstöd.",
+          "3. Programmeringsstöd, till exempel cykler, subprogram och konturprogrammering.",
+          "4. Justeringar i program och maskininställningar.",
+          "5. Val av utrustning, verktyg och metod för att uppnå rätt kvalitet på tillverkade produkter.",
+          "6. Felsökning och systematiskt underhåll.",
+          "7. Föreskrifter för arbetsmiljö samt person- och maskinsäkerhet.",
+          "8. Kontroll, bedömning och dokumentation av kvaliteten på utfört arbete."
+        ]
+      }
+    ]
+  }
 }

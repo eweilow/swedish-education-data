@@ -1,4 +1,21 @@
 {
   "name": "Administration 1",
-  "code": "ADMADM01"
+  "code": "ADMADM01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Grundläggande administrativa arbetsrutiner, till exempel diarieföring, arkivering och postrutiner samt dokument- och skrivregler, till exempel allmänna och sekretessbelagda handlingar.",
+          "2. Administrativa funktioner, till exempel ekonomi, material, personal, information och kommunikation.",
+          "3. Handelsdokument, till exempel order, faktura och dokument för inköp och lagerhantering. Begrepp inom området, till exempel blankett, mall och brev.",
+          "4. Organisation och arbetsformer i företag, till exempel hur ansvar och uppgifter fördelas i en organisation, hur ett organisationsschema upprättas, hur olika arbetsformer, projekt- och distansarbete kan tillämpas.",
+          "5. Offentlig förvaltning samt företags och organisationers uppbyggnad och verksamhet.",
+          "6. Grundläggande programvaror för administration.",
+          "7. Planering och organisation av det administrativa arbetet, till exempel att handlägga ett ärende eller anordna möten, konferenser och event, enskilt eller tillsammans med andra. Presentation av ett företags interna och externa information.",
+          "8. Lagar och andra bestämmelser inom området, till exempel arbetsrätt och arkivlagen."
+        ]
+      }
+    ]
+  }
 }

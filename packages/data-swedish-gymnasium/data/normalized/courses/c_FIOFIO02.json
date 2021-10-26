@@ -1,4 +1,19 @@
 {
   "name": "Filosofi 2",
-  "code": "FIOFIO02"
+  "code": "FIOFIO02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Klassiska frågor, teorier och ställningstaganden, dels vad gäller verklighetsuppfattningar som behandlar frågor om verklighetens natur och människans existens, dels inom kunskapsteori som behandlar frågor om kunskapens ursprung, räckvidd och giltighet samt om yttervärldens existens.",
+          "2. Vetenskapsteoretiska frågor och problem som berör olika filosofers och riktningars syn på vad som är god vetenskap.",
+          "3. Värdefilosofisk fördjupning, dels vad gäller tillämpad normativ etik med särskild inriktning på analys, tillämpning och ställningstaganden i olika fall eller dilemman i privatliv, samhällsliv, kulturliv och vetenskap, dels inom estetiska teorier som handlar om det sköna.",
+          "4. Samhällsfilosofisk fördjupning, till exempel utopiskt tänkande, med utgångspunkt i begreppen rättvisa, frihet, makt och inflytande samt filosofernas behandling av begreppen i olika tider och traditioner.",
+          "5. Grundläggande redskap för logisk analys.",
+          "6. Fördjupning i vald filosofisk fråga."
+        ]
+      }
+    ]
+  }
 }

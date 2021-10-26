@@ -1,4 +1,21 @@
 {
   "name": "Avhjälpande underhåll 1",
-  "code": "DRIAVH01"
+  "code": "DRIAVH01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Enklare avhjälpande underhåll på maskiner och utrustningar.",
+          "2. Planering för och genomförande av avhjälpande underhåll med hjälp av ritningar, scheman och manualer.",
+          "3. Föreskrifter om arbetsmiljö samt person- och maskinsäkerhet.",
+          "4. Lagar och bestämmelser om till exempel lyftdon, tryckkärl, heta arbeten, kemikalier och gaser.",
+          "5. Grundläggande underhållstekniska begrepp och parametrar.",
+          "6. Grundläggande metoder och tekniker för felsökning och reparation.",
+          "7. Maskinelement och deras användningsområden samt material och verktygslära.",
+          "8. Momentdragning."
+        ]
+      }
+    ]
+  }
 }

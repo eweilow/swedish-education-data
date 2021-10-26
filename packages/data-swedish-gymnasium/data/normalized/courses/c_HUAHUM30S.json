@@ -1,4 +1,18 @@
 {
   "name": "Humanistisk och samhällsvetenskaplig spets",
-  "code": "HUAHUM30S"
+  "code": "HUAHUM30S",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Specialisering inom ett väl avgränsat kunskapsområde inom ramen för spetsutbildningen.",
+          "2. Vetenskapliga begrepp, teorier, modeller och metoder som är relevanta för kunskapsområdet.",
+          "3. Källkritisk metod inom kunskapsområdet. Granskning, tolkning och värdering av information från olika medier och källor.",
+          "4. Någon praktisk tillämpning av kunskaper inom området, till exempel i samarbete med institutioner och organisationer i det omgivande samhället eller i form av till exempel fältstudier, rollspel och undersökningar.",
+          "5. Uttrycks- och presentationsformer som är relevanta för kunskapsområdet och för humaniora eller samhällsvetenskap i allmänhet, till exempel debattartiklar, muntliga framställningar, utställningar och vetenskapliga rapporter. Anpassning till syfte, mottagare och situation."
+        ]
+      }
+    ]
+  }
 }

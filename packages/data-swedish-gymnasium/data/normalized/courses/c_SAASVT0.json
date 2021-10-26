@@ -1,4 +1,21 @@
 {
   "name": "Svets grund",
-  "code": "SAASVT0"
+  "code": "SAASVT0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Vanliga svetsmetoder för svetsning i kälfogar och stumsvetsar i enkla svetslägen.",
+          "2. Svetsning och lödning med oxygen och acetylen.",
+          "3. Skärande i metalliska material med termisk utrustning.",
+          "4. Enklare tillverkningsunderlag för lödning och svetsning.",
+          "5. Utrustningens funktion och användningsområden samt säkerhetsanordningar.",
+          "6. Lagar och andra bestämmelser om arbetsmiljö, systematiskt arbetsmiljöarbete samt säkerhetsföreskrifter. Betydelsen av dessa för organisation och genomförande av det egna arbetet.",
+          "7. Metoder för reparation av enkla fel som uppstått under sammanfogningen.",
+          "8. Standarder för kvalitetsbedömning av sammanfogning."
+        ]
+      }
+    ]
+  }
 }

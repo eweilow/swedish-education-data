@@ -1,4 +1,19 @@
 {
   "name": "Skogsskötsel – specialisering",
-  "code": "SKGSKG00S"
+  "code": "SKGSKG00S",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Särskilda krav inom skogsbruket, till exempel hänsyn till naturvärden, kulturvärden och sociala värden.",
+          "2. Planering och genomförande av arbetsuppgifter inom valt specialområde inom skogsbruk, till exempel ädellövskog, produktion av skogsbränsle, urskogsliknande skogar, fjällskogar, skärgårdsskogar eller tätortsnära skogar.",
+          "3. Ekonomiska beräkningar och kalkyler för verksamheten.",
+          "4. Ergonomi, arbetsmiljö och säkerhet i samband med det valda specialområdet.",
+          "5. Certifieringssystem inom valt specialområde.",
+          "6. Lagar och andra bestämmelser, till exempel skogsvårdslagen."
+        ]
+      }
+    ]
+  }
 }

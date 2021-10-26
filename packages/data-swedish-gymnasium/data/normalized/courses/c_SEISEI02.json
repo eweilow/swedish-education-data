@@ -1,4 +1,44 @@
 {
   "name": "Serviceteknik – naturbruk 2",
-  "code": "SEISEI02"
+  "code": "SEISEI02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Teknisk grund",
+        "rows": [
+          "1. Komponenters konstruktion och funktion.",
+          "2. Konstruktionsteknik och hållfasthet.",
+          "3. Kontroll- och styrsystem, till exempel mekaniska, elektriska, hydrauliska och trådlösa system samt servomanöversystem.",
+          "4. Digitala informationssystem.",
+          "5. Verkstadsteknisk utrustning.",
+          "6. Kostnadseffektivt arbetssätt."
+        ]
+      },
+      {
+        "title": "Underhållsplanering samt arbete med teknisk utrustning",
+        "rows": [
+          "1. Upprättande av service- och reparationsplaner för teknisk utrustning.",
+          "2. Användning av felsökningsscheman, symbolscheman och sprängbilder för att genomföra funktionskontroll och felsökning.",
+          "3. Användning av handböcker och manualer på svenska och engelska samt användning av digital utrustning.",
+          "4. Val av arbetsmetoder, verktyg och annan utrustning.",
+          "5. Bedömning av service-, underhålls- och reparationsbehov.",
+          "6. Användning av svetsutrustning.",
+          "7. Testning för bedömning av funktion och användbarhet."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Funktionskontroll och säkerhetskontroll i samband med användning av verkstadsmaskiner och teknisk utrustning.",
+          "2. Brandförebyggande åtgärder.",
+          "3. Ergonomi och arbetsmiljö i samband med genomförande av olika arbetsuppgifter.",
+          "4. Lagar och andra bestämmelser, till exempel miljölagstiftning och arbetsmiljölagstiftning."
+        ]
+      }
+    ]
+  }
 }

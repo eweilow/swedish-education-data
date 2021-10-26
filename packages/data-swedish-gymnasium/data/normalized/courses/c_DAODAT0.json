@@ -1,4 +1,22 @@
 {
   "name": "Datorsamordning och support",
-  "code": "DAODAT0"
+  "code": "DAODAT0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Grundläggande felsökningsmetodik.",
+          "2. Systemintegration.",
+          "3. Teknisk dokumentation av datorsystem.",
+          "4. Kundmottagning och ärendehantering, till exempel muntlig kundmottagning, kundmottagning med e-post och andra typer av ärendehanteringssystem.",
+          "5. Analysera användarkrav och översätta dem till konkreta lösningar.",
+          "6. Pedagogisk handledning av it-system. Det pedagogiska tankesättet och kunskaper om tekniker för pedagogisk handledning, till exempel fjärrstyrning av muspekare.",
+          "7. Licenstyper och licenshantering.",
+          "8. Utvärdering och val av it-produkter på marknaden i dagsläget.",
+          "9. Manualer och annan hjälpdokumentation för användare, till exempel enkel text, hypertext, bilder, filmer, inspelade musrörelser och menyhantering."
+        ]
+      }
+    ]
+  }
 }

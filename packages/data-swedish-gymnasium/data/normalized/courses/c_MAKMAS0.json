@@ -1,4 +1,18 @@
 {
   "name": "Maskinbefäl",
-  "code": "MAKMAS0"
+  "code": "MAKMAS0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Drift och underhåll.",
+          "2. Maskinteknik: förbränningsmotorer, förbränning, bränslen och smörjmedel, fartygets framdrivning, hydraulik och däcksmaskineri, kylvattensystem, smörjoljesystem, bränslesystem, läns- och barlastsystem, startsystem och ångsystem.",
+          "3. Ellära.",
+          "4. Styr- och reglerteknik.",
+          "5. Kunskaper om lagar och andra bestämmelser som styr verksamheten."
+        ]
+      }
+    ]
+  }
 }

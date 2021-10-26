@@ -1,4 +1,24 @@
 {
   "name": "Industrirörteknik 1",
-  "code": "INDIND01"
+  "code": "INDIND01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. System i industriröranläggningar och övriga branschspecifika anläggningar för värme- och tryckbärande utrustning. Systemens uppbyggnad och funktion samt miljökrav och krav som ställs på deras hållfasthet.",
+          "2. Hur planering och organisering av arbetsplatsen och arbetsuppgiften genomförs. Hur montageplanering genomförs.",
+          "3. Ritningar, arbetsbeskrivningar och monteringsanvisningar.",
+          "4. Grundläggande rörarbete: tillkapning, skärning, sågning och fasning.",
+          "5. Måttsättning och beräkning av bygglängder.",
+          "6. Hjälpmedel och metoder för att fixera rörändar.",
+          "7. Verktyg. Maskiner för kapning och fasning samt andra maskiner. Lyftanordningar och utrustning för transporter samt krav som ställs vid lyft och transporter.",
+          "8. Medier i rörsystem, hur de påverkar hållfasthet och konstruktionens livslängd samt vilka krav som ställs vid nyinstallation och demontering av rörledningar och behållare.",
+          "9. Kontroll och bedömning av utförandet samt dokumentation av utförda åtgärder.",
+          "10. Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen.",
+          "11. Ergonomiskt riktigt arbetssätt."
+        ]
+      }
+    ]
+  }
 }

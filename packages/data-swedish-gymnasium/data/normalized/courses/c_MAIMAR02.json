@@ -1,4 +1,30 @@
 {
   "name": "Marinelektronik 2",
-  "code": "MAIMAR02"
+  "code": "MAIMAR02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Funktion och användningsområden för mer avancerad navigationsutrustning, till exempel multifunktionsdisplayer, autopilot, radar och AIS.",
+          "2. Marina audio- och videosystem.",
+          "3. Uppbyggnad av PLC och PC-baserade system i marina miljöer.",
+          "4. Binära talsystem.",
+          "5. Analoga och digitala system.",
+          "6. Radio och övriga kommunikationssystem. Montage av olika typer av antenner för till exempel radio och satellit.",
+          "7. Planering för och genomförande av sammankoppling mellan olika systemplattformar eller fabrikat.",
+          "8. Installation, programmering och driftsättning av marina elektroniksystem.",
+          "9. Mätteknik och mätinstrument.",
+          "10. Metoder för systematisk felsökning och reparation.",
+          "11. Användande av diagnossystem.",
+          "12. Tolkning av installationsbeskrivningar och servicemanualer.",
+          "13. Upprättande av installationsritningar för navigationsutrustningar.",
+          "14. Yrkets fackspråk, termer och begrepp.",
+          "15. Material, arbetsmiljö och de regelverk och styrdokument som gäller vid arbete och hantering av elektroniksystem i fritidsbåtar.",
+          "16. Beräkningar av material- och tidsåtgång samt kostnader.",
+          "17. Dokumentation, presentation och utvärdering av arbete."
+        ]
+      }
+    ]
+  }
 }

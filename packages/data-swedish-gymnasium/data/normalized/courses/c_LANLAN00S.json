@@ -1,4 +1,25 @@
 {
   "name": "Lantbruksdjur – specialisering",
-  "code": "LANLAN00S"
+  "code": "LANLAN00S",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Foderhanteringssystem.",
+          "2. Produktionssystem.",
+          "3. Produktionsstörningar.",
+          "4. Kvalitetssäkring och livsmedelssäkerhet i produktionen.",
+          "5. Användning av digitala system, till exempel styrsystem, kontrollsystem och rapporteringssystem.",
+          "6. Planering och genomförande av fortplantningsrutiner.",
+          "7. Arbetsplanering i djurstallar.",
+          "8. Upprättande av produktionsplaner och ekonomiska kalkyler.",
+          "9. Arbete med djur inom ett specialområde, till exempel mjölkkor eller grisar.",
+          "10. Inredning och stallbyggnader.",
+          "11. Ergonomi, arbetsmiljö och säkerhet i samband med djurskötsel.",
+          "12. Lagar och andra bestämmelser i samband med djurskötsel."
+        ]
+      }
+    ]
+  }
 }

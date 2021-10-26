@@ -1,4 +1,21 @@
 {
   "name": "Konditori 2",
-  "code": "BAGKON02"
+  "code": "BAGKON02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Tillverkning av avancerade konditoriprodukter med olika tillverkningsmetoder och tekniker.",
+          "2. Metoder, redskap, maskiner och annan utrustning som används vid tillverkning av konditoriprodukter.",
+          "3. Tillverkning av avancerade konditoriprodukter utifrån smak, utseende, trend och tradition samt bestämning av produktens pris och kvalitet utifrån ekonomiska kalkyler.",
+          "4. Råvaror och andra ingredienser som är lämpliga för ändamålet.",
+          "5. Paketering och märkning av konditoriprodukter.",
+          "6. Hygien och hygienbestämmelser.",
+          "7. Ergonomi och ergonomiska riskfaktorer i arbetet.",
+          "8. Arbetsmiljö och säkerhet."
+        ]
+      }
+    ]
+  }
 }

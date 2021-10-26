@@ -1,4 +1,43 @@
 {
   "name": "Sällskapsdjur 1",
-  "code": "DJUSÄL01"
+  "code": "DJUSÄL01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Biologisk grund",
+        "rows": [
+          "1. Identifiering och namngivning av ett begränsat antal djurarter med vetenskapliga och yrkesmässiga termer.",
+          "2. Sällskapsdjurens historik och betydelse för människan.",
+          "3. Djurarternas naturliga beteenden och naturliga livsmiljö. Arternas egenskaper och särskilda behov.",
+          "4. Djurarternas olika vistelsemiljöer vad gäller till exempel temperatur, ljus, bomaterial och tillgång på vatten.",
+          "5. Rutiner för att upptäcka beteendeförändringar hos sällskapsdjur. Orsaker till beteendeförändringar som följd av skador och sjukdomar.",
+          "6. Vanliga sjukdomar och förebyggande hälsovård samt vård av sjuka djur."
+        ]
+      },
+      {
+        "title": "Arbetsuppgifter och utrustning",
+        "rows": [
+          "1. Daglig skötsel av olika sällskapsdjur vad gäller till exempel utfodring, tillsyn, kontroll av utrustning och rengöring.",
+          "2. Hantering av vanligt förekommande sällskapsdjur.",
+          "3. Återkommande rutinåtgärder, till exempel visitation, hälsokontroll, pälsvård och kloklippning.",
+          "4. Hantering av djurfoder.",
+          "5. Olika typer av vistelseutrymmen, till exempel hundgårdar, hundboxar, burar, akvarier, terrarier och bolådor samt djurens behov, vistelseutrymmens utformning och materialval.",
+          "6. Strömedel, till exempel kutterspån, torv och halm.",
+          "7. Skötsel och underhåll av vistelseutrymmen.",
+          "8. Underhåll, skötsel och hantering av aktuell teknisk utrustning."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Ergonomi, arbetsmiljö och säkerhet i samband med arbete med sällskapsdjur.",
+          "2. Lagar och andra bestämmelser i samband med arbete med sällskapsdjur."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,19 @@
 {
   "name": "Cad 2",
-  "code": "CADCAD02"
+  "code": "CADCAD02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Cad-systemets inställningar för sammanställningar och analys.",
+          "2. Skiss- och ritteknik inom valt teknikområde.",
+          "3. Ritningsunderlag enligt gällande standarder och normer för valt teknikområde.",
+          "4. Grunderna för att skapa sammanställningar i tre dimensioner med beaktande av konstruktionsvillkor.",
+          "5. Grundläggande applikationer beroende på teknikområde, till exempel FEM-analys (finita elementmetoden) inom produktutveckling och byggteknik.",
+          "6. Cad-systemets roll i produktutvecklings- och produktionsprocessen."
+        ]
+      }
+    ]
+  }
 }

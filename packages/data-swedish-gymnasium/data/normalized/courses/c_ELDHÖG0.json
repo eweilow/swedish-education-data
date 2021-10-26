@@ -1,4 +1,33 @@
 {
   "name": "Högspänningsnät",
-  "code": "ELDHÖG0"
+  "code": "ELDHÖG0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Nätstationer i luftledningsnät och kabelnät.",
+          "2. Kablar och komponenter för jordkabelnät.",
+          "3. Nybyggnad och ombyggnad, driftsättning, underhåll samt reparation av högspänningsnät.",
+          "4. Luftledningsnät och jordkabelnät för högspänning.",
+          "5. Kabelnätarbete samt tillverkning av skarvar och ändavslut.",
+          "6. Stolparbete, stolpresning och stagförankring.",
+          "7. Riggning och lindragning.",
+          "8. Najning och skarvning av friledning.",
+          "9. Underhåll och besiktning.",
+          "10. Byggnadssätt, föreskrifter och standarder, till exempel elbyggnadsrationalisering (EBR).",
+          "11. Säkerhetsföreskrifter och arbetsmiljöföreskrifter.",
+          "12. Elsäkerhetsanvisningarna (ESA).",
+          "13. Linjescheman och kartor.",
+          "14. Dokument för bevisväxling.",
+          "15. Verktyg, maskiner och annan utrustning.",
+          "16. Mätinstrument och mättekniker inom området.",
+          "17. Säkerhet och ergonomi. Driftsäkerhet. Skyddskläder och säkerhetsutrustningar.",
+          "18. Nedtagning av nödställd.",
+          "19. Kommunikation med arbetsledning och medarbetare.",
+          "20. Spänningsprovning och arbetsjordning."
+        ]
+      }
+    ]
+  }
 }

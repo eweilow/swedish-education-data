@@ -1,4 +1,21 @@
 {
   "name": "Rit- och mätningsteknik",
-  "code": "BYPRIT0"
+  "code": "BYPRIT0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Geodesins grundbegrepp, till exempel satellitmätning, kartprojektioner, stomnät, transformationer, plan- och höjdmätning.",
+          "2. Praktisk utsättning och inmätning av byggnader, vägar och anläggningar.",
+          "3. Bygg- och utsättningstoleranser.",
+          "4. Felteori och toleranskrav inom bygg- och anläggningsbranschen.",
+          "5. Begrepp som används inom kunskapsområdet, till exempel kartprojektion, två- och tredimensionella system, höjdsystem, höjdmätning, planmätning, polygontåg, areaberäkning, utsättning, geoiden, landhöjning, fukthalt, fuktkvot, ljudnivå, ljuddämpning, temperatur och värmemotstånd.",
+          "6. Beskrivningsteknik. Slutproduktens beskrivning innefattande rambeskrivning, byggbeskrivning, rumsbeskrivning och markbeskrivning kopplat till AMA-systemet (allmän material- och arbetsbeskrivning).",
+          "7. Administrativa förutsättningar för ett bygg- eller anläggningsprojekt enligt AF-AMA (administrativa föreskrifter-allmän material- och arbetsbeskrivning).",
+          "8. Ritteknik i cad och ritningsläsning – bygg, el, vvs."
+        ]
+      }
+    ]
+  }
 }

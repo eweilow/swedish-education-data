@@ -1,4 +1,20 @@
 {
   "name": "Cad 1",
-  "code": "CADCAD01"
+  "code": "CADCAD01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Cad-system och begrepp inom cad.",
+          "2. Cad-systemets inställningar för modellering.",
+          "3. Grundläggande skiss- och ritteknik inom valt teknikområde.",
+          "4. Ritningsunderlag enligt gällande standarder och normer för valt teknikområde.",
+          "5. Solidmodellering i tre dimensioner för att avbilda verkliga och tänkta föremål, till exempel genom extrudering, rotation, svepning och återanvändning av geometri för att skapa mönster.",
+          "6. Cad-systemets roll i produktutvecklings- och produktionsprocessen.",
+          "7. Ergonomiska krav på cad-arbetsplatser och arbetsmiljökrav."
+        ]
+      }
+    ]
+  }
 }

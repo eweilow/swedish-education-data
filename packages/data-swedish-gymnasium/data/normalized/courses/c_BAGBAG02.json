@@ -1,4 +1,23 @@
 {
   "name": "Bageri 2",
-  "code": "BAGBAG02"
+  "code": "BAGBAG02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Tillverkning av avancerade bröd och bakverk, matbröd med blötläggning, skållning och surdeg i olika uppslagningstekniker samt avancerade kaffebrödsdegar och kavlade degar, småbröd, massor och fyllningar.",
+          "2. Jäs- och avbakningsmoment.",
+          "3. Metoder, redskap, maskiner och annan utrustning som används vid tillverkning av avancerade bröd och bakverk.",
+          "4. Tillverkning av produkter utifrån smak, utseende, trend och tradition samt bestämning av produktens pris och kvalitet utifrån ekonomiska kalkyler.",
+          "5. Receptberäkningar.",
+          "6. Råvaror och andra ingredienser som är lämpliga för ändamålet.",
+          "7. Paketering och märkning av bröd och bakverk.",
+          "8. Hygien och hygienbestämmelser.",
+          "9. Ergonomi och ergonomiska riskfaktorer i arbetet.",
+          "10. Arbetsmiljö och säkerhet."
+        ]
+      }
+    ]
+  }
 }

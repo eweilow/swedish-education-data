@@ -1,4 +1,44 @@
 {
   "name": "Biodling",
-  "code": "BINBIO0"
+  "code": "BINBIO0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Biologisk och ekonomisk grund",
+        "rows": [
+          "1. Bins fysiologi och utveckling från ägg till fullbildade insekter.",
+          "2. Avel med raser och raskombinationer av bin samt drottningodling.",
+          "3. Bisjukdomar och parasiter.",
+          "4. Bins ekologiska betydelse och deras roll som pollinatörer.",
+          "5. Bins beteende i olika miljöer och situationer samt bisamhällets individer och uppbyggnad.",
+          "6. Bins näringsbehov och vanliga biväxter.",
+          "7. Biodlingens produkter, till exempel honung, vax, pollen och drottninggelé.",
+          "8. Biodlingens ekonomiska förutsättningar. Ekonomiska kalkyler för biodling."
+        ]
+      },
+      {
+        "title": "Arbetsuppgifter",
+        "rows": [
+          "1. Vanligt förekommande arbetsuppgifter i en bigård, till exempel tillsyn och hantering av bin, utfodring.",
+          "2. Bitillsyn och förebyggande åtgärder mot sjukdomar.",
+          "3. Tillverkning av utrustning för biodling.",
+          "4. Hantering av honung efter skörd.",
+          "5. Dokumentation av åtgärder i en bigård.",
+          "6. Hygien och hygienrutiner, till exempel rengöring av lokaler och utrustning."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Ergonomi, arbetsmiljö och säkerhet i samband med biodling.",
+          "2. Hygienpraxis och egenkontroll.",
+          "3. Lagar och andra bestämmelser som rör biodling och livsmedelshantering."
+        ]
+      }
+    ]
+  }
 }

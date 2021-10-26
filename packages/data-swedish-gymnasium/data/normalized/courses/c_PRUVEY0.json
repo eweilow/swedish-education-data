@@ -1,4 +1,21 @@
 {
   "name": "Verktygskunskap",
-  "code": "PRUVEY0"
+  "code": "PRUVEY0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Hantering, vård och användning av verktyg, maskiner och utrustning för tillverkning av verktyg, till exempel för gjutning, pressning, klippning, bockning, uppspänning och montering.",
+          "2. Funktion och konstruktion hos verktyg, maskiner och utrustning för tillverkning av verktyg, till exempel för gjutning, pressning, klippning, bockning, uppspänning och montering.",
+          "3. Standardiserade komponenter inom verktygstillverkning.",
+          "4. Särskilda data för verktygstillverkning.",
+          "5. Provtillverkning och kvalitetskontroll.",
+          "6. Värmebehandling av verktygsmaterial.",
+          "7. Materialegenskaper hos produktionsutrustning som används för att tillverka verktyg.",
+          "8. Materialegenskaper och materialets betydelse för funktion och kvalitet av verktyg som tillverkas."
+        ]
+      }
+    ]
+  }
 }

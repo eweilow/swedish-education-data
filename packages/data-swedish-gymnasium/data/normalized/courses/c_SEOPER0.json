@@ -1,4 +1,27 @@
 {
   "name": "Personbilar – verkstad och elteknik",
-  "code": "SEOPER0"
+  "code": "SEOPER0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Mobil och fast verkstadsutrustning, deras olika användningsområden samt metoder för och genomförande av funktions- och säkerhetskontroll av dessa.",
+          "2. Ergonomiska arbetsmetoder och riskbedömningar, till exempel vid olika lyft- och arbetsställningar samt vid användning av fordonslyftar, bland annat tvåpelar-, sax- och hjulbanelyft.",
+          "3. Brandredskap, nödstopp, utrymningsvägar och brandceller.",
+          "4. Metoder som tillämpas för struktur, ordning och effektiv arbetsmiljö på arbetsplatsen.",
+          "5. Metoder för och hantering av farliga ämnen på ett säkert och miljövänligt sätt, bland annat vätskor, oljor, gaser och tryckkärl.",
+          "6. Kostnader för drift och underhåll av fordonsverkstadens lokaler och utrustning samt konsekvenser av driftsstörning och bristande underhåll.",
+          "7. Grundläggande el-, digital- och mätteknik i simulerad miljö samt kommunikationsprinciper, bland annat CAN bus, LIN och MOST.",
+          "8. Metoder för användning av hand- och specialverktyg, branschanpassade mätinstrument och diagnosutrustningar samt användning, underhåll och kalibrering av dessa.",
+          "9. Elscheman, deras uppbyggnad och olika symboler samt vanligt förekommande elektriska komponenter i fordon, bland annat batteri, kablage, kontaktdon, givare, sensorer och styrenheter.",
+          "10. Säkerhet på arbetsplatsen och förebyggande av person- och egendomsskador.",
+          "11. Brandförebyggande åtgärder och åtgärd vid brand.",
+          "12. Lagar och andra bestämmelser som reglerar arbetet i en fordonsverkstad.",
+          "13. Arbete med problemlösning och laborativa uppgifter såväl självständigt som tillsammans med andra.",
+          "14. Tekniska begrepp och uttryck när det gäller utrustning och verktyg samt olika arbetsprocesser inom fordonsverkstaden."
+        ]
+      }
+    ]
+  }
 }

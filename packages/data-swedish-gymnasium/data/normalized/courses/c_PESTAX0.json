@@ -1,4 +1,19 @@
 {
   "name": "Taxitrafik",
-  "code": "PESTAX0"
+  "code": "PESTAX0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Trafikledningssystem som är specifika för taxilogistik och taxametersystem.",
+          "2. Lagar och andra bestämmelser som reglerar taxiverksamheten, till exempel branschetiska regler, prisinformation och vilotidsförordningar.",
+          "3. Fordonstillbehör och tilläggsutrustning i fordon, till exempel ramper, lyftar, bårar, alkolås, skyddskameror och fästanordningar för bagage och rullstolar.",
+          "4. Ergonomi, hälsa och miljö.",
+          "5. Agerande vid olycka och nödsituationer.",
+          "6. Bemötande och värdskap med särskild tonvikt på sjukresenärer och resande inom särskild kollektivtrafik samt de särskilda krav dessa grupper ställer på förare och fordon."
+        ]
+      }
+    ]
+  }
 }

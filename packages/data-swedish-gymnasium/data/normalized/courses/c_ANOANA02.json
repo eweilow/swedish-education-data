@@ -1,4 +1,22 @@
 {
   "name": "Anatomi och fysiologi 2",
-  "code": "ANOANA02"
+  "code": "ANOANA02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Människokroppens uppbyggnad och funktion samt dess förmåga till ämnesomsättning, rörelse, retbarhet, skydd och försvar.",
+          "2. Kroppens vätske-, elektrolyt- och näringsbalans.",
+          "3. Människans utveckling från barn till äldre.",
+          "4. Den fysiologiska processen kring människans fortplantning från befruktning till förlossning.",
+          "5. Fördjupad medicinsk terminologi.",
+          "6. Vanliga läkemedel och deras verkningssätt, användningsområden och vilka biverkningar de kan ha.",
+          "7. Enklare läkemedelsberäkning samt relevansbedömning av resultatet.",
+          "8. Lagar och andra bestämmelser som gäller för läkemedelsanvändning.",
+          "9. Kroppens försvarssystem mot mikroorganismer och virus."
+        ]
+      }
+    ]
+  }
 }

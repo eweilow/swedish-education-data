@@ -1,4 +1,28 @@
 {
   "name": "Lastbilar – system- och diagnosteknik 1",
-  "code": "LAPLAS01"
+  "code": "LAPLAS01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Lastbilars olika elektroniska nätverkssystem samt deras uppbyggnad, funktion och komponenter.",
+          "2. Kommunikationsteknik, bland annat CAN bus, LIN och MOST.",
+          "3. Elektroniska komponenter och deras funktion, bland annat ledare, halvledare och isolatorer.",
+          "4. Olika förarassistans- och säkerhetssystem, deras uppbyggnad, funktion och komponenter, bland annat system för adaptiva funktioner, system för däcktrycksövervakning och CTI-system.",
+          "5. Olika elektroniska växlingssystem samt deras styrsystem och komponenter.",
+          "6. Metoder för och genomförande av funktionskontroll, felsökning och diagnos av olika el- och elektroniska system och deras komponenter.",
+          "7. Metoder för och genomförande av funktionskontroller, felsökning och diagnos på motorstyrsystemen med diagnosinstrument.",
+          "8. Digitala informationssystem och mätutrustningar samt tolkning och utvärdering av utläst mätdata i samband med felsökning och diagnos.",
+          "9. Användning av specialverktyg, verktyg och utrustning på ett kvalitetsmässigt sätt samt vård av dessa.",
+          "10. Fordonstillverkares anvisningar och krav samt scheman och övrig teknisk information på svenska och engelska.",
+          "11. Arbetsinstruktioner, servicelitteratur och system för reservdelsbeställning på svenska och engelska.",
+          "12. Säkerhet på arbetsplatsen och förebyggande av person- och egendomsskador.",
+          "13. Lagar och andra bestämmelser som gäller för arbetet.",
+          "14. Arbete med problemlösning och uppgifter såväl självständigt som tillsammans med andra.",
+          "15. Yrkesmässigt språk, kommunikation och målgruppsanpassning."
+        ]
+      }
+    ]
+  }
 }

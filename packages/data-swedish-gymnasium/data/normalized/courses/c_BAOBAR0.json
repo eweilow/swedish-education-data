@@ -1,4 +1,23 @@
 {
   "name": "Barn- och ungdomshälsa",
-  "code": "BAOBAR0"
+  "code": "BAOBAR0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Barn- och skolhälsovårdens uppdrag, organisation och utveckling.",
+          "2. Förebyggande barnhälsoarbete, däribland kontroller, vaccinationer och tandvård.",
+          "3. Lagar som reglerar skolhälsovården, däribland FN:s konvention om barnets rättigheter.",
+          "4. Barns och ungdomars hälsa och välbefinnande.",
+          "5. Sambanden mellan levnadsvanor, livsvillkor samt barns och ungdomars hälsa och välbefinnande.",
+          "6. Förebyggande av skador hos barn och ungdomar.",
+          "7. Vanliga barnsjukdomar.",
+          "8. Vård och omsorg vid vanligt förekommande barnsjukdomar.",
+          "9. Rutiner för uppmärksammande av förändringar i barns och ungdomars hälsotillstånd.",
+          "10. Kommunikation med barn, ungdomar och vårdnadshavare."
+        ]
+      }
+    ]
+  }
 }

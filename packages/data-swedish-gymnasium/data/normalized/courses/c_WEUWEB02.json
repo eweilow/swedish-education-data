@@ -1,4 +1,27 @@
 {
   "name": "Webbutveckling 2",
-  "code": "WEUWEB02"
+  "code": "WEUWEB02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Webben som plattform för applikationer av olika slag.",
+          "2. Utvecklingsprocessen för ett webbtekniskt projekt med målsättningar, planering, specifikation av struktur och design, kodning, optimering, testning, dokumentation och uppföljning.",
+          "3. Fördjupning i märkspråk där det huvudsakliga innehållet är standarderna för HTML och CSS med särskilt fokus på responsiv design.",
+          "4. Språk med stöd för variabler för att förenkla CSS-generering.",
+          "5. Ramverk eller klassbibliotek inom design eller skriptspråk.",
+          "6. Skriptspråk för webbutveckling på klientsidan och dokumentobjektsmodell.",
+          "7. Bilder, ljud, video och två- eller tredimensionell interaktiv grafik för webbapplikationer.",
+          "8. Riktlinjer för god praxis inom webbutveckling.",
+          "9. Uppnående av interoperabilitet genom att följa standarder och testa på olika plattformar.",
+          "10. Applikationer som fungerar oberoende av vald plattform och hur tillgänglighet uppnås även för användare med funktionsnedsättning.",
+          "11. Kvalitetssäkring av applikationens funktion och validering av kodens kvalitet.",
+          "12. Lagar och andra bestämmelser som styr digital information, till exempel personuppgiftslagen och lagen om elektronisk kommunikation.",
+          "13. Säkerhet och sätt att identifiera hot och sårbarheter samt hur attacker kan motverkas genom effektiva åtgärder.",
+          "14. Terminologi inom området webbutveckling."
+        ]
+      }
+    ]
+  }
 }

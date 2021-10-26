@@ -1,4 +1,23 @@
 {
   "name": "Processmätteknik 1",
-  "code": "PROPRC01"
+  "code": "PROPRC01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Metoder för analoga och digitala signalöverföringar. Metoder för att bekämpa störningar.",
+          "2. Metoder för mätning av temperatur, tryck, nivå och flöde.",
+          "3. Metoder och utrustning för att testa och kalibrera mätningar av till exempel temperatur, tryck, nivå och flöde.",
+          "4. Metoder för mätning av varvtal och krafter.",
+          "5. Signalmätmetoder på automatiserade processanläggningar i drift.",
+          "6. Funktion och konstruktion hos olika pumpar, ventiler och filter.",
+          "7. Planering och genomförande av enklare underhållsarbete i en processanläggning, till exempel montering och inkoppling av mätdon.",
+          "8. Laborativa mätövningar med givare, omvandlare, signalomvandlare och smartgivare.",
+          "9. Systematiserade dokumentationsmetoder.",
+          "10. Standarder och föreskrifter inom området, till exempel ATEX-direktiven."
+        ]
+      }
+    ]
+  }
 }

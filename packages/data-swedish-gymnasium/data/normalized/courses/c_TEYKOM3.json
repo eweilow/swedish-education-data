@@ -1,4 +1,24 @@
 {
   "name": "Komponenter och system el",
-  "code": "TEYKOM3"
+  "code": "TEYKOM3",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Teleinstallationer för till exempel drift och övervakning, passagekontroll och datanät.",
+          "2. Kommuniserande system, till exempel dator- och medienät, telefoni och trådlös kommunikation.",
+          "3. Komponent och materialkunskap, även kopplat till olika installationsmiljöer.",
+          "4. Montering av elmateriel inklusive förläggning och anslutning av ledningar.",
+          "5. Kopplingsutrustningar, apparatskåp och enklare styrutrustning.",
+          "6. Egenkontroller och idrifttagning.",
+          "7. Arbete med värmekamera.",
+          "8. Elscheman av olika typer med komponenters funktion och symbol.",
+          "9. Ritningskonstruktion.",
+          "10. Belysningsanläggningar, värmekabelsystem, smarta hem och solcellsanläggningar.",
+          "11. Elmotorer med enklare tillhörande startutrustningar."
+        ]
+      }
+    ]
+  }
 }

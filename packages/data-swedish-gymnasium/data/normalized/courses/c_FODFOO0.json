@@ -1,4 +1,23 @@
 {
   "name": "Fordonsteknik – introduktion",
-  "code": "FODFOO0"
+  "code": "FODFOO0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Fordons huvudkomponenter, till exempel motor, drivlina, chassikomponenter och bromsar.",
+          "2. Materiallära och olika sammanfogningstekniker som används i fordon.",
+          "3. Enklare intervallservice enligt fordonstillverkarens anvisningar.",
+          "4. Enklare demonterings- och monteringsmoment av olika delar i fordons huvudkomponenter.",
+          "5. Informationssystem och manualer för arbetet.",
+          "6. Hantering av de verktyg och maskiner som används i arbetet.",
+          "7. Underhåll av verktyg, utrustning och verkstadsmiljöer.",
+          "8. Lyft och uppallning av motorfordon.",
+          "9. Säkerhet på arbetsplatsen och förebyggande av person- och egendomsskador samt lagar och andra bestämmelser som gäller för arbetet.",
+          "10. Tekniska termer och begrepp."
+        ]
+      }
+    ]
+  }
 }

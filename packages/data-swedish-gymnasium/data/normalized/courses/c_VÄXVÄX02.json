@@ -1,4 +1,19 @@
 {
   "name": "Växtkunskap 2",
-  "code": "VÄXVÄX02"
+  "code": "VÄXVÄX02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Identifiering, beskrivning och namngivning av ett brett sortiment av träd, buskar, barrväxter, perenner och annueller med vetenskapliga och yrkesmässiga termer.",
+          "2. Grässorter och deras egenskaper för användning till olika typer av gräsytor.",
+          "3. Växtval och växtkomposition med hänsyn till miljö, funktion och växternas egenskaper. Kostnadsberäkningar för olika växtkompositioner.",
+          "4. Inventering av växter i park- och trädgårdsmiljöer.",
+          "5. E-plantsystemet och andra regelsystem som gäller växtkvalitet.",
+          "6. Lagar och andra bestämmelser inom området, till exempel växtpass för handel med växter inom EU."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,23 @@
 {
   "name": "Praktisk ellära",
-  "code": "ELLPRA0"
+  "code": "ELLPRA0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Elsystemets uppbyggnad och funktion från transformator till belastning.",
+          "2. Elektriskt material, till exempel ledare, halvledare och isolatorer.",
+          "3. Elektriska storheter och samband.",
+          "4. Mätinstrument och metoder för att mäta elektriska storheter.",
+          "5. Likströmskretsars och enfasväxelströmskretsars funktion.",
+          "6. Skillnader mellan symmetrisk och osymmetrisk belastning.",
+          "7. TN-C-systemets och TN-S-systemets uppbyggnad, funktion och användning.",
+          "8. Elektriska och magnetiska fälts uppkomst och verkan.",
+          "9. Skyddsledarens funktion och verkan.",
+          "10. Säkerhetsfrågor, bestämmelser och standarder inom elområdet."
+        ]
+      }
+    ]
+  }
 }

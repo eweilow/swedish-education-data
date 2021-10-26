@@ -1,4 +1,19 @@
 {
   "name": "Ergonomi",
-  "code": "HALERG0"
+  "code": "HALERG0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Begreppet ergonomi samt ergonomi som kunskapsområde.",
+          "2. Arbetets och arbetsmiljöns påverkan på hälsa och välbefinnande. Hur miljöer ergonomiskt kan anpassas till människan.",
+          "3. Yrkesetik i arbetet samt lagar och andra bestämmelser som reglerar arbetet.",
+          "4. Tekniker för ergonomiskt och säkert utfört arbete i olika situationer, såväl i vardags- som i arbetslivet. Riskanalys och konsekvenser vid rätt respektive felaktig teknik.",
+          "5. Ergonomiska verktyg och annan teknisk utrustning, deras funktion och underhåll.",
+          "6. Kommunikation, samarbete och samverkan i mötet med människor."
+        ]
+      }
+    ]
+  }
 }

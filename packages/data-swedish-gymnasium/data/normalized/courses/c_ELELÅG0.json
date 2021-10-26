@@ -1,4 +1,26 @@
 {
   "name": "Låg- och högfrekvenskretsar",
-  "code": "ELELÅG0"
+  "code": "ELELÅG0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Specialtransistorer för låg- och högfrekvens.",
+          "2. Integrerade specialkretsar för låg- och högfrekvens.",
+          "3. Låg- och högfrekvensmoduler.",
+          "4. Mikrodatorer i låg- och högfrekvenskretsar.",
+          "5. Enklare felsökning och reparationer i ljudanläggningar.",
+          "6. Begreppen effekt, frekvensomfång, distorsion och decibel.",
+          "7. Begreppen frekvens, frekvensspektrum, modulering och demodulering.",
+          "8. Symboler, standarder och normer för låg- och högfrekvensområdet.",
+          "9. Elektronik- och blockscheman för ljudanläggningar och förstärkare.",
+          "10. Elektronik- och blockscheman för tv- och satellitmottagningsutrustning.",
+          "11. Elektronik- och blockscheman för kommunikationsradiosystem.",
+          "12. Enklare komponent- och kretsmätningar.",
+          "13. Datorsimulering av enklare låg- och högfrekvenskretsar."
+        ]
+      }
+    ]
+  }
 }

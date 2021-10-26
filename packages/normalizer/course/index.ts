@@ -5,9 +5,62 @@ import * as mkdirp from "mkdirp";
 import * as glob from "glob";
 import { join } from "path";
 
-import { getMarkdownFromHtml } from "../utils/markdown";
+import { getMarkdownFromHtml, normalizeSections } from "../utils/markdown";
 import { assert } from "chai";
 import { normalizeCode } from "../utils/code";
+
+function fixCentralContent(rows: string[]) {
+  let hasFoundHeader = false;
+
+  return rows
+    .flatMap((row) => {
+      if (
+        row.includes("behandla följande centrala innehåll") ||
+        row.includes("behandla följande centrala") ||
+        row.includes("behandla följande central") ||
+        row.includes("behandla följande innehåll")
+      ) {
+        return "# Undervisningen i kursen ska behandla följande centrala innehåll:";
+      }
+
+      // Rows starting with ** and ends with **
+      if (row.startsWith("**") && row.endsWith("**")) {
+        return `# ${row.slice(2, -2)}`;
+      }
+
+      return row;
+    })
+    .flatMap((row) => {
+      if ((row.startsWith("1. ") || row.startsWith("* ")) && !hasFoundHeader) {
+        hasFoundHeader = true;
+        return [
+          `# Undervisningen i kursen ska behandla följande centrala innehåll:`,
+          row,
+        ];
+      }
+
+      if (row.startsWith("#")) {
+        hasFoundHeader = true;
+      }
+
+      return row;
+    });
+}
+
+function parseCentralContent(centralContent: string | null) {
+  const markdownRows = getMarkdownFromHtml(
+    pickOnlyIf.string(centralContent) ?? ""
+  )
+    ?.split("\n")
+    ?.map((el) => el.trim());
+
+  if (markdownRows == null) {
+    return null;
+  }
+
+  const fixedRows = fixCentralContent(markdownRows);
+  return normalizeSections(fixedRows);
+}
 
 export async function normalizeCourses(
   inputDirectory: string,
@@ -29,10 +82,28 @@ export async function normalizeCourses(
       const result = {
         name: pickOnlyIf.string(course.name?.[0]),
         code: pickOnlyIf.string(course.code?.[0]),
+        centralContent: parseCentralContent(
+          course.centralcontent?.[0]?.text?.[0]
+        ),
       };
 
       assert.isNotNull(result.name);
       assert.isNotNull(result.code);
+
+      assert.match(
+        result.centralContent?.sections?.[0]?.title ?? "",
+        /Undervisningen i kursen ska behandla följande centrala innehåll/,
+        `in ${result.name} (${result.code})`
+      );
+      for (const section of result.centralContent?.sections ?? []) {
+        for (const row of section.rows) {
+          assert.match(
+            row,
+            /^[0-9]+\. .*\.?/,
+            `in ${result.name} (${result.code})`
+          );
+        }
+      }
 
       writeFileSync(
         join(coursesDir, `c_${normalizeCode(result.code)}.json`),

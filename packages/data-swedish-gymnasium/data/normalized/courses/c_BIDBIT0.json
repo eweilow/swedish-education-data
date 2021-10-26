@@ -1,4 +1,21 @@
 {
   "name": "Bildteori",
-  "code": "BIDBIT0"
+  "code": "BIDBIT0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Kommunikationsprocesser och teorier om bildkommunikation.",
+          "2. Konstteori och konstvetenskap.",
+          "3. Visuell kultur och perceptionsteori. Färglära och färgteori, till exempel färgperception och färgsystem. Formlära.",
+          "4. Bildanalysmodeller och bildtolkningsmodeller samt analys av konstbilder och massbilder.",
+          "5. Bilden ur olika aspekter, till exempel historiska och nutida aspekter samt genus-, etnicitets-, klass- och åldersaspekter.",
+          "6. Bildproduktion och bildanvändande i olika sammanhang.",
+          "7. Bilden som text, bildsemiotik och bilden i relation till annan text.",
+          "8. Bildens roll i kultur och samhälle samt för individen."
+        ]
+      }
+    ]
+  }
 }

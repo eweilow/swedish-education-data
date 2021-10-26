@@ -1,4 +1,22 @@
 {
   "name": "Datorteknik 1b",
-  "code": "DAODAT01b"
+  "code": "DAODAT01b",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Datorsystems uppbyggnad och arbetssätt.",
+          "2. Grunderna i OSI-modellen (Open Systems Interconnection) och gällande standarder för datorkommunikation.",
+          "3. Program, till exempel enklare kommunikationsprogram och applikationsprogram för mobila enheter.",
+          "4. Begreppen filer, filformat, komprimering och kryptering.",
+          "5. Rutiner för säkerhetskopiering och installation av virusskydd.",
+          "6. Installation, konfigurering och driftsättning av datorsystem för till exempel administration, kommunikation, dokumentation och enklare affärssystem.",
+          "7. Installation och konfigurering av applikationsprogram samt administration av behörigheter och lösenord.",
+          "8. Installation och konfigurering av datorer i ett befintligt nätverk.",
+          "9. Installation av skrivare och andra enheter i nätverk."
+        ]
+      }
+    ]
+  }
 }

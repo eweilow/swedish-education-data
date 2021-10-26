@@ -1,4 +1,19 @@
 {
   "name": "Biologi – naturbruk – specialisering",
-  "code": "BIGBIG00S"
+  "code": "BIGBIG00S",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Fördjupning inom valt specialiseringsområde. Exempel på områden kan vara ekologi, växt- och djurliv, etologi, biodling och binas betydelse i naturbruket, jämförande anatomi och fysiologi hos djur, växternas biologi samt mikrobiologi.",
+          "2. Mikroorganismer och mikrobiologiska processer av betydelse för specialiseringsområdet.",
+          "3. Fältstudier och egna undersökningar.",
+          "4. Olika växt- eller djurarter.",
+          "5. Metoder för informationssökning om växter eller djur.",
+          "6. Begrepp, teorier och modeller inom valt specialiseringsområde."
+        ]
+      }
+    ]
+  }
 }

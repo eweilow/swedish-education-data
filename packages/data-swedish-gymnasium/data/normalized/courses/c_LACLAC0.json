@@ -1,4 +1,21 @@
 {
   "name": "Lackeringssystem",
-  "code": "LACLAC0"
+  "code": "LACLAC0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Modeller för att beskriva processer och skeenden.",
+          "2. Produkters egenskaper och användningsområden sammansatta till produktionssystem med hänsyn tagen till underlagets betydelse för det färdiga resultatet.",
+          "3. Applicering och slipteknik. Optimering av utrustning, produkter och utförande för levererbart resultat.",
+          "4. Ytdefekter och åtgärder för dessa kopplat till kostnad.",
+          "5. Utvändig och invändig rekonditionering av personbilar.",
+          "6. Fastställande av kulör.",
+          "7. Principer för luftföring och ventilation i lokaler som är anpassade för arbeten med lösningsmedel.",
+          "8. Arbetsteknik och skyddsutrustning anpassat till produktionslackering. Ergonomi i syfte att förhindra förslitningsskador."
+        ]
+      }
+    ]
+  }
 }

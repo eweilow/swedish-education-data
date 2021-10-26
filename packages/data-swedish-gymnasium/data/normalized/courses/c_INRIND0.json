@@ -1,4 +1,23 @@
 {
   "name": "Industriautomation",
-  "code": "INRIND0"
+  "code": "INRIND0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Uppbyggnad av samt funktion och principer för produktionsceller.",
+          "2. Uppbyggnad av samt funktion och principer för ingående utrustning i produktionsceller.",
+          "3. Industriella tillverkningsprocesser ur ett livscykelperspektiv, till exempel råvarutillgång och återvinning. Framtida perspektiv på hållbar utveckling och teknikens roll i den.",
+          "4. Begrepp och standarder inom automatiserad produktion, till exempel informationstekniska standarder.",
+          "5. Montering av den utrustning som ingår i en produktionscell.",
+          "6. Ritningsläsning vid arbete i en produktionscell.",
+          "7. Kabeldragning mellan utrustningar som ingår i en produktionscell.",
+          "8. Driftsättning av produktionsceller.",
+          "9. Styrning, programmering och kontroll av produktionsceller.",
+          "10. Förebyggande och avhjälpande underhåll av produktionsceller."
+        ]
+      }
+    ]
+  }
 }

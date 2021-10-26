@@ -1,4 +1,23 @@
 {
   "name": "Konsthantverk 2",
-  "code": "KOHHAN02"
+  "code": "KOHHAN02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Hantverkets och materialets historia och betydelse i kulturutvecklingen.",
+          "2. Konstnärligt och hantverksmässigt arbete i ett eller flera valda material, till exempel trä, textil, metall, lera eller papper.",
+          "3. Bearbetningsmetoder, användningsområden och verktyg.",
+          "4. Formgivningsprocessen och formgivningens uttrycksmöjligheter, till exempel färg, form och material.",
+          "5. Färg- och formlära.",
+          "6. Värdering av formgivning i relation till intentioner.",
+          "7. De valda materialens egenskaper.",
+          "8. Utvärdering av arbetsprocessen och resultatet.",
+          "9. Ergonomiskt, säkert och arbetsmiljömässigt arbetssätt och användande av eventuell skyddsutrustning.",
+          "10. Påverkan på människor och miljö vid användning, framställning och hantering av material."
+        ]
+      }
+    ]
+  }
 }

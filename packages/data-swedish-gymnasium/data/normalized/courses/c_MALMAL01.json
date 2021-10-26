@@ -1,4 +1,21 @@
 {
   "name": "Matlagning 1",
-  "code": "MALMAL01"
+  "code": "MALMAL01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Grundläggande matlagning och matlagningsmetoder.",
+          "2. Kalla och varma maträtter.",
+          "3. Kökets redskap, maskiner och annan utrustning. Hur de används och hanteras på ett säkert sätt.",
+          "4. Grunderna i identifiering, behandling och hantering av råvaror samt smakmässiga och ekonomiska konsekvenser av hur råvaror behandlas och förvaras.",
+          "5. Hygien och dagliga hygienrutiner, till exempel rengöring av lokaler och utrustning.",
+          "6. Ergonomi i det egna arbetet samt ergonomiska riskfaktorer.",
+          "7. Arbetsmiljö och säkerhet samt lagar och andra bestämmelser som gäller inom området, till exempel livsmedelslagen.",
+          "8. Grundläggande kommunikation för arbete i kök."
+        ]
+      }
+    ]
+  }
 }

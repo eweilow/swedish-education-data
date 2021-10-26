@@ -1,4 +1,44 @@
 {
   "name": "Hästsportanläggningars skötsel och drift 2",
-  "code": "NARHAS02"
+  "code": "NARHAS02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Byggteknisk grund",
+        "rows": [
+          "1. Underhåll av inom hästsportanläggningar vanligt förekommande byggnader och byggmaterial.",
+          "2. Klimatpåverkan och miljöpåverkan beroende på region och läge.",
+          "3. Enklare byggnadskonstruktioner med dimensionering och anvisningar.",
+          "4. Tolkning av ritningar, bygghandlingar och instruktioner.",
+          "5. Enklare planeringar och beräkningar för att lösa uppgifter inom drift-, bygg- och underhållsarbete.",
+          "6. Dokumentation och egenkontroll av genomfört arbete."
+        ]
+      },
+      {
+        "title": "Arbetsuppgifter",
+        "rows": [
+          "1. Byggnads- och underhållsarbete inom hästsportanläggningar.",
+          "2. Val av material och beräkning av materialåtgång.",
+          "3. Arbetsmetoder vid byggarbeten, underhåll och drift inom hästsportanläggningar.",
+          "4. Hantering av byggmaterial vid transport och lagring.",
+          "5. Användning och vård av verktyg, maskiner och redskap för olika arbetsuppgifter.",
+          "6. Användning av teknikmanualer.",
+          "7. Hållbar hantering av material och restprodukter.",
+          "8. Hållbara lösningar inom hästsportanläggningars drift."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Ergonomi, arbetsmiljö och säkerhet i samband med hästsportanläggningars skötsel och drift.",
+          "2. Brandförebyggande åtgärder.",
+          "3. Lagar och andra bestämmelser inom området, däribland plan- och bygglagstiftning, miljölagstiftning och kulturminneslagstiftning."
+        ]
+      }
+    ]
+  }
 }

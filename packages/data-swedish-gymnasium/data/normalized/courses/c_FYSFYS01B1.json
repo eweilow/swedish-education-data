@@ -1,4 +1,45 @@
 {
   "name": "Fysik 1b1",
-  "code": "FYSFYS01b1"
+  "code": "FYSFYS01b1",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Rörelse och krafter",
+        "rows": [
+          "1. Hastighet, rörelsemängd och acceleration för att beskriva rörelse.",
+          "2. Krafter som orsak till förändring av hastighet och rörelsemängd. Impuls.",
+          "3. Jämvikt och linjär rörelse i homogena gravitationsfält och elektriska fält.",
+          "4. Tryck, tryckvariationer och Arkimedes princip.",
+          "5. Orientering om Einsteins beskrivning av rörelse vid höga hastigheter: Einsteins postulat, tidsdilatation och relativistisk energi."
+        ]
+      },
+      {
+        "title": "Energi och energiresurser",
+        "rows": [
+          "1. Arbete, effekt, potentiell energi och rörelseenergi för att beskriva olika energiformer: mekanisk, termisk, elektrisk och kemisk energi samt strålnings- och kärnenergi.",
+          "2. Energiprincipen, entropi och verkningsgrad för att beskriva energiomvandling, energikvalitet och energilagring.",
+          "3. Termisk energi: inre energi, värmekapacitet, värmetransport, temperatur och fasomvandlingar.",
+          "4. Elektrisk energi: elektrisk laddning, fältstyrka, potential, spänning, ström och resistans.",
+          "5. Energiresurser och energianvändning för ett hållbart samhälle."
+        ]
+      },
+      {
+        "title": "Fysikens karaktär, arbetssätt och matematiska metoder",
+        "rows": [
+          "1. Vad som kännetecknar en naturvetenskaplig frågeställning.",
+          "2. Hur modeller och teorier utgör förenklingar av verkligheten och kan förändras över tid.",
+          "3. Det experimentella arbetets betydelse för att testa, omvärdera och revidera hypoteser, teorier och modeller.",
+          "4. Avgränsning och studier av problem med hjälp av fysikaliska resonemang och matematisk modellering innefattande linjära ekvationer, potensekvationer, funktioner och grafer samt trigonometri och vektorer.",
+          "5. Planering och genomförande av experimentella undersökningar och observationer samt formulering och prövning av hypoteser i samband med dessa.",
+          "6. Bearbetning och utvärdering av data och resultat med hjälp av analys av grafer, enhetsanalys och storleksuppskattningar.",
+          "7. Utvärdering av resultat och slutsatser genom analys av metodval, arbetsprocess och felkällor.",
+          "8. Ställningstaganden i samhällsfrågor utifrån fysikaliska förklaringsmodeller, till exempel frågor om hållbar utveckling."
+        ]
+      }
+    ]
+  }
 }

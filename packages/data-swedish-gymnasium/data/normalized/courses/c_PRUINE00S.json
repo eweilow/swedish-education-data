@@ -1,4 +1,22 @@
 {
   "name": "Interna transporter",
-  "code": "PRUINE00S"
+  "code": "PRUINE00S",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Manövrering av vald transportutrustning och hantering av gods.",
+          "2. Transportutrustningens uppbyggnad, arbetssätt, stabilitet och lyftförmåga samt olika benämningar.",
+          "3. Användningsområden för transportutrustningen och relevant kringutrustning.",
+          "4. Miljö- och säkerhetsbestämmelser för hantering av olika typer av gods.",
+          "5. För utrustningen relevanta körregler, symboler och signalscheman.",
+          "6. Funktionskontroll, tillsyn och dagligt underhåll på transportutrustningen och tillhörande kringutrustning.",
+          "7. Dimensionering och beräkningar beträffande den belastning som såväl transportutrustningen som godset utsätts för under transport, lagring och hantering enligt till exempel belastningstabeller och gällande föreskrifter.",
+          "8. Enklare principer för godshantering, till exempel lastbalans, tyngdpunkt och riskmoment.",
+          "9. Enklare principer för logistik av interna transporter, till exempel transporteffektivitet."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,21 @@
 {
   "name": "Utställningsdesign 1",
-  "code": "UTSUTS01"
+  "code": "UTSUTS01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Arbete med butiks- och fönsterexponeringar, utställningar, mässor och event.",
+          "2. Lagar och andra bestämmelser inom området.",
+          "3. Metoder för analys av olika budskap och för att föra ut dem till olika målgrupper.",
+          "4. Framställning av idéer med hjälp av skissmetoder och två- och tredimensionella modeller.",
+          "5. Två- och tredimensionellt skapande.",
+          "6. Matchning och koordinering.",
+          "7. Färglära och olika textframställningar.",
+          "8. Digital teknik och teknisk utrustning."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,41 @@
 {
   "name": "Serviceteknik – naturbruk 1",
-  "code": "SEISEI01"
+  "code": "SEISEI01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Teknisk grund",
+        "rows": [
+          "1. Den tekniska utrustningens uppbyggnad och funktion samt dess komponenter.",
+          "2. Olika material samt deras egenskaper och användningsområden.",
+          "3. Den tekniska utrustningens styrsystem och kontrollsystem.",
+          "4. Drivmedel och smörjmedel."
+        ]
+      },
+      {
+        "title": "Arbete med teknisk utrustning",
+        "rows": [
+          "1. Arbete med service, underhåll och reparationer av teknisk utrustning som används inom naturbruk, till exempel traktorer, skördetröskor, vallskördemaskiner, grönytemaskiner, skotare och avverkningsmaskiner.",
+          "2. Användning av verkstadsteknisk utrustning.",
+          "3. Arbete med grundläggande svetsteknik för underhåll och reparationer av maskiner och annan utrustning.",
+          "4. Användning av handböcker och manualer samt digital utrustning vid service och underhåll av teknisk utrustning.",
+          "5. Vård av verktyg och maskiner."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Funktionskontroll och säkerhetskontroll i samband med användning av verkstadsmaskiner och teknisk utrustning.",
+          "2. Säkerhetsfrågor i samband med heta arbeten, till exempel vid svetsning och vinkelslipning.",
+          "3. Brandförebyggande åtgärder.",
+          "4. Ergonomi och arbetsmiljö i samband med genomförande av olika arbetsuppgifter.",
+          "5. Lagar och andra bestämmelser, till exempel miljölagstiftning och arbetsmiljölagstiftning."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,23 @@
 {
   "name": "Kommunikationsnät 2",
-  "code": "INSKOM02"
+  "code": "INSKOM02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Registreringssystems uppbyggnad samt registrering av telenät enligt olika standarder.",
+          "2. Uppbyggnad av och arbetssätt hos komponenter och system i fastighetsnät med fiber och koppar.",
+          "3. Uppbyggnad av och arbetsätt hos telefonanläggningar med telefonväxlar samt Telias nät.",
+          "4. Planering, installation, driftsättning och registrering av datanät, fastighetsnät och bredbandsnät, med till exempel kopparkabel, fiberkabel och koaxialkabelsystem, samt med hjälp av ritningar och anvisningar.",
+          "5. Planering, installation, driftsättning och registrering av enklare teleanläggningar med gemensamt 01-nät med RWC, kallelse och tidsdistribution med hjälp av ritningar och anvisningar.",
+          "6. Planering, installation, driftsättning och registrering av säkerhetssystem med brandlarm, inbrottslarm, CCTV och passersystem med hjälp av ritningar och anvisningar.",
+          "7. Installation och registrering av anläggningar med korskoppling.",
+          "8. Allmän installationsteknik samt vilka konsekvenser felaktiga installationer kan få, till exempel hur signaler påverkas om koaxialkabeln monteras med för liten böjradie.",
+          "9. Inmätningsmetoder och mätutrustningar för till exempel fiber- och kopparnät.",
+          "10. Anläggningar och metoder för distribution av ljud och tid."
+        ]
+      }
+    ]
+  }
 }

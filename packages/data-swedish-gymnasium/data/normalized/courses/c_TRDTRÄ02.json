@@ -1,4 +1,21 @@
 {
   "name": "Trädgårdsanläggning 2",
-  "code": "TRDTRÄ02"
+  "code": "TRDTRÄ02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Genomförande av planerade arbetsuppgifter, till exempel anläggning av hårdgjorda ytor samt anläggning av växtbäddar och planteringsytor.",
+          "2. Montering av fast utrustning, till exempel lekutrustning.",
+          "3. Säkerhet och ergonomi.",
+          "4. Lagar och andra bestämmelser inom området, till exempel plan- och bygglagen.",
+          "5. Planering, genomförande och utvärdering av en mindre trädgårdsanläggning – från idé till färdig anläggning.",
+          "6. Planering av gröna miljöer för olika brukargrupper och funktioner.",
+          "7. Ekonomiska beräkningar.",
+          "8. Färg och form, skissteknik samt materialval och växtval."
+        ]
+      }
+    ]
+  }
 }

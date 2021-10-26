@@ -1,4 +1,21 @@
 {
   "name": "Naturguidning 2",
-  "code": "NAGNAT02"
+  "code": "NAGNAT02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Planering, organisation, genomförande och utvärdering av naturguidningar för olika målgrupper, till exempel förskolebarn, ungdomar och vuxna.",
+          "2. Val av utrustning och material för aktuella aktiviteter.",
+          "3. Hantering och vård av material och utrustning för aktuella aktiviteter.",
+          "4. Instruktioner till deltagare i naturguidningar inför användning av utrustning och material.",
+          "5. Planering av säkerhet vid aktiviteter för att minimera olycksrisker samt första hjälpen och livräddning.",
+          "6. Lagar och andra bestämmelser som rör säkerhet samt natur- och kulturmiljöer.",
+          "7. Växter, djur och ekologiska samband i olika natur- och kulturmiljöer.",
+          "8. Handledning av aktuella målgrupper så att de får rikare naturupplevelser."
+        ]
+      }
+    ]
+  }
 }

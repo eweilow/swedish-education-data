@@ -1,4 +1,21 @@
 {
   "name": "Datorstyrd produktion 1",
-  "code": "DARDAT01S"
+  "code": "DARDAT01S",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Programmering efter etablerade koder för valt programmeringssätt, manuellt och med programmeringsstöd samt med pc-baserade hjälpsystem.",
+          "2. Simulering och testkörning av valda program.",
+          "3. Iordningställande av vald datorstyrd utrustning för enklare bearbetning eller produktion.",
+          "4. Tolkning av tillverkningsunderlag till styrsystem och överförande av dessa till aktuell utrustning.",
+          "5. Tillverkning av produkter efter eget skapat program.",
+          "6. Enklare felsökning och systematiskt underhåll.",
+          "7. Föreskrifter för arbetsmiljö samt person- och maskinsäkerhet.",
+          "8. Resultatkontroll samt justering av program och inställningar."
+        ]
+      }
+    ]
+  }
 }

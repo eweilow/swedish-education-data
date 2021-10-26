@@ -1,4 +1,19 @@
 {
   "name": "Cad – specialisering",
-  "code": "CADCAD00S"
+  "code": "CADCAD00S",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Cad och cad-tillämpning inom valt teknikområde.",
+          "2. Fördjupad och specialiserad dokumenthantering.",
+          "3. Fördjupning inom solidmodellering.",
+          "4. Komplexa sammanställningar i tre dimensioner med beaktande av konstruktionsvillkor.",
+          "5. Fördjupning, beräkning och specialisering med hjälp av applikationer beroende på valt teknikområde.",
+          "6. Fördjupning inom rörelsesimulering."
+        ]
+      }
+    ]
+  }
 }

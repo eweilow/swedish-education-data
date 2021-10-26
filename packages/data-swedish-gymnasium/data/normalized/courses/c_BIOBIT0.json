@@ -1,4 +1,18 @@
 {
   "name": "Bioteknik",
-  "code": "BIOBIT0"
+  "code": "BIOBIT0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Experimentellt arbete inom bioteknik inklusive genteknik. Sterilteknik, odlingsteknik och fermentationsteknik.",
+          "2. Biologiskt verksamma makromolekyler, deras funktion och interaktion inom och mellan celler.",
+          "3. Cellers användning inom industri, jordbruk, medicin och forskning. Bakterier, jästceller, cancerceller, stamceller och deras betydelse för bioteknikens utveckling.",
+          "4. Biotekniska inklusive gentekniska verktyg och metoder samt deras användning inom industri, jordbruk, medicin och forskning. Bioteknik och genteknik i frågor om ekologiskt hållbar utveckling.",
+          "5. Möjligheter och risker med bioteknik och genmodifierade organismer ur ett etiskt och samhälleligt perspektiv."
+        ]
+      }
+    ]
+  }
 }

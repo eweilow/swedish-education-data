@@ -1,4 +1,21 @@
 {
   "name": "Grundläggande vård och omsorg",
-  "code": "GRUGRD0"
+  "code": "GRUGRD0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Grundläggande anatomi och fysiologi.",
+          "2. Vanligt förekommande sjukdomar och åtgärder vid dem.",
+          "3. Innebörden av personlig omvårdnad och egenvård och hur det kan stödjas.",
+          "4. Omvårdnadshygien, mikroorganismer, smitta och smittspridning.",
+          "5. Användning och hantering av vanligt förekommande läkemedel. Läkemedlens biverkningar.",
+          "6. Bestämmelser och praxis om arbetsmiljö, säkerhet och yrkesetik i samband med arbetet med grundläggande vård och omsorg.",
+          "7. Funktionella kroppshållningar. Innebörden och betydelsen av att arbeta ergonomiskt. Förutsättningar för funktionella kroppshållningar.",
+          "8. Hjärt-lungräddning med defibrillering samt första hjälpen vid skada och akut sjukdom."
+        ]
+      }
+    ]
+  }
 }

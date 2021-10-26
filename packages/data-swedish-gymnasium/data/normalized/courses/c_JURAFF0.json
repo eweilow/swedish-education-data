@@ -1,4 +1,23 @@
 {
   "name": "Affärsjuridik",
-  "code": "JURAFF0"
+  "code": "JURAFF0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Associationsrätt: företagsformens betydelse för verksamheten och intressenterna.",
+          "2. Avtalsrätt: företagsavtal och deras rättsverkan.",
+          "3. Hyresrätt: företagens rättigheter och skyldigheter som hyresgäster.",
+          "4. Arbetsrätt: arbetsgivarens rättigheter och skyldigheter mot arbetstagaren.",
+          "5. Marknadsrätt: marknadsrättsliga och konkurrensrättsliga regler som rör företagens verksamhet.",
+          "6. Köprätt: regler som rör handel mellan näringsidkare.",
+          "7. Immaterialrätt: skyddet för varumärken, patent och andra upphovsrätter.",
+          "8. Kredit- och panträtt samt obeståndsrätt: regler som rör företagens finansiering samt skulder, utmätning och konkurs.",
+          "9. Tvistlösning: olika sätt att lösa affärstvister.",
+          "10. Juridiska begrepp och problemlösning i rättsliga sammanhang."
+        ]
+      }
+    ]
+  }
 }

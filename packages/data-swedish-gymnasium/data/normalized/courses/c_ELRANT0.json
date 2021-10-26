@@ -1,4 +1,26 @@
 {
   "name": "Antenn- och kabel-TV-teknik",
-  "code": "ELRANT0"
+  "code": "ELRANT0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Planering, installation och driftsättning samt underhåll av antenn- och kabel-tv-anläggningar för mark- och satellitdistribuerad tv.",
+          "2. Digital tv-teknik och tv-signalens uppbyggnad vid satellit- och kabelsändningar.",
+          "3. Uppbyggnad och funktionssätt hos bredbandiga multifunktionsnät för fastigheter (BMF-nät) samt hybrid-, fiber- och coaxnät (HFC-nät).",
+          "4. Användning och tolkning av de mättekniska begreppen decibel, dämpning och förstärkning, samt intermodulationsavstånd och carrier to noise (C/N).",
+          "5. Skalning av kablar och montering av kontakter.",
+          "6. Standarder, normer och systemkrav för antenn- och kabel-tv-anläggningar.",
+          "7. Europanormens krav på distributionssystem för television och ljudradio.",
+          "8. Krav på strålningsimmunitet hos komponenter och kablar för att minska ledningsbundna störningar.",
+          "9. Antenner, mottagningsutrustningar och mätinstrument för satellitmottagning.",
+          "10. Antenner för tv-mottagning och mätinstrument för kontroll av signalnivå och kvalitet.",
+          "11. Felsökning och reparation av antenn- och kabel-tv-anläggningar.",
+          "12. Kontrollmätning och signalnivåjustering i kabel-tv-anläggningar.",
+          "13. Registrering av mätdata och dokumentation av arbetet."
+        ]
+      }
+    ]
+  }
 }

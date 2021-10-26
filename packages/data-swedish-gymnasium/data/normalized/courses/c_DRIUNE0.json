@@ -1,4 +1,24 @@
 {
   "name": "Underhåll – elteknik",
-  "code": "DRIUNE0"
+  "code": "DRIUNE0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Grundläggande ellära med elektriska storheter och samband, DC och AC. Likström, serie- och parallellkoppling, dioder och likriktarkopplingar.",
+          "2. Enfas växelström samt motor- och transformatorprinciperna. Trefas växelström med enklare effektberäkningar.",
+          "3. Praktiska uppkopplingar med standardprodukter, anslutning, loss- och inkoppling av apparater och utrustningar.",
+          "4. Montering, koppling och funktionsprovning med användning av symboler i ritnings- och schemaläsning.",
+          "5. Motorers olika kopplingar och överlastsskydd. Underspänningsskydd och obehörig igångsättning.",
+          "6. Gällande standarder och bestämmelser såväl för skötsel och underhåll av befintliga elanläggningar som för nyinstallation.",
+          "7. Föreskrifter och förordningar för drift och underhåll av elanläggningar.",
+          "8. Montering av olika relä- och kontaktorutrustningar. Funktionsprovning med hjälp av ritningar, scheman och tabeller.",
+          "9. Elsäkerhet och system för säkerhet i maskinutrustningar med säkerhetsrelä, nödstopp, ridåer, lås.",
+          "10. Kapslingsklasser, isolerklasser, EX-klasser.",
+          "11. CE-krav vid installation och underhåll."
+        ]
+      }
+    ]
+  }
 }

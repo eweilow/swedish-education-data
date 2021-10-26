@@ -1,4 +1,23 @@
 {
   "name": "Materialkunskap 2",
-  "code": "MAEMAT02"
+  "code": "MAEMAT02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Avancerad hand- och maskindriven utrustning vid materialbearbetning samt vid formning, sammanfogning och delning.",
+          "2. Etablerade, alternativa metoder för materialbearbetning.",
+          "3. Materialbearbetning i modern tekniskt avancerad produktionsutrustning.",
+          "4. Eventuella alternativa material i produktproduktionen.",
+          "5. Berednings- och ritningsunderlag samt etablerade, alternativa metoder för materialoptimering.",
+          "6. Metoder för att lösa avancerade materialrelaterade problem.",
+          "7. För materialet relevant färg- och formlära.",
+          "8. Materialets tekniska, fysiska och kemiska yttre och inre egenskaper.",
+          "9. Introduktion till aktuell forskning och utveckling inom materialområdet.",
+          "10. Laborativa materialförsök. Idéutveckling."
+        ]
+      }
+    ]
+  }
 }

@@ -99,7 +99,7 @@ export async function normalizeSubjects(
     assert.lengthOf(
       result.purpose?.sections ?? [],
       3,
-      `${result.code}: description`
+      `${result.code}: purpose`
     );
     assert.equal(result.purpose?.sections?.[0]?.title, null);
     assert.match(

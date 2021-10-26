@@ -1,4 +1,23 @@
 {
   "name": "Informationsteknisk arkitektur",
-  "code": "INAINF3"
+  "code": "INAINF3",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Krav på ett informationstekniskt system, till exempel informationssäkerhet, skalbarhet, stabilitet och tillgänglighet, och på vilka sätt dessa krav kan tillgodoses i ett informationstekniskt system.",
+          "2. Uppbyggnad av system med interoperabilitet som mål med hjälp av tjänsteorienterad arkitektur.",
+          "3. Ett informationstekniskt systems livscykel med behovsanalys, riskanalys, kravspecifikation, utveckling, testning, driftsättning och förvaltning.",
+          "4. Nedbrytning av ett befintligt system i mindre delar och processer med hjälp av någon systemutvecklingsmetod, till exempel vattenfallsmetoden och lättrörliga metoden.",
+          "5. Dokumentation av ett befintligt system och representation av detta system i något språk.",
+          "6. En projektmetod och dess användning inom det informationstekniska området.",
+          "7. Metoder för kvalitetsstyrning och utvärdering. System för incidenthantering och spårbarhet.",
+          "8. Regelverk för it-användning med informationssäkerhet som övergripande syfte.",
+          "9. System för styrning av informationstekniska system, till exempel ITIL (Information Technology Infrastructure Library).",
+          "10. Entreprenörskap och kundbemötande samt kommunikation med uppdragsgivare och uppdragstagare i tal, skrift och med visuella hjälpmedel."
+        ]
+      }
+    ]
+  }
 }

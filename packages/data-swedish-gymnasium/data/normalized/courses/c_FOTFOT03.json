@@ -1,4 +1,21 @@
 {
   "name": "Fotografisk bild 3",
-  "code": "FOTFOT03"
+  "code": "FOTFOT03",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Den fotografiska processen med särskilt fokus på den digitala bilden.",
+          "2. Den fotografiska produktionsprocessen ur ett yrkesperspektiv, dvs. arbetsorganisation, arbetsdisciplin, initiativförmåga, omdömesförmåga, tidsramar och kostnadsramar.",
+          "3. Initiering, planering och genomförande av fotografiska projekt.",
+          "4. Avancerad studiofotografering och ljussättning med digital utrustning.",
+          "5. Metoder för att utveckla kommunikationsförmåga och ett personligt bildspråk.",
+          "6. Fördjupning av fotografiets historia från camera obscura till dagens kamerateknik.",
+          "7. Den fotografiska bildens användningsområden inom till exempel vetenskaplig kunskapsutveckling, sjukvård, information, medier, internet, näringsliv och kultur. Villkor och kvalitetskrav för publicering på internet eller i grafisk produktion och vid olika utskrifter.",
+          "8. Lagar och andra bestämmelser om upphovsrätt och etiska frågeställningar, till exempel vad gäller bildmanipulation."
+        ]
+      }
+    ]
+  }
 }

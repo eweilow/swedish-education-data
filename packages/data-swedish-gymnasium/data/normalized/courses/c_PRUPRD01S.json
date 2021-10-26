@@ -1,4 +1,21 @@
 {
   "name": "Produktionsutrustning 1",
-  "code": "PRUPRD01S"
+  "code": "PRUPRD01S",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Enklare hantering och vård av vald produktionsutrustning och kringutrustning, till exempel verktyg, maskiner, produktionsmoduler och styrteknisk utrustning, enligt gällande säkerhetsföreskrifter.",
+          "2. Funktion och konstruktion hos enklare produktionsutrustning och kringutrustning.",
+          "3. Grundläggande produktionsrelaterade arbetsmoment, till exempel bänkarbeten, enkla arbeten inom skärande bearbetning, sammanfogning av enkel plåtprodukt, användning av mätdon samt läsning och tydning av enkla ritningar. Heta arbeten.",
+          "4. Dagligt underhåll av produktions- och kringutrustning.",
+          "5. Relevanta mätningar, till exempel dimensioneringar, koncentrationer och toleranser, i samband med användande av utrustning.",
+          "6. Vanligt förekommande användningsområden, metoder och tekniker för relevant produktionsutrustning och kringutrustning.",
+          "7. Vanligt förekommande begrepp, för relevant industriteknisk produktionsutrustning och kringutrustning.",
+          "8. Grundläggande symboler, beteckningar och märkningar."
+        ]
+      }
+    ]
+  }
 }

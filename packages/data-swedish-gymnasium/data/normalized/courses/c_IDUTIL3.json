@@ -1,4 +1,25 @@
 {
   "name": "Tillämpad automationsteknik",
-  "code": "IDUTIL3"
+  "code": "IDUTIL3",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Strategier för digitalisering av automatiserade processer.",
+          "2. Uppbyggnad och funktion av smarta sensorer som kontinuerligt registrerar och mäter aktiviteter, utfall, prestanda och miljöfaktorer.",
+          "3. Användningsområde för samarbetande robotar.",
+          "4. Tolkning av standarder, begrepp, definitioner och utrustning som används vid arbete med digitalisering av automatiserade processer.",
+          "5. Hantering av avancerade simulerings- och modelleringsprogram för digitaliserade automatiserade processer.",
+          "6. Hantering och användning av system som hjälp för att skapa förstärkt verklighet (AR).",
+          "7. Digitaliseringen ur ett livscykelperspektiv, till exempel råvarutillgång och återvinning.",
+          "8. Framtida perspektiv på hållbar utveckling, arbetsmiljö och teknikens roll.",
+          "9. Konfiguration för digitala gränssnitt anpassade till automatiserade processer.",
+          "10. Programmering och konfiguration av autonoma och lärande system som en kombination av traditionella automationsteknologier och artificiell intelligens (AI).",
+          "11. Programmering och konfiguration av molnbaserade lösningar för olika applikationer i en automatiserad process.",
+          "12. Hantering, utvärdering och analys av den datamängd som genereras i digitaliserade system med avancerade analysmetoder och program."
+        ]
+      }
+    ]
+  }
 }

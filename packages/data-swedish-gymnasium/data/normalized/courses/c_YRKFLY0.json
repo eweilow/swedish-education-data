@@ -1,4 +1,19 @@
 {
   "name": "Flyglagstiftning",
-  "code": "YRKFLY0"
+  "code": "YRKFLY0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Olika aktörers regelverk och roller enligt rådande luftfartsbestämmelser.",
+          "2. Förståelse för hur man håller sig uppdaterad på förändringar i regelverket.",
+          "3. Förståelse för regelverk som styr flygunderhållspersonals kunskapskrav och flygverkstäders verksamhet, enligt EASA Part-66 och Part-145.",
+          "4. Förståelse för operatörens ansvar för fortsatt luftvärdighet och underhåll.",
+          "5. Förståelse för regelverk som styr konstruktion, tillverkning och vidmakthållande av luftfartyg, enligt EASA Part-21 och Part-M.",
+          "6. Fackspråk på svenska och engelska."
+        ]
+      }
+    ]
+  }
 }

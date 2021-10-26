@@ -1,4 +1,20 @@
 {
   "name": "Skeppsteknik",
-  "code": "FARSKE0"
+  "code": "FARSKE0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Olika fartygstypers konstruktion.",
+          "2. Fartygs huvuddimensioner och form.",
+          "3. Skeppsmätning.",
+          "4. Lastlinjekonventionen.",
+          "5. Fartygs påkänningar.",
+          "6. Faktorer som påverkar fartygs stabilitet.",
+          "7. Hydrostatiska data."
+        ]
+      }
+    ]
+  }
 }

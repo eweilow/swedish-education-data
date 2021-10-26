@@ -1,4 +1,26 @@
 {
   "name": "Industriell robotteknik",
-  "code": "IDUROB3"
+  "code": "IDUROB3",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Industrirobotsystems uppbyggnad, användningsområde och funktion.",
+          "2. Uppbyggnad och funktion av kringutrustning till industrirobotsystem.",
+          "3. Robottekniska begrepp, definition och användning av olika koordinatsystem samt grundläggande kinematik.",
+          "4. Standarder inom robotteknik, till exempel standarder för informationsteknik och säkerhet.",
+          "5. Användning av olika program för simulering av robotsystem.",
+          "6. Robotsystems påverkan på miljö och ekonomi.",
+          "7. Programmering av industrirobotsystem samt ändring och definition av variabler och systemparametrar.",
+          "8. Planering, provkörning och kontroll före drifttagning av program i industrirobotsystem.",
+          "9. Arbetsmiljö och säkerhet vid arbete med robotsystem.",
+          "10. Kommunikation mellan industrirobotsystem och andra enheter, internt och externt.",
+          "11. Analys av befintlig automatiserad process med förslag på förbättringar och optimeringar.",
+          "12. Skriftlig och muntlig dokumentation av industrirobotcellens funktion, uppbyggnad och program.",
+          "13. Förebyggande underhåll samt felsökning och reparation på industrirobotsystem med hjälp av program, manualer och dokumentation."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,22 @@
 {
   "name": "Produktionsutrustning 2",
-  "code": "PRUPRD02S"
+  "code": "PRUPRD02S",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Arbete med och vård av vald produktionsutrustning och kringutrustning, till exempel verktyg, maskiner, produktionsmoduler och styrteknisk utrustning, enligt gällande säkerhetsföreskrifter.",
+          "2. Funktion och konstruktion hos relevant produktionsutrustning och kringutrustning.",
+          "3. Enklare funktionskontroll och mätningar samt visst underhåll av produktionsutrustning och kringutrustning.",
+          "4. Enklare dimensionering och tekniska beräkningar.",
+          "5. Användningsområden för relevant produktionsutrustning och kringutrustning.",
+          "6. Enklare begrepp, metoder och tekniker för industriteknisk produktionsutrustning och kringutrustning.",
+          "7. Enklare teknisk beskrivning för produktionsutrustning och kringutrustning.",
+          "8. Materialegenskaper och materialets betydelse för funktion och kvalitet hos produktionsutrustning och kringutrustning samt produkter.",
+          "9. Mätning och dokumentation av kvalitet på utfört arbete."
+        ]
+      }
+    ]
+  }
 }

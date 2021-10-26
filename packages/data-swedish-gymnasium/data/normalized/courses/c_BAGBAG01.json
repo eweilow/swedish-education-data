@@ -1,4 +1,24 @@
 {
   "name": "Bageri 1",
-  "code": "BAGBAG01"
+  "code": "BAGBAG01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Tillverkning av jästa grunddegar samt enklare bröd och bakverk.",
+          "2. Jäs- och avbakningsmoment.",
+          "3. Metoder, redskap, maskiner och annan utrustning som används vid tillverkning av enklare bröd och bakverk.",
+          "4. Hur man läser och använder recept.",
+          "5. Råvaror och andra ingredienser som är lämpliga för ändamålet.",
+          "6. Paketering och märkning av bröd och bakverk.",
+          "7. Hygien och dagliga hygienrutiner.",
+          "8. Ergonomi i det egna arbetet samt ergonomiska riskfaktorer.",
+          "9. Arbetsmiljö och säkerhet samt de lagar och andra bestämmelser som gäller inom området, till exempel livsmedelslagen och EU-bestämmelser.",
+          "10. Metoder för utvärdering.",
+          "11. Bröds och bakverks historia."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,26 @@
 {
   "name": "Datalagring",
-  "code": "DAADAT3"
+  "code": "DAADAT3",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Terminologi och grundläggande teori om datalagring.",
+          "2. Grundläggande teoribildning för datamodeller.",
+          "3. Datalagring i strukturerade filer i olika format.",
+          "4. Datalagring i relationsdatabas samt i någon ytterligare typ av databas.",
+          "5. Prestandaoptimering och skalbarhet.",
+          "6. Dataintegritet, feltolerans och säkerhet.",
+          "7. Verktyg för administration och utveckling.",
+          "8. Frågespråk och verktyg för manipulering av lagrad data.",
+          "9. Åtkomst av data för att skapa, läsa, ändra eller radera data samt för att skapa och redigera schema.",
+          "10. Programvarugränssnitt för åtkomst till lagrad data.",
+          "11. Auktorisering av dataåtkomst, säker lagring och handhavande av känsliga uppgifter.",
+          "12. Datasäkerhet och backup.",
+          "13. Lagstiftning, andra bestämmelser och integritetsfrågor."
+        ]
+      }
+    ]
+  }
 }

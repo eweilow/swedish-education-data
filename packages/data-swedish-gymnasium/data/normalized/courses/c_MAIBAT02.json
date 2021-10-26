@@ -1,4 +1,27 @@
 {
   "name": "Båtel 2",
-  "code": "MAIBAT02"
+  "code": "MAIBAT02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Galvaniska strömmar och isolation.",
+          "2. Principer för selektivitet.",
+          "3. Utförande av enklare starkströmsinstallationer, till exempel landströmsinstallationer.",
+          "4. Dimensionering, fördelning samt installationskrav på anläggningar upp till 400 V systemspänning i båtar.",
+          "5. Beräkningar och mätning av elektriska storheter i likströms- och växelströmsanläggningar.",
+          "6. Kontroll inför drifttagning samt funktionsprovning av elektriska system.",
+          "7. Arbetsplanering. Val av metoder, verktyg och material.",
+          "8. Mätinstrument och digital utrustning.",
+          "9. Kopplingsscheman och instruktioner.",
+          "10. Yrkets fackspråk, termer och begrepp.",
+          "11. Ellag och starkströmsförordning.",
+          "12. Dokumentation av elinstallationer.",
+          "13. Beräkningar av material- och tidsåtgång samt kostnader.",
+          "14. Dokumentation, presentation och utvärdering av resultat."
+        ]
+      }
+    ]
+  }
 }

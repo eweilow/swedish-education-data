@@ -1,4 +1,37 @@
 {
   "name": "Hästsportanläggningars skötsel och drift 1",
-  "code": "NARHAS01"
+  "code": "NARHAS01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Byggteknisk grund",
+        "rows": [
+          "1. Egenskaper, funktion och användningsområden hos vanligt förekommande byggmaterial inom hästsportanläggningar.",
+          "2. Inom hästsportanläggningar vanligt förekommande byggnader och anläggningar och deras funktion samt deras kulturhistoriska och estetiska värden.",
+          "3. Enklare planeringar och beräkningar för att lösa aktuella arbetsuppgifter."
+        ]
+      },
+      {
+        "title": "Arbetsuppgifter",
+        "rows": [
+          "1. Val av material och beräkning av materialåtgång.",
+          "2. Arbetsmetoder vid byggnads- och underhållsarbeten samt daglig drift inom hästsportanläggningar.",
+          "3. Hantering av byggmaterial vid transport, lagring och återvinning.",
+          "4. Användning och vård av verktyg, maskiner och redskap för olika arbetsuppgifter.",
+          "5. Användning av teknikmanualer.",
+          "6. Hållbar hantering av material och restprodukter."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Ergonomi, arbetsmiljö och säkerhet i samband med hästsportanläggningars skötsel och drift."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,21 @@
 {
   "name": "Material",
-  "code": "HVKMAT0"
+  "code": "HVKMAT0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Materials och produkters ursprung, uppbyggnad och egenskaper.",
+          "2. Materials och produkters hantering, funktion och användningsområden.",
+          "3. Utnyttjade materials och produkters olika egenskaper.",
+          "4. Skötsel av material och produkter.",
+          "5. Metoder för att analysera material.",
+          "6. Material och produkter som utvecklas i samband med nya trender.",
+          "7. Processer och metoder för utveckling och framställning av material.",
+          "8. Materials och produkters traditionella och nya användningsområden."
+        ]
+      }
+    ]
+  }
 }

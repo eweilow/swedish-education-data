@@ -1,4 +1,25 @@
 {
   "name": "Administration av nätverks- och serverutrustning",
-  "code": "NAIADM0"
+  "code": "NAIADM0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Nättopologier, dvs. på vilket sätt olika noder i nätverk är kopplade till varandra.",
+          "2. Konfigurering av anslutningstjänster till nätverkslagringsplatser.",
+          "3. Konfigurering av system och hantering av funktionsfel.",
+          "4. Hantering av olika former av nätverksutrustning, till exempel switchar, routrar och gateways. Utrustningens funktion och användningsområde.",
+          "5. Hantering av strömbortfall i en servermiljö och konfigurering av larm vid driftavbrott. Implementering av driftsäkerhet på såväl disknivå som elkraftsnivå.",
+          "6. Övervakning av nätverkstrafik och klienter samt hantering och övervakning med SNMP (Simple Network Management Protocol).",
+          "7. Skydd av servrar och klienter i nätverksmiljö med hjälp av mjukvara och hårdvara.",
+          "8. Kryptering av kommunikation mellan nät och servrar.",
+          "9. Systemintegration, till exempel samordning av inloggning och auktorisering till olika system.",
+          "10. Hantering och konfigurering av brandväggar.",
+          "11. Lagar och andra bestämmelser, till exempel personuppgiftslagen. Policydokument.",
+          "12. Felsökningsmetodik."
+        ]
+      }
+    ]
+  }
 }

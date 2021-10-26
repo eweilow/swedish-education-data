@@ -1,4 +1,24 @@
 {
   "name": "Inbrottslarmssystem",
-  "code": "LARINB0"
+  "code": "LARINB0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Olika typer av larm-, övervaknings- och presentationssystems funktion och uppbyggnad samt hur deras parametrar sätts.",
+          "2. Val av inbrottslarmssystem.",
+          "3. Olika angreppssätt som kan användas vid inbrott samt med vilken detektor bästa detektion uppnås.",
+          "4. Överfallslarmets ingående komponenter och funktioner samt i vilka olika sammanhang de kan komma till användning.",
+          "5. Regler och krav som styr en anläggnings utformning samt vilka kriterier som påverkar val och placering av system och detektorer.",
+          "6. Installation av inbrottslarmssystem med tillhörande komponenter.",
+          "7. Projektering av ett inbrottslarmssystem med hänsyn till gällande regelverk samt med beaktande av risken för falska larm.",
+          "8. Larmförmedling.",
+          "9. Olika typer av verktyg, instrument och övrig utrustning.",
+          "10. Vanliga mätinstrument och hjälpmedel för felsökning.",
+          "11. Metoder för felsökning och reparationer i inbrottslarm."
+        ]
+      }
+    ]
+  }
 }

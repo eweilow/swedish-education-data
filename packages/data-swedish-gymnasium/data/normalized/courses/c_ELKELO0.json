@@ -1,4 +1,23 @@
 {
   "name": "Elektronikproduktionsteknik",
-  "code": "ELKELO0"
+  "code": "ELKELO0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Monteringsmaskiner för komponenter.",
+          "2. Lödmaskiner för våglödning, ångzonslödning, hällödning och IR-lödning.",
+          "3. Produktionsprocessens olika steg: beredning, montering, lödning, avsyning och testning.",
+          "4. Planering och beredning av monteringsarbetet.",
+          "5. Arbetsinstruktioner, manualer, elektronikscheman och andra dokument på både svenska och engelska.",
+          "6. Mönsterkort av olika material och materialens lödegenskaper.",
+          "7. Produktionsmetoder och monteringstekniker samt verktyg och övrig utrustning.",
+          "8. Krav för lödcertifikat.",
+          "9. ESD-skydd (electrostatic discharge) av komponenter och arbetsplatser.",
+          "10. Produktionsflöde och kvalitetsbedömning."
+        ]
+      }
+    ]
+  }
 }

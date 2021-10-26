@@ -1,4 +1,25 @@
 {
   "name": "Kommunikationsnät 3",
-  "code": "INSKOM03"
+  "code": "INSKOM03",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Funktion och arbetssätt hos nätverkskomponenter, till exempel brygga, switch, router och gateway.",
+          "2. Ip-adressering och tcp/ip-protokoll.",
+          "3. Fiberoptiska nät till slutanvändare, FTTX-nät (_fiber to the X_).",
+          "4. Optofiber, optokabel och kontakter samt kanalisation för FTTX-nät.",
+          "5. Installation, driftsättning och inmätning samt registrering av LAN (local area network) med till exempel switch, router och gateway och med hjälp av ritningar och anvisningar.",
+          "6. Planering, installation, driftsättning och registrering av ip-nätverk med ip-tv och ip-telefoni med hjälp av ritningar och anvisningar.",
+          "7. Installation och driftsättning av trådlösa WLAN med switch och router samt konfigurering av säkerheten i nätet med hjälp av ritningar och anvisningar.",
+          "8. Planering, installation, driftsättning och registrering av trådlösa fastighetsnät för DECT-telefoni (_digital enhanced cordless telephony_) med hjälp av ritningar och anvisningar.",
+          "9. Säkerhetsrisker och kryptering av trådlösa nät.",
+          "10. Utrustningar och protokoll som används i nätverk för ip-tv.",
+          "11. Teknik och utrustning för ip-telefoni.",
+          "12. Metoder och utrustning för inmätning enligt mätkrav och specifikationer samt utskrift av provningsprotokoll."
+        ]
+      }
+    ]
+  }
 }

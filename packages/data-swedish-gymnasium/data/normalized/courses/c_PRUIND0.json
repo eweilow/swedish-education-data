@@ -1,4 +1,23 @@
 {
   "name": "Industriell mätteknik – grund",
-  "code": "PRUIND0"
+  "code": "PRUIND0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Hantering av för verksamheten relevant mätutrustning samt planering och organisation i samband med användandet.",
+          "2. Standarder, bestämmelser och utrustningar för säkerhet beträffande människor, mätutrustning och mätobjekt.",
+          "3. Tolkning och användning av mätresultat inom aktuell verksamhet för lämpliga korrigerande åtgärder.",
+          "4. Funktion och grundprinciper hos olika utrustningar och komponenter som används vid industriell mätning, till exempel givare, mätmaskiner och multimeter.",
+          "5. Egenkontroll av mätinstrument, kalibrering, mätnoggrannhet, mätfel, toleranser, spridning och andra relevanta statistiska mått.",
+          "6. Relevanta egenskaper hos mätobjektet som i kombination med använda mätdon påverkar resultatet.",
+          "7. Funktionskontroll samt vård av den utrustning som tillämpas inom verksamheten.",
+          "8. Tekniker, enheter och terminologi vid industriell mätning av för verksamheten relevanta storheter, till exempel längd, tryck, flöde, temperatur, elasticitet, böjning, vinkel samt nivå.",
+          "9. Enheter och mättekniska begrepp för såväl elektriska som mekaniska storheter inom olika tillämpningar.",
+          "10. Mätningens betydelse för ekonomi, kvalitet och miljö."
+        ]
+      }
+    ]
+  }
 }

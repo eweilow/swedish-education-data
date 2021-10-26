@@ -1,4 +1,21 @@
 {
   "name": "Musikimprovisation",
-  "code": "MUSMUI0"
+  "code": "MUSMUI0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Musikskapande på det egna instrumentet, alternativt med den egna rösten.",
+          "2. Spel, alternativt sång, i gehörsbaserad musik.",
+          "3. Musikaliska stilar och musikaliska strukturer, melodiska, harmoniska och rytmiska element. Musikteoretiska begrepp till grund för improvisation.",
+          "4. Fria improvisationer, musikalisk lek och spontanitet.",
+          "5. Experimenterande med musikaliskt material.",
+          "6. Byggstenar för improvisation, till exempel modus, skalor och musikaliska former.",
+          "7. Fri improvisation.",
+          "8. Interaktion, samspel och kommunikation med medmusiker."
+        ]
+      }
+    ]
+  }
 }

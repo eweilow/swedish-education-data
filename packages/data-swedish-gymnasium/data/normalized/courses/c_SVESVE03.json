@@ -1,4 +1,19 @@
 {
   "name": "Svenska 3",
-  "code": "SVESVE03"
+  "code": "SVESVE03",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Muntlig framställning med fördjupad tillämpning av den retoriska arbetsprocessen som stöd i planering och utförande samt som redskap för analys. Användning av såväl digitala som andra presentationstekniska hjälpmedel för att stödja och förbättra muntliga framställningar.",
+          "2. Viktiga generella drag som rör disposition, språk och stil i texter av vetenskaplig karaktär.",
+          "3. Läsning av och arbete med texter, vilket inkluderar strukturering, sovring, sammanställning, sammanfattning och källkritisk granskning.",
+          "4. Skriftlig framställning som anknyter till den vetenskapliga texttypen och som behandlar någon aspekt av svenskämnet. Användning av digitala verktyg för textbearbetning samt för respons på och samarbete när det gäller texter.",
+          "5. Skönlitterära texter, författade av såväl kvinnor som män, inom genrerna prosa, lyrik och dramatik. Litteraturvetenskapligt inriktad analys av stilmedel och berättartekniska grepp. Litteraturvetenskapliga begrepp och verktyg.",
+          "6. Det svenska språkets ursprung, historiska utveckling och släktskapsförhållanden. Språkförändring."
+        ]
+      }
+    ]
+  }
 }

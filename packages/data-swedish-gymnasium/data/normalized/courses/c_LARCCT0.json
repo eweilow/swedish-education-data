@@ -1,4 +1,26 @@
 {
   "name": "CCTV-system",
-  "code": "LARCCT0"
+  "code": "LARCCT0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Olika typer av CCTV-system samt när olika varianter av system är att föredra.",
+          "2. Belysningsstyrka, reflektionsfaktor och färgtemperatur som krävs för att uppnå bra bild.",
+          "3. Olika typer av lagringsmedia som används för att dokumentera de händelseförlopp som kameran registrerar.",
+          "4. Rätt val av monitor med tanke på användningsområde, upplösning, färg och liknande.",
+          "5. Kriterier som styr val av kamera samt lämplig optik med tanke på syftet med övervakningen samt de miljömässiga förhållandena.",
+          "6. Användning av bildöverföring för att verifiera händelser internt i objektet och externt när det gäller larmcentral och åtgärder.",
+          "7. Lagar och regler som styr en anläggnings utformning samt kriterier som påverkar val och placering av kameror och övriga komponenter.",
+          "8. Praktisk installation av CCTV-system med tillhörande komponenter.",
+          "9. Praktisk projektering av CCTV-system med hänsyn till gällande lagar och regler.",
+          "10. Larmförmedling.",
+          "11. Olika typer av verktyg, instrument och övrig utrustning.",
+          "12. Vanliga mätinstrument och hjälpmedel för felsökning.",
+          "13. Metoder för felsökning och reparationer i CCTV-system."
+        ]
+      }
+    ]
+  }
 }

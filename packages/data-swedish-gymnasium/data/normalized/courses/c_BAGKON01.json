@@ -1,4 +1,21 @@
 {
   "name": "Konditori 1",
-  "code": "BAGKON01"
+  "code": "BAGKON01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Tillverkning av enklare konditoriprodukter med hänsyn till utseende och smak.",
+          "2. Metoder, redskap, maskiner och annan utrustning som används vid tillverkning av konditoriprodukter.",
+          "3. Hur man läser och använder recept.",
+          "4. Råvaror och andra ingredienser som är lämpliga för ändamålet. Paketering och märkning av konditoriprodukter.",
+          "5. Hygien och dagliga hygienrutiner.",
+          "6. Ergonomi i det egna arbetet samt ergonomiska riskfaktorer.",
+          "7. Arbetsmiljö och säkerhet samt de lagar och andra bestämmelser som gäller inom området, till exempel livsmedelslagen och EU-bestämmelser.",
+          "8. Konditoriprodukters historia."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,23 @@
 {
   "name": "Matlagning 3",
-  "code": "MALMAL03"
+  "code": "MALMAL03",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Yrkesmässig matlagning och metoder, tekniker, redskap, maskiner och annan utrustning avsedd för restaurang och storkök.",
+          "2. Kreativt skapande av kalla och varma maträtter.",
+          "3. Kemiska och fysikaliska processer vid matlagning och hantering av råvaror.",
+          "4. Fördjupning av hur råvaror kan hanteras och förvaras.",
+          "5. Råvarors kvalitet och näringsinnehåll samt ekonomiska beräkningar när det gäller val av råvaror och prissättning av maträtter.",
+          "6. Framtagande av recept, matsedlar och menyer.",
+          "7. Hygien och dagliga hygienrutiner, till exempel rengöring av lokaler och utrustning.",
+          "8. Arbetsmiljö och säkerhet samt lagar och andra bestämmelser som gäller inom området, till exempel livsmedelslagen.",
+          "9. Egenkontroll.",
+          "10. Kommunikation och logistik för arbete i kök samt fackterminologi."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,26 @@
 {
   "name": "Spårfordon – grund",
-  "code": "SPOSPA0"
+  "code": "SPOSPA0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Spårfordons historia, utveckling och framtid samt roll i samhället.",
+          "2. Olika spårbundna fordon och deras användningsområden.",
+          "3. Konstruktion och funktion av olika driftarter för spårfordon, till exempel el-, diesel- och eldieseldrift.",
+          "4. Spårfordons uppbyggnad, funktionssystem och ingående komponenter.",
+          "5. Relevanta metoder och strategier för underhåll av spårfordon.",
+          "6. Instrument, manualer, ritningar, scheman och system för arbeten samt dokumentation vid åtgärder på spårfordon.",
+          "7. Säkerhet i samband med vistelse i spår och spårområden.",
+          "8. Lagar och andra bestämmelser för spårfordon och deras driftsområden.",
+          "9. Enkel demontering, installation och montering.",
+          "10. Funktion och uppbyggnad av system och anläggningar för drift, till exempel kraftförsörjningsanläggningar.",
+          "11. Arbetsmiljö, riskanalys, brandskydd, första hjälpen och krishantering.",
+          "12. Ergonomiskt arbetssätt för att förebygga ohälsa och olycksfall.",
+          "13. Fackspråk för att förstå och följa instruktioner samt för att kommunicera kring arbetets utförande."
+        ]
+      }
+    ]
+  }
 }

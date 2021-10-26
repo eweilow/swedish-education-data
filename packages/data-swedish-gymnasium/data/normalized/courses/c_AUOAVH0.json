@@ -1,4 +1,24 @@
 {
   "name": "Avhjälpande och förebyggande underhåll",
-  "code": "AUOAVH0"
+  "code": "AUOAVH0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Uppbyggnad av samt funktion och principer för olika typer av automatiserade system.",
+          "2. Olika typer av risker i automatiserade system.",
+          "3. Metoder för underhållsplanering i automatiserade anläggningar.",
+          "4. Beräkning av utrustningseffektivitet, operationseffektivitet och total tillgänglighet.",
+          "5. Operatörsunderhåll, till exempel rengöring och inspektion av utrustning.",
+          "6. Metoder för kontinuerlig uppföljning av driftstörningar och anpassade åtgärder för att utveckla ett företags produktionsprocess och höja den totala utrustningseffektiviteten.",
+          "7. Mätning och analys av tillståndet i en produktionsprocess, till exempel med KJ-analys eller manuellt förd underhållslogg.",
+          "8. Olika typer av planerade förluster, till exempel planerade produktionsstopp.",
+          "9. Olika typer av oplanerade förluster, till exempel väntan vid haveri, rörelseförluster eller balanseringsförluster.",
+          "10. Visualiseringsmetoder för tillstånd i en produktionsprocess, till exempel med sambandsdiagram eller styrdiagram.",
+          "11. Metoder för metodisk felsökning."
+        ]
+      }
+    ]
+  }
 }

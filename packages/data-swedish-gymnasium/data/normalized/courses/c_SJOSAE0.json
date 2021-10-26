@@ -1,4 +1,51 @@
 {
   "name": "Säkerhet och miljö",
-  "code": "SJOSAE0"
+  "code": "SJOSAE0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Säkerhets- och miljöskyddsorganisation",
+        "rows": [
+          "1. Rederiers och fartygs säkerhets- och miljöskyddsorganisation.",
+          "2. Systematiskt säkerhetsarbete på fartyg."
+        ]
+      },
+      {
+        "title": "Personlig säkerhet",
+        "rows": [
+          "1. Elektriska, mekaniska, kemiska och biologiska risker.",
+          "2. Fartygs säkerhetsinstruktioner.",
+          "3. Tillverkares säkerhetsinstruktioner.",
+          "4. Tillstånd och checklistor för farliga arbeten.",
+          "5. Personlig skyddsutrustning.",
+          "6. Arbete på hög höjd och på fartygets utsida.",
+          "7. Arbete i slutna utrymmen.",
+          "8. Ergonomi, till exempel vid lyft."
+        ]
+      },
+      {
+        "title": "Miljöskyddsarbete på fartyg",
+        "rows": [
+          "1. Åtgärder för att förebygga förorening av den marina miljön.",
+          "2. Utrustning för att förhindra förorening.",
+          "3. Metoder för avfallshantering på fartyg."
+        ]
+      },
+      {
+        "title": "Räddningsfarkoster och beredskapsbåtar",
+        "rows": [
+          "1. Handhavande av räddningsfarkoster och beredskapsbåtar under och efter sjösättning.",
+          "2. Drift och skötsel av räddningsfarkosters motorer.",
+          "3. Omhändertagande av överlevande.",
+          "4. Handhavande av lokaliseringsutrustning, radioutrustning och pyrotekniska signaler.",
+          "5. Handhavande av räddningsfarkoster efter övergivande av fartyget.",
+          "6. VHF-telefoni."
+        ]
+      }
+    ]
+  }
 }

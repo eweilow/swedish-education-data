@@ -1,4 +1,35 @@
 {
   "name": "Fiske och vattenvård 2",
-  "code": "SKOFIS02"
+  "code": "SKOFIS02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Biologisk grund",
+        "rows": [
+          "1. Olika fiskarter samt deras egenskaper och miljökrav.",
+          "2. Vattenlevande organismers biologi samt miljöfaktorer som påverkar dem.",
+          "3. Internationella förhållanden beträffande fiske och vattenvård."
+        ]
+      },
+      {
+        "title": "Arbetsuppgifter",
+        "rows": [
+          "1. Utarbetande av vattenvårdsplaner och ekonomiska kalkyler för förvaltning och tillsyn av fiskevatten.",
+          "2. Planering, genomförande och utvärdering av vattenvård och fiskevårdande åtgärder.",
+          "3. Arbetsuppgifter i samband med fiske och tillvaratagande av fisk."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Arbetsmiljö, ergonomi och säkerhet i samband med vattenvård och fiskevård.",
+          "2. Lagar och andra bestämmelser, till exempel internationella förhållanden inom vattenvård och fiskevård."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,25 @@
 {
   "name": "Bygg och anläggning 1",
-  "code": "BYGBYG01"
+  "code": "BYGBYG01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Informationssökning för arbetsuppgiften med hjälp av internet och på andra sätt.",
+          "2. Praktiska arbetsuppgifter inom anläggning, husbyggnad, måleri och plåtslageri.",
+          "3. Enklare planeringar och beräkningar för att lösa arbetsuppgifterna.",
+          "4. Verktyg och maskiner för olika ändamål. Handhavande och skötsel.",
+          "5. Olika typer av material och deras egenskaper.",
+          "6. Hantering av material, till exempel förbrukning och återvinning.",
+          "7. Arbetsmiljö, hälsa, ergonomi och säkerhet samt riskbedömningar för arbetsuppgifterna.",
+          "8. Grundläggande ritningsläsning.",
+          "9. Metoder för att dokumentera och utvärdera sitt arbete.",
+          "10. Olika yrken inom bygg- och anläggningsbranschen samt studiebesök på olika arbetsplatser.",
+          "11. Byggandets process från planering till färdigställande och drift samt olika aktörers funktioner och roller.",
+          "12. Facktermer."
+        ]
+      }
+    ]
+  }
 }

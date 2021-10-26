@@ -1,4 +1,23 @@
 {
   "name": "Nätverksteknik",
-  "code": "NAINAR0"
+  "code": "NAINAR0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Nätverkskomponenter i de delar som utgör ett datornätverk, till exempel klienter, servrar, skrivare, nätverkskort, omkopplare, nätslussar och kablage.",
+          "2. Nätverksoperativsystems uppbyggnad och funktion, mjukvarans struktur i servrar och dess sammanställning samt principer för hur servrar kan kommunicera och vilka tjänster de kan erbjuda användarna.",
+          "3. Olika filsystem och hur information lagras på olika sätt i olika operativsystem.",
+          "4. Installation av serveroperativsystem samt systemens tjänster.",
+          "5. Installation och konfigurering av utskriftssystem samt hantering av tillgång till en central tjänst för utskriftshantering.",
+          "6. Administration av enklare katalogtjänster.",
+          "7. Inloggning samt säkerhetsregler för användare.",
+          "8. Kontohantering för användare.",
+          "9. Rättighets- och säkerhetssystem, servrars tillgång till en central lagringsplats för information samt möjlighet att dela data.",
+          "10. Säkerhetskopiering, skydd av information vid haveri av en servers filsystem, tillämpning av de principer som finns för säkerhetskopiering och hantering av den utrustning som krävs."
+        ]
+      }
+    ]
+  }
 }

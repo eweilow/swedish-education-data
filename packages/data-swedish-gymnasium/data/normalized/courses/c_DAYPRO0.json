@@ -1,4 +1,31 @@
 {
   "name": "Programmerbara datorsystem – spårfordon",
-  "code": "DAYPRO0"
+  "code": "DAYPRO0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Uppbyggnad, topologi och funktion hos fordonsdatorsystem samt för- och nackdelar med olika styrsystem, historik och utveckling.",
+          "2. Kommunikationsplattformen mellan spårfordonsdator och övriga system.",
+          "3. Fordonsdatorsystemets roll inom förebyggande och avhjälpande underhåll.",
+          "4. Realtidsdatorer, operativsystem, komponenter och användning.",
+          "5. Fältbussar och distribuerad I/O.",
+          "6. Givare och sensorer, till exempel för mätning av hastighet, temperatur, tryck, flöde och nivå.",
+          "7. Mäta och tolka ingenjörsstorheter.",
+          "8. Inkoppling av givare och ställdon till programmerbara styrsystem.",
+          "9. Metoder för grundläggande felsökning i anläggningar med distribuerade styrsystem, till exempel verktyg för visualisering av virtuella data och jämförelser av data med mätningar av samma signal på plint.",
+          "10. Exempel på programspråk och applikationsprogram.",
+          "11. Programmeringsmetoder, till exempel funktionsblock, strukturerad text och instruktionsprogrammering.",
+          "12. Programmeringsteknik och programmering av styr- och reglersystem.",
+          "13. Konfigurering och programmering av styr- och reglertekniska anläggningar med distribuerade kontrollenheter.",
+          "14. Programstruktur och mjukvaruscheman för spårfordon.",
+          "15. Programändring i spårfordonssystem.",
+          "16. Verktyg, scheman, ritningar, datablad och övrig dokumentation samt dokumentationsrutiner för genomfört arbete.",
+          "17. Regler och föreskrifter.",
+          "18. Säkerhet för arbete med fordonsdatorn som verktyg."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,23 @@
 {
   "name": "Materialteknik",
-  "code": "KORMAT3"
+  "code": "KORMAT3",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Materialteknikens roll i konstruktionsarbetet.",
+          "2. Fördjupning av konstruktionsmaterials tekniska, fysiska och kemiska egenskaper samt deras användningsområden.",
+          "3. Metoder för materialval och deras begränsningar, samt val och utvärdering av material vid olika konstruktionsmässiga tillämpningar.",
+          "4. Användning av matematiska och teknikvetenskapliga teorier och modeller för utvärdering och val av material.",
+          "5. Standarder och normer i materialteknik.",
+          "6. Manuella och datorstödda verktyg, till exempel materialdatabaser för inhämtning av information och användning vid val av material.",
+          "7. Materials förändrade egenskaper vid framställning och bearbetning.",
+          "8. Optimering av material mot olika förutsättningar som tillverkning, hållbar utveckling, lönsamhet och kvalitet.",
+          "9. Materials samverkan med omgivande material och miljö. Provning av materials konstruktionsfunktion, till exempel dragprov.",
+          "10. Dokumentation och redovisning av materialval och utvärdering av material."
+        ]
+      }
+    ]
+  }
 }

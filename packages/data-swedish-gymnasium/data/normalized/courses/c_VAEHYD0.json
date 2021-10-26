@@ -1,4 +1,17 @@
 {
   "name": "Hydraulik, kraftstationshydraulik och turbiner",
-  "code": "VAEHYD0"
+  "code": "VAEHYD0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Hydraulikkomponenters funktion och användning.",
+          "2. Olika turbinmodellers uppbyggnad och funktion.",
+          "3. Kraftstationshydraulik och turbinreglering.",
+          "4. Uppbyggnad och funktion av vattenkraftstationers olika glidlager och tätningsboxar."
+        ]
+      }
+    ]
+  }
 }

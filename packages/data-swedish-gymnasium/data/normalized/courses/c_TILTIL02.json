@@ -1,4 +1,20 @@
 {
   "name": "Tillverkningsunderlag 2",
-  "code": "TILTIL02"
+  "code": "TILTIL02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Tolkning av mönster- och ritningsunderlag.",
+          "2. Metoder för framställning av mönster eller ritningar med hjälp av datorteknik.",
+          "3. Metoder för beredning av tillverkningsritningar.",
+          "4. Specifika beteckningar för datorframställning av mönster eller ritningar.",
+          "5. Informationssökning i relevanta källor.",
+          "6. Material- och produktionsstyrningssystem, hur de fungerar och deras betydelse för produktionen.",
+          "7. Termer och begrepp som är relevanta för teknikområdet."
+        ]
+      }
+    ]
+  }
 }

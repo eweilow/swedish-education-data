@@ -1,4 +1,26 @@
 {
   "name": "Elkraftteknik",
-  "code": "ELRELF0"
+  "code": "ELRELF0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Anslutning, losskoppling och funktionsprovning av apparater och utrustning.",
+          "2. Montering och flyttning i befintliga gruppledningar.",
+          "3. Elmotorer med enklare tillhörande startutrustningar.",
+          "4. Kopplingsutrustningar, apparatskåp och enklare styrutrustning.",
+          "5. Förläggning och anslutning av ledningar.",
+          "6. Ritning och schemaläsning inom området.",
+          "7. Föreskrifter, standarder och bestämmelser enligt gällande auktorisation.",
+          "8. Olika materials egenskaper och kapslingsklasser.",
+          "9. Mätning av vanligt förekommande elektriska storheter.",
+          "10. Begreppet elkvalitet och installationer för elektromagnetisk kompatibilitet.",
+          "11. Felsökning och underhåll av befintlig elutrustning.",
+          "12. Personligt skydd vid arbete med spänningssatta föremål och arbete nära spänning samt elfara för personer och egendom.",
+          "13. Kontroll inför drifttagning."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,23 @@
 {
   "name": "Administration – specialisering",
-  "code": "ADMADM00S"
+  "code": "ADMADM00S",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Administrativa rutiner och dokumentutformning inom valt verksamhetsområde.",
+          "2. Organisation och ansvarsfördelning inom valt verksamhetsområde.",
+          "3. Företagande och entreprenörskap inom valt verksamhetsområde.",
+          "4. Arbetsmarknaden samt dess utveckling och framtid inom det administrativa området.",
+          "5. Digitala administrativa hjälpmedel i arbetet, till exempel ordbehandlings-, kalkyl-, register- och presentationsprogram.",
+          "6. Sociala medier, intranät och internet.",
+          "7. Administrativa arbetsuppgifter i olika företag och organisationer, till exempel handelsföretag, tjänsteföretag, kommunal och statlig förvaltning.",
+          "8. Arbetsrätt, den enskildes rättigheter och skyldigheter.",
+          "9. Diskriminerings- och säkerhetsfrågor samt frågor om resurshushållning och miljö.",
+          "10. Etik och kvalitet."
+        ]
+      }
+    ]
+  }
 }

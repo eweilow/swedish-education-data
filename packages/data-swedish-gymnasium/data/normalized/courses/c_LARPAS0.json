@@ -1,4 +1,26 @@
 {
   "name": "Passersystem",
-  "code": "LARPAS0"
+  "code": "LARPAS0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Olika typer av passersystem, deras uppbyggnad och funktion.",
+          "2. Centralutrustning i form av datorer och programvara och undercentraler som är grundläggande i ett passersystem.",
+          "3. Dörrmiljön.",
+          "4. Centralenhetens och platsutrustningens systemmässiga placering samt hur de knyts till varandra kommunikationsmässigt.",
+          "5. Olika slags koder som kan lagras i kodmedier samt olika teknik som används i olika typer av kodmedier.",
+          "6. Standarder och krav som styr en anläggnings utformning samt vilka kriterier som påverkar val och placering av system och komponenter.",
+          "7. Upprättande av ljudförbindelse i passerkontrollsystem.",
+          "8. Installation av passersystem med tillhörande komponenter.",
+          "9. Projektering av passersystem med hänsyn till gällande regelverk samt med beaktande av risken för falska larm.",
+          "10. Programmering av passersystem med hänsyn till objektstyp, användarfunktioner samt övriga krav.",
+          "11. Olika typer av verktyg, instrument och övrig utrustning.",
+          "12. Vanliga mätinstrument och hjälpmedel för felsökning.",
+          "13. Metoder för felsökning och reparationer i passersystem."
+        ]
+      }
+    ]
+  }
 }

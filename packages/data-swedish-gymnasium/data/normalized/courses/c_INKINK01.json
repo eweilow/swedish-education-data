@@ -1,4 +1,23 @@
 {
   "name": "Inköp 1",
-  "code": "INKINK01"
+  "code": "INKINK01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Inköpsarbete och inköpsteknik, betydelsen av en inköpsprocess.",
+          "2. Inköpsarbete i olika typer av företag, till exempel i små och stora företag och i import- och exportföretag.",
+          "3. Leverantörsrelationer och metoder för att finna och bedöma olika leverantörer nationellt.",
+          "4. Import och internationell handel samt internationella handelsregler, till exempel incoterms.",
+          "5. Sortimentsfrågor, hur ett sortiment sätts samman och bedöms.",
+          "6. Varuhantering, lagerkontroll och inventering.",
+          "7. Lagar och andra bestämmelser inom området.",
+          "8. Prissättnings- och lönsamhetskalkyler inom olika led, till exempel prissättning och kalkyler i butiksledet.",
+          "9. Arbetsmiljö och ergonomi.",
+          "10. Socialt ansvarstagande och rättvis handel samt betydelsen av verksamhetens roll inom hållbar utveckling och global rättvisa."
+        ]
+      }
+    ]
+  }
 }

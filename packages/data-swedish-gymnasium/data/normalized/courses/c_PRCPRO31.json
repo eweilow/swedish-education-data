@@ -1,4 +1,25 @@
 {
   "name": "Processteknik – energi 1",
-  "code": "PRCPRO31"
+  "code": "PRCPRO31",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Metoder och utrustning för att testa och kalibrera mätning av till exempel temperatur, tryck, nivå, flöde och joniserande strålning.",
+          "2. Metoder för mätning av varvtal och krafter.",
+          "3. Reglerteknik, specifikt reglerprocesser inom energiproduktion.",
+          "4. Funktion och konstruktion hos olika komponenter inom valt processtekniskt område.",
+          "5. Arbetsmiljöfrågor och säkerhetsföreskrifter.",
+          "6. Utvärdering av mätningar genom analys av metodval, arbetsprocess och felkällor.",
+          "7. Hållbart förhållningssätt med avseende på miljöaspekter vid processreglering och drift inklusive riskanalys och energioptimering.",
+          "8. Energiproduktion och distribution nationellt och internationellt.",
+          "9. Laborativa mätövningar med givare och omvandlare som bygger på digital och analog teknik.",
+          "10. Övervakning, styrning och reglering av processer med stöd av process- och anläggningsteknisk dokumentation.",
+          "11. Tolkning av anläggningsteknisk dokumentation, till exempel process- och instrumentscheman och manualer.",
+          "12. Systematiserade dokumentationsmetoder och kvalitetsteknik."
+        ]
+      }
+    ]
+  }
 }

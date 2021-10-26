@@ -1,4 +1,41 @@
 {
   "name": "Djurens biologi",
-  "code": "BIGDJE0"
+  "code": "BIGDJE0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Etologi",
+        "rows": [
+          "1. Olika djurslags naturliga miljö och naturliga beteende.",
+          "2. Beteendestudier på djur av olika arter i olika miljöer och med olika ålder.",
+          "3. Etologiska grundbegrepp, till exempel stimuli, rangordning, flockbeteende, tomgångshandlingar, överslagshandlingar och omriktat beteende.",
+          "4. Domesticeringens inverkan på olika djurslag."
+        ]
+      },
+      {
+        "title": "Systematik, anatomi och fysiologi",
+        "rows": [
+          "1. De huvudsakliga indelningarna som används inom djurriket för att kategorisera djur.",
+          "2. Artbegreppet och artkännedom.",
+          "3. Djurcellens byggnad och livsprocesser.",
+          "4. Djurens byggnad innefattande hudens, skelettets och muskulaturens uppbyggnad, nervsystemet med sinnesorganen, hjärt-kärlsystemet, matsmältningsapparaten samt fortplantningsorganen.",
+          "5. Livsprocesser innefattande andning, fodersmältning, energiomvandling, näringsbehov, blodcirkulation, temperaturkontroll och reproduktionsbiologi samt djurens rörelse.",
+          "6. Samband mellan evolutionen och djurens funktionella byggnad och livsprocesser."
+        ]
+      },
+      {
+        "title": "Mikrobiologi",
+        "rows": [
+          "1. Mikroorganismer och deras betydelse för djurhälsa och djursjukdomar.",
+          "2. Virus byggnad, funktion och betydelse för djurhälsa och djursjukdomar.",
+          "3. Smittämnen, smittspridning och immunförsvar, antibiotika och resistens mot antibiotika.",
+          "4. Laborationer och undersökningar med aktuell utrustning och aktuellt material från naturbrukets olika verksamhetsområden."
+        ]
+      }
+    ]
+  }
 }

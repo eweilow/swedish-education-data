@@ -1,4 +1,23 @@
 {
   "name": "Bageri – specialisering",
-  "code": "BAGBAG00S"
+  "code": "BAGBAG00S",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Yrkesmässig tillverkning av bröd och bakverk inom valt specialområde.",
+          "2. Tillverkningens trender och utveckling inom valt specialområde.",
+          "3. Utseende och smak inom valt specialområde.",
+          "4. Utformning av recept och arbetsbeskrivningar inom valt specialområde.",
+          "5. Ekonomiska konsekvenser vid val och inköp av råvaror samt vid tillverkning och förvaring.",
+          "6. Paketering och märkning av bröd och bakverk.",
+          "7. Hygien och hygienbestämmelser.",
+          "8. Ergonomi och ergonomiska riskfaktorer i arbetet.",
+          "9. Arbetsmiljö och säkerhet.",
+          "10. Förändringar av bröd, bakverk och brödkultur i allmänhet och inom valt specialområde genom historien och i olika kulturer."
+        ]
+      }
+    ]
+  }
 }

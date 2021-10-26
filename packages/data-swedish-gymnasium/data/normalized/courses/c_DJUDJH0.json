@@ -1,4 +1,40 @@
 {
   "name": "Djurhållning",
-  "code": "DJUDJH0"
+  "code": "DJUDJH0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Biologisk grund",
+        "rows": [
+          "1. Olika djurgrupper och deras beteende i samband med tillsyn och skötsel.",
+          "2. Djurens krav på stallklimat innefattande värme, ventilation, luftfuktighet och ljus.",
+          "3. Olika fodermedel och fodersmältning hos olika djurslag.",
+          "4. Djurens krav på vattentillgång och vattenkvalitet.",
+          "5. Hygien och smittskydd."
+        ]
+      },
+      {
+        "title": "Arbetsuppgifter",
+        "rows": [
+          "1. Arbetsrutiner vid skötsel av djur, till exempel vid utfodring, gödselhantering och tillsyn.",
+          "2. Hantering av djur i djurstallar, rasthagar och betesdrift med utgångspunkt i djurens beteende och behov.",
+          "3. Utfodring och foderhantering med utgångspunkt i djurens behov och med aktuell teknisk utrustning. Kontroll av kvalitet och foderhygien.",
+          "4. Skötsel av byggnader och djuranläggningar samt hantering och underhåll av aktuell teknisk utrustning.",
+          "5. Funktionskontroll av teknisk utrustning. Användning av fordon i samband med arbetsuppgifter inom djurhållning."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och andra bestämmelser",
+        "rows": [
+          "1. Ergonomi, arbetsmiljö och säkerhet i samband med arbete med djur.",
+          "2. Djurskyddslagstiftning som rör djuren i naturbruket.",
+          "3. Miljölagstiftning i samband med djurhållning."
+        ]
+      }
+    ]
+  }
 }

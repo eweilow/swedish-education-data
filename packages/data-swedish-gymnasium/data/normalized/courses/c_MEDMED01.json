@@ -1,4 +1,21 @@
 {
   "name": "Medicin 1",
-  "code": "MEDMED01"
+  "code": "MEDMED01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Människokroppens uppbyggnad och utveckling samt dess förmåga till ämnesomsättning, rörelse, retbarhet, skydd, försvar och fortplantning.",
+          "2. Vanliga sjukdomar och deras orsaker, symtom och diagnoser, undersökningar, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar.",
+          "3. Vanliga läkemedel, deras verkningssätt, användningsområden och biverkningar samt lagar och andra bestämmelser som gäller för läkemedelsanvändning.",
+          "4. Vanliga mikroorganismer och deras spridningsvägar.",
+          "5. Första hjälpen vid skador och akuta sjukdomar samt hjärt-lungräddning.",
+          "6. Samhällets hjälpinsatser vid krig och katastrofer.",
+          "7. Brandsäkerhetsarbete som att upptäcka och åtgärda brandrisker samt agerande i händelse av brand.",
+          "8. Medicinsk terminologi."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,21 @@
 {
   "name": "Massage 2",
-  "code": "MAAMAA02"
+  "code": "MAAMAA02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Anatomi och fysiologi med fokus på muskelfysiologi, rörelse och träning samt medicinsk terminologi.",
+          "2. Grundläggande skade- och sjukdomslära med fokus på rörelseapparaten.",
+          "3. Rörlighetsträning, muskeltöjningar och triggerpunktsbehandling.",
+          "4. Hjärt-lungräddning med defibrillator.",
+          "5. Olika metoder för att ge avspänning.",
+          "6. Massage i praktiken.",
+          "7. Olika undersökningsformer, behandlingstekniker och skadeförbyggande och rehabiliterande träning.",
+          "8. Hygien, miljö och arbetsställning vid massage."
+        ]
+      }
+    ]
+  }
 }

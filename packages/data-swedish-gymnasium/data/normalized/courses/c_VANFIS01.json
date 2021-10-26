@@ -1,4 +1,45 @@
 {
   "name": "Fiskodling 1",
-  "code": "VANFIS01"
+  "code": "VANFIS01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Arbetsuppgifter",
+        "rows": [
+          "1. Planering, genomförande och uppföljning av daglig skötsel av en odlingsanläggning.",
+          "2. Skötsel, service och underhåll av utrustning och redskap.",
+          "3. Val av foder, hantering av foder, beräkning av fodergivor, planering och genomförande av utfodring samt olika utfodringssystem.",
+          "4. Hantering av levande fisk.",
+          "5. Arbetsrutiner och provtagningar i samband med hälsovård och miljöövervakning.",
+          "6. Skötsel och genomförande av behandlingsmetoder vid sjukdomsutbrott.",
+          "7. Avlivning, slakt och vidareförädling av fisk.",
+          "8. Arbetsrutiner vid sortering och transport av fisk.",
+          "9. Ekonomiska beräkningar."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Ergonomi, arbetsmiljö- och säkerhetsfrågor i samband med fiskodling.",
+          "2. Lagar och andra bestämmelser som rör odling i vatten: miljölagstiftning som rör vattenbruk, fiskelagstiftning i samband med flyttning av fisk och lagstiftning för småskalig livsmedelshantering.",
+          "3. Tillståndsprövning för vattenbruk."
+        ]
+      },
+      {
+        "title": "Biologisk grund",
+        "rows": [
+          "1. Fiskens krav på odlingsmiljön.",
+          "2. Foderslag samt dess uppbyggnad, kvalitet och förvaring.",
+          "3. Krav på foder, utfodring för optimal tillväxt och god hälsa samt miljöhänsyn.",
+          "4. Beräkningar av tillväxttakt samt de faktorer som styr tillväxttakten.",
+          "5. Biologiska, fysikaliska och kemiska faktorer som styr odlingsprocessen.",
+          "6. Sjukdomar och behandlingsmetoder samt hälsokontroll och hälsovård inom fiskodling."
+        ]
+      }
+    ]
+  }
 }

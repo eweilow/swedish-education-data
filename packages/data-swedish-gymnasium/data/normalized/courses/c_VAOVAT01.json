@@ -1,4 +1,49 @@
 {
   "name": "Växtodling 1",
-  "code": "VAOVAT01"
+  "code": "VAOVAT01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Arbetsuppgifter",
+        "rows": [
+          "1. Jordbearbetning med aktuell teknisk utrustning med hänsyn till olika jordars egenskaper.",
+          "2. Gödsling med aktuella maskiner och teknisk utrustning.",
+          "3. Ogräsinventering i fält samt planering av ogräsbekämpning.",
+          "4. Jordprovtagning för markkartering. Bedömning av resultat och växtnäringsberäkningar.",
+          "5. Fältstudier för besiktning och uppföljning av grödornas utveckling samt bestämning av skördetidpunkt.",
+          "6. Mekanisk ogräsbekämpning.",
+          "7. Skörd, transport och lagring.",
+          "8. Hantering av skörderester.",
+          "9. Skötsel av slåtter- och betesvallar.",
+          "10. Skötsel av diken.",
+          "11. Avläsning av väderprognoser.",
+          "12. Miljöhänsyn i samband med växtodling."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Ergonomi, arbetsmiljö- och säkerhetsfrågor i samband med växtodling.",
+          "2. Lagar och andra bestämmelser som rör växtodling, till exempel miljölagstiftning för skydd av mark, vatten, natur- och kulturmiljöer, biologisk mångfald och människors hälsa."
+        ]
+      },
+      {
+        "title": "Biologisk grund",
+        "rows": [
+          "1. Jordarter, jordmån och odlingsjordar.",
+          "2. Vatten, vattentillgångar, vattnets kretslopp, vattenkvalitet, bevattning och dränering.",
+          "3. Tillväxtfaktorernas betydelse för växtval, tillväxt, odlingsplanering, skötsel och produktkvalitet.",
+          "4. Bins ekologiska betydelse för odlingsresultatet.",
+          "5. Klimat, klimatförutsättningar och klimatets inverkan på odlingsresultatet.",
+          "6. Ogräs i olika utvecklingsstadier: hjärtbladsstadiet, utvecklat vegetativt stadium och blommande exemplar.",
+          "7. Vanliga växtsjukdomar och skadedjur på lantbruksgrödor.",
+          "8. Olika grödor och sorter samt deras användningsområden."
+        ]
+      }
+    ]
+  }
 }

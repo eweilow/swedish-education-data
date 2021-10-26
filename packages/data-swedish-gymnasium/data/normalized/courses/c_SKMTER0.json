@@ -1,4 +1,41 @@
 {
   "name": "Terrängtransporter",
-  "code": "SKMTER0"
+  "code": "SKMTER0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Teknisk grund",
+        "rows": [
+          "1. Konstruktions- och funktionsbeskrivningar samt användningsområden för olika fordon och för teknisk utrustning.",
+          "2. Motorbränslen och smörjmedel.",
+          "3. Daglig tillsyn, periodisk kontroll och service."
+        ]
+      },
+      {
+        "title": "Körning",
+        "rows": [
+          "1. Körning av terrängfordon och fordonskombinationer på väg och i terräng för att genomföra förekommande arbetsuppgifter.",
+          "2. Tillämpning av trafikföreskrifter och annan aktuell lagstiftning.",
+          "3. Användning av fordonets reglage samt tolkning av instrument.",
+          "4. Hantering av tilläggsutrustning.",
+          "5. Inställning av förarplatsens utrustning för ergonomisk, effektiv och säker körning.",
+          "6. Användning av instruktions- och handböcker vid körning och tillsyn.",
+          "7. Ekonomisk och situationsanpassad körteknik i terräng och på väg inklusive minimering av körskador och markslitage vid körning i terräng."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Ergonomi och arbetsmiljö i samband med körning av fordon.",
+          "2. Säkerhetskontroll inför användning av fordon, redskap och tilläggsutrustning.",
+          "3. Brandförebyggande åtgärder.",
+          "4. Lagar och andra bestämmelser inom området."
+        ]
+      }
+    ]
+  }
 }

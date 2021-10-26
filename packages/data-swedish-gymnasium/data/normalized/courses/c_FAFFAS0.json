@@ -1,4 +1,21 @@
 {
   "name": "Fastighetsförvaltning",
-  "code": "FAFFAS0"
+  "code": "FAFFAS0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Fastighetsjuridik avseende avtalsrätt, till exempel hyresrätt, besittningsrätt och hyreslagstiftning samt besiktningar och besiktningsåtgärder.",
+          "2. Systematiskt säkerhetsarbete, riskhantering, brandrisk och brandskydd, inbrottsskydd, övervakning, skyddsrum och utrymningsvägar.",
+          "3. Ekonomiska frågor, till exempel hyresbevakning, inkasso och avskrivningar. Tekniska frågor, till exempel planerat underhåll och renoveringsarbete. Generella energibesparingsåtgärder.",
+          "4. Avfallshantering, hälsofrågor och regler i samband med sophantering, källsortering och kompostering av sopor samt kommunala renhållningsregler.",
+          "5. Modern digital utrustning för att övervaka fastighetsdrift, gemensamma utrymmen och ytor samt för att kommunicera och ta emot, hämta och söka information.",
+          "6. Programvara för vanligt förekommande arbetsuppgifter inom fastighetsförvaltning.",
+          "7. Etiska och datarättsliga frågor: upphovsrätt, yttrande- och informationsfrihet, personuppgiftslagen och människors rätt till integritetsskydd.",
+          "8. Olika informationstekniker beroende på målgrupp och kommunikationsmedel. Olika samverkansformer beroende på individ och grupp."
+        ]
+      }
+    ]
+  }
 }

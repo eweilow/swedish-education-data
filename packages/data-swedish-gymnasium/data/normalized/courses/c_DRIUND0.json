@@ -1,4 +1,22 @@
 {
   "name": "Underhåll – driftsäkerhet",
-  "code": "DRIUND0"
+  "code": "DRIUND0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Underhållsadministrativa system.",
+          "2. Användning av ritningar, scheman och manualer samt redovisning av utförda åtgärder.",
+          "3. Tekniker och utrustningar för inspektion, förebyggande underhåll och tillståndskontroll.",
+          "4. Subjektiva och objektiva inspektionsmetoder samt oförstörande provning.",
+          "5. Grundläggande symboler på ritningar och scheman inom till exempel elinstallation, ventilation, vatten, avlopp, värme och gas.",
+          "6. Föreskrifter om arbetsmiljö samt person- och maskinsäkerhet.",
+          "7. Grundläggande underhållstekniska begrepp samt parametrar, nyckeltal och internationell terminologi.",
+          "8. Funktionssäkerhet, underhållsmässighet och underhållssäkerhet samt metoder för ständiga förbättringar.",
+          "9. Grundläggande definitioner inom tillståndsbaserat underhåll samt beredning, planering av tillståndskontroll och förebyggande underhåll."
+        ]
+      }
+    ]
+  }
 }

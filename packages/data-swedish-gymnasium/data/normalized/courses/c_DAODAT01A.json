@@ -1,4 +1,25 @@
 {
   "name": "Datorteknik 1a",
-  "code": "DAODAT01a"
+  "code": "DAODAT01a",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Datorsystems uppbyggnad, komponenter och kringutrustningar.",
+          "2. Grunderna i OSI-modellen (Open Systems Interconnection) och gällande standarder för datorkommunikation.",
+          "3. Program, till exempel enklare kommunikationsprogram och applikationsprogram för mobila enheter.",
+          "4. Enklare rit- och simuleringsprogram.",
+          "5. Begreppen filer, filformat, komprimering och kryptering.",
+          "6. Fältbussars användning inom till exempel industri-, el- och andra teknikområden.",
+          "7. Rutiner för säkerhetskopiering och installation av virusskydd.",
+          "8. ESD-säker hantering av mikroprocessorer och minnen (Electro Static Discharge).",
+          "9. Planering, montering, konfigurering samt driftsättning av datorsystem för något av användningsområdena mätning, styrning, övervakning eller dokumentation.",
+          "10. Installation och konfigurering av applikationsprogram.",
+          "11. Installation och konfigurering av datorer i ett befintligt nätverk.",
+          "12. Installation av skrivare och andra enheter i nätverk."
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,23 @@
 {
   "name": "Nätunderhållsarbete på luftledningsnät 0,4–24kV",
-  "code": "ELDNÄD0"
+  "code": "ELDNÄD0",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Röjning vid trädpåfällning och islast.",
+          "2. Underhåll och besiktning av luftledningsnät och nätstationer i luftledningsnät.",
+          "3. Föreskrifter och andra bestämmelser inom området.",
+          "4. Byggmetoder och underhållsmetoder enligt reglerna för elbyggnadsrationalisering (EBR).",
+          "5. Elscheman och andra dokument.",
+          "6. Verktyg, maskiner och annan utrustning.",
+          "7. Säkerhetsrutiner och anvisningar vid arbete med luftledningar (ESA).",
+          "8. Säkerhet gällande arbete på väg och från korg.",
+          "9. Kontroll av nätstationer i luftledningsnät.",
+          "10. Felsökning och reparation av luftledningsnät."
+        ]
+      }
+    ]
+  }
 }

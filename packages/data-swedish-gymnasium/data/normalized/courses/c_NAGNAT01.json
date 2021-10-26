@@ -1,4 +1,25 @@
 {
   "name": "Naturguidning 1",
-  "code": "NAGNAT01"
+  "code": "NAGNAT01",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Planering och genomförande av aktiviteter för längre och kortare vistelse i naturen.",
+          "2. Val av aktiviteter efter deltagarnas förutsättningar, till exempel ålder, kondition och erfarenheter.",
+          "3. Val av utrustning och material för aktiviteter i naturen.",
+          "4. Hantering och vård av material och utrustning för aktiviteter i naturen.",
+          "5. Utrustningens konstruktion och funktion.",
+          "6. Hygien i samband med vistelse i naturen.",
+          "7. Orientering med och utan tekniska hjälpmedel.",
+          "8. Eldning och matlagning under varierande förhållanden i naturen.",
+          "9. Planering av säkerhet vid aktiviteter för att minimera olycksrisker samt första hjälpen och livräddning.",
+          "10. Lagar och andra bestämmelser som rör säkerhet samt natur- och kulturmiljöer.",
+          "11. Innebörden i allemansrätten.",
+          "12. Information om växter, djur och natur."
+        ]
+      }
+    ]
+  }
 }

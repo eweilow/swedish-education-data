@@ -1,4 +1,23 @@
 {
   "name": "Processmätteknik 2",
-  "code": "PROPRC02"
+  "code": "PROPRC02",
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Persondatorer, plc eller liknande styrsystem som mätverktyg med omvandling av analoga signaler till digitala värden, upplösning och signalhantering.",
+          "2. Metoder för mätning av viskositet, koncentration, pH, syre och konduktivitet.",
+          "3. Metoder för gasanalys och mätning av partikelhalter.",
+          "4. Metoder och utrustning för att testa och kalibrera mätningar av fysiska storheter och kemiska egenskaper.",
+          "5. Planering och genomförande av underhållsarbete i en processanläggning.",
+          "6. Laborativa mätövningar med givare, omvandlare, signalomvandlare och smartgivare.",
+          "7. Systematiserade dokumentationsmetoder.",
+          "8. Standarder och föreskrifter inom området.",
+          "9. Processäkerhet och funktionssäkerhet enligt SIL-standard IEC 61508.",
+          "10. Mätosäkerhetens grunder med tillämpning och beräkning enligt ISO-GUM-standard (guide to the expression of uncertainty in measurement)."
+        ]
+      }
+    ]
+  }
 }
