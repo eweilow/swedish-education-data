@@ -7,6 +7,7 @@ import { join } from "path";
 
 import { getMarkdownFromHtml } from "../utils/markdown";
 import { assert } from "chai";
+import { normalizeCode } from "../utils/code";
 
 function parsePurpose(purpose?: string) {
   const markdown = getMarkdownFromHtml(pickOnlyIf.string(purpose) ?? "")
@@ -131,7 +132,7 @@ export async function normalizeSubjects(
     assert.match(result.purpose?.sections?.[2]?.title ?? "-", /Kurser i ämnet/);
 
     writeFileSync(
-      join(subjectsDir, `s_${result.code}.json`),
+      join(subjectsDir, `s_${normalizeCode(result.code)}.json`),
       JSON.stringify(result, null, "  ")
     );
   }
