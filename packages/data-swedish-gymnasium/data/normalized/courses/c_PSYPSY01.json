@@ -1,6 +1,13 @@
 {
   "name": "Psykiatri 1",
   "code": "PSYPSY01",
+  "focusAreas": {
+    "string": "Kursen psykiatri 1 omfattar punkterna 1–4 och 6–8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "entries": [
+      "1–4",
+      "6–8"
+    ]
+  },
   "centralContent": {
     "sections": [
       {

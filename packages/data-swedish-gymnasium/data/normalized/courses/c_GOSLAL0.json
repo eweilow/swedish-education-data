@@ -1,6 +1,15 @@
 {
   "name": "Lastbilsmonterad kran",
   "code": "GOSLAL0",
+  "focusAreas": {
+    "string": "Kursen lastbilsmonterad kran omfattar punkterna 1, 3, 5 och 7 under rubriken Ämnets syfte.",
+    "entries": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ]
+  },
   "centralContent": {
     "sections": [
       {

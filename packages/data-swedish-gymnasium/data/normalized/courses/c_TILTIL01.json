@@ -1,6 +1,13 @@
 {
   "name": "Tillverkningsunderlag 1",
   "code": "TILTIL01",
+  "focusAreas": {
+    "string": "Kursen tillverkningsunderlag 1 omfattar punkterna 1–6 och 8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "entries": [
+      "1–6",
+      "8"
+    ]
+  },
   "centralContent": {
     "sections": [
       {

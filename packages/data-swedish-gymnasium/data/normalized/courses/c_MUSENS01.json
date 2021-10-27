@@ -1,6 +1,15 @@
 {
   "name": "Ensemble 1",
   "code": "MUSENS01",
+  "focusAreas": {
+    "string": "Kursen ensemble 1 omfattar punkterna 1–2, 4–5, 7 och 9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1–2 och 7. Kursen behandlar grundläggande färdigheter i ämnet.",
+    "entries": [
+      "1–2",
+      "4–5",
+      "7",
+      "9"
+    ]
+  },
   "centralContent": {
     "sections": [
       {

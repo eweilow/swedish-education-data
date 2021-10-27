@@ -1,6 +1,14 @@
 {
   "name": "Vattenkraftstationer",
   "code": "VAEVAN0",
+  "focusAreas": {
+    "string": "Kursen vattenkraftstationer omfattar punkterna 1, 6 och 8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "entries": [
+      "1",
+      "6",
+      "8"
+    ]
+  },
   "centralContent": {
     "sections": [
       {

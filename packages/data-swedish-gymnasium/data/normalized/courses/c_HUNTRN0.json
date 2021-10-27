@@ -1,6 +1,13 @@
 {
   "name": "Träning av hund",
   "code": "HUNTRN0",
+  "focusAreas": {
+    "string": "Kursen träning av hund omfattar punkterna 1 och 7–10 under rubriken Ämnet syfte.",
+    "entries": [
+      "1",
+      "7–10"
+    ]
+  },
   "centralContent": {
     "sections": [
       {

@@ -1,6 +1,14 @@
 {
   "name": "Taxitrafik",
   "code": "PESTAX0",
+  "focusAreas": {
+    "string": "Kursen taxitrafik omfattar punkterna 1–2, 6 och 8–9 under rubriken Ämnets syfte.",
+    "entries": [
+      "1–2",
+      "6",
+      "8–9"
+    ]
+  },
   "centralContent": {
     "sections": [
       {

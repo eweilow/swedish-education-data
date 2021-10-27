@@ -62,6 +62,35 @@ function parseCentralContent(centralContent: string | null) {
   return normalizeSections(fixedRows);
 }
 
+function getFocusAreas(description: string | null, name: string, code: string) {
+  const markdownRows = getMarkdownFromHtml(pickOnlyIf.string(description) ?? "")
+    ?.split("\n")
+    ?.map((el) => el.trim());
+
+  if (markdownRows == null) {
+    return null;
+  }
+
+  assert.lengthOf(markdownRows, 1, `in ${name} (${code})`);
+
+  const expr =
+    /^Kursen.+?(?:ska omfatta|omfattar|omfattar|bygger på)(.+?)(?:under rubriken Ämnets? syfte|under Ämnets? syfte|\.)/;
+
+  const row = markdownRows[0];
+  assert.match(row, expr, `in ${name} (${code})`);
+
+  const [, match] = expr.exec(row)!;
+
+  const finalMatchExpr = /(([0-9]+–[0-9]+)|([0-9]+)|(samtliga mål))/g;
+  const matches = [...match.matchAll(finalMatchExpr)].map((el) => el[1]);
+  assert.isAtLeast(matches.length, 1, `in ${name} (${code})`);
+
+  return {
+    string: row,
+    entries: matches,
+  };
+}
+
 export async function normalizeCourses(
   inputDirectory: string,
   outputDirectory: string
@@ -82,6 +111,11 @@ export async function normalizeCourses(
       const result = {
         name: pickOnlyIf.string(course.name?.[0]),
         code: pickOnlyIf.string(course.code?.[0]),
+        focusAreas: getFocusAreas(
+          course.description?.[0],
+          pickOnlyIf.string(course.name?.[0]) ?? "-",
+          pickOnlyIf.string(course.code?.[0]) ?? "-"
+        ),
         centralContent: parseCentralContent(
           course.centralcontent?.[0]?.text?.[0]
         ),
