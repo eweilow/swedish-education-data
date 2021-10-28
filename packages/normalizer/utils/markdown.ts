@@ -7,6 +7,9 @@ export function getMarkdownFromHtml(html?: string) {
 
   html = html.replace(/<br>/g, " "); // Remove line breaks
   html = html.replace(/<i>\s*\.\s*<\/i>/g, "."); // Remove dots with emphasis
+  html = html.replace(/\.<\/i>/g, "</i>."); // Move dot out of <i></i>
+  html = html.replace(/\.<\/strong>/g, "</strong>."); // Move dot out of <strong></strong>
+  html = html.replace(/\.<\/em>/g, "</em>."); // Move dot out of <em></em>
   return NodeHtmlMarkdown.translate(html).replace(/\\\./g, ".");
 }
 

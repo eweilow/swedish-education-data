@@ -6,8 +6,8 @@ import {
 } from "@education-data/normalizer";
 
 async function main() {
-  console.info("\n[normalizing subjects]");
-  await normalizeSubjects(rawDirectory, dataDirectory);
+  // console.info("\n[normalizing subjects]");
+  // await normalizeSubjects(rawDirectory, dataDirectory);
 
   console.info("\n[normalizing courses]");
   await normalizeCourses(rawDirectory, dataDirectory);

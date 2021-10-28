@@ -262,7 +262,9 @@ __metadata:
     "@types/xml2js": ^0.4.9
     chai: ^4.2.0
     cheerio: ^1.0.0-rc.3
+    dice-coefficient: ^2.0.0
     glob: ^7.1.4
+    jaro-winkler: ^0.2.8
     mkdirp: ^1.0.4
     node-html-markdown: ^1.1.3
     typescript: ^4.4.4
@@ -3805,6 +3807,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"dice-coefficient@npm:^2.0.0":
+  version: 2.0.0
+  resolution: "dice-coefficient@npm:2.0.0"
+  dependencies:
+    n-gram: ^2.0.0
+  bin:
+    dice-coefficient: cli.js
+  checksum: b5fd84bb37988cfad8f08674783856039770704b5386fa2db739347d1162862a4db86b9e8d4b3cf3b60a1fa21d1c468d1f7e792883fc08286f2a625cdb5669eb
+  languageName: node
+  linkType: hard
+
 "diff-sequences@npm:^24.9.0":
   version: 24.9.0
   resolution: "diff-sequences@npm:24.9.0"
@@ -5859,6 +5872,13 @@ fsevents@~2.3.2:
   languageName: node
   linkType: hard
 
+"jaro-winkler@npm:^0.2.8":
+  version: 0.2.8
+  resolution: "jaro-winkler@npm:0.2.8"
+  checksum: ddf36d364ce645fe88dae8e8214a887cf66645b88f89a729f0352a90b75bb1f9a8d66af3beab323944aca48827c44baf677849c20ac9fb533e016a5e951ef569
+  languageName: node
+  linkType: hard
+
 "jest-changed-files@npm:^24.9.0":
   version: 24.9.0
   resolution: "jest-changed-files@npm:24.9.0"
@@ -7302,6 +7322,13 @@ fsevents@~2.3.2:
     object-assign: ^4.0.1
     thenify-all: ^1.0.0
   checksum: 8427de0ece99a07e9faed3c0c6778820d7543e3776f9a84d22cf0ec0a8eb65f6e9aee9c9d353ff9a105ff62d33a9463c6ca638974cc652ee8140cd1e35951c87
+  languageName: node
+  linkType: hard
+
+"n-gram@npm:^2.0.0":
+  version: 2.0.1
+  resolution: "n-gram@npm:2.0.1"
+  checksum: 47afa15f9a679ba74d871a861bab0df0701cfc0cd94741b9630d09971e43111bb1844319b3214de032eabfd6b8cb61b8923c8988128d450bf2f07241911aa365
   languageName: node
   linkType: hard
 

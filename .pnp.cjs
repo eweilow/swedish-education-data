@@ -359,7 +359,9 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/xml2js", "npm:0.4.9"],
             ["chai", "npm:4.2.0"],
             ["cheerio", "npm:1.0.0-rc.3"],
+            ["dice-coefficient", "npm:2.0.0"],
             ["glob", "npm:7.1.4"],
+            ["jaro-winkler", "npm:0.2.8"],
             ["mkdirp", "npm:1.0.4"],
             ["node-html-markdown", "npm:1.1.3"],
             ["typescript", "patch:typescript@npm%3A4.4.4#~builtin<compat/typescript>::version=4.4.4&hash=32657b"],
@@ -4337,6 +4339,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD",
         }]
       ]],
+      ["dice-coefficient", [
+        ["npm:2.0.0", {
+          "packageLocation": "./.yarn/cache/dice-coefficient-npm-2.0.0-57f1593d6b-b5fd84bb37.zip/node_modules/dice-coefficient/",
+          "packageDependencies": [
+            ["dice-coefficient", "npm:2.0.0"],
+            ["n-gram", "npm:2.0.1"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
       ["diff", [
         ["npm:4.0.1", {
           "packageLocation": "./.yarn/cache/diff-npm-4.0.1-4d86a500e8-d426381c08.zip/node_modules/diff/",
@@ -6555,6 +6567,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD",
         }]
       ]],
+      ["jaro-winkler", [
+        ["npm:0.2.8", {
+          "packageLocation": "./.yarn/cache/jaro-winkler-npm-0.2.8-30e581a207-ddf36d364c.zip/node_modules/jaro-winkler/",
+          "packageDependencies": [
+            ["jaro-winkler", "npm:0.2.8"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
       ["jest", [
         ["npm:24.9.0", {
           "packageLocation": "./.yarn/cache/jest-npm-24.9.0-8ddb425e99-7bc61d47f9.zip/node_modules/jest/",
@@ -8103,6 +8124,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["any-promise", "npm:1.3.0"],
             ["object-assign", "npm:4.1.1"],
             ["thenify-all", "npm:1.6.0"]
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
+      ["n-gram", [
+        ["npm:2.0.1", {
+          "packageLocation": "./.yarn/cache/n-gram-npm-2.0.1-7af90712fa-47afa15f9a.zip/node_modules/n-gram/",
+          "packageDependencies": [
+            ["n-gram", "npm:2.0.1"]
           ],
           "linkType": "HARD",
         }]
