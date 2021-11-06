@@ -330,7 +330,9 @@ export async function normalizeCourses(
     cwd: inputDirectory,
     absolute: true,
   })) {
-    const contents = readFileSync(file, "utf-8").replaceAll("–", "-");
+    const contents = readFileSync(file, "utf-8")
+      .replaceAll("–", "-")
+      .replaceAll(String.fromCharCode(173), "");
 
     const subjectData = await parseXML(contents);
     const { subject } = subjectData;

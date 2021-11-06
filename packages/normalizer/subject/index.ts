@@ -69,7 +69,9 @@ export async function normalizeSubjects(
     cwd: inputDirectory,
     absolute: true,
   })) {
-    const contents = readFileSync(file, "utf-8").replaceAll("–", "-");
+    const contents = readFileSync(file, "utf-8")
+      .replaceAll("–", "-")
+      .replaceAll(String.fromCharCode(173), "");
 
     const data = await parseXML(contents);
     const { subject } = data;
@@ -106,6 +108,16 @@ export async function normalizeSubjects(
       /Undervisningen i .+? ska ge eleverna/
     );
     assert.match(result.purpose?.sections?.[2]?.title ?? "-", /Kurser i ämnet/);
+
+    for (const section of result.purpose?.sections ?? []) {
+      for (const row of section.rows) {
+        assert.match(
+          row,
+          /^[:/()\wåäöáé\d.,-\s]+$/i,
+          `in ${result.name} (${result.code})`
+        );
+      }
+    }
 
     for (const section of result.purpose?.sections?.slice?.(0, 1) ?? []) {
       for (const row of section.rows) {
