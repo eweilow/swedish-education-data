@@ -126,6 +126,24 @@ export async function normalizeSubjects(
       }
     }
 
+    const rows = result.purpose?.sections?.[2]?.rows;
+    if (rows != null) {
+      for (let i = 0; i < rows.length; i++) {
+        rows[i] = rows[i].replace(
+          /(\w) (\d+ poäng)/,
+          (_, a, b) => a + ", " + b
+        );
+      }
+    }
+
+    for (const row of result.purpose?.sections?.[2]?.rows ?? []) {
+      assert.match(
+        row,
+        /^\d+\. .+?, \d+ poäng/i,
+        `in ${result.name} (${result.code})`
+      );
+    }
+
     writeFileSync(
       join(subjectsDir, `s_${normalizeCode(result.code)}.json`),
       JSON.stringify(result, null, "  ")
