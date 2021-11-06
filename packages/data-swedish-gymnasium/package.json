@@ -5,7 +5,8 @@
   },
   "scripts": {
     "fetch": "del-cli 'data/raw/**/*' && ts-node fetch.ts && prettier data/raw/**/*.xml",
-    "normalize": "del-cli 'data/normalized/**/*' && ts-node normalize.ts"
+    "normalize": "del-cli 'data/normalized/**/*' && ts-node normalize.ts",
+    "parse": "del-cli 'out/subject/**/*' && ts-node parse.ts"
   },
   "main": "./out",
   "version": "0.0.1-alpha.9",

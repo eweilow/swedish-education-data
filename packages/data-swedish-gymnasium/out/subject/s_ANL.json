@@ -20,25 +20,24 @@
     "Undervisningen ska genomföras så att teoretiska och praktiska kunskaper vävs samman till en helhet för eleverna. Arbetsuppgifter ska genomföras med metoder, verktyg och maskiner som är tidsenliga och ergonomiskt anpassade. Undervisningen ska ge eleverna möjlighet att utveckla kreativitet, problemlösnings- och initiativförmåga samt organiseras så att eleverna får möjlighet att utföra sina uppgifter såväl individuellt som i samarbete med andra."
   ],
   "courseInfo": {
-    "ANLANS0": "Anläggningsprocessen, 200 poäng, som bygger på kursen bygg och anläggning 2.",
-    "ANLANL01": "Anläggning 1, 100 poäng, som bygger på kursen bygg och anläggning 2.",
-    "ANLANL02": "Anläggning 2, 200 poäng, som bygger på kursen anläggning 1.",
-    "ANLANL0": "Anläggning – gröna ytor, 200 poäng, som bygger på kursen anläggning 2.",
-    "ANLANÄ0": "Anläggning – ledningsbyggnad, 200 poäng, som bygger på kursen anläggning 2 eller kursen anläggningsförare 2.",
-    "ANLANG0": "Anläggning – stensättning, 100 poäng, som bygger på kursen anläggning 2.",
-    "ANLANN0": "Anläggning – vägbyggnad, 100 poäng, som bygger på kursen anläggning 2 eller kursen anläggningsförare 2."
+    "ANLANG0": "Anläggning - stensättning, 100 poäng.",
+    "ANLANL0": "Anläggning - gröna ytor, 200 poäng.",
+    "ANLANL01": "Anläggning 1, 100 poäng.",
+    "ANLANL02": "Anläggning 2, 200 poäng.",
+    "ANLANN0": "Anläggning - vägbyggnad, 100 poäng.",
+    "ANLANS0": "Anläggningsprocessen, 200 poäng.",
+    "ANLANÄ0": "Anläggning - ledningsbyggnad, 200 poäng."
   },
   "description": "Ämnet anläggning behandlar mark- och anläggningsbyggande från planering till det att objektet är färdigt att brukas. Det behandlar också olika jord- och bergmaterials egenskaper.",
   "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
-  "category": "VOCATIONAL",
-  "applicableFrom": "2012-05-06T22:00:00.000Z",
+  "applicableFrom": "2012-08-07T14:05:02.000Z",
   "courses": [
-    "ANLANÄ0",
     "ANLANG0",
     "ANLANL0",
     "ANLANL01",
     "ANLANL02",
     "ANLANN0",
-    "ANLANS0"
+    "ANLANS0",
+    "ANLANÄ0"
   ]
 }

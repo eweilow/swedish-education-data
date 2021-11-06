@@ -1,5 +1,5 @@
 {
-  "title": "Processteknik – kemi",
+  "title": "Processteknik - kemi",
   "code": "PRE",
   "developmentPurposes": [
     "Kunskaper om processtekniska system, deras komponenter och elementära processer samt förmåga att koppla samman dessa till kretsprocesser samt hur digital teknik kan användas i arbetet.",
@@ -12,20 +12,19 @@
     "Förmåga att tolka och upprätta processteknisk dokumentation."
   ],
   "purposes": [
-    "Undervisningen i ämnet processteknik – kemi ska syfta till att eleverna utvecklar kunskaper om hur man identifierar och löser vanliga processtekniska problem genom att analysera tillgänglig information, använda olika metoder och lösningsstrategier samt implementera dessa.",
+    "Undervisningen i ämnet processteknik - kemi ska syfta till att eleverna utvecklar kunskaper om hur man identifierar och löser vanliga processtekniska problem genom att analysera tillgänglig information, använda olika metoder och lösningsstrategier samt implementera dessa.",
     "Undervisningen ska leda till att eleverna utvecklar kunskaper om processtekniska system i kemisktekniska anläggningar samt om deras komponenter och metoder. Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper i utförande av vanligt förekommande arbetsuppgifter inom kemitekniska processer och förmåga att utvärdera resultatet.",
     "Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta systematiskt och följa standarder och säkerhetsföreskrifter samt tar hänsyn till ställda kvalitetskrav. Vidare ska eleverna ges möjlighet att utveckla förmåga att arbeta med produktionsprocesser och med hållbarhet i olika dimensioner."
   ],
   "courseInfo": {
-    "PREKEM31": "Processteknik – kemi 1, 100 poäng.",
-    "PREKEM32": "Processteknik – kemi 2, 100 poäng, som bygger på kursen processteknik – kemi 1."
+    "KEMKEM01": "Processteknik - kemi 1, 100 poäng.",
+    "KEMKEM02": "Processteknik - kemi 2, 100 poäng."
   },
-  "description": "Ämnet processteknik – kemi behandlar de tekniker som används inom kemisk processindustri. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
+  "description": "Ämnet processteknik - kemi behandlar de tekniker som används inom kemisk processindustri. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
   "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
-  "category": "OTHER",
-  "applicableFrom": "2019-07-14T22:00:00.000Z",
+  "applicableFrom": "2019-03-26T14:44:44.000Z",
   "courses": [
-    "PREKEM31",
-    "PREKEM32"
+    "KEMKEM01",
+    "KEMKEM02"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "title": "Ventilation – plåtslageri",
+  "title": "Ventilation - plåtslageri",
   "code": "VEL",
   "developmentPurposes": [
     "Förmåga att söka information samt planera, organisera och utföra vanliga arbetsuppgifter.",
@@ -20,15 +20,14 @@
     "Undervisningen ska genomföras så att teoretiska och praktiska kunskaper vävs samman till en helhet för eleverna. Arbetsuppgifter ska genomföras med metoder, verktyg och maskiner som är tidsenliga och ergonomiskt anpassade. Undervisningen ska ge eleverna möjlighet att utveckla kreativitet, problemlösnings- och initiativförmåga samt organiseras så att eleverna får möjlighet att utföra sina uppgifter såväl individuellt som i samarbete med andra."
   ],
   "courseInfo": {
-    "VELVEN01": "Ventilationsplåtslageri 1, 100 poäng. Betyg i kursen ventilationsplåtslageri 1 i ämnet ventilation – plåtslageri kan inte ingå i elevens examen tillsammans med betyg i kursen ventilationsplåtslageri 1 i ämnet ventilationsplåtslageri.",
-    "VELVET02": "Ventilationsplåtslageri 2, 200 poäng, som bygger på kursen ventilationsplåtslageri 1. Betyg i kursen ventilationsplåtslageri 2 i ämnet ventilation – plåtslageri kan inte ingå i elevens examen tillsammans med betyg i kursen ventilationsplåtslageri 2 i ämnet ventilationsplåtslageri."
+    "VELVET01": "Ventilationsplåtslageri 1, 100 poäng. Betyg i kursen ventilationsplåtslageri 1 i ämnet ventilation - plåtslageri kan inte ingå i elevens examen tillsammans med betyg i kursen ventilationsplåtslageri 1 i ämnet ventilationsplåtslageri.",
+    "VELVET02": "Ventilationsplåtslageri 2, 200 poäng."
   },
-  "description": "Ämnet ventilation – plåtslageri behandlar tillverkningen av ventilationstekniska komponenter och detaljer samt vilken funktion dessa har i ventilationstekniska system.",
+  "description": "Ämnet ventilation - plåtslageri behandlar tillverkningen av ventilationstekniska komponenter och detaljer samt vilken funktion dessa har i ventilationstekniska system.",
   "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
-  "category": "VOCATIONAL",
-  "applicableFrom": "2018-07-31T22:00:00.000Z",
+  "applicableFrom": "2021-05-18T10:11:14.000Z",
   "courses": [
-    "VELVEN01",
+    "VELVET01",
     "VELVET02"
   ]
 }

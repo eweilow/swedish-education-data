@@ -17,19 +17,18 @@
     "Undervisningen ska bidra till att eleverna utvecklar kunskaper om hur man systematiskt arbetar med säkerhets- och miljöfrågor samt hur man arbetar ergonomiskt. Den ska även ge eleverna möjlighet att utveckla kunskaper om de termer och begrepp som används inom teknikområdet samt förmåga att samverka och kommunicera med människor i alla led i produktionen."
   ],
   "courseInfo": {
+    "SAAKÄL01S": "Kälsvets 1, 100 poäng.",
+    "SAAKÄL02S": "Kälsvets 2, 100 poäng.",
+    "SAARÖR01S": "Rörsvets 1, 100 poäng.",
+    "SAARÖR02S": "Rörsvets 2, 100 poäng.",
     "SAASAA0": "Sammanfogning, 100 poäng.",
-    "SAASVT0": "Svets grund, 100 poäng.",
-    "SAAKÄL01S": "Kälsvets 1, 100 poäng, som bygger på kursen svets grund. Kursen kan läsas flera gånger med olika svetsmetoder.",
-    "SAAKÄL02S": "Kälsvets 2, 100 poäng, som bygger på kursen kälsvets 1. Kursen kan läsas flera gånger med olika svetsmetoder.",
-    "SAASTU01S": "Stumsvets 1, 100 poäng, som bygger på kursen kälsvets 2. Kursen kan läsas flera gånger med olika svetsmetoder.",
-    "SAASTU02S": "Stumsvets 2, 100 poäng, som bygger på kursen stumsvets 1. Kursen kan läsas flera gånger med olika svetsmetoder.",
-    "SAARÖR01S": "Rörsvets 1, 100 poäng, som bygger på kursen stumsvets 2. Kursen kan läsas flera gånger med olika svetsmetoder.",
-    "SAARÖR02S": "Rörsvets 2, 100 poäng, som bygger på kursen rörsvets 1. Kursen kan läsas flera gånger med olika svetsmetoder."
+    "SAASTU01S": "Stumsvets 1, 100 poäng.",
+    "SAASTU02S": "Stumsvets 2, 100 poäng.",
+    "SAASVT0": "Svets grund, 100 poäng."
   },
   "description": "Ämnet sammanfogningsteknik behandlar olika metoder och tekniker för sammanfogning av material. Dessutom behandlar ämnet kvalitetsbedömning av resultat och hur skötsel av utrustningen skapar förutsättningar för en driftsäker produktion.",
   "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
-  "category": "VOCATIONAL",
-  "applicableFrom": "2013-04-24T22:00:00.000Z",
+  "applicableFrom": "2013-06-20T22:00:13.000Z",
   "courses": [
     "SAAKÄL01S",
     "SAAKÄL02S",

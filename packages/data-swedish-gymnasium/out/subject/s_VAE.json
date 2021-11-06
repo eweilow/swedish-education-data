@@ -16,18 +16,17 @@
     "I undervisningen ska experiment, laborationer och ett undersökande arbetssätt förekomma. I praktiska övningar ska eleverna ges möjlighet att utveckla tekniska kunskaper samt förmåga att använda teknisk utrustning."
   ],
   "courseInfo": {
-    "VAEVAN0": "Vattenkraftstationer, 100 poäng, som bygger på kursen energiteknik 1.",
-    "VAEDRT0": "Drift, underhåll, säkerhet och miljö, 200 poäng, som bygger på kursen vattenkraftstationer.",
-    "VAEGEN0": "Generatorer och transformatorer, 100 poäng, som bygger på kursen vattenkraftstationer och kursen praktisk ellära.",
-    "VAEHYD0": "Hydraulik, kraftstationshydraulik och turbiner, 100 poäng, som bygger på kursen vattenkraftstationer.",
-    "VAEKOR0": "Kontrollanläggningar, 200 poäng, som bygger på kursen vattenkraftstationer."
+    "HVKMIL0": "Drift, underhåll, säkerhet och miljö, 200 poäng.",
+    "VAEGEN0": "Generatorer och transformatorer, 100 poäng.",
+    "VAEHYD0": "Hydraulik, kraftstationshydraulik och turbiner, 100 poäng.",
+    "VAEKOR0": "Kontrollanläggningar, 200 poäng.",
+    "VAEVAN0": "Vattenkraftstationer, 100 poäng."
   },
   "description": "Ämnet vattenkraftteknik behandlar uppbyggnad av och funktion hos vattenkraftstationer. Ämnet behandlar hur drift och underhåll utförs med avseende på miljö, ekonomi, kvalitet och säkerhet.",
   "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
-  "category": "VOCATIONAL",
-  "applicableFrom": "2011-06-30T22:00:00.000Z",
+  "applicableFrom": "2010-12-02T08:25:21.000Z",
   "courses": [
-    "VAEDRT0",
+    "HVKMIL0",
     "VAEGEN0",
     "VAEHYD0",
     "VAEKOR0",

@@ -19,27 +19,25 @@
   ],
   "courseInfo": {
     "DRIAVH01": "Avhjälpande underhåll 1, 100 poäng.",
-    "DRIAVH02": "Avhjälpande underhåll 2, 100 poäng, som bygger på kursen avhjälpande underhåll 1.",
-    "DRIUND0": "Underhåll – driftsäkerhet, 100 poäng.",
-    "DRIUNE0": "Underhåll – elteknik, 100 poäng.",
-    "DRIUNH0": "Underhåll – hydraulik och pneumatik, 100 poäng.",
-    "DRIUNÅ0": "Underhåll – lager och smörjteknik, 100 poäng.",
-    "DRIUNU0": "Underhåll – pumpteknik, 100 poäng.",
-    "DRIUNT0": "Underhåll – transmissioner och uppriktning, 100 poäng.",
-    "DRIUNV0": "Underhåll – vibrationsteknik, 100 poäng.",
-    "DRIUNR0": "Underhåll – hydraulik, 100 poäng, som bygger på kursen underhåll – hydraulik och pneumatik.",
-    "DRIUNL0": "Underhåll – mekatronik, 100 poäng, som bygger på kursen underhåll – hydraulik och pneumatik samt kursen underhåll – elteknik.",
-    "DRIUNP0": "Underhåll – pneumatik, 100 poäng, som bygger på kursen underhåll – hydraulik och pneumatik.",
-    "DRIUNO0": "Underhåll – produktionsmekanik, 100 poäng, som bygger på kursen underhåll – mekatronik."
+    "DRIAVH02": "Avhjälpande underhåll 2, 100 poäng.",
+    "DRIUND0": "Underhåll - driftsäkerhet, 100 poäng.",
+    "DRIUNE0": "Underhåll - elteknik, 100 poäng.",
+    "DRIUNH0": "Underhåll - hydraulik och pneumatik, 100 poäng.",
+    "DRIUNL0": "Underhåll - mekatronik, 100 poäng.",
+    "DRIUNO0": "Underhåll - produktionsmekanik, 100 poäng.",
+    "DRIUNP0": "Underhåll - pneumatik, 100 poäng.",
+    "DRIUNR0": "Underhåll - hydraulik, 100 poäng.",
+    "DRIUNT0": "Underhåll - transmissioner och uppriktning, 100 poäng.",
+    "DRIUNU0": "Underhåll - pumpteknik, 100 poäng.",
+    "DRIUNV0": "Underhåll - vibrationsteknik, 100 poäng.",
+    "DRIUNÅ0": "Underhåll - lager och smörjteknik, 100 poäng."
   },
   "description": "Ämnet driftsäkerhet och underhåll handlar om hur ett välutvecklat underhåll får teknisk utrustning att fungera på ett optimalt sätt. Det behandlar tekniska utrustningars uppbyggnad, funktion och styrning samt hur man med hjälp av tekniska och organisatoriska åtgärder kan lösa drifttekniska problem. Ämnet behandlar också förbättringsprocessens betydelse.",
   "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
-  "category": "VOCATIONAL",
-  "applicableFrom": "2011-06-30T22:00:00.000Z",
+  "applicableFrom": "2010-12-15T08:52:40.000Z",
   "courses": [
     "DRIAVH01",
     "DRIAVH02",
-    "DRIUNÅ0",
     "DRIUND0",
     "DRIUNE0",
     "DRIUNH0",
@@ -49,6 +47,7 @@
     "DRIUNR0",
     "DRIUNT0",
     "DRIUNU0",
-    "DRIUNV0"
+    "DRIUNV0",
+    "DRIUNÅ0"
   ]
 }

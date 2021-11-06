@@ -17,19 +17,18 @@
     "Genom experiment, laborationer och ett undersökande arbetssätt ska eleverna ges möjlighet att utveckla förmåga att lösa problem som gäller drift, underhåll och service av anläggningar som används inom vatten- och miljöområdet. Genom praktiska övningar ska eleverna ges möjlighet att utveckla tekniska kunskaper samt handha teknisk utrustning."
   ],
   "courseInfo": {
-    "VATVAT0": "Vatten- och miljöteknik, 200 poäng.",
-    "VATDRI0": "Dricksvatten, 100 poäng, som bygger på kursen vatten- och miljöteknik.",
-    "VATREN0": "Rening av förorenat vatten, 100 poäng, som bygger på kursen vatten- och miljöteknik.",
-    "VATVAR0": "Vattenreningens mikrobiologi, 100 poäng, som bygger på kursen vatten- och miljöteknik."
+    "RECLOG0": "Vattenreningens mikrobiologi, 100 poäng.",
+    "VATDRI0": "Dricksvatten, 100 poäng.",
+    "VATREN0": "Rening av förorenat vatten, 100 poäng.",
+    "VATVAT0": "Vatten- och miljöteknik, 200 poäng."
   },
   "description": "Vatten är människans viktigaste livsmedel. Produktion och rening av vatten är livsviktigt både lokalt och globalt. Ämnet vatten- och miljöteknik behandlar drift, underhåll och service av anläggningar inom vatten- och miljöområdet. Det bygger på naturvetenskapliga principer eftersom en ekologisk grundsyn och kretsloppstänkande är viktigt inom området.",
   "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
-  "category": "VOCATIONAL",
-  "applicableFrom": "2011-06-30T22:00:00.000Z",
+  "applicableFrom": "2010-12-02T08:25:21.000Z",
   "courses": [
+    "RECLOG0",
     "VATDRI0",
     "VATREN0",
-    "VATVAR0",
     "VATVAT0"
   ]
 }

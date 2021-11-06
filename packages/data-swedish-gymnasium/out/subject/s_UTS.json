@@ -16,17 +16,16 @@
     "Undervisningen ska ge eleverna möjlighet att utveckla förmåga att arbeta självständigt och miljömedvetet, att ta eget ansvar och kunna handla med omdöme i det egna arbetet."
   ],
   "courseInfo": {
-    "UTSUTS01": "Utställningsdesign 1, 100 poäng.",
-    "UTSUTS02": "Utställningsdesign 2, 100 poäng, som bygger på kursen utställningsdesign 1.",
-    "UTSUTS03S": "Utställningsdesign 3, 100 poäng, som bygger på kursen utställningsdesign 2. Kursen kan läsas flera gånger med olika innehåll."
+    "DESDES01": "Utställningsdesign 1, 100 poäng.",
+    "DESDES02": "Utställningsdesign 2, 100 poäng.",
+    "UTSUTS03S": "Utställningsdesign 3, 100 poäng."
   },
   "description": "Utställningsdesign som kommunikationsform innehåller många dimensioner och erbjuder olika uttrycksmöjligheter. Alla sinnen berörs och påverkas av hur föremål, färger, bilder, texter, ljus och ljud exponeras.",
   "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
-  "category": "VOCATIONAL",
-  "applicableFrom": "2011-06-30T22:00:00.000Z",
+  "applicableFrom": "2010-10-28T12:27:28.000Z",
   "courses": [
-    "UTSUTS01",
-    "UTSUTS02",
+    "DESDES01",
+    "DESDES02",
     "UTSUTS03S"
   ]
 }

@@ -2,8 +2,6 @@
   "title": "Pedagogik i vård och omsorg",
   "code": "PEA",
   "developmentPurposes": [
-    "Kunskaper om utanförskapets orsaker och konsekvenser.",
-    "Kunskaper om socialpedagogiska insatser, arbetssätt och metoder.",
     "Kunskaper om vad som påverkar relationen mellan patienter och brukare och personal.",
     "Kunskaper om handledning och dess kunskapsutvecklande process inom vård och omsorg.",
     "Kunskaper om relevanta begrepp och teorier.",
@@ -13,20 +11,17 @@
     "Kunskaper om kvalitetsarbetets betydelse inom vård och omsorg."
   ],
   "purposes": [
-    "Undervisningen i ämnet pedagogik i vård och omsorg ska syfta till att eleverna utvecklar pedagogisk och kommunikativ förmåga. Eleverna ska också ges möjlighet att utveckla förmåga att avgöra vilken vägledning som krävs i olika vård- och omsorgssituationer inom socialtjänstens olika verksamhetsområden samt inom hälso- och sjukvård.",
-    "Undervisningen ska leda till att eleverna utvecklar kunskaper om hur människan samspelar med sin omgivning. Den ska också bidra till att eleverna utvecklar intresse för hur andra tänker och hur olika levnadsvillkor påverkar möjligheterna till utveckling och aktivt deltagande i samhällslivet. Dessutom ska undervisningen bidra till att eleverna utvecklar kunskaper om människors interaktion och socialisation samt om handledningens betydelse.",
-    "Undervisningen ska ge eleverna möjlighet att medverka och använda sina kunskaper i olika situationer. Genom medverkan i olika verksamheter ska eleverna ges möjlighet till inblick i och erfarenhet av olika sociala och pedagogiska sammanhang. Undervisningen ska också ge eleverna möjlighet att reflektera över och diskutera egna och andras handlingar och attityder. Genom undervisningen ska eleverna också ges möjlighet att utveckla förmåga att utifrån ett kritiskt förhållningssätt söka och inhämta information samt hantera, värdera och använda den. Att använda it för information, dokumentation och kommunikation inom verksamheten ska också ingå i undervisningen."
+    "Undervisningen i ämnet pedagogik i vård och omsorg ska syfta till att eleverna utvecklar pedagogisk och kommunikativ förmåga. Eleverna ska också ges möjlighet att utveckla förmåga att avgöra vilken vägledning som krävs i olika vård- och omsorgssituationer.",
+    "Undervisningen ska leda till att eleverna utvecklar kunskaper om hur människan samspelar med sin omgivning. Den ska också bidra till att eleverna utvecklar intresse för hur andra människor tänker och agerar. Dessutom ska undervisningen bidra till att eleverna utvecklar kunskaper om om handledningens betydelse.",
+    "Undervisningen ska ge eleverna möjlighet att medverka och använda sina kunskaper i olika situationer. Genom medverkan i olika verksamheter ska eleverna ges möjlighet till inblick i och erfarenhet av olika pedagogiska sammanhang. Undervisningen ska också ge eleverna möjlighet att reflektera över och diskutera egna och andras handlingar och attityder. Genom undervisningen ska eleverna också ges möjlighet att utveckla förmåga att utifrån ett kritiskt förhållningssätt söka och inhämta information samt hantera, värdera och använda den. Att använda it för information, dokumentation och kommunikation inom verksamheten ska också ingå i undervisningen."
   ],
   "courseInfo": {
-    "PEASOC0": "Socialpedagogik, 100 poäng.",
     "PEAVÅD0": "Vårdpedagogik och handledning, 100 poäng."
   },
-  "description": "Ämnet pedagogik i vård och omsorg har sin vetenskapliga grund i pedagogik, vårdvetenskap, psykologi och sociologi. Ämnet behandlar socialpedagogiska och pedagogiska frågor inom hälso- och sjukvård och socialtjänst samt mötet och relationen mellan patienter och brukare och personal.",
+  "description": "Ämnet pedagogik i vård och omsorg har sin vetenskapliga grund i pedagogik, vårdvetenskap och psykologi. Ämnet behandlar pedagogiska frågor inom hälso- och sjukvård samt mötet och relationen mellan patienter och brukare och personal.",
   "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
-  "category": "VOCATIONAL",
-  "applicableFrom": "2011-06-30T22:00:00.000Z",
+  "applicableFrom": "2019-09-02T13:16:18.000Z",
   "courses": [
-    "PEASOC0",
     "PEAVÅD0"
   ]
 }

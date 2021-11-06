@@ -18,19 +18,16 @@
     "Undervisningen ska ge eleverna möjlighet att fördjupa sina kunskaper i materialteknik för att kunna utvärdera och välja material i konstruktioner. Undervisningen ska även ge eleverna möjlighet att tolka och skapa berednings- och tillverkningsunderlag samt tekniska instruktioner. Dessutom ska undervisningen bidra till att eleverna utvecklar kunskaper inom dimensionering och provning av konstruktioner med hjälp av manuella och datorstödda mätningar, simuleringar och tester."
   ],
   "courseInfo": {
-    "KORKON3": "Konstruktionsteknik, 100 poäng.",
-    "KORMEK3": "Mekanik och hållfasthetslära, 100 poäng.",
+    "KORKON3": "Tillämpad konstruktionsteknik, 100 poäng.",
     "KORMAT3": "Materialteknik, 100 poäng.",
-    "KORTIL3": "Tillämpad konstruktionsteknik, 100 poäng, som bygger på kursen konstruktionsteknik."
+    "KORMEK3": "Mekanik och hållfasthetslära, 100 poäng."
   },
   "description": "Ämnet konstruktionsteknik behandlar konstruktionsprocessen och hur konstruktören använder dess olika delar för att utveckla och förbättra tekniska lösningar. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
   "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
-  "category": "OTHER",
-  "applicableFrom": "2018-07-31T22:00:00.000Z",
+  "applicableFrom": "2018-08-09T08:21:02.000Z",
   "courses": [
     "KORKON3",
     "KORMAT3",
-    "KORMEK3",
-    "KORTIL3"
+    "KORMEK3"
   ]
 }

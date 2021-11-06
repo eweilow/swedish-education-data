@@ -17,17 +17,16 @@
     "Genom laborationer och ett undersökande arbetssätt ska eleverna ges möjlighet att utveckla kunskaper om lantbruksdjurs exteriör, fysiologi, näringsbehov, genetik och avel. Genom stallturer ska eleverna ges möjlighet att iaktta lantbruksdjur för att utveckla kunskaper om deras beteende och hälsa samt om sammanhangen i djurskötsel."
   ],
   "courseInfo": {
+    "DJUDJU00S": "Lantbruksdjur - specialisering, 100 poäng.",
     "LANLAN01": "Lantbruksdjur 1, 100 poäng.",
-    "LANLAN02": "Lantbruksdjur 2, 100 poäng, som bygger på kursen lantbruksdjur 1.",
-    "LANLAN00S": "Lantbruksdjur – specialisering, 100 poäng, som bygger på kursen lantbruksdjur 2. Kursen kan läsas fler gånger med olika innehåll."
+    "LANLAN02": "Lantbruksdjur 2, 100 poäng."
   },
   "description": "Arbete med lantbruksdjur ställer krav på en kombination av biologiska, tekniska och ekonomiska kunskaper. Dessa kunskaper i kombination möjliggör en produktion med hög djurvälfärd samt en utveckling av nya produktionsmetoder och verksamhetsområden. Ämnet lantbruksdjur behandlar skötsel av olika djur inom lantbruket samt användning av djurstallars tekniska utrustning. Det behandlar också lantbruksdjurs foderbehov, djurmiljö, djurhälsa, djuretik, avel, produktkvalitet och ekonomi. Dessutom behandlas lantbruksdjurs betydelse för landskapsvård och biologisk mångfald.",
   "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
-  "category": "VOCATIONAL",
-  "applicableFrom": "2016-05-01T22:00:00.000Z",
+  "applicableFrom": "2016-10-19T13:48:55.000Z",
   "courses": [
+    "DJUDJU00S",
     "LANLAN01",
-    "LANLAN02",
-    "LANLAN00S"
+    "LANLAN02"
   ]
 }

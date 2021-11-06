@@ -30,14 +30,19 @@
     "file": "./subject/s_ANL.json"
   },
   {
+    "code": "ANO",
+    "title": "Anatomi och fysiologi",
+    "file": "./subject/s_ANO.json"
+  },
+  {
     "code": "ARK",
     "title": "Arkitektur",
     "file": "./subject/s_ARK.json"
   },
   {
-    "code": "ATV",
-    "title": "ATV- och MC-teknik",
-    "file": "./subject/s_ATV.json"
+    "code": "ATO",
+    "title": "ATV- och motorcykelteknik",
+    "file": "./subject/s_ATO.json"
   },
   {
     "code": "AUO",
@@ -53,6 +58,11 @@
     "code": "BAN",
     "title": "Banskötsel för hästsport",
     "file": "./subject/s_BAN.json"
+  },
+  {
+    "code": "BAO",
+    "title": "Barn- och ungdomsvård",
+    "file": "./subject/s_BAO.json"
   },
   {
     "code": "BAT",
@@ -86,7 +96,7 @@
   },
   {
     "code": "BIG",
-    "title": "Biologi – naturbruk",
+    "title": "Biologi - naturbruk",
     "file": "./subject/s_BIG.json"
   },
   {
@@ -108,6 +118,11 @@
     "code": "BIO",
     "title": "Biologi",
     "file": "./subject/s_BIO.json"
+  },
+  {
+    "code": "BUS",
+    "title": "Bussteknik",
+    "file": "./subject/s_BUS.json"
   },
   {
     "code": "BYG",
@@ -191,7 +206,7 @@
   },
   {
     "code": "DAY",
-    "title": "Datorsystem – spårfordon",
+    "title": "Datorsystem - spårfordon",
     "file": "./subject/s_DAY.json"
   },
   {
@@ -236,13 +251,13 @@
   },
   {
     "code": "ELA",
-    "title": "Ellära och digitalteknik – flyg",
+    "title": "Ellära och digitalteknik - flyg",
     "file": "./subject/s_ELA.json"
   },
   {
-    "code": "ELÄ",
-    "title": "Elmätteknik",
-    "file": "./subject/s_ELÄ.json"
+    "code": "ELC",
+    "title": "El- och hybridfordonsteknik",
+    "file": "./subject/s_ELC.json"
   },
   {
     "code": "ELD",
@@ -256,7 +271,7 @@
   },
   {
     "code": "ELF",
-    "title": "Elkraft och traktion – spårfordon",
+    "title": "Elkraft och traktion - spårfordon",
     "file": "./subject/s_ELF.json"
   },
   {
@@ -281,18 +296,23 @@
   },
   {
     "code": "ELN",
-    "title": "Elektronik – spårfordon",
+    "title": "Elektronik - spårfordon",
     "file": "./subject/s_ELN.json"
   },
   {
     "code": "ELO",
-    "title": "Elektroniksystem – installation och underhåll",
+    "title": "Elektroniksystem - installation och underhåll",
     "file": "./subject/s_ELO.json"
   },
   {
     "code": "ELR",
     "title": "Elektroteknik",
     "file": "./subject/s_ELR.json"
+  },
+  {
+    "code": "ELÄ",
+    "title": "Elmätteknik",
+    "file": "./subject/s_ELÄ.json"
   },
   {
     "code": "ENE",
@@ -370,6 +390,11 @@
     "file": "./subject/s_FIS.json"
   },
   {
+    "code": "FLE",
+    "title": "Flerbränslefordonsteknik",
+    "file": "./subject/s_FLE.json"
+  },
+  {
     "code": "FLG",
     "title": "Flygplatsteknik",
     "file": "./subject/s_FLG.json"
@@ -378,11 +403,6 @@
     "code": "FLP",
     "title": "Flygplansteknik",
     "file": "./subject/s_FLP.json"
-  },
-  {
-    "code": "FLY",
-    "title": "Flygyrkesteknik",
-    "file": "./subject/s_FLY.json"
   },
   {
     "code": "FOD",
@@ -410,16 +430,6 @@
     "file": "./subject/s_FOR.json"
   },
   {
-    "code": "FÖR",
-    "title": "Företagsekonomi",
-    "file": "./subject/s_FÖR.json"
-  },
-  {
-    "code": "FÖS",
-    "title": "Försäljning och kundservice",
-    "file": "./subject/s_FÖS.json"
-  },
-  {
     "code": "FOT",
     "title": "Fotografisk bild",
     "file": "./subject/s_FOT.json"
@@ -440,13 +450,28 @@
     "file": "./subject/s_FRT.json"
   },
   {
+    "code": "FUT",
+    "title": "Funktionsförmåga och funktionsnedsättning",
+    "file": "./subject/s_FUT.json"
+  },
+  {
     "code": "FYS",
     "title": "Fysik",
     "file": "./subject/s_FYS.json"
   },
   {
+    "code": "FÖR",
+    "title": "Företagsekonomi",
+    "file": "./subject/s_FÖR.json"
+  },
+  {
+    "code": "FÖS",
+    "title": "Försäljning och kundservice",
+    "file": "./subject/s_FÖS.json"
+  },
+  {
     "code": "GAS",
-    "title": "Gasturbinmotorer – flyg",
+    "title": "Gasturbinmotorer - flyg",
     "file": "./subject/s_GAS.json"
   },
   {
@@ -480,19 +505,24 @@
     "file": "./subject/s_GRA.json"
   },
   {
-    "code": "GRÄ",
-    "title": "Gränssnittsdesign",
-    "file": "./subject/s_GRÄ.json"
-  },
-  {
     "code": "GRF",
     "title": "Grafisk produktion",
     "file": "./subject/s_GRF.json"
   },
   {
+    "code": "GRO",
+    "title": "Grönyte- och småmaskinsteknik",
+    "file": "./subject/s_GRO.json"
+  },
+  {
     "code": "GRU",
     "title": "Grundläggande vård och omsorg",
     "file": "./subject/s_GRU.json"
+  },
+  {
+    "code": "GRÄ",
+    "title": "Gränssnittsdesign",
+    "file": "./subject/s_GRÄ.json"
   },
   {
     "code": "GYN",
@@ -510,19 +540,14 @@
     "file": "./subject/s_HAL.json"
   },
   {
-    "code": "HÅL",
-    "title": "Hållbart samhälle",
-    "file": "./subject/s_HÅL.json"
-  },
-  {
     "code": "HAN",
     "title": "Handel",
     "file": "./subject/s_HAN.json"
   },
   {
-    "code": "HÄT",
-    "title": "Hästkunskap",
-    "file": "./subject/s_HÄT.json"
+    "code": "HAO",
+    "title": "Hälso- och sjukvård",
+    "file": "./subject/s_HAO.json"
   },
   {
     "code": "HAV",
@@ -556,7 +581,7 @@
   },
   {
     "code": "HUB",
-    "title": "Husbyggnad – specialyrken",
+    "title": "Husbyggnad - specialyrken",
     "file": "./subject/s_HUB.json"
   },
   {
@@ -575,6 +600,11 @@
     "file": "./subject/s_HUS.json"
   },
   {
+    "code": "HUV",
+    "title": "Husvagns- och husbilsteknik",
+    "file": "./subject/s_HUV.json"
+  },
+  {
     "code": "HVK",
     "title": "Hantverkskunskap",
     "file": "./subject/s_HVK.json"
@@ -583,6 +613,16 @@
     "code": "HYG",
     "title": "Hygienkunskap",
     "file": "./subject/s_HYG.json"
+  },
+  {
+    "code": "HÅL",
+    "title": "Hållbart samhälle",
+    "file": "./subject/s_HÅL.json"
+  },
+  {
+    "code": "HÄT",
+    "title": "Hästkunskap",
+    "file": "./subject/s_HÄT.json"
   },
   {
     "code": "IDR",
@@ -645,9 +685,9 @@
     "file": "./subject/s_INV.json"
   },
   {
-    "code": "ITI",
-    "title": "It i vård och omsorg",
-    "file": "./subject/s_ITI.json"
+    "code": "JUR",
+    "title": "Juridik",
+    "file": "./subject/s_JUR.json"
   },
   {
     "code": "JÄN",
@@ -658,11 +698,6 @@
     "code": "JÄR",
     "title": "Järnvägsbyggnad",
     "file": "./subject/s_JÄR.json"
-  },
-  {
-    "code": "JUR",
-    "title": "Juridik",
-    "file": "./subject/s_JUR.json"
   },
   {
     "code": "KAR",
@@ -676,7 +711,7 @@
   },
   {
     "code": "KLA",
-    "title": "Klassisk grekiska – språk och kultur",
+    "title": "Klassisk grekiska - språk och kultur",
     "file": "./subject/s_KLA.json"
   },
   {
@@ -686,7 +721,7 @@
   },
   {
     "code": "KOL",
-    "title": "Kolvmotorer – flyg",
+    "title": "Kolvmotorer - flyg",
     "file": "./subject/s_KOL.json"
   },
   {
@@ -720,6 +755,11 @@
     "file": "./subject/s_KYL.json"
   },
   {
+    "code": "LAA",
+    "title": "Lastbilar och mobila maskiner - service och underhållsteknik",
+    "file": "./subject/s_LAA.json"
+  },
+  {
     "code": "LAC",
     "title": "Lackeringsteknik",
     "file": "./subject/s_LAC.json"
@@ -730,9 +770,34 @@
     "file": "./subject/s_LAG.json"
   },
   {
+    "code": "LAI",
+    "title": "Lastbilar och mobila maskiner - motorteknik",
+    "file": "./subject/s_LAI.json"
+  },
+  {
+    "code": "LAK",
+    "title": "Lantbruksmaskinsteknik",
+    "file": "./subject/s_LAK.json"
+  },
+  {
+    "code": "LAL",
+    "title": "Lastbilspåbyggnadsteknik",
+    "file": "./subject/s_LAL.json"
+  },
+  {
     "code": "LAN",
     "title": "Lantbruksdjur",
     "file": "./subject/s_LAN.json"
+  },
+  {
+    "code": "LAO",
+    "title": "Lås- och passerteknik",
+    "file": "./subject/s_LAO.json"
+  },
+  {
+    "code": "LAP",
+    "title": "Lastbilar - reparations- och systemteknik",
+    "file": "./subject/s_LAP.json"
   },
   {
     "code": "LAR",
@@ -746,7 +811,7 @@
   },
   {
     "code": "LAT",
-    "title": "Latin – språk och kultur",
+    "title": "Latin - språk och kultur",
     "file": "./subject/s_LAT.json"
   },
   {
@@ -771,7 +836,7 @@
   },
   {
     "code": "LLA",
-    "title": "Ellära – spårfordon",
+    "title": "Ellära - spårfordon",
     "file": "./subject/s_LLA.json"
   },
   {
@@ -795,19 +860,9 @@
     "file": "./subject/s_MAI.json"
   },
   {
-    "code": "MÄI",
-    "title": "Människan i industrin",
-    "file": "./subject/s_MÄI.json"
-  },
-  {
     "code": "MAK",
     "title": "Maskintjänst",
     "file": "./subject/s_MAK.json"
-  },
-  {
-    "code": "MÄK",
-    "title": "Människans språk",
-    "file": "./subject/s_MÄK.json"
   },
   {
     "code": "MAL",
@@ -820,11 +875,6 @@
     "file": "./subject/s_MAN.json"
   },
   {
-    "code": "MÄN",
-    "title": "Människan",
-    "file": "./subject/s_MÄN.json"
-  },
-  {
     "code": "MAO",
     "title": "Mat och butik",
     "file": "./subject/s_MAO.json"
@@ -835,29 +885,9 @@
     "file": "./subject/s_MAR.json"
   },
   {
-    "code": "MAS",
-    "title": "Maskin- och lastbilsteknik",
-    "file": "./subject/s_MAS.json"
-  },
-  {
-    "code": "MÄS",
-    "title": "Människans säkerhet",
-    "file": "./subject/s_MÄS.json"
-  },
-  {
     "code": "MAT",
     "title": "Matematik",
     "file": "./subject/s_MAT.json"
-  },
-  {
-    "code": "MÅT",
-    "title": "Måltids- och branschkunskap",
-    "file": "./subject/s_MÅT.json"
-  },
-  {
-    "code": "MÄT",
-    "title": "Mät-, styr- och reglerteknik",
-    "file": "./subject/s_MÄT.json"
   },
   {
     "code": "MAY",
@@ -925,6 +955,11 @@
     "file": "./subject/s_MOI.json"
   },
   {
+    "code": "MOL",
+    "title": "Mobila maskiner - reparations- och systemteknik",
+    "file": "./subject/s_MOL.json"
+  },
+  {
     "code": "MOT",
     "title": "Motor- och röjmotorsåg",
     "file": "./subject/s_MOT.json"
@@ -943,6 +978,36 @@
     "code": "MUS",
     "title": "Musik",
     "file": "./subject/s_MUS.json"
+  },
+  {
+    "code": "MÅT",
+    "title": "Måltids- och branschkunskap",
+    "file": "./subject/s_MÅT.json"
+  },
+  {
+    "code": "MÄI",
+    "title": "Människan i industrin",
+    "file": "./subject/s_MÄI.json"
+  },
+  {
+    "code": "MÄK",
+    "title": "Människans språk",
+    "file": "./subject/s_MÄK.json"
+  },
+  {
+    "code": "MÄN",
+    "title": "Människan",
+    "file": "./subject/s_MÄN.json"
+  },
+  {
+    "code": "MÄS",
+    "title": "Människans säkerhet",
+    "file": "./subject/s_MÄS.json"
+  },
+  {
+    "code": "MÄT",
+    "title": "Mät-, styr- och reglerteknik",
+    "file": "./subject/s_MÄT.json"
   },
   {
     "code": "NAE",
@@ -965,6 +1030,11 @@
     "file": "./subject/s_NAK.json"
   },
   {
+    "code": "NAM",
+    "title": "Naturturism",
+    "file": "./subject/s_NAM.json"
+  },
+  {
     "code": "NAR",
     "title": "Naturbrukets byggnader",
     "file": "./subject/s_NAR.json"
@@ -973,11 +1043,6 @@
     "code": "NAT",
     "title": "Natur- och landskapsvård",
     "file": "./subject/s_NAT.json"
-  },
-  {
-    "code": "NÄT",
-    "title": "Näthandel",
-    "file": "./subject/s_NÄT.json"
   },
   {
     "code": "NAU",
@@ -990,9 +1055,19 @@
     "file": "./subject/s_NAV.json"
   },
   {
+    "code": "NÄT",
+    "title": "Näthandel",
+    "file": "./subject/s_NÄT.json"
+  },
+  {
     "code": "ODI",
     "title": "Odling i växthus",
     "file": "./subject/s_ODI.json"
+  },
+  {
+    "code": "OMV",
+    "title": "Omvårdnad",
+    "file": "./subject/s_OMV.json"
   },
   {
     "code": "PEA",
@@ -1010,19 +1085,9 @@
     "file": "./subject/s_PEG.json"
   },
   {
-    "code": "PER",
-    "title": "Personbilsteknik",
-    "file": "./subject/s_PER.json"
-  },
-  {
     "code": "PES",
     "title": "Persontransporter",
     "file": "./subject/s_PES.json"
-  },
-  {
-    "code": "PLÅ",
-    "title": "Plåtslageri",
-    "file": "./subject/s_PLÅ.json"
   },
   {
     "code": "PLT",
@@ -1030,8 +1095,13 @@
     "file": "./subject/s_PLT.json"
   },
   {
+    "code": "PLÅ",
+    "title": "Plåtslageri",
+    "file": "./subject/s_PLÅ.json"
+  },
+  {
     "code": "PRC",
-    "title": "Processteknik – energi",
+    "title": "Processteknik - energi",
     "file": "./subject/s_PRC.json"
   },
   {
@@ -1041,7 +1111,7 @@
   },
   {
     "code": "PRE",
-    "title": "Processteknik – kemi",
+    "title": "Processteknik - kemi",
     "file": "./subject/s_PRE.json"
   },
   {
@@ -1090,6 +1160,11 @@
     "file": "./subject/s_PSY.json"
   },
   {
+    "code": "RAT",
+    "title": "Rättspsykiatri",
+    "file": "./subject/s_RAT.json"
+  },
+  {
     "code": "REC",
     "title": "Reception",
     "file": "./subject/s_REC.json"
@@ -1108,6 +1183,11 @@
     "code": "REN",
     "title": "Rennäring",
     "file": "./subject/s_REN.json"
+  },
+  {
+    "code": "REP",
+    "title": "Personbilar - reparations- och systemteknik",
+    "file": "./subject/s_REP.json"
   },
   {
     "code": "RES",
@@ -1151,8 +1231,13 @@
   },
   {
     "code": "SEI",
-    "title": "Serviceteknik – naturbruk",
+    "title": "Serviceteknik - naturbruk",
     "file": "./subject/s_SEI.json"
+  },
+  {
+    "code": "SEO",
+    "title": "Personbilar - service och underhållsteknik",
+    "file": "./subject/s_SEO.json"
   },
   {
     "code": "SER",
@@ -1173,6 +1258,11 @@
     "code": "SJU",
     "title": "Sjukvård",
     "file": "./subject/s_SJU.json"
+  },
+  {
+    "code": "SKB",
+    "title": "Skogsbruksmaskinsteknik",
+    "file": "./subject/s_SKB.json"
   },
   {
     "code": "SKG",
@@ -1200,6 +1290,11 @@
     "file": "./subject/s_SNO.json"
   },
   {
+    "code": "SOA",
+    "title": "Social omsorg",
+    "file": "./subject/s_SOA.json"
+  },
+  {
     "code": "SOC",
     "title": "Socialt arbete",
     "file": "./subject/s_SOC.json"
@@ -1223,11 +1318,6 @@
     "code": "SPE",
     "title": "Specialidrott",
     "file": "./subject/s_SPE.json"
-  },
-  {
-    "code": "SPF",
-    "title": "Spårfordonsteknik",
-    "file": "./subject/s_SPF.json"
   },
   {
     "code": "SPN",
@@ -1281,13 +1371,8 @@
   },
   {
     "code": "SYT",
-    "title": "Systemteknik – spårfordon",
+    "title": "Systemteknik - spårfordon",
     "file": "./subject/s_SYT.json"
-  },
-  {
-    "code": "TÄT",
-    "title": "Tätskikt våtrum",
-    "file": "./subject/s_TÄT.json"
   },
   {
     "code": "TEA",
@@ -1305,18 +1390,13 @@
     "file": "./subject/s_TEK.json"
   },
   {
-    "code": "TEN",
-    "title": "Teknik i vård och omsorg",
-    "file": "./subject/s_TEN.json"
-  },
-  {
     "code": "TES",
-    "title": "Tekniska system – VVS",
+    "title": "Tekniska system - VVS",
     "file": "./subject/s_TES.json"
   },
   {
     "code": "TEY",
-    "title": "Tekniska system – el",
+    "title": "Tekniska system - el",
     "file": "./subject/s_TEY.json"
   },
   {
@@ -1335,9 +1415,9 @@
     "file": "./subject/s_TRA.json"
   },
   {
-    "code": "TRÄ",
-    "title": "Trä",
-    "file": "./subject/s_TRÄ.json"
+    "code": "TRC",
+    "title": "Truckteknik",
+    "file": "./subject/s_TRC.json"
   },
   {
     "code": "TRD",
@@ -1346,7 +1426,7 @@
   },
   {
     "code": "TRF",
-    "title": "Trafikövervakning och signalsystem – spårfordon",
+    "title": "Trafikövervakning och signalsystem - spårfordon",
     "file": "./subject/s_TRF.json"
   },
   {
@@ -1370,8 +1450,18 @@
     "file": "./subject/s_TRV.json"
   },
   {
+    "code": "TRÄ",
+    "title": "Trä",
+    "file": "./subject/s_TRÄ.json"
+  },
+  {
+    "code": "TÄT",
+    "title": "Tätskikt våtrum",
+    "file": "./subject/s_TÄT.json"
+  },
+  {
     "code": "UND",
-    "title": "Underhållsteknik – flyg",
+    "title": "Underhållsteknik - flyg",
     "file": "./subject/s_UND.json"
   },
   {
@@ -1405,28 +1495,18 @@
     "file": "./subject/s_VAO.json"
   },
   {
-    "code": "VÅR",
-    "title": "Vård och omsorg",
-    "file": "./subject/s_VÅR.json"
-  },
-  {
     "code": "VAT",
     "title": "Vatten- och miljöteknik",
     "file": "./subject/s_VAT.json"
   },
   {
-    "code": "VÄX",
-    "title": "Växtkunskap",
-    "file": "./subject/s_VÄX.json"
-  },
-  {
     "code": "VEA",
-    "title": "Verkstad – spårfordon",
+    "title": "Verkstad - spårfordon",
     "file": "./subject/s_VEA.json"
   },
   {
     "code": "VEI",
-    "title": "Ventilation – installation",
+    "title": "Ventilation - installation",
     "file": "./subject/s_VEI.json"
   },
   {
@@ -1436,7 +1516,7 @@
   },
   {
     "code": "VEL",
-    "title": "Ventilation – plåtslageri",
+    "title": "Ventilation - plåtslageri",
     "file": "./subject/s_VEL.json"
   },
   {
@@ -1456,8 +1536,18 @@
   },
   {
     "code": "VVI",
-    "title": "VVS – installation",
+    "title": "VVS - installation",
     "file": "./subject/s_VVI.json"
+  },
+  {
+    "code": "VÅR",
+    "title": "Vård och omsorg",
+    "file": "./subject/s_VÅR.json"
+  },
+  {
+    "code": "VÄX",
+    "title": "Växtkunskap",
+    "file": "./subject/s_VÄX.json"
   },
   {
     "code": "WES",
@@ -1471,7 +1561,7 @@
   },
   {
     "code": "YRK",
-    "title": "Yrkesteknik – flyg",
+    "title": "Yrkesteknik - flyg",
     "file": "./subject/s_YRK.json"
   },
   {

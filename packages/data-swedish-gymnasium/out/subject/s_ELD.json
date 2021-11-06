@@ -19,15 +19,14 @@
     "ELDBEY0": "Belysningsnät, 100 poäng.",
     "ELDHÖG0": "Högspänningsnät, 100 poäng.",
     "ELDLÅS0": "Lågspänningsnät, 100 poäng.",
-    "ELDNÄT0": "Nät- och transformatorstationer, 100 poäng, som bygger på kursen lågspänningsnät eller kursen högspänningsnät.",
-    "ELDNÄU0": "Nätunderhållsarbete i stadsnät, 100 poäng, som bygger på kursen lågspänningsnät eller kursen högspänningsnät.",
-    "ELDNÄN0": "Nätunderhållsarbete i vindkraftnät, 100 poäng, som bygger på kursen lågspänningsnät eller kursen högspänningsnät.",
-    "ELDNÄD0": "Nätunderhållsarbete på luftledningsnät 0,4–24kV, 100 poäng, som bygger på kursen lågspänningsnät eller kursen högspänningsnät."
+    "ELDNÄD0": "Nätunderhållsarbete på luftledningsnät 0,4-24kV, 100 poäng.",
+    "ELDNÄN0": "Nätunderhållsarbete i vindkraftnät, 100 poäng.",
+    "ELDNÄT0": "Nät- och transformatorstationer, 100 poäng.",
+    "ELDNÄU0": "Nätunderhållsarbete i stadsnät, 100 poäng."
   },
   "description": "Ämnet eldistributionsteknik behandlar eldistributionsnät och tillhörande anläggningar samt felsökning och felavhjälpning i befintliga anläggningar. Dessutom behandlas säkerhetsfrågor eftersom eldistributionsanläggningar ofta arbetar med höga spänningar och stora effekter, vilket gör att ett misstag kan orsaka stora skador både på person och på egendom.",
   "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
-  "category": "VOCATIONAL",
-  "applicableFrom": "2015-12-14T23:00:00.000Z",
+  "applicableFrom": "2015-12-15T16:42:30.000Z",
   "courses": [
     "ELDBEY0",
     "ELDHÖG0",

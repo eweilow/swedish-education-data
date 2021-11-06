@@ -20,19 +20,18 @@
     "Eleverna ska ges möjlighet att arbeta i verklighetsnära projekt med koppling till teknikområdet."
   ],
   "courseInfo": {
+    "SAHBIM3": "BIM-samordning, 100 poäng. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
+    "SAHBYC3": "Byggprocessen, 100 poäng. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
     "SAHBYV0": "Byggnadsverk, 100 poäng.",
-    "SAHBYC0": "Byggprocessen, 100 poäng. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
-    "SAHMIL0": "Miljöcertifierade hus, 100 poäng. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
-    "SAHBIM0": "BIM-samordning, 100 poäng. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan."
+    "SAHMIL3": "Miljöcertifierade hus, 100 poäng. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan."
   },
   "description": "Ämnet samhällsbyggande behandlar byggprocessens olika delar samt byggmaterial, byggnadsteknik och installationsteknik.",
   "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
-  "category": "VOCATIONAL",
-  "applicableFrom": "2015-12-14T23:00:00.000Z",
+  "applicableFrom": "2021-02-12T12:23:17.000Z",
   "courses": [
-    "SAHBIM0",
-    "SAHBYC0",
+    "SAHBIM3",
+    "SAHBYC3",
     "SAHBYV0",
-    "SAHMIL0"
+    "SAHMIL3"
   ]
 }

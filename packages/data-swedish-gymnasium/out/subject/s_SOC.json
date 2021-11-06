@@ -2,27 +2,28 @@
   "title": "Socialt arbete",
   "code": "SOC",
   "developmentPurposes": [
-    "Kunskaper om olika sociala verksamheter.",
-    "Kunskaper om sociala frågor och problem på samhälls-, grupp- och individnivå.",
+    "Kunskaper om olika sociala verksamheter och deras organisation och roll i samhället.",
+    "Kunskaper om sociala frågor på samhälls-, grupp- och individnivå.",
     "Förmåga att använda centrala begrepp och teorier inom kunskapsområdet.",
-    "Färdigheter i att kritiskt använda information från olika källor.",
     "Förmåga att arbeta utifrån lagar och andra bestämmelser som styr sociala verksamheter samt ta hänsyn till arbetsmiljö, säkerhet och yrkesetik.",
-    "Färdigheter i att arbeta med förekommande arbetsuppgifter inom sociala verksamheter.",
+    "Färdigheter i att arbeta med samt utvärdera och dokumentera förekommande arbetsuppgifter inom sociala verksamheter.",
     "Förmåga att kommunicera, samarbeta och samverka för att möta och arbeta med människor i sociala sammanhang.",
-    "Förmåga att diskutera egna, andras och samhällets attityder till och värderingar av människors olika levnadsvillkor."
+    "Förmåga att diskutera egna, andras och samhällets attityder till och värderingar av människors olika levnadsvillkor.",
+    "Färdigheter i att kritiskt använda information från olika källor."
   ],
   "purposes": [
-    "Undervisningen i ämnet socialt arbete ska syfta till att eleverna utvecklar kunskaper om sociala frågor och verksamheter. Eleverna ska ges möjlighet att utifrån lagar, styrdokument, en demokratisk värdegrund och överenskommelser om mänskliga rättigheter utveckla förmåga att arbeta inom sociala verksamheter, inkluderat funktionshinderområdet. Undervisningen ska leda till att eleverna ges möjlighet att utveckla förmåga att möta och arbeta med människor utifrån ett etiskt och ett inkluderande förhållningssätt. Såväl egna som samhällets attityder till, samt värderingar och bemötande av, människors sociala utsatthet ska därför behandlas i undervisningen.",
-    "Problemlösning och handlingsberedskap ska stimuleras i undervisningen, och tillfällen ska ges för eleverna att medverka vid val av arbetsformer och innehåll. Genom fältstudier eller genom att medverka i olika verksamheter ska eleverna ges möjlighet att få inblick i och erfarenhet av sociala och pedagogiska sammanhang. Eleverna ska ges möjlighet att reflektera över och diskutera ämnesinnehållet, centrala begrepp och egna och andras handlingar och attityder. I undervisningen ska eleverna också ges möjlighet att utveckla förmåga att kritiskt söka, bearbeta, värdera och använda information från olika källor."
+    "Undervisningen i ämnet socialt arbete ska syfta till att eleverna utvecklar kunskaper om sociala frågor och verksamheter. Eleverna ska ges möjlighet att utifrån lagar, styrdokument, en demokratisk värdegrund och överenskommelser om mänskliga rättigheter utveckla förmåga att arbeta inom sociala verksamheter. Undervisningen ska leda till att eleverna ges möjlighet att utveckla förmåga att möta och arbeta med människor utifrån ett etiskt och ett inkluderande förhållningssätt där även hänsyn tas till arbetsmiljö och säkerhet. Eleverna ska även ges möjlighet att utveckla kunskaper om hur samhällets skyddsnät och stödinsatser växt fram historiskt och hur synen förändrats över tid och hur det har påverkat människor i utsatta situationer. I undervisningen ska därför såväl egna som samhällets attityder till, samt värderingar och bemötande av, människors sociala utsatthet behandlas.",
+    "Problemlösning och handlingsberedskap ska stimuleras i undervisningen och tillfällen ska ges för eleverna att medverka vid val av arbetsformer och innehåll. Eleverna ska ges möjlighet att få inblick i och erfarenhet av sociala och pedagogiska sammanhang och delaktighetens betydelse. Eleverna ska ges möjlighet att utveckla kunskaper om centrala begrepp och teorier inom sociala verksamheter. Vidare ska eleverna ges möjlighet att reflektera över och diskutera ämnesinnehållet samt egna och andras handlingar och attityder. I undervisningen ska eleverna också ges möjlighet att utveckla färdigheter i att arbeta med, utvärdera och dokumentera förekommande arbetsuppgifter samt förmåga att kritiskt söka, bearbeta, värdera och använda information från olika källor."
   ],
   "courseInfo": {
-    "SOCSOI0": "Socialt arbete, 200 poäng, som bygger på kursen sociologi."
+    "SOCSOC01": "Socialt arbete 1, 100 poäng.",
+    "SOCSOC02": "Socialt arbete 2, 100 poäng."
   },
-  "description": "Ämnet socialt arbete är tvärvetenskapligt och har sin grund i socialvetenskap, sociologi, pedagogik och statsvetenskap. Det är också yrkesrelaterat och handlar om arbete som inriktas på sociala frågor och problem, deras konsekvenser och lösningar.",
+  "description": "Ämnet socialt arbete är tvärvetenskapligt och har sin grund i socialvetenskap, sociologi, pedagogik och statsvetenskap. Det är också yrkesrelaterat och handlar om arbete som inriktas på sociala frågor samt deras konsekvenser och lösningar.",
   "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
-  "category": "VOCATIONAL",
-  "applicableFrom": "2011-06-30T22:00:00.000Z",
+  "applicableFrom": "2018-08-30T09:43:08.000Z",
   "courses": [
-    "SOCSOI0"
+    "SOCSOC01",
+    "SOCSOC02"
   ]
 }

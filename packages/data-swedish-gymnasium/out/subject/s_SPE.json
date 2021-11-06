@@ -17,25 +17,24 @@
     "Eleverna ska genom att medverka i olika verksamheter få inblick i och erfarenhet av elitidrott och träningsutveckling samt av idrottsrörelsens roll i samhället och av ledarskap i olika idrottsliga sammanhang. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om människans beteende, som individ och som gruppmedlem, och om hur kroppsideal och andra uppfattningar baserade på kultur och kön framträder i miljöer som är kopplade till tränings- och tävlingsaktiviteter. Undervisningen ska motverka diskriminerande föreställningar och bidra till att olika fysiska förutsättningar respekteras."
   ],
   "courseInfo": {
-    "SPEIDT0": "Idrottsledarskap, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen pedagogiskt ledarskap.",
-    "SPEIDS01": "Idrottsspecialisering 1, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen idrott och hälsa 1 – specialisering.",
-    "SPETRÄ01": "Tränings- och tävlingslära 1, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen träningslära 1.",
-    "SPEIDS02": "Idrottsspecialisering 2, 100 poäng, som bygger på kursen idrottsspecialisering 1. Dessutom bygger den på kursen tränings- och tävlingslära 1 eller kursen träningslära 1.",
-    "SPETRÄ02": "Tränings- och tävlingslära 2, 100 poäng, som bygger på kursen tränings- och tävlingslära 1 eller kursen träningslära 1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen träningslära 2.",
-    "SPEIDS03": "Idrottsspecialisering 3, 100 poäng, som bygger på kursen idrottsspecialisering 2.",
-    "SPETRÄ03": "Tränings- och tävlingslära 3, 100 poäng, som bygger på kursen tränings- och tävlingslära 2 eller kursen träningslära 2. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen träningslära 3."
+    "SPEIDS31": "Idrottsspecialisering 1, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen idrott och hälsa 1 - specialisering.",
+    "SPEIDS32": "Idrottsspecialisering 2, 100 poäng.",
+    "SPEIDS33": "Idrottsspecialisering 3, 100 poäng.",
+    "SPEIDT3": "Idrottsledarskap, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen pedagogiskt ledarskap.",
+    "SPETRA31": "Tränings- och tävlingslära 1, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen träningslära 1.",
+    "SPETRA32": "Tränings- och tävlingslära 2, 100 poäng.",
+    "SPETRA33": "Tränings- och tävlingslära 3, 100 poäng."
   },
   "description": "Ämnet specialidrott möjliggör en hälsosam idrottskarriär och prestationsutveckling inom en vald idrott. Det behandlar metoder och teorier samt praktiskt utövande av specifik idrott mot elitnivå. Ämnet specialidrott får bara anordnas på idrottsutbildningar vid riksidrottsgymnasium eller nationellt godkända idrottsutbildningar.",
   "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
-  "category": "OTHER",
-  "applicableFrom": "2017-07-31T22:00:00.000Z",
+  "applicableFrom": "2020-02-21T07:42:38.000Z",
   "courses": [
-    "SPEIDS01",
-    "SPEIDS02",
-    "SPEIDS03",
-    "SPEIDT0",
-    "SPETRÄ01",
-    "SPETRÄ02",
-    "SPETRÄ03"
+    "SPEIDS31",
+    "SPEIDS32",
+    "SPEIDS33",
+    "SPEIDT3",
+    "SPETRA31",
+    "SPETRA32",
+    "SPETRA33"
   ]
 }

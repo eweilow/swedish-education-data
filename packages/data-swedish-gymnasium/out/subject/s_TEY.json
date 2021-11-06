@@ -1,5 +1,5 @@
 {
-  "title": "Tekniska system – el",
+  "title": "Tekniska system - el",
   "code": "TEY",
   "developmentPurposes": [
     "Förmåga att planera, projektera, konstruera och dokumentera anläggningar och tekniska system inom teknikområdet elinstallation.",
@@ -14,23 +14,22 @@
     "Förståelse för betydelsen av samordning med närliggande yrkesgrupper."
   ],
   "purposes": [
-    "Undervisning i ämnet tekniska system – el ska syfta till att eleverna utvecklar förståelse av processen när anläggningar planeras, konstrueras och dokumenteras. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur installationer utförs och projekteras samt förståelse av den tekniska utvecklingen inom teknikområdet elinstallation och samspelet mellan teknik och människa.",
+    "Undervisning i ämnet tekniska system - el ska syfta till att eleverna utvecklar förståelse av processen när anläggningar planeras, konstrueras och dokumenteras. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur installationer utförs och projekteras samt förståelse av den tekniska utvecklingen inom teknikområdet elinstallation och samspelet mellan teknik och människa.",
     "Undervisningen ska även belysa hur projektering genomförs med hänsyn till miljö, tillgänglighet och säkerhet. Dessutom ska den bidra till att eleverna utvecklar kunskaper om hur anläggningar utformas i enlighet med funktionskrav från beställaren. Därutöver ska eleverna ges möjlighet att utveckla kunskaper om bestämmelser, standarder och normer inom teknikområdet.",
     "Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att dokumentera installationer och anläggningar i olika miljöer samt att kommunicera kring förslag och lösningar i projekteringsarbeten.",
     "Undervisningen ska ge eleverna möjlighet att arbeta med datorstödda tillämpningar och kommunicerande system. Dessutom ska eleverna ges möjlighet att arbeta i projekt med koppling till planerade och pågående arbeten inom teknikområdet. Undervisningen ska även utveckla elevernas förståelse för betydelsen av samordning med närliggande yrkesgrupper."
   ],
   "courseInfo": {
-    "TEYPRO01": "Projektering el 1, 100 poäng.",
-    "TEYPRO02": "Projektering el 2, 100 poäng, som bygger på kursen projektering el 1.",
-    "TEYKOM0": "Komponenter och system el, 100 poäng."
+    "TEYKOM3": "Komponenter och system el, 100 poäng.",
+    "TEYPRO31": "Projektering el 1, 100 poäng.",
+    "TEYPRO32": "Projektering el 2, 100 poäng."
   },
-  "description": "Ämnet tekniska system – el behandlar den arbetsprocess där man projekterar och dokumenterar tekniska system och anläggningar inom teknikområdet elinstallation. I projektering ingår utrednings- och förberedelsearbete som föregår det operativa genomförandet av en insats. Ämnet tekniska system – el får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
+  "description": "Ämnet tekniska system - el behandlar den arbetsprocess där man projekterar och dokumenterar tekniska system och anläggningar inom teknikområdet elinstallation. I projektering ingår utrednings- och förberedelsearbete som föregår det operativa genomförandet av en insats. Ämnet tekniska system - el får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
   "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
-  "category": "VOCATIONAL",
-  "applicableFrom": "2015-05-07T22:00:00.000Z",
+  "applicableFrom": "2021-02-12T12:25:36.000Z",
   "courses": [
-    "TEYKOM0",
-    "TEYPRO01",
-    "TEYPRO02"
+    "TEYKOM3",
+    "TEYPRO31",
+    "TEYPRO32"
   ]
 }

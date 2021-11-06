@@ -1,5 +1,5 @@
 {
-  "title": "Tekniska system – VVS",
+  "title": "Tekniska system - VVS",
   "code": "TES",
   "developmentPurposes": [
     "Förmåga att planera, projektera, konstruera och dokumentera anläggningar och tekniska system inom teknikområdet VVS-installation.",
@@ -14,23 +14,22 @@
     "Förståelse för betydelsen av samordning med närliggande yrkesgrupper."
   ],
   "purposes": [
-    "Undervisning i ämnet tekniska system – VVS ska syfta till att eleverna utvecklar förståelse av processen när anläggningar planeras, konstrueras och dokumenteras. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur installationer utförs och projekteras samt förståelse av den tekniska utvecklingen inom teknikområdet VVS-installation och samspelet mellan teknik och människa.",
+    "Undervisning i ämnet tekniska system - VVS ska syfta till att eleverna utvecklar förståelse av processen när anläggningar planeras, konstrueras och dokumenteras. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur installationer utförs och projekteras samt förståelse av den tekniska utvecklingen inom teknikområdet VVS-installation och samspelet mellan teknik och människa.",
     "Undervisningen ska även belysa hur projektering genomförs med hänsyn till miljö, tillgänglighet och säkerhet. Dessutom ska den bidra till att eleverna utvecklar kunskaper om hur anläggningar utformas i enlighet med funktionskrav från beställaren. Därutöver ska eleverna ges möjlighet att utveckla kunskaper om bestämmelser, standarder och normer inom teknikområdet.",
     "Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att dokumentera installationer och anläggningar i olika miljöer samt att kommunicera kring förslag och lösningar i projekteringsarbeten.",
     "Undervisningen ska ge eleverna möjlighet att arbeta med datorstödda tillämpningar och kommunicerande system. Dessutom ska eleverna ges möjlighet att arbeta i projekt med koppling till planerade och pågående arbeten inom teknikområdet. Undervisningen ska även utveckla elevernas förståelse för betydelsen av samordning med närliggande yrkesgrupper."
   ],
   "courseInfo": {
-    "TESPRO01": "Projektering VVS 1, 100 poäng.",
-    "TESPRO02": "Projektering VVS 2, 100 poäng, som bygger på kursen projektering VVS 1.",
-    "TESKOP0": "Komponenter och system VVS, 100 poäng."
+    "TESKOP3": "Komponenter och system VVS, 100 poäng.",
+    "TESPRO31": "Projektering VVS 1, 100 poäng.",
+    "TESPRO32": "Projektering VVS 2, 100 poäng."
   },
-  "description": "Ämnet tekniska system – VVS behandlar den arbetsprocess där man projekterar och dokumenterar tekniska system och anläggningar inom teknikområdet VVS-installation. I projektering ingår utrednings- och förberedelsearbete som föregår det operativa genomförandet av en insats. Ämnet tekniska system – VVS får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
+  "description": "Ämnet tekniska system - VVS behandlar den arbetsprocess där man projekterar och dokumenterar tekniska system och anläggningar inom teknikområdet VVS-installation. I projektering ingår utrednings- och förberedelsearbete som föregår det operativa genomförandet av en insats. Ämnet tekniska system - VVS får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
   "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
-  "category": "VOCATIONAL",
-  "applicableFrom": "2015-06-11T22:00:00.000Z",
+  "applicableFrom": "2021-02-12T12:59:14.000Z",
   "courses": [
-    "TESKOP0",
-    "TESPRO01",
-    "TESPRO02"
+    "TESKOP3",
+    "TESPRO31",
+    "TESPRO32"
   ]
 }
