@@ -71,6 +71,7 @@ export async function normalizeSubjects(
   })) {
     const contents = readFileSync(file, "utf-8")
       .replaceAll("–", "-")
+      .replaceAll("—", "-")
       .replaceAll(String.fromCharCode(173), "");
 
     const data = await parseXML(contents);
