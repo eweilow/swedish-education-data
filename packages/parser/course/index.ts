@@ -97,20 +97,8 @@ export async function parseCourses(
       points,
       criteria: {
         A: fixCriteria(contents.knowledgeRequirements.A),
-        // .replace(
-        //   /\*\*()\*\*/g,
-        //   (repl) => `<strong>${repl}</strong>`
-        // ),
         C: fixCriteria(contents.knowledgeRequirements.C),
-        // .replace(
-        //   /\*\*()\*\*/g,
-        //   (repl) => `<strong>${repl}</strong>`
-        // ),
         E: fixCriteria(contents.knowledgeRequirements.E),
-        // .replace(
-        //   /\*\*()\*\*/g,
-        //   (repl) => `<strong>${repl}</strong>`
-        // ),
       },
       centralContent,
       UNSAFE_description: contents.focusAreas.string,
@@ -118,8 +106,6 @@ export async function parseCourses(
         (range: string) => getIndicesFromRange(range)
       ),
     };
-
-    if (contents.centralContent.sections.length > 1) console.log(result);
 
     const name = `c_${normalizeCode(result.code)}.json`;
     writeFileSync(join(coursesDir, name), JSON.stringify(result, null, "  "));

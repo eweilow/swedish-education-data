@@ -4,9 +4,10 @@
     "access": "public"
   },
   "scripts": {
-    "fetch": "del-cli 'data/raw/**/*' && ts-node fetch.ts && prettier data/raw/**/*.xml",
+    "fetch": "del-cli 'data/raw/**/*' && ts-node fetch.ts",
     "normalize": "del-cli 'data/normalized/**/*' && ts-node normalize.ts",
-    "parse": "del-cli 'out/subject/**/*' && del-cli 'out/course/**/*' && ts-node parse.ts"
+    "parse": "del-cli 'out/**/*' && ts-node parse.ts",
+    "build": "yarn fetch && yarn normalize && yarn parse"
   },
   "main": "./out",
   "version": "0.0.1-alpha.9",
