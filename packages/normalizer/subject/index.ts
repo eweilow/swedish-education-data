@@ -129,10 +129,9 @@ export async function normalizeSubjects(
     const rows = result.purpose?.sections?.[2]?.rows;
     if (rows != null) {
       for (let i = 0; i < rows.length; i++) {
-        rows[i] = rows[i].replace(
-          /(\w) (\d+ poäng)/,
-          (_, a, b) => a + ", " + b
-        );
+        rows[i] = rows[i]
+          .replace(/(\w) (\d+ poäng)/, (_, a, b) => a + ", " + b)
+          .replace(/(\d+ poäng), .+$/, (_, a, b) => a + ".");
       }
     }
 
