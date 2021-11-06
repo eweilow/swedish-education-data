@@ -150,7 +150,13 @@ function getKnowledgeRequirement(
         el
           .trim()
           .replace(/\*\* \*\*/g, " ")
-          .replace(/\*\*\*\*/g, "**") + "."
+          .replace(/\*\*\*\*/g, "**")
+          .replaceAll("hans eller hennes", "hens")
+          .replaceAll("hennes eller hans", "hens")
+          .replaceAll("honom eller henne", "hen")
+          .replaceAll("henne eller honom", "hen")
+          .replaceAll("han eller hon", "hen")
+          .replaceAll("hon eller han", "hen") + "."
       );
     })
     .filter((el) => !!el);
