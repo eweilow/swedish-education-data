@@ -34,6 +34,7 @@ async function main() {
     outputDirectory,
     replacementsDirectory
   );
+  p;
 
   writeFileSync(
     "./out/meta.json",

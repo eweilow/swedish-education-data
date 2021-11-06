@@ -1,16 +1,13 @@
 import { dataDirectory, outputDirectory } from "./cfg";
 
-import {
-  parseSubjects,
-  // parseCourses,
-} from "@education-data/parser";
+import { parseSubjects, parseCourses } from "@education-data/parser";
 
 async function main() {
   console.info("\n[parsing subjects]");
   await parseSubjects(dataDirectory, outputDirectory);
 
-  // console.info("\n[parsing courses]");
-  // await parseCourses(rawDirectory, dataDirectory);
+  console.info("\n[parsing courses]");
+  await parseCourses(dataDirectory, outputDirectory);
 }
 
 main().catch((err) => {

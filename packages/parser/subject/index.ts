@@ -56,10 +56,8 @@ export async function parseSubjects(
 
     const courseInfo = {};
     for (const row of removeNumberingFromRows(coursesInfo)) {
-      const [courseName] = row.split("poäng, ");
-
       const identifiedCourse = allCourseData.find((el) =>
-        courseName.toLowerCase().includes(el.name.toLowerCase() + ", ")
+        row.toLowerCase().includes(el.name.toLowerCase() + ", ")
       );
       courseInfo[identifiedCourse.code] = row;
     }
