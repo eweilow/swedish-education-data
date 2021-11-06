@@ -375,18 +375,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/parser/",
           "packageDependencies": [
             ["@education-data/parser", "workspace:packages/parser"],
-            ["@types/chai", "npm:4.2.3"],
-            ["@types/cheerio", "npm:0.22.13"],
             ["@types/glob", "npm:7.1.1"],
             ["@types/mkdirp", "npm:0.5.2"],
-            ["@types/prettier", "npm:1.18.2"],
-            ["chai", "npm:4.2.0"],
-            ["cheerio", "npm:1.0.0-rc.3"],
             ["glob", "npm:7.1.4"],
             ["mkdirp", "npm:0.5.1"],
-            ["prettier", "npm:1.19.1"],
-            ["typescript", "patch:typescript@npm%3A4.4.4#~builtin<compat/typescript>::version=4.4.4&hash=32657b"],
-            ["xml2js", "npm:0.4.22"]
+            ["typescript", "patch:typescript@npm%3A4.4.4#~builtin<compat/typescript>::version=4.4.4&hash=32657b"]
           ],
           "linkType": "SOFT",
         }]
@@ -2018,13 +2011,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@types/prettier", [
-        ["npm:1.18.2", {
-          "packageLocation": "./.yarn/cache/@types-prettier-npm-1.18.2-9bf7ab55f8-be435e5321.zip/node_modules/@types/prettier/",
-          "packageDependencies": [
-            ["@types/prettier", "npm:1.18.2"]
-          ],
-          "linkType": "HARD",
-        }],
         ["npm:2.4.1", {
           "packageLocation": "./.yarn/cache/@types-prettier-npm-2.4.1-d83bd651f7-df330c2d6f.zip/node_modules/@types/prettier/",
           "packageDependencies": [
@@ -9265,13 +9251,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["prettier", [
-        ["npm:1.19.1", {
-          "packageLocation": "./.yarn/cache/prettier-npm-1.19.1-e56d246fd2-bc78219e0f.zip/node_modules/prettier/",
-          "packageDependencies": [
-            ["prettier", "npm:1.19.1"]
-          ],
-          "linkType": "HARD",
-        }],
         ["npm:2.4.1", {
           "packageLocation": "./.yarn/cache/prettier-npm-2.4.1-623aac91ee-cc6830588b.zip/node_modules/prettier/",
           "packageDependencies": [

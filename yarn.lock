@@ -276,18 +276,11 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@education-data/parser@workspace:packages/parser"
   dependencies:
-    "@types/chai": ^4.2.3
-    "@types/cheerio": ^0.22.13
     "@types/glob": ^7.1.1
     "@types/mkdirp": ^0.5.2
-    "@types/prettier": ^1.18.2
-    chai: ^4.2.0
-    cheerio: ^1.0.0-rc.3
     glob: ^7.1.4
     mkdirp: ^0.5.1
-    prettier: ^1.18.2
     typescript: ^4.4.4
-    xml2js: ^0.4.22
   languageName: unknown
   linkType: soft
 
@@ -1782,13 +1775,6 @@ __metadata:
   version: 13.13.52
   resolution: "@types/node@npm:13.13.52"
   checksum: 8f1afff497ebeba209e2dc340d823284e087a47632afe99a7daa30eaff80893e520f222ad400cd1f2d3b8288e93cf3eaded52a8e64eaefb8aacfe6c35de98f42
-  languageName: node
-  linkType: hard
-
-"@types/prettier@npm:^1.18.2":
-  version: 1.18.2
-  resolution: "@types/prettier@npm:1.18.2"
-  checksum: be435e53214a17971c2ec064fc1d10f367a012c942bd9f240c584b23f2857488944592dc871a41e4935f8415710b781b534102998b69e23321692ee5a6f0fc05
   languageName: node
   linkType: hard
 
@@ -8361,15 +8347,6 @@ fsevents@~2.3.2:
   bin:
     prettier: bin-prettier.js
   checksum: cc6830588b401b0d742862fe9c46bc9118204fb307c3abe0e49e95b35ed23629573807ffdf9cdd65289c252a0bb51fc0171437f6626ee36378dea80f0ee80b91
-  languageName: node
-  linkType: hard
-
-"prettier@npm:^1.18.2":
-  version: 1.19.1
-  resolution: "prettier@npm:1.19.1"
-  bin:
-    prettier: ./bin-prettier.js
-  checksum: bc78219e0f8173a808f4c6c8e0a137dd8ebd4fbe013e63fe1a37a82b48612f17b8ae8e18a992adf802ee2cf7428f14f084e7c2846ca5759cf4013c6e54810e1f
   languageName: node
   linkType: hard
 
