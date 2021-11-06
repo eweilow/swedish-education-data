@@ -79,7 +79,7 @@ export async function parseSubjects(
       description: contents.description[0],
       typeOfSchooling: contents.typeOfSchooling,
       applicableFrom: contents.createdDate,
-      // modifiedDate: contents.modifiedDate,
+      modifiedDate: contents.modifiedDate,
       courses: courseCodes,
     };
 
