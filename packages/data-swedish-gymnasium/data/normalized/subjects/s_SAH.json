@@ -1,0 +1,54 @@
+{
+  "name": "Samhällsbyggande",
+  "code": "SAH",
+  "description": [
+    "Ämnet samhällsbyggande behandlar byggprocessens olika delar samt byggmaterial, byggnadsteknik och installationsteknik."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet samhällsbyggande ska syfta till att eleverna utvecklar kunskaper om byggprocessen från stadsplanering till fastighetsförvaltning och dess roll i samhällsbyggandet. Undervisningen ska leda till att eleverna utvecklar förståelse av vilka aktörer som är involverade i de olika skedena, hur byggprocessen organiseras och vilka lagar och regler som är tillämpliga.",
+          "Undervisningen ska ge eleverna möjlighet att utveckla förståelse av sambandet mellan byggnadsteknik, installationsteknik, byggnadsfysik och byggnadsmaterial för hållbara byggnadsverk. Den ska även ge eleverna möjlighet att utveckla grundläggande kunskaper om installationsteknik främst inom VVS- och elområdet.",
+          "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om byggprojektledning inom projektering och produktion, främst inom produktionsplanering och kvalitets- och miljöarbete. Eleverna ska även ges möjlighet att utveckla grundläggande kunskaper om vanliga avtalsformer för projektering och produktion samt om formerna för kontraktsskrivning mellan byggprocessens parter.",
+          "Eleverna ska ges möjlighet att arbeta i verklighetsnära projekt med koppling till teknikområdet."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet samhällsbyggande ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Kunskaper om byggnadsmaterial samt om byggnadsteknik, konstruktionselement och olika typer av byggnader och anläggningar.",
+          "2. Kunskaper om byggnadsfysik samt om vanligt förekommande funktionskrav.",
+          "3. Kunskaper om installationstekniska system för ventilation, värme, sanitet och el i byggnader samt om samhällets tekniska system för vatten och avlopp.",
+          "4. Kunskaper om vanligt förekommande funktionskrav för belysning, el, värme och komfort, vattenkvalitet, luftväxling och ljud.",
+          "5. Kunskaper om vanligt förekommande installationers uppbyggnad och hur dessa är redovisade och dokumenterade i ritningar och scheman.",
+          "6. Kunskaper om byggprocessens olika skeden samt om byggprojektets genomförandeformer och organisation.",
+          "7. Kunskaper om planering i projekterings- och utförandeskedet.",
+          "8. Kunskaper om lagar och andra bestämmelser inom området.",
+          "9. Kunskaper om kvalitets-, miljö- och arbetsmiljöledningssystem.",
+          "10. Förmåga att planera, genomföra och dokumentera miljöklassning av byggnader."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Byggnadsverk, 100 poäng.",
+          "2. Byggprocessen, 100 poäng. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
+          "3. Miljöcertifierade hus, 100 poäng. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
+          "4. BIM-samordning, 100 poäng. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2021-02-12T12:23:17.000Z",
+  "modifiedDate": "2021-05-18T10:06:37.000Z",
+  "courseCodes": [
+    "SAHBYV0",
+    "SAHBYC3",
+    "SAHMIL3",
+    "SAHBIM3"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Programmering",
+  "code": "PRR",
+  "description": [
+    "Ämnet programmering behandlar hur mjukvaror skapas, anpassas och utvecklas samt programmeringens roll i informationstekniska sammanhang som datorsimulering och praktisk datoriserad problemlösning."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet programmering ska syfta till att eleverna utvecklar kunskaper om programmeringens grunder, färdigheter i att tillämpa relevanta metoder för programutveckling och förmåga att lösa programmeringstekniska problem. Undervisningen ska även bidra till att eleverna utvecklar förmåga att analysera, designa och vidareutveckla program. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om några vanligt förekommande programspråk samt traditioner och nya trender i utvecklingen av programspråk. Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper om datorns användning i samhället och datorns möjligheter och begränsningar.",
+          "I undervisningen ska eleverna ges möjlighet att arbeta i projekt och att enskilt eller i grupp utföra programmeringsuppgifter av varierande komplexitet och inom olika tillämpningsområden."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet programmering ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Kunskaper om programmerbara system.",
+          "2. Förmåga att formulera och planera programmeringsuppgifter med pseudokod och diagramteknik.",
+          "3. Förståelse av och färdigheter i att använda datavetenskapliga begrepp och principer.",
+          "4. Kunskaper om programspråk och programmeringsparadigm.",
+          "5. Förmåga att skriva, läsa, strukturera, analysera, dokumentera och kommentera programkod.",
+          "6. Färdigheter i att skapa program med ett givet syfte och för en avsedd användare.",
+          "7. Kunskaper om gränssnitt mot filer, filsystem, databashanterare och internet.",
+          "8. Kunskaper om och färdigheter i objektorienterad programmering.",
+          "9. Förmåga att finna, analysera, åtgärda och förhindra syntaxfel, programkörningsfel och programmeringslogiska fel.",
+          "10. Kunskaper om samspelet mellan program, exekveringsmiljö, operativsystem och hårdvara."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Programmering 1, 100 poäng.",
+          "2. Programmering 2, 100 poäng, som bygger på kursen programmering 1.",
+          "3. Programmering 3, 100 poäng. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2017-07-07T08:01:55.000Z",
+  "modifiedDate": "2020-02-19T14:59:53.000Z",
+  "courseCodes": [
+    "PRRPRR01",
+    "PRRPRR02",
+    "PRRPRR33"
+  ]
+}

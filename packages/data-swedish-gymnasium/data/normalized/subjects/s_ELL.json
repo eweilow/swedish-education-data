@@ -1,0 +1,48 @@
+{
+  "name": "Ellära",
+  "code": "ELL",
+  "description": [
+    "Ämnet ellära behandlar lik- och enfasväxelströmskretsar samt trefassystem med belastningar av olika slag. Det behandlar också ledningsburna störningar och säkerhetsfrågor."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet ellära ska syfta till att eleverna utvecklar färdigheter i att mäta och beräkna elektriska storheter i lik- och enfasväxelströmskretsar samt i trefassystem med belastningar av olika slag. Den ska också bidra till att eleverna utvecklar förmåga att söka och avhjälpa fel i lik- och enfasväxelströmskretsar samt i trefassystem. Dessutom ska undervisningen leda till att eleverna utvecklar förståelse av hur ledningsbundna störningar uppkommer samt deras verkan på elsystemet.",
+          "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om säkerhetsfrågor och om bestämmelser och standarder inom elområdet.",
+          "Undervisningen ska ge eleverna möjlighet att praktiskt utföra mätning och beräkning av elektriska storheter i lik- och enfasväxelströmskretsar samt i trefassystem. Den ska också bidra till att eleverna ges möjlighet att praktiskt söka och avhjälpa fel med hjälp av scheman, ritningar, mätinstrument och övrig utrustning."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet ellära ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Kunskaper om elsystemets uppbyggnad och funktion.",
+          "2. Kunskaper om lik- och enfasväxelströmskretsars uppbyggnad och funktion samt färdigheter i att mäta och beräkna elektriska storheter i dessa med belastningar av olika slag.",
+          "3. Kunskaper om trefassystems uppbyggnad och funktion samt färdigheter i att mäta och beräkna elektriska storheter i dessa med belastningar av olika slag.",
+          "4. Kunskaper om uppkomsten av störningar och om deras verkan på elsystemet.",
+          "5. Förmåga att söka och avhjälpa fel i lik- och enfasväxelströmskretsar.",
+          "6. Förmåga att söka och avhjälpa fel i trefassystem.",
+          "7. Kunskaper om säkerhetsfrågor och om bestämmelser och standarder inom elområdet."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Ellära 1, 100 poäng.",
+          "2. Ellära 2, 100 poäng, som bygger på kursen ellära 1.",
+          "3. Praktisk ellära, 100 poäng."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2018-05-30T08:48:49.000Z",
+  "modifiedDate": "2020-02-19T14:51:01.000Z",
+  "courseCodes": [
+    "ELLELL01",
+    "ELLELL02",
+    "ELLPRA0"
+  ]
+}

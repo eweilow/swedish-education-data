@@ -1,0 +1,59 @@
+{
+  "name": "Datorstyrd produktion",
+  "code": "DAR",
+  "description": [
+    "Ämnet datorstyrd produktion behandlar teknik och metoder för datorstyrd produktion, från hantverksmässigt arbete med datorstyrd utrustning avsedd för prototyp och enstyckstillverkning till serieproduktion med grupper av sammankopplade datorstyrda maskiner. Det behandlar också effektiv användning av datorstyrd teknik med hög automatiseringsgrad."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet datorstyrd produktion ska syfta till att eleverna utvecklar kunskaper om metoder, teknik och utrustning som används inom datorstyrd industriell produktion. Undervisningen ska leda till att eleverna utvecklar förmåga att tillverka produkter med hjälp av datorstyrd utrustning. Den ska också ge eleverna möjlighet att utveckla kunskaper om operatörens roll i datorstyrd industriell produktion och förståelse av det ansvar som följer med arbetsuppgifterna inom ämnesområdet.",
+          "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om vanligt förekommande redskap för programmering och produktionsstyrning. Eleverna ska också ges möjlighet att utveckla kunskaper om verktyg och system för processövervakning samt om hur kommunikation mellan utrustningar styrs och övervakas. Undervisningen ska dessutom bidra till att eleverna utvecklar kunskaper om metoder för strukturerad produktion, eftersom ordning och noggrannhet är avgörande faktorer för en framgångsrik industriell produktion.",
+          "Undervisningen ska ge eleverna möjlighet att samtala om och reflektera över teknikens möjligheter samt bidra till att eleverna utvecklar förmåga att lösa produktionstekniska problem. Estetik och form har stor betydelse för hur produkter uppfattas, och eleverna ska därför ges möjlighet att utveckla förståelse av dessa aspekter av produktionen."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet datorstyrd produktion ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Förmåga att läsa och tolka produktionsunderlag, att planera och programmera i styrsystem samt att simulera, testa och optimera program. Förmåga att utföra produktionsarbete i datorstyrd utrustning.",
+          "2. Förmåga att planera, programmera och utföra produktionsarbete i produktionsgrupper med flera samverkande programmerbara utrustningar.",
+          "3. Kunskaper om säkerhetsrisker vid arbete med datorstyrd produktionsutrustning samt kunskaper om hur risker kan minimeras.",
+          "4. Förmåga att utföra felsökning och enklare underhållsarbete i datorstyrd produktionsutrustning.",
+          "5. Kunskaper om begrepp, metoder, teknik och utrustning som används inom datorstyrd industriell produktion.",
+          "6. Förmåga att mäta, bedöma och dokumentera kvaliteten på utfört arbete.",
+          "7. Kunskaper om verktyg och metoder för processövervakning och kommunikation mellan utrustningar samt operatörens roll vid arbete i datorstyrda produktionssystem.",
+          "8. Kunskaper om produktionsekonomi och förståelse av det egna ansvarstagandets betydelse för produktionen.",
+          "9. Förmåga att tolka och bearbeta information om styrtekniska villkor och status hos utrustningen samt förmåga att lösa produktionstekniska problem.",
+          "10. Förmåga att kommunicera med olika målgrupper och använda begrepp och uttryck som är relevanta för ämnesområdet."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Cad/cam, 100 poäng.",
+          "2. Datorstyrd produktion 1, 100 poäng. Kursen kan läsas flera gånger med olika innehåll.",
+          "3. Datorstyrd produktion 2, 100 poäng, som bygger på kursen datorstyrd produktion 1.",
+          "4. Datorstyrd produktion 3, 100 poäng, som bygger på kursen datorstyrd produktion 2.",
+          "5. Datorstyrd produktion 4, 100 poäng, som bygger på kursen datorstyrd produktion 3.",
+          "6. Datorstyrd produktion 5, 100 poäng, som bygger på kursen datorstyrd produktion 4.",
+          "7. Datorstyrd produktion 6, 100 poäng, som bygger på kursen datorstyrd produktion 5."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2012-08-07T14:05:03.000Z",
+  "modifiedDate": "2020-02-19T14:50:36.000Z",
+  "courseCodes": [
+    "DARCAD0",
+    "DARDAT01S",
+    "DARDAT02",
+    "DARDAT03",
+    "DARDAT04",
+    "DARDAT05",
+    "DARDAT06"
+  ]
+}

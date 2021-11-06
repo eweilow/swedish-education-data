@@ -1,0 +1,49 @@
+{
+  "name": "Konstruktion",
+  "code": "KOT",
+  "description": [
+    "Ämnet konstruktion behandlar konstruktionsprocesser från idé till färdig produkt, där syftet är att utforma och dimensionera produkter med sikte på ändamålsenlig formgivning, funktion och användning."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet konstruktion ska syfta till att eleverna utvecklar kunskaper om konstruktionsprocessen från idé och skiss till presentation av fungerande lösningar som tar hänsyn till ekonomiska, produktionstekniska och miljömässiga förutsättningar. Eleverna ska också ges möjlighet att utveckla kunskaper om befintlig teknik.",
+          "Undervisningen ska förbereda eleverna för att delta i framtida teknisk utveckling och bidra till att de förstår betydelsen av ett etiskt förhållningssätt och hållbar utveckling inom konstruktion. Eleverna ska ges möjlighet att utveckla ett tekniskt språk och förmåga att använda begrepp med anknytning till konstruktionsprocessen. Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper om svenska och internationella standarder som reglerar konstruktionsområdet.",
+          "Undervisningen ska ge eleverna möjlighet att arbeta med konstruktionsuppgifter i projektform. I undervisningen ska cad (computer aided design) vara ett verktyg i konstruktionsarbetet. Matematiska och teknikvetenskapliga teorier, observationer, modeller och beräkningar ska användas i undervisningen och eleverna ska ges möjlighet att utveckla förmåga att använda teknisk programvara. Denna förmåga samt problemlösningsförmåga ska tränas i konkreta konstruktionsuppgifter."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet konstruktion ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Kunskaper om befintlig teknik och teknisk utveckling samt om konstruktionsprocessen med hänsyn tagen till hållbar utveckling.",
+          "2. Kunskaper om produktionsteknik, kvalitet och lönsamhet samt om sambanden mellan dessa faktorer i konstruktionsprocessen.",
+          "3. Förmåga att välja och använda metoder, material, verktyg och komponenter samt kunskaper om deras egenskaper och begränsningar.",
+          "4. Förmåga att utföra mätningar, simuleringar och test.",
+          "5. Förmåga att lösa problem och konstruktionsuppgifter samt utföra beräkningar genom att använda matematiska och teknikvetenskapliga teorier och modeller.",
+          "6. Kunskaper om standarder och normer inom konstruktionsområdet.",
+          "7. Förmåga att dokumentera, redovisa, presentera och utvärdera konstruktionsarbete.",
+          "8. Förmåga att använda tekniska begrepp och modeller."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Konstruktion 1, 100 poäng.",
+          "2. Konstruktion 2, 100 poäng, som bygger på kursen konstruktion 1.",
+          "3. Konstruktion 3, 100 poäng, som bygger på kursen konstruktion 2."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2010-12-23T09:54:20.000Z",
+  "modifiedDate": "2020-02-19T14:57:28.000Z",
+  "courseCodes": [
+    "KOTKOS01",
+    "KOTKOS02",
+    "KOTKOS03"
+  ]
+}

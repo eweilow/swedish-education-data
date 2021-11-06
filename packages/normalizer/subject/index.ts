@@ -80,7 +80,6 @@ export async function normalizeSubjects(
       description: parseDescription(subject.description?.[0]),
       purpose: parsePurpose(subject.purpose?.[0]),
       isPublished: pickOnlyIf.oneOf(subject.status?.[0], "PUBLISHED"),
-      gradeScale: pickOnlyIf.string(subject.gradescale?.[0]),
       typeOfSchooling: pickOnlyIf.string(
         subject.originatortypeofschooling?.[0]
       ),

@@ -1,0 +1,46 @@
+{
+  "name": "Fastighetsautomation",
+  "code": "FAI",
+  "description": [
+    "Ämnet fastighetsautomation behandlar underhåll, mätning, styrning och reglering av klimat- och belysningsanläggningar i fastigheter."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet fastighetsautomation ska syfta till att eleverna utvecklar kunskaper i att planera och utföra arbete på automatiserade system i fastigheter med hjälp av systemdokumentation, till exempel ritningar och manualer. Undervisningen ska även leda till att eleverna utvecklar förståelse av hur informationsteknik kan användas vid arbete med automatiserade system. Dessutom ska eleverna ges möjlighet att utveckla förmåga att hantera verktyg och utrustning inom valt område.",
+          "Undervisningen ska bidra till att eleverna utvecklar förståelse av säkerhet, standarder och begrepp samt färdigheter i att tillämpa dessa. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att förebygga och avhjälpa fel i automatiserade system i fastigheter. Dessutom ska undervisningen ge eleverna möjlighet att utveckla teoretisk förståelse av begrepp, teorier och metoder.",
+          "Genom både praktiskt och teoretiskt arbete med uppgifter ska eleverna ges möjlighet att öva sig i att arbeta enligt yrkespraxis."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet fastighetsautomation ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Kunskaper om uppbyggnad av, funktion och principer för samt de risker som finns vid arbete med automatiserade system i fastigheter.",
+          "2. Kunskaper om standarder och begrepp som används vid arbete med automatiserade system i fastigheter.",
+          "3. Förmåga att planera och på ett säkert sätt utföra arbete i automatiserade system i fastigheter.",
+          "4. Förmåga att läsa och framställa scheman, ritningar och annan dokumentation över automatiserade system i fastigheter.",
+          "5. Förmåga att installera, programmera och driftsätta automatiserade system i fastigheter.",
+          "6. Färdigheter i att använda informationsteknik som stöd vid byggnation, drift och underhåll av automatiserade system i fastigheter.",
+          "7. Förmåga att förebygga och avhjälpa fel i automatiserade system i fastigheter."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Fastighetsautomation 1, 100 poäng.",
+          "2. Fastighetsautomation 2, 100 poäng, som bygger på kursen fastighetsautomation 1 eller kursen mät- och reglerteknik."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2014-10-16T07:45:23.000Z",
+  "modifiedDate": "2020-02-19T14:51:19.000Z",
+  "courseCodes": [
+    "FAIFAS01",
+    "FAIFAS02"
+  ]
+}
