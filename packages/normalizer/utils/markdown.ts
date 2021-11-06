@@ -24,7 +24,12 @@ export function normalizeSections(markdownRows: string[]) {
     }
 
     sections.push({
-      title: header?.replace(/^#+/g, "")?.trim() ?? null,
+      title:
+        header
+          ?.replace(/^#+/g, "")
+          ?.trim()
+          ?.replace(/^_+/, "")
+          ?.replace(/_+$/, "") ?? null,
       rows: rows
         .filter((el) => !!el)
         .map((row, i) => {
@@ -36,11 +41,9 @@ export function normalizeSections(markdownRows: string[]) {
         })
         .map((row) => {
           if (!row.endsWith(".") && /[A-ZÅÄÖ0-9]$/i.test(row)) {
-            return `${row}.`;
-          }
-
-          if (row.endsWith(",")) {
-            return `${row.slice(0, -1)}.`; // Remove the , and replace with .
+            row = `${row}.`;
+          } else if (row.endsWith(",")) {
+            row = `${row.slice(0, -1)}.`; // Remove the , and replace with .
           }
 
           return row;

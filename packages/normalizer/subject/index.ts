@@ -13,13 +13,9 @@ function fixPurpose(rows: string[]) {
   let hasFoundHeader = false;
 
   return rows.flatMap((row, index) => {
-    if (
-      /^Undervisningen i ämnet .+? ska ge eleverna förutsättningar att utveckla följande:/.test(
-        row
-      )
-    ) {
+    if (/^Undervisningen i ämnet .+? ska ge eleverna förutsättning/.test(row)) {
       hasFoundHeader = true;
-      return `# ${row}`;
+      return `# ${row.trim()}`;
     }
 
     if (row.startsWith("1.") && !hasFoundHeader) {
@@ -106,7 +102,7 @@ export async function normalizeSubjects(
     assert.equal(result.purpose?.sections?.[0]?.title, null);
     assert.match(
       result.purpose?.sections?.[1]?.title ?? "-",
-      /Undervisningen i .+? ska ge eleverna/
+      /^Undervisningen i .+? ska ge eleverna.+?:$/
     );
     assert.match(result.purpose?.sections?.[2]?.title ?? "-", /Kurser i ämnet/);
 
