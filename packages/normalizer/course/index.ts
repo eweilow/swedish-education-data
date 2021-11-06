@@ -146,10 +146,12 @@ function getKnowledgeRequirement(
         return createDummySection(i);
       }
 
-      return el
-        .trim()
-        .replace(/\*\* \*\*/g, " ")
-        .replace(/\*\*\*\*/g, "**");
+      return (
+        el
+          .trim()
+          .replace(/\*\* \*\*/g, " ")
+          .replace(/\*\*\*\*/g, "**") + "."
+      );
     })
     .filter((el) => !!el);
 }
@@ -272,8 +274,6 @@ function getKnowledgeRequirements(
   for (let i = 0; i < gradesA.length; i++) {
     matrix.set("A", matchesA[i], gradesA[i]);
   }
-  // console.log(grades, matrix);
-  // console.log(gradesE.length, gradesC.length, gradesA.length);
 
   const collect = (grade: string) => {
     const split: string[][] = [];
@@ -307,51 +307,10 @@ function getKnowledgeRequirements(
   );
 
   return {
-    // E: matrix.getRow("E"),
     E: collectedE,
-    // C: matrix.getRow("C"),
     C: collectedC,
-    // A: matrix.getRow("A"),
     A: collectedA,
   };
-  // if (gradesC.length > gradesE.length && gradesC.length > gradesA.length) {
-  //   console.log(matrix);
-  //   console.log(code, gradesE, gradesC, gradesA);
-  // }
-
-  // if (
-  //   gradesE.length !== gradesC.length ||
-  //   gradesC.length !== gradesA.length ||
-  //   gradesE.length !== gradesA.length
-  // ) {
-  //   console.log(gradesE.length, gradesC.length, gradesA.length);
-  // }
-
-  // console.log(base);
-  // console.log(knowledgerequirements, grades);
-  // console.log(
-  //   computeClosestMatches(grades["E"], grades["C"], (a, b) =>
-  //     jaroWinklerDistance(a.replace(/\*/g, ""), b.replace(/\*/g, ""))
-  //   ),
-  //   computeClosestMatches(grades["C"], grades["A"], (a, b) =>
-  //     jaroWinklerDistance(a.replace(/\*/g, ""), b.replace(/\*/g, ""))
-  //   )
-  // );
-
-  // assert.isAtMost(
-  //   grades["E"].length,
-  //   grades["C"].length,
-  //   `E->C, in ${name} (${code})`
-  // );
-  // assert.isAtMost(
-  //   grades["C"].length,
-  //   grades["A"].length,
-  //   `C->A, in ${name} (${code})`
-  // );
-
-  // return computeClosestMatches(grades["E"], grades["C"], (a, b) =>
-  //   jaroWinklerDistance(a, b)
-  // );
 }
 
 export async function normalizeCourses(
