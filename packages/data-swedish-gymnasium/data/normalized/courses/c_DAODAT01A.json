@@ -1,0 +1,70 @@
+{
+  "name": "Datorteknik 1a",
+  "code": "DAODAT01a",
+  "focusAreas": {
+    "string": "Kursen datorteknik 1a omfattar punkterna 1–2 och 4 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "entries": [
+      "1–2",
+      "4"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Datorsystems uppbyggnad, komponenter och kringutrustningar.",
+          "2. Grunderna i OSI-modellen (Open Systems Interconnection) och gällande standarder för datorkommunikation.",
+          "3. Program, till exempel enklare kommunikationsprogram och applikationsprogram för mobila enheter.",
+          "4. Enklare rit- och simuleringsprogram.",
+          "5. Begreppen filer, filformat, komprimering och kryptering.",
+          "6. Fältbussars användning inom till exempel industri-, el- och andra teknikområden.",
+          "7. Rutiner för säkerhetskopiering och installation av virusskydd.",
+          "8. ESD-säker hantering av mikroprocessorer och minnen (Electro Static Discharge).",
+          "9. Planering, montering, konfigurering samt driftsättning av datorsystem för något av användningsområdena mätning, styrning, övervakning eller dokumentation.",
+          "10. Installation och konfigurering av applikationsprogram.",
+          "11. Installation och konfigurering av datorer i ett befintligt nätverk.",
+          "12. Installation av skrivare och andra enheter i nätverk."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven beskriver **översiktligt** hur dator- och kommunikationssystem är uppbyggda och fungerar samt hur driftsäkerhet och integritetsskydd uppnås i systemen",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar och utför **i samråd** med handledare och med **visst** handlag hård- och mjukvaruinstallation, konfigurering och underhåll samt åtgärdar **enkla** fel i datorer och datorsystem",
+      "1Resultatet är **tillfredsställande** i fråga om funktion, säkerhet och kvalitet",
+      "1Dessutom installerar och konfigurerar eleven **i samråd** med handledare datorer i ett befintligt nätverk",
+      "1Eleven hanterar med **visst** handlag utrustning och verktyg samt utför arbetet på ett säkert sätt",
+      "1I arbetet använder eleven **med viss säkerhet** instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en **enkel** dokumentation av sitt arbete",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ],
+    "C": [
+      "0Eleven beskriver **utförligt** hur dator- och kommunikationssystem är uppbyggda och fungerar samt hur driftsäkerhet och integritetsskydd uppnås i systemen",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar och utför **efter samråd** med handledare och med **gott** handlag hård- och mjukvaruinstallation, konfigurering och underhåll samt åtgärdar **enkla** fel i datorer och datorsystem",
+      "1Resultatet är **tillfredsställande** i fråga om funktion, säkerhet och kvalitet",
+      "1Dessutom installerar och konfigurerar eleven **efter samråd** med handledare datorer i ett befintligt nätverk",
+      "1Eleven hanterar med **gott** handlag utrustning och verktyg samt utför arbetet på ett säkert sätt",
+      "1I arbetet använder eleven **med viss säkerhet** instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en **noggrann** dokumentation av sitt arbete",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ],
+    "A": [
+      "0Eleven beskriver **utförligt och nyanserat** hur dator- och kommunikationssystem är uppbyggda och fungerar samt hur driftsäkerhet och integritetsskydd uppnås i systemen",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar och utför **efter samråd** med handledare och med **mycket gott** handlag hård- och mjukvaruinstallation, konfigurering och underhåll samt åtgärdar **enkla och även mer avancerade** fel i datorer och datorsystem",
+      "1Resultatet är **gott** i fråga om funktion, säkerhet och kvalitet",
+      "1Dessutom installerar och konfigurerar eleven **efter samråd** med handledare datorer i ett befintligt nätverk",
+      "1Eleven hanterar med **mycket gott** handlag utrustning och verktyg samt utför arbetet på ett säkert sätt",
+      "1I arbetet använder eleven **med säkerhet** instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en **noggrann och utförlig** dokumentation av sitt arbete",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ]
+  }
+}

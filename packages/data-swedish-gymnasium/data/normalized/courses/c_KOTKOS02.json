@@ -1,0 +1,90 @@
+{
+  "name": "Konstruktion 2",
+  "code": "KOTKOS02",
+  "focusAreas": {
+    "string": "Kursen konstruktion 2 omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "entries": [
+      "1–8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Fördjupning i produktionstekniska förutsättningar, kvalitet och lönsamhet enligt modern produktionsfilosofi.",
+          "2. Visualisering via datorbaserade verktyg och analys genom FEM (finita elementmetoden) eller simuleringar med hjälp av dator inom valt teknikområde.",
+          "3. Fördjupade teknikmetoder och konstruktionsmetoder inom något eller några områden.",
+          "4. Teoretiska modeller och observationer inom valt teknikområde.",
+          "5. Prototyptillverkning, om det förekommer inom valt teknikområde.",
+          "6. Komponenter, material, metoder och processer inom valt teknikområdet samt deras egenskaper och begränsningar vid varierande tillämpningar och miljöer.",
+          "7. Mätningar, bedömningar av mätfel och mätnoggrannhet vid planering, genomförande och utvärdering samt hur mätfelsanalyser genomförs.",
+          "8. Konstruktionsberäkningar inom valt teknikområde med hänsyn tagen till matematiska och teknikvetenskapliga teorier och modeller.",
+          "9. Dimensionering med och utan databaserade verktyg.",
+          "10. Normer och tekniska standarder samt hur något eller några standardiserade test utförs inom valt teknikområde.",
+          "11. Faktorer som påverkar utformningen av produkter, till exempel tillgänglighet och säkerhetsaspekter.",
+          "12. Dokumentation, redovisning och presentation av konstruktionsarbete och resultat."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven redogör **översiktligt** för sambanden mellan befintlig teknik och teknisk utveckling samt för konstruktionsprocessen med hänsyn tagen till hållbar utveckling",
+      "0Dessutom redogör eleven **översiktligt** för sambanden mellan produktionsteknik, kvalitet och lönsamhet",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar **i samråd** med handledare konstruktion utifrån idé och skiss samt väljer relevant produktionsmetod",
+      "1Dessutom väljer eleven **i samråd** med handledare lämpliga material, verktyg och komponenter för konstruktionen samt motiverar **översiktligt** sina val utifrån deras egenskaper och begränsningar",
+      "1I arbetet använder eleven **med viss säkerhet** tekniska begrepp, verktyg och modeller samt utför avancerade mätningar, simuleringar och test med **tillfredsställande** resultat, både manuellt och med hjälp av datorer",
+      "1Eleven löser också med **tillfredsställande** resultat **enkla** problem och konstruktionsuppgifter samt utför **enkla** beräkningar genom att använda **grundläggande** matematiska och teknikvetenskapliga teorier och modeller",
+      "1Dessutom utför eleven **med viss säkerhet enkla** dimensioneringar med och utan databaserade verktyg",
+      "1Eleven tar i sitt arbete hänsyn till standarder och normer",
+      null,
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven dokumenterar, redovisar och presenterar **med viss säkerhet** sitt eller projektgruppens konstruktionsarbete med **enkla** tekniska begrepp",
+      "2Dessutom utvärderar eleven sitt arbete och resultat med **enkla** omdömen",
+      null,
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "C": [
+      "0Eleven redogör **utförligt** för sambanden mellan befintlig teknik och teknisk utveckling samt för konstruktionsprocessen med hänsyn tagen till hållbar utveckling",
+      "0Dessutom redogör eleven **utförligt** för sambanden mellan produktionsteknik, kvalitet och lönsamhet",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar **efter samråd** med handledare konstruktion utifrån idé och skiss samt väljer relevant produktionsmetod",
+      "1Dessutom väljer eleven **efter samråd** med handledare lämpliga material, verktyg och komponenter för konstruktionen samt motiverar **utförligt** sina val utifrån deras egenskaper och begränsningar",
+      "1I arbetet använder eleven **med viss säkerhet** tekniska begrepp, verktyg och modeller samt utför avancerade mätningar, simuleringar och test med **tillfredsställande** resultat, både manuellt och med hjälp av datorer",
+      "1Eleven löser också med **tillfredsställande** resultat problem och konstruktionsuppgifter samt utför beräkningar genom att använda matematiska och teknikvetenskapliga teorier och modeller",
+      "1Dessutom utför eleven **med viss säkerhet** dimensioneringar med och utan databaserade verktyg",
+      "1Eleven tar i sitt arbete hänsyn till standarder och normer",
+      null,
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven dokumenterar, redovisar och presenterar **med viss säkerhet** sitt eller projektgruppens konstruktionsarbete med tekniska begrepp",
+      "2Dessutom utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen",
+      "2**I sin värdering gör eleven även välgrundade reflektioner om sitt arbete och resultat ur ett hållbarhetsperspektiv**",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "A": [
+      "0Eleven redogör **utförligt och nyanserat** för sambanden mellan befintlig teknik och teknisk utveckling samt för konstruktionsprocessen med hänsyn tagen till hållbar utveckling",
+      "0Dessutom redogör eleven **utförligt och nyanserat** för sambanden mellan produktionsteknik, kvalitet och lönsamhet",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar **efter samråd** med handledare konstruktion utifrån idé och skiss samt väljer relevant produktionsmetod",
+      "1Dessutom väljer eleven **efter samråd** med handledare lämpliga material, verktyg och komponenter för konstruktionen samt motiverar **utförligt och nyanserat** sina val utifrån deras egenskaper och begränsningar",
+      "1I arbetet använder eleven **med säkerhet** tekniska begrepp, verktyg och modeller samt utför avancerade mätningar, simuleringar och test med **gott** resultat, både manuellt och med hjälp av datorer",
+      "1Eleven löser också med **gott** resultat **komplexa** problem och konstruktionsuppgifter samt utför **avancerade** beräkningar genom att använda matematiska och teknikvetenskapliga teorier och modeller",
+      "1Dessutom utför eleven **med säkerhet avancerade** dimensioneringar med och utan databaserade verktyg",
+      "1Eleven tar i sitt arbete hänsyn till standarder och normer",
+      "1**Eleven resonerar även utförligt om alternativa sätt att lösa problem och konstruktionsuppgifter**",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven dokumenterar, redovisar och presenterar **med säkerhet** sitt eller projektgruppens konstruktionsarbete med **avancerade** tekniska begrepp",
+      "2Dessutom utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**",
+      "2**I sin värdering gör eleven även välgrundade och nyanserade reflektioner om sitt arbete och resultat ur ett hållbarhetsperspektiv**",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ]
+  }
+}

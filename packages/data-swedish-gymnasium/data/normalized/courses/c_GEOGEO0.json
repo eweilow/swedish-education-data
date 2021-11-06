@@ -1,0 +1,76 @@
+{
+  "name": "Geografiska informationssystem",
+  "code": "GEOGEO0",
+  "focusAreas": {
+    "string": "Kursen geografiska informationssystem omfattar punkterna 3 och 5–7 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "entries": [
+      "3",
+      "5–7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Samhällets behov av rumslig information för planering, uppföljning, dokumentation och utveckling inom privat och offentlig verksamhet, till exempel med hänsyn tagen till frågor om hållbar utveckling. Betydelsen av olika perspektiv, till exempel genus och etnicitet, samt ekologiska och socioekonomiska samband.",
+          "2. Variation i informationsbehov och användning av rumsliga data beroende på användare, användningsområde, skala, upplösning och syfte. Koppling mellan ämnesområde, frågeställning och databehov, för till exempel byggnation, infrastruktur, riskanalys och areella näringar.",
+          "3. Förutsä­ttningar för att arbeta med GIS i dator.",
+          "4. Rumsliga data i förhållande till longitud, latitud och andra lägesangivelser. Allmänt om GPS-teknik och annan geodetisk mätteknik i samband med datainsamling.",
+          "5. Representationsformer. Hur verkligheten kan representeras i datorn i form av objekt (vektorer) och datafält (raster) samt hur informationen kan kopplas till dessa representationsformer.",
+          "6. Insamling och urval av data samt bearbetning som klassificering och generalisering. Skillnaden mellan kvantitativa och kvalitativa data och deras respektive användningsområden och begränsningar.",
+          "7. Kartografins grunder, till exempel jordklotet, jordmodeller, kartprojektioner, position och höjd.",
+          "8. Kartor och annan geografisk visualisering, till exempel referenskartor, tematiska kartor, funktionell kartografisk design, kartframställning och 3D-modeller.",
+          "9. Insamling av data genom tolkning och mätning i bildmaterial i form av flyg- och satellitbilder inom olika spektralområden samt data från flygburen laserskanning, till exempel över en miljö som kan studeras i fält. Tolkning och användning av kartor i olika skalor och teman samt kritisk granskning av kartans information.",
+          "10. Bearbetning och analys av rumslig information i GIS och visualisering av geografisk information i karta.",
+          "11. Rumslig information och GIS-teknik som binder ihop till exempel mobiltelefoner, GPS och digitala sociala nätverk.",
+          "12. Kritisk granskning av data, värdering av resultat samt bedömning av hur resultatet kan användas."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven redogör **översiktligt** för samhällsplaneringens ansvar och möjligheter att stärka samhällets resiliens",
+      "0Eleven redogör också **översiktligt** för hur olika planeringsformer med stöd av rumsliga data kan användas för att påverka och styra samhällets arbete med att uppnå en hållbar utveckling",
+      "0Dessutom diskuterar eleven **översiktligt** hur människors egna resurser kan tas till vara och utvecklas för en hållbar utveckling",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven redogör **översiktligt** för digitala geografiska verktyg och deras användning samt beskriver **översiktligt** grunderna i kartografi och lägespositionering och hur de kan kopplas till GPS",
+      "1Eleven redogör också **översiktligt** för hur digital rumslig information kan samlas in, bearbetas, värderas och presenteras med hjälp av de verktyg som geografiska informationssystem innehåller",
+      "1Dessutom redogör eleven **översiktligt** för när geografiska informationssystem kan användas som underlag för beslut samt beskriver **översiktligt** hur rumsliga samband och mönster över tid kan visualiseras i karta",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven framställer och använder **med viss säkerhet enkla** tematiska kartor som ett resultat av analys i geografiska informationssystem",
+      "2Dessutom använder eleven **med viss säkerhet** GIS-teknik för att samla in data i närmiljön och överför dem till geografiska informationssystem",
+      "2I arbetet motiverar eleven **översiktligt** sitt urval och sin bearbetning av data, värderar med **enkla** omdömen det egna resultatet samt ger **något** exempel på hur det kan användas i något sammanhang",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ],
+    "C": [
+      "0Eleven redogör **utförligt** för samhällsplaneringens ansvar och möjligheter att stärka samhällets resiliens",
+      "0Eleven redogör också **utförligt** för hur olika planeringsformer med stöd av rumsliga data kan användas för att påverka och styra samhällets arbete med att uppnå en hållbar utveckling",
+      "0Dessutom diskuterar eleven **utförligt** hur människors egna resurser kan tas till vara och utvecklas för en hållbar utveckling",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven redogör **utförligt** för digitala geografiska verktyg och deras användning samt beskriver **utförligt** grunderna i kartografi och lägespositionering och hur de kan kopplas till GPS",
+      "1Eleven redogör också **utförligt** för hur digital rumslig information kan samlas in, bearbetas, värderas och presenteras med hjälp av de verktyg som geografiska informationssystem innehåller",
+      "1Dessutom redogör eleven **utförligt** för när geografiska informationssystem kan användas som underlag för beslut samt beskriver **utförligt** hur rumsliga samband och mönster över tid kan visualiseras i karta",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven framställer och använder **med viss säkerhet** tematiska kartor som ett resultat av analys i geografiska informationssystem",
+      "2Dessutom använder eleven **med viss säkerhet** GIS-teknik för att samla in data i närmiljön och överför dem till geografiska informationssystem",
+      "2I arbetet motiverar eleven **utförligt** sitt urval och sin bearbetning av data, värderar med **nyanserade** omdömen det egna resultatet samt ger **några** exempel på hur det kan användas i något sammanhang",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ],
+    "A": [
+      "0Eleven redogör **utförligt och nyanserat** för samhällsplaneringens ansvar och möjligheter att stärka samhällets resiliens",
+      "0Eleven redogör också **utförligt och nyanserat** för hur olika planeringsformer med stöd av rumsliga data kan användas för att påverka och styra samhällets arbete med att uppnå en hållbar utveckling",
+      "0Dessutom diskuterar eleven **utförligt och nyanserat** hur människors egna resurser kan tas till vara och utvecklas för en hållbar utveckling",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven redogör **utförligt** för digitala geografiska verktyg och deras användning samt beskriver **utförligt och nyanserat** grunderna i kartografi och lägespositionering och hur de kan kopplas till GPS",
+      "1Eleven redogör också **utförligt och nyanserat** för hur digital rumslig information kan samlas in, bearbetas, värderas och presenteras med hjälp av de verktyg som geografiska informationssystem innehåller",
+      "1Dessutom redogör eleven **utförligt och nyanserat** för när geografiska informationssystem kan användas som underlag för beslut samt beskriver **utförligt och nyanserat** hur rumsliga samband och mönster över tid kan visualiseras i karta",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven framställer och använder **med säkerhet komplexa** tematiska kartor som ett resultat av analys i geografiska informationssystem",
+      "2Dessutom använder eleven **med säkerhet** GIS-teknik för att samla in data i närmiljön och överför dem till geografiska informationssystem",
+      "2I arbetet motiverar eleven **utförligt och nyanserat** sitt urval och sin bearbetning av data, värderar med **nyanserade** omdömen det egna resultatet **och ger förslag på hur resultatet kan förbättras** samt ger **flera** exempel på hur det kan användas i något sammanhang",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ]
+  }
+}

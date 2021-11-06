@@ -1,0 +1,67 @@
+{
+  "name": "Matlagning 1",
+  "code": "MALMAL01",
+  "focusAreas": {
+    "string": "Kursen matlagning 1 omfattar punkterna 1–3, 6–7 och 9 under rubriken Ämnets syfte. I kursen behandlas grundläggande färdigheter i ämnet.",
+    "entries": [
+      "1–3",
+      "6–7",
+      "9"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Grundläggande matlagning och matlagningsmetoder.",
+          "2. Kalla och varma maträtter.",
+          "3. Kökets redskap, maskiner och annan utrustning. Hur de används och hanteras på ett säkert sätt.",
+          "4. Grunderna i identifiering, behandling och hantering av råvaror samt smakmässiga och ekonomiska konsekvenser av hur råvaror behandlas och förvaras.",
+          "5. Hygien och dagliga hygienrutiner, till exempel rengöring av lokaler och utrustning.",
+          "6. Ergonomi i det egna arbetet samt ergonomiska riskfaktorer.",
+          "7. Arbetsmiljö och säkerhet samt lagar och andra bestämmelser som gäller inom området, till exempel livsmedelslagen.",
+          "8. Grundläggande kommunikation för arbete i kök."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven planerar och organiserar **i samråd** med handledare matlagning",
+      "0Eleven tillagar metodiskt, hantverksmässigt och **i samråd** med handledare maträtter med **tillfredsställande** kvalitet när det gäller smak och utseende",
+      "0I arbetet använder eleven med **visst** handlag vanliga grundläggande metoder, redskap, maskiner och annan utrustning som är lämpliga för uppgiften",
+      "0I arbetet redogör eleven **översiktligt** för ekonomiska konsekvenser vid val av råvaror samt för deras hantering och förvaring",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar **översiktligt** arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven samarbetar och kommunicerar **med viss säkerhet** med andra",
+      "2När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ],
+    "C": [
+      "0Eleven planerar och organiserar **efter samråd** med handledare matlagning",
+      "0Eleven tillagar metodiskt, hantverksmässigt och **efter samråd** med handledare maträtter med **tillfredsställande** kvalitet när det gäller smak och utseende",
+      "0I arbetet använder eleven med **gott** handlag vanliga grundläggande metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften",
+      "0I arbetet redogör eleven **utförligt** för ekonomiska konsekvenser vid val av råvaror samt för deras hantering och förvaring",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar **översiktligt** arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven samarbetar och kommunicerar **med viss säkerhet** med andra",
+      "2När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ],
+    "A": [
+      "0Eleven planerar och organiserar **efter samråd** med handledare matlagning",
+      "0Eleven tillagar metodiskt, hantverksmässigt och **efter samråd** med handledare maträtter med **god** kvalitet när det gäller smak och utseende",
+      "0I arbetet använder eleven med **mycket gott** handlag vanliga grundläggande metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften",
+      "0I arbetet redogör eleven **utförligt och nyanserat** för ekonomiska konsekvenser vid val av råvaror samt för deras hantering och förvaring",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar **utförligt** arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven samarbetar och kommunicerar **med säkerhet** med andra",
+      "2När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Cad – specialisering",
+  "code": "CADCAD00S",
+  "focusAreas": {
+    "string": "Kursen cad – specialisering omfattar punkterna 3–7 under rubriken Ämnets syfte.",
+    "entries": [
+      "3–7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Cad och cad-tillämpning inom valt teknikområde.",
+          "2. Fördjupad och specialiserad dokumenthantering.",
+          "3. Fördjupning inom solidmodellering.",
+          "4. Komplexa sammanställningar i tre dimensioner med beaktande av konstruktionsvillkor.",
+          "5. Fördjupning, beräkning och specialisering med hjälp av applikationer beroende på valt teknikområde.",
+          "6. Fördjupning inom rörelsesimulering."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven utför konstruktioner med hjälp av för teknikområdet valda cad-tillämpningar med **tillfredsställande** resultat",
+      "0Eleven utför dokumenthantering med **tillfredsställande** resultat",
+      "0Dessutom utför eleven **i samråd** med handledare avancerad solidmodellering med **tillfredsställande** resultat",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven gör komplexa sammanställningar med **tillfredsställande** resultat",
+      "1I arbetet använder eleven **med viss säkerhet** applikationer i komplexa situationer",
+      "1Dessutom analyserar eleven **med viss säkerhet** sitt resultat med utgångspunkt i rörelsesimulering",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ],
+    "C": [
+      "0Eleven utför **avancerade** konstruktioner med hjälp av för teknikområdet valda cad-tillämpningar med **tillfredsställande** resultat",
+      "0Eleven utför **avancerad** dokumenthantering med **tillfredsställande** resultat",
+      "0Dessutom utför eleven **efter samråd** med handledare avancerad solidmodellering med **tillfredsställande** resultat",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven gör komplexa sammanställningar med **tillfredsställande** resultat",
+      "1I arbetet använder eleven **med säkerhet** applikationer i komplexa situationer",
+      "1Dessutom analyserar eleven **med säkerhet** sitt resultat med utgångspunkt i rörelsesimulering",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ],
+    "A": [
+      "0Eleven utför **avancerade** konstruktioner med hjälp av för teknikområdet valda cad-tillämpningar med **gott** resultat",
+      "0Eleven utför **avancerad** dokumenthantering med **gott** resultat",
+      "0Dessutom utför eleven **efter samråd** med handledare avancerad solidmodellering med **gott** resultat",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven gör komplexa sammanställningar med **gott** resultat",
+      "1I arbetet använder eleven **med säkerhet** applikationer i komplexa situationer",
+      "1Dessutom analyserar eleven **med säkerhet** sitt resultat med utgångspunkt i rörelsesimulering",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ]
+  }
+}

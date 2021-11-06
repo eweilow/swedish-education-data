@@ -1,0 +1,81 @@
+{
+  "name": "Elektronikproduktionsteknik",
+  "code": "ELKELO0",
+  "focusAreas": {
+    "string": "Kursen elektronikproduktionsteknik omfattar punkterna 1–2, 4 och 6–8 under rubriken Ämnets syfte, med särskild betoning på punkt 2. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "entries": [
+      "1–2",
+      "4",
+      "6–8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Monteringsmaskiner för komponenter.",
+          "2. Lödmaskiner för våglödning, ångzonslödning, hällödning och IR-lödning.",
+          "3. Produktionsprocessens olika steg: beredning, montering, lödning, avsyning och testning.",
+          "4. Planering och beredning av monteringsarbetet.",
+          "5. Arbetsinstruktioner, manualer, elektronikscheman och andra dokument på både svenska och engelska.",
+          "6. Mönsterkort av olika material och materialens lödegenskaper.",
+          "7. Produktionsmetoder och monteringstekniker samt verktyg och övrig utrustning.",
+          "8. Krav för lödcertifikat.",
+          "9. ESD-skydd (electrostatic discharge) av komponenter och arbetsplatser.",
+          "10. Produktionsflöde och kvalitetsbedömning."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven beskriver **översiktligt** hur monteringsmaskiner och lödmaskiner är konstruerade och arbetar",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar **i samråd** med handledare vanligt förekommande montering och lödning",
+      "1I planeringen tolkar eleven **med viss säkerhet** arbetsinstruktioner, manualer, elektronikscheman och andra dokument",
+      "1Eleven utför **i samråd** med handledare monteringen och lödningen utifrån fastställda kvalitetskrav",
+      "1I arbetet använder eleven **med viss säkerhet** metoder, verktyg och övrig utrustning",
+      "1Under arbetets gång upptäcker eleven problem som uppkommer och löser dem **i samråd** med handledare",
+      "1Arbetet utförs på ett sätt som är säkert för eleven själv och andra, och resultatet är **tillfredsställande**",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När arbetet är utfört utvärderar eleven med **enkla** omdömen sitt arbete och resultat",
+      "2Dessutom för eleven **enkla** resonemang om vikten av kvalitetsbedömning, kvalitetsarbete och en god arbetsmiljö",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "C": [
+      "0Eleven beskriver **utförligt** hur monteringsmaskiner och lödmaskiner är konstruerade och arbetar",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar **efter samråd** med handledare vanligt förekommande montering och lödning",
+      "1I planeringen tolkar eleven **med viss säkerhet** arbetsinstruktioner, manualer, elektronikscheman och andra dokument",
+      "1Eleven utför **efter samråd** med handledare monteringen och lödningen utifrån fastställda kvalitetskrav",
+      "1I arbetet använder eleven **med viss säkerhet** metoder, verktyg och övrig utrustning",
+      "1Under arbetets gång upptäcker eleven problem som uppkommer och löser dem **efter samråd** med handledare",
+      "1Arbetet utförs på ett sätt som är säkert för eleven själv och andra, och resultatet är **tillfredsställande**",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När arbetet är utfört utvärderar eleven med **nyanserade** omdömen sitt arbete och resultat",
+      "2Dessutom för eleven **välgrundade** resonemang om vikten av kvalitetsbedömning, kvalitetsarbete och en god arbetsmiljö",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "A": [
+      "0Eleven beskriver **utförligt och nyanserat** hur monteringsmaskiner och lödmaskiner är konstruerade och arbetar",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar **efter samråd** med handledare vanligt förekommande montering och lödning",
+      "1I planeringen tolkar eleven **med säkerhet** arbetsinstruktioner, manualer, elektronikscheman och andra dokument",
+      "1Eleven utför **efter samråd** med handledare monteringen och lödningen utifrån fastställda kvalitetskrav",
+      "1I arbetet använder eleven **med säkerhet** metoder, verktyg och övrig utrustning",
+      "1Under arbetets gång upptäcker eleven problem som uppkommer och löser dem **efter samråd** med handledare",
+      "1Arbetet utförs på ett sätt som är säkert för eleven själv och andra, och resultatet är **gott**",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När arbetet är utfört utvärderar eleven med **nyanserade** omdömen sitt arbete och resultat **samt ger förslag på hur arbetet kan förbättras**",
+      "2Dessutom för eleven **välgrundade och nyanserade** resonemang om vikten av kvalitetsbedömning, kvalitetsarbete och en god arbetsmiljö",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ]
+  }
+}

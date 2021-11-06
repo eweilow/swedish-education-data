@@ -1,0 +1,66 @@
+{
+  "name": "Radiokommunikation till sjöss",
+  "code": "DACRAD0",
+  "focusAreas": {
+    "string": "Kursen radiokommunikation till sjöss omfattar punkterna 1 och 5–7 under rubriken Ämnets syfte.",
+    "entries": [
+      "1",
+      "5–7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Globalt marint nöd- och säkerhetssystem (GMDSS).",
+          "2. Radioteknik.",
+          "3. Grundläggande regler och metoder för radiotrafik: avgifter, digital selective calling (DSC), nöd-, il- och varningstrafik, navigational text messages(NAVTEX), emergency position indicating radio beacon (EPIRB) och search and rescue transponder (SART) samt handburna VHF-stationer.",
+          "4. Strömförsörjning.",
+          "5. Falsklarm i GMDSS.",
+          "6. Sjöräddning.",
+          "7. Satellitkommunikation.",
+          "8. Automatic Identification System (AIS)."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven utför **i samråd** med handledare uppgifter i samband med radiokommunikation och använder **med viss säkerhet** radioutrustning",
+      "0Resultatet av elevens arbete är **tillfredsställande**",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven kommunicerar och använder **med viss säkerhet** termer och begrepp som är relevanta för området",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven beskriver **översiktligt** regler och metoder för radioteknik till sjöss samt den radio- och kommunikationsutrustning som används på fartyg",
+      "2Dessutom beskriver eleven **översiktligt** GMDSS-systemet samt sjöräddningens organisation",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "C": [
+      "0Eleven utför **efter samråd** med handledare uppgifter i samband med radiokommunikation och använder **med viss säkerhet** radioutrustning",
+      "0Resultatet av elevens arbete är **tillfredsställande**",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven kommunicerar och använder **med viss säkerhet** termer och begrepp som är relevanta för området",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven beskriver **utförligt** regler och metoder för radioteknik till sjöss samt den radio- och kommunikationsutrustning som används på fartyg",
+      "2Dessutom beskriver eleven **utförligt** GMDSS-systemet samt sjöräddningens organisation",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "A": [
+      "0Eleven utför **efter samråd** med handledare uppgifter i samband med radiokommunikation och använder **med säkerhet** radioutrustning",
+      "0Resultatet av elevens arbete är **gott**",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven kommunicerar och använder **med säkerhet** termer och begrepp som är relevanta för området",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven beskriver **utförligt och nyanserat** regler och metoder för radioteknik till sjöss samt den radio- och kommunikationsutrustning som används på fartyg",
+      "2Dessutom beskriver eleven **utförligt och nyanserat** GMDSS-systemet samt sjöräddningens organisation",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ]
+  }
+}

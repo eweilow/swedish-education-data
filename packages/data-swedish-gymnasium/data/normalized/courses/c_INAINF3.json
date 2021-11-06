@@ -1,0 +1,109 @@
+{
+  "name": "Informationsteknisk arkitektur",
+  "code": "INAINF3",
+  "focusAreas": {
+    "string": "Kursen informationsteknisk arkitektur omfattar punkterna 1–9 under rubriken Ämnets syfte.",
+    "entries": [
+      "1–9"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Krav på ett informationstekniskt system, till exempel informationssäkerhet, skalbarhet, stabilitet och tillgänglighet, och på vilka sätt dessa krav kan tillgodoses i ett informationstekniskt system.",
+          "2. Uppbyggnad av system med interoperabilitet som mål med hjälp av tjänsteorienterad arkitektur.",
+          "3. Ett informationstekniskt systems livscykel med behovsanalys, riskanalys, kravspecifikation, utveckling, testning, driftsättning och förvaltning.",
+          "4. Nedbrytning av ett befintligt system i mindre delar och processer med hjälp av någon systemutvecklingsmetod, till exempel vattenfallsmetoden och lättrörliga metoden.",
+          "5. Dokumentation av ett befintligt system och representation av detta system i något språk.",
+          "6. En projektmetod och dess användning inom det informationstekniska området.",
+          "7. Metoder för kvalitetsstyrning och utvärdering. System för incidenthantering och spårbarhet.",
+          "8. Regelverk för it-användning med informationssäkerhet som övergripande syfte.",
+          "9. System för styrning av informationstekniska system, till exempel ITIL (Information Technology Infrastructure Library).",
+          "10. Entreprenörskap och kundbemötande samt kommunikation med uppdragsgivare och uppdragstagare i tal, skrift och med visuella hjälpmedel."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven beskriver **översiktligt** uppbyggnad, funktion och arbetssätt hos vanliga informationstekniska system",
+      "0Dessutom redogör eleven **översiktligt** för hur datasäkerhet och driftsäkerhet kan uppnås",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven analyserar, planerar, genomför och dokumenterar **i samråd** med handledare informationstekniska systems livscykel",
+      "1Resultatet är **tillfredsställande** i fråga om säkerhet och kvalitet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven analyserar **i samråd** med handledare befintliga informationstekniska system för datakommunikation samt dokumenterar sin analys",
+      "2Resultatet av arbetet är **tillfredsställande**",
+      "2Dessutom installerar, konfigurerar och felsöker eleven med **visst** handlag hård- och mjukvara på ett informationssäkert sätt",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3I arbetet hanterar eleven **med viss säkerhet** metoder och verktyg samt utför arbetet på ett säkert sätt",
+      "3Dessutom använder eleven **med viss säkerhet** instruktioner, manualer och andra dokument på både svenska och engelska",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4Eleven gör en **enkel** dokumentation av sitt arbete så att systemet blir spårbart och lätt att underhålla",
+      "4Resultatet av arbetet är **tillfredsställande** i fråga om informationssäkerhet, kvalitet och resurseffektivitet",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION",
+      "5Eleven identifierar **med viss säkerhet** uppdragsgivares behov och ger råd och förslag på förbättringar i informationstekniska system",
+      "5Förbättringarna tillgodoser uppdragsgivarnas behov med **tillfredsställande** resultat",
+      "5Eleven gör en **enkel** dokumentation över föreslagna förbättringar",
+      "5THIS 5IS 5THE 5START 5OF 5SECTION",
+      "6Eleven kommunicerar **med viss säkerhet** med kunder, uppdragsgivare och uppdragstagare",
+      "6THIS 6IS 6THE 6START 6OF 6SECTION",
+      "7När eleven samråder med handledare bedömer eleven **med viss säkerhet** den egna förmågan och situationens krav",
+      "7THIS 7IS 7THE 7START 7OF 7SECTION"
+    ],
+    "C": [
+      "0Eleven beskriver **utförligt** uppbyggnad, funktion och arbetssätt hos vanliga informationstekniska system",
+      "0Dessutom redogör eleven **utförligt** för hur datasäkerhet och driftsäkerhet kan uppnås",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven analyserar, planerar, genomför och dokumenterar **efter samråd** med handledare informationstekniska systems livscykel",
+      "1Resultatet är **tillfredsställande** i fråga om säkerhet och kvalitet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven analyserar **efter samråd** med handledare befintliga informationstekniska system för datakommunikation samt dokumenterar sin analys",
+      "2Resultatet av arbetet är **tillfredsställande**",
+      "2Dessutom installerar, konfigurerar och felsöker eleven med **gott** handlag hård- och mjukvara på ett informationssäkert sätt",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3I arbetet hanterar eleven **med viss säkerhet** metoder och verktyg samt utför arbetet på ett säkert sätt",
+      "3Dessutom använder eleven **med viss säkerhet** instruktioner, manualer och andra dokument på både svenska och engelska",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4Eleven gör en **noggrann** dokumentation av sitt arbete så att systemet blir spårbart och lätt att underhålla",
+      "4Resultatet av arbetet är **tillfredsställande** i fråga om informationssäkerhet, kvalitet och resurseffektivitet",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION",
+      "5Eleven identifierar **med viss säkerhet** uppdragsgivares behov och ger **välgrundade** råd och förslag på förbättringar i informationstekniska system",
+      "5Förbättringarna tillgodoser uppdragsgivarnas behov med **tillfredsställande** resultat",
+      "5Eleven gör en **noggrann** dokumentation över föreslagna förbättringar",
+      "5THIS 5IS 5THE 5START 5OF 5SECTION",
+      "6Eleven kommunicerar **med viss säkerhet** med kunder, uppdragsgivare och uppdragstagare",
+      "6THIS 6IS 6THE 6START 6OF 6SECTION",
+      "7När eleven samråder med handledare bedömer eleven **med viss säkerhet** den egna förmågan och situationens krav",
+      "7THIS 7IS 7THE 7START 7OF 7SECTION"
+    ],
+    "A": [
+      "0Eleven beskriver **utförligt och nyanserat** uppbyggnad, funktion och arbetssätt hos vanliga informationstekniska system",
+      "0Dessutom redogör eleven **utförligt och nyanserat** för hur datasäkerhet och driftsäkerhet kan uppnås",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven analyserar, planerar, genomför och dokumenterar **efter samråd** med handledare informationstekniska systems livscykel",
+      "1Resultatet är **gott** i fråga om säkerhet och kvalitet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven analyserar **efter samråd** med handledare befintliga informationstekniska system för datakommunikation samt dokumenterar sin analys",
+      "2Resultatet av arbetet är **gott**",
+      "2Dessutom installerar, konfigurerar och felsöker eleven med **mycket gott** handlag hård- och mjukvara på ett informationssäkert sätt",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3I arbetet hanterar eleven **med säkerhet** metoder och verktyg samt utför arbetet på ett säkert sätt",
+      "3Dessutom använder eleven **med säkerhet** instruktioner, manualer och andra dokument på både svenska och engelska",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4Eleven gör en **noggrann och utförlig** dokumentation av sitt arbete så att systemet blir spårbart och lätt att underhålla",
+      "4Resultatet av arbetet är **gott** i fråga om informationssäkerhet, kvalitet och resurseffektivitet",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION",
+      "5Eleven identifierar **med säkerhet** uppdragsgivares behov och ger **välgrundade och nyanserade** råd och förslag på förbättringar i informationstekniska system",
+      "5Förbättringarna tillgodoser uppdragsgivarnas behov med **gott** resultat",
+      "5Eleven gör en **noggrann och utförlig** dokumentation över föreslagna förbättringar",
+      "5THIS 5IS 5THE 5START 5OF 5SECTION",
+      "6Eleven kommunicerar **med säkerhet** med kunder, uppdragsgivare och uppdragstagare",
+      "6THIS 6IS 6THE 6START 6OF 6SECTION",
+      "7När eleven samråder med handledare bedömer eleven **med säkerhet** den egna förmågan och situationens krav",
+      "7THIS 7IS 7THE 7START 7OF 7SECTION"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Taxitrafik",
+  "code": "PESTAX0",
+  "focusAreas": {
+    "string": "Kursen taxitrafik omfattar punkterna 1–2, 6 och 8–9 under rubriken Ämnets syfte.",
+    "entries": [
+      "1–2",
+      "6",
+      "8–9"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Trafikledningssystem som är specifika för taxilogistik och taxametersystem.",
+          "2. Lagar och andra bestämmelser som reglerar taxiverksamheten, till exempel branschetiska regler, prisinformation och vilotidsförordningar.",
+          "3. Fordonstillbehör och tilläggsutrustning i fordon, till exempel ramper, lyftar, bårar, alkolås, skyddskameror och fästanordningar för bagage och rullstolar.",
+          "4. Ergonomi, hälsa och miljö.",
+          "5. Agerande vid olycka och nödsituationer.",
+          "6. Bemötande och värdskap med särskild tonvikt på sjukresenärer och resande inom särskild kollektivtrafik samt de särskilda krav dessa grupper ställer på förare och fordon."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven beskriver **översiktligt** system för trafikledning samt hantering av utrustningar för betalsystem och redovisning av arbets- och vilotider",
+      "0Dessutom beskriver eleven **översiktligt** branschetiska regler och krav på prisinformation till kunder",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven beskriver **översiktligt** användning och hantering av fordonstillbehör och tilläggsutrustningar som hjälpmedel för passagerare vid i- och urstigning",
+      "1Dessutom beskriver eleven **översiktligt** arbetsställningar och ergonomi samt hälsa och miljö i arbetet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven beskriver **översiktligt** handlingsalternativ vid olyckor och nödsituationer",
+      "2Dessutom beskriver eleven **översiktligt** sätt att bemöta passagerare med särskilda behov",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ],
+    "C": [
+      "0Eleven beskriver **utförligt** system för trafikledning samt hantering av utrustningar för betalsystem och redovisning av arbets- och vilotider",
+      "0Dessutom beskriver eleven **utförligt** branschetiska regler och krav på prisinformation till kunder",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven beskriver **utförligt** användning och hantering av fordonstillbehör och tilläggsutrustningar som hjälpmedel för passagerare vid i- och urstigning",
+      "1Dessutom beskriver eleven **utförligt** arbetsställningar och ergonomi samt hälsa och miljö i arbetet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven beskriver **utförligt** handlingsalternativ vid olyckor och nödsituationer",
+      "2Dessutom beskriver eleven **utförligt** sätt att bemöta passagerare med särskilda behov",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ],
+    "A": [
+      "0Eleven beskriver **utförligt och nyanserat** system för trafikledning samt hantering av utrustningar för betalsystem och redovisning av arbets- och vilotider",
+      "0Dessutom beskriver eleven **utförligt och nyanserat** branschetiska regler och krav på prisinformation till kunder",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven beskriver **utförligt och nyanserat** användning och hantering av fordonstillbehör och tilläggsutrustningar som hjälpmedel för passagerare vid i- och urstigning",
+      "1Dessutom beskriver eleven **utförligt och nyanserat** arbetsställningar och ergonomi samt hälsa och miljö i arbetet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven beskriver **utförligt och nyanserat** handlingsalternativ vid olyckor och nödsituationer",
+      "2Dessutom beskriver eleven **utförligt och nyanserat** sätt att bemöta passagerare med särskilda behov",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ]
+  }
+}

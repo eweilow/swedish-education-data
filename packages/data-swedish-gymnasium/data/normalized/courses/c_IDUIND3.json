@@ -1,0 +1,83 @@
+{
+  "name": "Industriell automationsteknik",
+  "code": "IDUIND3",
+  "focusAreas": {
+    "string": "Kursen industriell automationsteknik omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+    "entries": [
+      "1–8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Uppbyggnad och funktion av samt principer för olika typer av automatiserade system.",
+          "2. Arbetsmiljö och säkerhet vid arbete med automatiserade system.",
+          "3. Talsystem samt uppbyggnad och omvandling mellan talsystem som används i automatiserade system.",
+          "4. Tolkning och användning av de logiska grundfunktionerna.",
+          "5. Ventilbeteckningar och märkningar samt identifiering av komponenter.",
+          "6. Standarder för informationsteknik och säkerhet.",
+          "7. Program för simulering av automatiserade processer.",
+          "8. Automatiserade systems påverkan på miljö, ekonomi och samhälle.",
+          "9. Funktion, egenskaper och symboler hos styrtekniska lösningar där pneumatiska och elektriska komponenter ingår.",
+          "10. Hantering och programmering av digitala och analoga in- och utgångar.",
+          "11. Programmering, installering, intrimning och driftsättning av enkla och sammanbyggda styrutrustningar med olika automationsmoduler och givare.",
+          "12. Analys av befintlig automatiserad process och förslag på förbättringar och optimeringar.",
+          "13. Olika typer av scheman, ritningar och annan dokumentation över automatiska system inom valt område. Tolkning av och metoder för framställning av dessa.",
+          "14. Förebyggande underhåll samt felsökning och reparation på automatiserade system."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven redogör **övergripande** för industriella automatiserade systems uppbyggnad, användningsområde och funktion samt deras betydelse för automatiserade processer",
+      "0Eleven förhåller sig till de säkerhetsföreskrifter som finns inom området",
+      "0Vidare redogör eleven **övergripande** för vanligt förekommande standarder inom industriell automation",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven använder **med säkerhet** programverktyg för simulering av system kopplade till en automatiserad process och för **övergripande** resonemang kring hur automatisering kan påverka social, ekonomisk och ekologisk hållbarhet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven strukturerar **efter samråd** med handledare kommunikation och konfiguration mellan olika system och andra enheter, internt och externt",
+      "2Eleven planerar och programmerar **efter samråd** med handledare industriella automationssystem samt utför ändringar och definitioner av variabler och systemparametrar",
+      "2Vidare dokumenterar eleven **övergripande** industriella automatiserade system med muntliga, skriftliga och digitala metoder",
+      "2Eleven genomför även kontroll före drifttagning och provkörning av program samt planerar och utför arbete i automatiserade system **med säkerhet",
+      "2**",
+      "3Eleven analyserar, förbättrar och optimerar befintliga automatiserade system samt ger **välgrundade** förslag på åtgärder",
+      "3Eleven felsöker **efter samråd** med handledare med hjälp av program, manualer och dokument i automatiserade system",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "C": [
+      "0Eleven redogör **utförligt** för industriella automatiserade systems uppbyggnad, användningsområde och funktion samt deras betydelse för automatiserade processer",
+      "0Eleven förhåller sig till de säkerhetsföreskrifter som finns inom området",
+      "0Vidare redogör eleven **utförligt** för vanligt förekommande standarder inom industriell automation",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven använder **med god säkerhet** programverktyg för simulering av system kopplade till en automatiserad process och för **utförliga** resonemang kring hur automatisering kan påverka social, ekonomisk och ekologisk hållbarhet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven strukturerar **självständigt efter samråd** med handledare kommunikation och konfiguration mellan olika system och andra enheter, internt och externt",
+      "2Eleven planerar och programmerar **självständigt efter samråd** med handledare industriella automationssystem samt utför ändringar och definitioner av variabler och systemparametrar",
+      "2Vidare dokumenterar eleven **utförligt** industriella automatiserade system med muntliga, skriftliga och digitala metoder",
+      "2Eleven genomför även kontroll före drifttagning och provkörning av program samt planerar och utför arbete i automatiserade system **med god säkerhet**",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven analyserar, förbättrar och optimerar befintliga automatiserade system samt ger **välgrundade och nyanserade** förslag på åtgärder",
+      "3Eleven felsöker **självständigt efter samråd** med handledare med hjälp av program, manualer och dokument i automatiserade system",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "A": [
+      "0Eleven redogör **utförligt och nyanserat** för industriella automatiserade systems uppbyggnad, användningsområde och funktion samt deras betydelse för automatiserade processer",
+      "0Eleven förhåller sig till de säkerhetsföreskrifter som finns inom området",
+      "0Vidare redogör eleven **utförligt och nyanserat** för vanligt förekommande standarder inom industriell automation",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven använder **med mycket god säkerhet** programverktyg för simulering av system kopplade till en automatiserad process och för **utförliga och nyanserade** resonemang kring hur automatisering kan påverka social, ekonomisk och ekologisk hållbarhet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven strukturerar **självständigt** kommunikation och konfiguration mellan olika system och andra enheter, internt och externt",
+      "2Eleven planerar och programmerar **självständigt** industriella automationssystem samt utför ändringar och definitioner av variabler och systemparametrar",
+      "2Vidare dokumenterar eleven **utförligt och nyanserat** industriella automatiserade system med muntliga, skriftliga och digitala metoder",
+      "2Eleven genomför även kontroll före drifttagning och provkörning av program samt planerar och utför arbete i automatiserade system **med mycket god säkerhet**",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven analyserar, förbättrar och optimerar befintliga automatiserade system samt ger **välgrundade och nyanserade** förslag på åtgärder",
+      "3Eleven felsöker **självständigt** med hjälp av program, manualer och dokument i automatiserade system",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ]
+  }
+}

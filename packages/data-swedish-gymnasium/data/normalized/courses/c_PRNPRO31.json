@@ -1,0 +1,83 @@
+{
+  "name": "Produktionsutveckling 1",
+  "code": "PRNPRO31",
+  "focusAreas": {
+    "string": "Kursen produktionsutveckling 1 omfattar punkterna 1–3, 6 och 9 under rubriken Ämnets syfte.",
+    "entries": [
+      "1–3",
+      "6",
+      "9"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Helhetsperspektiv för problemlösning samt hur teori och praktik samverkar.",
+          "2. Kartläggning och analys av produktionsprocessen och dess delar samt förbättringsförslag.",
+          "3. Systemförståelse för tillverkningsprocesser och deras förädlingssteg.",
+          "4. Beredning, design och produktion av en produkt.",
+          "5. Framställning och analys av beredning av produkt eller process.",
+          "6. Hur förändringar av en produkts design och funktion påverkar tillverkning och produktion.",
+          "7. Betydelsen av val av material, metod, teknik, styrning och ledning för ett ekonomiskt hållbart och fungerande produktionsflöde.",
+          "8. Olika underhållsformer, till exempel avhjälpande, förebyggande och förbättrande underhåll.",
+          "9. Funktionssäkerhet, underhållsmässighet och underhållssäkerhet samt metoder för ständiga förbättringar.",
+          "10. Uppbyggnad av produktionslinjer, arbetsplatsutformning och hur produktionsutrustning kopplas samman till produktionslinjer.",
+          "11. Gällande säkerhetsföreskrifter för valt produktionsområde.",
+          "12. Kommunikation och samarbete och dess betydelse för produktion och organisation."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven redogör **övergripande** för produktionsprocessen och dess utvecklingssteg samt ger förslag på hur processen kan förbättras",
+      "0Vidare resonerar eleven **med säkerhet** om hur en fungerande, konkurrenskraftig och hållbar produktion fungerar",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven redogör **övergripande** för vad produktionsberedning är och hur utvecklingsarbetet samverkar mellan design och produktion",
+      "1Eleven resonerar vidare **övergripande** om betydelsen av val av material, metod, teknik, styrning och ledning för ett ekonomiskt hållbart och fungerande produktionsflöde",
+      "1Eleven redogör **övergripande** utifrån exempel för hur förändringar på en produkts design och funktion påverkar dess tillverkning och produktion genom beredning",
+      "1Resultatet av arbetet är **tillfredsställande**",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven ger utifrån fallbeskrivningar och **efter samråd** med handledare förslag till produktionslinje, produktionsutrustning och arbetsplatsutformning",
+      "2Resultatet av arbetet är **tillfredsställande**",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven samarbetar och kommunicerar **med säkerhet** med andra samt resonerar **övergripande** om produktionsutveckling",
+      "3Eleven bedömer **med säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "C": [
+      "0Eleven redogör **utförligt** för produktionsprocessen och dess utvecklingssteg samt ger **välgrundade** förslag på hur processen kan förbättras",
+      "0Vidare resonerar eleven **med god säkerhet** kring hur en fungerande, konkurrenskraftig och hållbar produktion fungerar",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven redogör **utförligt** för vad produktionsberedning är och hur utvecklingsarbetet samverkar mellan design och produktion",
+      "1Eleven resonerar vidare **utförligt** för betydelse av val av material, metod, teknik, styrning och ledning för ett ekonomiskt hållbart och fungerande produktionsflöde",
+      "1Eleven redogör **utförligt** utifrån exempel för hur förändringar på en produkts design och funktion påverkar dess tillverkning och produktion genom beredning",
+      "1Resultatet av arbetet är **gott**",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven ger utifrån fallbeskrivningar **självständigt efter samråd** med handledare förslag till produktionslinje, produktionsutrustning och arbetsplatsutformning",
+      "2Resultatet av arbetet är **tillfredsställande**",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven samarbetar och kommunicerar **med god säkerhet** med andra samt resonerar **utförligt** om produktionsutveckling",
+      "3Eleven bedömer **med god säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "A": [
+      "0Eleven redogör **utförligt och nyanserat** för produktionsprocessen och dess utvecklingssteg samt ger **välgrundade och nyanserade** förslag på hur processen kan förbättras",
+      "0Vidare resonerar eleven **med mycket god säkerhet** kring hur en fungerande, konkurrenskraftig och hållbar produktion fungerar",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven redogör **utförligt och nyanserat** för vad produktionsberedning är och hur utvecklingsarbetet samverkar mellan design och produktion",
+      "1Eleven redogör **utförligt och nyanserat** för betydelse av val av material, metod, teknik, styrning och ledning för ett ekonomiskt hållbart och fungerande produktionsflöde",
+      "1Eleven redogör **utförligt och nyanserat** utifrån exempel för hur förändringar på en produkts design och funktion påverkar dess tillverkning och produktion genom beredning",
+      "1Resultatet av arbetet är **gott**",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven ger utifrån fallbeskrivningar **självständigt** förslag till produktionslinje, produktionsutrustning och arbetsplatsutformning",
+      "2Resultatet av arbetet är **gott**",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven samarbetar och kommunicerar **med mycket god säkerhet** samt resonerar **utförligt och nyanserat** om produktionsutveckling",
+      "3Eleven bedömer **med mycket god säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ]
+  }
+}

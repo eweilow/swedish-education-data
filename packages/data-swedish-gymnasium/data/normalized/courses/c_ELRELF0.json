@@ -1,0 +1,73 @@
+{
+  "name": "Elkraftteknik",
+  "code": "ELRELF0",
+  "focusAreas": {
+    "string": "Kursen elkraftteknik omfattar punkterna 1–7 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "entries": [
+      "1–7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Anslutning, losskoppling och funktionsprovning av apparater och utrustning.",
+          "2. Montering och flyttning i befintliga gruppledningar.",
+          "3. Elmotorer med enklare tillhörande startutrustningar.",
+          "4. Kopplingsutrustningar, apparatskåp och enklare styrutrustning.",
+          "5. Förläggning och anslutning av ledningar.",
+          "6. Ritning och schemaläsning inom området.",
+          "7. Föreskrifter, standarder och bestämmelser enligt gällande auktorisation.",
+          "8. Olika materials egenskaper och kapslingsklasser.",
+          "9. Mätning av vanligt förekommande elektriska storheter.",
+          "10. Begreppet elkvalitet och installationer för elektromagnetisk kompatibilitet.",
+          "11. Felsökning och underhåll av befintlig elutrustning.",
+          "12. Personligt skydd vid arbete med spänningssatta föremål och arbete nära spänning samt elfara för personer och egendom.",
+          "13. Kontroll inför drifttagning."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven utför med **visst** handlag enkelt elarbete inom området",
+      "0Eleven gör en **enkel** planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften",
+      "0Inför arbetet väljer eleven **i samråd** med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med **visst** handlag och på ett miljömässigt sätt",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga elinstallationer, samt löser och reparerar dem **i samråd** med handledare",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik",
+      "2Eleven kontrollerar säkerheten med **tillfredsställande** resultat, gör en **enkel** dokumentation av sitt arbete och tar i drift elinstallationen",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "C": [
+      "0Eleven utför med **gott** handlag enkelt elarbete inom området",
+      "0Eleven gör en **genomarbetad** planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften",
+      "0Inför arbetet väljer eleven **efter samråd** med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med **gott** handlag och på ett miljömässigt sätt",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga elinstallationer, samt löser och reparerar dem **efter samråd** med handledare",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik",
+      "2Eleven kontrollerar säkerheten med **tillfredsställande** resultat, gör en **noggrann** dokumentation av sitt arbete och tar i drift elinstallationen",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "A": [
+      "0Eleven utför med **mycket gott** handlag enkelt, **men även mer avancerat**, elarbete inom området",
+      "0Eleven gör en **genomarbetad** planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften",
+      "0Inför arbetet väljer eleven **efter samråd** med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med **mycket gott** handlag och på ett miljömässigt sätt",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga elinstallationer, samt löser och reparerar dem **efter samråd** med handledare",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik",
+      "2Eleven kontrollerar säkerheten med **gott** resultat, gör en **noggrann och utförlig** dokumentation av sitt arbete och tar i drift elinstallationen",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ]
+  }
+}

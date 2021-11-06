@@ -25,126 +25,51 @@
       }
     ]
   },
-  "knowledgeRequirements": [
-    [
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven planerar och organiserar **i samråd** med handledare produktion av konditoriprodukter utifrån beställning samt genomför arbetet metodiskt, hantverksmässigt och med tempo",
+      "0I sitt arbete använder eleven med **visst** handlag tillverkningsmetoder, redskap, maskiner och annan utrustning som är lämpliga för uppgiften",
+      "0Produkten är av **tillfredsställande** kvalitet i fråga om utseende och smak",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven följer recept och arbetsbeskrivningar",
+      "1I arbetet utför eleven ekonomiska kalkyler, redogör **översiktligt** för samband mellan råvaror, kvalitet och pris samt fastställer produktens pris",
+      "1Dessutom hanterar eleven **i samråd** med handledare råvarorna på lämpligt sätt",
+      "1När arbetet är utfört väljer eleven **med viss säkerhet** lämpligt förpackningsmaterial samt förpackar och märker den färdiga produkten",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar **översiktligt** arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet",
+      "2Dessutom utvärderar eleven arbetet och resultatet med **enkla** omdömen",
+      "2När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
     ],
-    [
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
+    "C": [
+      "0Eleven planerar och organiserar **efter samråd** med handledare produktion av konditoriprodukter utifrån beställning samt genomför arbetet metodiskt, hantverksmässigt och med tempo",
+      "0I sitt arbete använder eleven med **gott** handlag tillverkningsmetoder, redskap, maskiner och annan utrustning som är lämpliga för uppgiften",
+      "0Produkten är av **tillfredsställande** kvalitet i fråga om utseende och smak",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven följer recept och arbetsbeskrivningar",
+      "1I arbetet utför eleven ekonomiska kalkyler, redogör för samband mellan råvaror, kvalitet och pris samt fastställer produktens pris",
+      "1Dessutom hanterar eleven **efter samråd** med handledare råvarorna på lämpligt sätt",
+      "1När arbetet är utfört väljer eleven **med viss säkerhet** lämpligt förpackningsmaterial samt förpackar och märker den färdiga produkten",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar **utförligt** arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet",
+      "2Dessutom utvärderar eleven arbetet och resultatet med **nyanserade** omdömen",
+      "2När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
     ],
-    [
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1
+    "A": [
+      "0Eleven planerar och organiserar **efter samråd** med handledare produktion av konditoriprodukter samt genomför arbetet metodiskt, hantverksmässigt och med tempo",
+      "0I sitt arbete använder eleven med **mycket gott** handlag tillverkningsmetoder, redskap, maskiner och annan utrustning som är lämpliga för uppgiften",
+      "0Produkten är av **god** kvalitet i fråga om utseende och smak",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven följer recept och arbetsbeskrivningar",
+      "1I arbetet utför eleven ekonomiska kalkyler, redogör för samband mellan råvaror, kvalitet och pris samt fastställer produktens pris",
+      "1Dessutom hanterar eleven **efter samråd** med handledare råvarorna på lämpligt sätt",
+      "1När arbetet är utfört väljer eleven **med säkerhet** lämpligt förpackningsmaterial samt förpackar och märker den färdiga produkten",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar **utförligt och nyanserat** arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet",
+      "2Dessutom utvärderar eleven arbetet och resultatet med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**",
+      "2När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
     ]
-  ]
+  }
 }

@@ -1,0 +1,81 @@
+{
+  "name": "Processdatorsystem",
+  "code": "PROPRO0",
+  "focusAreas": {
+    "string": "Kursen processdatorsystem omfattar punkterna 1, 4 och 6–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 6.",
+    "entries": [
+      "1",
+      "4",
+      "6–9"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. HMI, dvs. användning av programvara för visualisering av en process med trender, historik och larmhantering.",
+          "2. Informationstekniska strukturer och nivåer i processindustrin samt hur olika fältbussar används i dessa nivåer med koppling till administrativa kontorsnät.",
+          "3. Distribuerade styrsystem med konfigurering av processkontrollerande enheter och programvaror för insamling av processdata.",
+          "4. Informationsteknik i processdatorsystem med upprättande av kommunikation mot processen med OPC-server (open connectivity), fältbuss eller ethernet.",
+          "5. Metoder för omvandling av analoga signaler till digitala värden och vice versa med upplösning, noggrannhet, ingenjörsstorhet, signalhantering och signalkonditionering.",
+          "6. Systematisk dokumentation i nätverk.",
+          "7. Säkerhet i processdatorsystem med skanntider, behörighetsinloggning, spårbarhet, redundans, realtidsoperativsystem (rtos), reglerfunktioner långt ut i anläggningen samt riskanalyser för informationsbortfall."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven redogör **översiktligt** för uppbyggnad, funktion och principer hos olika informationstekniska system och enheter",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven utför **i samråd** med handledare vanligt förekommande inkopplingar och konfigureringar för insamling av data i en automatiserad processanläggning med ett resultat som på ett **tillfredsställande** sätt uppfyller fastställda kvalitets- och miljökrav",
+      "1Dessutom visualiserar eleven med **tillfredsställande** resultat processen i realtid med ett gränssnitt",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven arbetar på ett sätt som är säkert både för eleven själv och andra",
+      "2I arbetet beskriver eleven **översiktligt** informationens väg från process till gränssnitt samt löser **enkla** datortekniska och informationstekniska problem med hjälp av mätningar, manualer och laborativt arbete",
+      "2I arbetet hanterar och vårdar eleven med **visst** handlag material, verktyg och övrig utrustning",
+      "2Eleven beskriver **översiktligt** hur standarder och föreskrifter styr val av utrustning och arbetssätt",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Efter utfört arbete gör eleven en **enkel** dokumentation i nätverk",
+      "3Eleven utvärderar sitt arbete med **enkla** omdömen",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ],
+    "C": [
+      "0Eleven redogör **utförligt** för uppbyggnad, funktion och principer hos olika informationstekniska system och enheter",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven utför **efter samråd** med handledarevanligt förekommande inkopplingar och konfigureringar för insamling av data i en automatiserad processanläggning med ett resultat som på ett **tillfredsställande** sätt uppfyller fastställda kvalitets- och miljökrav",
+      "1Dessutom visualiserar eleven med **tillfredsställande** resultat processen i realtid med ett gränssnitt",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven arbetar på ett sätt som är säkert både för eleven själv och andra",
+      "2I arbetet beskriver eleven **utförligt** informationens väg från process till gränssnitt samt löser datortekniska och informationstekniska problem med hjälp av mätningar, manualer och laborativt arbete",
+      "2I arbetet hanterar och vårdar eleven med **gott** handlag material, verktyg och övrig utrustning",
+      "2Eleven beskriver **utförligt** hur standarder och föreskrifter styr val av utrustning och arbetssätt",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Efter utfört arbete gör eleven en **noggrann** dokumentation i nätverk",
+      "3Eleven utvärderar sitt arbete med **nyanserade** omdömen",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ],
+    "A": [
+      "0Eleven redogör **utförligt och nyanserat** för uppbyggnad, funktion och principer hos olika informationstekniska system och enheter",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven utför **efter samråd** med handledare vanligt förekommande inkopplingar och konfigureringar för insamling av data i en automatiserad processanläggning med ett resultat som på ett **gott** sätt uppfyller fastställda kvalitets- och miljökrav",
+      "1Dessutom visualiserar eleven med **gott** resultat processen i realtid med ett gränssnitt",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven arbetar på ett sätt som är säkert både för eleven själv och andra",
+      "2I arbetet beskriver eleven **utförligt och nyanserat** informationens väg från process till gränssnitt samt löser **avancerade** datortekniska och informationstekniska problem med hjälp av mätningar, manualer och laborativt arbete",
+      "2I arbetet hanterar och vårdar eleven med **mycket gott** handlag material, verktyg och övrig utrustning",
+      "2Eleven beskriver **utförligt och nyanserat** hur standarder och föreskrifter styr val av utrustning och arbetssätt",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Efter utfört arbete gör eleven en **noggrann och utförlig** dokumentation i nätverk",
+      "3Eleven utvärderar sitt arbete med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ]
+  }
+}

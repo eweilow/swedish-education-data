@@ -1,0 +1,90 @@
+{
+  "name": "Elektromedicinsk teknik",
+  "code": "MEIELE0",
+  "focusAreas": {
+    "string": "Kursen elektromedicinsk teknik omfattar punkterna 1–9 under rubriken Ämnets syfte.",
+    "entries": [
+      "1–9"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Fysiologisk och neurofysiologisk utrustning för diagnostik och övervakning, datorstyrda utrustningar samt laserteknik och laserutrustningar.",
+          "2. Medicintekniska produkters användningsområden inom elektromedicin.",
+          "3. Fysikaliska samband och elektriska tillämpningar.",
+          "4. Elektromedicinsk historia samt introduktion i aktuella utvecklingsområden inom medicinsk teknik.",
+          "5. Grundläggande teknikfilosofi, till exempel etiska värderingar och genusstrukturer, samt hur den har påverkat och påverkar den elektromedicinska tekniken, dess användning och tillgänglighet.",
+          "6. Installation och driftsättning, service, reparation och förebyggande underhåll av elektromedicinsk utrustning.",
+          "7. Ritningar, tekniska instruktioner, kopplingsscheman och servicemanualer.",
+          "8. Mätteknik, schemaläsning och systematisk felsökning samt funktions- och säkerhetskontroller.",
+          "9. Säkerhetsbestämmelser, funktionskrav och rutiner.",
+          "10. Dokumentation av utförda åtgärder och administrativa rutiner.",
+          "11. Kommunikation med olika kategorier av sjukvårdspersonal.",
+          "12. Informationsteknik inom området med avseende på funktion, arbetssätt, patientsäkerhet och hantering av känslig information."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven beskriver **översiktligt** uppbyggnad och funktion hos elektromedicinsk utrustning samt hur den används inom sjukvården",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven installerar och driftsätter **i samråd** med handledare elektromedicinsk utrustning",
+      "1I arbetet läser och tolkar eleven **med viss säkerhet** ritningar, tekniska instruktioner och andra dokument",
+      "1Eleven utför också **med viss säkerhet** funktions- och säkerhetskontroll, underhåll och enkla servicearbeten på elektromedicinsk utrustning samt gör en **enkel** dokumentation av utförda arbeten",
+      "1I arbetet utför eleven **med viss säkerhet** mätningar och tekniska beräkningar samt gör en **enkel** bedömning av resultatets rimlighet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven hanterar **med viss säkerhet** utrustningar, mätinstrument och verktyg samt följer normer och säkerhetsbestämmelser",
+      "2Dessutom diskuterar eleven **översiktligt** risker vid användningen av elektromedicinsk utrustning samt hur man kan förebygga skador på person, egendom och miljö",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven anpassar **med viss säkerhet** sin kommunikation till användaren och använder **med viss säkerhet** elektromedicinska begrepp för att presentera sitt arbete",
+      "3Dessutom använder eleven **med viss säkerhet** datorn som verktyg för kommunikation, dokumentation och information inom området",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4Eleven utvärderar med **enkla** omdömen sin tekniska lösning utifrån kvalitet, säkerhet och miljö",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION",
+      "5När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "5THIS 5IS 5THE 5START 5OF 5SECTION"
+    ],
+    "C": [
+      "0Eleven beskriver **utförligt** uppbyggnad och funktion hos elektromedicinsk utrustning samt hur den används inom sjukvården",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven installerar och driftsätter **efter samråd** med handledare elektromedicinsk utrustning",
+      "1I arbetet läser och tolkar eleven **med viss säkerhet** ritningar, tekniska instruktioner och andra dokument",
+      "1Eleven utför också **med viss säkerhet** funktions- och säkerhetskontroll, underhåll och enkla servicearbeten på elektromedicinsk utrustning samt gör en **noggrann** dokumentation av utförda arbeten",
+      "1I arbetet utför eleven **med viss säkerhet** mätningar och tekniska beräkningar samt gör en **välgrundad** bedömning av resultatets rimlighet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven hanterar **med viss säkerhet** utrustningar, mätinstrument och verktyg samt följer normer och säkerhetsbestämmelser",
+      "2Dessutom diskuterar eleven **utförligt** risker vid användningen av elektromedicinsk utrustning samt hur man kan förebygga skador på person, egendom och miljö",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven anpassar **med viss säkerhet** sin kommunikation till användaren och använder **med viss säkerhet** elektromedicinska begrepp för att presentera sitt arbete",
+      "3Dessutom använder eleven **med viss säkerhet** datorn som verktyg för kommunikation, dokumentation och information inom området",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4Eleven utvärderar med **nyanserade** omdömen sin tekniska lösning utifrån kvalitet, säkerhet och miljö",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION",
+      "5När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "5THIS 5IS 5THE 5START 5OF 5SECTION"
+    ],
+    "A": [
+      "0Eleven beskriver **utförligt och nyanserat** uppbyggnad och funktion hos elektromedicinsk utrustning samt hur den används inom sjukvården",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven installerar och driftsätter **efter samråd** med handledare elektromedicinsk utrustning",
+      "1I arbetet läser och tolkar eleven **med säkerhet** ritningar, tekniska instruktioner och andra dokument",
+      "1Eleven utför också **med säkerhet** funktions- och säkerhetskontroll, underhåll och enkla servicearbeten på elektromedicinsk utrustning samt gör en **noggrann och utförlig** dokumentation av utförda arbeten",
+      "1I arbetet utför eleven **med säkerhet** mätningar och tekniska beräkningar samt gör en **välgrundad och nyanserad** bedömning av resultatets rimlighet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven hanterar **med säkerhet** utrustningar, mätinstrument och verktyg samt följer normer och säkerhetsbestämmelser",
+      "2Dessutom diskuterar eleven **utförligt och nyanserat** risker vid användningen av elektromedicinsk utrustning samt hur man kan förebygga skador på person, egendom och miljö",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven anpassar **med säkerhet** sin kommunikation till användaren och använder **med säkerhet** elektromedicinska begrepp för att presentera sitt arbete",
+      "3Dessutom använder eleven **med viss säkerhet** datorn som verktyg för kommunikation, dokumentation och information inom området",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4Eleven utvärderar med **nyanserade** omdömen sin tekniska lösning utifrån kvalitet, säkerhet och miljö **samt ger förslag på hur den tekniska lösningen kan förbättras**",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION",
+      "5När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "5THIS 5IS 5THE 5START 5OF 5SECTION"
+    ]
+  }
+}

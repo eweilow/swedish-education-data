@@ -1,0 +1,97 @@
+{
+  "name": "Projektering VVS 1",
+  "code": "TESPRO31",
+  "focusAreas": {
+    "string": "Kursen projektering VVS 1 omfattar punkterna 1, 5 och 7–10 under rubriken Ämnets syfte, med särskild betoning på punkt 8.",
+    "entries": [
+      "1",
+      "5",
+      "7–10"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Beskrivningsteknik, till exempel för att formulera beställarens krav på den färdiga produkten och dess delar samt gränsdragning mellan yrkeskategorier.",
+          "2. AMA, dess struktur, användningsform och funktion i en teknisk beskrivning.",
+          "3. VVS-områdets regelverk och standarder och deras tillämpning i arbetet med planering, projektering, konstruktion och dokumentation.",
+          "4. Miljöns betydelse vid installationer med avseende på till exempel energieffektivitet, estetik, säkerhet och tillgänglighet. Arbetsmiljö.",
+          "5. Teknisk kommunikation, till exempel offerter och avtal.",
+          "6. Teknisk dokumentation, till exempel relationshandlingar och dokumentation kring besiktningar.",
+          "7. Energiprestanda med utgångspunkt i energieffektivitet.",
+          "8. BIM – dess konsekvenser för projekteringsarbetet.",
+          "9. Datorstödda tillämpningar för till exempel kalkylering och tidplanering.",
+          "10. Ritningsläsning och mängdning, såväl manuellt som med datorstöd.",
+          "11. Säkerhet, till exempel heta arbeten, ställningsbyggande och arbete från stege."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven planerar, projekterar, konstruerar och dokumenterar med datorstöd och **i samråd** med handledare anläggningar och tekniska system inom VVS-området",
+      "0I planeringen tolkar eleven **med viss säkerhet** instruktioner, ritningar och underlag",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven utför med **visst** handlag konstruktions- och projekteringsarbeten, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer",
+      "1Resultatet av arbetet är **tillfredsställande** utifrån givna kvalitetskrav",
+      "1I arbetet använder eleven **med viss säkerhet** instruktioner och tillverkningsunderlag och håller god ordning på arbetsplatsen",
+      "1Dessutom använder eleven **med viss säkerhet** datorbaserade tillämpningar",
+      "1Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem **i samråd** med handledare",
+      "1När arbetsuppgiften är utförd gör eleven en **enkel** dokumentation av arbetsprocessen och resultatet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven samarbetar i sitt arbete med andra samt för **enkla** resonemang om andras lösningar i samband med projekteringsarbetet",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven redogör **översiktligt** för arbetsprocessen, resultatet, eventuella avvikelser från specifikationen samt den egna arbetsinsatsen",
+      "3Dessutom utvärderar eleven sitt arbete och resultat med **enkla** omdömen",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4Eleven redogör **översiktligt** för problematiken kring gränsdragningen mellan olika aktörers ansvarsområden",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION",
+      "5När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "5THIS 5IS 5THE 5START 5OF 5SECTION"
+    ],
+    "C": [
+      "0Eleven planerar, projekterar, konstruerar och dokumenterar med datorstöd och **efter samråd** med handledare anläggningar och tekniska system inom VVS-området",
+      "0I planeringen tolkar eleven **med viss säkerhet** instruktioner, ritningar och underlag",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven utför med **gott** handlag konstruktions- och projekteringsarbeten, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer",
+      "1Resultatet av arbetet är **tillfredsställande** utifrån givna kvalitetskrav",
+      "1I arbetet använder eleven **med viss säkerhet** instruktioner och tillverkningsunderlag och håller god ordning på arbetsplatsen",
+      "1Dessutom använder eleven **med viss säkerhet** datorbaserade tillämpningar",
+      "1Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem **efter samråd** med handledare",
+      "1När arbetsuppgiften är utförd gör eleven en **noggrann** dokumentation av arbetsprocessen och resultatet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven samarbetar i sitt arbete med andra samt för **välgrundade** resonemang om andras lösningar i samband med projekteringsarbetet",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven redogör **utförligt** för arbetsprocessen, resultatet, eventuella avvikelser från specifikationen samt den egna arbetsinsatsen",
+      "3Dessutom utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4Eleven redogör **översiktligt** för problematiken kring gränsdragningen mellan olika aktörers ansvarsområden",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "5THIS 5IS 5THE 5START 5OF 5SECTION"
+    ],
+    "A": [
+      "0Eleven planerar, projekterar, konstruerar och dokumenterar med datorstöd och **efter samråd** med handledare anläggningar och tekniska system inom VVS-området",
+      "0I planeringen tolkar eleven **med säkerhet** instruktioner, ritningar och underlag",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven utför med **mycket gott** handlag konstruktions- och projekteringsarbeten, i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer",
+      "1Resultatet av arbetet är **gott** utifrån givna kvalitetskrav",
+      "1I arbetet använder eleven **med säkerhet** instruktioner och tillverkningsunderlag och håller god ordning på arbetsplatsen",
+      "1Dessutom använder eleven **med säkerhet** datorbaserade tillämpningar",
+      "1Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem **efter samråd** med handledare",
+      "1När arbetsuppgiften är utförd gör eleven en **noggrann och utförlig** dokumentation av arbetsprocessen och resultatet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven samarbetar i sitt arbete med andra samt för **välgrundade och nyanserade** resonemang om andras lösningar i samband med projekteringsarbetet",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven redogör **utförligt och nyanserat** för arbetsprocessen, resultatet, eventuella avvikelser från specifikationen samt den egna arbetsinsatsen",
+      "3Dessutom utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4Eleven redogör **översiktligt** för problematiken kring gränsdragningen mellan olika aktörers ansvarsområden",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "5THIS 5IS 5THE 5START 5OF 5SECTION"
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Processteknik – kemi 2",
+  "code": "PREKEM32",
+  "focusAreas": {
+    "string": "Kursen processteknik – kemi 2 omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+    "entries": [
+      "1–8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Standarder och föreskrifter inom området kemisk industri och pappersindustri.",
+          "2. Tekniker för pappersindustri och petrokemi.",
+          "3. Reaktorfysik och förbränningsteknik.",
+          "4. Processens påverkan på miljön. Åtgärder för att minimera miljöpåverkan.",
+          "5. Processreglering och distribuerade styrsystem.",
+          "6. Störstorheter som påverkar reglerprocessen.",
+          "7. Styrning och mätning av olika förlopp i produktionsutrustning.",
+          "8. Organisk kemi med tillämpning i kemisk processindustri.",
+          "9. Kvalitativa och kvantitativa metoder för kemisk analys.",
+          "10. Planering och genomförande av experimentella undersökningar och observationer samt formulering och prövning av hypoteser i samband med dessa.",
+          "11. Kontroll av råvara, mellanprodukt och färdigprodukt med hjälp av mät- och analysinstrument.",
+          "12. Kvalitetskrav gentemot den kemiska processindustrin samt gällande säkerhets- och miljökrav.",
+          "13. Händelseförloppet mot kemiska tillverkningsprocesser, materialhantering, kontroll och underhållsrutiner.",
+          "14. Mätmetoder och mätdon.",
+          "15. Styrdon och deras karakteristik."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven redogör **övergripande** för uppbyggnad och funktion inom processindustrin med inriktning mot kemiteknik och pappersindustri samt gör **välgrundade** kopplingar till naturvetenskapliga principer",
+      "0Eleven resonerar **övergripande** om olika typer av styrdon och deras karakteristik",
+      "0I sitt arbete förhåller sig eleven till de säkerhetsföreskrifter och miljökrav som finns inom området",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven använder **med säkerhet** metoder för kemisk analys och ger utifrån dem **välgrundade** förslag för att optimera driften och förbättra processen samt resonerar **övergripande** om processens inverkan på miljön",
+      "1Eleven genomför **med säkerhet och efter samråd** med handledare laborationer och mätningar för råvarans väg genom processen så att de uppställda kvalitetskraven upprätthålls",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven redogör **övergripande** för händelseförloppet i kemiska tillverkningsprocesser samt genomför och kontrollerar underhållsrutiner **med säkerhet**",
+      "2Eleven planerar **efter samråd** med handledare vanligt förekommande arbetsuppgifter i en anläggning",
+      "2I arbetet samverkar och kommunicerar eleven **med säkerhet** med andra",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven resonerar **övergripande** om begrepp, modeller, teorier och arbetsmetoder i olika kemiska tillverkningsprocesser",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "C": [
+      "0Eleven redogör **utförligt** för uppbyggnad och funktion inom processindustrin med inriktning mot kemiteknik och pappersindustri samt gör **välgrundade och nyanserade** kopplingar till naturvetenskapliga principer",
+      "0Eleven resonerar **utförligt** om olika typer av styrdon och deras karakteristik",
+      "0I sitt arbete förhåller sig eleven till de säkerhetsföreskrifter och miljökrav som finns inom området",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven använder **med god säkerhet** metoder för kemisk analys och ger utifrån dem **välgrundade och nyanserade** förslag för att optimera driften och förbättra processen samt resonerar **utförligt** om processens inverkan på miljön",
+      "1Eleven genomför **med god säkerhet och självständigt efter samråd** med handledare laborationer och mätningar för råvarans väg genom processen så att de uppställda kvalitetskraven upprätthålls",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven redogör **utförligt** för händelseförloppet i kemiska tillverkningsprocesser samt genomför och kontrollerar underhållsrutiner **med god säkerhet**",
+      "2Eleven planerar **självständigt efter samråd** med handledare vanligt förekommande arbetsuppgifter i en anläggning",
+      "2I arbetet samverkar och kommunicerar eleven **med god säkerhet** med andra",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven resonerar **utförligt** om begrepp, modeller, teorier och arbetsmetoder i olika kemiska tillverkningsprocesser",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "A": [
+      "0Eleven redogör **utförligt och nyanserat** för uppbyggnad och funktion inom processindustrin med inriktning mot kemiteknik och pappersindustri samt gör **välgrundade och nyanserade** kopplingar till naturvetenskapliga principer",
+      "0Eleven resonerar **utförligt och nyanserat** om olika typer av styrdon och deras karakteristik",
+      "0I sitt arbete förhåller sig eleven till de säkerhetsföreskrifter och miljökrav som finns inom området",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven genomför **med mycket god säkerhet** metoder för kemisk analys och ger utifrån dem **välgrundade och nyanserade** förslag för att optimera driften och förbättra processen samt resonerar **utförligt och nyanserat** om processens inverkan på miljön",
+      "1Eleven genomför **med mycket god säkerhet självständigt** laborationer och mätningar för råvarans väg genom processen så att de uppställda kvalitetskraven upprätthålls",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven redogör **utförligt och nyanserat** för händelseförloppet i kemiska tillverkningsprocesser samt genomför och kontrollerar **avancerade** underhållsrutiner **med mycket god säkerhet**",
+      "2Eleven planerar **självständigt** vanligt förekommande praktiska arbetsuppgifter i en anläggning",
+      "2I arbetet samverkar och kommunicerar eleven **med mycket god säkerhet** med andra",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven resonerar **utförligt och nyanserat** om begrepp, modeller, teorier och arbetsmetoder i olika kemiska tillverkningsprocesser",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ]
+  }
+}

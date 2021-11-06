@@ -1,0 +1,60 @@
+{
+  "name": "BIM-samordning",
+  "code": "SAHBIM3",
+  "focusAreas": {
+    "string": "Kursen BIM-samordning omfattar punkterna 6–9 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "entries": [
+      "6–9"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. BIM (Building Information Modelling).",
+          "2. Projektering, förvaltning, projektstyrning, ledarskap, organisation och kommunikation enligt BIM-metodik.",
+          "3. 3D-projektering och samgranskning.",
+          "4. Modellinformation och databaser i BIM-projektering.",
+          "5. Avtalsrätt och ABK (allmänna bestämmelser för konsultuppdrag) inom arkitekt- och ingenjörsverksamhet.",
+          "6. Hållbart byggande. Effekt- och energibehov. Ekonomi och material."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven redogör **översiktligt** för hur BIM påverkar projektering, produktion och förvaltning av byggnaden",
+      "0Eleven för **enkla** resonemang om projektstyrning, ledarskap, organisation, kommunikation och samgranskning enligt BIM-metodiken",
+      "0Eleven redogör **översiktligt** för hur datorverktyg används vid hantering av virtuella modeller",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven redogör **översiktligt** för vad som styr en projektering gällande avtal och kontrakt",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven redogör **översiktligt** för hur allmän avtalsrätt och ABK påverkar projekteringens utformning",
+      "2Eleven gör **enkla** jämförelser av energi- och effektbehov, ekonomi och material baserade på BIM-projektering",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ],
+    "C": [
+      "0Eleven redogör **utförligt** för hur BIM påverkar projektering, produktion och förvaltning av byggnaden",
+      "0Eleven för **välgrundade** resonemang om projektstyrning, ledarskap, organisation, kommunikation och samgranskning enligt BIM-metodiken",
+      "0Eleven redogör **utförligt** för hur datorverktyg används vid hantering av virtuella modeller",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven redogör **utförligt** för vad som styr en projektering gällande avtal och kontrakt",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven redogör **utförligt** för hur allmän avtalsrätt och ABK påverkar projekteringens utformning",
+      "2Eleven gör **noggranna** jämförelser av energi- och effektbehov, ekonomi och material baserade på BIM-projektering",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ],
+    "A": [
+      "0Eleven redogör **utförligt och nyanserat** för hur BIM påverkar projektering, produktion och förvaltning av byggnaden",
+      "0Eleven för **välgrundade och nyanserade** resonemang om projektstyrning, ledarskap, organisation, kommunikation och samgranskning enligt BIM-metodiken",
+      "0Eleven redogör **utförligt och nyanserat** för hur datorverktyg används vid hantering av virtuella modeller",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven redogör **utförligt och nyanserat** för vad som styr en projektering gällande avtal och kontrakt",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven redogör **utförligt och nyanserat** för hur allmän avtalsrätt och ABK påverkar projekteringens utformning",
+      "2Eleven gör **noggranna och utförliga** jämförelser av energi- och effektbehov, ekonomi och material baserade på BIM-projektering",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ]
+  }
+}

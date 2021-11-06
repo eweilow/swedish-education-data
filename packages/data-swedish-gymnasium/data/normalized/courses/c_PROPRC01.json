@@ -1,0 +1,87 @@
+{
+  "name": "Processmätteknik 1",
+  "code": "PROPRC01",
+  "focusAreas": {
+    "string": "Kursen processmätteknik 1 omfattar punkterna 1, 3–4 och 7–10 under rubriken Ämnets syfte.",
+    "entries": [
+      "1",
+      "3–4",
+      "7–10"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Metoder för analoga och digitala signalöverföringar. Metoder för att bekämpa störningar.",
+          "2. Metoder för mätning av temperatur, tryck, nivå och flöde.",
+          "3. Metoder och utrustning för att testa och kalibrera mätningar av till exempel temperatur, tryck, nivå och flöde.",
+          "4. Metoder för mätning av varvtal och krafter.",
+          "5. Signalmätmetoder på automatiserade processanläggningar i drift.",
+          "6. Funktion och konstruktion hos olika pumpar, ventiler och filter.",
+          "7. Planering och genomförande av enklare underhållsarbete i en processanläggning, till exempel montering och inkoppling av mätdon.",
+          "8. Laborativa mätövningar med givare, omvandlare, signalomvandlare och smartgivare.",
+          "9. Systematiserade dokumentationsmetoder.",
+          "10. Standarder och föreskrifter inom området, till exempel ATEX-direktiven."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven redogör **översiktligt** för uppbyggnad, funktion och principer hos olika mättekniska system",
+      "0Dessutom redogör eleven **översiktligt** för beteckningar och några mätmetoder för olika fysiska storheter och kemiska egenskaper",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven utför **i samråd** med handledarenågon vanlig underhållsteknisk arbetsuppgift i en automatiserad processanläggning med ett resultat som på ett **tillfredsställande** sätt uppfyller fastställda kvalitets- och miljökrav",
+      "1Dessutom utför eleven i enkla automatiserade processanläggningar **enkla** mätningar av fysikaliska storheter och kemiska egenskaper",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven arbetar på ett sätt som är säkert både för eleven själv och andra",
+      "2I arbetet beskriver eleven **översiktligt** processens mättekniska funktioner samt löser **enkla** mättekniska problem med hjälp av dokumentation, beräkningar, konfigureringar, mätinstrument och datorer",
+      "2I arbetet hanterar och vårdar eleven med **visst** handlag material, verktyg och övrig utrustning",
+      "2Eleven beskriver **översiktligt** hur standarder och föreskrifter styr val av utrustning och arbetssätt",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Efter utfört arbete gör eleven en **enkel** dokumentation av utfört arbete",
+      "3Eleven utvärderar sitt arbete med **enkla** omdömen",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ],
+    "C": [
+      "0Eleven redogör **utförligt** för uppbyggnad, funktion och principer hos olika mättekniska system",
+      "0Dessutom redogör eleven **utförligt** för beteckningar och några mätmetoder för olika fysiska storheter och kemiska egenskaper",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven utför **efter samråd** med handledarenågon vanlig underhållsteknisk arbetsuppgift i en automatiserad processanläggning med ett resultat som på ett **tillfredsställande** sätt uppfyller fastställda kvalitets- och miljökrav",
+      "1Dessutom utför eleven i enkla automatiserade processanläggningar mätningar av fysikaliska storheter och kemiska egenskaper",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven arbetar på ett sätt som är säkert både för eleven själv och andra",
+      "2I arbetet beskriver eleven **utförligt** processens mättekniska funktioner samt löser mättekniska problem med hjälp av dokumentation, beräkningar, konfigureringar, mätinstrument och datorer",
+      "2I arbetet hanterar och vårdar eleven med **gott** handlag material, verktyg och övrig utrustning",
+      "2Eleven beskriver **utförligt** hur standarder och föreskrifter styr val av utrustning och arbetssätt",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Efter utfört arbete gör eleven en **noggrann** dokumentation av utfört arbete",
+      "3Eleven utvärderar sitt arbete med **nyanserade** omdömen",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ],
+    "A": [
+      "0Eleven redogör **utförligt och nyanserat** för uppbyggnad, funktion och principer hos olika mättekniska system",
+      "0Dessutom redogör eleven **utförligt och nyanserat** för beteckningar och några mätmetoder för olika fysiska storheter och kemiska egenskaper",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven utför **efter samråd** med handledarenågon vanlig underhållsteknisk arbetsuppgift i en automatiserad processanläggning med ett resultat som på ett **gott** sätt uppfyller fastställda kvalitets- och miljökrav",
+      "1Dessutom utför eleven i enkla automatiserade processanläggningar **avancerade** mätningar av fysikaliska storheter och kemiska egenskaper",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven arbetar på ett sätt som är säkert både för eleven själv och andra",
+      "2I arbetet beskriver eleven **utförligt och nyanserat** processens mättekniska funktioner samt löser **avancerade** mättekniska problem med hjälp av dokumentation, beräkningar, konfigureringar, mätinstrument och datorer",
+      "2I arbetet hanterar och vårdar eleven med **mycket gott** handlag material, verktyg och övrig utrustning",
+      "2Eleven beskriver **utförligt och nyanserat** hur standarder och föreskrifter styr val av utrustning och arbetssätt",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Efter utfört arbete gör eleven en **noggrann och utförlig** dokumentation av utfört arbete",
+      "3Eleven utvärderar sitt arbete med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ]
+  }
+}

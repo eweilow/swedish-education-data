@@ -1,0 +1,106 @@
+{
+  "name": "Datorstyrd produktion 2",
+  "code": "DARDAT02",
+  "focusAreas": {
+    "string": "Kursen datorstyrd produktion 2 omfattar punkterna 1, 4–6, och 10 under rubriken Ämnets syfte.",
+    "entries": [
+      "1",
+      "4–6",
+      "10"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Planering av och programmering för produktion i datorstyrd utrustning.",
+          "2. Tolkning och överföring av tillverkningsunderlag och ritningar till utrustning genom manuell programmering och med dialogbaserat programmeringsstöd.",
+          "3. Programmeringsstöd, till exempel cykler, subprogram och konturprogrammering.",
+          "4. Justeringar i program och maskininställningar.",
+          "5. Val av utrustning, verktyg och metod för att uppnå rätt kvalitet på tillverkade produkter.",
+          "6. Felsökning och systematiskt underhåll.",
+          "7. Föreskrifter för arbetsmiljö samt person- och maskinsäkerhet.",
+          "8. Kontroll, bedömning och dokumentation av kvaliteten på utfört arbete."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven planerar och organiserar programmering med styrsystemets stödfunktioner samt simulering och testning i datorstyrd produktionsutrustning **i samråd** med handledare",
+      "0Dessutom planerar och organiserar eleven **i samråd** med handledare iordningställande av och arbete med datorstyrd produktionsutrustning",
+      "0I planeringen tolkar eleven **med viss säkerhet** instruktioner och tillverkningsunderlag",
+      null,
+      "0Vidare väljer eleven **i samråd** med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven utför med noggrannhet och **i samråd** med handledare programmering med hjälp av styrsystemets stödfunktioner, simulering och testning samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter, givna instruktioner och kravspecifikationer",
+      "1Resultatet av arbetet är **tillfredsställande** utifrån givna kvalitetskrav",
+      "1I arbetet använder eleven **med viss säkerhet** instruktioner och tillverkningsunderlag",
+      "1Eleven hanterar material, utrustning, verktyg och maskiner med **visst** handlag och håller god ordning på arbetsplatsen",
+      "1Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön",
+      "1Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem **i samråd** med handledare",
+      "1Dessutom vårdar eleven **med viss säkerhet** utrustningen enligt instruktion",
+      "1När arbetsuppgiften är utförd gör eleven en **enkel** dokumentation av arbetsprocessen och resultatet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven redogör **översiktligt** för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat",
+      "2Eleven redogör **översiktligt** för eventuella avvikelser från specifikationen och den egna arbetsinsatsen",
+      "2Dessutom utvärderar eleven sitt arbete och resultat med **enkla** omdömen",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven samarbetar i sitt arbete med andra samt använder **med viss säkerhet** korrekt fackspråk",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ],
+    "C": [
+      "0Eleven planerar och organiserar programmering med styrsystemets stödfunktioner samt simulering och testning i datorstyrd produktionsutrustning **efter samråd** med handledare",
+      "0Dessutom planerar och organiserar eleven **efter samråd** med handledare iordningställande av och arbete med datorstyrd produktionsutrustning",
+      "0I planeringen tolkar eleven **med viss säkerhet** instruktioner och tillverkningsunderlag",
+      null,
+      "0Vidare väljer eleven **efter samråd** med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven utför med noggrannhet och **efter samråd** med handledare programmering med hjälp av styrsystemets stödfunktioner, simulering och testning samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter, givna instruktioner och kravspecifikationer",
+      "1Resultatet av arbetet är **tillfredsställande** utifrån givna kvalitetskrav",
+      "1I arbetet använder eleven **med viss säkerhet** instruktioner och tillverkningsunderlag",
+      "1Eleven hanterar material, utrustning, verktyg och maskiner med **gott** handlag och håller god ordning på arbetsplatsen",
+      "1Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön",
+      "1Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem **efter samråd** med handledare",
+      "1Dessutom vårdar eleven **med viss säkerhet** utrustningen enligt instruktion",
+      "1När arbetsuppgiften är utförd gör eleven en **noggrann** dokumentation av arbetsprocessen och resultatet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven redogör **utförligt** för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat",
+      "2Eleven redogör **utförligt** för eventuella avvikelser från specifikationen och den egna arbetsinsatsen",
+      "2Dessutom utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven samarbetar i sitt arbete med andra samt använder **med viss säkerhet** korrekt fackspråk",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ],
+    "A": [
+      "0Eleven planerar och organiserar programmering med styrsystemets stödfunktioner samt simulering och testning i datorstyrd produktionsutrustning **efter samråd** med handledare",
+      "0Dessutom planerar och organiserar eleven **efter samråd** med handledare iordningställande av och arbete med datorstyrd produktionsutrustning",
+      "0I planeringen tolkar eleven **med säkerhet** instruktioner och tillverkningsunderlag",
+      "0**Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det**",
+      "0Vidare väljer eleven **efter samråd** med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven utför med noggrannhet och **efter samråd** med handledare programmering med styrsystemets stödfunktioner, simulering och testning samt iordningställande av och arbete med datorstyrd produktionsutrustning i enlighet med säkerhetsföreskrifter, givna instruktioner och kravspecifikationer",
+      "1Resultatet av arbetet är **gott** utifrån givna kvalitetskrav",
+      "1I arbetet använder eleven **med säkerhet** instruktioner och tillverkningsunderlag",
+      "1Eleven hanterar material, utrustning, verktyg och maskiner med **mycket gott** handlag och håller god ordning på arbetsplatsen",
+      "1Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön",
+      "1Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem **efter samråd** med handledare",
+      "1Dessutom vårdar eleven **med säkerhet** utrustningen enligt instruktion",
+      "1När arbetsuppgiften är utförd gör eleven en **noggrann och utförlig** dokumentation av arbetsprocessen och resultatet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven redogör **utförligt och nyanserat** för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat",
+      "2Eleven redogör **utförligt och nyanserat** för eventuella avvikelser från specifikationen och den egna arbetsinsatsen",
+      "2Dessutom utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven samarbetar i sitt arbete med andra samt använder **med säkerhet** korrekt fackspråk",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Elmätteknik 1",
+  "code": "ELÄELM01",
+  "focusAreas": {
+    "string": "Kursen elmätteknik 1 omfattar punkterna 1–2, 4 och 6–7 under rubriken Ämnets syfte.",
+    "entries": [
+      "1–2",
+      "4",
+      "6–7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Grundläggande mättekniska begrepp, till exempel definitioner av måttenheter.",
+          "2. Oscilloskop och multimeter, funktion och användningsområden. Användning av oscilloskop och multimeter för mätning av elektrisk ström, elektrisk spänning samt resistans med fokus på storlek och fasläge.",
+          "3. Olika typer av mätgivare. Grundläggande egenskaper och användningsområden. Val av mätgivare.",
+          "4. Metoder för analys av mätresultat samt mätresultats osäkerhet.",
+          "5. Grundläggande standarder och metoder för dokumentation av mätresultat."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven redogör **översiktligt** för grundläggande begrepp inom området mätteknik",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven använder **i samråd** med handledare oscilloskop och multimeter för att mäta ström, spänning och impedans samt dokumenterar med **tillfredsställande** resultat dessa storheters variation i tiden enligt gällande standarder",
+      "1Eleven väljer mätgivare och använder den **med viss säkerhet**",
+      "1Dessutom motiverar eleven **översiktligt** sitt val av mätgivare",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven gör en **enkel** tolkning av sina mätresultat samt en **enkel** dokumentation av dem",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "C": [
+      "0Eleven redogör **utförligt** för grundläggande begrepp inom området mätteknik",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven använder **efter samråd** med handledare oscilloskop och multimeter för att mäta ström, spänning och impedans samt dokumenterar med **tillfredsställande** resultat dessa storheters variation i tiden enligt gällande standarder",
+      "1Eleven väljer mätgivare och använder den **med viss säkerhet**",
+      "1Dessutom motiverar eleven **utförligt** sitt val av mätgivare",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven gör en tolkning av sina mätresultat samt en **noggrann** dokumentation av dem",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "A": [
+      "0Eleven redogör **utförligt och nyanserat** för grundläggande begrepp inom området mätteknik",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven använder **efter samråd** med handledare oscilloskop och multimeter för att mäta ström, spänning och impedans samt dokumenterar med **gott** resultat dessa storheters variation i tiden enligt gällande standarder",
+      "1Eleven väljer mätgivare och använder den **med säkerhet**",
+      "1Dessutom motiverar eleven **utförligt och nyanserat** sitt val av mätgivare",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven gör en **komplex** tolkning av sina mätresultat samt en **noggrann och utförlig** dokumentation av dem",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ]
+  }
+}

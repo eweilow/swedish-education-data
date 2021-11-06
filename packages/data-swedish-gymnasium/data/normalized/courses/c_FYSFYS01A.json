@@ -1,0 +1,144 @@
+{
+  "name": "Fysik 1a",
+  "code": "FYSFYS01a",
+  "focusAreas": {
+    "string": "Kursen fysik 1a omfattar punkterna 1–5 under rubriken Ämnets syfte.",
+    "entries": [
+      "1–5"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Rörelse och krafter",
+        "rows": [
+          "1. Hastighet, rörelsemängd och acceleration för att beskriva rörelse.",
+          "2. Krafter som orsak till förändring av hastighet och rörelsemängd. Impuls.",
+          "3. Jämvikt och linjär rörelse i homogena gravitationsfält och elektriska fält.",
+          "4. Tryck, tryckvariationer och Arkimedes princip.",
+          "5. Orientering om Einsteins beskrivning av rörelse vid höga hastigheter: Einsteins postulat, tidsdilatation och relativistisk energi.",
+          "6. Orientering om aktuella modeller för beskrivning av materiens minsta beståndsdelar och av de fundamentala krafterna samt om hur modellerna har vuxit fram."
+        ]
+      },
+      {
+        "title": "Energi och energiresurser",
+        "rows": [
+          "1. Arbete, effekt, potentiell energi och rörelseenergi för att beskriva olika energiformer: mekanisk, termisk, elektrisk och kemisk energi samt strålnings- och kärnenergi.",
+          "2. Energiprincipen, entropi och verkningsgrad för att beskriva energiomvandling, energikvalitet och energilagring.",
+          "3. Termisk energi: inre energi, värmekapacitet, värmetransport, temperatur och fasomvandlingar.",
+          "4. Elektrisk energi: elektrisk laddning, fältstyrka, potential, spänning, ström och resistans.",
+          "5. Kärnenergi: atomkärnans struktur och bindningsenergi, den starka kraften, massa-energiekvivalensen, kärnreaktioner, fission och fusion.",
+          "6. Energiresurser och energianvändning för ett hållbart samhälle."
+        ]
+      },
+      {
+        "title": "Strålning inom medicin och teknik",
+        "rows": [
+          "1. Radioaktivt sönderfall, joniserande strålning, partikelstrålning, halveringstid och aktivitet.",
+          "2. Orientering om elektromagnetisk strålning och ljusets partikelegenskaper.",
+          "3. Växelverkan mellan olika typer av strålning och biologiska system, absorberad och ekvivalent dos. Strålsäkerhet.",
+          "4. Tillämpningar inom medicin och teknik."
+        ]
+      },
+      {
+        "title": "Klimat- och väderprognoser",
+        "rows": [
+          "1. Ideala gaslagen som en modell för att beskriva atmosfärens fysik.",
+          "2. Orientering om hur fysikaliska modeller och mätmetoder används för att göra prognoser för klimat och väder.",
+          "3. Prognosers tillförlitlighet och begränsningar."
+        ]
+      },
+      {
+        "title": "Fysikens karaktär, arbetssätt och matematiska metoder",
+        "rows": [
+          "1. Vad som kännetecknar en naturvetenskaplig frågeställning.",
+          "2. Hur modeller och teorier utgör förenklingar av verkligheten och kan förändras över tid.",
+          "3. Det experimentella arbetets betydelse för att testa, omvärdera och revidera hypoteser, teorier och modeller.",
+          "4. Avgränsning och studier av problem med hjälp av fysikaliska resonemang och matematisk modellering innefattande linjära ekvationer, potens- och exponentialekvationer, funktioner och grafer samt trigonometri och vektorer.",
+          "5. Planering och genomförande av experimentella undersökningar och observationer samt formulering och prövning av hypoteser i samband med dessa.",
+          "6. Bearbetning och utvärdering av data och resultat med hjälp av analys av grafer, enhetsanalys och storleksuppskattningar.",
+          "7. Utvärdering av resultat och slutsatser genom analys av metodval, arbetsprocess och felkällor.",
+          "8. Ställningstaganden i samhällsfrågor utifån fysikaliska förklaringsmodeller, till exempel frågor om hållbar utveckling."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven redogör **översiktligt** för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden",
+      "0Eleven använder dessa **med viss säkerhet** för att söka svar på frågor samt för att beskriva och **exemplifiera** fysikaliska fenomen och samband",
+      "0Utifrån **något** exempel redogör eleven **översiktligt** för hur fysikens modeller och teorier utvecklas",
+      "0Eleven värderar också modellers giltighet och begränsningar med **enkla** omdömen",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven identifierar, analyserar och löser **enkla** problem i **bekanta situationer** med **tillfredsställande** resultat",
+      "1Detta gäller såväl i det teoretiska som i det praktiska arbetet",
+      "1I arbetet formulerar eleven relevanta hypoteser och formulerar **med viss säkerhet enkla** egna frågor",
+      "1Eleven planerar och genomför **i samråd** med handledare experiment och observationer på ett tillfredsställande sätt",
+      "1Dessutom hanterar eleven material och utrustning på ett säkert sätt",
+      "1Vidare tolkar eleven sina resultat, utvärderar sina metoder med **enkla** omdömen och motiverar sina slutsatser med **enkla** resonemang",
+      null,
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven diskuterar **översiktligt** frågor som rör fysikens betydelse för individ och samhälle",
+      "2I diskussionerna för eleven fram **enkla** argument och redogör **översiktligt** för konsekvenser av **något** tänkbart ställningstagande",
+      null,
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven använder **med viss säkerhet** ett naturvetenskapligt språk och anpassar **till viss del** sin kommunikation till syfte och sammanhang",
+      "3Dessutom använder eleven olika typer av källor och gör **enkla** bedömningar av informationens och källornas trovärdighet och relevans",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ],
+    "C": [
+      "0Eleven redogör **utförligt** för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden",
+      "0Eleven använder dessa **med viss säkerhet** för att söka svar på frågor samt för att beskriva och **exemplifiera** fysikaliska fenomen och samband",
+      "0Utifrån **några** exempel redogör eleven **utförligt** för hur fysikens modeller och teorier utvecklas",
+      "0Eleven värderar också modellers giltighet och begränsningar med **enkla** omdömen",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven identifierar, analyserar och löser **komplexa** problem i **bekanta situationer** med **tillfredsställande** resultat",
+      "1Detta gäller såväl i det teoretiska som i det praktiska arbetet",
+      "1I arbetet formulerar eleven relevanta hypoteser och formulerar **med viss säkerhet** egna frågor",
+      "1Eleven planerar och genomför **efter samråd** med handledare experiment och observationer på ett tillfredsställande sätt",
+      "1Dessutom hanterar eleven material och utrustning på ett säkert sätt",
+      "1Vidare tolkar eleven sina resultat, utvärderar sina metoder med **enkla** omdömen och motiverar sina slutsatser med **välgrundade** resonemang",
+      null,
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven diskuterar **utförligt** frågor som rör fysikens betydelse för individ och samhälle",
+      "2I diskussionerna för eleven fram **välgrundade** argument och redogör **utförligt** för konsekvenser av **något** tänkbart ställningstagande",
+      null,
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven använder **med viss säkerhet** ett naturvetenskapligt språk och anpassar **till stor del** sin kommunikation till syfte och sammanhang",
+      "3Dessutom använder eleven olika typer av källor och gör **välgrundade** bedömningar av informationens och källornas trovärdighet och relevans",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ],
+    "A": [
+      "0Eleven redogör **utförligt och nyanserat** för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden",
+      "0Eleven använder dessa **med säkerhet** för att söka svar på frågor samt för att beskriva och **generalisera kring** fysikaliska fenomen och samband",
+      "0Utifrån **några** exempel redogör eleven **utförligt och nyanserat** för hur fysikens modeller och teorier utvecklas",
+      "0Eleven värderar också modellers giltighet och begränsningar med **nyanserade** omdömen",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven identifierar, analyserar och löser **komplexa** problem i **bekanta och nya situationer** med **gott** resultat",
+      "1Detta gäller såväl i det teoretiska som i det praktiska arbetet",
+      "1I arbetet formulerar eleven relevanta hypoteser och formulerar **med säkerhet komplexa** egna frågor",
+      "1Eleven planerar och genomför **efter samråd** med handledare experiment och observationer på ett tillfredsställande sätt",
+      "1Dessutom hanterar eleven material och utrustning på ett säkert sätt",
+      "1Vidare tolkar eleven sina resultat, utvärderar sina metoder med **nyanserade** omdömen och motiverar sina slutsatser med **välgrundade och nyanserade** resonemang",
+      "1**Vid behov föreslår eleven också förändringar**",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven diskuterar **utförligt och nyanserat komplexa** frågor som rör fysikens betydelse för individ och samhälle",
+      "2I diskussionerna för eleven fram **välgrundade och nyanserade** argument och redogör **utförligt och nyanserat** för konsekvenser av **flera** tänkbara ställningstaganden",
+      "2**Eleven föreslår också nya frågeställningar att diskutera**",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven använder **med säkerhet** ett naturvetenskapligt språk och anpassar **till stor del** sin kommunikation till syfte och sammanhang",
+      "3Dessutom använder eleven olika typer av källor och gör **välgrundade och nyanserade** bedömningar av informationens och källornas trovärdighet och relevans",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ]
+  }
+}

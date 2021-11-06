@@ -1,0 +1,118 @@
+{
+  "name": "Fordonstestteknik",
+  "code": "FOOFOR0",
+  "focusAreas": {
+    "string": "Kursen fordonstestteknik omfattar punkterna 1–2 och 4–10 under rubriken Ämnets syfte.",
+    "entries": [
+      "1–2",
+      "4–10"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Förbränningsmotorteknik.",
+          "2. Alternativa drivlinor, till exempel el- och hybridmotorer.",
+          "3. Alternativa energikällor i fordon, som el från batterier och bränsleceller.",
+          "4. Ellära, elektronik och grundläggande mätteknik.",
+          "5. Olika typer av testmiljöer och mätutrustning.",
+          "6. Hur olika testmiljöer och testutrustning kan anpassas till olika typer av tester.",
+          "7. Utvecklingsområden inom fordonstest.",
+          "8. Montering och anpassning av mätutrustning för specifika frågeställningar samt vid felsökning.",
+          "9. Service, underhåll och reparation av mätutrustning.",
+          "10. Insamling av testdata genom testrutiner under körning.",
+          "11. Fördjupad systematisering av testdata och utvärdering av resultat.",
+          "12. CAN-bussen, kommunikationsprincip och insamling av information.",
+          "13. Motortester i rigg.",
+          "14. Praktisk övningskörning med syfte att erhålla testförarlicens.",
+          "15. Informationsmaterial och manualer.",
+          "16. Metoder för att dokumentera arbetet på det sätt yrkesområdet kräver.",
+          "17. Emissionstester, avgasrening och lagkrav kring emissioner.",
+          "18. Olika säkerhets- och stabilitetssystem i bil samt testrutiner för dessa.",
+          "19. Lagar och andra bestämmelser som reglerar arbetsområdet.",
+          "20. Arbetsmiljö och säkerhetsfrågor för verksamheten. Säkerhet i samband med olika arbetsuppgifter. Förebyggande av person- och egendomsskador.",
+          "21. Säkerhetsaspekter vid hantering, laddning, krock och stora effektuttag för elfordon samt uppvärmning, laddning och snabbladdning i kallt klimat av elfordon.",
+          "22. Sekretessfrågor under arbete med fordonstestverksamhet.",
+          "23. Kundbemötande och kommunikation. Faktorer som påverkar kommunikation och samarbete på arbetsplatsen.",
+          "24. Uttryck och begrepp som är relevanta för området."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven redogör **översiktligt** för och ger exempel på förbränningsmotorteknik och alternativa energikällor i fordon",
+      "0Dessutom beskriver eleven **översiktligt** olika testmiljöer, tekniker och utrustning för fordonstester",
+      "0Eleven beskriver **översiktligt** och ger exempel på utvecklingsområden inom fordonstest",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar, organiserar och utför **i samråd** med handledare vanligt förekommande arbetsuppgifter inom fordonstestteknik",
+      "1Dessutom monterar och anpassar eleven **i samråd** med handledare olika typ av mätutrustning",
+      "1Eleven utför **i samråd** med handledare och **med viss säkerhet** testkörning av fordon",
+      "1I arbetet väljer eleven **i samråd** med handledare samt använder med **viss säkerhet** arbetsmetod och utrustning",
+      "1Eleven använder **med viss säkerhet** svenska och engelska manualer samt digitala informationssystem",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning",
+      "2Dessutom tar eleven ansvar för sin egen och andras säkerhet samt håller god ordning på arbetsplatsen",
+      "2Eleven arbetar efter de krav på säkerhet, kvalitet och miljö som reglerar arbetet",
+      "2I arbetet redogör eleven **översiktligt** för lagar och andra bestämmelser som styr arbetet",
+      "2Dessutom redogör eleven **översiktligt** för sekretessfrågor under arbete med fordonstestverksamhet",
+      "2Resultatet av arbetet är **tillfredsställande**",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven samarbetar och löser **i samråd** med handledare problem som uppkommer för att nå planerade resultat",
+      "3I sin kommunikation använder eleven **med viss säkerhet** begrepp och uttryck som är relevanta för ämnesområdet",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ],
+    "C": [
+      "0Eleven redogör **utförligt** för och ger exempel på förbränningsmotorteknik och alternativa energikällor i fordon",
+      "0Dessutom beskriver eleven **utförligt** olika testmiljöer, tekniker och utrustning för fordonstester",
+      "0Eleven beskriver **utförligt** och ger exempel på utvecklingsområden inom fordonstest",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar, organiserar och utför **efter samråd** med handledare vanligt förekommande arbetsuppgifter inom fordonstestteknik",
+      "1Dessutom monterar och anpassar eleven **efter samråd** med handledare olika typ av mätutrustning",
+      "1Eleven utför **efter samråd** med handledare och **med viss säkerhet** testkörning av fordon",
+      "1I arbetet väljer eleven **efter samråd** med handledare samt använder **med viss säkerhet** arbetsmetod och utrustning",
+      "1Eleven använder **med viss säkerhet** svenska och engelska manualer samt digitala informationssystem",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning",
+      "2Dessutom tar eleven ansvar för sin egen och andras säkerhet samt håller god ordning på arbetsplatsen",
+      "2Eleven arbetar efter de krav på säkerhet, kvalitet och miljö som reglerar arbetet",
+      "2I arbetet redogör eleven **utförligt** för lagar och andra bestämmelser som styr arbetet",
+      "2Dessutom redogör eleven **utförligt** för sekretessfrågor under arbete med fordonstestverksamhet",
+      "2Resultatet av arbetet är **tillfredsställande**",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven samarbetar och löser **efter samråd** med handledare problem som uppkommer för att nå planerade resultat",
+      "3I sin kommunikation använder eleven **med viss säkerhet** begrepp och uttryck som är relevanta för ämnesområdet",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ],
+    "A": [
+      "0Eleven redogör **utförligt och nyanserat** för och ger exempel på förbränningsmotorteknik och alternativa energikällor i fordon",
+      "0Dessutom beskriver eleven **utförligt och nyanserat** olika testmiljöer, tekniker och utrustning för fordonstester",
+      "0Eleven beskriver **utförligt och nyanserat** och ger exempel på utvecklingsområden inom fordonstest",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar, organiserar och utför **efter samråd** med handledare vanligt förekommande arbetsuppgifter inom fordonstestteknik",
+      "1Dessutom monterar och anpassar eleven **efter samråd** med handledare olika typ av mätutrustning",
+      "1Eleven utför **efter samråd** med handledare och med **säkerhet** testkörning av fordon",
+      "1I arbetet väljer eleven **efter samråd** med handledare samt använder **med säkerhet** arbetsmetod och utrustning",
+      "1Eleven använder **med säkerhet** svenska och engelska manualer samt digitala informationssystem",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning",
+      "2Dessutom tar eleven ansvar för sin egen och andras säkerhet samt håller god ordning på arbetsplatsen",
+      "2Eleven arbetar efter de krav på säkerhet, kvalitet och miljö som reglerar arbetet",
+      "2I arbetet redogör eleven **utförligt** för lagar och andra bestämmelser som styr arbetet",
+      "2Dessutom redogör eleven **utförligt och nyanserat** för sekretessfrågor under arbete med fordonstestverksamhet",
+      "2Resultatet av arbetet är **gott**",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven samarbetar och löser **efter samråd** med handledare problem som uppkommer för att nå planerade resultat",
+      "3I sin kommunikation använder eleven **med säkerhet** begrepp och uttryck som är relevanta för ämnesområdet",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ]
+  }
+}

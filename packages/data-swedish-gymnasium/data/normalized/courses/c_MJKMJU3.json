@@ -1,0 +1,90 @@
+{
+  "name": "Mjukvarudesign",
+  "code": "MJKMJU3",
+  "focusAreas": {
+    "string": "Kursen mjukvarudesign omfattar punkterna 1–7 under rubriken Ämnets syfte.",
+    "entries": [
+      "1–7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Körmiljöer och plattformar, till exempel desktop, mobil, inbyggda system och webbapplikationer.",
+          "2. Utvecklingsmetodik, inklusive agila metoder.",
+          "3. Utvecklingsmiljöer och infrastrukturbehov.",
+          "4. Verktyg för projekthantering, ärendehantering och samarbete.",
+          "5. Kodkvalitet och kodstandarder.",
+          "6. Kodanalys och kvalitetskontroll, inklusive bugghantering och automatiserade tester.",
+          "7. Verktyg för versionshantering.",
+          "8. Internationalisering och lokalisering.",
+          "9. Upprättande av teknisk dokumentation, till exempel genererad från programkodskommentarer.",
+          "10. Ergonomiska krav på datorarbetsplatsen.",
+          "11. Paketering och distribution av mjukvara.",
+          "12. Licenser och betalningsmodeller."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven för **enkla** resonemang om olika metoder inom mjukvaruutveckling och beskriver **översiktligt** hur området mjukvaruutveckling har utvecklats",
+      "0Dessutom redogör eleven **översiktligt** för olika kodstandarder, körmiljöer och plattformar",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven deltar i ett projekt för att utveckla en applikation och följer **med viss säkerhet** vald utvecklingsmetodik",
+      "1Dessutom skapar eleven med **tillfredsställande** resultat installerbara paket av applikationen eller installationsprogram för applikationen",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2I sitt arbete använder eleven **några** verktyg för kodning, projekthantering och samarbete samt för kvalitetskontroll, testning, kodanalys och versionshantering",
+      "2Dessutom skapar eleven **med viss säkerhet** kod som följer projektets specificerade kodstandard",
+      "2Under arbetet använder och skapar eleven **med viss säkerhet** teknisk dokumentation, buggrapporter och tester",
+      "2Eleven för **enkla** resonemang med användare och medarbetare för att föra arbetet framåt",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven redogör **översiktligt** för hur applikationen har anpassats för vald körmiljö och hur denna förhåller sig till andra körmiljöer",
+      "3Dessutom beskriver eleven **översiktligt** hur produkten internationaliserats eller lokaliserats",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4Eleven redogör **översiktligt** för hur en god arbetsmiljö vid mjukvarudesign kan utformas",
+      "4Dessutom redogör eleven **översiktligt** för olika alternativ för licenser, distributionsmetoder och betalningsmodeller",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ],
+    "C": [
+      "0Eleven för **välgrundade** resonemang om olika metoder inom mjukvaruutveckling och beskriver **utförligt** hur området mjukvaruutveckling har utvecklats",
+      "0Dessutom redogör eleven **utförligt** för olika kodstandarder, körmiljöer och plattformar",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven deltar i ett projekt för att utveckla en applikation och följer **med viss säkerhet** vald utvecklingsmetodik",
+      "1Dessutom skapar eleven med **tillfredsställande** resultat installerbara paket av applikationen eller installationsprogram för applikationen",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2I sitt arbete **installerar och** använder eleven **några** verktyg för kodning, projekthantering och samarbete samt för kvalitetskontroll, testning, kodanalys och versionshantering",
+      "2Dessutom skapar eleven **med viss säkerhet** kod som följer projektets specificerade kodstandard",
+      "2Under arbetet använder och skapar eleven **med viss säkerhet** teknisk dokumentation, buggrapporter och tester",
+      "2Eleven för **välgrundade** resonemang med användare och medarbetare för att föra arbetet framåt",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven redogör **utförligt** för hur applikationen har anpassats för vald körmiljö och hur denna förhåller sig till andra körmiljöer",
+      "3Dessutom beskriver eleven **utförligt** hur produkten internationaliserats eller lokaliserats",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4Eleven redogör **utförligt** för hur en god arbetsmiljö vid mjukvarudesign kan utformas",
+      "4Dessutom redogör eleven **utförligt** för olika alternativ för licenser, distributionsmetoder och betalningsmodeller",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ],
+    "A": [
+      "0Eleven för **välgrundade och nyanserade** resonemang om olika metoder inom mjukvaruutveckling och beskriver **utförligt och nyanserat** hur området mjukvaruutveckling har utvecklats",
+      "0Dessutom redogör eleven **utförligt och nyanserat** för olika kodstandarder, körmiljöer och plattformar",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven deltar i ett projekt för att utveckla en applikation och följer **med säkerhet** vald utvecklingsmetodik",
+      "1Dessutom skapar eleven med **gott** resultat installerbara paket av applikationen eller installationsprogram för applikationen",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2I sitt arbete **installerar och** använder eleven **flera** verktyg för kodning, projekthantering och samarbete samt för kvalitetskontroll, testning, kodanalys och versionshantering",
+      "2Dessutom skapar eleven **med säkerhet** kod som följer projektets specificerade kodstandard",
+      "2Under arbetet använder och skapar eleven **med säkerhet** teknisk dokumentation, buggrapporter och tester",
+      "2Eleven för **välgrundade och nyanserade** resonemang med användare och medarbetare för att föra arbetet framåt",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven redogör **utförligt och nyanserat** för hur applikationen har anpassats för vald körmiljö och hur denna förhåller sig till andra körmiljöer",
+      "3Dessutom beskriver eleven **utförligt och nyanserat** hur produkten internationaliserats eller lokaliserats",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4Eleven redogör **utförligt och nyanserat** för hur en god arbetsmiljö vid mjukvarudesign kan utformas",
+      "4Dessutom redogör eleven **utförligt och nyanserat** för olika alternativ för licenser, distributionsmetoder och betalningsmodeller",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ]
+  }
+}

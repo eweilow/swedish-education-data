@@ -1,0 +1,92 @@
+{
+  "name": "Rättspsykiatri",
+  "code": "RATRAT0",
+  "focusAreas": {
+    "string": "Kursen rättspsykiatri omfattar punkterna 1–6 under rubriken Ämnets syfte.",
+    "entries": [
+      "1–6"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Lagar och andra bestämmelser som styr verksamheten i öppen och sluten rättspsykiatrisk vård.",
+          "2. Samarbete med kriminalvården samt kriminalvårdens olika restriktioner.",
+          "3. Riskbedömningar utifrån dynamisk och statisk säkerhet.",
+          "4. Sambandet mellan psykisk störning och kriminalitet.",
+          "5. Förebyggande åtgärder, till exempel genom samhälls- och familjeinsatser.",
+          "6. Rättigheter och skyldigheter för patienten.",
+          "7. Rättspsykiatrisk vård och omvårdnad, värdegrund, humanistisk människosyn, närhet och distans.",
+          "8. Läkemedelsbehandling inom rättspsykiatrin inklusive etiska aspekter.",
+          "9. Arbete med förbättrings- och kvalitetsarbete i den praktiska verksamheten.",
+          "10. Metoder för att använda sig själv som ett verktyg för att skapa goda vårdrelationer med patienter.",
+          "11. Förebyggande arbete och rutiner för hantering av hot- och våldssituationer.",
+          "12. Program för patientrehabilitering, till exempel missbruksprogram.",
+          "13. Samverkan mellan olika myndigheter och verksamhetsområden vid utslussning och eftervård.",
+          "14. Samordnad vårdplanering."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven redogör **översiktligt** för lagar och andra bestämmelser som styr verksamheten samt arbetar efter dem",
+      "0Eleven beskriver även **översiktligt** rättspsykiatrins samhällsskyddande roll utifrån de riskbedömningar som görs",
+      "0Dessutom beskriver eleven **översiktligt** vikten av att arbeta utifrån ett etiskt förhållningssätt där man ser människan bakom brottet",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven beskriver vård och omvårdnad samt läkemedelsbehandling inom rättspsykiatrin och resonerar **översiktligt** runt etiska aspekter kring läkemedelsbehandling",
+      "1Eleven tar också, **i samråd** med handledare, initiativ i olika vård- och omsorgssituationer, väljer en strategi, följer sin planering och genomför arbetet med **tillfredsställande** resultat",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven beskriver även **översiktligt** hur man i omvårdnadsarbetet använder sig själv som verktyg för att skapa en vårdrelation där patienten ges möjlighet till bearbetning och tillväxt",
+      "2Dessutom beskriver eleven **översiktligt** hur olika rutiner påverkar arbetet samt ger förslag på hur rutinerna kan förbättras",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven möter, **i samråd** med handledare, patienter på ett respektfullt, lyhört och empatiskt sätt",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4Eleven beskriver **översiktligt** vikten av att samhället kan tillgodose patienternas behov av en väl utbyggd utslussningsprocess och ger exempel på olika program för patientrehabilitering",
+      "4Eleven beskriver **översiktligt** samhällets och familjens möjlighet att genom tidig påverkan och hjälp förhindra utvecklingen av en kriminell identitet",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION",
+      "5När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "5THIS 5IS 5THE 5START 5OF 5SECTION"
+    ],
+    "C": [
+      "0Eleven redogör **utförligt** för lagar och andra bestämmelser som styr verksamheten samt arbetar efter dem",
+      "0Eleven beskriver även **utförligt** rättspsykiatrins samhällsskyddande roll utifrån de riskbedömningar som görs",
+      "0Dessutom beskriver eleven **utförligt** vikten av att arbeta utifrån ett etiskt förhållningssätt där man ser människan bakom brottet",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven beskriver vård och omvårdnad samt läkemedelsbehandling inom rättspsykiatrin och resonerar **utförligt** runt etiska aspekter kring läkemedelsbehandling",
+      "1Eleven tar också, **efter samråd** med handledare, initiativ i olika vård- och omsorgssituationer, väljer en strategi, följer sin planering och genomför arbetet med **tillfredsställande** resultat",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven beskriver även **utförligt** hur man i omvårdnadsarbetet använder sig själv som verktyg för att skapa en vårdrelation där patienten ges möjlighet till bearbetning och tillväxt",
+      "2Dessutom beskriver eleven **utförligt** hur olika rutiner påverkar arbetet samt ger förslag på hur rutinerna kan förbättras",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven möter, **efter samråd** med handledare, patienter på ett respektfullt, lyhört och empatiskt sätt",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4Eleven beskriver **utförligt** vikten av att samhället kan tillgodose patienternas behov av en väl utbyggd utslussningsprocess och ger exempel på olika program för patientrehabilitering",
+      "4Eleven beskriver **utförligt** samhällets och familjens möjlighet att genom tidig påverkan och hjälp förhindra utvecklingen av en kriminell identitet",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION",
+      "5När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "5THIS 5IS 5THE 5START 5OF 5SECTION"
+    ],
+    "A": [
+      "0Eleven redogör **utförligt och nyanserat** för lagar och andra bestämmelser som styr verksamheten samt arbetar efter dem",
+      "0Eleven beskriver även **utförligt och nyanserat** rättspsykiatrins samhällsskyddande roll utifrån de riskbedömningar som görs",
+      "0Dessutom beskriver eleven **utförligt och nyanserat** vikten av att arbeta utifrån ett etiskt förhållningssätt där man ser människan bakom brottet",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven beskriver vård och omvårdnad samt läkemedelsbehandling inom rättspsykiatrin och resonerar **utförligt och nyanserat** runt etiska aspekter kring läkemedelsbehandling",
+      "1Eleven tar också, **efter samråd** med handledare, initiativ i olika vård- och omsorgssituationer, väljer en strategi, följer sin planering och genomför arbetet med **gott** resultat",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven beskriver även **utförligt och nyanserat** hur man i omvårdnadsarbetet använder sig själv som verktyg för att skapa en vårdrelation där patienten ges möjlighet till bearbetning och tillväxt",
+      "2Dessutom beskriver eleven **utförligt och nyanserat** hur olika rutiner påverkar arbetet samt ger förslag på hur rutinerna kan förbättras",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven möter, **efter samråd** med handledare, patienter på ett respektfullt, lyhört och empatiskt sätt",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4Eleven beskriver **utförligt och nyanserat** vikten av att samhället kan tillgodose patienternas behov av en väl utbyggd utslussningsprocess och ger exempel på olika program för patientrehabilitering",
+      "4Eleven beskriver **utförligt och nyanserat** samhällets och familjens möjlighet att genom tidig påverkan och hjälp förhindra utvecklingen av en kriminell identitet",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION",
+      "5När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "5THIS 5IS 5THE 5START 5OF 5SECTION"
+    ]
+  }
+}

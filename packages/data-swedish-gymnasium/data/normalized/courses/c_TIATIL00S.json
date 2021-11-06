@@ -1,0 +1,56 @@
+{
+  "name": "Tillämpad programmering",
+  "code": "TIATIL00S",
+  "focusAreas": {
+    "string": "Kursen tillämpad programmering omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom valt kunskapsområde.",
+    "entries": [
+      "1–4"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Begrepp, teorier, modeller och metoder inom programmering.",
+          "2. Förmåga att lösa problem i en datavetenskaplig kontext.",
+          "3. Tillämpningar inom valt kunskapsområde, till exempel industriell programmering, spelprogrammering, utveckling av administrativa system eller pedagogiska program, applikationsutveckling eller som hjälpmedel för att skapa eller bearbeta bild, ljud och film.",
+          "4. Hur tillämpad programmering kan användas som verktyg i behandlingen av omfångsrika problemsituationer. Programmeringens möjligheter och begränsningar i dessa situationer.",
+          "5. Konsekvenser av tillämpad programmering för det valda kunskapsområdet."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0I sitt arbete använder eleven **med viss säkerhet** grundläggande datavetenskapliga begrepp, teorier och modeller inom valt kunskapsområde",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven identifierar och formulerar **i samråd** med handledare ett **enkelt** problem inom valt kunskapsområde",
+      "1Eleven väljer och använder **i samråd** med handledare lämpliga algoritmer och lösningsmetoder samt dokumenterar arbetet och resultatet",
+      "1Dessutom löser eleven med hjälp av programmering problemet inom valt område med ett **tillfredsställande** resultat",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven för ett **enkelt** resonemang utifrån en analys av tillämpningens konsekvenser för sitt valda kunskapsområde",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ],
+    "C": [
+      "0I sitt arbete använder eleven **med viss säkerhet** grundläggande datavetenskapliga begrepp, teorier och modeller inom valt kunskapsområde",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven identifierar och formulerar **efter samråd** med handledare ett problem inom valt kunskapsområde",
+      "1Eleven väljer och använder **efter samråd** med handledare lämpliga algoritmer och lösningsmetoder samt dokumenterar arbetet och resultatet",
+      "1Dessutom löser eleven med hjälp av programmering problemet inom valt område med ett **tillfredsställande** resultat",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven för ett **välgrundat** resonemang utifrån en analys av tillämpningens konsekvenser för sitt valda kunskapsområde",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ],
+    "A": [
+      "0I sitt arbete använder eleven **med säkerhet** grundläggande datavetenskapliga begrepp, teorier och modeller inom valt kunskapsområde",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven identifierar och formulerar **efter samråd** med handledare ett **avancerat** problem inom valt kunskapsområde",
+      "1Eleven väljer och använder **efter samråd** med handledare lämpliga algoritmer och lösningsmetoder samt dokumenterar arbetet och resultatet",
+      "1Dessutom löser eleven med hjälp av programmering problemet inom valt område med ett **gott** resultat",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven för ett **välgrundat och nyanserat** resonemang utifrån en analys av tillämpningens konsekvenser för sitt valda kunskapsområde",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ]
+  }
+}

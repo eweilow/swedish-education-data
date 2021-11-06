@@ -1,0 +1,86 @@
+{
+  "name": "Materialteknik",
+  "code": "KORMAT3",
+  "focusAreas": {
+    "string": "Kursen materialteknik omfattar punkterna 1–4 och 6–9 under rubriken Ämnets syfte.",
+    "entries": [
+      "1–4",
+      "6–9"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Materialteknikens roll i konstruktionsarbetet.",
+          "2. Fördjupning av konstruktionsmaterials tekniska, fysiska och kemiska egenskaper samt deras användningsområden.",
+          "3. Metoder för materialval och deras begränsningar, samt val och utvärdering av material vid olika konstruktionsmässiga tillämpningar.",
+          "4. Användning av matematiska och teknikvetenskapliga teorier och modeller för utvärdering och val av material.",
+          "5. Standarder och normer i materialteknik.",
+          "6. Manuella och datorstödda verktyg, till exempel materialdatabaser för inhämtning av information och användning vid val av material.",
+          "7. Materials förändrade egenskaper vid framställning och bearbetning.",
+          "8. Optimering av material mot olika förutsättningar som tillverkning, hållbar utveckling, lönsamhet och kvalitet.",
+          "9. Materials samverkan med omgivande material och miljö. Provning av materials konstruktionsfunktion, till exempel dragprov.",
+          "10. Dokumentation och redovisning av materialval och utvärdering av material."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven redogör **övergripande** för materialteknikens roll i konstruktionsarbetet",
+      "0Eleven redogör vidare **övergripande** för materials tekniska, fysiska och kemiska egenskaper samt deras användningsområden",
+      "0Dessutom resonerar eleven **övergripande** kring metoder för materialval och deras begränsningar",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven väljer **med säkerhet** material och utvärderar materialval vid olika konstruktionssammanhang",
+      "1I sitt arbete använder eleven **med säkerhet** relevanta matematiska och teknikvetenskapliga teorier, modeller och begrepp",
+      "1Eleven använder **med säkerhet** manuella och datorstödda verktyg vid val av material och utvärdering",
+      "1Eleven tar i sitt arbete även hänsyn till standarder och normer",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven redogör **övergripande** för materials ändrade egenskaper vid bearbetning",
+      "2Eleven optimerar **med säkerhet** materialval mot olika förutsättningar kring tillverkning, lönsamhet, kvalitet och hållbar utveckling",
+      "2Eleven resonerar **övergripande** för materials samverkan med omgivande material och miljö samt använder kunskapen **med säkerhet** vid utvärdering av materialval",
+      "2Eleven redogör också **övergripande** för olika provningsmetoder, för materials konstruktionsfunktion samt utför **med säkerhet** provning",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven dokumenterar och redovisar **med säkerhet** motiveringar till materialval och utvärdering av material",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "C": [
+      "0Eleven redogör **utförligt** för materialteknikens roll i konstruktionsarbetet",
+      "0Eleven redogör vidare **utförligt** för materials tekniska, fysiska och kemiska egenskaper samt deras användningsområden",
+      "0Dessutom resonerar eleven **utförligt** kring metoder för materialval och deras begränsningar",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven väljer **med god säkerhet** material och utvärderar materialval vid olika konstruktionssammanhang",
+      "1I sitt arbete använder eleven **med god säkerhet** relevanta matematiska och teknikvetenskapliga teorier, modeller och begrepp",
+      "1Eleven använder **med god säkerhet** manuella och datorstödda verktyg vid val av material och utvärdering",
+      "1Eleven tar i sitt arbete även hänsyn till standarder och normer",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven redogör **utförligt** för materials ändrade egenskaper vid bearbetning",
+      "2Eleven optimerar **med god säkerhet** materialval mot olika förutsättningar kring tillverkning, lönsamhet, kvalitet och hållbar utveckling",
+      "2Eleven resonerar **utförligt** för materials samverkan med omgivande material och miljö samt använder kunskapen **med god säkerhet** vid utvärdering av materialval",
+      "2Eleven redogör också **utförligt** för olika provningsmetoder, för materials konstruktionsfunktion samt utför **med god säkerhet** provning",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven dokumenterar och redovisar **med god säkerhet** motiveringar till materialval och utvärdering av material",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "A": [
+      "0Eleven redogör **utförligt och nyanserat** för materialteknikens roll i konstruktionsarbetet",
+      "0Eleven redogör vidare **utförligt och nyanserat** för materials tekniska, fysiska och kemiska egenskaper samt deras användningsområden",
+      "0Dessutom resonerar eleven **utförligt och nyanserat** kring metoder för materialval och deras begränsningar",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven väljer **med mycket god säkerhet** material och utvärderar materialval vid olika konstruktionssammanhang",
+      "1I sitt arbete använder eleven **med mycket god säkerhet** relevanta matematiska och teknikvetenskapliga teorier, modeller och begrepp",
+      "1Eleven använder **med mycket god säkerhet** manuella och datorstödda verktyg vid val av material och utvärdering",
+      "1Eleven tar i sitt arbete även hänsyn till standarder och normer",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven redogör **utförligt och nyanserat** för materials ändrade egenskaper vid bearbetning",
+      "2Eleven optimerar **med mycket god säkerhet** materialval mot olika förutsättningar kring tillverkning, lönsamhet, kvalitet och hållbar utveckling",
+      "2Eleven resonerar **utförligt och nyanserat** för materials samverkan med omgivande material och miljö samt använder kunskapen **med mycket god säkerhet** vid utvärdering av materialval",
+      "2Eleven redogör också **utförligt och nyanserat** för olika provningsmetoder, för materials konstruktionsfunktion samt utför **med mycket god säkerhet** provning",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven dokumenterar och redovisar motiveringar till materialval och utvärdering av material **med mycket god säkerhet**",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ]
+  }
+}

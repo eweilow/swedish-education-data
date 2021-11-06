@@ -1,0 +1,107 @@
+{
+  "name": "Underhåll – driftsäkerhet",
+  "code": "DRIUND0",
+  "focusAreas": {
+    "string": "Kursen underhåll – driftsäkerhet omfattar punkterna 1–2, 4 och 6–7. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "entries": [
+      "1–2",
+      "4",
+      "6–7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Underhållsadministrativa system.",
+          "2. Användning av ritningar, scheman och manualer samt redovisning av utförda åtgärder.",
+          "3. Tekniker och utrustningar för inspektion, förebyggande underhåll och tillståndskontroll.",
+          "4. Subjektiva och objektiva inspektionsmetoder samt oförstörande provning.",
+          "5. Grundläggande symboler på ritningar och scheman inom till exempel elinstallation, ventilation, vatten, avlopp, värme och gas.",
+          "6. Föreskrifter om arbetsmiljö samt person- och maskinsäkerhet.",
+          "7. Grundläggande underhållstekniska begrepp samt parametrar, nyckeltal och internationell terminologi.",
+          "8. Funktionssäkerhet, underhållsmässighet och underhållssäkerhet samt metoder för ständiga förbättringar.",
+          "9. Grundläggande definitioner inom tillståndsbaserat underhåll samt beredning, planering av tillståndskontroll och förebyggande underhåll."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven planerar och organiserar **i samråd** med handledare förebyggande underhåll, inspektion och tillståndskontroll",
+      "0I planeringen tolkar eleven **med viss säkerhet** instruktioner, scheman, ritningar och manualer",
+      null,
+      "0Vidare väljer eleven **i samråd** med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven utför med noggrannhet och **i samråd** med handledare förebyggande underhåll, inspektion och tillståndskontroll i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer",
+      "1Resultatet av arbetet är **tillfredsställande** utifrån givna kvalitetskrav",
+      "1I arbetet använder eleven **med viss säkerhet** instruktioner, scheman, ritningar och manualer",
+      "1Eleven hanterar material, utrustning, verktyg och maskiner med **visst** handlag och håller god ordning på arbetsplatsen",
+      "1Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön",
+      "1Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem **i samråd** med handledare",
+      "1När arbetsuppgiften är utförd gör eleven en **enkel** dokumentation av arbetsprocessen och resultatet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven redogör **översiktligt** för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat",
+      "2Dessutom redogör eleven **översiktligt** för eventuella avvikelser från specifikationen och den egna arbetsinsatsen",
+      "2Eleven redogör även **översiktligt** för metoder och arbetssätt för ständiga förbättringar",
+      "2Eleven utvärderar sitt arbete och resultat med **enkla** omdömen",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven samarbetar i sitt arbete med andra samt redogör **översiktligt** för betydelsen av samarbete",
+      "3Dessutom använder eleven **med viss säkerhet** korrekt fackspråk",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ],
+    "C": [
+      "0Eleven planerar och organiserar **efter samråd** med handledare förebyggande underhåll, inspektion och tillståndskontroll",
+      "0I planeringen tolkar eleven **med viss säkerhet** instruktioner, scheman, ritningar och manualer",
+      null,
+      "0Vidare väljer eleven **efter samråd** med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven utför med noggrannhet och **efter samråd** med handledare förebyggande underhåll, inspektion och tillståndskontroll i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer",
+      "1Resultatet av arbetet är **tillfredsställande** utifrån givna kvalitetskrav",
+      "1I arbetet använder eleven **med viss säkerhet** instruktioner, scheman, ritningar och manualer",
+      "1Eleven hanterar material, utrustning, verktyg och maskiner med **gott** handlag och håller god ordning på arbetsplatsen",
+      "1Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön",
+      "1Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem **efter samråd** med handledare",
+      "1När arbetsuppgiften är utförd gör eleven en **noggrann** dokumentation av arbetsprocessen och resultatet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven redogör **utförligt** för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat",
+      "2Dessutom redogör eleven **utförligt** för eventuella avvikelser från specifikationen och den egna arbetsinsatsen",
+      "2Eleven redogör även **utförligt** för metoder och arbetssätt för ständiga förbättringar",
+      "2Eleven utvärderar sitt arbete och resultat med **nyanserade** omdömen",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven samarbetar i sitt arbete med andra samt redogör **utförligt** för betydelsen av samarbete",
+      "3Dessutom använder eleven **med viss säkerhet** korrekt fackspråk",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ],
+    "A": [
+      "0Eleven planerar och organiserar **efter samråd** med handledare förebyggande underhåll, inspektion och tillståndskontroll",
+      "0I planeringen tolkar eleven **med viss säkerhet** instruktioner, scheman, ritningar och manualer",
+      "0**Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det**",
+      "0Vidare väljer eleven **efter samråd** med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven utför med noggrannhet och **efter samråd** med handledare förebyggande underhåll, inspektion och tillståndskontroll i enlighet med säkerhetsföreskrifter samt givna instruktioner och kravspecifikationer",
+      "1Resultatet av arbetet är **gott** utifrån givna kvalitetskrav",
+      "1I arbetet använder eleven **med säkerhet** instruktioner, scheman, ritningar och manualer",
+      "1Eleven hanterar material, utrustning, verktyg och maskiner med **mycket gott** handlag och håller god ordning på arbetsplatsen",
+      "1Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön",
+      "1Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem **efter samråd** med handledare",
+      "1När arbetsuppgiften är utförd gör eleven en **noggrann och utförlig** dokumentation av arbetsprocessen och resultatet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven redogör **utförligt och nyanserat** för material, teknik, metoder och verktyg som använts för arbetsuppgiften samt hur dessa faktorer har påverkat kvalitet och slutresultat",
+      "2Dessutom redogör eleven **utförligt och nyanserat** för eventuella avvikelser från specifikationen och den egna arbetsinsatsen",
+      "2Eleven redogör även **utförligt och nyanserat** för metoder och arbetssätt för ständiga förbättringar",
+      "2Eleven utvärderar sitt arbete och resultat med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven samarbetar i sitt arbete med andra samt redogör **utförligt och nyanserat** för betydelsen av samarbete",
+      "3Dessutom använder eleven **med säkerhet** korrekt fackspråk",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ]
+  }
+}

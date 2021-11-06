@@ -1,0 +1,107 @@
+{
+  "name": "Byggnadsunderhåll",
+  "code": "NARBYA0",
+  "focusAreas": {
+    "string": "Kursen byggnadsunderhåll omfattar punkterna 1–7 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 2.",
+    "entries": [
+      "1–7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Byggteknisk grund",
+        "rows": [
+          "1. Byggmaterials egenskaper, funktion och användningsområden.",
+          "2. Byggnaders och byggmaterials underhåll.",
+          "3. Klimatpåverkan och miljöpåverkan beroende på region och läge.",
+          "4. Enkla byggnadskonstruktioner.",
+          "5. Dimensionering och anvisningar.",
+          "6. Tolkning av ritningar och instruktioner.",
+          "7. Ekonomiska beräkningar samt dokumentation av genomfört arbete.",
+          "8. Byggnaders historiska och kulturella värden."
+        ]
+      },
+      {
+        "title": "Arbetsuppgifter",
+        "rows": [
+          "1. Byggnads- och underhållsarbete med naturbrukets byggnader och olika anläggningar.",
+          "2. Val av konstruktionsmaterial och beräkning av materialåtgång.",
+          "3. Arbetsmetoder vid byggarbeten.",
+          "4. Hantering av byggmaterial vid transport och lagring.",
+          "5. Användning och vård av verktyg, maskiner och redskap för olika arbetsuppgifter.",
+          "6. Användning av teknikhandböcker.",
+          "7. Hantering av byggavfall."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Ergonomi, arbetsmiljö och säkerhet i samband med byggnadsunderhåll.",
+          "2. Brandförebyggande åtgärder.",
+          "3. Lagar och andra bestämmelser inom området, till exempel plan- och bygglagstiftning, miljölagstiftning och kulturminneslagstiftning."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven redogör **översiktligt** för vanligt förekommande byggmaterial samt för dess egenskaper, funktion, användningsområden, hantering och underhåll",
+      "0Dessutom beskriver eleven **översiktligt** enkla byggnadskonstruktioner, hur olika delar är dimensionerade samt materialets och konstruktionens hållfasthet",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven tolkar **i samråd** med handledare ritningar för ett avgränsat byggprojekt, väljer **med viss säkerhet** lämpligt byggmaterial samt gör **enkla** beräkningar av materialåtgång och kostnader",
+      "1Eleven följer arbetsinstruktioner och genomför **i samråd** med handledare underhåll och byggnadsarbete på byggnader och byggnaders utrustning samt på anläggningar",
+      "1I arbetet använder och vårdar eleven **i samråd** med handledare verktyg och maskiner",
+      "1Dessutom löser eleven **i samråd** med handledare de problem som uppstår",
+      "1Resultatet av arbetet är **tillfredsställande**",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön",
+      "2Dessutom redogör eleven **översiktligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3I samband med fältstudier i olika byggnadsmiljöer beskriver eleven **översiktligt** byggnaders kulturhistoriska och estetiska värden",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ],
+    "C": [
+      "0Eleven redogör **utförligt** för vanligt förekommande byggmaterial samt för dess egenskaper, funktion, användningsområden, hantering och underhåll",
+      "0Dessutom beskriver eleven **utförligt** enkla byggnadskonstruktioner, hur olika delar är dimensionerade samt materialets och konstruktionens hållfasthet",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven tolkar **efter samråd** med handledare ritningar för ett avgränsat byggprojekt, väljer **med viss säkerhet** lämpligt byggmaterial samt gör beräkningar av materialåtgång och kostnader",
+      "1Eleven följer arbetsinstruktioner och genomför **efter samråd** med handledare underhåll och byggnadsarbete på byggnader och byggnaders utrustning samt på anläggningar",
+      "1I arbetet använder och vårdar eleven **efter samråd** med handledare verktyg och maskiner",
+      "1Dessutom löser eleven **efter samråd** med handledare de problem som uppstår",
+      "1Resultatet av arbetet är **tillfredsställande**",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön",
+      "2Dessutom redogör eleven **utförligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3I samband med fältstudier i olika byggnadsmiljöer beskriver eleven **utförligt** byggnaders kulturhistoriska och estetiska värden",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ],
+    "A": [
+      "0Eleven redogör **utförligt och nyanserat** för vanligt förekommande byggmaterial samt för dess egenskaper, funktion, användningsområden, hantering och underhåll",
+      "0Dessutom beskriver eleven **utförligt och nyanserat** enkla byggnadskonstruktioner, hur olika delar är dimensionerade samt materialets och konstruktionens hållfasthet",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven tolkar **efter samråd** med handledare ritningar för ett avgränsat byggprojekt, väljer **med säkerhet** lämpligt byggmaterial samt gör **avancerade** beräkningar av materialåtgång och kostnader",
+      "1Eleven följer arbetsinstruktioner och genomför **efter samråd** med handledare underhåll och byggnadsarbete på byggnader och byggnaders utrustning samt på anläggningar",
+      "1I arbetet använder och vårdar eleven **efter samråd** med handledare verktyg och maskiner",
+      "1Dessutom löser eleven **efter samråd** med handledare de problem som uppstår",
+      "1Resultatet av arbetet är **gott**",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön",
+      "2Dessutom redogör eleven **utförligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3I samband med fältstudier i olika byggnadsmiljöer beskriver eleven **utförligt och nyanserat** byggnaders kulturhistoriska och estetiska värden",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ]
+  }
+}

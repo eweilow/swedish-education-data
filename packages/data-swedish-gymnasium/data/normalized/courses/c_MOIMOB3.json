@@ -1,0 +1,98 @@
+{
+  "name": "Mobila applikationer",
+  "code": "MOIMOB3",
+  "focusAreas": {
+    "string": "Kursen mobila applikationer omfattar punkterna 1–6 under rubriken Ämnets syfte.",
+    "entries": [
+      "1–6"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Utvecklingsprocessen för att utveckla en mobil applikation från målsättning, planering, specifikation av struktur och design, kodning, optimering, testning, till dokumentation och uppföljning.",
+          "2. Kvalitetssäkring av applikationens funktion med speciell hänsyn tagen till mobila applikationers begränsningar, till exempel risk för bruten kontakt med server.",
+          "3. Design av gränssnitt för mobila applikationer.",
+          "4. Applikationer som är användarvänliga och robusta.",
+          "5. Översikt över olika plattformar och dess olika operativ- och ekosystem.",
+          "6. Användning av API.",
+          "7. Tekniker för att undvika att användargränssnittet blockeras som asynkrona anrop eller flertrådiga applikationer.",
+          "8. Mobila plattformar och dess samhällspåverkan.",
+          "9. Utnyttjande av kringutrustning, till exempel kamera eller GPS.",
+          "10. Lagar och andra bestämmelser som styr digital information, till exempel personuppgiftslagen och lagen om elektronisk kommunikation.",
+          "11. Terminologi inom mobil applikationsutveckling."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven beskriver **översiktligt någon** mobil plattform och dess operativsystem",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven gör en **enkel** projektplan för en tänkt produkt",
+      null,
+      "1Utifrån projektplanen utvecklar eleven **i samråd** med handledare produkten",
+      "1I arbetet utvecklar eleven kod som med **tillfredsställande** resultat följer standarder och använder **enkla** funktioner i ett lämpligt API",
+      "1Eleven anpassar sin produkt med **visst** handlag så att användargränssnittet inte blockeras",
+      "1I arbetet bearbetar eleven **med viss säkerhet något** gränssnitt, så att det blir anpassat för att fungera i produkten",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "1Produkten är av **tillfredsställande** kvalitet",
+      "1Detta kontrollerar eleven **med någon automatisk test**",
+      "1Eleven testar produkten **på någon mobil plattform**",
+      null,
+      "1När arbetet är utfört gör eleven en **enkel** dokumentation av de moment som har utförts samt utvärderar med **enkla** omdömen sitt arbete och resultat",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "2Eleven redogör **översiktligt** för innehållet i lagar och andra bestämmelser som rör digital information samt följer dem i sitt arbete",
+      "2Eleven hanterar lösenord och annan känslig data på ett etiskt och säkert sätt",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "3När eleven kommunicerar med andra använder hon eller han **med viss säkerhet** relevant fackspråk och samarbetar med andra för att nå planerade resultat",
+      null
+    ],
+    "C": [
+      "0Eleven beskriver **utförligt några** mobila plattformar och dess operativsystem",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven gör en **genomarbetad** projektplan för en tänkt produkt",
+      null,
+      "1Utifrån projektplanen utvecklar eleven **efter samråd** med handledare produkten",
+      "1I arbetet utvecklar eleven kod som med **tillfredsställande** resultat följer standarder och använder funktioner i ett lämpligt API",
+      "1Eleven anpassar sin produkt med **gott** handlag så att användargränssnittet inte blockeras",
+      "1I arbetet bearbetar eleven **med viss säkerhet några** gränssnitt, så att det blir anpassat för att fungera i produkten",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "1Produkten är av **tillfredsställande** kvalitet",
+      "1Detta kontrollerar eleven **med några automatiska och manuella tester**",
+      "1Eleven testar produkten på **flera** mobila plattformar som använder samma eller olika operativsystem",
+      null,
+      "1När arbetet är utfört gör eleven en **noggrann** dokumentation av de moment som har utförts samt utvärderar med **nyanserade** omdömen sitt arbete och resultat",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "2Eleven redogör **utförligt** för innehållet i lagar och andra bestämmelser som rör digital information samt följer dem i sitt arbete",
+      "2Eleven hanterar lösenord och annan känslig data på ett etiskt och säkert sätt **samt för välgrundade resonemang** om andra webbrelaterade frågor om etik och integritet",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "3När eleven kommunicerar med andra använder hon eller han **med viss säkerhet** relevant fackspråk och samarbetar med andra för att nå planerade resultat",
+      null
+    ],
+    "A": [
+      "0Eleven beskriver **utförligt och nyanserat flera** mobila plattformar och dess operativsystem",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven gör en **genomarbetad** projektplan för en tänkt produkt",
+      "1**Vid behov reviderar eleven planen**",
+      "1Utifrån projektplanen utvecklar eleven **efter samråd** med handledare produkten",
+      "1I arbetet utvecklar eleven kod som med **gott** resultat följer standarder och använder **avancerade** funktioner i ett lämpligt API",
+      "1Eleven anpassar sin produkt med **mycket gott** handlag så att användargränssnittet inte blockeras",
+      "1I arbetet bearbetar eleven **med säkerhet flera** gränssnitt, så att det blir anpassat för att fungera i produkten",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Produkten är av **god** kvalitet",
+      "2Detta kontrollerar eleven **med flera automatiska och manuella tester**",
+      "2Eleven testar produkten på **flera** mobila plattformar som använder samma eller olika operativsystem",
+      "2**Eleven anpassar produkten så att den fungerar på plattformar i störande omgivningar",
+      "2När arbetet är utfört gör eleven en **noggrann och utförlig** dokumentation av de moment som har utförts **med koppling till generella principer och testresultat** samt utvärderar med **nyanserade** omdömen sitt arbete och resultat **och ger förslag på hur arbetet kan förbättras**",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven redogör **utförligt och nyanserat** för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete",
+      "3Eleven hanterar lösenord och annan känslig data på ett etiskt och säkert sätt **samt för välgrundade och nyanserade resonemang** om andra webbrelaterade frågor etik och integritet",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven kommunicerar med andra använder hon eller han **med säkerhet** relevant fackspråk och samarbetar med andra för att nå planerade resultat",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "name": "Kommunikation",
+  "code": "PEDKOU0",
+  "focusAreas": {
+    "string": "Kursen kommunikation omfattar punkterna 1–6 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "entries": [
+      "1–6"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Människors interaktion och kommunikation i olika sammanhang och utifrån olika teorier.",
+          "2. Sociala och kulturella förhållandens påverkan på människors interaktion och kommunikation.",
+          "3. Gruppens och det sociala sammanhangets betydelse för interaktion och kommunikation.",
+          "4. Användning av samtal som redskap i kommunikationen.",
+          "5. Interaktion och kommunikation vid konflikter och konflikthantering.",
+          "6. Framväxten av mediekulturer och användandet av digitala medier samt deras betydelse för människors liv och lärande.",
+          "7. Kritisk bearbetning av information från olika källor.",
+          "8. Användning av informationsteknik som redskap för kommunikation och information."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven beskriver **översiktligt** människors interaktion och kommunikation",
+      "0Eleven ger också exempel på hur interaktion och kommunikation påverkar människors lärande och deltagande i sociala och pedagogiska situationer",
+      "0I beskrivningarna använder eleven **med viss säkerhet** centrala begrepp och teorier samt förklarar **enkla** samband och drar **enkla** slutsatser",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven söker och bearbetar **med viss säkerhet** information från olika källor samt värderar den med **enkla** omdömen",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven planerar, såväl självständigt som i samarbete med andra, en presentation i ett bestämt syfte",
+      null,
+      "2Utifrån planeringen genomför eleven presentationen **i samråd** med handledare",
+      null,
+      "2I presentationen interagerar eleven, samt kommunicerar **med viss säkerhet**",
+      "2Dessutom utvärderar eleven presentationen med **enkla** omdömen utifrån uppsatta mål",
+      "2I utvärderingen diskuterar eleven **översiktligt** möjliga alternativa lösningar och föreslår vid behov förbättringar",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven diskuterar **översiktligt** egna och andras attityder, värderingar och handlingar i samband med presentationen",
+      "3I diskussionen framför eleven **enkla** argument för sina åsikter samt visar respekt för andras åsikter",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ],
+    "C": [
+      "0Eleven beskriver **utförligt** människors interaktion och kommunikation",
+      "0Eleven ger också exempel på hur interaktion och kommunikation påverkar människors lärande och deltagande i sociala och pedagogiska situationer",
+      "0I beskrivningarna använder eleven **med viss säkerhet** centrala begrepp och teorier samt förklarar samband och drar **välgrundade** slutsatser",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven söker och bearbetar **med viss säkerhet** information från olika källor samt värderar den med **nyanserade** omdömen",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven planerar, såväl självständigt som i samarbete med andra, en presentation i ett bestämt syfte",
+      null,
+      "2Utifrån planeringen genomför eleven presentationen **efter samråd** med handledare",
+      "2**Eleven diskuterar utförligt sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande**",
+      "2I presentationen interagerar eleven, samt kommunicerar **med viss säkerhet**",
+      "2Dessutom utvärderar eleven presentationen med **nyanserade** omdömen utifrån uppsatta mål",
+      "2I utvärderingen diskuterar eleven **utförligt** möjliga alternativa lösningar och föreslår vid behov förbättringar",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven diskuterar **utförligt** egna och andras attityder, värderingar och handlingar i samband med presentationen",
+      "3I diskussionen framför eleven **välgrundade** argument för sina åsikter samt visar respekt för andras åsikter",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ],
+    "A": [
+      "0Eleven beskriver **utförligt och nyanserat** människors interaktion och kommunikation",
+      "0Eleven ger också exempel på hur interaktion och kommunikation påverkar människors lärande och deltagande i sociala och pedagogiska situationer",
+      "0I beskrivningarna använder eleven **med säkerhet** centrala begrepp och teorier samt förklarar **komplexa** samband och drar **välgrundade och nyanserade** slutsatser",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven söker och bearbetar **med säkerhet** information från olika källor samt värderar den med **nyanserade** omdömen",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven planerar, såväl självständigt som i samarbete med andra, en presentation i ett bestämt syfte",
+      "2**I planeringen identifierar eleven kritiska moment och förebygger hinder som kan uppstå under genomförandet**",
+      "2Utifrån planeringen genomför eleven presentationen **efter samråd** med handledare **samt anpassar vid behov genomförandet till ändrade förutsättningar**",
+      "2**Eleven diskuterar utförligt och nyanserat sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande**",
+      "2I presentationen interagerar eleven, samt kommunicerar **med säkerhet**",
+      "2Dessutom utvärderar eleven presentationen med **nyanserade** omdömen utifrån uppsatta mål **och deltagarnas respons**",
+      "2I utvärderingen diskuterar eleven **utförligt och nyanserat** möjliga alternativa lösningar och föreslår vid behov förbättringar",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven diskuterar **utförligt och nyanserat** egna och andras attityder, värderingar och handlingar i samband med presentationen",
+      "3I diskussionen framför eleven **välgrundade och nyanserade** argument för sina åsikter samt visar respekt för andras åsikter",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ]
+  }
+}

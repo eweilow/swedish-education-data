@@ -1,0 +1,71 @@
+{
+  "name": "Data- och medianät",
+  "code": "ELRDAA0",
+  "focusAreas": {
+    "string": "Kursen data- och medianät omfattar punkterna 1–7 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "entries": [
+      "1–7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Planering, installation, driftsättning och registrering samt underhåll av data- och medianätinstallationer.",
+          "2. Funktion och uppbyggnad hos data- och medianät.",
+          "3. Uppbyggnad och funktionssätt hos bredbandiga multifunktionsnät för fastigheter (BMF-nät) samt hybrid-, fiber- och coaxnät (HFC-nät).",
+          "4. Datakommunikationsteknikens grunder.",
+          "5. Inkoppling av fiberboxar och användaruttag.",
+          "6. Kabelförläggning och regler vid samförläggning.",
+          "7. Skarvnings- och inslipningsteknik för optofiberkabel.",
+          "8. Kontaktering av fiberkabel och kategori 5- och 6-nät.",
+          "9. Mätteknik och mätinstrument för inmätning och provning i fibernät.",
+          "10. Felsöknings- och reparationsteknik för data- och medianät.",
+          "11. Mät- och felsökningsteknik för fibernät."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven utför med **visst** handlag enkelt installationsarbete på data- och medianät",
+      "0Eleven gör en **enkel** planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften",
+      "0Inför arbetet väljer eleven **i samråd** med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med **visst** handlag och på ett miljömässigt sätt",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga installationer, samt löser och reparerar dem **i samråd** med handledare",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik",
+      "2Eleven kontrollerar säkerheten med **tillfredsställande** resultat, gör en **enkel** dokumentation av sitt arbete och tar i drift installationen",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "C": [
+      "0Eleven utför med **gott** handlag enkelt installationsarbete på data- och medianät",
+      "0Eleven gör en **genomarbetad** planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften",
+      "0Inför arbetet väljer eleven **efter samråd** med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med **gott** handlag och på ett miljömässigt sätt",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga installationer, samt löser och reparerar dem **efter samråd** med handledare",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik",
+      "2Eleven kontrollerar säkerheten med **tillfredsställande** resultat, gör en **noggrann** dokumentation av sitt arbete och tar i drift installationen",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "A": [
+      "0Eleven utför med **mycket gott** handlag enkelt, **men även mer avancerat**, installationsarbete på data- och medianät",
+      "0Eleven gör en **genomarbetad** planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften",
+      "0Inför arbetet väljer eleven **efter samråd** med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med **mycket gott** handlag och på ett miljömässigt sätt",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga installationer, samt löser och reparerar dem **efter samråd** med handledare",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik",
+      "2Eleven kontrollerar säkerheten med **gott** resultat, gör en **noggrann och utförlig** dokumentation av sitt arbete och tar i drift installationen",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "name": "Växtodling 2",
+  "code": "VAOVAT02",
+  "focusAreas": {
+    "string": "Kursen växtodling 2 omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på att upprätta och använda odlingsplaner.",
+    "entries": [
+      "1–8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Arbetsuppgifter",
+        "rows": [
+          "1. Utarbetande av odlingsplaner och ekonomiska kalkyler. Bedömning av hur och när arbetsuppgifterna ska genomföras samt organisation, planering och genomförande av arbetsuppgifter med utgångspunkt i den upprättade odlingsplanen och den aktuella situationen.",
+          "2. Försäljning och marknadsföring av odlade produkter.",
+          "3. Fältstudier för besiktning och uppföljning av grödornas utveckling samt bestämning av skördetidpunkt.",
+          "4. Tolkning av dikningskartor och åtgärder vid funktionsstörningar.",
+          "5. Lagring av skördade produkter.",
+          "6. Miljöhänsyn i samband med växtodling."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Ergonomi, arbetsmiljö- och säkerhetsfrågor i samband med växtodling och lagring av skördade produkter.",
+          "2. Lagar och andra bestämmelser som rör växtodling, till exempel miljölagstiftning för skydd av mark, vatten, natur- och kulturmiljöer, biologisk mångfald och människors hälsa."
+        ]
+      },
+      {
+        "title": "Biologisk grund",
+        "rows": [
+          "1. Tillväxtfaktorernas betydelse för växtval, tillväxt, odlingsplanering, skötsel och produktkvalitet.",
+          "2. Klimat, klimatförutsättningar och klimatets inverkan på odlingsresultatet.",
+          "3. Ogräs i olika utvecklingsstadier: hjärtbladsstadiet, utvecklat vegetativt stadium och blommande exemplar.",
+          "4. Växtsjukdomar och skadedjur på lantbruksgrödor.",
+          "5. Växtföljder.",
+          "6. Olika sorter och deras egenskaper. Val av sorter beroende på användningsområde och odlingsförutsättningar.",
+          "7. Biologiska processer i samband med lagring."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven upprättar en **enkel** odlingsplan med utgångspunkt i aktuella odlingsförutsättningar samt motiverar **översiktligt** sina val i planen",
+      "0Planen innehåller en **enkel** ekonomisk kalkyl",
+      "0Eleven bedömer **i samråd** med handledare när och hur de planerade arbetsuppgifterna ska genomföras med tanke på odlingsresultat och miljöhänsyn",
+      "0Eleven organiserar, planerar och utför **i samråd** med handledare aktuella arbetsuppgifter inom växtodling och lagring med aktuell teknisk utrustning",
+      "0Resultatet av arbetet är **tillfredsställande**",
+      "0I arbetet löser eleven **i samråd** med handledare de problem som uppstår",
+      "0Eleven arbetar säkert och ergonomiskt riktigt med den tekniska utrustningen",
+      "0Eleven redogör **översiktligt** för och arbetar i enlighet med lagar och andra bestämmelser som rör växtodling",
+      "0Eleven redogör **översiktligt** för lagring av olika produkter",
+      "0Redogörelsen innehåller **enkla** förklaringar till de biologiska processer som sker i samband med lagring",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1I samband med fältstudier beskriver eleven **översiktligt** resultatet av genomförda odlingsåtgärder",
+      "1Beskrivningen innehåller **enkla** förklaringar kring grödornas utveckling och kondition, **enkla** biologiska och ekonomiska samband, **enkla** bedömningar av klimatets inverkan samt **enkla** förslag till fortsatta åtgärder",
+      "1Eleven identifierar **med viss säkerhet** ett flertal vanliga ogräs, växtsjukdomar och skadedjur på lantbruksgrödor",
+      "1Dessutom redogör eleven **översiktligt** för de skador som dessa ogräs, växtsjukdomar och skadedjur kan förorsaka samt för lämpliga motåtgärder",
+      "1Redogörelsen innehåller **enkla** biologiska förklaringar och **enkla** ekonomiska samband",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ],
+    "C": [
+      "0Eleven upprättar en **genomarbetad** odlingsplan med utgångspunkt i aktuella odlingsförutsättningar samt motiverar **utförligt** sina val i planen",
+      "0Planen innehåller en ekonomisk kalkyl",
+      "0Eleven bedömer **efter samråd** med handledare när och hur de planerade arbetsuppgifterna ska genomföras med tanke på odlingsresultat och miljöhänsyn",
+      "0Eleven organiserar, planerar och utför **efter samråd** med handledare aktuella arbetsuppgifter inom växtodling och lagring med aktuell teknisk utrustning",
+      "0Resultatet av arbetet är **tillfredsställande**",
+      "0I arbetet löser eleven **efter samråd** med handledare de problem som uppstår",
+      "0Eleven arbetar säkert och ergonomiskt riktigt med den tekniska utrustningen",
+      "0Eleven redogör **utförligt** för och arbetar i enlighet med lagar och andra bestämmelser som rör växtodling",
+      "0Eleven redogör **utförligt** för lagring av olika produkter",
+      "0Redogörelsen innehåller **välgrundade** förklaringar till de biologiska processer som sker i samband med lagring",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1I samband med fältstudier beskriver eleven **utförligt** resultatet av genomförda odlingsåtgärder",
+      "1Beskrivningen innehåller **välgrundade** förklaringar kring grödornas utveckling och kondition, **välgrundade** biologiska och ekonomiska samband, **välgrundade** bedömningar av klimatets inverkan samt **välgrundade** förslag till fortsatta åtgärder",
+      "1Eleven identifierar **med viss säkerhet** ett flertal vanliga ogräs, växtsjukdomar och skadedjur på lantbruksgrödor",
+      "1Dessutom redogör eleven **utförligt** för de skador som dessa ogräs, växtsjukdomar och skadedjur kan förorsaka samt för lämpliga motåtgärder",
+      "1Redogörelsen innehåller **välgrundade** biologiska förklaringar och **välgrundade** ekonomiska samband",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ],
+    "A": [
+      "0Eleven upprättar en **genomarbetad** odlingsplan med utgångspunkt i aktuella odlingsförutsättningar samt motiverar **utförligt och nyanserat** sina val i planen",
+      "0Planen innehåller en **avancerad** ekonomisk kalkyl",
+      "0Eleven bedömer **efter samråd** med handledare när och hur de planerade arbetsuppgifterna ska genomföras med tanke på odlingsresultat och miljöhänsyn",
+      "0Eleven organiserar, planerar och utför **efter samråd** med handledare aktuella arbetsuppgifter inom växtodling och lagring med aktuell teknisk utrustning",
+      "0Resultatet av arbetet är **gott**",
+      "0I arbetet löser eleven **efter samråd** med handledare de problem som uppstår",
+      "0Eleven arbetar säkert och ergonomiskt riktigt med den tekniska utrustningen",
+      "0Eleven redogör **utförligt** för och arbetar i enlighet med lagar och andra bestämmelser som rör växtodling",
+      "0Eleven redogör **utförligt och nyanserat** för lagring av olika produkter",
+      "0Redogörelsen innehåller **välgrundade och nyanserade** förklaringar till de biologiska processer som sker i samband med lagring",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1I samband med fältstudier beskriver eleven **utförligt och nyanserat** resultatet av genomförda odlingsåtgärder",
+      "1Beskrivningen innehåller **välgrundade och nyanserade** förklaringar kring grödornas utveckling och kondition, **välgrundade och nyanserade** biologiska och ekonomiska samband, **välgrundade och nyanserade** bedömningar av klimatets inverkan samt **välgrundade och nyanserade** förslag till fortsatta åtgärder",
+      "1Eleven identifierar **med säkerhet** ett flertal vanliga ogräs, växtsjukdomar och skadedjur på lantbruksgrödor",
+      "1Dessutom redogör eleven **utförligt och nyanserat** för de skador som dessa ogräs, växtsjukdomar och skadedjur kan förorsaka samt för lämpliga motåtgärder",
+      "1Redogörelsen innehåller **välgrundade och nyanserade** biologiska förklaringar och **välgrundade och nyanserade** ekonomiska samband",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ]
+  }
+}

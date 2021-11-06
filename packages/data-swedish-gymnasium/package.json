@@ -6,6 +6,7 @@
   "scripts": {
     "fetch": "del-cli 'data/raw/**/*' && ts-node fetch.ts",
     "normalize": "del-cli 'data/normalized/**/*' && ts-node normalize.ts",
+    "normalize-fast": "ts-node normalize.ts",
     "clean": "del-cli 'data/**/*' && del-cli 'out/**/*'",
     "build": "ts-node index.ts",
     "dev": "ts-node-dev --cls --respawn index.ts",

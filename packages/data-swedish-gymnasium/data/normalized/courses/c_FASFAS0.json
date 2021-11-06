@@ -1,0 +1,83 @@
+{
+  "name": "Fastighetsservice – byggnader",
+  "code": "FASFAS0",
+  "focusAreas": {
+    "string": "Kursen fastighetsservice – byggnader omfattar punkterna 1–2 och 4–8 under rubriken Ämnets syfte.",
+    "entries": [
+      "1–2",
+      "4–8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Byggnaders tekniska konstruktion och byggmaterials egenskaper. Övergripande bygglagstiftning för byggnaders konstruktion och material.",
+          "2. Vanliga byggskador, hur de kan förebyggas och åtgärdas.",
+          "3. Metoder och tekniker för materialuppbyggnad, ytbehandling och för- och efterbehandling vid reparations- och underhållsarbete.",
+          "4. Underhållsrutiner, regler, bestämmelser och besiktningsplaner för maskiner, utrustning, hisstyper, nödöppningar, material och konstruktioner.",
+          "5. Säkerhetskontroller samt hur arbetet kan utföras på ett säkert sätt och med miljöhänsyn.",
+          "6. Systematiskt säkerhetsarbete, riskhantering, brandrisk och brandskydd.",
+          "7. Metoder och tekniker för periodiskt förebyggande och avhjälpande underhåll samt för reparationer av fastigheter, utrustning och aktuella maskiner.",
+          "8. Ritningsläsning, underhållsscheman, manualer och innehållsdeklarationer.",
+          "9. Felsökning och felavhjälpning av konstruktionsfel, slitage och mekaniska fel.",
+          "10. Metoder för dokumentation av utförda åtgärder."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven beskriver **översiktligt** olika byggnaders konstruktion, byggmaterials egenskaper samt hur byggnaders konstruktion och material regleras genom lagar och andra bestämmelser",
+      "0Eleven redogör också **översiktligt** för hur vanliga byggskador kan förebyggas och åtgärdas samt olika metoder och tekniker för materialuppbyggnad, ytbehandling och för- och efterbehandling",
+      "0Dessutom redogör eleven **översiktligt** för underhållsrutiner för maskiner, utrustning, hisstyper, nödöppningar, material och konstruktioner samt hur man arbetar på ett sätt som är säkert för en själv och andra",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar **i samråd** med handledare förebyggande och avhjälpande underhåll och reparation av fastigheter och av inredning och utrustning i fastigheter",
+      "1I planeringen väljer eleven **med viss säkerhet** metod, material, verktyg och teknik",
+      "1Eleven utför **i samråd** med handledare underhålls- och reparationsarbetet med **tillfredsställande** resultat",
+      "1I arbetet tolkar och använder eleven **med viss säkerhet** ritningar, underhållsscheman, manualer och innehållsdeklarationer",
+      "1Dessutom använder eleven **med viss säkerhet** lämpliga metoder, material, verktyg och tekniker",
+      "1Eleven utför **i samråd** med handledare felsökning och vidtar lämpliga åtgärder",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När arbetet är utfört gör eleven en **enkel** dokumentation av utförda åtgärder samt utvärderar med **enkla** omdömen sitt arbete och resultat",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "C": [
+      "0Eleven beskriver **utförligt** olika byggnaders konstruktion, byggmaterials egenskaper samt hur byggnaders konstruktion och material regleras genom lagar och andra bestämmelser",
+      "0Eleven redogör också **utförligt** för hur vanliga byggskador kan förebyggas och åtgärdas samt olika metoder och tekniker för materialuppbyggnad, ytbehandling och för- och efterbehandling",
+      "0Dessutom redogör eleven **utförligt** för underhållsrutiner för maskiner, utrustning, hisstyper, nödöppningar, material och konstruktioner samt hur man arbetar på ett sätt som är säkert för en själv och andra",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar **efter samråd** med handledare förebyggande och avhjälpande underhåll och reparation av fastigheter och av inredning och utrustning i fastigheter",
+      "1I planeringen väljer eleven **med viss säkerhet** metod, material, verktyg och teknik",
+      "1Eleven utför **efter samråd** med handledare underhålls- och reparationsarbetet med **tillfredsställande** resultat",
+      "1I arbetet tolkar och använder eleven **med viss säkerhet** ritningar, underhållsscheman, manualer och innehållsdeklarationer",
+      "1Dessutom använder eleven **med viss säkerhet** lämpliga metoder, material, verktyg och tekniker",
+      "1Eleven utför **efter samråd** med handledare felsökning och vidtar lämpliga åtgärder",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När arbetet är utfört gör eleven en **noggrann** dokumentation av utförda åtgärder samt utvärderar med **nyanserade** omdömen sitt arbete och resultat",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "A": [
+      "0Eleven beskriver **utförligt och nyanserat** olika byggnaders konstruktion, byggmaterials egenskaper samt hur byggnaders konstruktion och material regleras genom lagar och andra bestämmelser",
+      "0Eleven redogör också **utförligt och nyanserat** för hur vanliga byggskador kan förebyggas och åtgärdas samt olika metoder och tekniker för materialuppbyggnad, ytbehandling och för- och efterbehandling",
+      "0Dessutom redogör eleven **utförligt och nyanserat** för underhållsrutiner för maskiner, utrustning, hisstyper, nödöppningar, material och konstruktioner samt hur man arbetar på ett sätt som är säkert för en själv och andra",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar **efter samråd** med handledare förebyggande och avhjälpande underhåll och reparation av fastigheter och av inredning och utrustning i fastigheter",
+      "1I planeringen väljer eleven **med säkerhet** metod, material, verktyg och teknik",
+      "1Eleven utför **efter samråd** med handledare underhålls- och reparationsarbetet med **gott** resultat",
+      "1I arbetet tolkar och använder eleven **med säkerhet** ritningar, underhållsscheman, manualer och innehållsdeklarationer",
+      "1Dessutom använder eleven **med säkerhet** lämpliga metoder, material, verktyg och tekniker",
+      "1Eleven utför **efter samråd** med handledare felsökning och vidtar lämpliga åtgärder",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När arbetet är utfört gör eleven en **noggrann och utförlig** dokumentation av utförda åtgärder samt utvärderar med **nyanserade** omdömen sitt arbete och resultat **och ger förslag på hur arbetet kan förbättras**",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ]
+  }
+}

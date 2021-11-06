@@ -1,0 +1,96 @@
+{
+  "name": "Ventilationsisolering",
+  "code": "VEIVEN0",
+  "focusAreas": {
+    "string": "Kursen ventilationsisolering omfattar punkterna 1 – 10 under rubriken Ämnets syfte.",
+    "entries": [
+      "1",
+      "10"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Termisk isolering samt kondens-, ljud- och brandisolering.",
+          "2. Förhindrande av brandspridning, brandgenomföring, brandspjäll, isolering och upphängningar.",
+          "3. Isoleringsmaterial och deras konstruktion, egenskaper och användningsområde.",
+          "4. Material för ytbeklädnad vid isolering av ventilationsanläggningar.",
+          "5. Byggregler, rådande standarder samt material och arbetsbeskrivningar.",
+          "6. Isoleringsteori, ritningar, arbetsbeskrivningar och monteringsanvisningar.",
+          "7. Isoleringsteknik med metoder och utrustning för ventilationsanläggningar.",
+          "8. Planering och organisering av arbetsplatser och arbetsuppgifter vid isolering.",
+          "9. Verktyg, maskiner och andra hjälpmedel.",
+          "10. Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen.",
+          "11. Kontroll och dokumentation av utförda åtgärder.",
+          "12. Facktermer i relation till arbetsuppgiften.",
+          "13. Hållbart byggande. Hantering av material, till exempel förvaring, minimering av spill samt sortering av byggavfall och restprodukter. Resursanvändande kopplat till arbetsuppgiften.",
+          "14. Ergonomiskt riktigt arbetssätt."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven beskriver **översiktligt** olika typer av isoleringsmaterial, hur de är konstruerade samt vilka egenskaper och användningsområden de har",
+      "0Eleven redogör också **översiktligt** för äldre isoleringsmaterial och arbetsmetoder",
+      "0Dessutom beskriver eleven **översiktligt** material för ytbeklädnad av ventilationsanläggningar",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar **i samråd** med handledare sitt arbete",
+      "1I planeringen väljer eleven **med viss säkerhet** någon vanligt förekommande metod",
+      "1Eleven utför **i samråd** med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav",
+      "1I arbetet använder eleven med **visst** handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem",
+      "1Dessutom gör eleven en **enkel** riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra",
+      "1När arbetet är utfört gör eleven **i samråd** med handledare kontroller",
+      "1Eleven värderar också med **enkla** omdömen om arbetet uppfyller fastställda kvalitetskrav",
+      "1Dessutom gör eleven en **enkel** dokumentation av utförda åtgärder",
+      "1Eleven redogör **översiktligt** för vilken betydelse materialval, arbetsprocess och resultatet har för en hållbar utveckling",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2I arbetet samverkar och kommunicerar eleven med andra samt använder fackspråk **med viss säkerhet**",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "C": [
+      "0Eleven beskriver **utförligt** olika typer av isoleringsmaterial, hur de är konstruerade samt vilka egenskaper och användningsområden de har",
+      "0Eleven redogör också **utförligt** för äldre isoleringsmaterial och arbetsmetoder",
+      "0Dessutom beskriver eleven **utförligt** material för ytbeklädnad av ventilationsanläggningar",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar **efter samråd** med handledare sitt arbete",
+      "1I planeringen väljer eleven **med viss säkerhet** någon vanligt förekommande metod",
+      "1Eleven utför **efter samråd** med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav",
+      "1I arbetet använder eleven med **gott** handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem",
+      "1Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra",
+      "1När arbetet är utfört gör eleven **efter samråd** med handledare kontroller",
+      "1Eleven värderar också med **nyanserade** omdömen om arbetet uppfyller fastställda kvalitetskrav",
+      "1Dessutom gör eleven en **noggrann** dokumentation av utförda åtgärder",
+      "1Eleven redogör **utförligt** för vilken betydelse materialval, arbetsprocess och resultatet har för en hållbar utveckling",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2I arbetet samverkar och kommunicerar eleven med andra samt använder fackspråk **med viss säkerhet**",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "A": [
+      "0Eleven beskriver **utförligt och nyanserat** olika typer av isoleringsmaterial, hur de är konstruerade samt vilka egenskaper och användningsområden de har",
+      "0Eleven redogör också **utförligt och nyanserat** för äldre isoleringsmaterial och arbetsmetoder",
+      "0Dessutom beskriver eleven **utförligt och nyanserat** material för ytbeklädnad av ventilationsanläggningar",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar **efter samråd** med handledare sitt arbete",
+      "1I planeringen väljer eleven **med säkerhet** någon vanligt förekommande metod",
+      "1Eleven utför **efter samråd** med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav",
+      "1I arbetet använder eleven med **mycket gott** handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem",
+      "1Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra",
+      "1När arbetet är utfört gör eleven **efter samråd** med handledare kontroller",
+      "1Eleven värderar också med **nyanserade** omdömen om arbetet uppfyller fastställda kvalitetskrav **samt ger förslag på hur arbetet kan förbättras**",
+      "1Dessutom gör eleven en **noggrann och utförlig** dokumentation av utförda åtgärder",
+      "1Eleven redogör **utförligt och nyanserat** för vilken betydelse materialval, arbetsprocess och resultatet har för en hållbar utveckling",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2I arbetet samverkar och kommunicerar eleven med andra samt använder fackspråk **med säkerhet**",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Cad 2",
+  "code": "CADCAD02",
+  "focusAreas": {
+    "string": "Kursen cad 2 omfattar punkterna 1–2 och 4–7 under rubriken Ämnets syfte.",
+    "entries": [
+      "1–2",
+      "4–7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Cad-systemets inställningar för sammanställningar och analys.",
+          "2. Skiss- och ritteknik inom valt teknikområde.",
+          "3. Ritningsunderlag enligt gällande standarder och normer för valt teknikområde.",
+          "4. Grunderna för att skapa sammanställningar i tre dimensioner med beaktande av konstruktionsvillkor.",
+          "5. Grundläggande applikationer beroende på teknikområde, till exempel FEM-analys (finita elementmetoden) inom produktutveckling och byggteknik.",
+          "6. Cad-systemets roll i produktutvecklings- och produktionsprocessen."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven gör **enkla** inställningar av cad-programvaror för sammanställningar och applikationer",
+      "0Dessutom gör eleven skisser och ritningar för produktionsändamål med **tillfredsställande** resultat enligt gällande standarder",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven utför **enkla** sammanställningar med **tillfredsställande** resultat",
+      "1I arbetet använder eleven **med viss säkerhet** applikationer i olika **enkla** situationer",
+      "1När arbetet är utfört utvärderar eleven sitt arbete och resultat med **enkla** omdömen",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION"
+    ],
+    "C": [
+      "0Eleven **väljer och** gör inställningar av cad-programvaror för sammanställningar och applikationer **samt diskuterar översiktligt alternativa inställningar**",
+      "0Dessutom gör eleven skisser och ritningar för produktionsändamål med **tillfredsställande** resultat enligt gällande standarder",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven utför **komplexa** sammanställningar med **tillfredsställande** resultat",
+      "1I arbetet använder eleven **med viss säkerhet** applikationer i olika situationer",
+      "1När arbetet är utfört utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION"
+    ],
+    "A": [
+      "0Eleven **väljer och** gör **avancerade** inställningar av cad-programvaror för sammanställningar och applikationer **samt diskuterar utförligt alternativa inställningar**",
+      "0Dessutom gör eleven skisser och ritningar för produktionsändamål med **gott** resultat enligt gällande standarder",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven utför **komplexa** sammanställningar med **gott** resultat",
+      "1I arbetet använder eleven **med säkerhet** applikationer i olika **komplexa** situationer",
+      "1När arbetet är utfört utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen **samt ger förslag på hur arbetat kan förbättras**",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION"
+    ]
+  }
+}

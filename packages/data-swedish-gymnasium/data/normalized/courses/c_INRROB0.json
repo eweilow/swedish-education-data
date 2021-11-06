@@ -1,0 +1,77 @@
+{
+  "name": "Robotteknik",
+  "code": "INRROB0",
+  "focusAreas": {
+    "string": "Kursen robotteknik omfattar punkterna 1–7 under rubriken Ämnets syfte.",
+    "entries": [
+      "1–7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Industrirobotens principiella uppbyggnad och användningsområden.",
+          "2. Robottekniska begrepp, definition och användning av olika koordinatsystem samt grundläggande kinematik.",
+          "3. Vanligt förekommande standarder inom robotteknik, till exempel standarder för informationsteknik och säkerhet.",
+          "4. Kontroll före drifttagning samt provkörning av program på ett säkert sätt vad gäller både person och utrustning.",
+          "5. Tillämpning av gällande säkerhetsföreskrifter vid arbete i robotcellen.",
+          "6. Val av gripdon.",
+          "7. Kommunikation mellan robotsystemet och yttre enheter i robotcellen.",
+          "8. Metoder för skriftlig och muntlig dokumentation av robotcellens funktion, uppbyggnad och program.",
+          "9. Programskrivning bestående av huvudrutin och underrutin samt ändring och definition av systemparametrar.",
+          "10. Felsökning i robotcellen.",
+          "11. Förebyggande och avhjälpande underhåll av industrirobotar."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven redogör **översiktligt** för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom robotteknik",
+      "0Dessutom redogör eleven **översiktligt** för begrepp och standarder som styr arbetet med automatiserade system inom robotteknik",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar och utför **i samråd** med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett **tillfredsställande** sätt uppfyller fastställda kvalitets- och miljökrav",
+      "1Eleven arbetar på ett sätt som är säkert för eleven själv och andra",
+      "1I arbetet använder eleven **med viss säkerhet** manualer, scheman och ritningar",
+      "1Vidare driftsätter och kontrollerar eleven **i samråd** med handledare anläggningen, upptäcker och åtgärdar **i samråd** med handledare de fel som uppstår samt genomför en **enkel** dokumentation av sitt arbete",
+      "1Eleven strukturerar uppgiften **med viss säkerhet** och programmerar eller konfigurerar med **visst** handlag styrsystemet för anläggningens funktioner",
+      "1Vidare förebygger eleven **i samråd** med handledare fel och optimerar med **visst** handlag anläggningen",
+      "1I arbetet beskriver eleven **översiktligt** hur de olika delarna fungerar och samverkar",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ],
+    "C": [
+      "0Eleven redogör **utförligt** för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom robotteknik",
+      "0Dessutom redogör eleven **utförligt** för begrepp och standarder som styr arbetet med automatiserade system inom robotteknik",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar och utför **efter samråd** med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett **tillfredsställande** sätt uppfyller fastställda kvalitets- och miljökrav",
+      "1Eleven arbetar på ett sätt som är säkert för eleven själv och andra",
+      "1I arbetet använder eleven **med viss säkerhet** manualer, scheman och ritningar",
+      "1Vidare driftsätter och kontrollerar eleven **efter samråd** med handledare anläggningen, upptäcker och åtgärdar **efter samråd** med handledare de fel som uppstår samt genomför en **noggrann** dokumentation av sitt arbete",
+      "1Eleven strukturerar uppgiften **med viss säkerhet** och programmerar eller konfigurerar med **gott** handlag styrsystemet för anläggningens funktioner",
+      "1Vidare förebygger eleven **efter samråd** med handledare fel och optimerar med **gott** handlag anläggningen",
+      "1I arbetet beskriver eleven **utförligt** hur de olika delarna fungerar och samverkar **samt föreslår enkla förbättringar av anläggningen**",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ],
+    "A": [
+      "0Eleven redogör **utförligt och nyanserat** för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom robotteknik",
+      "0Dessutom redogör eleven **utförligt och nyanserat** för begrepp och standarder som styr arbetet med automatiserade system inom robotteknik",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar och utför **efter samråd** med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett **gott** sätt uppfyller fastställda kvalitets- och miljökrav",
+      "1Eleven arbetar på ett sätt som är säkert för eleven själv och andra",
+      "1I arbetet använder eleven **med säkerhet** manualer, scheman och ritningar",
+      "1Vidare driftsätter och kontrollerar eleven **efter samråd** med handledare anläggningen, upptäcker och åtgärdar **efter samråd** med handledare de fel som uppstår samt genomför en **noggrann och utförlig** dokumentation av sitt arbete",
+      "1Eleven strukturerar uppgiften **med viss säkerhet** och programmerar eller konfigurerar med **mycket gott** handlag styrsystemet för anläggningens funktioner",
+      "1Vidare förebygger eleven **efter samråd** med handledare fel och optimerar med **mycket gott** handlag anläggningen",
+      "1I arbetet beskriver eleven **utförligt och nyanserat** hur de olika delarna fungerar och samverkar **samt föreslår välgrundade förbättringar av anläggningen**",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ]
+  }
+}

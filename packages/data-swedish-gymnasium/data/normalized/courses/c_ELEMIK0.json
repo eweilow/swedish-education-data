@@ -1,0 +1,80 @@
+{
+  "name": "Mikrodatortillämpningar",
+  "code": "ELEMIK0",
+  "focusAreas": {
+    "string": "Kursen mikrodatortillämpningar omfattar punkterna 1–5 och 7–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "entries": [
+      "1–5",
+      "7–8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Egenskaper hos olika typer av mikrodatorkretsar.",
+          "2. Mikrodatorns dataminne och programminne.",
+          "3. Integrerade funktioner, till exempel timer, serie-interface, AD- och DA-omvandlare, watchdog och displaydrivare.",
+          "4. Användningsområden för mikrodatorer.",
+          "5. Fältprogrammerbara logikkretsar och deras användningsområden.",
+          "6. Interface-kopplingar.",
+          "7. Seriella bussar och deras anslutning.",
+          "8. Presentationsenheter och displayer.",
+          "9. Utvecklingsverktyg och utvecklingsmiljöer.",
+          "10. Vanligt förekommande programmeringsspråk.",
+          "11. Programmering med datorhjälp.",
+          "12. Programutveckling och avlusning av program.",
+          "13. Användning av flödesdiagram.",
+          "14. Begreppen mikrocontroller och mikroprocessor.",
+          "15. Begreppet inbyggda system.",
+          "16. Felsökning i hård- och mjukvara."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven beskriver **översiktligt** funktion, egenskaper och arbetssätt hos vanligt förekommande mikrodatorer och programmerbara logikkretsar",
+      "0Dessutom beskriver eleven **översiktligt** deras användningsområden",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar och löser **i samråd** med handledare styr- och mättekniska problem med hjälp av mikrodatorkretsar och programmerbara logikkretsar",
+      "1Eleven programmerar kretsarna så att de på ett **tillfredsställande** sätt uppfyller kraven på funktion och säkerhet",
+      "1I arbetet använder och tolkar eleven **med viss säkerhet** begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven utför **med viss säkerhet** felsökning i hård- och mjukvara",
+      "2Dessutom utför eleven **enkla** kretsmätningar samt datorsimuleringar av elektronikuppkopplingar",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "C": [
+      "0Eleven beskriver **utförligt** funktion, egenskaper och arbetssätt hos vanligt förekommande mikrodatorer och programmerbara logikkretsar",
+      "0Dessutom beskriver eleven **utförligt** deras användningsområden",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar och löser **efter samråd** med handledare styr- och mättekniska problem med hjälp av mikrodatorkretsar och programmerbara logikkretsar",
+      "1Eleven programmerar kretsarna så att de på ett **tillfredsställande** sätt uppfyller kraven på funktion och säkerhet",
+      "1I arbetet använder och tolkar eleven **med viss säkerhet** begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven utför **med viss säkerhet** felsökning i hård- och mjukvara",
+      "2Dessutom utför eleven kretsmätningar samt datorsimuleringar av elektronikuppkopplingar",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "A": [
+      "0Eleven beskriver **utförligt och nyanserat** funktion, egenskaper och arbetssätt hos vanligt förekommande mikrodatorer och programmerbara logikkretsar",
+      "0Dessutom beskriver eleven **utförligt och nyanserat** deras användningsområden",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar och löser **efter samråd** med handledare **avancerade** styr- och mättekniska problem med hjälp av mikrodatorkretsar och programmerbara logikkretsar",
+      "1Eleven programmerar kretsarna så att de på ett **gott** sätt uppfyller kraven på funktion och säkerhet",
+      "1I arbetet använder och tolkar eleven **med säkerhet** begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven utför **med säkerhet** felsökning i hård- och mjukvara",
+      "2Dessutom utför eleven **avancerade** kretsmätningar samt datorsimuleringar av elektronikuppkopplingar",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ]
+  }
+}

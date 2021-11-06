@@ -1,0 +1,107 @@
+{
+  "name": "Lantbruksmaskiner 2",
+  "code": "LAULAT02",
+  "focusAreas": {
+    "string": "Kursen lantbruksmaskiner 2 omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 1, 3 och 5.",
+    "entries": [
+      "1–8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Teknisk grund",
+        "rows": [
+          "1. Användningsområden för maskiner och teknisk utrustning.",
+          "2. Tekniska system för styrning, kontroll och datainsamling.",
+          "3. Val av maskiner, teknisk utrustning och mekaniseringskedjor.",
+          "4. Teknik och biologi i samverkan.",
+          "5. Maskinekonomi och maskinsamverkan.",
+          "6. Aktuell teknisk utveckling – försök och forskning."
+        ]
+      },
+      {
+        "title": "Arbete med lantbruksmaskiner",
+        "rows": [
+          "1. Planering av arbetsmetoder inför användning av lantbruksmaskiner.",
+          "2. Arbetsmetodik vid till exempel plöjning, harvning, mekanisk ogräsbekämpning, tröskning, bärgning av halm samt vallskörd.",
+          "3. Service, underhåll och enklare reparationer av teknisk utrustning.",
+          "4. Inställning av maskiner för optimalt utnyttjande i samband med olika arbetsmoment.",
+          "5. Funktionskontroll och felsökning på maskiner och teknisk utrustning.",
+          "6. Bedömning av arbetsresultat."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Ergonomi samt arbetsmiljö- och säkerhetsfrågor i samband med användning av lantbruksmaskiner.",
+          "2. Brandförebyggande åtgärder.",
+          "3. Lagar och andra bestämmelser inom området."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven beskriver **översiktligt** konstruktion och funktion av samt användningsområden för lantbruksmaskiner och för teknisk utrustning för styrning, kontroll och insamling av data",
+      "0Beskrivningen innehåller **enkla** samband mellan hur den tekniska utrustningen används och kvaliteten på det uppnådda arbetsresultatet",
+      "0Eleven redogör också **översiktligt** för hur olika maskiner och maskiners tekniska utrustning passar för olika förutsättningar och arbetsuppgifter",
+      "0Dessutom redogör eleven **översiktligt** för hur biologiska, tekniska och ekonomiska faktorer påverkar val av maskiner, teknisk utrustning, arbetsmetoder och tidpunkt för att utföra olika arbetsuppgifter",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven följer arbetsinstruktioner samt kör och manövrerar **i samråd** med handledare lantbruksmaskiner för att utföra olika arbetsuppgifter",
+      "1Eleven använder med **visst** handlag teknisk utrustning för styrning, kontroll och insamling av data samt utför **i samråd** med handledare service, underhåll och enklare reparationer av utrustningen",
+      "1Dessutom ställer eleven **i samråd** med handledare in den tekniska utrustningen samt utför **i samråd** med handledare funktionskontroller",
+      "1I arbetet löser eleven **i samråd** med handledare de problem som uppstår",
+      "1Resultatet av arbetet är **tillfredsställande**",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven arbetar säkert och ergonomiskt med maskinerna och utrustningen samt tar hänsyn till miljön",
+      "2Dessutom redogör eleven **översiktligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer",
+      "2När arbetet är utfört gör eleven en **enkel** bedömning av arbetsresultatet och rapporterar det",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "C": [
+      "0Eleven beskriver **utförligt** konstruktion och funktion av samt användningsområden för lantbruksmaskiner och för teknisk utrustning för styrning, kontroll och insamling av data",
+      "0Beskrivningen innehåller **välgrundade** samband mellan hur den tekniska utrustningen används och kvaliteten på det uppnådda arbetsresultatet",
+      "0Eleven redogör också **utförligt** för hur olika maskiner och maskiners tekniska utrustning passar för olika förutsättningar och arbetsuppgifter",
+      "0Dessutom redogör eleven **utförligt** för hur biologiska, tekniska och ekonomiska faktorer påverkar val av maskiner, teknisk utrustning, arbetsmetoder och tidpunkt för att utföra olika arbetsuppgifter",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven följer arbetsinstruktioner samt kör och manövrerar **efter samråd** med handledare lantbruksmaskiner för att utföra olika arbetsuppgifter",
+      "1Eleven använder med **gott** handlag teknisk utrustning för styrning, kontroll och insamling av data samt utför **efter samråd** med handledare service, underhåll och enklare reparationer av utrustningen",
+      "1Dessutom ställer eleven **efter samråd** med handledare in den tekniska utrustningen samt utför **efter samråd** med handledare funktionskontroller",
+      "1I arbetet löser eleven **efter samråd** med handledare de problem som uppstår",
+      "1Resultatet av arbetet är **tillfredsställande**",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven arbetar säkert och ergonomiskt med maskinerna och utrustningen samt tar hänsyn till miljön",
+      "2Dessutom redogör eleven **utförligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer",
+      "2När arbetet är utfört gör eleven en **välgrundad** bedömning av arbetsresultatet och rapporterar det",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "A": [
+      "0Eleven beskriver **utförligt och nyanserat** konstruktion och funktion av samt användningsområden för lantbruksmaskiner och för teknisk utrustning för styrning, kontroll och insamling av data",
+      "0Beskrivningen innehåller **välgrundade och nyanserade** samband mellan hur den tekniska utrustningen används och kvaliteten på det uppnådda arbetsresultatet",
+      "0Eleven redogör också **utförligt och nyanserat** för hur olika maskiner och maskiners tekniska utrustning passar för olika förutsättningar och arbetsuppgifter",
+      "0Dessutom redogör eleven **utförligt och nyanserat** för hur biologiska, tekniska och ekonomiska faktorer påverkar val av maskiner, teknisk utrustning, arbetsmetoder och tidpunkt för att utföra olika arbetsuppgifter",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven följer arbetsinstruktioner samt kör och manövrerar **efter samråd** med handledare lantbruksmaskiner för att utföra olika arbetsuppgifter",
+      "1Eleven använder med **mycket gott** handlag teknisk utrustning för styrning, kontroll och insamling av data samt utför **efter samråd** med handledare service, underhåll och enklare reparationer av utrustningen",
+      "1Dessutom ställer eleven **efter samråd** med handledare in den tekniska utrustningen samt utför **efter samråd** med handledare funktionskontroller",
+      "1I arbetet löser eleven **efter samråd** med handledare de problem som uppstår",
+      "1Resultatet av arbetet är **gott**",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven arbetar säkert och ergonomiskt med maskinerna och utrustningen samt tar hänsyn till miljön",
+      "2Dessutom redogör eleven **utförligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer",
+      "2När arbetet är utfört gör eleven en **välgrundad och nyanserad** bedömning av arbetsresultatet och rapporterar det",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Mät- och reglerteknik",
+  "code": "MÄTMÄT0",
+  "focusAreas": {
+    "string": "Kursen mät- och reglerteknik omfattar punkterna 1–5 under rubriken Ämnets syfte.",
+    "entries": [
+      "1–5"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Enklare reglertekniska laborationer med inställningar av den proportionella förstärkningen och den integrerande förstärkningen samt den deriverande verkan i regulatorn.",
+          "2. Enklare mättekniska laborationer med mätning av temperatur.",
+          "3. Inkoppling, kontroll och injustering av vanligt förekommande mät- och reglertekniska komponenter med begrepp som NPN/PNP, sink/source, polaritetsskydd och kortslutningsskydd.",
+          "4. Pneumatiska eller hydrauliska ventiler samt pådrags och ställdons funktioner, beteckningar, märkningar och symboler.",
+          "5. Signalföljning och funktionsanalys av en enkel mät- och reglerteknisk anläggning med hjälp av mätinstrument, ritningar, scheman, datablad och manualer.",
+          "6. Grundläggande mät- och reglertekniska begrepp, till exempel stegsvar, rampsvar, dödtid, tidskonstant, linjäritet, hysteres, span, zero, kalibrering, onoggrannhet, repeterbarhet, reproducerbarhet, proportionellt band, proportionell förstärkning, integrerande tidskonstant och deriverande verkan.",
+          "7. Grundläggande mätosäkerhet, dess syfte och terminologi.",
+          "8. Grundläggande industriell mätteknik med vanligt förekommande metoder för att mäta temperatur, tryck, flöde och nivå.",
+          "9. Introduktion till test, kalibrering och spårbarhet för temperatur, tryck, flöde och nivå.",
+          "10. Metoder för att identifiera, förebygga och avhjälpa fel i mät- och reglertekniska anläggningar.",
+          "11. Metoder för dokumentation av mät- och reglertekniska arbeten."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven planerar och utför **i samråd** med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra",
+      "0I arbetet läser och tolkar eleven **med viss säkerhet** scheman över styr- och reglertekniska komponenter och system",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven gör **enkla** mätningar av styr- och reglertekniska storheter",
+      "1Dessutom felsöker eleven **i samråd** med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar **i samråd** med handledare eventuella fel som har uppstått",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När arbetet är utfört gör eleven en **enkel** dokumentation av sitt arbete med styr- och reglertekniska komponenter och system",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "C": [
+      "0Eleven planerar och utför **efter samråd** med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra",
+      "0I arbetet läser och tolkar eleven **med viss säkerhet** scheman över styr- och reglertekniska komponenter och system",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven gör mätningar av styr- och reglertekniska storheter",
+      "1Dessutom felsöker eleven **efter samråd** med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar **efter samråd** med handledare eventuella fel som har uppstått",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När arbetet är utfört gör eleven en **noggrann** dokumentation av sitt arbete med styr- och reglertekniska komponenter och system",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "A": [
+      "0Eleven planerar och utför **efter samråd** med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra",
+      "0I arbetet läser och tolkar eleven **med säkerhet** scheman över styr- och reglertekniska komponenter och system",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven gör **avancerade** mätningar av styr- och reglertekniska storheter",
+      "1Dessutom felsöker eleven **efter samråd** med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar **efter samråd** med handledare eventuella fel som har uppstått",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När arbetet är utfört gör eleven en **noggrann och utförlig** dokumentation av sitt arbete med styr- och reglertekniska komponenter och system",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ]
+  }
+}

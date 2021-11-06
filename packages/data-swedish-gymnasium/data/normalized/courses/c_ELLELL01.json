@@ -1,0 +1,77 @@
+{
+  "name": "Ellära 1",
+  "code": "ELLELL01",
+  "focusAreas": {
+    "string": "Kursen ellära 1 omfattar punkterna 2, 4–5 och 7 under rubriken Ämnets syfte.",
+    "entries": [
+      "2",
+      "4–5",
+      "7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Ledare, halvledare och isolatorer.",
+          "2. Elektriska storheter i lik- och enfasväxelströmskretsar.",
+          "3. Grundläggande principer för motorer, generatorer och transformatorer samt för överföring av elenergi.",
+          "4. Elektrisk serie och parallell koppling.",
+          "5. Lik- och enfasväxelström.",
+          "6. Elektriska och magnetiska fält.",
+          "7. Elektromagnetisk kompabilitet (EMC), övertoner och faskompensering.",
+          "8. Resistiva, induktiva och kapacitiva kretsar.",
+          "9. Olika mättekniker samt metoder för att analysera mätvärden och utföra felsökning och felavhjälpning."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven redogör **översiktligt** för lik- och enfasväxelströmskretsars uppbyggnad och funktion samt för olika belastningars inverkan på kretsar och elsystem",
+      "0Dessutom redogör eleven **översiktligt** för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven utför **i samråd** med handledare elektriska mätningar på lik- och enfasväxelströmskretsar",
+      "1Inför arbetet väljer eleven **med viss säkerhet** lämpliga mätmetoder och mätinstrument",
+      "1Dessutom gör eleven en **enkel** riskbedömning och anpassar vid behov mätningen efter den",
+      "1Eleven utför **i samråd** med handledare **enkla** beräkningar",
+      "1Utifrån resultaten av mätningarna och beräkningarna föreslår eleven **med viss säkerhet** lämpliga åtgärder för att avhjälpa fel i elsystemet",
+      "1Eleven utför **i samråd** med handledare dessa åtgärder",
+      "1Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ],
+    "C": [
+      "0Eleven redogör **utförligt** för lik- och enfasväxelströmskretsars uppbyggnad och funktion samt för olika belastningars inverkan på kretsar och elsystem",
+      "0Dessutom redogör eleven **utförligt** för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven utför **efter samråd** med handledare elektriska mätningar på lik- och enfasväxelströmskretsar",
+      "1Inför arbetet väljer eleven **med viss säkerhet** lämpliga mätmetoder och mätinstrument",
+      "1Dessutom gör eleven en riskbedömning och anpassar vid behov mätningen efter den",
+      "1Eleven utför **efter samråd** med handledare beräkningar",
+      "1Utifrån resultaten av mätningarna och beräkningarna föreslår eleven **med viss säkerhet** lämpliga åtgärder för att avhjälpa fel i elsystemet",
+      "1Eleven utför **efter samråd** med handledare dessa åtgärder",
+      "1Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ],
+    "A": [
+      "0Eleven redogör **utförligt och nyanserat** för lik- och enfasväxelströmskretsars uppbyggnad och funktion samt för olika belastningars inverkan på kretsar och elsystem",
+      "0Dessutom redogör eleven **utförligt och nyanserat** för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven utför **efter samråd** med handledare elektriska mätningar på lik- och enfasväxelströmskretsar",
+      "1Inför arbetet väljer eleven **med säkerhet** lämpliga mätmetoder och mätinstrument",
+      "1Dessutom gör eleven en **välgrundad** riskbedömning och anpassar vid behov mätningen efter den",
+      "1Eleven utför **efter samråd** med handledare **avancerade** beräkningar",
+      "1Utifrån resultaten av mätningarna och beräkningarna föreslår eleven **med säkerhet** lämpliga åtgärder för att avhjälpa fel i elsystemet",
+      "1Eleven utför **efter samråd** med handledare dessa åtgärder",
+      "1Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ]
+  }
+}

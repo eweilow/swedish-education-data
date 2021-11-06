@@ -1,0 +1,84 @@
+{
+  "name": "Webbserverprogrammering 1",
+  "code": "WESWEB01",
+  "focusAreas": {
+    "string": "Kursen webbserverprogrammering 1 omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkt 1.",
+    "entries": [
+      "1–8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Webbserverns och dynamiska webbplatsers funktionalitet.",
+          "2. Utvecklingsprocessen för ett webbtekniskt projekt med målsättningar, krav, begränsningar, planering och uppföljning. Specifikation av struktur och design, kodning, testning samt driftsättning.",
+          "3. Dokumentation av utvecklingsprocess och färdig produkt.",
+          "4. En översikt över olika lösningar eller språk som finns för att skapa dynamiska webbplatser.",
+          "5. Grundfunktionen i ett programspråk för dynamiska webbplatser.",
+          "6. Teknisk orientering om webbens protokoll, adresser, säkerhet samt samspelet mellan klient och server.",
+          "7. Datalagring i relationsdatabas eller med annan teknik.",
+          "8. Teckenkodning. Begrepp, standarder och handhavande.",
+          "9. Kodning och dokumentation enligt vedertagen praxis för vald teknik.",
+          "10. Applikationsarkitektur och separation av olika slags logik.",
+          "11. Kvalitetssäkring av dynamiska webbapplikationers funktionalitet, säkerhet och kodkvalitet.",
+          "12. Grundläggande säkerhet och sätt att identifiera hot och sårbarheter samt hur attacker kan motverkas genom effektiva åtgärder."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven beskriver **översiktligt** tekniken bakom dynamiska webbplatser och hur de samspelar med olika tekniker på webben",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven gör en **enkel** projektplan för en tänkt webbapplikation",
+      null,
+      "1I projektplanen beskriver eleven **översiktligt** applikationens funktion",
+      "1Utifrån projektplanen utvecklar eleven **i samråd** med handledare applikationen där presentations­logiken **i begränsad utsträckning** är skild från applikationens övriga logik",
+      "1I arbetet utvecklar eleven kod som **i begränsad utsträckning** är **läsbar** och **översiktligt** kommenterad",
+      "1Applikationen uppvisar **enkel** funktionalitet med ett språk för webbserver­programmering och tillhandahåller en **enkel** lösning för **datapersistens mellan sidvisningar**",
+      "1Produkten är av **tillfredsställande** kvalitet och följer etablerad god praxis",
+      null,
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När arbetet är utfört gör eleven en **enkel** dokumentation av de moment som har utförts samt utvärderar med **enkla** omdömen sitt arbete och resultat",
+      "2Eleven identifierar ett **fåtal** sårbarheter eller hot och vidtar **enkla** åtgärder för att förhindra att produkten utnyttjas",
+      "2När eleven kommunicerar med andra använder hon eller han **med viss säkerhet enkel** terminologi",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ],
+    "C": [
+      "0Eleven beskriver **utförligt** tekniken bakom dynamiska webbplatser och hur de samspelar med olika tekniker på webben",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven gör en **genomarbetad** projektplan för en tänkt webbapplikation",
+      null,
+      "1I projektplanen beskriver eleven **utförligt** applikationens funktion **och arkitektur**",
+      "1Utifrån projektplanen utvecklar eleven **efter samråd** med handledare applikationen där presentations­logiken är skild från applikationens övriga logik",
+      "1I arbetet utvecklar eleven kod som **följer en given kodningsstandard** och är **översiktligt** kommenterad",
+      "1Applikationen uppvisar funktionalitet med ett språk för webbserver­programmering och tillhandahåller en **enkel** lösning för **permanent datalagring**",
+      "1Produkten är av **tillfredsställande** kvalitet och följer etablerad god praxis",
+      "1**Detta kontrollerar eleven med hjälp av några tester**",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När arbetet är utfört gör eleven en **noggrann** dokumentation av de moment som har utförts samt utvärderar med **nyanserade** omdömen sitt arbete och resultat",
+      "2Eleven identifierar sårbarheter eller hot och vidtar åtgärder för att förhindra att produkten utnyttjas",
+      "2När eleven kommunicerar med andra använder hon eller han **med viss säkerhet** terminologi",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ],
+    "A": [
+      "0Eleven beskriver **utförligt och nyanserat** tekniken bakom dynamiska webbplatser och hur de samspelar med olika tekniker på webben",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven gör en **genomarbetad** projektplan för en tänkt webbapplikation",
+      "1**Vid behov reviderar eleven planen**",
+      "1I projektplanen beskriver eleven **utförligt och nyanserat** applikationens funktion, **arkitektur och mjukvarugränssnitt**",
+      "1Utifrån projektplanen utvecklar eleven **efter samråd** med handledare applikationen där presentations­logiken är skild från applikationens övriga logik",
+      "1I arbetet utvecklar eleven kod som **följer en given kodningsstandard** och är **utförligt** kommenterad",
+      "1Applikationen uppvisar funktionalitet med ett språk för webbserver­programmering **för att driva en helt databaserad webbplats eller en jämförbart avancerad produkt** och tillhandahåller en lösning **med viss komplexitet** för **permanent datalagring**",
+      "1Produkten är av **god** kvalitet och följer etablerad god praxis",
+      "1**Detta kontrollerar eleven med hjälp av flera tester, även manuella**",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När arbetet är utfört gör eleven en **noggrann och utförlig** dokumentation av de moment som har utförts samt utvärderar med **nyanserade** omdömen sitt arbete och resultat **samt ger förslag på hur arbetet kan förbättras**",
+      "2Eleven identifierar **flera** sårbarheter eller hot och vidtar **avancerade** åtgärder för att förhindra att produkten utnyttjas",
+      "2När eleven kommunicerar med andra använder hon eller han **med säkerhet** terminologi",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ]
+  }
+}

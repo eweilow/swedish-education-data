@@ -1,0 +1,76 @@
+{
+  "name": "Elektronik och mikrodatorteknik",
+  "code": "ELEELR0",
+  "focusAreas": {
+    "string": "Kursen elektronik och mikrodatorteknik omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "entries": [
+      "1–8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Egenskaper och arbetssätt hos resistorer, kondensatorer, induktanser och transformatorer.",
+          "2. Egenskaper och arbetssätt hos analoga och digitala halvledarkomponenter.",
+          "3. Egenskaper och arbetssätt hos optokomponenter och displayer.",
+          "4. Mikrodatorns arbetssätt.",
+          "5. Mikroprocessorer och deras kringkomponenter.",
+          "6. ESD-säker (electrostatic discharge) hantering och montering av elektronikkomponenter.",
+          "7. Förbindningsteknik och ytmonteringsteknik.",
+          "8. Enklare programmering av mikrodatorer.",
+          "9. Schemaritningsteknik, symboler och funktioner.",
+          "10. Binära talsystemet, boolesk algebra och de digitala grundfunktionerna.",
+          "11. Arbetssätt och användningsområden för AD- och DA-omvandlare.",
+          "12. Mätteknik för krets- och komponentmätningar.",
+          "13. Datorsimulering av enklare elektronikuppkopplingar."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven beskriver **översiktligt** funktion och egenskaper hos vanligt förekommande analoga och digitala elektronikkomponenter",
+      "0Dessutom beskriver eleven **översiktligt** funktion och arbetssätt hos mikrodatorer och mikroprocessorer",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar och utför **i samråd** med handledare montering, hantering och provning av vanligt förekommande analoga och digitala elektronikkomponenter samt enklare programmering av mikrodatorer",
+      "1Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt är miljövänligt",
+      "1I arbetet använder och tolkar eleven **med viss säkerhet** begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument",
+      "1Dessutom utför eleven **enkla** beräkningar av elektriska storheter",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven utför **enkla** komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "C": [
+      "0Eleven beskriver **utförligt** funktion och egenskaper hos vanligt förekommande analoga och digitala elektronikkomponenter",
+      "0Dessutom beskriver eleven **utförligt** funktion och arbetssätt hos mikrodatorer och mikroprocessorer",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar och utför **efter samråd** med handledare montering, hantering och provning av vanligt förekommande analoga och digitala elektronikkomponenter samt enklare programmering av mikrodatorer",
+      "1Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt är miljövänligt",
+      "1I arbetet använder och tolkar eleven **med viss säkerhet begrepp**, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument",
+      "1Dessutom utför eleven beräkningar av elektriska storheter",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven utför komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "A": [
+      "0Eleven beskriver **utförligt och nyanserat** funktion och egenskaper hos vanligt förekommande analoga och digitala elektronikkomponenter",
+      "0Dessutom beskriver eleven **utförligt och nyanserat** funktion och arbetssätt hos mikrodatorer och mikroprocessorer",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar och utför **efter samråd** med handledare montering, hantering och provning av vanligt förekommande analoga och digitala elektronikkomponenter samt enklare programmering av mikrodatorer",
+      "1Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt är miljövänligt",
+      "1I arbetet använder och tolkar eleven **med säkerhet begrepp**, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument",
+      "1Dessutom utför eleven **avancerade** beräkningar av elektriska storheter",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven utför **avancerade** komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ]
+  }
+}

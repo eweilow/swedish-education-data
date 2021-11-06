@@ -1,0 +1,87 @@
+{
+  "name": "Ridning och körning",
+  "code": "RINRID0",
+  "focusAreas": {
+    "string": "Kursen ridning och körning omfattar punkterna 1–3 och 5–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 6 och 7.",
+    "entries": [
+      "1–3",
+      "5–10"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Hästars gångarter, renhet och takt med variationer av tempo.",
+          "2. Hästars gångarter på körplan och motionsslinga.",
+          "3. Sjukdomar och skador hos hästar i samband med ridning och körning.",
+          "4. Visitering av hästar med blick och hand.",
+          "5. Hantering och träning av hästar i samband med ridning och körning.",
+          "6. Ridning och körning av hästar med utgångspunkt från rid- och körlärans riktlinjer.",
+          "7. Ridning av skolad häst på ridbana samt i skog och mark.",
+          "8. Ryttarens sits med balans, stadga och följsamhet genom inverkan av vikt-, skänkel- och tygelhjälp.",
+          "9. Körning av skolad häst på bana samt i skog och mark.",
+          "10. Kuskens följsamhet och inverkan på hästen.",
+          "11. Motions- och konkörning av skolad häst.",
+          "12. Visning vid hand av skolad häst.",
+          "13. Användning och skötsel av utrustning i samband med ridning och körning.",
+          "14. Val av klädsel och personlig utrustning för olika situationer.",
+          "15. Ergonomi, arbetsmiljö och säkerhet i samband med arbete med hästar.",
+          "16. Lagar och andra bestämmelser som rör arbete med hästar.",
+          "17. Bestämmelser om ridning och körning på väg samt i skog och mark."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven redogör **översiktligt** för rid- och körlärarens riktlinjer samt för hästars olika gångarter",
+      "0Eleven redogör också **översiktligt** för hur ryttarens respektive kuskens val av arbetsmetod och teknik påverkar hästens arbetsvilja och prestation",
+      "0I redogörelsen drar eleven **enkla** slutsatser om sambandet mellan hästens talang och förmåga samt träningsmetoderna",
+      "0Dessutom redogör eleven **översiktligt** för vanliga skador hos hästar i samband med ridning och körning samt hur skadorna kan förebyggas",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven visiterar, rider och kör **i samråd** med handledare skolade hästar enligt given instruktion och med ett **tillfredsställande** resultat",
+      "1I ridningen och körningen hanterar eleven **i samråd** med handledare hästarna med deras välbefinnande i fokus",
+      "1Dessutom väljer eleven **i samråd** med handledare lämplig utrustning för häst, ryttare och kusk",
+      "1Eleven sköter och vårdar **i samråd** med handledare aktuell utrustning",
+      "1Eleven arbetar säkert och ergonomiskt i samband med ridning och körning",
+      "1Dessutom redogör eleven **översiktligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ],
+    "C": [
+      "0Eleven redogör **utförligt** för rid- och körlärarens riktlinjer samt för hästars olika gångarter",
+      "0Eleven redogör också **utförligt** för hur ryttarens respektive kuskens val av arbetsmetod och teknik påverkar hästens arbetsvilja och prestation",
+      "0I redogörelsen drar eleven **välgrundade** slutsatser om sambandet mellan hästens talang och förmåga samt träningsmetoderna",
+      "0Dessutom redogör eleven **utförligt** för vanliga skador hos hästar i samband med ridning och körning samt hur skadorna kan förebyggas",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven visiterar, rider och kör **efter samråd** med handledare skolade hästar enligt given instruktion och med ett **tillfredsställande** resultat",
+      "1I ridningen och körningen hanterar eleven **efter samråd** med handledare hästarna med deras välbefinnande i fokus",
+      "1Dessutom väljer eleven **efter samråd** med handledare lämplig utrustning för häst, ryttare och kusk",
+      "1Eleven sköter och vårdar **efter samråd** med handledare aktuell utrustning",
+      "1Eleven arbetar säkert och ergonomiskt i samband med ridning och körning",
+      "1Dessutom redogör eleven **utförligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ],
+    "A": [
+      "0Eleven redogör **utförligt och nyanserat** för rid- och körlärarens riktlinjer samt för hästars olika gångarter",
+      "0Eleven redogör också **utförligt och nyanserat** för hur ryttarens respektive kuskens val av arbetsmetod och teknik påverkar hästens arbetsvilja och prestation",
+      "0I redogörelsen drar eleven **välgrundade och nyanserade** slutsatser om sambandet mellan hästens talang och förmåga samt träningsmetoderna",
+      "0Dessutom redogör eleven **utförligt och nyanserat** för vanliga skador hos hästar i samband med ridning och körning samt hur skadorna kan förebyggas",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven visiterar, rider och kör **efter samråd** med handledare skolade hästar enligt given instruktion och med ett **gott** resultat",
+      "1I ridningen och körningen hanterar eleven **efter samråd** med handledare hästarna med deras välbefinnande i fokus",
+      "1Dessutom väljer eleven **efter samråd** med handledare lämplig utrustning för häst, ryttare och kusk",
+      "1Eleven sköter och vårdar **efter samråd** med handledare aktuell utrustning",
+      "1Eleven arbetar säkert och ergonomiskt i samband med ridning och körning",
+      "1Dessutom redogör eleven **utförligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+    ]
+  }
+}

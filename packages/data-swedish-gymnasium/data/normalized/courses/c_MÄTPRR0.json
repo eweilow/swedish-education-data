@@ -1,0 +1,67 @@
+{
+  "name": "Programmerbara styrsystem",
+  "code": "MÄTPRR0",
+  "focusAreas": {
+    "string": "Kursen programmerbara styrsystem omfattar punkterna 1–5 under rubriken Ämnets syfte.",
+    "entries": [
+      "1–5"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Uppbyggnad och funktion hos olika programmerbara styrsystem, till exempel kompakta och modulära plc (programmable logic controller), distribuerade styrsystem, PAC (programmable automation controller), programmerbara reläer samt styrningar med persondatorer.",
+          "2. Grundläggande programmeringsteknik och programmering av programmerbara styrsystem.",
+          "3. Inkoppling av givare och aktuatorer till programmerbara styrsystem.",
+          "4. Specialmoduler för programmerbara styrsystem, till exempel moduler för A/D-omvandling och D/A-omvandling, samt moduler för servomotorer.",
+          "5. Användarkrav och översättning av dessa som underlag för programmering av programmerbara styrsystem.",
+          "6. Datorstöd vid programmering av programmerbara styrsystem.",
+          "7. För- och nackdelar med olika programmerbara styrsystem.",
+          "8. Aktuella standarder, till exempel plc-standard IEC 1131.",
+          "9. Metoder för felsökning och underhåll i anläggningar styrda av programmerbara styrsystem.",
+          "10. Metoder för dokumentation av arbete med programmerbara styrsystem."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven planerar och utför **i samråd** med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra",
+      "0I arbetet läser och tolkar eleven **med viss säkerhet** scheman över styr- och reglertekniska komponenter och system",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven gör **enkla** mätningar av styr- och reglertekniska storheter",
+      "1Dessutom felsöker eleven **i samråd** med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar **i samråd** med handledare eventuella fel som har uppstått",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När arbetet är utfört gör eleven en **enkel** dokumentation av sitt arbete med styr- och reglertekniska komponenter och system",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "C": [
+      "0Eleven planerar och utför **efter samråd** med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra",
+      "0I arbetet läser och tolkar eleven **med viss säkerhet** scheman över styr- och reglertekniska komponenter och system",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven gör mätningar av styr- och reglertekniska storheter",
+      "1Dessutom felsöker eleven **efter samråd** med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar **efter samråd** med handledare eventuella fel som har uppstått",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När arbetet är utfört gör eleven en **noggrann** dokumentation av sitt arbete med styr- och reglertekniska komponenter och system",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "A": [
+      "0Eleven planerar och utför **efter samråd** med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra",
+      "0I arbetet läser och tolkar eleven **med säkerhet** scheman över styr- och reglertekniska komponenter och system",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven gör **avancerade** mätningar av styr- och reglertekniska storheter",
+      "1Dessutom felsöker eleven **efter samråd** med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar **efter samråd** med handledare eventuella fel som har uppstått",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2När arbetet är utfört gör eleven en **noggrann och utförlig** dokumentation av sitt arbete med styr- och reglertekniska komponenter och system",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ]
+  }
+}

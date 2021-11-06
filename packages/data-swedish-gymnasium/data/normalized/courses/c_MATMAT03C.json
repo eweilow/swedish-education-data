@@ -1,0 +1,100 @@
+{
+  "name": "Matematik 3c",
+  "code": "MATMAT03c",
+  "focusAreas": {
+    "string": "Kursen matematik 3c omfattar punkterna 1–6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "entries": [
+      "1–6"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Aritmetik, algebra och funktioner",
+        "rows": [
+          "1. Begreppet absolutbelopp.",
+          "2. Begreppet rationella uttryck. Hantering av rationella uttryck.",
+          "3. Begreppet gränsvärde. Begreppen sekant, tangent, förändringshastighet, ändringskvot och derivata för en funktion. Grafiska och digitala metoder för att derivera funktioner. Villkor för deriverbarhet.",
+          "4. Motivering och hantering av deriveringsregler för potens- och exponentialfunktioner samt summor av dessa. Begreppen talet e och naturlig logaritm.",
+          "5. Begreppet andraderivata. Metoder för att lösa extremvärdesproblem.",
+          "6. Begreppet polynom och egenskaper hos polynomfunktioner. Metoder för att lösa enklare polynomekvationer.",
+          "7. Begreppen primitiv funktion och bestämd integral. Sambandet mellan primitiv funktion och derivata.",
+          "8. Grafiska och digitala metoder för att bestämma integraler.",
+          "9. Motivering och hantering av metoder för att bestämma integraler för potens- och exponentialfunktioner samt summor av dessa.",
+          "10. Formulering och beräkning av integraler i enkla situationer."
+        ]
+      },
+      {
+        "title": "Trigonometri",
+        "rows": [
+          "1. Begreppet enhetscirkeln. Definition av trigonometriska begrepp utifrån enhetscirkeln.",
+          "2. Bevis och användning av cosinus-, sinus- och areasatsen."
+        ]
+      },
+      {
+        "title": "Problemlösning, verktyg och tillämpningar",
+        "rows": [
+          "1. Användning av digitala verktyg, även symbolhanterande, för att effektivisera beräkningar och komplettera metoder, till exempel vid ekvationslösning, derivering, integrering och hantering av algebraiska uttryck.",
+          "2. Problemlösning som omfattar begrepp och metoder i kursen, med särskild utgångspunkt i karaktärsämnen och samhällsliv.",
+          "3. Användning av programmering som verktyg vid problemlösning, databearbetning eller tillämpning av numeriska metoder.",
+          "4. Tillämpning och formulering av matematiska modeller i realistiska situationer. Utvärdering av matematiska modellers egenskaper och begränsningar.",
+          "5. Matematiska problem med anknytning till matematikens kulturhistoria."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven beskriver **grundläggande** begrepp och samband mellan begrepp samt använder dem med **tillfredsställande** säkerhet",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven hanterar **grundläggande** procedurer och löser uppgifter av standardkaraktär med **tillfredsställande** säkerhet, både utan och med digitala verktyg",
+      null,
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven löser **enkla** problem inom kursens olika områden",
+      "2Eleven bedömer resultatens rimlighet",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven tillämpar och formulerar matematiska modeller i **enkla** uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4Eleven för **delvis** underbyggda matematiska resonemang och följer **enkla** matematiska resonemang",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION",
+      "5Eleven uttrycker sig med matematiska symboler och andra representationer på ett **i huvudsak fungerande** sätt",
+      "5THIS 5IS 5THE 5START 5OF 5SECTION"
+    ],
+    "C": [
+      "0Eleven beskriver **ett omfattande antal** begrepp och samband mellan begrepp samt använder dem med **god** säkerhet",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven hanterar **ett omfattande antal** procedurer och löser uppgifter av standardkaraktär med **god** säkerhet, både utan och med digitala verktyg",
+      "1**Eleven hanterar avancerade uttryck med god säkerhet**",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven löser **relativt komplexa** problem inom kursens olika områden",
+      "2Eleven bedömer resultatens rimlighet",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven tillämpar och formulerar matematiska modeller i **relativt komplexa** uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4Eleven för **relativt väl** underbyggda matematiska resonemang**, genomför enkla bevis** och följer **relativt avancerade** matematiska resonemang",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION",
+      "5Eleven uttrycker sig med matematiska symboler och andra representationer på ett **till stor del tydligt och korrekt** sätt",
+      "5THIS 5IS 5THE 5START 5OF 5SECTION"
+    ],
+    "A": [
+      "0Eleven beskriver **ett omfattande antal** begrepp och samband mellan begrepp samt använder dem med **mycket god** säkerhet",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven hanterar **ett omfattande antal** procedurer och löser uppgifter av standardkaraktär med **mycket god** säkerhet, både utan och med digitala verktyg",
+      "1**Eleven hanterar avancerade uttryck med mycket god säkerhet**",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven löser **komplexa** problem inom kursens olika områden",
+      "2Eleven bedömer resultatens rimlighet",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven tillämpar och formulerar matematiska modeller i **komplexa** uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4Eleven för **väl** underbyggda matematiska resonemang**, genomför bevis** och följer **avancerade** matematiska resonemang",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION",
+      "5Eleven uttrycker sig med matematiska symboler och andra representationer på ett **tydligt och korrekt** sätt",
+      "5THIS 5IS 5THE 5START 5OF 5SECTION"
+    ]
+  }
+}

@@ -27,126 +27,57 @@
       }
     ]
   },
-  "knowledgeRequirements": [
-    [
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven redogör **översiktligt** för barn- och skolhälsovårdens utveckling, organisation och arbete",
+      "0Eleven ger exempel på förebyggande hälsoarbete samt beskriver **översiktligt** insatsernas betydelse för barns och ungdomars hälsa",
+      "0Eleven redogör även för lagar som reglerar verksamheterna",
+      "0Dessutom redogör eleven **översiktligt** för barns och ungdomars hälsa och sambanden mellan levnadsvanor och livsvillkor för hälsa och välbefinnande",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven redogör **översiktligt** för vanliga barnsjukdomar och skaderisker samt hur de kan förebyggas och behandlas",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven redogör **översiktligt** för vård- och omsorgsuppgifter i samband med vanliga barnsjukdomar",
+      "2I arbetet uppmärksammar, rapporterar och dokumenterar eleven, **i samråd** med handledare, symtom och förändringar i barns och ungdomars hälsotillstånd",
+      "2Arbetet utförs med ett **tillfredsställande** resultat",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven kommunicerar **med viss säkerhet** i samarbete och möten med människor",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
     ],
-    [
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
+    "C": [
+      "0Eleven redogör **utförligt** för barn- och skolhälsovårdens utveckling, organisation och arbete",
+      "0Eleven ger exempel på förebyggande hälsoarbete samt beskriver **utförligt** insatsernas betydelse för barns och ungdomars hälsa",
+      "0Eleven redogör även för lagar som reglerar verksamheterna",
+      "0Dessutom redogör eleven **utförligt** för barns och ungdomars hälsa och sambanden mellan levnadsvanor och livsvillkor för hälsa och välbefinnande",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven redogör **utförligt** för vanliga barnsjukdomar och skaderisker samt hur de kan förebyggas och behandlas",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven redogör **utförligt** för vård- och omsorgsuppgifter i samband med vanliga barnsjukdomar",
+      "2I arbetet uppmärksammar, rapporterar och dokumenterar eleven, **efter samråd** med handledare, symtom och förändringar i barns och ungdomars hälsotillstånd",
+      "2Arbetet utförs med ett **tillfredsställande** resultat",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven kommunicerar **med viss säkerhet** i samarbete och möten med människor",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
     ],
-    [
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1
+    "A": [
+      "0Eleven redogör **utförligt och nyanserat** för barn- och skolhälsovårdens utveckling, organisation och arbete",
+      "0Eleven ger exempel på förebyggande hälsoarbete samt beskriver **utförligt och nyanserat** insatsernas betydelse för barns och ungdomars hälsa",
+      "0Eleven redogör även för lagar som reglerar verksamheterna",
+      "0Dessutom redogör eleven **utförligt och nyanserat** för barns och ungdomars hälsa och sambanden mellan levnadsvanor och livsvillkor för hälsa och välbefinnande",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven redogör **utförligt och nyanserat** för vanliga barnsjukdomar och skaderisker samt hur de kan förebyggas och behandlas",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven redogör **utförligt och nyanserat** för vård- och omsorgsuppgifter i samband med vanliga barnsjukdomar",
+      "2I arbetet uppmärksammar, rapporterar och dokumenterar eleven, **efter samråd** med handledare, symtom och förändringar i barns och ungdomars hälsotillstånd",
+      "2Arbetet utförs med ett **gott** resultat",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3Eleven kommunicerar **med säkerhet** i samarbete och möten med människor",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
     ]
-  ]
+  }
 }

@@ -109,7 +109,7 @@ function getKnowledgeRequirement(
     ?.map((el) => el.trim());
 
   if (markdownRows == null) {
-    return null;
+    return [null, null];
   }
 
   const { sections } = normalizeSections(markdownRows);
@@ -121,15 +121,71 @@ function getKnowledgeRequirement(
     `in ${name} (${code})`
   );
 
-  return sections[0].rows
-    .flatMap((el) => el.split("."))
-    .map((el) => el.trim())
+  const splitRows = sections[0].rows.flatMap((el, i) =>
+    // el.replace(/\.\s*\*\*\s+/g, "**. ")
+    // .replace(/\.\s*\*\*/g, "**.")
+    // .replace(/\*\*\s+\*\*/g, " ") // Fix those pesky stars that make text bold
+    // .replace(/\s+\*\*\*\*/g, " **") // Fix those pesky stars that make text bold
+    // .replace(/\*\*\*\*\s+/g, "** ") // Fix those pesky stars that make text bold
+    // .split(".")
+    el.split(".").map((el) => [el, i] as const)
+  );
+  return splitRows
+    .map(([el, i]) => {
+      if (!el && i === splitRows.length - 1) {
+        return "";
+      }
+      if (!el) {
+        return `${i}THIS ${i}IS ${i}THE ${i}START ${i}OF ${i}SECTION`;
+      }
+
+      return (
+        i +
+        el
+          .trim()
+          .replace(/\*\*\s+\*\*/g, " ") // Fix those pesky stars that make text bold
+          .replace(/\s+\*\*\*\*/g, " **") // Fix those pesky stars that make text bold
+          .replace(/\*\*\*\*\s+/g, "** ") // Fix those pesky stars that make text bold
+          .replace(/^\s*\*\*\s+/g, "") // Fix those pesky stars that make text bold
+          .replace(/\s+\*\*\s*$/g, "")
+      ); // Fix those pesky stars that make text bold
+    })
     .filter((el) => !!el);
 }
 
 import * as jaroWinklerDistance from "jaro-winkler";
 
-import { computeClosestMatches, computeStringMetrics } from "../utils/matrix";
+import { computeClosestMatches } from "../utils/matrix";
+
+class Matrix<I, J, Value> {
+  private _i = new Set<I>();
+  private _j = new Set<J>();
+
+  private _data: Map<J, Map<I, Value>> = new Map();
+
+  set(i: I, j: J, value: Value) {
+    this._i.add(i);
+    this._j.add(j);
+
+    const row = this._data.get(j) ?? new Map<I, Value>();
+    row.set(i, value);
+
+    this._data.set(j, row);
+  }
+
+  get(i: I, j: J) {
+    return this._data.get(j)?.get?.(i) ?? null;
+  }
+
+  getRow(i: I) {
+    const items: Value[] = [];
+    for (const [j, row] of this._data) {
+      items.push(row.get(i)!);
+    }
+
+    return items;
+  }
+}
 
 function getKnowledgeRequirements(
   knowledgerequirements: any[],
@@ -143,22 +199,145 @@ function getKnowledgeRequirements(
     ])
   );
 
-  console.log(knowledgerequirements, grades);
+  const matrix = new Matrix<string, number, string>();
 
-  assert.isAtMost(
-    grades["E"].length,
-    grades["C"].length,
-    `E->C, in ${name} (${code})`
+  const gradesE = grades["E"];
+  const gradesC = grades["C"];
+  const gradesA = grades["A"];
+
+  let base = gradesE;
+  let baseGrade = "E";
+  if (gradesC.length >= base.length) {
+    base = gradesC;
+    baseGrade = "C";
+  }
+  if (gradesA.length >= base.length) {
+    base = gradesA;
+    baseGrade = "A";
+  }
+
+  for (let i = 0; i < base.length; i++) {
+    matrix.set(baseGrade, i, base[i]);
+  }
+
+  const matchesE = computeClosestMatches(gradesE, base, (a, b) =>
+    jaroWinklerDistance(
+      a.replace(/\*\*.+?\*\*/g, "").replace(/\s+/g, " "),
+      b.replace(/\*\*.+?\*\*/g, "").replace(/\s+/g, " ")
+    )
   );
-  assert.isAtMost(
-    grades["C"].length,
-    grades["A"].length,
-    `C->A, in ${name} (${code})`
+  const matchesC = computeClosestMatches(gradesC, base, (a, b) =>
+    jaroWinklerDistance(
+      a.replace(/\*\*.+?\*\*/g, "").replace(/\s+/g, " "),
+      b.replace(/\*\*.+?\*\*/g, "").replace(/\s+/g, " ")
+    )
+  );
+  const matchesA = computeClosestMatches(gradesA, base, (a, b) =>
+    jaroWinklerDistance(
+      a.replace(/\*\*.+?\*\*/g, "").replace(/\s+/g, " "),
+      b.replace(/\*\*.+?\*\*/g, "").replace(/\s+/g, " ")
+    )
   );
 
-  return computeClosestMatches(grades["E"], grades["C"], (a, b) =>
-    jaroWinklerDistance(a, b)
-  );
+  for (let i = 0; i < gradesE.length; i++) {
+    matrix.set("E", matchesE[i], gradesE[i]);
+    matrix.set("C", matchesE[i], gradesE[i]);
+    matrix.set("A", matchesE[i], gradesE[i]);
+  }
+  for (let i = 0; i < gradesC.length; i++) {
+    matrix.set("C", matchesC[i], gradesC[i]);
+    matrix.set("A", matchesC[i], gradesC[i]);
+  }
+  for (let i = 0; i < gradesA.length; i++) {
+    matrix.set("A", matchesA[i], gradesA[i]);
+  }
+  // console.log(grades, matrix);
+  // console.log(gradesE.length, gradesC.length, gradesA.length);
+
+  const collect = (grade: string) => {
+    const split: string[][] = [];
+    let collector: string[] = [];
+    for (const row of matrix.getRow(grade)) {
+      if (row == null) continue;
+
+      if (/\d+THIS \d+IS \d+THE \d+START \d+OF \d+SECTION/.test(row)) {
+        split.push(collector);
+        collector = [];
+      } else {
+        collector.push(row);
+      }
+    }
+    split.push(collector);
+
+    return split.filter((el) => el.length > 0);
+  };
+
+  const collectedE = collect("E");
+  const collectedC = collect("C");
+  const collectedA = collect("A");
+
+  try {
+    assert.equal(
+      collectedE.length,
+      collectedC.length,
+      `E->C, in ${name} (${code})`
+    );
+    assert.equal(
+      collectedC.length,
+      collectedA.length,
+      `C->A, in ${name} (${code})`
+    );
+  } catch (err) {
+    console.error(err);
+    console.log(matrix);
+  }
+
+  return {
+    E: matrix.getRow("E"),
+    // E: collectedE,
+    C: matrix.getRow("C"),
+    // C: collectedC,
+    A: matrix.getRow("A"),
+    // A: collectedA,
+  };
+  // if (gradesC.length > gradesE.length && gradesC.length > gradesA.length) {
+  //   console.log(matrix);
+  //   console.log(code, gradesE, gradesC, gradesA);
+  // }
+
+  // if (
+  //   gradesE.length !== gradesC.length ||
+  //   gradesC.length !== gradesA.length ||
+  //   gradesE.length !== gradesA.length
+  // ) {
+  //   console.log(gradesE.length, gradesC.length, gradesA.length);
+  // }
+
+  // console.log(base);
+  // console.log(knowledgerequirements, grades);
+  // console.log(
+  //   computeClosestMatches(grades["E"], grades["C"], (a, b) =>
+  //     jaroWinklerDistance(a.replace(/\*/g, ""), b.replace(/\*/g, ""))
+  //   ),
+  //   computeClosestMatches(grades["C"], grades["A"], (a, b) =>
+  //     jaroWinklerDistance(a.replace(/\*/g, ""), b.replace(/\*/g, ""))
+  //   )
+  // );
+
+  // assert.isAtMost(
+  //   grades["E"].length,
+  //   grades["C"].length,
+  //   `E->C, in ${name} (${code})`
+  // );
+  // assert.isAtMost(
+  //   grades["C"].length,
+  //   grades["A"].length,
+  //   `C->A, in ${name} (${code})`
+  // );
+
+  // return computeClosestMatches(grades["E"], grades["C"], (a, b) =>
+  //   jaroWinklerDistance(a, b)
+  // );
 }
 
 export async function normalizeCourses(

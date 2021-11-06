@@ -23,30 +23,33 @@
       }
     ]
   },
-  "knowledgeRequirements": [
-    [
-      1,
-      0,
-      0,
-      0
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven beskriver **översiktligt** människokroppens uppbyggnad och funktion",
+      "0I beskrivningarna använder eleven **med viss säkerhet** medicinsk terminologi",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven beskriver **översiktligt** vanliga läkemedel och deras hantering samt redogör för lagar och andra bestämmer som gäller för användning och hantering av läkemedel",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven ger också exempel på vanliga mikroorganismer och beskriver **översiktligt** hur de sprids",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
     ],
-    [
-      0,
-      1,
-      0,
-      0
+    "C": [
+      "0Eleven beskriver **utförligt** människokroppens uppbyggnad och funktion",
+      "0I beskrivningarna använder eleven **med viss säkerhet** medicinsk terminologi",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven beskriver **utförligt** vanliga läkemedel och deras hantering samt redogör för lagar och andra bestämmer som gäller för användning och hantering av läkemedel",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven ger också exempel på vanliga mikroorganismer och beskriver **utförligt** hur de sprids",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
     ],
-    [
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1
+    "A": [
+      "0Eleven beskriver **utförligt och nyanserat** människokroppens uppbyggnad och funktion",
+      "0I beskrivningarna använder eleven **med säkerhet** medicinsk terminologi",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven beskriver **utförligt och nyanserat** vanliga läkemedel och deras hantering samt redogör för lagar och andra bestämmer som gäller för användning och hantering av läkemedel",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven ger också exempel på vanliga mikroorganismer och beskriver **utförligt och nyanserat** hur de sprids",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION"
     ]
-  ]
+  }
 }

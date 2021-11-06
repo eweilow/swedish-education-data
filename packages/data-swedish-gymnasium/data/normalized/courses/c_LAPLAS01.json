@@ -1,0 +1,93 @@
+{
+  "name": "Lastbilar – system- och diagnosteknik 1",
+  "code": "LAPLAS01",
+  "focusAreas": {
+    "string": "Kursen lastbilar – system- och diagnosteknik 1 omfattar punkterna 1–7 under rubriken Ämnets syfte.",
+    "entries": [
+      "1–7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Lastbilars olika elektroniska nätverkssystem samt deras uppbyggnad, funktion och komponenter.",
+          "2. Kommunikationsteknik, bland annat CAN bus, LIN och MOST.",
+          "3. Elektroniska komponenter och deras funktion, bland annat ledare, halvledare och isolatorer.",
+          "4. Olika förarassistans- och säkerhetssystem, deras uppbyggnad, funktion och komponenter, bland annat system för adaptiva funktioner, system för däcktrycksövervakning och CTI-system.",
+          "5. Olika elektroniska växlingssystem samt deras styrsystem och komponenter.",
+          "6. Metoder för och genomförande av funktionskontroll, felsökning och diagnos av olika el- och elektroniska system och deras komponenter.",
+          "7. Metoder för och genomförande av funktionskontroller, felsökning och diagnos på motorstyrsystemen med diagnosinstrument.",
+          "8. Digitala informationssystem och mätutrustningar samt tolkning och utvärdering av utläst mätdata i samband med felsökning och diagnos.",
+          "9. Användning av specialverktyg, verktyg och utrustning på ett kvalitetsmässigt sätt samt vård av dessa.",
+          "10. Fordonstillverkares anvisningar och krav samt scheman och övrig teknisk information på svenska och engelska.",
+          "11. Arbetsinstruktioner, servicelitteratur och system för reservdelsbeställning på svenska och engelska.",
+          "12. Säkerhet på arbetsplatsen och förebyggande av person- och egendomsskador.",
+          "13. Lagar och andra bestämmelser som gäller för arbetet.",
+          "14. Arbete med problemlösning och uppgifter såväl självständigt som tillsammans med andra.",
+          "15. Yrkesmässigt språk, kommunikation och målgruppsanpassning."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven beskriver **översiktligt** funktionsprinciper för och konstruktioner av olika lastbilars olika elektroniska nätverkssystem samt hur de kommunicerar med varandra",
+      "0Eleven beskriver även **översiktligt** olika förarassistans- och säkerhetssystem samt olika elektroniska växlingssystem och deras styrsystem",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven utför, **i samråd** med handledare, i bekanta situationer funktionskontroll, felsökning och diagnos av olika el- och elektroniska system samt deras komponenter",
+      "1Eleven utför även, **i samråd** med handledare, i bekanta situationer funktionskontroll, felsökning och diagnos på olika motorstyrsystem",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2I arbetet använder eleven **med viss säkerhet** rätt arbetsmetod och med **visst** handlag mät- och diagnosutrustning, specialverktyg, verktyg och utrustning",
+      "2Dessutom använder eleven **med viss säkerhet** manualer, scheman och digitala informationssystem",
+      "2Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven kommunicerar med kunder och arbetskamrater använder eleven **med viss säkerhet** ett yrkesmässigt språk",
+      "3I kommunikationen med kunder anpassar eleven språket efter målgruppen",
+      "3Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat",
+      "3Resultatet av elevens arbete är **tillfredsställande**",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ],
+    "C": [
+      "0Eleven beskriver **utförligt** funktionsprinciper för och konstruktioner av olika lastbilars olika elektroniska nätverkssystem samt hur de kommunicerar med varandra",
+      "0Eleven beskriver även **utförligt** olika förarassistans- och säkerhetssystem samt olika elektroniska växlingssystem och deras styrsystem",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven utför, **efter samråd** med handledare, i bekanta situationer funktionskontroll, felsökning och diagnos av olika el- och elektroniska system samt deras komponenter",
+      "1Eleven utför även, **efter samråd** med handledare, i bekanta situationer funktionskontroll, felsökning och diagnos på olika motorstyrsystem",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2I arbetet använder eleven **med viss säkerhet** rätt arbetsmetod och med **gott** handlag mät- och diagnosutrustning, specialverktyg, verktyg och utrustning",
+      "2Dessutom använder eleven **med viss säkerhet** manualer, scheman och digitala informationssystem",
+      "2Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven kommunicerar med kunder och arbetskamrater använder eleven **med viss säkerhet** ett yrkesmässigt språk",
+      "3I kommunikationen med kunder anpassar eleven språket efter målgruppen",
+      "3Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat",
+      "3Resultatet av elevens arbete är **tillfredsställande**",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ],
+    "A": [
+      "0Eleven beskriver **utförligt och nyanserat** funktionsprinciper för och konstruktioner av olika lastbilars olika elektroniska nätverkssystem samt hur de kommunicerar med varandra",
+      "0Eleven beskriver även **utförligt och nyanserat** olika förarassistans- och säkerhetssystem samt olika elektroniska växlingssystem och deras styrsystem",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven utför, **efter samråd** med handledare, i bekanta **men även nya** situationer funktionskontroll, felsökning och diagnos av olika el- och elektroniska system samt deras komponenter",
+      "1Eleven utför även, **efter samråd** med handledare, i bekanta **men även nya** situationer funktionskontroll, felsökning och diagnos på olika motorstyrsystem",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2I arbetet använder eleven **med säkerhet** rätt arbetsmetod och med **mycket gott** handlag mät- och diagnosutrustning, specialverktyg, verktyg och utrustning",
+      "2Dessutom använder eleven **med säkerhet** manualer, scheman och digitala informationssystem",
+      "2Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven kommunicerar med kunder och arbetskamrater använder eleven **med säkerhet** ett yrkesmässigt språk",
+      "3I kommunikationen med kunder anpassar eleven språket efter målgruppen",
+      "3Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat",
+      "3Resultatet av elevens arbete är **gott**",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION",
+      "4När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+    ]
+  }
+}

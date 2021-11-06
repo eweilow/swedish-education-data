@@ -1,0 +1,83 @@
+{
+  "name": "Kost, måltid och munhälsa",
+  "code": "HAAKOS0",
+  "focusAreas": {
+    "string": "Kursen kost, måltid och munhälsa omfattar punkterna 1–2, 4 och 6–8 under rubriken Ämnets syfte.",
+    "entries": [
+      "1–2",
+      "4",
+      "6–8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Näringsbehov, nutrition och nationella kostrekommendationer.",
+          "2. Livsmedelshygien och hantering av livsmedel för bevarande av dess näringsinnehåll.",
+          "3. Kulturella aspekter på kost och måltid samt måltidsmiljöns estetiska och psykosociala aspekter.",
+          "4. Sambanden mellan kost, levnadsvanor, hälsa och välbefinnande.",
+          "5. Balanserad kost och specialkost vid ohälsa, sjukdom och funktionsnedsättning.",
+          "6. Functional food, dvs. livsmedel med specifika fysiologiska hälsoeffekter.",
+          "7. Tillagning, iordningställande och servering av måltider.",
+          "8. Svälj- och matsmältningsbesvär samt anpassning av kosten vid olika sjukdomstillstånd.",
+          "9. Munhygien och munvård hos äldre och sjuka."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      "0Eleven redogör **översiktligt** för människans näringsbehov och ger **några** exempel på nationella rekommendationer inom området",
+      "0Dessutom ger eleven **några** exempel på hur livsmedels kvalitet och näringsinnehåll påverkas vid hantering och förvaring",
+      "0Eleven redogör **översiktligt** för kostens, måltidssituationens och munhygienens betydelse för människors hälsa och välbefinnande ur fysiologiska, psykosociala, estetiska och kulturella aspekter",
+      "0Eleven redogör även **översiktligt** för olika former av specialkoster samt för vanliga svälj- och matsmältningsbesvär",
+      "0I redogörelserna använder eleven **med viss säkerhet** centrala begrepp och teorier",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar och genomför, **i samråd** med handledare, stöd och assistans vid måltid och munvård med ett **tillfredsställande** resultat",
+      "1Eleven motiverar **översiktligt** sitt handlingssätt utifrån olika teorier om kost och hälsa",
+      "1Eleven gör även en **enkel** dokumentation av sitt arbete samt utvärderar det och sitt resultat med **enkla** omdömen",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven diskuterar **översiktligt** egna och andras värderingar samt attityder till kost och hälsa",
+      "2Dessutom samarbetar och kommunicerar eleven **med viss säkerhet** med andra på ett yrkesetiskt sätt",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "C": [
+      "0Eleven redogör **utförligt** för människans näringsbehov och ger **flera** exempel på nationella rekommendationer inom området",
+      "0Dessutom ger eleven **flera** exempel på hur livsmedels kvalitet och näringsinnehåll påverkas vid hantering och förvaring",
+      "0Eleven redogör **utförligt** för kostens, måltidssituationens och munhygienens betydelse för människors hälsa och välbefinnande ur fysiologiska, psykosociala, estetiska och kulturella aspekter",
+      "0Eleven redogör även **utförligt** för olika former av specialkoster samt för vanliga svälj- och matsmältningsbesvär",
+      "0I redogörelserna använder eleven **med viss säkerhet** centrala begrepp och teorier",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar och genomför, **efter samråd** med handledare, stöd och assistans vid måltid och munhygien med ett **tillfredsställande** resultat",
+      "1Eleven motiverar **utförligt** sitt handlingssätt utifrån olika teorier om kost och hälsa",
+      "1Eleven gör även en **noggrann** dokumentation av sitt arbete samt utvärderar det och sitt resultat med **välgrundade** omdömen",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven diskuterar **utförligt** egna och andras värderingar samt attityder till kost och hälsa",
+      "2Dessutom samarbetar och kommunicerar eleven **med viss säkerhet** med andra på ett yrkesetiskt sätt",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ],
+    "A": [
+      "0Eleven redogör **utförligt och nyanserat** för människans näringsbehov och ger **flera** exempel på nationella rekommendationer på området",
+      "0Dessutom ger eleven **flera** exempel på hur livsmedels kvalitet och näringsinnehåll påverkas vid hantering och förvaring",
+      "0Eleven redogör **utförligt och nyanserat** för kostens, måltidssituationens och munhygienens betydelse för människors hälsa och välbefinnande ur fysiologiska, psykosociala, estetiska och kulturella aspekter",
+      "0Eleven redogör även **utförligt och nyanserat** för olika former av specialkoster samt för vanliga svälj- och matsmältningsbesvär",
+      "0I redogörelserna använder eleven **med säkerhet** centrala begrepp och teorier",
+      "0THIS 0IS 0THE 0START 0OF 0SECTION",
+      "1Eleven planerar och genomför, **efter samråd** med handledare, stöd och assistans vid måltid och munhygien med ett **gott** resultat",
+      "1Eleven motiverar **utförligt och nyanserat** sitt handlingssätt utifrån olika teorier om kost och hälsa",
+      "1Eleven gör även en **noggrann och utförlig** dokumentation av sitt arbete samt utvärderar det och sitt resultat med **välgrundade och nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**",
+      "1THIS 1IS 1THE 1START 1OF 1SECTION",
+      "2Eleven diskuterar **utförligt och nyanserat** egna och andras värderingar samt attityder till kost och hälsa",
+      "2Dessutom samarbetar och kommunicerar eleven **med säkerhet** på ett yrkesetiskt sätt",
+      "2THIS 2IS 2THE 2START 2OF 2SECTION",
+      "3När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
+      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+    ]
+  }
+}
