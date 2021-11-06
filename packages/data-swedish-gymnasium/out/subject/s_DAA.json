@@ -1,0 +1,30 @@
+{
+  "title": "Datalagring",
+  "code": "DAA",
+  "developmentPurposes": [
+    "Kunskaper om olika datamodeller, datalagringslösningar och databastyper samt om deras användningsområden och om vanligt förekommande produkter inom området.",
+    "Kunskaper om begreppsbildning och terminologi inom området.",
+    "Kunskaper om datalagring i datafiler.",
+    "Kunskaper om relationsdatabaser och andra typer av databaser.",
+    "Förmåga att skapa datamodeller och en fungerande struktur för datalagring.",
+    "Förmåga att skapa, använda, felsöka och optimera datalagring samt att använda olika verktyg för detta.",
+    "Förmåga att använda ramverk, gränssnitt och frågespråk för att komma åt lagrad data.",
+    "Kunskaper om säkerhet samt lagar och andra bestämmelser inom området."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet datalagring ska syfta till att eleverna utvecklar kunskaper om olika former av datalagring, främst med databashanterare av olika slag. Genom undervisningen ska eleverna ges möjlighet att utveckla förståelse av olika datamodeller och förmåga att använda dem för att implementera datalagring.",
+    "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om flera aspekter av datalagring, främst funktionalitet, prestanda, skalbarhet och säkerhet. Undervisningen ska också leda till att eleverna utvecklar förmåga att hantera lagrad data ansvarsfullt, säkert och med hänsyn till lagstiftning och personlig integritet.",
+    "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om begrepp inom området samt förmåga att kommunicera om datalagring.",
+    "Eleverna ska ges möjlighet att utveckla förmåga att skapa system för lagring och åtkomst av data. Undervisningen ska leda till att eleverna utvecklar förmåga att skapa ändamålsenliga datalagringslösningar genom att genomföra utvecklingsprojekt."
+  ],
+  "courseInfo": {
+    "DAADAT3": "Datalagring, 100 poäng."
+  },
+  "description": "Ämnet datalagring behandlar hur lösningar för datalagring designas och hur det är möjligt att effektivt komma åt lagrad data från mjukvaruapplikationer. Ämnet datalagring får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "OTHER",
+  "applicableFrom": "2017-06-20T22:00:00.000Z",
+  "courses": [
+    "DAADAT3"
+  ]
+}

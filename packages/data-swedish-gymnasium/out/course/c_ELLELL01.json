@@ -1,0 +1,85 @@
+{
+  "subject": "ELL",
+  "title": "Ellära 1",
+  "code": "ELLELL01",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för lik- och enfasväxelströmskretsars uppbyggnad och funktion samt för olika belastningars inverkan på kretsar och elsystem.",
+        "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet."
+      ],
+      [
+        "Eleven utför <strong>efter samråd</strong> med handledare elektriska mätningar på lik- och enfasväxelströmskretsar.",
+        "Inför arbetet väljer eleven <strong>med säkerhet</strong> lämpliga mätmetoder och mätinstrument.",
+        "Dessutom gör eleven en <strong>välgrundad</strong> riskbedömning och anpassar vid behov mätningen efter den.",
+        "Eleven utför <strong>efter samråd</strong> med handledare <strong>avancerade</strong> beräkningar.",
+        "Utifrån resultaten av mätningarna och beräkningarna föreslår eleven <strong>med säkerhet</strong> lämpliga åtgärder för att avhjälpa fel i elsystemet.",
+        "Eleven utför <strong>efter samråd</strong> med handledare dessa åtgärder.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör <strong>utförligt</strong> för lik- och enfasväxelströmskretsars uppbyggnad och funktion samt för olika belastningars inverkan på kretsar och elsystem.",
+        "Dessutom redogör eleven <strong>utförligt</strong> för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet."
+      ],
+      [
+        "Eleven utför <strong>efter samråd</strong> med handledare elektriska mätningar på lik- och enfasväxelströmskretsar.",
+        "Inför arbetet väljer eleven <strong>med viss säkerhet</strong> lämpliga mätmetoder och mätinstrument.",
+        "Dessutom gör eleven en riskbedömning och anpassar vid behov mätningen efter den.",
+        "Eleven utför <strong>efter samråd</strong> med handledare beräkningar.",
+        "Utifrån resultaten av mätningarna och beräkningarna föreslår eleven <strong>med viss säkerhet</strong> lämpliga åtgärder för att avhjälpa fel i elsystemet.",
+        "Eleven utför <strong>efter samråd</strong> med handledare dessa åtgärder.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven redogör <strong>översiktligt</strong> för lik- och enfasväxelströmskretsars uppbyggnad och funktion samt för olika belastningars inverkan på kretsar och elsystem.",
+        "Dessutom redogör eleven <strong>översiktligt</strong> för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet."
+      ],
+      [
+        "Eleven utför <strong>i samråd</strong> med handledare elektriska mätningar på lik- och enfasväxelströmskretsar.",
+        "Inför arbetet väljer eleven <strong>med viss säkerhet</strong> lämpliga mätmetoder och mätinstrument.",
+        "Dessutom gör eleven en <strong>enkel</strong> riskbedömning och anpassar vid behov mätningen efter den.",
+        "Eleven utför <strong>i samråd</strong> med handledare <strong>enkla</strong> beräkningar.",
+        "Utifrån resultaten av mätningarna och beräkningarna föreslår eleven <strong>med viss säkerhet</strong> lämpliga åtgärder för att avhjälpa fel i elsystemet.",
+        "Eleven utför <strong>i samråd</strong> med handledare dessa åtgärder.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Ledare, halvledare och isolatorer.",
+        "Elektriska storheter i lik- och enfasväxelströmskretsar.",
+        "Grundläggande principer för motorer, generatorer och transformatorer samt för överföring av elenergi.",
+        "Elektrisk serie och parallell koppling.",
+        "Lik- och enfasväxelström.",
+        "Elektriska och magnetiska fält.",
+        "Elektromagnetisk kompabilitet (EMC), övertoner och faskompensering.",
+        "Resistiva, induktiva och kapacitiva kretsar.",
+        "Olika mättekniker samt metoder för att analysera mätvärden och utföra felsökning och felavhjälpning."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen ellära 1 omfattar punkterna 2, 4–5 och 7 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    1,
+    3,
+    4,
+    6
+  ]
+}

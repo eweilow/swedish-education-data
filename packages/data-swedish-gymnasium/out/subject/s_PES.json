@@ -1,0 +1,38 @@
+{
+  "title": "Persontransporter",
+  "code": "PES",
+  "developmentPurposes": [
+    "Kunskaper om administrativa rutiner för biljettsystem och turlistor samt om dokumentation och rutiner för internationella persontransporter.",
+    "Kunskaper om yrkesmässiga persontransporter och deras förutsättningar.",
+    "Kunskaper om busskonstruktioners funktion och användningsområden samt om bussförarens arbetssituation och risker i arbetet.",
+    "Förmåga att köra och manövrera fordon för persontransporter i skiftande trafikmiljöer.",
+    "Förmåga att planera och genomföra persontransporter på ett säkert, miljömässigt och kvalitetsmässigt sätt enligt lagar och andra bestämmelser som reglerar verksamheten.",
+    "Förmåga att hantera fordon för persontransporter och fordonens utrustning samt att utföra service och underhåll på bussar.",
+    "Förmåga att planera körtider och färdvägar mot resmål samt att beräkna lastvikter.",
+    "Förmåga att hantera situationer vid olyckstillbud och sjukdomstillstånd hos passagerare.",
+    "Förmåga att ge service och bemöta kunder utifrån resenärens behov.",
+    "Förmåga att samarbeta med andra och att kommunicera med kunder och medarbetare."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet persontransporter ska syfta till att eleverna utvecklar förmåga att utföra yrkesmässiga persontransporter med tonvikt på passagerarsäkerhet. Den ska ge eleverna möjlighet att utveckla förmåga att framföra fordon för persontransporter. Undervisningen ska leda till att eleverna utvecklar kunskaper som motsvarar de specifika kraven på yrkeskompetens i överenskommelser om yrkesmässiga vägtransporter. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att ge service och bemöta kunder samt att ta hand om passagerare med särskilda behov. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om förutsättningar för yrkesmässig persontrafik, olika transportverksamheters villkor samt om ergonomi och arbetsmiljö.",
+    "Undervisningen ska utgå från uppgifter som är konstruerade så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Dessa arbetsuppgifter ska utgå från ett problemlösande och laborativt arbetssätt."
+  ],
+  "courseInfo": {
+    "PESPER01a": "Persontrafik 1a, 200 poäng, som bygger på kursen yrkestrafik 1a och kursen yrkestrafik 1b.",
+    "PESPER01b": "Persontrafik 1b, 200 poäng, som bygger på kursen yrkestrafik 1a och kursen yrkestrafik 1b.",
+    "PESPER1": "Persontrafik – vux, 200 poäng, som bygger på kursen yrkestrafik – vux. Kursen får endast anordnas inom kommunal vuxenutbildning. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen persontrafik 1a eller kursen persontrafik 1b.",
+    "PESPER00S": "Persontransporter – specialisering, 100 poäng, som bygger på kursen persontrafik 1a och kursen persontrafik 1b eller på kursen persontrafik – vux. Kursen kan läsas flera gånger med olika innehåll.",
+    "PESTAX0": "Taxitrafik, 100 poäng, som bygger på kursen persontransporter – specialisering."
+  },
+  "description": "Ämnet persontransporter behandlar yrkesmässiga vägtransporter med fordon som används för persontransporter. Det omfattar dels förarutbildning på fordon för persontransporter, dels säkerhet för passagerare.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "VOCATIONAL",
+  "applicableFrom": "2016-03-13T23:00:00.000Z",
+  "courses": [
+    "PESPER01a",
+    "PESPER01b",
+    "PESPER00S",
+    "PESPER1",
+    "PESTAX0"
+  ]
+}

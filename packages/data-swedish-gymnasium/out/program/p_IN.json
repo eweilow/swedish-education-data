@@ -1,0 +1,1663 @@
+{
+  "title": "Industritekniska programmet",
+  "code": "IN",
+  "url": "https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola/programstruktur-och-examensmal/industritekniska-programmet",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "typeOfProgram": "VOCATIONAL_PROGRAM",
+  "applicableFrom": "2017-06-30T22:00:00.000Z",
+  "info": {
+    "degreeObjectives": [
+      "Industritekniska programmet är ett yrkesprogram. Efter examen från programmet ska eleverna ha de kunskaper som behövs för att arbeta inom områden som processinriktad eller maskinell materialbearbetning och produktframställning, driftsäkerhet och underhåll samt svetsning och annan sammanfogning.",
+      "Utbildningen ska utveckla elevernas kunskaper inom industriell teknik och industriteknisk produktion. Den ska utveckla elevernas förmåga att använda utrustning, bearbeta material, hantera industritekniska processer samt arbeta med kvalitetssäkring för såväl produktion som färdig produkt. Utbildningen ska också ge eleverna kunskaper om helheten i den industriella verksamheten för att göra det möjligt för dem att delta såväl i produkt- och produktionsplanering som i själva produktionen. Industriprocesserna är i hög grad automatiserade och digitaliserade. Utbildningen ska därför bidra till förståelse av den logik som styr processerna samt utveckla elevernas förmåga att använda digital teknik.",
+      "Inom området industriell teknik ska utbildningen ge kunskaper om sammanhangen i produktionsleden och produktionsutrustningens funktion, användning och skötsel samt om hur produktionen och tekniken påverkar människor och miljö. Inom området industriteknisk produktion ska utbildningen ge kunskaper om arbetets organisation, produktionsekonomi, resursanvändning samt systematiskt arbetsmiljöarbete. Eleverna ska få kunskaper om betydelsen av att i sitt arbete följa regler och arbeta kvalitets- och säkerhetsmedvetet samt noggrant. Utbildningen ska också ge kunskaper om hur en idé utvecklas till färdig produkt samt om produktens funktion och utveckling till dess den förstörs eller återvinns.",
+      "Industriell produktion förutsätter råvaror och energi. Utbildningen ska leda till att eleverna får insikter om sina och företagens möjligheter att genom val av material, metod och teknik påverka förbrukningen av både råvaror och energi.",
+      "Valen ska göras med hänsyn till såväl hållbar utveckling ur lokala och globala aspekter som företagsekonomi.",
+      "Det industritekniska yrkesområdet förändras snabbt och därför ska utbildningen förbereda eleverna för fortsatt lärande i yrkeslivet. Ett företags överlevnad kan vara helt beroende av sin inre kreativa kraft att förändras. Utbildningen ska därför utveckla elevernas förmåga till problemlösning och stimulera dem att upptäcka innovativa möjligheter att skapa och möta förändringar. Genom att reflektera kring erfarenheter och resultat ska eleverna utveckla förmågan att planera, genomföra, dokumentera, utvärdera och utveckla arbetet såväl med som utan stöd av digitala verktyg. Samarbete med företag i regionen bidrar till utveckling av elevernas förståelse av företagandets villkor. Inom utbildningen ska eleverna också ges möjlighet att överväga eget företagande som alternativ till anställning.",
+      "Industriell produktion utförs i regel av människor i samverkan. Det är därför viktigt att eleverna i utbildningen utvecklar kommunikationsförmåga och förståelse av vad samverkan betyder för produktionen. Utbildningen ska utveckla elevernas förmåga att samverka med andra, oavsett till exempel kön, kulturell bakgrund, ålder, position eller kompetens, eftersom arbetsgrupper inom industrin ofta är heterogena. Eleverna ska vidare utveckla förmågan att i grupp ta initiativ, vara lyhörd, arbeta självständigt och kunna använda yrkets fackspråk. Många industrier har internationella kontakter med manualer och beskrivningar skrivna på engelska. Engelska är också i flera fall koncernspråk. Utbildningen ska därför ge eleverna möjligheter till fördjupade studier i engelska.",
+      "Arbetsplatsförlagt lärande ska förekomma på alla yrkesprogram. Det arbetsplatsförlagda lärandet ska bidra till att eleverna utvecklar yrkeskunskaper och en yrkesidentitet samt förstår yrkeskulturen och blir en del av yrkesgemenskapen på en arbetsplats. Det arbetsplatsförlagda lärandet kan också ge inblick i företagandets villkor.",
+      "Examensmålet gäller för både skolförlagd utbildning och lärlingsutbildning."
+    ],
+    "orientation": {
+      "title": "Inriktningar",
+      "lines": [
+        "Industritekniska programmet har fyra inriktningar.",
+        "Samtliga inriktningar kan leda till fortsatta studier på yrkeshögskola."
+      ]
+    },
+    "educationObjectives": [
+      "Gymnasiearbetet ska visa att eleven är förberedd för det yrkesområde som gäller för den valda yrkesutgången. Det ska pröva elevens förmåga att utföra vanligt förekommande arbetsuppgifter inom yrkesområdet.",
+      "Gymnasiearbetet ska utföras på ett sådant sätt att eleven planerar, genomför och utvärderar sin uppgift.",
+      "Gymnasiearbetet kan utformas så att det ger eleverna möjlighet att pröva sitt yrkeskunnande i företagsliknande arbetsformer."
+    ]
+  },
+  "education": {
+    "mandatory": {
+      "courses": [
+        "ENGENG05",
+        "HISHIS01a1",
+        "IDRIDR01",
+        "MATMAT01a",
+        "NAKNAK01a1",
+        "RELREL01",
+        "SAMSAM01a1",
+        "SVASVA01",
+        "SVESVE01"
+      ],
+      "subjects": [
+        {
+          "code": "ENG",
+          "minPoints": 100,
+          "courses": [
+            "ENGENG05"
+          ]
+        },
+        {
+          "code": "HIS",
+          "minPoints": 50,
+          "courses": [
+            "HISHIS01a1"
+          ]
+        },
+        {
+          "code": "IDR",
+          "minPoints": 100,
+          "courses": [
+            "IDRIDR01"
+          ]
+        },
+        {
+          "code": "MAT",
+          "minPoints": 100,
+          "courses": [
+            "MATMAT01a"
+          ]
+        },
+        {
+          "code": "NAK",
+          "minPoints": 50,
+          "courses": [
+            "NAKNAK01a1"
+          ]
+        },
+        {
+          "code": "REL",
+          "minPoints": 50,
+          "courses": [
+            "RELREL01"
+          ]
+        },
+        {
+          "code": "SAM",
+          "minPoints": 50,
+          "courses": [
+            "SAMSAM01a1"
+          ]
+        },
+        {
+          "code": "SVA",
+          "minPoints": 100,
+          "courses": [
+            "SVASVA01"
+          ]
+        },
+        {
+          "code": "SVE",
+          "minPoints": 100,
+          "courses": [
+            "SVESVE01"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "program": {
+      "courses": [
+        "INUINU01",
+        "MÄIMÄN01",
+        "PRDPRO01",
+        "PRUPRD01S"
+      ],
+      "subjects": [
+        {
+          "code": "INU",
+          "minPoints": 100,
+          "courses": [
+            "INUINU01"
+          ]
+        },
+        {
+          "code": "MÄI",
+          "minPoints": 100,
+          "courses": [
+            "MÄIMÄN01"
+          ]
+        },
+        {
+          "code": "PRD",
+          "minPoints": 100,
+          "courses": [
+            "PRDPRO01"
+          ]
+        },
+        {
+          "code": "PRU",
+          "minPoints": 100,
+          "courses": [
+            "PRUPRD01S"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "specialization": {
+      "courses": [
+        "AUOALL0",
+        "AUOAVH0",
+        "BIGMAN0",
+        "BILBIL01a1",
+        "BILBIL01a2",
+        "BILBIL01b",
+        "BILFOM0",
+        "BIOBIO01",
+        "BIOBIT0",
+        "BYGBYG01",
+        "BYGBYG02",
+        "CADCAD01",
+        "CADCAD02",
+        "DAODAC0",
+        "DAODAT01a",
+        "DAODAT01b",
+        "DAODIG0",
+        "DAOINU0",
+        "DARCAD0",
+        "DARDAT01S",
+        "DARDAT02",
+        "DARDAT03",
+        "DARDAT04",
+        "DARDAT05",
+        "DARDAT06",
+        "DESDES0",
+        "DESDES01",
+        "DESDES02",
+        "DRIAVH01",
+        "DRIAVH02",
+        "DRIUNÅ0",
+        "DRIUND0",
+        "DRIUNE0",
+        "DRIUNH0",
+        "DRIUNL0",
+        "DRIUNO0",
+        "DRIUNP0",
+        "DRIUNR0",
+        "DRIUNT0",
+        "DRIUNU0",
+        "DRIUNV0",
+        "ELEELR0",
+        "ELELÅG0",
+        "ELEMIK0",
+        "ELKELO0",
+        "ELKPRV0",
+        "ELLELL01",
+        "ELLELL02",
+        "ELLPRA0",
+        "ELMELM0",
+        "ELRELF0",
+        "ELRELK0",
+        "ENEENE01",
+        "ENEENE02",
+        "ENEFÖR0",
+        "ENEVAE0",
+        "ENGENG06",
+        "ENTENR0",
+        "FODFOO0",
+        "FÖRENT0",
+        "FÖRFÖR01",
+        "FÖRFÖR02",
+        "FOTFOT01",
+        "FOTFOT02",
+        "FOTFOT03",
+        "FYSFYS01a",
+        "FYSFYS02",
+        "GRAGRA0",
+        "GRAGRA01",
+        "GRAGRA02",
+        "GRAGRI0",
+        "GRAGRP0",
+        "GRAGRR0",
+        "GRAGRV0",
+        "GRFGRF01",
+        "GRFGRF02",
+        "GRFGRF03",
+        "GRFGRF04",
+        "HALERG0",
+        "HÅLMIJ0",
+        "HUSHUS01",
+        "HUSHUS02",
+        "HYGHYG0",
+        "INRIND0",
+        "INRROB0",
+        "INSELI0",
+        "INSELS0",
+        "INUINU02",
+        "INUINU03",
+        "INUINU04",
+        "INULAB0",
+        "KEMKEM01",
+        "KEMKEM02",
+        "KOTKOS01",
+        "KOTKOS02",
+        "LACBAK0",
+        "LACFÄR0",
+        "LACINS0",
+        "LACLAC0",
+        "LACLAE0",
+        "LACLAK0",
+        "LACLAR0",
+        "LACPRD0",
+        "LEDLED0",
+        "LIVLIV01",
+        "LIVLIV02",
+        "MAEMAT01",
+        "MAEMAT02",
+        "MÄIMÄN02",
+        "MÄTDIS0",
+        "MÄTMÄO0",
+        "MÄTMÄT0",
+        "MATMAT02a",
+        "MATMAT03b",
+        "MATMAT03c",
+        "MATMAT04",
+        "MÄTPRR0",
+        "MEKMEK01",
+        "MEKMEK02",
+        "NAKNAK01a2",
+        "NAKNAK02",
+        "PRDPRO02",
+        "PRFPRF01",
+        "PRFPRF02",
+        "PRKPRK01",
+        "PRKPRK02",
+        "PRRPRR01",
+        "PRRPRR02",
+        "PRUIND0",
+        "PRUINE00S",
+        "PRUINU0",
+        "PRUPRD02S",
+        "PRUPRD03S",
+        "PRUPRD04",
+        "PRUVEY0",
+        "SAAKÄL01S",
+        "SAAKÄL02S",
+        "SAARÖR01S",
+        "SAARÖR02S",
+        "SAASAA0",
+        "SAASTU01S",
+        "SAASTU02S",
+        "SAASVT0",
+        "SKGSKO01",
+        "SKOMÅN0",
+        "TEKTEK01",
+        "TEKTEK02",
+        "TIATIL00S",
+        "TILTIL01",
+        "TILTIL02",
+        "TRÄBYG0",
+        "TRÄTRK01",
+        "TRÄTRK02",
+        "TRÄTRK03"
+      ],
+      "subjects": [
+        {
+          "code": "AUO",
+          "minPoints": 200,
+          "courses": [
+            "AUOALL0",
+            "AUOAVH0"
+          ]
+        },
+        {
+          "code": "BIG",
+          "minPoints": 100,
+          "courses": [
+            "BIGMAN0"
+          ]
+        },
+        {
+          "code": "BIL",
+          "minPoints": 300,
+          "courses": [
+            "BILBIL01a1",
+            "BILBIL01a2",
+            "BILBIL01b",
+            "BILFOM0"
+          ]
+        },
+        {
+          "code": "BIO",
+          "minPoints": 200,
+          "courses": [
+            "BIOBIO01",
+            "BIOBIT0"
+          ]
+        },
+        {
+          "code": "BYG",
+          "minPoints": 400,
+          "courses": [
+            "BYGBYG01",
+            "BYGBYG02"
+          ]
+        },
+        {
+          "code": "CAD",
+          "minPoints": 100,
+          "courses": [
+            "CADCAD01",
+            "CADCAD02"
+          ]
+        },
+        {
+          "code": "DAO",
+          "minPoints": 500,
+          "courses": [
+            "DAODAC0",
+            "DAODAT01a",
+            "DAODAT01b",
+            "DAODIG0",
+            "DAOINU0"
+          ]
+        },
+        {
+          "code": "DAR",
+          "minPoints": 700,
+          "courses": [
+            "DARCAD0",
+            "DARDAT01S",
+            "DARDAT02",
+            "DARDAT03",
+            "DARDAT04",
+            "DARDAT05",
+            "DARDAT06"
+          ]
+        },
+        {
+          "code": "DES",
+          "minPoints": 300,
+          "courses": [
+            "DESDES0",
+            "DESDES01",
+            "DESDES02"
+          ]
+        },
+        {
+          "code": "DRI",
+          "minPoints": 1300,
+          "courses": [
+            "DRIAVH01",
+            "DRIAVH02",
+            "DRIUNÅ0",
+            "DRIUND0",
+            "DRIUNE0",
+            "DRIUNH0",
+            "DRIUNL0",
+            "DRIUNO0",
+            "DRIUNP0",
+            "DRIUNR0",
+            "DRIUNT0",
+            "DRIUNU0",
+            "DRIUNV0"
+          ]
+        },
+        {
+          "code": "ELE",
+          "minPoints": 300,
+          "courses": [
+            "ELEELR0",
+            "ELELÅG0",
+            "ELEMIK0"
+          ]
+        },
+        {
+          "code": "ELK",
+          "minPoints": 200,
+          "courses": [
+            "ELKELO0",
+            "ELKPRV0"
+          ]
+        },
+        {
+          "code": "ELL",
+          "minPoints": 300,
+          "courses": [
+            "ELLELL01",
+            "ELLELL02",
+            "ELLPRA0"
+          ]
+        },
+        {
+          "code": "ELM",
+          "minPoints": 100,
+          "courses": [
+            "ELMELM0"
+          ]
+        },
+        {
+          "code": "ELR",
+          "minPoints": 200,
+          "courses": [
+            "ELRELF0",
+            "ELRELK0"
+          ]
+        },
+        {
+          "code": "ENE",
+          "minPoints": 400,
+          "courses": [
+            "ENEENE01",
+            "ENEENE02",
+            "ENEFÖR0",
+            "ENEVAE0"
+          ]
+        },
+        {
+          "code": "ENG",
+          "minPoints": 100,
+          "courses": [
+            "ENGENG06"
+          ]
+        },
+        {
+          "code": "ENT",
+          "minPoints": 100,
+          "courses": [
+            "ENTENR0"
+          ]
+        },
+        {
+          "code": "FOD",
+          "minPoints": 200,
+          "courses": [
+            "FODFOO0"
+          ]
+        },
+        {
+          "code": "FÖR",
+          "minPoints": 300,
+          "courses": [
+            "FÖRENT0",
+            "FÖRFÖR01",
+            "FÖRFÖR02"
+          ]
+        },
+        {
+          "code": "FOT",
+          "minPoints": 300,
+          "courses": [
+            "FOTFOT01",
+            "FOTFOT02",
+            "FOTFOT03"
+          ]
+        },
+        {
+          "code": "FYS",
+          "minPoints": 250,
+          "courses": [
+            "FYSFYS01a",
+            "FYSFYS02"
+          ]
+        },
+        {
+          "code": "GRA",
+          "minPoints": 700,
+          "courses": [
+            "GRAGRA0",
+            "GRAGRA01",
+            "GRAGRA02",
+            "GRAGRI0",
+            "GRAGRP0",
+            "GRAGRR0",
+            "GRAGRV0"
+          ]
+        },
+        {
+          "code": "GRF",
+          "minPoints": 400,
+          "courses": [
+            "GRFGRF01",
+            "GRFGRF02",
+            "GRFGRF03",
+            "GRFGRF04"
+          ]
+        },
+        {
+          "code": "HAL",
+          "minPoints": 100,
+          "courses": [
+            "HALERG0"
+          ]
+        },
+        {
+          "code": "HÅL",
+          "minPoints": 100,
+          "courses": [
+            "HÅLMIJ0"
+          ]
+        },
+        {
+          "code": "HUS",
+          "minPoints": 300,
+          "courses": [
+            "HUSHUS01",
+            "HUSHUS02"
+          ]
+        },
+        {
+          "code": "HYG",
+          "minPoints": 100,
+          "courses": [
+            "HYGHYG0"
+          ]
+        },
+        {
+          "code": "INR",
+          "minPoints": 200,
+          "courses": [
+            "INRIND0",
+            "INRROB0"
+          ]
+        },
+        {
+          "code": "INS",
+          "minPoints": 300,
+          "courses": [
+            "INSELI0",
+            "INSELS0"
+          ]
+        },
+        {
+          "code": "INU",
+          "minPoints": 500,
+          "courses": [
+            "INUINU02",
+            "INUINU03",
+            "INUINU04",
+            "INULAB0"
+          ]
+        },
+        {
+          "code": "KEM",
+          "minPoints": 200,
+          "courses": [
+            "KEMKEM01",
+            "KEMKEM02"
+          ]
+        },
+        {
+          "code": "KOT",
+          "minPoints": 200,
+          "courses": [
+            "KOTKOS01",
+            "KOTKOS02"
+          ]
+        },
+        {
+          "code": "LAC",
+          "minPoints": 1400,
+          "courses": [
+            "LACBAK0",
+            "LACFÄR0",
+            "LACINS0",
+            "LACLAC0",
+            "LACLAE0",
+            "LACLAK0",
+            "LACLAR0",
+            "LACPRD0"
+          ]
+        },
+        {
+          "code": "LED",
+          "minPoints": 100,
+          "courses": [
+            "LEDLED0"
+          ]
+        },
+        {
+          "code": "LIV",
+          "minPoints": 200,
+          "courses": [
+            "LIVLIV01",
+            "LIVLIV02"
+          ]
+        },
+        {
+          "code": "MAE",
+          "minPoints": 200,
+          "courses": [
+            "MAEMAT01",
+            "MAEMAT02"
+          ]
+        },
+        {
+          "code": "MÄI",
+          "minPoints": 100,
+          "courses": [
+            "MÄIMÄN02"
+          ]
+        },
+        {
+          "code": "MAT",
+          "minPoints": 400,
+          "courses": [
+            "MATMAT02a",
+            "MATMAT03b",
+            "MATMAT03c",
+            "MATMAT04"
+          ]
+        },
+        {
+          "code": "MÄT",
+          "minPoints": 400,
+          "courses": [
+            "MÄTDIS0",
+            "MÄTMÄO0",
+            "MÄTMÄT0",
+            "MÄTPRR0"
+          ]
+        },
+        {
+          "code": "MEK",
+          "minPoints": 200,
+          "courses": [
+            "MEKMEK01",
+            "MEKMEK02"
+          ]
+        },
+        {
+          "code": "NAK",
+          "minPoints": 150,
+          "courses": [
+            "NAKNAK01a2",
+            "NAKNAK02"
+          ]
+        },
+        {
+          "code": "PRD",
+          "minPoints": 100,
+          "courses": [
+            "PRDPRO02"
+          ]
+        },
+        {
+          "code": "PRF",
+          "minPoints": 100,
+          "courses": [
+            "PRFPRF01",
+            "PRFPRF02"
+          ]
+        },
+        {
+          "code": "PRK",
+          "minPoints": 200,
+          "courses": [
+            "PRKPRK01",
+            "PRKPRK02"
+          ]
+        },
+        {
+          "code": "PRR",
+          "minPoints": 200,
+          "courses": [
+            "PRRPRR01",
+            "PRRPRR02"
+          ]
+        },
+        {
+          "code": "PRU",
+          "minPoints": 550,
+          "courses": [
+            "PRUIND0",
+            "PRUINE00S",
+            "PRUINU0",
+            "PRUPRD02S",
+            "PRUPRD03S",
+            "PRUPRD04",
+            "PRUVEY0"
+          ]
+        },
+        {
+          "code": "SAA",
+          "minPoints": 800,
+          "courses": [
+            "SAAKÄL01S",
+            "SAAKÄL02S",
+            "SAARÖR01S",
+            "SAARÖR02S",
+            "SAASAA0",
+            "SAASTU01S",
+            "SAASTU02S",
+            "SAASVT0"
+          ]
+        },
+        {
+          "code": "SKG",
+          "minPoints": 100,
+          "courses": [
+            "SKGSKO01"
+          ]
+        },
+        {
+          "code": "SKO",
+          "minPoints": 100,
+          "courses": [
+            "SKOMÅN0"
+          ]
+        },
+        {
+          "code": "TEK",
+          "minPoints": 250,
+          "courses": [
+            "TEKTEK01",
+            "TEKTEK02"
+          ]
+        },
+        {
+          "code": "TIA",
+          "minPoints": 100,
+          "courses": [
+            "TIATIL00S"
+          ]
+        },
+        {
+          "code": "TIL",
+          "minPoints": 200,
+          "courses": [
+            "TILTIL01",
+            "TILTIL02"
+          ]
+        },
+        {
+          "code": "TRÄ",
+          "minPoints": 400,
+          "courses": [
+            "TRÄBYG0",
+            "TRÄTRK01",
+            "TRÄTRK02",
+            "TRÄTRK03"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "orientations": [
+      {
+        "name": "Driftsäkerhet och underhåll",
+        "code": "INDRI",
+        "points": 400,
+        "courses": [
+          "DRIAVH01",
+          "DRIUNÅ0",
+          "DRIUND0",
+          "DRIUNE0"
+        ],
+        "subjects": [
+          {
+            "code": "DRI",
+            "minPoints": 400,
+            "courses": [
+              "DRIAVH01",
+              "DRIUNÅ0",
+              "DRIUND0",
+              "DRIUNE0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Processteknik",
+        "code": "INPRO",
+        "points": 400,
+        "courses": [
+          "INUINU02",
+          "PRDPRO02",
+          "PRUPRD02S",
+          "PRUPRD03S"
+        ],
+        "subjects": [
+          {
+            "code": "INU",
+            "minPoints": 100,
+            "courses": [
+              "INUINU02"
+            ]
+          },
+          {
+            "code": "PRD",
+            "minPoints": 100,
+            "courses": [
+              "PRDPRO02"
+            ]
+          },
+          {
+            "code": "PRU",
+            "minPoints": 200,
+            "courses": [
+              "PRUPRD02S",
+              "PRUPRD03S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Produkt och maskinteknik",
+        "code": "INPRK",
+        "points": 300,
+        "courses": [
+          "DARDAT01S",
+          "PRKPRK01",
+          "PRUPRD02S"
+        ],
+        "subjects": [
+          {
+            "code": "DAR",
+            "minPoints": 100,
+            "courses": [
+              "DARDAT01S"
+            ]
+          },
+          {
+            "code": "PRK",
+            "minPoints": 100,
+            "courses": [
+              "PRKPRK01"
+            ]
+          },
+          {
+            "code": "PRU",
+            "minPoints": 100,
+            "courses": [
+              "PRUPRD02S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Svetsteknik",
+        "code": "INSVE",
+        "points": 400,
+        "courses": [
+          "PRKPRK01",
+          "SAAKÄL01S",
+          "SAASVT0",
+          "TILTIL01"
+        ],
+        "subjects": [
+          {
+            "code": "PRK",
+            "minPoints": 100,
+            "courses": [
+              "PRKPRK01"
+            ]
+          },
+          {
+            "code": "SAA",
+            "minPoints": 200,
+            "courses": [
+              "SAAKÄL01S",
+              "SAASVT0"
+            ]
+          },
+          {
+            "code": "TIL",
+            "minPoints": 100,
+            "courses": [
+              "TILTIL01"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      }
+    ],
+    "profiles": [],
+    "professionalDegrees": [
+      {
+        "name": "Automationsmekaniker",
+        "code": "INDRI",
+        "courses": [
+          "AUOALL0",
+          "DAOINU0",
+          "ELEELR0",
+          "ELLELL02",
+          "MÄTMÄO0",
+          "MÄTPRR0",
+          "MEKMEK01",
+          "PRRPRR01"
+        ],
+        "subjects": [
+          {
+            "code": "AUO",
+            "minPoints": 100,
+            "courses": [
+              "AUOALL0"
+            ]
+          },
+          {
+            "code": "DAO",
+            "minPoints": 100,
+            "courses": [
+              "DAOINU0"
+            ]
+          },
+          {
+            "code": "ELE",
+            "minPoints": 100,
+            "courses": [
+              "ELEELR0"
+            ]
+          },
+          {
+            "code": "ELL",
+            "minPoints": 100,
+            "courses": [
+              "ELLELL02"
+            ]
+          },
+          {
+            "code": "MÄT",
+            "minPoints": 200,
+            "courses": [
+              "MÄTMÄO0",
+              "MÄTPRR0"
+            ]
+          },
+          {
+            "code": "MEK",
+            "minPoints": 100,
+            "courses": [
+              "MEKMEK01"
+            ]
+          },
+          {
+            "code": "PRR",
+            "minPoints": 100,
+            "courses": [
+              "PRRPRR01"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "CNC-operatör metall",
+        "code": "INPRK",
+        "courses": [
+          "CADCAD01",
+          "CADCAD02",
+          "DARDAT02",
+          "DARDAT03",
+          "DARDAT04",
+          "DARDAT05",
+          "INRROB0",
+          "MAEMAT01",
+          "MÄTMÄO0",
+          "TILTIL01"
+        ],
+        "subjects": [
+          {
+            "code": "CAD",
+            "minPoints": 100,
+            "courses": [
+              "CADCAD01",
+              "CADCAD02"
+            ]
+          },
+          {
+            "code": "DAR",
+            "minPoints": 400,
+            "courses": [
+              "DARDAT02",
+              "DARDAT03",
+              "DARDAT04",
+              "DARDAT05"
+            ]
+          },
+          {
+            "code": "INR",
+            "minPoints": 100,
+            "courses": [
+              "INRROB0"
+            ]
+          },
+          {
+            "code": "MAE",
+            "minPoints": 100,
+            "courses": [
+              "MAEMAT01"
+            ]
+          },
+          {
+            "code": "MÄT",
+            "minPoints": 100,
+            "courses": [
+              "MÄTMÄO0"
+            ]
+          },
+          {
+            "code": "TIL",
+            "minPoints": 100,
+            "courses": [
+              "TILTIL01"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "CNC-operatör trä",
+        "code": "INPRK",
+        "courses": [
+          "CADCAD01",
+          "CADCAD02",
+          "DARDAT02",
+          "DARDAT03",
+          "DARDAT04",
+          "DARDAT05",
+          "MAEMAT01",
+          "MAEMAT02",
+          "MÄTMÄO0",
+          "TILTIL01"
+        ],
+        "subjects": [
+          {
+            "code": "CAD",
+            "minPoints": 100,
+            "courses": [
+              "CADCAD01",
+              "CADCAD02"
+            ]
+          },
+          {
+            "code": "DAR",
+            "minPoints": 400,
+            "courses": [
+              "DARDAT02",
+              "DARDAT03",
+              "DARDAT04",
+              "DARDAT05"
+            ]
+          },
+          {
+            "code": "MAE",
+            "minPoints": 200,
+            "courses": [
+              "MAEMAT01",
+              "MAEMAT02"
+            ]
+          },
+          {
+            "code": "MÄT",
+            "minPoints": 100,
+            "courses": [
+              "MÄTMÄO0"
+            ]
+          },
+          {
+            "code": "TIL",
+            "minPoints": 100,
+            "courses": [
+              "TILTIL01"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Gjutare",
+        "code": "INPRK",
+        "courses": [
+          "DARCAD0",
+          "INUINU02",
+          "MAEMAT01",
+          "MÄTMÄT0",
+          "PRDPRO02",
+          "PRUPRD03S",
+          "PRUPRD04",
+          "PRUVEY0",
+          "TILTIL01"
+        ],
+        "subjects": [
+          {
+            "code": "DAR",
+            "minPoints": 100,
+            "courses": [
+              "DARCAD0"
+            ]
+          },
+          {
+            "code": "INU",
+            "minPoints": 100,
+            "courses": [
+              "INUINU02"
+            ]
+          },
+          {
+            "code": "MAE",
+            "minPoints": 100,
+            "courses": [
+              "MAEMAT01"
+            ]
+          },
+          {
+            "code": "MÄT",
+            "minPoints": 100,
+            "courses": [
+              "MÄTMÄT0"
+            ]
+          },
+          {
+            "code": "PRD",
+            "minPoints": 100,
+            "courses": [
+              "PRDPRO02"
+            ]
+          },
+          {
+            "code": "PRU",
+            "minPoints": 300,
+            "courses": [
+              "PRUPRD03S",
+              "PRUPRD04",
+              "PRUVEY0"
+            ]
+          },
+          {
+            "code": "TIL",
+            "minPoints": 100,
+            "courses": [
+              "TILTIL01"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Industrilackerare",
+        "code": "INPRO",
+        "courses": [
+          "LACFÄR0",
+          "LACINS0",
+          "LACLAC0",
+          "LACLAE0",
+          "TILTIL01"
+        ],
+        "subjects": [
+          {
+            "code": "LAC",
+            "minPoints": 700,
+            "courses": [
+              "LACFÄR0",
+              "LACINS0",
+              "LACLAC0",
+              "LACLAE0"
+            ]
+          },
+          {
+            "code": "TIL",
+            "minPoints": 100,
+            "courses": [
+              "TILTIL01"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Internationell svetsare",
+        "code": "INSVE",
+        "courses": [
+          "FÖRENT0",
+          "MAEMAT01",
+          "MAEMAT02",
+          "SAAKÄL02S",
+          "SAARÖR01S",
+          "SAARÖR02S",
+          "SAASTU01S",
+          "SAASTU02S"
+        ],
+        "subjects": [
+          {
+            "code": "FÖR",
+            "minPoints": 100,
+            "courses": [
+              "FÖRENT0"
+            ]
+          },
+          {
+            "code": "MAE",
+            "minPoints": 200,
+            "courses": [
+              "MAEMAT01",
+              "MAEMAT02"
+            ]
+          },
+          {
+            "code": "SAA",
+            "minPoints": 500,
+            "courses": [
+              "SAAKÄL02S",
+              "SAARÖR01S",
+              "SAARÖR02S",
+              "SAASTU01S",
+              "SAASTU02S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Laboratorietekniker inom kemisk industri",
+        "code": "INPRO",
+        "courses": [
+          "ENGENG06",
+          "INUINU03",
+          "INULAB0",
+          "KEMKEM01",
+          "MATMAT02a"
+        ],
+        "subjects": [
+          {
+            "code": "ENG",
+            "minPoints": 100,
+            "courses": [
+              "ENGENG06"
+            ]
+          },
+          {
+            "code": "INU",
+            "minPoints": 300,
+            "courses": [
+              "INUINU03",
+              "INULAB0"
+            ]
+          },
+          {
+            "code": "KEM",
+            "minPoints": 100,
+            "courses": [
+              "KEMKEM01"
+            ]
+          },
+          {
+            "code": "MAT",
+            "minPoints": 100,
+            "courses": [
+              "MATMAT02a"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Maskinsnickare",
+        "code": "INPRK",
+        "courses": [
+          "DARCAD0",
+          "DARDAT02",
+          "DESDES01",
+          "MAEMAT01",
+          "PRUPRD03S",
+          "PRUVEY0",
+          "SAASAA0",
+          "TILTIL01"
+        ],
+        "subjects": [
+          {
+            "code": "DAR",
+            "minPoints": 200,
+            "courses": [
+              "DARCAD0",
+              "DARDAT02"
+            ]
+          },
+          {
+            "code": "DES",
+            "minPoints": 100,
+            "courses": [
+              "DESDES01"
+            ]
+          },
+          {
+            "code": "MAE",
+            "minPoints": 100,
+            "courses": [
+              "MAEMAT01"
+            ]
+          },
+          {
+            "code": "PRU",
+            "minPoints": 200,
+            "courses": [
+              "PRUPRD03S",
+              "PRUVEY0"
+            ]
+          },
+          {
+            "code": "SAA",
+            "minPoints": 100,
+            "courses": [
+              "SAASAA0"
+            ]
+          },
+          {
+            "code": "TIL",
+            "minPoints": 100,
+            "courses": [
+              "TILTIL01"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Processoperatör kemi",
+        "code": "INPRO",
+        "courses": [
+          "DRIAVH01",
+          "DRIUND0",
+          "INRIND0",
+          "INUINU03",
+          "INUINU04",
+          "KEMKEM01",
+          "PRDPRO02"
+        ],
+        "subjects": [
+          {
+            "code": "DRI",
+            "minPoints": 200,
+            "courses": [
+              "DRIAVH01",
+              "DRIUND0"
+            ]
+          },
+          {
+            "code": "INR",
+            "minPoints": 100,
+            "courses": [
+              "INRIND0"
+            ]
+          },
+          {
+            "code": "INU",
+            "minPoints": 200,
+            "courses": [
+              "INUINU03",
+              "INUINU04"
+            ]
+          },
+          {
+            "code": "KEM",
+            "minPoints": 100,
+            "courses": [
+              "KEMKEM01"
+            ]
+          },
+          {
+            "code": "PRD",
+            "minPoints": 100,
+            "courses": [
+              "PRDPRO02"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Servicemekaniker",
+        "code": "INDRI",
+        "courses": [
+          "DRIUNL0",
+          "DRIUNO0",
+          "MÄIMÄN02",
+          "MÄTMÄT0"
+        ],
+        "subjects": [
+          {
+            "code": "DRI",
+            "minPoints": 200,
+            "courses": [
+              "DRIUNL0",
+              "DRIUNO0"
+            ]
+          },
+          {
+            "code": "MÄI",
+            "minPoints": 100,
+            "courses": [
+              "MÄIMÄN02"
+            ]
+          },
+          {
+            "code": "MÄT",
+            "minPoints": 100,
+            "courses": [
+              "MÄTMÄT0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Svetsare",
+        "code": "INSVE",
+        "courses": [
+          "DRIAVH01",
+          "DRIAVH02",
+          "MAEMAT01",
+          "MAEMAT02",
+          "SAAKÄL02S",
+          "SAARÖR01S",
+          "SAASTU01S",
+          "SAASTU02S"
+        ],
+        "subjects": [
+          {
+            "code": "DRI",
+            "minPoints": 200,
+            "courses": [
+              "DRIAVH01",
+              "DRIAVH02"
+            ]
+          },
+          {
+            "code": "MAE",
+            "minPoints": 200,
+            "courses": [
+              "MAEMAT01",
+              "MAEMAT02"
+            ]
+          },
+          {
+            "code": "SAA",
+            "minPoints": 400,
+            "courses": [
+              "SAAKÄL02S",
+              "SAARÖR01S",
+              "SAASTU01S",
+              "SAASTU02S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Sågverksoperatör",
+        "code": "INPRK",
+        "courses": [
+          "AUOALL0",
+          "DRIAVH01",
+          "DRIUND0",
+          "INRIND0",
+          "MAEMAT01",
+          "MAEMAT02",
+          "PRUPRD03S",
+          "PRUPRD04",
+          "TILTIL01"
+        ],
+        "subjects": [
+          {
+            "code": "AUO",
+            "minPoints": 100,
+            "courses": [
+              "AUOALL0"
+            ]
+          },
+          {
+            "code": "DRI",
+            "minPoints": 200,
+            "courses": [
+              "DRIAVH01",
+              "DRIUND0"
+            ]
+          },
+          {
+            "code": "INR",
+            "minPoints": 100,
+            "courses": [
+              "INRIND0"
+            ]
+          },
+          {
+            "code": "MAE",
+            "minPoints": 200,
+            "courses": [
+              "MAEMAT01",
+              "MAEMAT02"
+            ]
+          },
+          {
+            "code": "PRU",
+            "minPoints": 200,
+            "courses": [
+              "PRUPRD03S",
+              "PRUPRD04"
+            ]
+          },
+          {
+            "code": "TIL",
+            "minPoints": 100,
+            "courses": [
+              "TILTIL01"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Underhållsmekaniker",
+        "code": "INDRI",
+        "courses": [
+          "DRIAVH02",
+          "DRIUND0",
+          "DRIUNH0",
+          "DRIUNL0",
+          "DRIUNP0",
+          "INUINU02"
+        ],
+        "subjects": [
+          {
+            "code": "DRI",
+            "minPoints": 500,
+            "courses": [
+              "DRIAVH02",
+              "DRIUND0",
+              "DRIUNH0",
+              "DRIUNL0",
+              "DRIUNP0"
+            ]
+          },
+          {
+            "code": "INU",
+            "minPoints": 100,
+            "courses": [
+              "INUINU02"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Verktygsmakare",
+        "code": "INPRK",
+        "courses": [
+          "CADCAD01",
+          "CADCAD02",
+          "DARDAT02",
+          "DARDAT03",
+          "DESDES01",
+          "MAEMAT01",
+          "MÄTMÄO0",
+          "PRUPRD03S",
+          "PRUVEY0",
+          "TILTIL01"
+        ],
+        "subjects": [
+          {
+            "code": "CAD",
+            "minPoints": 100,
+            "courses": [
+              "CADCAD01",
+              "CADCAD02"
+            ]
+          },
+          {
+            "code": "DAR",
+            "minPoints": 200,
+            "courses": [
+              "DARDAT02",
+              "DARDAT03"
+            ]
+          },
+          {
+            "code": "DES",
+            "minPoints": 100,
+            "courses": [
+              "DESDES01"
+            ]
+          },
+          {
+            "code": "MAE",
+            "minPoints": 100,
+            "courses": [
+              "MAEMAT01"
+            ]
+          },
+          {
+            "code": "MÄT",
+            "minPoints": 100,
+            "courses": [
+              "MÄTMÄO0"
+            ]
+          },
+          {
+            "code": "PRU",
+            "minPoints": 200,
+            "courses": [
+              "PRUPRD03S",
+              "PRUVEY0"
+            ]
+          },
+          {
+            "code": "TIL",
+            "minPoints": 100,
+            "courses": [
+              "TILTIL01"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      }
+    ]
+  }
+}

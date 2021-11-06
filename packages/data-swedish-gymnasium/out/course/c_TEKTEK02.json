@@ -1,0 +1,87 @@
+{
+  "subject": "TEK",
+  "title": "Teknik 2",
+  "code": "TEKTEK02",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för energiomvandling, energiöverföring samt funktioner och begränsningar hos olika energisystem.",
+        "Dessutom analyserar och värderar eleven med <strong>nyanserade</strong> omdömen tekniska lösningar hos energisystem utifrån systemens begränsningar, säkerhet och hållbart samhälle."
+      ],
+      [
+        "Eleven löser <strong>avancerade</strong> tekniska problem, <strong>väljer och</strong> använder <strong>efter samråd</strong> med handledare lämpliga arbetsmetoder samt dokumenterar arbetet och resultatet.",
+        "I sitt arbete använder eleven <strong>med säkerhet</strong> tekniska begrepp, teorier och modeller.",
+        "Eleven utför <strong>avan cerade</strong> beräkningar och analyser av tekniska system med hjälp av kalkyl- och beräkningsprogram samt bedömer rimligheten i sina resultat."
+      ],
+      [
+        "Eleven undersöker <strong>avancerade</strong> tekniska system avseende funktionssamband och begränsningar samt redogör <strong>utförligt och nyanserat</strong> för genomförd undersökning och funna resultat utifrån tekniska, fysikaliska och matematiska samband.",
+        "Dessutom använder eleven <strong>med säkerhet</strong> datoriserade visualiserings- och simuleringsprogram för att beräkna, visualisera och analysera tekniska processer och system."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör <strong>utförligt</strong> för energiomvandling, energiöverföring samt funktioner och begränsningar hos olika energisystem.",
+        "Dessutom analyserar och värderar eleven med <strong>enkla</strong> omdömen tekniska lösningar hos energisystem utifrån systemens begränsningar, säkerhet och hållbart samhälle."
+      ],
+      [
+        "Eleven löser tekniska problem, <strong>väljer och</strong> använder <strong>efter samråd</strong> med handledare lämpliga arbetsmetoder samt dokumenterar arbetet och resultatet.",
+        "I sitt arbete använder eleven <strong>med viss säkerhet</strong> tekniska begrepp, teorier och modeller.",
+        "Eleven utför beräkningar och analyser av tekniska system med hjälp av kalkyl- och beräkningsprogram samt bedömer rimligheten i sina resultat."
+      ],
+      [
+        "Eleven undersöker tekniska system avseende funktionssamband och begränsningar samt redogör <strong>utförligt</strong> för genomförd undersökning och funna resultat utifrån tekniska, fysikaliska och matematiska samband.",
+        "Dessutom använder eleven <strong>med viss säkerhet</strong> datoriserade visualiserings- och simuleringsprogram för att beräkna, visualisera och analysera tekniska processer och system."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven redogör <strong>översiktligt</strong> för energiomvandling, energiöverföring samt funktioner och begränsningar hos olika energisystem.",
+        "Dessutom analyserar och värderar eleven med <strong>enkla</strong> omdömen tekniska lösningar hos energisystem utifrån systemens begränsningar, säkerhet och hållbart samhälle."
+      ],
+      [
+        "Eleven löser <strong>enkla</strong> tekniska problem, använder <strong>i samråd</strong> med handledare lämpliga arbetsmetoder samt dokumenterar arbetet och resultatet.",
+        "I sitt arbete använder eleven <strong>med viss säkerhet</strong> tekniska begrepp, teorier och modeller.",
+        "Eleven utför beräkningar och analyser av <strong>enkla</strong> tekniska system med hjälp av kalkyl- och beräkningsprogram samt bedömer rimligheten i sina resultat."
+      ],
+      [
+        "Eleven undersöker <strong>enkla</strong> tekniska system avseende funktionssamband och begränsningar samt redogör <strong>översiktligt</strong> för genomförd undersökning och funna resultat utifrån tekniska, fysikaliska och matematiska samband.",
+        "Dessutom använder eleven <strong>med viss säkerhet</strong> datoriserade visualiserings- och simuleringsprogram för att beräkna, visualisera och analysera tekniska processer och system."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Principer och tekniker för mätning och registrering av prestanda i mekaniska, pneumatiska, hydrauliska och elektriska system.",
+        "Principer och samband för omvandling av elektrisk energi till mekanisk energi och vice versa, till exempel motor och generator.",
+        "Principer och samband för mekaniska, hydrauliska, pneumatiska och elektriska transmissionssystem för energiöverföring.",
+        "Förutsättningar och begränsningar vid andra former av energiomvandling, till exempel fusion, fission och sol-, vind- och vattenkraft.",
+        "Dimensionsanalys och rimlighetsbedömning.",
+        "De matematiska och fysikaliska förutsättningarna och de teknikvetenskapliga grunderna för energiöverföring i olika system med betoning på analys, beräkningar, simuleringar och rimlighetsbedömningar.",
+        "Matematiska modeller för givna förlopp.",
+        "Mätteknik, till exempel principer för mätgivare och komponenter, mätning av olika storheter, användning och tolkning av resultat.",
+        "Planering och genomförande av experimentella undersökningar samt hur mätdata inhämtas, analyseras och redovisas.",
+        "Visualisering och analys av tekniska system och processer med hjälp av anpassad programvara."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen teknik 2 omfattar punkterna 2–5 och 9 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    1,
+    2,
+    3,
+    4,
+    8
+  ]
+}

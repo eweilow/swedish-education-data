@@ -1,0 +1,29 @@
+{
+  "title": "Elektronikproduktion",
+  "code": "ELK",
+  "developmentPurposes": [
+    "Kunskaper om monteringsmaskiners och lödmaskiners konstruktion och arbetssätt.",
+    "Förmåga att planera och utföra enklare montering och lödning.",
+    "Förmåga att planera och utföra provning och kontroll av elektronik och elektronikapparater.",
+    "Förmåga att tolka arbetsinstruktioner, manualer, elektronikscheman och andra dokument på både svenska och engelska.",
+    "Färdigheter i att felsöka och reparera enklare fel i elektronik och elektronikapparater.",
+    "Förmåga att använda metoder, verktyg och övrig utrustning.",
+    "Kunskaper om kvalitetskrav och säkerhetskrav vid elektronikproduktion.",
+    "Förmåga att utvärdera sitt arbete och resultat samt kunskaper om kvalitetsbedömning, kvalitetsarbete och arbetsmiljö."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet elektronikproduktion ska syfta till att eleverna utvecklar kunskaper i montering av elektronikkomponenter och metoder för lödteknik. Den ska ge eleverna möjlighet att utveckla kunskaper om olika monteringstekniker samt om monterings- och lödmaskiner för elektronikproduktion. Undervisningen ska även leda till att eleverna utvecklar kunskaper om de metoder och testutrustningar som används för provning och testning vid elektronikproduktion. Undervisningen ska omfatta både teoretiska och praktiska moment samt ge eleverna möjlighet att uttrycka sig såväl skriftligt som muntligt."
+  ],
+  "courseInfo": {
+    "ELKELO0": "Elektronikproduktionsteknik, 100 poäng.",
+    "ELKPRV0": "Provning och kontrollarbete, 100 poäng, som bygger på kursen elektronikproduktionsteknik."
+  },
+  "description": "Ämnet elektronikproduktion behandlar produktionsprocessens olika steg vid tillverkning av elektronikprodukter, från beredning och montering fram till utprovning och leveranskontroll. Ämnet behandlar också de metoder och maskiner som används i produktionsprocessens olika steg.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "VOCATIONAL",
+  "applicableFrom": "2011-06-30T22:00:00.000Z",
+  "courses": [
+    "ELKELO0",
+    "ELKPRV0"
+  ]
+}

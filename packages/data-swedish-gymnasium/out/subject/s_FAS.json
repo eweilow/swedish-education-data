@@ -1,0 +1,34 @@
+{
+  "title": "Fastighetsservice",
+  "code": "FAS",
+  "developmentPurposes": [
+    "Kunskaper om olika byggnaders konstruktion, byggmaterials egenskaper samt lagar och andra bestämmelser. Kunskaper om vanliga byggskador och underhålls- och reparationsåtgärder.",
+    "Kunskaper om underhållsrutiner för fastigheter och fastighetsutrustning samt om säkerhetsfrågor, riskhantering och lagar och andra bestämmelser.",
+    "Kunskaper om inredningars, utrustningars och maskintypers uppbyggnad och funktion samt om reservdelshållning.",
+    "Förmåga att planera och utföra service, underhåll och reparation av fastigheter och av ytor, inredning och utrustning på och i fastigheter.",
+    "Förmåga att välja och använda metoder, material, verktyg och tekniker.",
+    "Förmåga att tolka och använda ritningar, underhållsscheman, manualer och innehållsdeklarationer.",
+    "Förmåga att utföra felsökning och vidta lämpliga åtgärder.",
+    "Förmåga att dokumentera och utvärdera sitt arbete och resultat."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet fastighetsservice ska syfta till att eleverna utvecklar kunskaper om fastighetsområdet så att hyresgäster i alla typer av fastigheter får service av god kvalitet. Undervisningen ska också leda till att eleverna utvecklar kunskaper om och färdigheter i rationellt underhåll inom fastighetsbranschen. Eleverna ska ges möjlighet att utveckla kunskaper om fastigheters konstruktion och hur yttre och inre faktorer påverkar underhållsbehovet. Undervisningen ska leda till att eleverna utvecklar kunskaper om vanligt förekommande utrustning och maskiner, deras användningsområden och underhållsbehov. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om underhållets tekniska, organisatoriska, miljömässiga och ekonomiska roll inom fastighetsbranschen samt om utvecklingen inom fastighetstekniken. I undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om systematiskt säkerhetsarbete, riskhantering samt om brandrisk och brandskydd.",
+    "Genom ett problemlösande arbetssätt och praktiskt laborativa övningar med planering, utförande och dokumentation i undervisningen ska eleverna ges möjlighet att utveckla förmåga att arbeta ansvarsfullt, individuellt och i samarbete med andra. Undervisningen ska genomföras så att de praktiska och teoretiska kunskaperna kopplas samman."
+  ],
+  "courseInfo": {
+    "FASFAS0": "Fastighetsservice – byggnader, 100 poäng.",
+    "FASFAH0": "Fastighetsservice – elarbeten, 100 poäng.",
+    "FASFAE0": "Fastighetsservice – VVS, 100 poäng.",
+    "FASFAV0": "Fastighetsservice – ytor, 100 poäng."
+  },
+  "description": "Ämnet fastighetsservice behandlar de faktorer som påverkar behovet av fortlöpande och effektivt underhåll av fastighetsbestånd. Det behandlar också hur fastighetsunderhåll planeras, genomförs och dokumenteras. I ämnet behandlas dessutom ergonomiska, miljömässiga, säkerhetsmässiga och sociala aspekter.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "VOCATIONAL",
+  "applicableFrom": "2011-06-30T22:00:00.000Z",
+  "courses": [
+    "FASFAE0",
+    "FASFAH0",
+    "FASFAS0",
+    "FASFAV0"
+  ]
+}

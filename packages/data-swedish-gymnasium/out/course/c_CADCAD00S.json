@@ -1,0 +1,74 @@
+{
+  "subject": "CAD",
+  "title": "Cad – specialisering",
+  "code": "CADCAD00S",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven utför <strong>avancerade</strong> konstruktioner med hjälp av för teknikområdet valda cad-tillämpningar med <strong>gott</strong> resultat.",
+        "Eleven utför <strong>avancerad</strong> dokumenthantering med <strong>gott</strong> resultat.",
+        "Dessutom utför eleven <strong>efter samråd</strong> med handledare avancerad solidmodellering med <strong>gott</strong> resultat."
+      ],
+      [
+        "Eleven gör komplexa sammanställningar med <strong>gott</strong> resultat.",
+        "I arbetet använder eleven <strong>med säkerhet</strong> applikationer i komplexa situationer.",
+        "Dessutom analyserar eleven <strong>med säkerhet</strong> sitt resultat med utgångspunkt i rörelsesimulering."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven utför <strong>avancerade</strong> konstruktioner med hjälp av för teknikområdet valda cad-tillämpningar med <strong>tillfredsställande</strong> resultat.",
+        "Eleven utför <strong>avancerad</strong> dokumenthantering med <strong>tillfredsställande</strong> resultat.",
+        "Dessutom utför eleven <strong>efter samråd</strong> med handledare avancerad solidmodellering med <strong>tillfredsställande</strong> resultat."
+      ],
+      [
+        "Eleven gör komplexa sammanställningar med <strong>tillfredsställande</strong> resultat.",
+        "I arbetet använder eleven <strong>med säkerhet</strong> applikationer i komplexa situationer.",
+        "Dessutom analyserar eleven <strong>med säkerhet</strong> sitt resultat med utgångspunkt i rörelsesimulering."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven utför konstruktioner med hjälp av för teknikområdet valda cad-tillämpningar med <strong>tillfredsställande</strong> resultat.",
+        "Eleven utför dokumenthantering med <strong>tillfredsställande</strong> resultat.",
+        "Dessutom utför eleven <strong>i samråd</strong> med handledare avancerad solidmodellering med <strong>tillfredsställande</strong> resultat."
+      ],
+      [
+        "Eleven gör komplexa sammanställningar med <strong>tillfredsställande</strong> resultat.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> applikationer i komplexa situationer.",
+        "Dessutom analyserar eleven <strong>med viss säkerhet</strong> sitt resultat med utgångspunkt i rörelsesimulering."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Cad och cad-tillämpning inom valt teknikområde.",
+        "Fördjupad och specialiserad dokumenthantering.",
+        "Fördjupning inom solidmodellering.",
+        "Komplexa sammanställningar i tre dimensioner med beaktande av konstruktionsvillkor.",
+        "Fördjupning, beräkning och specialisering med hjälp av applikationer beroende på valt teknikområde.",
+        "Fördjupning inom rörelsesimulering."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen cad – specialisering omfattar punkterna 3–7 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    2,
+    3,
+    4,
+    5,
+    6
+  ]
+}

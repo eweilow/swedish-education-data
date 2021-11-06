@@ -1,0 +1,29 @@
+{
+  "title": "Gränssnittsdesign",
+  "code": "GRÄ",
+  "developmentPurposes": [
+    "Förmåga att planera, genomföra och utvärdera projekt för att utveckla gränssnitt till applikationer.",
+    "Kunskaper om hur digital bild, film, text och ljud anpassas till ett gränssnitt.",
+    "Förmåga att skapa en estetiskt tilltalande och målgruppsanpassad design av gränssnitt.",
+    "Förmåga att skapa ett användarvänligt gränssnitt samt kunskaper om vilka principer som styr detta.",
+    "Kunskaper om hur tillgänglighet påverkas av kognitiva faktorer vid skapandet av gränssnitt.",
+    "Kunskaper om på vilket sätt integritet och etik har betydelse för utformningen av datorsystem och gränssnitt.",
+    "Kunskaper om lagar och andra bestämmelser inom området."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet gränssnittsdesign ska syfta till att eleverna utvecklar kunskaper om principerna bakom olika gränssnitt. Eleverna ska ges möjlighet att skapa användbara, estetiskt tilltalande och tillgängliga användargränssnitt för interaktion med exempelvis webbplatser, mjukvaruapplikationer eller inbyggda system. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om de element som ett gränssnitt utgörs av, olika metoder för användaren att skicka indata och ta emot utdata, terminologi inom området, formspråk och de principer en gränssnittsdesigner bör följa.",
+    "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om projektmetodik för gränssnittsdesign från förstudie och målbeskrivning till färdig prototyp och stilguide. Eleverna ska också ges möjlighet att utveckla kunskaper om metoder för användbarhetstestning."
+  ],
+  "courseInfo": {
+    "GRÄGRÄ0": "Gränssnittsdesign, 100 poäng.",
+    "GRÄGRN0": "Gränssnitt 3D, 100 poäng, som bygger på kursen gränssnittsdesign."
+  },
+  "description": "Ämnet gränssnittsdesign behandlar interaktionen mellan dator och människa med fokus på designaspekterna i utveckling av användbara, tillgängliga och tilltalande gränssnitt.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "OTHER",
+  "applicableFrom": "2017-05-28T22:00:00.000Z",
+  "courses": [
+    "GRÄGRÄ0",
+    "GRÄGRN0"
+  ]
+}

@@ -1,0 +1,982 @@
+{
+  "title": "Teknikprogrammet",
+  "code": "TE",
+  "url": "https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola/programstruktur-och-examensmal/teknikprogrammet",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "typeOfProgram": "PRELIMINARY_PROGRAM_FOR_HIGHER_EDUCATION",
+  "applicableFrom": "2017-06-30T22:00:00.000Z",
+  "info": {
+    "degreeObjectives": [
+      "Teknikprogrammet är ett högskoleförberedande program. Efter examen från programmet ska eleverna ha kunskaper för högskolestudier inom främst teknik- och naturvetenskap men även inom andra områden.",
+      "Utbildningen ska utveckla elevernas kunskaper om och färdigheter i teknik och teknisk utveckling. Den ska också belysa teknikens roll i samspelet mellan människa och natur med hänsyn till hållbar utveckling. Vidare ska utbildningen utveckla elevernas kunskaper om fysik, kemi och matematik med fokus på tekniska processer. I teknik ska eleverna undersöka, beskriva och systematisera olika egenskaper hos tekniska objekt och processer. I fysik och kemi ska eleverna undersöka, beskriva och systematisera olika företeelser i naturen samt göra kopplingar till tekniska processer. Matematik är inom teknikområdet ett språk och ett redskap för att förstå, uttrycka och analysera sammanhang. Alla ämnen inom utbildningen ska bidra till att utveckla elevernas förmåga att använda digital teknik, särskilt som ett redskap för teknik och teknisk utveckling.",
+      "Det tekniska kunskapsområdet omfattar hur teknik formas och ständigt förändras. Utbildningen ska visa sambanden mellan de olika delarna i teknikutvecklingsprocesser och bidra till att eleverna förstår hela kedjan i utveckling av teknik i ett hållbart samhälle. Teknikutveckling innebär att analysera behov, utveckla en idé, designa, konstruera, producera, använda, sälja och återvinna.",
+      "Utbildningen ska bygga på ett etiskt och ansvarsfullt förhållningssätt till teknik och ett kritiskt, kreativt och konstruktivt tänkande ska främjas. I utbildningen ska eleverna ges möjlighet att utveckla förmåga att söka, sovra och bearbeta information med källkritisk medvetenhet. Utbildningen ska också innehålla kreativa och problemlösande arbetsformer samt ge förutsättningar för eleverna att utveckla ett tvärvetenskapligt förhållningssätt. Teori och praktisk tillämpning ska samverka och utbildningen ska ge eleverna kunskaper om och färdigheter i att samarbeta med andra. Eftersom utveckling av teknik ofta sker i projektarbetsform, ska utbildningen ge kunskaper om projektarbete och färdigheter i att arbeta i projekt såväl enskilt som i grupp. Centralt för teknikutveckling är att analysera, modellera, simulera, rimlighetsbedöma, utveckla, se samband, dra slutsatser och argumentera utifrån resultatet. Utbildningen ska därför utveckla elevernas förmåga att analysera och förstå tekniska system.",
+      "Utbildningen ska vidareutveckla elevernas kommunikativa förmågor i tal, skrift och visualisering. Det innebär bland annat att förmedla synpunkter, förklara sammanhang och dokumentera samt använda uttrycksformer anpassade till olika målgrupper och att förstå kommunikationens specifika roll inom teknikområdet. Utbildningen ska ge kunskaper om interaktiva och digitala medier för att eleverna till exempel ska kunna presentera tekniskt innehåll och framställa modeller. Utbildningen ska ge eleverna kunskaper om och färdigheter i engelska i en teknisk kontext, så att de kan utveckla sin kommunikativa förmåga och därmed ta del av teknik och teknikutveckling.",
+      "Entreprenörskap och företagande är delar i processer där teknik utvecklas och ska därför ingå i utbildningen. Utbildningen ska uppmuntra eleverna att utveckla nya och kreativa lösningar, såväl med som utan digital teknik, för att skapa och möta förändringar. Den ska tydliggöra hur utvecklingen av produkter och tjänster lokalt och globalt kan ske på ett hållbart sätt.",
+      "Utbildningen ska utgå från både kvinnors och mäns erfarenheter i förhållande till teknikområdet och ska ge kunskaper om hur föreställningar och traditioner styr uppfattningar om manligt och kvinnligt. Eleverna ska även utveckla förståelse av människors olika förutsättningar i förhållande till teknik och teknikutveckling. Utbildningen ska ge förståelse av hur teknisk utveckling och samhällsutveckling ömsesidigt har påverkat och påverkar varandra. Den ska också förklara hur dåtidens teknik har påverkat vår tid och hur vår tids teknik kan komma att påverka framtiden."
+    ],
+    "orientation": {
+      "title": "Inriktningar",
+      "lines": [
+        "Teknikprogrammet har fem inriktningar."
+      ]
+    },
+    "educationObjectives": [
+      "Gymnasiearbetet ska visa att eleven är förberedd för högskolestudier inom i första hand det tekniska området. Det ska utföras på ett sådant sätt att eleven formulerar en frågeställning samt planerar, genomför och utvärderar ett större arbete som utgår från centrala kunskapsområden inom programmet.",
+      "Gymnasiearbetet ska redovisas antingen i en skriftlig rapport eller på annat lämpligt sätt med relevanta verktyg och medier utifrån arbetets innehåll kompletterat med en kortare skriftlig redogörelse. Rapporten eller den skriftliga redogörelsen ska innehålla en kort sammanfattning på engelska. Eleven ska presentera och diskutera sitt arbete samt ge respons på andra gymnasiearbeten."
+    ]
+  },
+  "education": {
+    "mandatory": {
+      "courses": [
+        "ENGENG05",
+        "ENGENG06",
+        "HISHIS01a1",
+        "IDRIDR01",
+        "MATMAT01c",
+        "MATMAT02c",
+        "MATMAT03c",
+        "RELREL01",
+        "SAMSAM01b",
+        "SVASVA01",
+        "SVASVA02",
+        "SVASVA03",
+        "SVESVE01",
+        "SVESVE02",
+        "SVESVE03"
+      ],
+      "subjects": [
+        {
+          "code": "ENG",
+          "minPoints": 200,
+          "courses": [
+            "ENGENG05",
+            "ENGENG06"
+          ]
+        },
+        {
+          "code": "HIS",
+          "minPoints": 50,
+          "courses": [
+            "HISHIS01a1"
+          ]
+        },
+        {
+          "code": "IDR",
+          "minPoints": 100,
+          "courses": [
+            "IDRIDR01"
+          ]
+        },
+        {
+          "code": "MAT",
+          "minPoints": 300,
+          "courses": [
+            "MATMAT01c",
+            "MATMAT02c",
+            "MATMAT03c"
+          ]
+        },
+        {
+          "code": "REL",
+          "minPoints": 50,
+          "courses": [
+            "RELREL01"
+          ]
+        },
+        {
+          "code": "SAM",
+          "minPoints": 100,
+          "courses": [
+            "SAMSAM01b"
+          ]
+        },
+        {
+          "code": "SVA",
+          "minPoints": 300,
+          "courses": [
+            "SVASVA01",
+            "SVASVA02",
+            "SVASVA03"
+          ]
+        },
+        {
+          "code": "SVE",
+          "minPoints": 300,
+          "courses": [
+            "SVESVE01",
+            "SVESVE02",
+            "SVESVE03"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "program": {
+      "courses": [
+        "FYSFYS01a",
+        "KEMKEM01",
+        "TEKTEK01"
+      ],
+      "subjects": [
+        {
+          "code": "FYS",
+          "minPoints": 150,
+          "courses": [
+            "FYSFYS01a"
+          ]
+        },
+        {
+          "code": "KEM",
+          "minPoints": 100,
+          "courses": [
+            "KEMKEM01"
+          ]
+        },
+        {
+          "code": "TEK",
+          "minPoints": 150,
+          "courses": [
+            "TEKTEK01"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "specialization": {
+      "courses": [
+        "ANIANI01",
+        "ARKARI0",
+        "ARKARK0",
+        "BILBIL0",
+        "BILBIL01a1",
+        "BILBIL01a2",
+        "BILBIL01b",
+        "BILFOM0",
+        "BIOBIO01",
+        "BIOBIO02",
+        "BIOBIT0",
+        "CADCAD01",
+        "CADCAD02",
+        "CADCAD03",
+        "DAODAC0",
+        "DAODAT01a",
+        "DAODIG0",
+        "DARCAD0",
+        "DARDAT01S",
+        "DARDAT02",
+        "DESDES0",
+        "DESDES01",
+        "DESDES02",
+        "DIGDIG01",
+        "DIGDIG02",
+        "DRIUND0",
+        "ELEELR0",
+        "ELEMIK0",
+        "ELLELL01",
+        "ELLELL02",
+        "ENEENE01",
+        "ENGENG07",
+        "ENTENR0",
+        "EVEEVN0",
+        "EVELJD0",
+        "EVELJS0",
+        "FARLAS0",
+        "FILFIL01",
+        "FIOFIO01",
+        "FIOFIO02",
+        "FLYAER0",
+        "FÖRENT0",
+        "FOTFOT01",
+        "FYSFYS02",
+        "FYSFYS03",
+        "GEOGEO0",
+        "GEOGEO01",
+        "GRÄGRÄ0",
+        "GRAGRA01",
+        "GRÄGRN0",
+        "HÅLHÅB0",
+        "HÅLMIJ0",
+        "HÅLPOL0",
+        "HISHIS01a2",
+        "HISHIS02a",
+        "INRROB0",
+        "INUINU01",
+        "INUINU02",
+        "INULAB0",
+        "KEMKEM02",
+        "KOSKUL0",
+        "KOTKOS01",
+        "KOTKOS02",
+        "LEDLED0",
+        "LJULJU01",
+        "LJULJU02",
+        "MÄIMÄN01",
+        "MÄIMÄN02",
+        "MÄTMÄO0",
+        "MÄTMÄT0",
+        "MATMAT04",
+        "MATMAT05",
+        "MATMAT00S",
+        "MÄTPRR0",
+        "MEIELE0",
+        "MEIGAS0",
+        "MEIRAD0",
+        "MEKMEK01",
+        "MEPMEI01",
+        "MEPMEI02",
+        "MODXXX01",
+        "MODXXX02",
+        "MODXXX03",
+        "MODXXX04",
+        "MODXXX05",
+        "MODXXX06",
+        "MODXXX07",
+        "MODZHO01",
+        "MODZHO02",
+        "MODZHO03",
+        "MODZHO04",
+        "MODZHO05",
+        "MODZHO06",
+        "MODZHO07",
+        "MUSMUS01",
+        "MUSMUS02",
+        "NAINAK0",
+        "NAINAR0",
+        "NAINAV0",
+        "NAVNAT00S",
+        "PEDKOU0",
+        "PEDPEG0",
+        "PRDPRO01",
+        "PRDPRO02",
+        "PRKPRK01",
+        "PRKPRK02",
+        "PROPRC01",
+        "PROPRE0",
+        "PRRPRR01",
+        "PRRPRR02",
+        "PRUPRD01S",
+        "PRUPRD02S",
+        "PSKPSY01",
+        "PSKPSY02a",
+        "RELREL02",
+        "SAASVT0",
+        "SAHBYV0",
+        "SAMSAM02",
+        "SVELIT0",
+        "SVERET0",
+        "SVESKR0",
+        "SYSSYT0",
+        "TEALJU00S",
+        "TEKTEK02",
+        "TEKTEK00S",
+        "TIATIL00S",
+        "VISVIS0",
+        "WESWEB01",
+        "WESWEB02",
+        "WEUWEB01",
+        "WEUWEB02"
+      ],
+      "subjects": [
+        {
+          "code": "ANI",
+          "minPoints": 100,
+          "courses": [
+            "ANIANI01"
+          ]
+        },
+        {
+          "code": "ARK",
+          "minPoints": 200,
+          "courses": [
+            "ARKARI0",
+            "ARKARK0"
+          ]
+        },
+        {
+          "code": "BIL",
+          "minPoints": 400,
+          "courses": [
+            "BILBIL0",
+            "BILBIL01a1",
+            "BILBIL01a2",
+            "BILBIL01b",
+            "BILFOM0"
+          ]
+        },
+        {
+          "code": "BIO",
+          "minPoints": 300,
+          "courses": [
+            "BIOBIO01",
+            "BIOBIO02",
+            "BIOBIT0"
+          ]
+        },
+        {
+          "code": "CAD",
+          "minPoints": 150,
+          "courses": [
+            "CADCAD01",
+            "CADCAD02",
+            "CADCAD03"
+          ]
+        },
+        {
+          "code": "DAO",
+          "minPoints": 300,
+          "courses": [
+            "DAODAC0",
+            "DAODAT01a",
+            "DAODIG0"
+          ]
+        },
+        {
+          "code": "DAR",
+          "minPoints": 300,
+          "courses": [
+            "DARCAD0",
+            "DARDAT01S",
+            "DARDAT02"
+          ]
+        },
+        {
+          "code": "DES",
+          "minPoints": 300,
+          "courses": [
+            "DESDES0",
+            "DESDES01",
+            "DESDES02"
+          ]
+        },
+        {
+          "code": "DIG",
+          "minPoints": 200,
+          "courses": [
+            "DIGDIG01",
+            "DIGDIG02"
+          ]
+        },
+        {
+          "code": "DRI",
+          "minPoints": 100,
+          "courses": [
+            "DRIUND0"
+          ]
+        },
+        {
+          "code": "ELE",
+          "minPoints": 200,
+          "courses": [
+            "ELEELR0",
+            "ELEMIK0"
+          ]
+        },
+        {
+          "code": "ELL",
+          "minPoints": 200,
+          "courses": [
+            "ELLELL01",
+            "ELLELL02"
+          ]
+        },
+        {
+          "code": "ENE",
+          "minPoints": 100,
+          "courses": [
+            "ENEENE01"
+          ]
+        },
+        {
+          "code": "ENG",
+          "minPoints": 100,
+          "courses": [
+            "ENGENG07"
+          ]
+        },
+        {
+          "code": "ENT",
+          "minPoints": 100,
+          "courses": [
+            "ENTENR0"
+          ]
+        },
+        {
+          "code": "EVE",
+          "minPoints": 300,
+          "courses": [
+            "EVEEVN0",
+            "EVELJD0",
+            "EVELJS0"
+          ]
+        },
+        {
+          "code": "FAR",
+          "minPoints": 100,
+          "courses": [
+            "FARLAS0"
+          ]
+        },
+        {
+          "code": "FIL",
+          "minPoints": 100,
+          "courses": [
+            "FILFIL01"
+          ]
+        },
+        {
+          "code": "FIO",
+          "minPoints": 100,
+          "courses": [
+            "FIOFIO01",
+            "FIOFIO02"
+          ]
+        },
+        {
+          "code": "FLY",
+          "minPoints": 100,
+          "courses": [
+            "FLYAER0"
+          ]
+        },
+        {
+          "code": "FÖR",
+          "minPoints": 100,
+          "courses": [
+            "FÖRENT0"
+          ]
+        },
+        {
+          "code": "FOT",
+          "minPoints": 100,
+          "courses": [
+            "FOTFOT01"
+          ]
+        },
+        {
+          "code": "FYS",
+          "minPoints": 200,
+          "courses": [
+            "FYSFYS02",
+            "FYSFYS03"
+          ]
+        },
+        {
+          "code": "GEO",
+          "minPoints": 200,
+          "courses": [
+            "GEOGEO0",
+            "GEOGEO01"
+          ]
+        },
+        {
+          "code": "GRA",
+          "minPoints": 100,
+          "courses": [
+            "GRAGRA01"
+          ]
+        },
+        {
+          "code": "GRÄ",
+          "minPoints": 200,
+          "courses": [
+            "GRÄGRÄ0",
+            "GRÄGRN0"
+          ]
+        },
+        {
+          "code": "HÅL",
+          "minPoints": 300,
+          "courses": [
+            "HÅLHÅB0",
+            "HÅLMIJ0",
+            "HÅLPOL0"
+          ]
+        },
+        {
+          "code": "HIS",
+          "minPoints": 150,
+          "courses": [
+            "HISHIS01a2",
+            "HISHIS02a"
+          ]
+        },
+        {
+          "code": "INR",
+          "minPoints": 100,
+          "courses": [
+            "INRROB0"
+          ]
+        },
+        {
+          "code": "INU",
+          "minPoints": 400,
+          "courses": [
+            "INUINU01",
+            "INUINU02",
+            "INULAB0"
+          ]
+        },
+        {
+          "code": "KEM",
+          "minPoints": 100,
+          "courses": [
+            "KEMKEM02"
+          ]
+        },
+        {
+          "code": "KOS",
+          "minPoints": 100,
+          "courses": [
+            "KOSKUL0"
+          ]
+        },
+        {
+          "code": "KOT",
+          "minPoints": 200,
+          "courses": [
+            "KOTKOS01",
+            "KOTKOS02"
+          ]
+        },
+        {
+          "code": "LED",
+          "minPoints": 100,
+          "courses": [
+            "LEDLED0"
+          ]
+        },
+        {
+          "code": "LJU",
+          "minPoints": 200,
+          "courses": [
+            "LJULJU01",
+            "LJULJU02"
+          ]
+        },
+        {
+          "code": "MÄI",
+          "minPoints": 200,
+          "courses": [
+            "MÄIMÄN01",
+            "MÄIMÄN02"
+          ]
+        },
+        {
+          "code": "MAT",
+          "minPoints": 300,
+          "courses": [
+            "MATMAT04",
+            "MATMAT05",
+            "MATMAT00S"
+          ]
+        },
+        {
+          "code": "MÄT",
+          "minPoints": 300,
+          "courses": [
+            "MÄTMÄO0",
+            "MÄTMÄT0",
+            "MÄTPRR0"
+          ]
+        },
+        {
+          "code": "MEI",
+          "minPoints": 300,
+          "courses": [
+            "MEIELE0",
+            "MEIGAS0",
+            "MEIRAD0"
+          ]
+        },
+        {
+          "code": "MEK",
+          "minPoints": 100,
+          "courses": [
+            "MEKMEK01"
+          ]
+        },
+        {
+          "code": "MEP",
+          "minPoints": 200,
+          "courses": [
+            "MEPMEI01",
+            "MEPMEI02"
+          ]
+        },
+        {
+          "code": "MOD",
+          "minPoints": 1400,
+          "courses": [
+            "MODXXX01",
+            "MODXXX02",
+            "MODXXX03",
+            "MODXXX04",
+            "MODXXX05",
+            "MODXXX06",
+            "MODXXX07",
+            "MODZHO01",
+            "MODZHO02",
+            "MODZHO03",
+            "MODZHO04",
+            "MODZHO05",
+            "MODZHO06",
+            "MODZHO07"
+          ]
+        },
+        {
+          "code": "MUS",
+          "minPoints": 200,
+          "courses": [
+            "MUSMUS01",
+            "MUSMUS02"
+          ]
+        },
+        {
+          "code": "NAI",
+          "minPoints": 300,
+          "courses": [
+            "NAINAK0",
+            "NAINAR0",
+            "NAINAV0"
+          ]
+        },
+        {
+          "code": "NAV",
+          "minPoints": 100,
+          "courses": [
+            "NAVNAT00S"
+          ]
+        },
+        {
+          "code": "PED",
+          "minPoints": 200,
+          "courses": [
+            "PEDKOU0",
+            "PEDPEG0"
+          ]
+        },
+        {
+          "code": "PRD",
+          "minPoints": 200,
+          "courses": [
+            "PRDPRO01",
+            "PRDPRO02"
+          ]
+        },
+        {
+          "code": "PRK",
+          "minPoints": 200,
+          "courses": [
+            "PRKPRK01",
+            "PRKPRK02"
+          ]
+        },
+        {
+          "code": "PRO",
+          "minPoints": 200,
+          "courses": [
+            "PROPRC01",
+            "PROPRE0"
+          ]
+        },
+        {
+          "code": "PRR",
+          "minPoints": 200,
+          "courses": [
+            "PRRPRR01",
+            "PRRPRR02"
+          ]
+        },
+        {
+          "code": "PRU",
+          "minPoints": 200,
+          "courses": [
+            "PRUPRD01S",
+            "PRUPRD02S"
+          ]
+        },
+        {
+          "code": "PSK",
+          "minPoints": 100,
+          "courses": [
+            "PSKPSY01",
+            "PSKPSY02a"
+          ]
+        },
+        {
+          "code": "REL",
+          "minPoints": 50,
+          "courses": [
+            "RELREL02"
+          ]
+        },
+        {
+          "code": "SAA",
+          "minPoints": 100,
+          "courses": [
+            "SAASVT0"
+          ]
+        },
+        {
+          "code": "SAH",
+          "minPoints": 100,
+          "courses": [
+            "SAHBYV0"
+          ]
+        },
+        {
+          "code": "SAM",
+          "minPoints": 100,
+          "courses": [
+            "SAMSAM02"
+          ]
+        },
+        {
+          "code": "SVE",
+          "minPoints": 300,
+          "courses": [
+            "SVELIT0",
+            "SVERET0",
+            "SVESKR0"
+          ]
+        },
+        {
+          "code": "SYS",
+          "minPoints": 100,
+          "courses": [
+            "SYSSYT0"
+          ]
+        },
+        {
+          "code": "TEA",
+          "minPoints": 100,
+          "courses": [
+            "TEALJU00S"
+          ]
+        },
+        {
+          "code": "TEK",
+          "minPoints": 200,
+          "courses": [
+            "TEKTEK02",
+            "TEKTEK00S"
+          ]
+        },
+        {
+          "code": "TIA",
+          "minPoints": 100,
+          "courses": [
+            "TIATIL00S"
+          ]
+        },
+        {
+          "code": "VIS",
+          "minPoints": 100,
+          "courses": [
+            "VISVIS0"
+          ]
+        },
+        {
+          "code": "WES",
+          "minPoints": 200,
+          "courses": [
+            "WESWEB01",
+            "WESWEB02"
+          ]
+        },
+        {
+          "code": "WEU",
+          "minPoints": 200,
+          "courses": [
+            "WEUWEB01",
+            "WEUWEB02"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "orientations": [
+      {
+        "name": "Design och produktutveckling",
+        "code": "TEDES",
+        "points": 300,
+        "courses": [
+          "BILBIL01a1",
+          "CADCAD01",
+          "DESDES01",
+          "KOTKOS01"
+        ],
+        "subjects": [
+          {
+            "code": "BIL",
+            "minPoints": 50,
+            "courses": [
+              "BILBIL01a1"
+            ]
+          },
+          {
+            "code": "CAD",
+            "minPoints": 50,
+            "courses": [
+              "CADCAD01"
+            ]
+          },
+          {
+            "code": "DES",
+            "minPoints": 100,
+            "courses": [
+              "DESDES01"
+            ]
+          },
+          {
+            "code": "KOT",
+            "minPoints": 100,
+            "courses": [
+              "KOTKOS01"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Informations- och medieteknik",
+        "code": "TEINF",
+        "points": 300,
+        "courses": [
+          "DAODAC0",
+          "PRRPRR01",
+          "WEUWEB01"
+        ],
+        "subjects": [
+          {
+            "code": "DAO",
+            "minPoints": 100,
+            "courses": [
+              "DAODAC0"
+            ]
+          },
+          {
+            "code": "PRR",
+            "minPoints": 100,
+            "courses": [
+              "PRRPRR01"
+            ]
+          },
+          {
+            "code": "WEU",
+            "minPoints": 100,
+            "courses": [
+              "WEUWEB01"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Produktionsteknik",
+        "code": "TEPRO",
+        "points": 300,
+        "courses": [
+          "MEKMEK01",
+          "PRDPRO01",
+          "PRUPRD01S"
+        ],
+        "subjects": [
+          {
+            "code": "MEK",
+            "minPoints": 100,
+            "courses": [
+              "MEKMEK01"
+            ]
+          },
+          {
+            "code": "PRD",
+            "minPoints": 100,
+            "courses": [
+              "PRDPRO01"
+            ]
+          },
+          {
+            "code": "PRU",
+            "minPoints": 100,
+            "courses": [
+              "PRUPRD01S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Samhällsbyggande och miljö",
+        "code": "TESAM",
+        "points": 300,
+        "courses": [
+          "ARKARK0",
+          "HÅLHÅB0",
+          "SAHBYV0"
+        ],
+        "subjects": [
+          {
+            "code": "ARK",
+            "minPoints": 100,
+            "courses": [
+              "ARKARK0"
+            ]
+          },
+          {
+            "code": "HÅL",
+            "minPoints": 100,
+            "courses": [
+              "HÅLHÅB0"
+            ]
+          },
+          {
+            "code": "SAH",
+            "minPoints": 100,
+            "courses": [
+              "SAHBYV0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Teknikvetenskap",
+        "code": "TETEK",
+        "points": 300,
+        "courses": [
+          "FYSFYS02",
+          "MATMAT04",
+          "TEKTEK02"
+        ],
+        "subjects": [
+          {
+            "code": "FYS",
+            "minPoints": 100,
+            "courses": [
+              "FYSFYS02"
+            ]
+          },
+          {
+            "code": "MAT",
+            "minPoints": 100,
+            "courses": [
+              "MATMAT04"
+            ]
+          },
+          {
+            "code": "TEK",
+            "minPoints": 100,
+            "courses": [
+              "TEKTEK02"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      }
+    ],
+    "profiles": [],
+    "professionalDegrees": []
+  }
+}

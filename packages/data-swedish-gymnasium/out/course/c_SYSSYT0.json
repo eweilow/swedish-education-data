@@ -1,0 +1,85 @@
+{
+  "subject": "SYS",
+  "title": "Systemuppbyggnad",
+  "code": "SYSSYT0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> funktionen och konstruktionen hos olika energitekniska system.",
+        "I beskrivningen redogör eleven <strong>utförligt och nyanserat</strong> för komponenter och apparater i systemen och deras funktion och konstruktion.",
+        "Eleven hänvisar i sin beskrivning till ritningar, driftkort, användarmanualer och instruktioner.",
+        "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> en effektiv och miljövänlig energianvändning i energitekniska system.",
+        "I beskrivningarna använder eleven <strong>nyanserat</strong> fackspråk."
+      ],
+      [
+        "Eleven gör <strong>med säkerhet</strong> enkla ritningar av energisystem med korrekta symboler och beteckningar."
+      ],
+      [
+        "Eleven utför <strong>efter samråd</strong> med handledare driftkontroller med hjälp av ritningar, driftkort, användarmanualer och instruktioner samt utifrån lagar och andra bestämmelser."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> funktionen och konstruktionen hos olika energitekniska system.",
+        "I beskrivningen redogör eleven <strong>utförligt</strong> för komponenter och apparater i systemen och deras funktion och konstruktion.",
+        "Eleven hänvisar i sin beskrivning till ritningar, driftkort, användarmanualer och instruktioner.",
+        "Dessutom beskriver eleven <strong>utförligt</strong> en effektiv och miljövänlig energianvändning i energitekniska system.",
+        "I beskrivningarna använder eleven fackspråk."
+      ],
+      [
+        "Eleven gör <strong>med viss säkerhet</strong> enkla ritningar av energisystem med korrekta symboler och beteckningar."
+      ],
+      [
+        "Eleven utför <strong>efter samråd</strong> med handledare driftkontroller med hjälp av ritningar, driftkort, användarmanualer och instruktioner samt utifrån lagar och andra bestämmelser."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> funktionen och konstruktionen hos olika energitekniska system.",
+        "I beskrivningen redogör eleven <strong>översiktligt</strong> för komponenter och apparater i systemen och deras funktion och konstruktion.",
+        "Eleven hänvisar i sin beskrivning till ritningar, driftkort, användarmanualer och instruktioner.",
+        "Dessutom beskriver eleven <strong>översiktligt</strong> en effektiv och miljövänlig energianvändning i energitekniska system.",
+        "I beskrivningarna använder eleven <strong>enkelt</strong> fackspråk."
+      ],
+      [
+        "Eleven gör <strong>med viss säkerhet</strong> enkla ritningar av energisystem med korrekta symboler och beteckningar."
+      ],
+      [
+        "Eleven utför <strong>i samråd</strong> med handledare driftkontroller med hjälp av ritningar, driftkort, användarmanualer och instruktioner samt utifrån lagar och andra bestämmelser."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Helhetssyn på värme-, sanitets-, ventilations-, kyl- och värmepumpssystems funktioner och samverkan i fastigheter, byggnadsverk och anläggningar.",
+        "Uppbyggnad och funktion av värme-, sanitets-, ventilations-, kyl- och värmepumpssystem samt hur de installeras och sköts.",
+        "Flödesriktningar, tryck och temperaturer i olika system.",
+        "Hur apparater och komponenter i system fungerar var för sig och i samverkan.",
+        "Enkla systemritningar, ritningssymboler och beteckningar samt hur de används för att beskriva system.",
+        "Flödesscheman, driftkort och användarmanualer för att utföra driftkontroll på verkliga eller fiktiva system.",
+        "Installationsregler, bygglagstiftning och arbetsmiljöregler för att uppfylla samhällets krav på energihushållning, hälsa och säkerhet."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen systemuppbyggnad omfattar punkterna 1 och 3–7 under rubriken Ämnets syfte, med särskild betoning på punkt 1 och 4.",
+  "applicableSubjectPurposes": [
+    0,
+    2,
+    3,
+    4,
+    5,
+    6
+  ]
+}

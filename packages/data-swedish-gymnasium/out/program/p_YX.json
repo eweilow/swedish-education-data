@@ -1,0 +1,243 @@
+{
+  "title": "Yrkesdansarutbildningen",
+  "code": "YX",
+  "url": "https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola/programstruktur-och-examensmal/yrkesdansarutbildningen",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "typeOfProgram": "NATIONAL_RECRUITMENT_FOR_LOCAL_SPECIALIZATION",
+  "applicableFrom": "2017-04-17T22:00:00.000Z",
+  "info": {
+    "degreeObjectives": [
+      "Yrkesdansarutbildningen är en riksrekryterande särskild yrkesutbildning inom gymnasieskolan med egna examensmål. Den är en elitutbildning. Efter examen från utbildningen ska eleverna ha de kunskaper som behövs för att arbeta som dansare vid nationella och internationella scener där klassisk balett eller modern nutida dans används på tekniskt avancerad och konstnärligt hög nivå.",
+      "Utbildningen ska utveckla elevernas kunskaper om och färdigheter i sceniskt framförande av dans. Det innebär daglig träning och att eleverna kontinuerligt ska förfina dansteknik, repetera koreografiskt material, lösa danstekniska och konstnärliga problem samt delta i sceniska produktioner.",
+      "Scenisk erfarenhet är en central yrkeskunskap. Därför ska utbildningen ge eleverna scenisk erfarenhet och kunskaper om scenkonstens olika yrkesroller och hur dessa samverkar i en produktion. Utbildningen ska utveckla elevernas förmåga att ta eget ansvar, samarbeta och se sin roll som en del i en konstnärlig helhet. Det innebär också att utbildningen ska leda till att eleverna utvecklar förmåga att använda de koder och konventioner som används inom det sceniska området. Det innefattar såväl historiska kunskaper om äldre traditioner som samtida kunskaper inom dansområdet.",
+      "Utvecklingen inom yrket kräver förmåga att dansa enligt både äldre och samtida repertoar samt att delta i konstnärliga processer med koreografer. Utbildningen ska därför utveckla elevernas förmåga till interpretation och stilkänsla för olika typer av repertoar samt förmåga att improvisera, vara kreativa, initiativrika och problemlösande i medskapande konstnärliga processer. Koreografier kan bestå av solo-, par- eller gruppdanser, och de kan vara historiska eller samtida. Utbildningen ska därför ge eleverna förmåga att anpassa dansteknik och konstnärligt uttryck till olika sammanhang och koreografiska förhållningssätt samt utveckla elevernas förmåga att arbeta både solistiskt och i ensemble.",
+      "Utbildningen ska leda till att eleverna på en avancerad nivå utvecklar en hög dansteknisk kvalitet inom klassisk balett eller modern nutida dans. Det danstekniska området inom klassisk balett och modern nutida dans omfattar hela vidden av rörelser, stegkombinationer och rörelsekvaliteter som används inom yrkesområdet. Utbildningen ska utveckla elevernas danstekniska kvaliteter och konstnärliga uttryck i enlighet med både tradition och samtida utveckling. Eleverna ska även ges möjlighet att utveckla danstekniska och konstnärliga kunskaper enligt senaste forskning och utvecklingsarbete.",
+      "Utbildningen ska ge eleverna förmåga att använda olika förhållningssätt till musik inom olika stilar och genrer, såväl historiska som samtida. Dans, konst och musik både speglar och deltar i skapandet av kulturella värderingar när det gäller exempelvis synen på kropp, genus och etnicitet, och eleverna ska ges förmåga att problematisera dessa när det gäller teknikträning, gestaltningsarbete och färdiga koreografier. Utbildningen ska också ge eleverna kunskaper om hur konstnärliga uttrycksformer i olika sammanhang kan analyseras ur olika perspektiv. Eleverna ska även ges möjlighet att utveckla ett yrkesmässigt språkbruk.",
+      "Kraven på eget ansvar är höga inom yrket. Individuell problemlösande feedback och coachning som inriktas mot utvecklingsmöjligheter är viktiga metoder för att utbildningen ska ge eleverna förmåga att, på det sätt yrket kräver, utvärdera och reflektera över sin egen kunskapsutveckling när det gäller kroppskännedom, dansteknik, gestaltningsarbete och sceniskt arbete. Utbildningen ska även ge eleverna kunskaper om hur kompletterande träningsmetoder kan stärka kroppen samt om hur hälsa, ergonomi och livsstil påverkar kroppen. Att arbeta med kroppen som konstnärligt uttryck innebär även höga krav på att hantera stress. Utbildningen ska därför ge eleverna förmåga att använda olika metoder för mental träning.",
+      "I utbildningen ska eleverna ges möjlighet att samverka med andra konstnärliga uttrycksformer och med kunskapsområden där konstnärliga uttryck har en framträdande roll, som kulturvetenskap, historia och språk. Utbildningen ska också ge eleverna kunskaper om juridiska och etiska frågor om yttrandefrihet och upphovsrätt i kulturutövande och i kommunikation med publik.",
+      "Arbetsplatsförlagt lärande ska förekomma på utbildningen. Det arbetsplatsförlagda lärandet ska bidra till att eleverna utvecklar yrkeskunskaper och en yrkesidentitet samt förstår yrkeskulturen och blir en del av yrkesgemenskapen på en arbetsplats. Det arbetsplatsförlagda lärandet ska också ge en inblick i det scenkonstnärliga arbetets villkor."
+    ],
+    "orientation": {
+      "title": "Profiler",
+      "lines": [
+        "Yrkesdansarutbildningen har två nationella profiler."
+      ]
+    },
+    "educationObjectives": [
+      "Gymnasiearbetet ska visa att eleven är förberedd för yrket som dansare. Det ska pröva elevens förmåga att utföra vanligt förekommande arbetsuppgifter inom yrkesområdet.",
+      "Gymnasiearbetet ska utföras på ett sådant sätt att eleven planerar, genomför och utvärderar sin uppgift.",
+      "Gymnasiearbetet ska utformas så att det ger eleverna möjlighet att pröva sitt yrkeskunnande i sceniska sammanhang."
+    ]
+  },
+  "education": {
+    "mandatory": {
+      "courses": [
+        "ENGENG05",
+        "HISHIS01a1",
+        "MATMAT01a",
+        "NAKNAK01a1",
+        "RELREL01",
+        "SAMSAM01a1",
+        "SVASVA01",
+        "SVESVE01"
+      ],
+      "subjects": [
+        {
+          "code": "ENG",
+          "minPoints": 100,
+          "courses": [
+            "ENGENG05"
+          ]
+        },
+        {
+          "code": "HIS",
+          "minPoints": 50,
+          "courses": [
+            "HISHIS01a1"
+          ]
+        },
+        {
+          "code": "MAT",
+          "minPoints": 100,
+          "courses": [
+            "MATMAT01a"
+          ]
+        },
+        {
+          "code": "NAK",
+          "minPoints": 50,
+          "courses": [
+            "NAKNAK01a1"
+          ]
+        },
+        {
+          "code": "REL",
+          "minPoints": 50,
+          "courses": [
+            "RELREL01"
+          ]
+        },
+        {
+          "code": "SAM",
+          "minPoints": 50,
+          "courses": [
+            "SAMSAM01a1"
+          ]
+        },
+        {
+          "code": "SVA",
+          "minPoints": 100,
+          "courses": [
+            "SVASVA01"
+          ]
+        },
+        {
+          "code": "SVE",
+          "minPoints": 100,
+          "courses": [
+            "SVESVE01"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "program": {
+      "courses": [
+        "DAEDAT0",
+        "DAKDAS0",
+        "DAKKLA01a",
+        "DAKKLA01b",
+        "DAKMOD01a",
+        "DAKMOD01b",
+        "KOSKOS0",
+        "MUSMUK0"
+      ],
+      "subjects": [
+        {
+          "code": "DAE",
+          "minPoints": 100,
+          "courses": [
+            "DAEDAT0"
+          ]
+        },
+        {
+          "code": "DAK",
+          "minPoints": 900,
+          "courses": [
+            "DAKDAS0",
+            "DAKKLA01a",
+            "DAKKLA01b",
+            "DAKMOD01a",
+            "DAKMOD01b"
+          ]
+        },
+        {
+          "code": "KOS",
+          "minPoints": 50,
+          "courses": [
+            "KOSKOS0"
+          ]
+        },
+        {
+          "code": "MUS",
+          "minPoints": 50,
+          "courses": [
+            "MUSMUK0"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "specialization": {
+      "courses": [
+        "DAGDAN0",
+        "DAGDAS0",
+        "DAGPAS0",
+        "DAGREP0",
+        "DAGSCE0",
+        "DAKDAN0",
+        "DAKKLA02",
+        "DAKKLA03",
+        "DAKMOD02",
+        "DAKMOD03",
+        "ENTENR0"
+      ],
+      "subjects": [
+        {
+          "code": "DAG",
+          "minPoints": 500,
+          "courses": [
+            "DAGDAN0",
+            "DAGDAS0",
+            "DAGPAS0",
+            "DAGREP0",
+            "DAGSCE0"
+          ]
+        },
+        {
+          "code": "DAK",
+          "minPoints": 900,
+          "courses": [
+            "DAKDAN0",
+            "DAKKLA02",
+            "DAKKLA03",
+            "DAKMOD02",
+            "DAKMOD03"
+          ]
+        },
+        {
+          "code": "ENT",
+          "minPoints": 100,
+          "courses": [
+            "ENTENR0"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "orientations": [],
+    "profiles": [
+      {
+        "name": "Klassisk balett",
+        "code": "YXKLA",
+        "points": 400,
+        "courses": [
+          "DAKKLA01a",
+          "DAKMOD01b"
+        ],
+        "subjects": [
+          {
+            "code": "DAK",
+            "minPoints": 400,
+            "courses": [
+              "DAKKLA01a",
+              "DAKMOD01b"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Modern nutida dans",
+        "code": "YXMOD",
+        "points": 400,
+        "courses": [
+          "DAKKLA01b",
+          "DAKMOD01a"
+        ],
+        "subjects": [
+          {
+            "code": "DAK",
+            "minPoints": 400,
+            "courses": [
+              "DAKKLA01b",
+              "DAKMOD01a"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      }
+    ],
+    "professionalDegrees": []
+  }
+}

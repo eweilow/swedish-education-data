@@ -1,0 +1,49 @@
+{
+  "title": "Spårfordonsteknik",
+  "code": "SPF",
+  "developmentPurposes": [
+    "Kunskaper om branschens verksamhet, verksamhetsområden, uppbyggnad och roll i samhället.",
+    "Kunskaper om spårbundna fordon samt om deras utrustning och användningsområden.",
+    "Kunskaper om komponenter och system som används för spårbundna fordon, samt om hur komponenter och system samverkar.",
+    "Förmåga att utföra felsökning, service, underhåll och reparation av spårbundna fordon.",
+    "Förmåga att utföra funktions- och säkerhetskontroll.",
+    "Förmåga att välja och använda arbetsmetoder och utrustning, samt förmåga att situationsanpassa arbetssätt, beräkningar och metoder.",
+    "Förmåga att arbeta på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.",
+    "Förmåga att använda såväl svenska som engelska manualer samt digitala informationssystem.",
+    "Förmåga att använda ett yrkesmässigt språk på såväl svenska som engelska."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet spårfordonsteknik ska syfta till att eleverna utvecklar förmåga att genomföra underhåll, felsökning och reparationer av spårfordon. Den ska ge eleverna möjlighet att utveckla tekniskt kunnande inom området spårfordonsteknik samt förmåga att använda teknik på ett korrekt sätt i ett givet sammanhang. Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om system och komponenter samt om hur dessa samverkar i spårfordon.",
+    "Undervisningen ska leda till att eleverna utvecklar förmåga att arbeta med problemlösning såväl självständigt som tillsammans med andra. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om hur människa och maskin samverkar.",
+    "Undervisningen ska bidra till att stimulera elevernas intresse för spårbundna fordon, deras utrustning och ny teknik. Genom undervisningen ska eleverna även ges möjlighet att utveckla en yrkesidentitet och förmåga att använda ett yrkesmässigt språk. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att kommunicera på engelska på det sätt som krävs inom yrkesområdet.",
+    "I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Dessa arbetsuppgifter ska utgå från ett problemlösande och laborativt arbetssätt."
+  ],
+  "courseInfo": {
+    "SPFDIG0": "Digitalteknik och programmering, 100 poäng.",
+    "SPFFEL01": "Felsökning och diagnos 1, 100 poäng.",
+    "SPFFEL02": "Felsökning och diagnos 2, 100 poäng, som bygger på kursen felsökning och diagnos 1.",
+    "SPFSPA0": "Spårbundna fordon – introduktion, 200 poäng.",
+    "SPFDRI0": "Drivsystem och bromsar, 200 poäng, som bygger på kursen spårbundna fordon – introduktion.",
+    "SPFINR01": "Inredning och komfort 1, 200 poäng, som bygger på kursen spårbundna fordon – introduktion.",
+    "SPFINR02": "Inredning och komfort 2, 100 poäng, som bygger på kursen inredning och komfort 1.",
+    "SPFKOM0": "Kommunikationssystem, 100 poäng, som bygger på kursen spårbundna fordon – introduktion.",
+    "SPFKOR0": "Korg och boggi, 200 poäng, som bygger på kursen spårbundna fordon – introduktion.",
+    "SPFSTY0": "Styr- och säkerhetssystem, 100 poäng, som bygger på kursen spårbundna fordon – introduktion."
+  },
+  "description": "Ämnet spårfordonsteknik behandlar funktion hos samt service och reparation av spårfordon. Det behandlar även spårfordons olika användningsområden och branschens olika arbetsområden. Ämnet omfattar de kunskaper som krävs för yrkesmässigt arbete inom området spårfordonsteknik.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "VOCATIONAL",
+  "applicableFrom": "2012-06-12T22:00:00.000Z",
+  "courses": [
+    "SPFDIG0",
+    "SPFDRI0",
+    "SPFFEL01",
+    "SPFFEL02",
+    "SPFINR01",
+    "SPFINR02",
+    "SPFKOM0",
+    "SPFKOR0",
+    "SPFSPA0",
+    "SPFSTY0"
+  ]
+}

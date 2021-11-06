@@ -1,0 +1,104 @@
+{
+  "subject": "FOD",
+  "title": "Fordonsteknik – introduktion",
+  "code": "FODFOO0",
+  "points": 200,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> fordons olika huvudkomponenter och deras funktion, dels var för sig, dels hur de samverkar i fordonet."
+      ],
+      [
+        "Eleven utför <strong>efter samråd</strong> med handledare service och reparationer på fordon.",
+        "I arbetet väljer eleven <strong>med säkerhet</strong> lämpliga arbetsmetoder.",
+        "Eleven genomför också i bekanta <strong>och nya</strong> situationer <strong>komplext</strong> demonterings- och monteringsarbete.",
+        "I arbetet använder eleven <strong>med säkerhet</strong> de verktyg och andra hjälpmedel som är lämpliga för att lösa de specifika arbetsuppgifterna.",
+        "Resultatet av arbetet är <strong>gott</strong>."
+      ],
+      [
+        "Eleven tar ansvar för materiella värden och för sin egen och andras säkerhet samt håller välordnat på arbetsplatsen.",
+        "I arbetet redogör eleven <strong>utförligt</strong> för lagar och andra bestämmelser som styr arbetet.",
+        "Dessutom arbetar eleven efter de krav på säkerhet, kvalitet och miljö som reglerar arbetet."
+      ],
+      [
+        "Eleven samarbetar <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat samt använder i sin kommunikation begrepp och uttryck som är relevanta för ämnesområdet."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> fordons olika huvudkomponenter och deras funktion, dels var för sig, dels hur de samverkar i fordonet."
+      ],
+      [
+        "Eleven utför <strong>efter samråd</strong> med handledare service och reparationer på fordon.",
+        "I arbetet väljer eleven <strong>med viss säkerhet</strong> lämpliga arbetsmetoder.",
+        "Eleven genomför också i bekanta situationer <strong>komplext</strong> demonterings- och monteringsarbete.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> de verktyg och andra hjälpmedel som är lämpliga för att lösa de specifika arbetsuppgifterna.",
+        "Resultatet av arbetet är <strong>tillfredsställande</strong>."
+      ],
+      [
+        "Eleven tar ansvar för materiella värden och för sin egen och andras säkerhet samt håller välordnat på arbetsplatsen.",
+        "I arbetet redogör eleven <strong>utförligt</strong> för lagar och andra bestämmelser som styr arbetet.",
+        "Dessutom arbetar eleven efter de krav på säkerhet, kvalitet och miljö som reglerar arbetet."
+      ],
+      [
+        "Eleven samarbetar <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat samt använder i sin kommunikation begrepp och uttryck som är relevanta för ämnesområdet."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> fordons olika huvudkomponenter och deras funktion, dels var för sig, dels hur de samverkar i fordonet."
+      ],
+      [
+        "Eleven utför <strong>i samråd</strong> med handledare service och reparationer på fordon.",
+        "I arbetet väljer eleven <strong>med viss säkerhet</strong> lämpliga arbetsmetoder.",
+        "Eleven genomför också i bekanta situationer <strong>enkelt</strong> demonterings- och monteringsarbete.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> de verktyg och andra hjälpmedel som är lämpliga för att lösa de specifika arbetsuppgifterna.",
+        "Resultatet av arbetet är <strong>tillfredsställande</strong>."
+      ],
+      [
+        "Eleven tar ansvar för materiella värden och för sin egen och andras säkerhet samt håller välordnat på arbetsplatsen.",
+        "I arbetet redogör eleven <strong>översiktligt</strong> för lagar och andra bestämmelser som styr arbetet.",
+        "Dessutom arbetar eleven efter de krav på säkerhet, kvalitet och miljö som reglerar arbetet."
+      ],
+      [
+        "Eleven samarbetar för att nå planerade resultat samt använder i sin kommunikation begrepp och uttryck som är relevanta för ämnesområdet."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Fordons huvudkomponenter, till exempel motor, drivlina, chassikomponenter och bromsar.",
+        "Materiallära och olika sammanfogningstekniker som används i fordon.",
+        "Enklare intervallservice enligt fordonstillverkarens anvisningar.",
+        "Enklare demonterings- och monteringsmoment av olika delar i fordons huvudkomponenter.",
+        "Informationssystem och manualer för arbetet.",
+        "Hantering av de verktyg och maskiner som används i arbetet.",
+        "Underhåll av verktyg, utrustning och verkstadsmiljöer.",
+        "Lyft och uppallning av motorfordon.",
+        "Säkerhet på arbetsplatsen och förebyggande av person- och egendomsskador samt lagar och andra bestämmelser som gäller för arbetet.",
+        "Tekniska termer och begrepp."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen fordonsteknik – introduktion omfattar punkterna 1–7 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ]
+}

@@ -1,0 +1,1432 @@
+{
+  "title": "Hantverksprogrammet",
+  "code": "HV",
+  "url": "https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola/programstruktur-och-examensmal/hantverksprogrammet",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "typeOfProgram": "VOCATIONAL_PROGRAM",
+  "applicableFrom": "2018-07-31T22:00:00.000Z",
+  "info": {
+    "degreeObjectives": [
+      "Hantverksprogrammet är ett yrkesprogram. Efter examen från programmet ska eleverna ha de kunskaper som behövs för att arbeta inom floristyrket, frisörbranschen, snickeribranschen, textilbranschen eller branschen inom det valda hantverket.",
+      "Utbildningen ska utveckla elevernas kunskaper om och färdigheter i hantverksprocessen. Det innebär att kunna genomföra vanligt förekommande arbetsuppgifter från idé till färdig produkt, dvs. att identifiera behov, planera med skiss eller ritning, välja och hantera verktyg, material och tekniker, genomföra och redovisa arbetet samt analysera och utvärdera resultatet. Som förberedelse för arbete inom det hantverksområde som eleven har valt ska även formgivning, entreprenörskap, kommunikation och service ingå i utbildningen. Hantverkskunnande och estetiskt tänkande samspelar i skapandeprocessen och ska därför genomsyra utbildningen. Utbildningen ska också leda till att eleverna förstår hantverkarens roll i samhället samt får insikt i vilka konsekvenser hantering och val av material får för människor och miljö.",
+      "Inom alla hantverksyrken är personlig prägel, teknisk skicklighet, kvalitet och design centralt. I utbildningen ska eleverna därför ges möjlighet att öva hantverksyrkets olika moment och tekniker och förstå yrkets karaktär, hantverkstraditioner och utvecklingsmöjligheter. De ska få utveckla sin känsla för färg, form och komposition samt använda de digitala tekniker som förekommer i yrket.",
+      "Utbildningen ska också utveckla elevernas förmåga att använda yrkets fackspråk och kommunicera och samverka med kunder, uppdragsgivare och leverantörer. Eleverna ska lära sig ett serviceinriktat förhållningssätt och att utföra arbetet med kvalitet och ansvarskänsla samt att kunna arbeta enligt gällande arbetsmiljölagar och föreskrifter.",
+      "Hantverksyrkets specifika karaktär kräver att teori och praktik samverkar och att eleverna får öva sin förmåga att lösa problem. Utbildningen ska utveckla elevernas förmåga att analysera och utvärdera det egna arbetet och lärandet samt förmåga att självständigt välja till exempel material och tekniker. Utbildningen ska också bidra till att eleverna får kännedom om det valda hantverksyrkets möjligheter på en internationell arbetsmarknad.",
+      "Oavsett om man är anställd eller driver eget företag krävs initiativförmåga, idérikedom, självständighet, personligt ansvarstagande, samarbetsförmåga och egen drivkraft. Därför ska utbildningen ge kunskaper om entreprenörskap och företagande, från grundläggande företagsekonomi och marknadsföring till att skapa och behålla en kundkrets.",
+      "Eleverna ska få förutsättningar att utvecklas inom yrket och bli väl förberedda inför framtida förändringar genom att lära sig materialens olika egenskaper, materialutveckling, tekniker och teknikutveckling, men också genom kunskaper om tradition och kulturarv.",
+      "Arbetsplatsförlagt lärande ska förekomma på alla yrkesprogram. Det arbetsplatsförlagda lärandet ska bidra till att eleverna utvecklar yrkeskunskaper och en yrkesidentitet samt förstår yrkeskulturen och blir en del av yrkesgemenskapen på en arbetsplats. Det arbetsplatsförlagda lärandet kan också ge inblick i företagandets villkor.",
+      "Examensmålet gäller för både skolförlagd utbildning och lärlingsutbildning."
+    ],
+    "orientation": {
+      "title": "Inriktningar",
+      "lines": [
+        "Hantverksprogrammet har fem inriktningar.",
+        "Samtliga inriktningar kan leda till fortsatta studier på yrkeshögskola."
+      ]
+    },
+    "educationObjectives": [
+      "Gymnasiearbetet ska visa att eleven är förberedd för det yrkesområde som gäller för den valda yrkesutgången. Det ska pröva elevens förmåga att utföra vanligt förekommande arbetsuppgifter inom yrkesområdet.",
+      "Gymnasiearbetet ska utföras på ett sådant sätt att eleven planerar, genomför och utvärderar sin uppgift. Det ska innefatta hantverksprocessens steg från idé till färdig produkt.Gymnasiearbetet kan utformas så att det ger eleverna möjlighet att pröva sitt yrkeskunnande i företagsliknande arbetsformer."
+    ]
+  },
+  "education": {
+    "mandatory": {
+      "courses": [
+        "ENGENG05",
+        "HISHIS01a1",
+        "IDRIDR01",
+        "MATMAT01a",
+        "NAKNAK01a1",
+        "RELREL01",
+        "SAMSAM01a1",
+        "SVASVA01",
+        "SVESVE01"
+      ],
+      "subjects": [
+        {
+          "code": "ENG",
+          "minPoints": 100,
+          "courses": [
+            "ENGENG05"
+          ]
+        },
+        {
+          "code": "HIS",
+          "minPoints": 50,
+          "courses": [
+            "HISHIS01a1"
+          ]
+        },
+        {
+          "code": "IDR",
+          "minPoints": 100,
+          "courses": [
+            "IDRIDR01"
+          ]
+        },
+        {
+          "code": "MAT",
+          "minPoints": 100,
+          "courses": [
+            "MATMAT01a"
+          ]
+        },
+        {
+          "code": "NAK",
+          "minPoints": 50,
+          "courses": [
+            "NAKNAK01a1"
+          ]
+        },
+        {
+          "code": "REL",
+          "minPoints": 50,
+          "courses": [
+            "RELREL01"
+          ]
+        },
+        {
+          "code": "SAM",
+          "minPoints": 50,
+          "courses": [
+            "SAMSAM01a1"
+          ]
+        },
+        {
+          "code": "SVA",
+          "minPoints": 100,
+          "courses": [
+            "SVASVA01"
+          ]
+        },
+        {
+          "code": "SVE",
+          "minPoints": 100,
+          "courses": [
+            "SVESVE01"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "program": {
+      "courses": [
+        "ENTENR0",
+        "HAVHAV0",
+        "HVKTRA0"
+      ],
+      "subjects": [
+        {
+          "code": "ENT",
+          "minPoints": 100,
+          "courses": [
+            "ENTENR0"
+          ]
+        },
+        {
+          "code": "HAV",
+          "minPoints": 200,
+          "courses": [
+            "HAVHAV0"
+          ]
+        },
+        {
+          "code": "HVK",
+          "minPoints": 100,
+          "courses": [
+            "HVKTRA0"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "specialization": {
+      "courses": [
+        "ADMADM01",
+        "AFFAFÄ00S",
+        "ARKARI0",
+        "BILBIL0",
+        "BILBIL01a1",
+        "BILBIL01a2",
+        "BILBIL01b",
+        "BILBIL00S",
+        "BILFOM0",
+        "CADCAD01",
+        "CADCAD02",
+        "DAIMON01",
+        "DAIMON02",
+        "DARCAD0",
+        "DARDAT01S",
+        "DESDES0",
+        "DESDES01",
+        "DESDES02",
+        "DIGDIG01",
+        "DIGDIG02",
+        "ELRELF0",
+        "ELRELK0",
+        "FOMFAC0",
+        "FOMFOR01S",
+        "FOMFOR02S",
+        "FOMFOR03S",
+        "FOMTEX0",
+        "FÖRENT0",
+        "FÖRFÖR01",
+        "FÖRFÖR02",
+        "FÖRMAD0",
+        "FÖRRED01",
+        "FÖRRED02",
+        "FÖSPER01",
+        "FÖSPER02",
+        "FÖSPER03",
+        "HANPRA01",
+        "HAVFIN03",
+        "HAVFIN04",
+        "HAVFIN04S",
+        "HAVFIN05",
+        "HAVFIN05S",
+        "HAVFIN06a",
+        "HAVFIN06b",
+        "HAVFLO03",
+        "HAVFLO04",
+        "HAVFLO04S",
+        "HAVFLO05",
+        "HAVFLO05S",
+        "HAVFLO06a",
+        "HAVFLO06b",
+        "HAVFRI03",
+        "HAVFRI04",
+        "HAVFRI04S",
+        "HAVFRI05",
+        "HAVFRI05S",
+        "HAVFRI06a",
+        "HAVFRI06b",
+        "HAVHNT03",
+        "HAVHNT04",
+        "HAVHNT04S",
+        "HAVHNT05",
+        "HAVHNT05S",
+        "HAVHNT06a",
+        "HAVHNT06b",
+        "HAVTEX03",
+        "HAVTEX04",
+        "HAVTEX04S",
+        "HAVTEX05",
+        "HAVTEX05S",
+        "HAVTEX06a",
+        "HAVTEX06b",
+        "HISHIS01a2",
+        "HISHIS02a",
+        "HISHIS02b",
+        "HVKMAT0",
+        "HVKMIL0",
+        "INKINK01",
+        "INKINK02",
+        "KEMKEM01",
+        "LARLAM0",
+        "MAAMAA01",
+        "MAAMAA02",
+        "MATMAT02a",
+        "MATMAT03b",
+        "MATMAT03c",
+        "MEDMED01",
+        "MEDMED02",
+        "MNUMON01",
+        "MNUMON02",
+        "NAKNAK01a2",
+        "NAKNAK02",
+        "PRRPRR01",
+        "SAMSAM01a2",
+        "SAMSAM02",
+        "SVASVA02",
+        "SVESVE02",
+        "TIATIL00S",
+        "UTSUTS01",
+        "UTSUTS02",
+        "UTSUTS03S",
+        "VÄXVÄX01",
+        "VÄXVÄX02"
+      ],
+      "subjects": [
+        {
+          "code": "ADM",
+          "minPoints": 100,
+          "courses": [
+            "ADMADM01"
+          ]
+        },
+        {
+          "code": "AFF",
+          "minPoints": 100,
+          "courses": [
+            "AFFAFÄ00S"
+          ]
+        },
+        {
+          "code": "ARK",
+          "minPoints": 100,
+          "courses": [
+            "ARKARI0"
+          ]
+        },
+        {
+          "code": "BIL",
+          "minPoints": 500,
+          "courses": [
+            "BILBIL0",
+            "BILBIL01a1",
+            "BILBIL01a2",
+            "BILBIL01b",
+            "BILBIL00S",
+            "BILFOM0"
+          ]
+        },
+        {
+          "code": "CAD",
+          "minPoints": 100,
+          "courses": [
+            "CADCAD01",
+            "CADCAD02"
+          ]
+        },
+        {
+          "code": "DAI",
+          "minPoints": 200,
+          "courses": [
+            "DAIMON01",
+            "DAIMON02"
+          ]
+        },
+        {
+          "code": "DAR",
+          "minPoints": 200,
+          "courses": [
+            "DARCAD0",
+            "DARDAT01S"
+          ]
+        },
+        {
+          "code": "DES",
+          "minPoints": 300,
+          "courses": [
+            "DESDES0",
+            "DESDES01",
+            "DESDES02"
+          ]
+        },
+        {
+          "code": "DIG",
+          "minPoints": 200,
+          "courses": [
+            "DIGDIG01",
+            "DIGDIG02"
+          ]
+        },
+        {
+          "code": "ELR",
+          "minPoints": 200,
+          "courses": [
+            "ELRELF0",
+            "ELRELK0"
+          ]
+        },
+        {
+          "code": "FOM",
+          "minPoints": 500,
+          "courses": [
+            "FOMFAC0",
+            "FOMFOR01S",
+            "FOMFOR02S",
+            "FOMFOR03S",
+            "FOMTEX0"
+          ]
+        },
+        {
+          "code": "FÖR",
+          "minPoints": 600,
+          "courses": [
+            "FÖRENT0",
+            "FÖRFÖR01",
+            "FÖRFÖR02",
+            "FÖRMAD0",
+            "FÖRRED01",
+            "FÖRRED02"
+          ]
+        },
+        {
+          "code": "FÖS",
+          "minPoints": 300,
+          "courses": [
+            "FÖSPER01",
+            "FÖSPER02",
+            "FÖSPER03"
+          ]
+        },
+        {
+          "code": "HAN",
+          "minPoints": 100,
+          "courses": [
+            "HANPRA01"
+          ]
+        },
+        {
+          "code": "HAV",
+          "minPoints": 4250,
+          "courses": [
+            "HAVFIN03",
+            "HAVFIN04",
+            "HAVFIN04S",
+            "HAVFIN05",
+            "HAVFIN05S",
+            "HAVFIN06a",
+            "HAVFIN06b",
+            "HAVFLO03",
+            "HAVFLO04",
+            "HAVFLO04S",
+            "HAVFLO05",
+            "HAVFLO05S",
+            "HAVFLO06a",
+            "HAVFLO06b",
+            "HAVFRI03",
+            "HAVFRI04",
+            "HAVFRI04S",
+            "HAVFRI05",
+            "HAVFRI05S",
+            "HAVFRI06a",
+            "HAVFRI06b",
+            "HAVHNT03",
+            "HAVHNT04",
+            "HAVHNT04S",
+            "HAVHNT05",
+            "HAVHNT05S",
+            "HAVHNT06a",
+            "HAVHNT06b",
+            "HAVTEX03",
+            "HAVTEX04",
+            "HAVTEX04S",
+            "HAVTEX05",
+            "HAVTEX05S",
+            "HAVTEX06a",
+            "HAVTEX06b"
+          ]
+        },
+        {
+          "code": "HIS",
+          "minPoints": 250,
+          "courses": [
+            "HISHIS01a2",
+            "HISHIS02a",
+            "HISHIS02b"
+          ]
+        },
+        {
+          "code": "HVK",
+          "minPoints": 100,
+          "courses": [
+            "HVKMAT0",
+            "HVKMIL0"
+          ]
+        },
+        {
+          "code": "INK",
+          "minPoints": 200,
+          "courses": [
+            "INKINK01",
+            "INKINK02"
+          ]
+        },
+        {
+          "code": "KEM",
+          "minPoints": 100,
+          "courses": [
+            "KEMKEM01"
+          ]
+        },
+        {
+          "code": "LAR",
+          "minPoints": 100,
+          "courses": [
+            "LARLAM0"
+          ]
+        },
+        {
+          "code": "MAA",
+          "minPoints": 200,
+          "courses": [
+            "MAAMAA01",
+            "MAAMAA02"
+          ]
+        },
+        {
+          "code": "MAT",
+          "minPoints": 300,
+          "courses": [
+            "MATMAT02a",
+            "MATMAT03b",
+            "MATMAT03c"
+          ]
+        },
+        {
+          "code": "MED",
+          "minPoints": 250,
+          "courses": [
+            "MEDMED01",
+            "MEDMED02"
+          ]
+        },
+        {
+          "code": "MNU",
+          "minPoints": 200,
+          "courses": [
+            "MNUMON01",
+            "MNUMON02"
+          ]
+        },
+        {
+          "code": "NAK",
+          "minPoints": 150,
+          "courses": [
+            "NAKNAK01a2",
+            "NAKNAK02"
+          ]
+        },
+        {
+          "code": "PRR",
+          "minPoints": 100,
+          "courses": [
+            "PRRPRR01"
+          ]
+        },
+        {
+          "code": "SAM",
+          "minPoints": 150,
+          "courses": [
+            "SAMSAM01a2",
+            "SAMSAM02"
+          ]
+        },
+        {
+          "code": "SVA",
+          "minPoints": 100,
+          "courses": [
+            "SVASVA02"
+          ]
+        },
+        {
+          "code": "SVE",
+          "minPoints": 100,
+          "courses": [
+            "SVESVE02"
+          ]
+        },
+        {
+          "code": "TIA",
+          "minPoints": 100,
+          "courses": [
+            "TIATIL00S"
+          ]
+        },
+        {
+          "code": "UTS",
+          "minPoints": 300,
+          "courses": [
+            "UTSUTS01",
+            "UTSUTS02",
+            "UTSUTS03S"
+          ]
+        },
+        {
+          "code": "VÄX",
+          "minPoints": 200,
+          "courses": [
+            "VÄXVÄX01",
+            "VÄXVÄX02"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "orientations": [
+      {
+        "name": "Finsnickeri",
+        "code": "HVFIN",
+        "points": 500,
+        "courses": [
+          "HAVFIN01",
+          "HAVFIN02",
+          "HVKMAE0"
+        ],
+        "subjects": [
+          {
+            "code": "HAV",
+            "minPoints": 400,
+            "courses": [
+              "HAVFIN01",
+              "HAVFIN02"
+            ]
+          },
+          {
+            "code": "HVK",
+            "minPoints": 100,
+            "courses": [
+              "HVKMAE0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Florist",
+        "code": "HVFLO",
+        "points": 500,
+        "courses": [
+          "HAVFLO01",
+          "HAVFLO02",
+          "HVKMAE0"
+        ],
+        "subjects": [
+          {
+            "code": "HAV",
+            "minPoints": 400,
+            "courses": [
+              "HAVFLO01",
+              "HAVFLO02"
+            ]
+          },
+          {
+            "code": "HVK",
+            "minPoints": 100,
+            "courses": [
+              "HVKMAE0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Frisör",
+        "code": "HVFRI",
+        "points": 500,
+        "courses": [
+          "HAVFRI01",
+          "HAVFRI02",
+          "HVKMAE0"
+        ],
+        "subjects": [
+          {
+            "code": "HAV",
+            "minPoints": 400,
+            "courses": [
+              "HAVFRI01",
+              "HAVFRI02"
+            ]
+          },
+          {
+            "code": "HVK",
+            "minPoints": 100,
+            "courses": [
+              "HVKMAE0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Textil design",
+        "code": "HVTEX",
+        "points": 500,
+        "courses": [
+          "HAVTEX01",
+          "HAVTEX02",
+          "HVKMAE0"
+        ],
+        "subjects": [
+          {
+            "code": "HAV",
+            "minPoints": 400,
+            "courses": [
+              "HAVTEX01",
+              "HAVTEX02"
+            ]
+          },
+          {
+            "code": "HVK",
+            "minPoints": 100,
+            "courses": [
+              "HVKMAE0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Övriga hantverk",
+        "code": "HVXXX",
+        "points": 500,
+        "courses": [
+          "HAVHNT01",
+          "HAVHNT02",
+          "HVKMAE0"
+        ],
+        "subjects": [
+          {
+            "code": "HAV",
+            "minPoints": 400,
+            "courses": [
+              "HAVHNT01",
+              "HAVHNT02"
+            ]
+          },
+          {
+            "code": "HVK",
+            "minPoints": 100,
+            "courses": [
+              "HVKMAE0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      }
+    ],
+    "profiles": [],
+    "professionalDegrees": [
+      {
+        "name": "Båtbyggare",
+        "code": "HVFIN",
+        "courses": [
+          "ELRELF0",
+          "HAVFIN03",
+          "HAVFIN04",
+          "HAVHAV0"
+        ],
+        "subjects": [
+          {
+            "code": "ELR",
+            "minPoints": 100,
+            "courses": [
+              "ELRELF0"
+            ]
+          },
+          {
+            "code": "HAV",
+            "minPoints": 600,
+            "courses": [
+              "HAVFIN03",
+              "HAVFIN04",
+              "HAVHAV0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Bössmakare",
+        "code": "HVXXX",
+        "courses": [
+          "HAVHNT03",
+          "HAVHNT04",
+          "HAVHNT04S",
+          "HAVHNT05",
+          "HAVHNT05S"
+        ],
+        "subjects": [
+          {
+            "code": "HAV",
+            "minPoints": 700,
+            "courses": [
+              "HAVHNT03",
+              "HAVHNT04",
+              "HAVHNT04S",
+              "HAVHNT05",
+              "HAVHNT05S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Florist",
+        "code": "HVFLO",
+        "courses": [
+          "HAVFLO03",
+          "HAVFLO04",
+          "HAVFLO04S",
+          "HAVFLO05S",
+          "UTSUTS01",
+          "VÄXVÄX01"
+        ],
+        "subjects": [
+          {
+            "code": "HAV",
+            "minPoints": 500,
+            "courses": [
+              "HAVFLO03",
+              "HAVFLO04",
+              "HAVFLO04S",
+              "HAVFLO05S"
+            ]
+          },
+          {
+            "code": "UTS",
+            "minPoints": 100,
+            "courses": [
+              "UTSUTS01"
+            ]
+          },
+          {
+            "code": "VÄX",
+            "minPoints": 100,
+            "courses": [
+              "VÄXVÄX01"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Frisöraspirant",
+        "code": "HVFRI",
+        "courses": [
+          "HAVFRI03",
+          "HAVFRI04",
+          "HAVFRI05",
+          "HAVFRI06a"
+        ],
+        "subjects": [
+          {
+            "code": "HAV",
+            "minPoints": 700,
+            "courses": [
+              "HAVFRI03",
+              "HAVFRI04",
+              "HAVFRI05",
+              "HAVFRI06a"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Glasblåsare",
+        "code": "HVXXX",
+        "courses": [
+          "FOMFOR01S",
+          "FÖRENT0",
+          "HAVHNT03",
+          "HAVHNT04",
+          "HAVHNT04S",
+          "HAVHNT05S"
+        ],
+        "subjects": [
+          {
+            "code": "FOM",
+            "minPoints": 100,
+            "courses": [
+              "FOMFOR01S"
+            ]
+          },
+          {
+            "code": "FÖR",
+            "minPoints": 100,
+            "courses": [
+              "FÖRENT0"
+            ]
+          },
+          {
+            "code": "HAV",
+            "minPoints": 500,
+            "courses": [
+              "HAVHNT03",
+              "HAVHNT04",
+              "HAVHNT04S",
+              "HAVHNT05S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Guldsmed",
+        "code": "HVXXX",
+        "courses": [
+          "CADCAD01",
+          "HAVHNT03",
+          "HAVHNT04",
+          "HAVHNT04S",
+          "HAVHNT05"
+        ],
+        "subjects": [
+          {
+            "code": "CAD",
+            "minPoints": 50,
+            "courses": [
+              "CADCAD01"
+            ]
+          },
+          {
+            "code": "HAV",
+            "minPoints": 650,
+            "courses": [
+              "HAVHNT03",
+              "HAVHNT04",
+              "HAVHNT04S",
+              "HAVHNT05"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Hudvård",
+        "code": "HVXXX",
+        "courses": [
+          "FÖSPER01",
+          "KEMKEM01",
+          "MAAMAA01",
+          "MAAMAA02",
+          "MEDMED01",
+          "MEDMED02",
+          "NAKNAK01a2"
+        ],
+        "subjects": [
+          {
+            "code": "FÖS",
+            "minPoints": 100,
+            "courses": [
+              "FÖSPER01"
+            ]
+          },
+          {
+            "code": "KEM",
+            "minPoints": 100,
+            "courses": [
+              "KEMKEM01"
+            ]
+          },
+          {
+            "code": "MAA",
+            "minPoints": 200,
+            "courses": [
+              "MAAMAA01",
+              "MAAMAA02"
+            ]
+          },
+          {
+            "code": "MED",
+            "minPoints": 250,
+            "courses": [
+              "MEDMED01",
+              "MEDMED02"
+            ]
+          },
+          {
+            "code": "NAK",
+            "minPoints": 50,
+            "courses": [
+              "NAKNAK01a2"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Hår- och makeupstylist",
+        "code": "HVXXX",
+        "courses": [
+          "HAVHNT03",
+          "HAVHNT04",
+          "HAVHNT04S",
+          "HAVHNT05S"
+        ],
+        "subjects": [
+          {
+            "code": "HAV",
+            "minPoints": 500,
+            "courses": [
+              "HAVHNT03",
+              "HAVHNT04",
+              "HAVHNT04S",
+              "HAVHNT05S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Inköpsassistent",
+        "code": "HVTEX",
+        "courses": [
+          "AFFAFÄ00S",
+          "HAVTEX03",
+          "INKINK01",
+          "INKINK02"
+        ],
+        "subjects": [
+          {
+            "code": "AFF",
+            "minPoints": 100,
+            "courses": [
+              "AFFAFÄ00S"
+            ]
+          },
+          {
+            "code": "HAV",
+            "minPoints": 200,
+            "courses": [
+              "HAVTEX03"
+            ]
+          },
+          {
+            "code": "INK",
+            "minPoints": 200,
+            "courses": [
+              "INKINK01",
+              "INKINK02"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Inredningssnickare",
+        "code": "HVFIN",
+        "courses": [
+          "CADCAD01",
+          "CADCAD02",
+          "HAVFIN03",
+          "HAVFIN04"
+        ],
+        "subjects": [
+          {
+            "code": "CAD",
+            "minPoints": 100,
+            "courses": [
+              "CADCAD01",
+              "CADCAD02"
+            ]
+          },
+          {
+            "code": "HAV",
+            "minPoints": 400,
+            "courses": [
+              "HAVFIN03",
+              "HAVFIN04"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Juvelfattare",
+        "code": "HVXXX",
+        "courses": [
+          "HAVHNT03",
+          "HAVHNT04",
+          "HAVHNT04S",
+          "HAVHNT05S"
+        ],
+        "subjects": [
+          {
+            "code": "HAV",
+            "minPoints": 500,
+            "courses": [
+              "HAVHNT03",
+              "HAVHNT04",
+              "HAVHNT04S",
+              "HAVHNT05S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Kakelugnsmakare",
+        "code": "HVXXX",
+        "courses": [
+          "HAVHNT03",
+          "HAVHNT04",
+          "HAVHNT04S",
+          "HAVHNT05S"
+        ],
+        "subjects": [
+          {
+            "code": "HAV",
+            "minPoints": 500,
+            "courses": [
+              "HAVHNT03",
+              "HAVHNT04",
+              "HAVHNT04S",
+              "HAVHNT05S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Keramiker",
+        "code": "HVXXX",
+        "courses": [
+          "HAVHNT03",
+          "HAVHNT04",
+          "HAVHNT04S",
+          "HAVHNT05S"
+        ],
+        "subjects": [
+          {
+            "code": "HAV",
+            "minPoints": 500,
+            "courses": [
+              "HAVHNT03",
+              "HAVHNT04",
+              "HAVHNT04S",
+              "HAVHNT05S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Låssmed",
+        "code": "HVXXX",
+        "courses": [
+          "HAVHNT03",
+          "HAVHNT04",
+          "HAVHNT05",
+          "LARLAM0"
+        ],
+        "subjects": [
+          {
+            "code": "HAV",
+            "minPoints": 600,
+            "courses": [
+              "HAVHNT03",
+              "HAVHNT04",
+              "HAVHNT05"
+            ]
+          },
+          {
+            "code": "LAR",
+            "minPoints": 100,
+            "courses": [
+              "LARLAM0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Möbelsnickare",
+        "code": "HVFIN",
+        "courses": [
+          "FÖRENT0",
+          "HAVFIN03",
+          "HAVFIN04"
+        ],
+        "subjects": [
+          {
+            "code": "FÖR",
+            "minPoints": 100,
+            "courses": [
+              "FÖRENT0"
+            ]
+          },
+          {
+            "code": "HAV",
+            "minPoints": 400,
+            "courses": [
+              "HAVFIN03",
+              "HAVFIN04"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Sadelmakare",
+        "code": "HVXXX",
+        "courses": [
+          "HAVHNT03",
+          "HAVHNT04",
+          "HAVHNT04S",
+          "HAVHNT05S"
+        ],
+        "subjects": [
+          {
+            "code": "HAV",
+            "minPoints": 500,
+            "courses": [
+              "HAVHNT03",
+              "HAVHNT04",
+              "HAVHNT04S",
+              "HAVHNT05S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Silversmed",
+        "code": "HVXXX",
+        "courses": [
+          "HAVHNT03",
+          "HAVHNT04",
+          "HAVHNT04S",
+          "HAVHNT05S"
+        ],
+        "subjects": [
+          {
+            "code": "HAV",
+            "minPoints": 500,
+            "courses": [
+              "HAVHNT03",
+              "HAVHNT04",
+              "HAVHNT04S",
+              "HAVHNT05S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Skomakare",
+        "code": "HVXXX",
+        "courses": [
+          "HAVHNT03",
+          "HAVHNT04",
+          "HAVHNT04S",
+          "HAVHNT05S"
+        ],
+        "subjects": [
+          {
+            "code": "HAV",
+            "minPoints": 500,
+            "courses": [
+              "HAVHNT03",
+              "HAVHNT04",
+              "HAVHNT04S",
+              "HAVHNT05S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Smed",
+        "code": "HVXXX",
+        "courses": [
+          "HAVHNT03",
+          "HAVHNT04",
+          "HAVHNT04S",
+          "HAVHNT05S"
+        ],
+        "subjects": [
+          {
+            "code": "HAV",
+            "minPoints": 500,
+            "courses": [
+              "HAVHNT03",
+              "HAVHNT04",
+              "HAVHNT04S",
+              "HAVHNT05S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Sotare",
+        "code": "HVXXX",
+        "courses": [
+          "HAVHNT03",
+          "HAVHNT04",
+          "HAVHNT04S",
+          "HAVHNT05S"
+        ],
+        "subjects": [
+          {
+            "code": "HAV",
+            "minPoints": 500,
+            "courses": [
+              "HAVHNT03",
+              "HAVHNT04",
+              "HAVHNT04S",
+              "HAVHNT05S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Sömmerska",
+        "code": "HVTEX",
+        "courses": [
+          "HAVTEX03",
+          "HAVTEX04",
+          "MNUMON01"
+        ],
+        "subjects": [
+          {
+            "code": "HAV",
+            "minPoints": 400,
+            "courses": [
+              "HAVTEX03",
+              "HAVTEX04"
+            ]
+          },
+          {
+            "code": "MNU",
+            "minPoints": 100,
+            "courses": [
+              "MNUMON01"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Tapetserare",
+        "code": "HVXXX",
+        "courses": [
+          "HAVHNT03",
+          "HAVHNT04",
+          "HAVHNT04S",
+          "HAVHNT05S"
+        ],
+        "subjects": [
+          {
+            "code": "HAV",
+            "minPoints": 500,
+            "courses": [
+              "HAVHNT03",
+              "HAVHNT04",
+              "HAVHNT04S",
+              "HAVHNT05S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Textil och konfektion",
+        "code": "HVTEX",
+        "courses": [
+          "DAIMON01",
+          "HAVTEX03",
+          "MNUMON01",
+          "MNUMON02"
+        ],
+        "subjects": [
+          {
+            "code": "DAI",
+            "minPoints": 100,
+            "courses": [
+              "DAIMON01"
+            ]
+          },
+          {
+            "code": "HAV",
+            "minPoints": 200,
+            "courses": [
+              "HAVTEX03"
+            ]
+          },
+          {
+            "code": "MNU",
+            "minPoints": 200,
+            "courses": [
+              "MNUMON01",
+              "MNUMON02"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Timmerman",
+        "code": "HVXXX",
+        "courses": [
+          "HAVHNT03",
+          "HAVHNT04",
+          "HAVHNT04S",
+          "HAVHNT05S"
+        ],
+        "subjects": [
+          {
+            "code": "HAV",
+            "minPoints": 500,
+            "courses": [
+              "HAVHNT03",
+              "HAVHNT04",
+              "HAVHNT04S",
+              "HAVHNT05S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Trä- och byggvaruhandel",
+        "code": "HVFIN",
+        "courses": [
+          "FÖSPER01",
+          "HANPRA01",
+          "HAVFIN03",
+          "UTSUTS01"
+        ],
+        "subjects": [
+          {
+            "code": "FÖS",
+            "minPoints": 100,
+            "courses": [
+              "FÖSPER01"
+            ]
+          },
+          {
+            "code": "HAN",
+            "minPoints": 100,
+            "courses": [
+              "HANPRA01"
+            ]
+          },
+          {
+            "code": "HAV",
+            "minPoints": 200,
+            "courses": [
+              "HAVFIN03"
+            ]
+          },
+          {
+            "code": "UTS",
+            "minPoints": 100,
+            "courses": [
+              "UTSUTS01"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Urmakare",
+        "code": "HVXXX",
+        "courses": [
+          "HAVHNT03",
+          "HAVHNT04",
+          "HAVHNT04S",
+          "HAVHNT05S"
+        ],
+        "subjects": [
+          {
+            "code": "HAV",
+            "minPoints": 500,
+            "courses": [
+              "HAVHNT03",
+              "HAVHNT04",
+              "HAVHNT04S",
+              "HAVHNT05S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      }
+    ]
+  }
+}

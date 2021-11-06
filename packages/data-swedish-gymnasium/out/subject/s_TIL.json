@@ -1,0 +1,31 @@
+{
+  "title": "Tillverkningsunderlag",
+  "code": "TIL",
+  "developmentPurposes": [
+    "Förmåga att tolka mönster- eller ritningsunderlag.",
+    "Förmåga att organisera och bereda arbetet utifrån tillverkningsritningar.",
+    "Förmåga att skapa enkla ritningar eller mönster manuellt eller med datorteknik.",
+    "Kunskaper om metoder för att skapa ritningar eller mönster.",
+    "Kunskaper om informationssökning i relevanta källor.",
+    "Kunskaper om specifika beteckningar inom valt område.",
+    "Kunskaper om material- och produktionsstyrningssystem.",
+    "Förmåga att använda termer och begrepp inom teknikområdet."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet tillverkningsunderlag ska syfta till att eleverna utvecklar kunskaper om ritnings- eller mönsterläsning inom ett teknikområde. Den ska även leda till att eleverna utvecklar kunskaper om hur man, för att skapa enklare tillverkningsunderlag, med hjälp av datorteknik tillverkar egna ritningar eller mönster utifrån skisser. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om beredningsunderlag samt förmåga att ta fram beredningsunderlag utifrån ett tillverkningsunderlag.",
+    "Vidare ska eleverna ges möjlighet att utveckla kunskaper om hur material- och produktionsstyrningssystem fungerar i den tillverkande industrin samt om deras betydelse för att skapa ordning och reda i produktionen. Undervisningen ska även leda till att eleverna utvecklar förmåga att söka information i tabeller, handböcker och andra relevanta källor samt att använda begrepp och uttryck som är relevanta inom branschområdet.",
+    "Undervisningen ska innehålla såväl teoretiska som praktiska övningar för att ge eleverna möjlighet att utveckla en trygghet i att tolka och skapa tillverkningsunderlag samt utveckla förståelse för betydelsen av material- och produktionsstyrningssystem."
+  ],
+  "courseInfo": {
+    "TILTIL01": "Tillverkningsunderlag 1, 100 poäng.",
+    "TILTIL02": "Tillverkningsunderlag 2, 100 poäng, som bygger på kursen tillverkningsunderlag 1."
+  },
+  "description": "Ämnet tillverkningsunderlag behandlar tolkning av underlag som används vid produktion av produkter samt skapande av egna tillverkningsunderlag från enkla skisser med hjälp av datorteknik. Det behandlar även beredningsunderlag, material- och produktionsstyrning samt informationssökning.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "VOCATIONAL",
+  "applicableFrom": "2011-06-30T22:00:00.000Z",
+  "courses": [
+    "TILTIL01",
+    "TILTIL02"
+  ]
+}

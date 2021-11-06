@@ -1,0 +1,94 @@
+{
+  "subject": "SKG",
+  "title": "Virkeslära",
+  "code": "SKGVIR0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för egenskaper hos och användningsområden för olika trädslag.",
+        "Dessutom identifierar eleven <strong>med säkerhet</strong> vanliga skadegörare på virke samt ger <strong>välgrundade och nyanserade</strong> förslag på motåtgärder för att skydda virket."
+      ],
+      [
+        "Eleven utför <strong>efter samråd</strong> med handledare klassning och aptering av virke enligt apteringsinstruktioner.",
+        "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+        "Resultatet av arbetet är <strong>gott</strong>.",
+        "Eleven gör <strong>avancerade</strong> beräkningar med skogliga mått och omräkningstal samt värderar sitt resultat med <strong>nyanserade</strong> omdömen.",
+        "Dessutom föreslår eleven <strong>efter samråd</strong> med handledare uttag av lämpliga virkessortiment vid avverkning samt redogör <strong>utförligt och nyanserat</strong> för virkesförsäljning och kontraktering."
+      ],
+      [
+        "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter.",
+        "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör virkeshantering."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör <strong>utförligt</strong> för egenskaper hos och användningsområden för olika trädslag.",
+        "Dessutom identifierar eleven <strong>med viss säkerhet</strong> vanliga skadegörare på virke samt ger <strong>välgrundade</strong> förslag på motåtgärder för att skydda virket."
+      ],
+      [
+        "Eleven utför <strong>efter samråd</strong> med handledare klassning och aptering av virke enligt apteringsinstruktioner.",
+        "I arbetet löser eleven <strong>efter samråd</strong> med handledare de problem som uppstår.",
+        "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+        "Eleven gör beräkningar med skogliga mått och omräkningstal samt värderar sitt resultat med <strong>enkla</strong> omdömen.",
+        "Dessutom föreslår eleven <strong>efter samråd</strong> med handledare uttag av lämpliga virkessortiment vid avverkning samt redogör <strong>utförligt</strong> för virkesförsäljning och kontraktering."
+      ],
+      [
+        "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter.",
+        "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör virkeshantering."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven redogör <strong>översiktligt</strong> för egenskaper hos och användningsområden för olika trädslag.",
+        "Dessutom identifierar eleven <strong>med viss säkerhet</strong> vanliga skadegörare på virke samt ger <strong>enkla</strong> förslag på motåtgärder för att skydda virket."
+      ],
+      [
+        "Eleven utför <strong>i samråd</strong> med handledare klassning och aptering av virke enligt apteringsinstruktioner.",
+        "I arbetet löser eleven <strong>i samråd</strong> med handledare de problem som uppstår.",
+        "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+        "Eleven gör <strong>enkla</strong> beräkningar med skogliga mått och omräkningstal samt värderar sitt resultat med <strong>enkla</strong> omdömen.",
+        "Dessutom föreslår eleven <strong>i samråd</strong> med handledare uttag av lämpliga virkessortiment vid avverkning samt redogör <strong>översiktligt</strong> för virkesförsäljning och kontraktering."
+      ],
+      [
+        "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter.",
+        "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som rör virkeshantering."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Olika trädslags egenskaper och användningsområden.",
+        "Träets egenskaper, virkets förädling och användning samt sortiment.",
+        "Skadesvampar och insektsangrepp på virke samt förebyggande åtgärder för virkesskydd.",
+        "Aptering enligt instruktioner.",
+        "Hantering, kvalitetsbedömning, volymberäkning och prissättning.",
+        "Skogliga mått och omräkningstal.",
+        "Ekonomisk aptering och prislistans uppbyggnad.",
+        "Virkesförsäljning, kontraktering och organisation av virkesmätning.",
+        "Uppföljning och virkesredovisning.",
+        "Virkesmätningslagen och andra bestämmelser inom området."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen virkeslära omfattar punkterna 1–2 och 5–8 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    4,
+    5,
+    6,
+    7
+  ]
+}

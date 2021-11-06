@@ -1,0 +1,27 @@
+{
+  "title": "Mekatronik",
+  "code": "MEK",
+  "developmentPurposes": [
+    "Förmåga att planera, bygga och dokumentera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik.",
+    "Förmåga att använda ritningar och manualer samt samarbeta med andra.",
+    "Färdigheter i att använda informationsteknik som stöd vid byggnation och programmering av mekatroniska system.",
+    "Kunskaper om hur mekanisk struktur, elektroteknik samt styr- och reglerteknik kan sammanföras till ett system.",
+    "Förståelse av hur matematik och fysik kan användas för att beskriva principer inom ellära och mekanik."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet mekatronik ska syfta till att eleverna utvecklar förmåga att bygga mekatroniska system samt kunskaper om hur mekanisk struktur, elektroteknik samt styr- och reglerteknik samverkar i människors vardag i tekniska system. Vidare ska undervisningen leda till att eleverna utvecklar kunskaper om hur naturvetenskapliga principer kan beskrivas med hjälp av matematiska formler. I undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om hur tekniska system kan brytas ned i delsystem.",
+    "Undervisningen ska ge eleverna möjlighet att utveckla förståelse av tekniken i vardagen. I undervisningen ska eleverna ges möjlighet att arbeta både praktiskt och teoretiskt med olika arbetsuppgifter. Dessutom ska undervisningen ge eleverna möjlighet att träna sin förmåga att planera dessa arbetsuppgifter."
+  ],
+  "courseInfo": {
+    "MEKMEK01": "Mekatronik 1, 100 poäng.",
+    "MEKMEK02": "Mekatronik 2, 100 poäng, som bygger på kursen mekatronik 1."
+  },
+  "description": "Mekatronik är en sammanslagning av mekanik och elektronik. De två teknikområdena slås ihop för att man ska kunna studera sådan teknisk utrustning i vardagen som integrerar elektriska och mekaniska funktioner. I ämnet mekatronik behandlas samverkan mellan olika teknikområden inom produkter och processer. Ämnet kan delas upp i två delar – produktmekatronik och processmekatronik. Produktmekatronik behandlar produkters uppbyggnad, och processmekatronik behandlar uppbyggnaden av de processer som bygger dessa produkter.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "VOCATIONAL",
+  "applicableFrom": "2011-06-30T22:00:00.000Z",
+  "courses": [
+    "MEKMEK01",
+    "MEKMEK02"
+  ]
+}

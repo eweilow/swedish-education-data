@@ -1,0 +1,85 @@
+{
+  "subject": "INN",
+  "title": "Industriella produktionsmetoder 2",
+  "code": "INNIND32",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven läser och tolkar <strong>med mycket god säkerhet</strong> produktionsunderlag och genomför <strong>självständigt</strong> ett producerande arbete inom vald industriell produktionsmetod.",
+        "Eleven resonerar <strong>utförligt och nyanserat</strong> för olika moderna produktionsmetoder och deras användningsområden."
+      ],
+      [
+        "Eleven planerar, bereder och organiserar <strong>självständigt</strong> en industriell produktionsmetod och redogör <strong>utförligt och nyanserat</strong> för hur olika metoder kombineras till en produktionslinje för en produkt.",
+        "Eleven kan <strong>med mycket god säkerhet</strong> planera och organisera programmering, simulering, testning och optimering av datorstyrd produktionsutrustning."
+      ],
+      [
+        "Eleven redogör för gällande arbetsmiljölagar, säkerhetsrisker, hur risker minimeras och kan <strong>självständigt</strong> göra en riskanalys."
+      ],
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för olika metoder och arbetssätt, löser <strong>självständigt</strong> produktionstekniska problem och föreslår <strong>med mycket god säkerhet</strong> förbättringar inom vald produktionsmetod."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven läser och tolkar <strong>med god säkerhet</strong> produktionsunderlag och genomför <strong>självständigt efter samråd</strong> med handledare ett producerande arbete inom vald industriell produktionsmetod.",
+        "Eleven resonerar <strong>utförligt</strong> för olika moderna produktionsmetoder och deras användningsområden."
+      ],
+      [
+        "Eleven planerar, bereder och organiserar <strong>självständigt efter samråd</strong> med handledare en industriell produktionsmetod och redogör <strong>utförligt</strong> för hur olika metoder kombineras till en produktionslinje för en produkt.",
+        "Eleven kan <strong>med god säkerhet</strong> planera och organisera programmering, simulering, testning och optimering av datorstyrd produktionsutrustning."
+      ],
+      [
+        "Eleven redogör för gällande arbetsmiljölagar, säkerhetsrisker, hur risker minimeras och kan <strong>självständigt efter samråd</strong> med handledare göra en riskanalys."
+      ],
+      [
+        "Eleven redogör <strong>utförligt</strong> för olika metoder och arbetssätt, löser <strong>självständigt efter samråd</strong> med handledare produktionstekniska problem och föreslår <strong>med god säkerhet</strong> förbättringar inom vald produktionsmetod."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven läser och tolkar <strong>med säkerhet</strong> produktionsunderlag och genomför <strong>efter samråd</strong> med handledare ett producerande arbete inom vald industriell produktionsmetod.",
+        "Eleven resonerar <strong>övergripande</strong> om olika moderna produktionsmetoder och deras användningsområden."
+      ],
+      [
+        "Eleven planerar, bereder och organiserar <strong>efter samråd</strong> med handledare en industriell produktionsmetod och redogör <strong>övergripande</strong> för hur olika metoder kombineras till en produktionslinje för en produkt.",
+        "Eleven kan <strong>med säkerhet</strong> planera och organisera programmering, simulering, testning och optimering av datorstyrd produktionsutrustning."
+      ],
+      [
+        "Eleven redogör för gällande arbetsmiljölagar, säkerhetsrisker, hur risker minimeras och gör <strong>efter samråd</strong> med handledare en riskanalys."
+      ],
+      [
+        "Eleven redogör <strong>övergripande</strong> för olika metoder och arbetssätt, löser <strong>efter samråd</strong> med handledare produktionstekniska problem och föreslår <strong>med säkerhet</strong> förbättringar inom vald produktionsmetod."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Tolkning av mönster- och ritningsunderlag.",
+        "Relevanta termer och begrepp.",
+        "Effektivisering och optimering av inställningar på produktionsutrustning, kringutrustning och maskiner.",
+        "Teknisk beskrivning, funktionskontroll och mätning av produktionsutrustning och kringutrustning.",
+        "Beräkningar och modeller för planering och optimering av produktionsprocessen för minimering av förluster.",
+        "Planering och beredning för produktion av produkter som kräver mer än en produktionsmetod.",
+        "Programmering, produktionsförberedelse och justeringar. Justeringar i program och maskininställningar samt produktionsarbete i datorstyrd utrustning enligt angivna kvalitetskrav.",
+        "Föreskrifter för arbetsmiljö samt person- och maskinsäkerhet.",
+        "Mätningar, bedömningar och dokumentation av kvaliteten på utfört arbete.",
+        "Metod för att göra riskanalys och tillhörande riskbedömning och betydelsen av dessa för organisation och genomförande av arbetet.",
+        "Val av utrustning, verktyg och teknik för optimalt produktionsresultat och förbättrad produktionsekonomi.",
+        "Organisation av arbetsplatser.",
+        "Dimensionering, tekniska beräkningar och materialberäkningar."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen industriella produktionsmetoder 2 omfattar punkterna 3–8 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]
+}

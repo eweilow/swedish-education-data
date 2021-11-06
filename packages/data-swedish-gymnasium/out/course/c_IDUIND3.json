@@ -1,0 +1,100 @@
+{
+  "subject": "IDU",
+  "title": "Industriell automationsteknik",
+  "code": "IDUIND3",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för industriella automatiserade systems uppbyggnad, användningsområde och funktion samt deras betydelse för automatiserade processer.",
+        "Eleven förhåller sig till de säkerhetsföreskrifter som finns inom området.",
+        "Vidare redogör eleven <strong>utförligt och nyanserat</strong> för vanligt förekommande standarder inom industriell automation."
+      ],
+      [
+        "Eleven använder <strong>med mycket god säkerhet</strong> programverktyg för simulering av system kopplade till en automatiserad process och för <strong>utförliga och nyanserade</strong> resonemang kring hur automatisering kan påverka social, ekonomisk och ekologisk hållbarhet."
+      ],
+      [
+        "Eleven strukturerar <strong>självständigt</strong> kommunikation och konfiguration mellan olika system och andra enheter, internt och externt.",
+        "Eleven planerar och programmerar <strong>självständigt</strong> industriella automationssystem samt utför ändringar och definitioner av variabler och systemparametrar.",
+        "Vidare dokumenterar eleven <strong>utförligt och nyanserat</strong> industriella automatiserade system med muntliga, skriftliga och digitala metoder.",
+        "Eleven genomför även kontroll före drifttagning och provkörning av program samt planerar och utför arbete i automatiserade system <strong>med mycket god säkerhet</strong>."
+      ],
+      [
+        "Eleven analyserar, förbättrar och optimerar befintliga automatiserade system samt ger <strong>välgrundade och nyanserade</strong> förslag på åtgärder.",
+        "Eleven felsöker <strong>självständigt</strong> med hjälp av program, manualer och dokument i automatiserade system."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör <strong>utförligt</strong> för industriella automatiserade systems uppbyggnad, användningsområde och funktion samt deras betydelse för automatiserade processer.",
+        "Eleven förhåller sig till de säkerhetsföreskrifter som finns inom området.",
+        "Vidare redogör eleven <strong>utförligt</strong> för vanligt förekommande standarder inom industriell automation."
+      ],
+      [
+        "Eleven använder <strong>med god säkerhet</strong> programverktyg för simulering av system kopplade till en automatiserad process och för <strong>utförliga</strong> resonemang kring hur automatisering kan påverka social, ekonomisk och ekologisk hållbarhet."
+      ],
+      [
+        "Eleven strukturerar <strong>självständigt efter samråd</strong> med handledare kommunikation och konfiguration mellan olika system och andra enheter, internt och externt.",
+        "Eleven planerar och programmerar <strong>självständigt efter samråd</strong> med handledare industriella automationssystem samt utför ändringar och definitioner av variabler och systemparametrar.",
+        "Vidare dokumenterar eleven <strong>utförligt</strong> industriella automatiserade system med muntliga, skriftliga och digitala metoder.",
+        "Eleven genomför även kontroll före drifttagning och provkörning av program samt planerar och utför arbete i automatiserade system <strong>med god säkerhet</strong>."
+      ],
+      [
+        "Eleven analyserar, förbättrar och optimerar befintliga automatiserade system samt ger <strong>välgrundade och nyanserade</strong> förslag på åtgärder.",
+        "Eleven felsöker <strong>självständigt efter samråd</strong> med handledare med hjälp av program, manualer och dokument i automatiserade system."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven redogör <strong>övergripande</strong> för industriella automatiserade systems uppbyggnad, användningsområde och funktion samt deras betydelse för automatiserade processer.",
+        "Eleven förhåller sig till de säkerhetsföreskrifter som finns inom området.",
+        "Vidare redogör eleven <strong>övergripande</strong> för vanligt förekommande standarder inom industriell automation."
+      ],
+      [
+        "Eleven använder <strong>med säkerhet</strong> programverktyg för simulering av system kopplade till en automatiserad process och för <strong>övergripande</strong> resonemang kring hur automatisering kan påverka social, ekonomisk och ekologisk hållbarhet."
+      ],
+      [
+        "Eleven strukturerar <strong>efter samråd</strong> med handledare kommunikation och konfiguration mellan olika system och andra enheter, internt och externt.",
+        "Eleven planerar och programmerar <strong>efter samråd</strong> med handledare industriella automationssystem samt utför ändringar och definitioner av variabler och systemparametrar.",
+        "Vidare dokumenterar eleven <strong>övergripande</strong> industriella automatiserade system med muntliga, skriftliga och digitala metoder.",
+        "Eleven genomför även kontroll före drifttagning och provkörning av program samt planerar och utför arbete i automatiserade system <strong>med säkerhet</strong>."
+      ],
+      [
+        "Eleven analyserar, förbättrar och optimerar befintliga automatiserade system samt ger <strong>välgrundade</strong> förslag på åtgärder.",
+        "Eleven felsöker <strong>efter samråd</strong> med handledare med hjälp av program, manualer och dokument i automatiserade system."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Uppbyggnad och funktion av samt principer för olika typer av automatiserade system.",
+        "Arbetsmiljö och säkerhet vid arbete med automatiserade system.",
+        "Talsystem samt uppbyggnad och omvandling mellan talsystem som används i automatiserade system.",
+        "Tolkning och användning av de logiska grundfunktionerna.",
+        "Ventilbeteckningar och märkningar samt identifiering av komponenter.",
+        "Standarder för informationsteknik och säkerhet.",
+        "Program för simulering av automatiserade processer.",
+        "Automatiserade systems påverkan på miljö, ekonomi och samhälle.",
+        "Funktion, egenskaper och symboler hos styrtekniska lösningar där pneumatiska och elektriska komponenter ingår.",
+        "Hantering och programmering av digitala och analoga in- och utgångar.",
+        "Programmering, installering, intrimning och driftsättning av enkla och sammanbyggda styrutrustningar med olika automationsmoduler och givare.",
+        "Analys av befintlig automatiserad process och förslag på förbättringar och optimeringar.",
+        "Olika typer av scheman, ritningar och annan dokumentation över automatiska system inom valt område. Tolkning av och metoder för framställning av dessa.",
+        "Förebyggande underhåll samt felsökning och reparation på automatiserade system."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen industriell automationsteknik omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]
+}

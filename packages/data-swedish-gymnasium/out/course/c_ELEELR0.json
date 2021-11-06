@@ -1,0 +1,93 @@
+{
+  "subject": "ELE",
+  "title": "Elektronik och mikrodatorteknik",
+  "code": "ELEELR0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> funktion och egenskaper hos vanligt förekommande analoga och digitala elektronikkomponenter.",
+        "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> funktion och arbetssätt hos mikrodatorer och mikroprocessorer."
+      ],
+      [
+        "Eleven planerar och utför <strong>efter samråd</strong> med handledare montering, hantering och provning av vanligt förekommande analoga och digitala elektronikkomponenter samt enklare programmering av mikrodatorer.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt är miljövänligt.",
+        "I arbetet använder och tolkar eleven <strong>med säkerhet begrepp</strong>, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.",
+        "Dessutom utför eleven <strong>avancerade</strong> beräkningar av elektriska storheter."
+      ],
+      [
+        "Eleven utför <strong>avancerade</strong> komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> funktion och egenskaper hos vanligt förekommande analoga och digitala elektronikkomponenter.",
+        "Dessutom beskriver eleven <strong>utförligt</strong> funktion och arbetssätt hos mikrodatorer och mikroprocessorer."
+      ],
+      [
+        "Eleven planerar och utför <strong>efter samråd</strong> med handledare montering, hantering och provning av vanligt förekommande analoga och digitala elektronikkomponenter samt enklare programmering av mikrodatorer.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt är miljövänligt.",
+        "I arbetet använder och tolkar eleven <strong>med viss säkerhet begrepp</strong>, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.",
+        "Dessutom utför eleven beräkningar av elektriska storheter."
+      ],
+      [
+        "Eleven utför komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> funktion och egenskaper hos vanligt förekommande analoga och digitala elektronikkomponenter.",
+        "Dessutom beskriver eleven <strong>översiktligt</strong> funktion och arbetssätt hos mikrodatorer och mikroprocessorer."
+      ],
+      [
+        "Eleven planerar och utför <strong>i samråd</strong> med handledare montering, hantering och provning av vanligt förekommande analoga och digitala elektronikkomponenter samt enklare programmering av mikrodatorer.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt är miljövänligt.",
+        "I arbetet använder och tolkar eleven <strong>med viss säkerhet</strong> begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.",
+        "Dessutom utför eleven <strong>enkla</strong> beräkningar av elektriska storheter."
+      ],
+      [
+        "Eleven utför <strong>enkla</strong> komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Egenskaper och arbetssätt hos resistorer, kondensatorer, induktanser och transformatorer.",
+        "Egenskaper och arbetssätt hos analoga och digitala halvledarkomponenter.",
+        "Egenskaper och arbetssätt hos optokomponenter och displayer.",
+        "Mikrodatorns arbetssätt.",
+        "Mikroprocessorer och deras kringkomponenter.",
+        "ESD-säker (electrostatic discharge) hantering och montering av elektronikkomponenter.",
+        "Förbindningsteknik och ytmonteringsteknik.",
+        "Enklare programmering av mikrodatorer.",
+        "Schemaritningsteknik, symboler och funktioner.",
+        "Binära talsystemet, boolesk algebra och de digitala grundfunktionerna.",
+        "Arbetssätt och användningsområden för AD- och DA-omvandlare.",
+        "Mätteknik för krets- och komponentmätningar.",
+        "Datorsimulering av enklare elektronikuppkopplingar."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen elektronik och mikrodatorteknik omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Elektronik",
+  "code": "ELE",
+  "developmentPurposes": [
+    "Kunskaper om funktion och egenskaper hos vanliga analoga och digitala elektronikkomponenter.",
+    "Kunskaper om funktion och arbetssätt hos mikrodatorer och mikroprocessorer.",
+    "Förmåga att utföra elektronikmonteringsarbete på ett säkert och miljövänligt sätt.",
+    "Förmåga att programmera enklare elektroniksystem och mikrodatorsystem.",
+    "Förmåga att använda och tolka begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.",
+    "Förmåga att utföra beräkningar av elektriska storheter.",
+    "Förmåga att utföra komponent- och kretsmätningar.",
+    "Förmåga att utföra datorsimulering av elektronikuppkopplingar."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet elektronik ska syfta till att eleverna utvecklar kunskaper om funktion och egenskaper hos de vanligaste analoga och digitala elektronikkomponenterna. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att tolka symboler, elektronikscheman, datablad och annan teknisk dokumentation.",
+    "Undervisningen ska leda till att eleverna utvecklar förmåga att utföra praktiska moment, till exempel elektronikmontering, komponentmätningar, programmering samt datorsimulering av elektronikuppkopplingar. Dessutom ska undervisningen leda till att eleverna utvecklar färdigheter i att sköta och använda verktyg och mätinstrument. I undervisningen ska ett undersökande arbetssätt och experiment, laborationer och datorsimuleringar ingå."
+  ],
+  "courseInfo": {
+    "ELEELR0": "Elektronik och mikrodatorteknik, 100 poäng.",
+    "ELELÅG0": "Låg- och högfrekvenskretsar, 100 poäng, som bygger på kursen elektronik och mikrodatorteknik.",
+    "ELEMIK0": "Mikrodatortillämpningar, 100 poäng, som bygger på kursen elektronik och mikrodatorteknik."
+  },
+  "description": "Ämnet elektronik behandlar flera teknikområden där elektronik och elektroniska system byggs in för att styra eller ersätta mekaniska system, till exempel i bilar och hushållsmaskiner.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "VOCATIONAL",
+  "applicableFrom": "2013-04-10T22:00:00.000Z",
+  "courses": [
+    "ELEELR0",
+    "ELELÅG0",
+    "ELEMIK0"
+  ]
+}

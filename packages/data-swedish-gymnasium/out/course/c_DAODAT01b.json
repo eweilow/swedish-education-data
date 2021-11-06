@@ -1,0 +1,76 @@
+{
+  "subject": "DAO",
+  "title": "Datorteknik 1b",
+  "code": "DAODAT01b",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> hur dator- och kommunikationssystem är uppbyggda och fungerar samt hur driftsäkerhet och integritetsskydd uppnås i systemen."
+      ],
+      [
+        "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>mycket gott</strong> handlag hård- och mjukvaruinstallation, konfigurering samt <strong>enkel och även mer avancerad</strong> administration i datorer och datorsystem.",
+        "Resultatet är <strong>gott</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "Dessutom installerar och konfigurerar eleven <strong>efter samråd</strong> med handledare datorer i ett befintligt nätverk.",
+        "Eleven hanterar med <strong>mycket gott</strong> handlag utrustning och programvaror samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> hur dator- och kommunikationssystem är uppbyggda och fungerar samt hur driftsäkerhet och integritetsskydd uppnås i systemen."
+      ],
+      [
+        "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>gott</strong> handlag hård- och mjukvaruinstallation, konfigurering samt <strong>enkel</strong> administration i datorer och datorsystem.",
+        "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "Dessutom installerar och konfigurerar eleven <strong>efter samråd</strong> med handledare datorer i ett befintligt nätverk.",
+        "Eleven hanterar med <strong>gott</strong> handlag utrustning och programvaror samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> hur dator- och kommunikationssystem är uppbyggda och fungerar samt hur driftsäkerhet och integritetsskydd uppnås i systemen."
+      ],
+      [
+        "Eleven planerar och utför <strong>i samråd</strong> med handledare och med <strong>visst</strong> handlag hård- och mjukvaruinstallation, konfigurering samt <strong>enkel</strong> administration i datorer och datorsystem.",
+        "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "Dessutom installerar och konfigurerar eleven <strong>i samråd</strong> med handledare datorer i ett befintligt nätverk.",
+        "Eleven hanterar med <strong>visst</strong> handlag utrustning och programvaror samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>enkel</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Datorsystems uppbyggnad och arbetssätt.",
+        "Grunderna i OSI-modellen (Open Systems Interconnection) och gällande standarder för datorkommunikation.",
+        "Program, till exempel enklare kommunikationsprogram och applikationsprogram för mobila enheter.",
+        "Begreppen filer, filformat, komprimering och kryptering.",
+        "Rutiner för säkerhetskopiering och installation av virusskydd.",
+        "Installation, konfigurering och driftsättning av datorsystem för till exempel administration, kommunikation, dokumentation och enklare affärssystem.",
+        "Installation och konfigurering av applikationsprogram samt administration av behörigheter och lösenord.",
+        "Installation och konfigurering av datorer i ett befintligt nätverk.",
+        "Installation av skrivare och andra enheter i nätverk."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen datorteknik 1b omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "subject": "ELA",
+  "title": "Ellära – flyg",
+  "code": "ELAELL0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> elektroners strömmar i en elektrisk krets utifrån ett givet kopplingsschema.",
+        "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> olika teoretiska begrepp inom området."
+      ],
+      [
+        "Eleven <strong>väljer</strong> formler, <strong>motiverar sina val</strong> och utför <strong>efter samråd</strong> med handledare beräkningar samt redogör <strong>utförligt och nyanserat</strong> för <strong>komplexa</strong> samband inom området.",
+        "Eleven utför också i bekanta <strong>men även nya</strong> situationer och utifrån laborationsanvisningar <strong>avancerade</strong> uppkopplingar, mätningar och rimlighetsuppskattningar och tolkar resultaten.",
+        "Dessutom gör eleven utifrån en <strong>avancerad</strong> strömkrets ett kopplingsschema.",
+        "Eleven arbetar i bekanta <strong>men även nya</strong> situationer utifrån det regelverk som uppgiften kräver och beskriver <strong>utförligt och nyanserat</strong> lagar och andra bestämmelser som styr verksamheten."
+      ],
+      [
+        "Eleven använder <strong>med säkerhet</strong> för området relevanta begrepp.",
+        "När eleven kommunicerar med andra använder hen <strong>med säkerhet</strong> relevant fackspråk på svenska och engelska.",
+        "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "Resultatet av elevens arbete är <strong>gott</strong>."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> elektroners strömmar i en elektrisk krets utifrån ett givet kopplingsschema.",
+        "Dessutom beskriver eleven <strong>utförligt</strong> olika teoretiska begrepp inom området."
+      ],
+      [
+        "Eleven <strong>väljer</strong> formler och utför <strong>efter samråd</strong> med handledare beräkningar samt redogör <strong>utförligt</strong> för samband inom området.",
+        "Eleven utför också i bekanta <strong>och delvis nya</strong> situationer och utifrån laborationsanvisningar uppkopplingar, mätningar och rimlighetsuppskattningar och tolkar resultaten.",
+        "Dessutom gör eleven utifrån en strömkrets ett kopplingsschema.",
+        "Eleven arbetar i bekanta <strong>och delvis nya</strong> situationer utifrån det regelverk som uppgiften kräver och beskriver <strong>utförligt</strong> lagar och andra bestämmelser som styr verksamheten."
+      ],
+      [
+        "Eleven använder <strong>med viss säkerhet</strong> för området relevanta begrepp.",
+        "När eleven kommunicerar med andra använder hen <strong>med viss säkerhet</strong> relevant fackspråk på svenska och engelska.",
+        "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "Resultatet av elevens arbete är <strong>tillfredsställande</strong>."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> elektroners strömmar i en elektrisk krets utifrån ett givet kopplingsschema.",
+        "Dessutom beskriver eleven <strong>översiktligt</strong> olika teoretiska begrepp inom området."
+      ],
+      [
+        "Eleven utför <strong>i samråd</strong> med handledare och <strong>utifrån givna</strong> formler beräkningar samt redogör <strong>översiktligt</strong> för <strong>enkla</strong> samband inom området.",
+        "Eleven utför också i bekanta situationer och utifrån laborationsanvisningar <strong>enkla</strong> uppkopplingar, mätningar och rimlighetsuppskattningar och tolkar resultaten.",
+        "Dessutom gör eleven utifrån en <strong>enkel</strong> strömkrets ett kopplingsschema.",
+        "Eleven arbetar i bekanta situationer utifrån det regelverk som uppgiften kräver och beskriver <strong>översiktligt</strong> lagar och andra bestämmelser som styr verksamheten."
+      ],
+      [
+        "Eleven använder <strong>med viss säkerhet</strong> för området relevanta begrepp.",
+        "När eleven kommunicerar med andra använder hen <strong>med viss säkerhet</strong> relevant fackspråk på svenska och engelska.",
+        "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "Resultatet av elevens arbete är <strong>tillfredsställande</strong>."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Struktur och spridning av laddningar i atomer, molekyler, joner, föreningar.",
+        "Molekylstruktur för ledare, halvledare och isolatorer.",
+        "Statisk elektricitet och spridning av laddning. Elektrisk ledning i olika former av materia.",
+        "Elektrisk terminologi som tillämpas i likströmslära.",
+        "Olika metoder att generera elektricitet.",
+        "Konstruktion och arbetssätt för olika typer av likströmskällor.",
+        "Växelströmsterminologi samt principer för enfas/trefas.",
+        "Uppkopplingar av elektriska kretsar utifrån anvisningar samt tolkning av resultat.",
+        "Fackspråk på svenska och engelska för att förstå och följa instruktioner samt för att kommunicera kring arbetets utförande.",
+        "Säkerhet på arbetsplatsen, förebyggande av person- och egendomsskador samt lagar och andra bestämmelser som gäller för arbetet."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen ellära – flyg omfattar punkterna 1–4 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3
+  ]
+}

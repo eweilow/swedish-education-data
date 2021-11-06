@@ -1,0 +1,271 @@
+{
+  "title": "Utbildningen samiska näringar",
+  "code": "UX",
+  "url": "https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola/programstruktur-och-examensmal/samiska-naringar",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "typeOfProgram": "NATIONAL_RECRUITMENT_FOR_LOCAL_SPECIALIZATION",
+  "applicableFrom": "2017-02-28T23:00:00.000Z",
+  "info": {
+    "degreeObjectives": [
+      "Utbildningen samiska näringar är en riksrekryterande yrkesutbildning inom gymnasieskolan med egna examensmål. Efter examen från utbildningen ska eleverna ha de grundläggande kunskaper som behövs för att arbeta inom verksamheter som rennäring, samiskt hantverk, samisk matkultur och turism.",
+      "Utbildningen ska utveckla elevernas förmåga att bedriva samisk näringsverksamhet anpassad till dagens och morgondagens förhållanden. Eleverna ska ges möjlighet att utveckla kunskaper om och färdigheter i att tillvarata naturens varaktiga resurser i de olika näringsverksamheterna. Utbildningen ska även utveckla elevernas kunskaper om och färdigheter i att förvalta det traditionella samiska kulturarvet som en bas för dagens levande samiska kultur.",
+      "Att värna om betesresurserna, markerna, viltet och fisken är en förutsättning för att långsiktigt kunna leva av de samiska näringarna. Respekt för naturen och det levande finns också djupt rotad i den samiska kulturen. Att bruka naturen på ett sätt som främjar hållbar utveckling och vårdar ekosystemen ställer krav på såväl biologiska och ekologiska som tekniska och ekonomiska kunskaper. Utbildningen ska utveckla elevernas förståelse av naturens mångfald och av hur olika verksamheter använder och påverkar naturen och biologiska processer. Den ska också ge eleverna möjlighet att utveckla färdigheter i att hantera redskap, tekniska hjälpmedel och terrängfordon. Utbildningen ska utveckla elevernas förmåga att kritiskt granska och reflektera över hur naturen kan brukas och förvaltas för en hållbar utveckling. I detta ingår ett globalt perspektiv på förvaltning av naturresurser samt kunskaper om internationellt samarbete.",
+      "Traditionella samiska kunskaper och förhållningssätt bärs i hög grad av samiska språk, men kommer också till uttryck bland annat i bildkonst, konsthantverk, litteratur, jojk och samisk musik. Utbildningen ska ge eleverna möjlighet att utveckla förmåga att argumentera och uttrycka ståndpunkter samt att söka, sovra, bearbeta och dokumentera information på svenska och samiska. Den ska också ge kunskaper om samisk kultur samt om samernas historia och samhällsutveckling fram till idag. Utbildningen ska utgå från ett samiskt perspektiv och ge eleverna möjlighet att diskutera och reflektera över identitet samt över sociala och kulturella frågor.",
+      "Verksamheterna inom det samiska kultur- och näringslivet ställer krav på kommunikation och samverkan med andra i olika sammanhang. Därför ska utbildningen bidra till elevernas kommunikations- och samarbetsförmåga. För att utveckla de samiska näringarna krävs innovativt tänkande, entreprenörskap och företagsamhet. Utbildningen ska därför ge eleverna möjlighet att utveckla dessa förmågor.",
+      "Utbildningen ska utveckla elevernas kunskaper om lagar och andra bestämmelser inom området. Arbetsmiljöfrågor ska ha en central plats i utbildningen för att förebygga arbetsskador och främja god hälsa.",
+      "Med utgångspunkt i praktiskt arbete och fältstudier inom samiskt kultur- och näringsliv ska utbildningen utveckla elevernas förmåga att ta initiativ och att lösa problem på ett ansvarsfullt sätt. Eleverna ska kunna planera och genomföra arbetsuppgifter samt bedöma arbetsresultat utifrån kvalitet, effektivitet och miljötänkande. Under utbildningen ska eleverna utveckla praktiska färdigheter som kopplas till förståelse och reflektion. Utbildningen ska ge eleverna möjlighet att ta ställning i etiska frågor och kunna omsätta sina ställningstaganden i praktisk handling.",
+      "Arbetsplatsförlagt lärande ska förekomma på utbildningen. Det arbetsplatsförlagda lärandet ska bidra till att eleverna utvecklar yrkeskunskaper och en yrkesidentitet samt förstår yrkeskulturen och blir en del av yrkesgemenskapen på en arbetsplats. Det arbetsplatsförlagda lärandet kan också ge inblick i företagandets villkor.",
+      "Examensmålet gäller för både skolförlagd utbildning och lärlingsutbildning."
+    ],
+    "orientation": {
+      "title": "Inriktningar",
+      "lines": [
+        "Utbildningen samiska näringar har inga inriktningar.",
+        "Utbildningen kan leda till arbete som renskötare, samisk hantverkare och guide till natur-, kultur- och matupplevelser inom besöksnäringen.",
+        "Utbildningen kan leda till fortsatta studier på yrkeshögskola."
+      ]
+    },
+    "educationObjectives": [
+      "Gymnasiearbetet ska visa att eleven är förberedd för det yrkesområde som gäller för den valda yrkesutgången. Det ska pröva elevens förmåga att utföra vanligt förekommande arbetsuppgifter inom yrkesområdet.",
+      "Gymnasiearbetet ska utföras på ett sådant sätt att eleven planerar, genomför och utvärderar sin uppgift.",
+      "Gymnasiearbetet kan utformas så att det ger eleverna möjlighet att pröva sitt yrkeskunnande i företagsliknande arbetsformer."
+    ]
+  },
+  "education": {
+    "mandatory": {
+      "courses": [
+        "ENGENG05",
+        "HISHIS01a1",
+        "IDRIDR01",
+        "MATMAT01a",
+        "NAKNAK01a1",
+        "RELREL01",
+        "SAMSAM01a1",
+        "SVASVA01",
+        "SVESVE01"
+      ],
+      "subjects": [
+        {
+          "code": "ENG",
+          "minPoints": 100,
+          "courses": [
+            "ENGENG05"
+          ]
+        },
+        {
+          "code": "HIS",
+          "minPoints": 50,
+          "courses": [
+            "HISHIS01a1"
+          ]
+        },
+        {
+          "code": "IDR",
+          "minPoints": 100,
+          "courses": [
+            "IDRIDR01"
+          ]
+        },
+        {
+          "code": "MAT",
+          "minPoints": 100,
+          "courses": [
+            "MATMAT01a"
+          ]
+        },
+        {
+          "code": "NAK",
+          "minPoints": 50,
+          "courses": [
+            "NAKNAK01a1"
+          ]
+        },
+        {
+          "code": "REL",
+          "minPoints": 50,
+          "courses": [
+            "RELREL01"
+          ]
+        },
+        {
+          "code": "SAM",
+          "minPoints": 50,
+          "courses": [
+            "SAMSAM01a1"
+          ]
+        },
+        {
+          "code": "SVA",
+          "minPoints": 100,
+          "courses": [
+            "SVASVA01"
+          ]
+        },
+        {
+          "code": "SVE",
+          "minPoints": 100,
+          "courses": [
+            "SVESVE01"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "program": {
+      "courses": [
+        "ENTENR0",
+        "NAGNAT01",
+        "NAKNAK01a2",
+        "RENREN01",
+        "RENREN02",
+        "SAESAM0",
+        "SAISAM0",
+        "SAISAM01S",
+        "SASSAM0"
+      ],
+      "subjects": [
+        {
+          "code": "ENT",
+          "minPoints": 100,
+          "courses": [
+            "ENTENR0"
+          ]
+        },
+        {
+          "code": "MOD",
+          "minPoints": 300,
+          "courses": []
+        },
+        {
+          "code": "NAG",
+          "minPoints": 100,
+          "courses": [
+            "NAGNAT01"
+          ]
+        },
+        {
+          "code": "NAK",
+          "minPoints": 50,
+          "courses": [
+            "NAKNAK01a2"
+          ]
+        },
+        {
+          "code": "REN",
+          "minPoints": 200,
+          "courses": [
+            "RENREN01",
+            "RENREN02"
+          ]
+        },
+        {
+          "code": "SAE",
+          "minPoints": 100,
+          "courses": [
+            "SAESAM0"
+          ]
+        },
+        {
+          "code": "SAI",
+          "minPoints": 150,
+          "courses": [
+            "SAISAM0",
+            "SAISAM01S"
+          ]
+        },
+        {
+          "code": "SAS",
+          "minPoints": 100,
+          "courses": [
+            "SASSAM0"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "specialization": {
+      "courses": [
+        "FÖRENT0",
+        "FÖSPER01",
+        "FÖSSEV0",
+        "NAGNAT02",
+        "RENREE01",
+        "RENREE02",
+        "RESHAL0",
+        "SAISAM02S",
+        "SAISAM03S",
+        "SAISAM04",
+        "SAISAM05",
+        "SKMTER0",
+        "SKOJAK01"
+      ],
+      "subjects": [
+        {
+          "code": "FÖR",
+          "minPoints": 100,
+          "courses": [
+            "FÖRENT0"
+          ]
+        },
+        {
+          "code": "FÖS",
+          "minPoints": 200,
+          "courses": [
+            "FÖSPER01",
+            "FÖSSEV0"
+          ]
+        },
+        {
+          "code": "NAG",
+          "minPoints": 200,
+          "courses": [
+            "NAGNAT02"
+          ]
+        },
+        {
+          "code": "REN",
+          "minPoints": 200,
+          "courses": [
+            "RENREE01",
+            "RENREE02"
+          ]
+        },
+        {
+          "code": "RES",
+          "minPoints": 100,
+          "courses": [
+            "RESHAL0"
+          ]
+        },
+        {
+          "code": "SAI",
+          "minPoints": 400,
+          "courses": [
+            "SAISAM02S",
+            "SAISAM03S",
+            "SAISAM04",
+            "SAISAM05"
+          ]
+        },
+        {
+          "code": "SKM",
+          "minPoints": 100,
+          "courses": [
+            "SKMTER0"
+          ]
+        },
+        {
+          "code": "SKO",
+          "minPoints": 100,
+          "courses": [
+            "SKOJAK01"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "orientations": [],
+    "profiles": [],
+    "professionalDegrees": []
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Ellära",
+  "code": "ELL",
+  "developmentPurposes": [
+    "Kunskaper om elsystemets uppbyggnad och funktion.",
+    "Kunskaper om lik- och enfasväxelströmskretsars uppbyggnad och funktion samt färdigheter i att mäta och beräkna elektriska storheter i dessa med belastningar av olika slag.",
+    "Kunskaper om trefassystems uppbyggnad och funktion samt färdigheter i att mäta och beräkna elektriska storheter i dessa med belastningar av olika slag.",
+    "Kunskaper om uppkomsten av störningar och om deras verkan på elsystemet.",
+    "Förmåga att söka och avhjälpa fel i lik- och enfasväxelströmskretsar.",
+    "Förmåga att söka och avhjälpa fel i trefassystem.",
+    "Kunskaper om säkerhetsfrågor och om bestämmelser och standarder inom elområdet."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet ellära ska syfta till att eleverna utvecklar färdigheter i att mäta och beräkna elektriska storheter i lik- och enfasväxelströmskretsar samt i trefassystem med belastningar av olika slag. Den ska också bidra till att eleverna utvecklar förmåga att söka och avhjälpa fel i lik- och enfasväxelströmskretsar samt i trefassystem. Dessutom ska undervisningen leda till att eleverna utvecklar förståelse av hur ledningsbundna störningar uppkommer samt deras verkan på elsystemet.",
+    "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om säkerhetsfrågor och om bestämmelser och standarder inom elområdet.",
+    "Undervisningen ska ge eleverna möjlighet att praktiskt utföra mätning och beräkning av elektriska storheter i lik- och enfasväxelströmskretsar samt i trefassystem. Den ska också bidra till att eleverna ges möjlighet att praktiskt söka och avhjälpa fel med hjälp av scheman, ritningar, mätinstrument och övrig utrustning."
+  ],
+  "courseInfo": {
+    "ELLELL01": "Ellära 1, 100 poäng.",
+    "ELLELL02": "Ellära 2, 100 poäng, som bygger på kursen ellära 1.",
+    "ELLPRA0": "Praktisk ellära, 100 poäng."
+  },
+  "description": "Ämnet ellära behandlar lik- och enfasväxelströmskretsar samt trefassystem med belastningar av olika slag. Det behandlar också ledningsburna störningar och säkerhetsfrågor.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "VOCATIONAL",
+  "applicableFrom": "2018-07-31T22:00:00.000Z",
+  "courses": [
+    "ELLELL01",
+    "ELLELL02",
+    "ELLPRA0"
+  ]
+}

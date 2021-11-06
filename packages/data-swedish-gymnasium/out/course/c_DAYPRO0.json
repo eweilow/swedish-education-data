@@ -1,0 +1,98 @@
+{
+  "subject": "DAY",
+  "title": "Programmerbara datorsystem – spårfordon",
+  "code": "DAYPRO0",
+  "points": 200,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> hur datorsystemet och kommunikationsplattformen hos spårfordon är uppbyggda och fungerar samt hur data överförs mellan olika delsystem.",
+        "Eleven beskriver också <strong>utförligt och nyanserat</strong> kraven på funktions- och säkerhetssystemens funktionalitet och tillförlitlighet samt systemens betydelse vid förebyggande och avhjälpande underhåll.",
+        "<strong>Efter samråd</strong> med handledare genomför eleven med <strong>mycket gott</strong> handlag mätningar och tolkar <strong>med säkerhet</strong> resultatet hos givare, ställdon och sensorer samt mäter, installerar, konfigurerar, driftsätter och underhåller styr- och reglertekniska komponenter och system."
+      ],
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för olika programspråk och applikationsprogram och genomför <strong>efter samråd</strong> med handledare grundläggande programmering av styr- och reglersystem, enklare programändringar i spårfordonsdatorn samt <strong>med säkerhet</strong> konfigurering av överordnade system."
+      ],
+      [
+        "Eleven planerar och utför arbeten <strong>efter samråd</strong> med handledare och hanterar då <strong>med säkerhet</strong> verktyg och teknisk utrustning och tolkar <strong>med säkerhet</strong> tillämplig systemdokumentation.",
+        "Efter utfört arbete dokumenterar eleven arbetet med <strong>gott</strong> resultat utifrån givna regler.",
+        "Under arbetet tillämpar eleven <strong>med säkerhet</strong> de regler och instruktioner som omfattar utförande och säkerhet."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> hur datorsystemet och kommunikationsplattformen hos spårfordon är uppbyggda och fungerar samt hur data överförs mellan olika delsystem.",
+        "Eleven beskriver också <strong>utförligt</strong> kraven på funktions- och säkerhetssystemens funktionalitet och tillförlitlighet samt systemens betydelse vid förebyggande och avhjälpande underhåll.",
+        "<strong>Efter samråd</strong> med handledare genomför eleven med <strong>gott</strong> handlag mätningar och tolkar <strong>med säkerhe</strong>t resultatet hos givare, ställdon och sensorer samt mäter, installerar, konfigurerar, driftsätter och underhåller styr- och reglertekniska komponenter och system."
+      ],
+      [
+        "Eleven redogör <strong>utförligt</strong> för olika programspråk och applikationsprogram och genomför <strong>efter samråd</strong> med handledare grundläggande programmering av styr- och reglersystem, enklare programändringar i spårfordonsdatorn samt <strong>med säkerhet</strong> konfigurering av överordnade system."
+      ],
+      [
+        "Eleven planerar och utför arbeten <strong>efter samråd</strong> med handledare och hanterar då <strong>med säkerhet</strong> verktyg och teknisk utrustning och tolkar <strong>med säkerhet</strong> tillämplig systemdokumentation.",
+        "Efter utfört arbete dokumenterar eleven arbetet med <strong>tillfredsställande</strong> resultat utifrån givna regler.",
+        "Under arbetet tillämpar eleven <strong>med säkerhet</strong> de regler och instruktioner som omfattar utförande och säkerhet."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> hur datorsystemet och kommunikationsplattformen hos spårfordon är uppbyggda och fungerar samt hur data överförs mellan olika delsystem.",
+        "Eleven beskriver också <strong>översiktligt</strong> kraven på funktions- och säkerhetssystemens funktionalitet och tillförlitlighet samt systemens betydelse vid förebyggande och avhjälpande underhåll.",
+        "<strong>I samråd</strong> med handledare genomför eleven med <strong>visst</strong> handlag mätningar och tolkar <strong>med viss säkerhet</strong> resultatet hos givare, ställdon och sensorer samt mäter, installerar, konfigurerar, driftsätter och underhåller styr- och reglertekniska komponenter och system."
+      ],
+      [
+        "Eleven redogör <strong>översiktligt</strong> för olika programspråk och applikationsprogram och genomför <strong>i samråd</strong> med handledare grundläggande programmering av styr- och reglersystem, enklare programändringar i spårfordonsdatorn samt <strong>med viss säkerhet</strong> konfigurering av överordnade system."
+      ],
+      [
+        "Eleven planerar och utför arbeten <strong>i samråd</strong> med handledare och hanterar då med <strong>visst</strong> handlag verktyg och teknisk utrustning och tolkar <strong>med viss säkerhet</strong> tillämplig systemdokumentation.",
+        "Efter utfört arbete dokumenterar eleven arbetet med <strong>tillfredsställande</strong> resultat utifrån givna regler.",
+        "Under arbetet tillämpar eleven <strong>med viss säkerhet</strong> de regler och instruktioner som omfattar utförande och säkerhet."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Uppbyggnad, topologi och funktion hos fordonsdatorsystem samt för- och nackdelar med olika styrsystem, historik och utveckling.",
+        "Kommunikationsplattformen mellan spårfordonsdator och övriga system.",
+        "Fordonsdatorsystemets roll inom förebyggande och avhjälpande underhåll.",
+        "Realtidsdatorer, operativsystem, komponenter och användning.",
+        "Fältbussar och distribuerad I/O.",
+        "Givare och sensorer, till exempel för mätning av hastighet, temperatur, tryck, flöde och nivå.",
+        "Mäta och tolka ingenjörsstorheter.",
+        "Inkoppling av givare och ställdon till programmerbara styrsystem.",
+        "Metoder för grundläggande felsökning i anläggningar med distribuerade styrsystem, till exempel verktyg för visualisering av virtuella data och jämförelser av data med mätningar av samma signal på plint.",
+        "Exempel på programspråk och applikationsprogram.",
+        "Programmeringsmetoder, till exempel funktionsblock, strukturerad text och instruktionsprogrammering.",
+        "Programmeringsteknik och programmering av styr- och reglersystem.",
+        "Konfigurering och programmering av styr- och reglertekniska anläggningar med distribuerade kontrollenheter.",
+        "Programstruktur och mjukvaruscheman för spårfordon.",
+        "Programändring i spårfordonssystem.",
+        "Verktyg, scheman, ritningar, datablad och övrig dokumentation samt dokumentationsrutiner för genomfört arbete.",
+        "Regler och föreskrifter.",
+        "Säkerhet för arbete med fordonsdatorn som verktyg."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen programmerbara datorsystem – spårfordon omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Snöfordonsteknik",
+  "code": "SNO",
+  "developmentPurposes": [
+    "Kunskaper om snöfordon samt om deras utrustning och användningsområden.",
+    "Kunskaper om snöfordons komponenter och system, samt förståelse av hur de samverkar.",
+    "Förmåga att utföra diagnos, service, underhåll och reparation av snöfordon.",
+    "Förmåga att utföra funktions- och säkerhetskontroll.",
+    "Förmåga att välja och använda arbetsmetoder och utrustning.",
+    "Förmåga att utföra olika typer av arbeten på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.",
+    "Förmåga att köra och manövrera pistmaskin i skiftande skidområden med rätt nyttjande av pistmaskinens kapacitet.",
+    "Förmåga att använda såväl svenska som engelska manualer samt digitala informationssystem.",
+    "Förmåga att använda ett yrkesmässigt språk."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet snöfordonsteknik ska syfta till att eleverna utvecklar förmåga att framföra samt att genomföra diagnos, service, underhåll och reparationer av snöfordon. Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om de system och komponenter som förekommer i snöfordon samt förståelse av hur dessa samverkar. Undervisningen ska leda till att eleverna utvecklar tekniskt kunnande inom området snöfordon samt förmåga att använda teknik på ett korrekt sätt i ett givet sammanhang. Undervisningen ska ge eleverna möjlighet att utveckla förmåga att arbeta med problemlösning såväl självständigt som tillsammans med andra.",
+    "Undervisningen ska bidra till att stimulera elevernas intresse för snöfordon, deras utrustning och teknik. Undervisningen ska även leda till att eleverna utvecklar förmåga att hantera och framföra olika typer av snöfordon. Genom undervisningen ska eleverna även ges möjlighet att utveckla en yrkesidentitet och förmåga att använda ett yrkesmässigt språk.",
+    "I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Dessa arbetsuppgifter ska utgå från ett problemlösande och laborativt arbetssätt."
+  ],
+  "courseInfo": {
+    "SNOPIS0": "Pistmaskinkörning, 100 poäng.",
+    "SNOREP0": "Reparation av snöfordon, 300 poäng.",
+    "SNOREE0": "Reparation av snöskoter, 100 poäng, som bygger på kursen reparation av snöfordon, kursen reparation av lastbilar och mobila maskiner eller reparation av personbilar och lätta transportfordon.",
+    "SNOSNO0": "Snöfordon – introduktion, 200 poäng, som bygger på kursen fordonsteknik – introduktion.",
+    "SNOPIM0": "Pistmaskiner och utrustning, 200 poäng, som bygger på kursen snöfordon – introduktion samt kursen reparation av snöfordon."
+  },
+  "description": "Ämnet snöfordonsteknik behandlar funktion hos samt handhavande och framförande av snöfordon. Det behandlar också tillsyn, felsökning, service och reparation av snöfordon. Ämnet behandlar vidare olika användningsområden för snöfordon.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "VOCATIONAL",
+  "applicableFrom": "2011-12-05T23:00:00.000Z",
+  "courses": [
+    "SNOPIM0",
+    "SNOPIS0",
+    "SNOREE0",
+    "SNOREP0",
+    "SNOSNO0"
+  ]
+}

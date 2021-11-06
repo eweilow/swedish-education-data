@@ -1,0 +1,1089 @@
+{
+  "title": "Bygg- och anläggningsprogrammet",
+  "code": "BA",
+  "url": "https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola/programstruktur-och-examensmal/bygg-och-anlaggningsprogrammet",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "typeOfProgram": "VOCATIONAL_PROGRAM",
+  "applicableFrom": "2018-07-31T22:00:00.000Z",
+  "info": {
+    "degreeObjectives": [
+      "Bygg- och anläggningsprogrammet är ett yrkesprogram. Efter examen från programmet ska eleverna ha de kunskaper som behövs för att arbeta inom något av bygg- och anläggningsbranschens yrken, till exempel som anläggningsarbetare, anläggningsmaskinförare, byggnadsarbetare, byggnadsmålare eller plåtslagare.",
+      "Utbildningen ska utveckla elevernas kunskaper om och färdigheter i byggnation och anläggning vid till exempel nyproduktion, ombyggnad och renovering. Eftersom bygg- och anläggningsarbete påverkar samhällets infrastruktur och de miljöer man vistas i ska utbildningen ge kunskaper om ett rationellt, säkert och miljömässigt hållbart byggande. Utbildningen ska också ge kunskaper om branschens olika yrken och arbetsprocesser samt om entreprenörskap och företagande, vilket ger en god grund för samverkan på arbetsplatsen och med kunder.",
+      "Byggarbetsplatsen är föränderlig och arbetet sker både inomhus och utomhus. Dessutom förändras och utvecklas arbetsmetoder, material, verk-tyg och hjälpmedel. Detta ställer krav på ett flexibelt förhållningssätt och kontinuerligt lärande i arbetslivet. Utbildningen ska därför utveckla elevernas kreativitet och initiativförmåga. Den ska också bidra till att utveckla elevernas förmåga att använda digital teknik som förekommer inom för utbildningen relevanta yrkesområden. De ska kunna arbeta självständigt och tillsammans med andra. Arbetet ska genomföras på ett ergonomiskt, hälsosamt och säkert sätt för att förebygga förslitningar och andra arbetsskador. Utbildningen ska ge kunskaper om arbetsmiljöregler och säkerhetsbestämmelser.",
+      "Bygg- och anläggningsbranschen hanterar stora ekonomiska värden. Arbetet genomförs utifrån kundens beställning och i enlighet med gällande lagar, föreskrifter och andra bestämmelser. Utbildningen ska därför ge eleverna kunskaper om och färdigheter i att planera, genomföra, dokumentera och kvalitetssäkra arbetet med tidsenliga metoder och hjälpmedel. Eleverna ska kunna välja, använda och vårda material, verktyg och maskiner med hänsyn till säkerhet samt miljö, kvalitet och ekonomi, både när det gäller produktions- och livscykelkostnader. Utbildningen ska även utveckla elevernas förmåga att lösa problem i det dagliga arbetet och att ta till vara erfarenheter av tidigare byggprojekt.",
+      "Utbildningen ska utveckla elevernas förståelse av sin egen och yrkets betydelse i arbets- och samhällslivet. I samarbetet på arbetsplatsen och i kundrelationer ställs krav på kommunikationsförmåga och förståelse för andra människor och andra yrkesgrupper. Eleverna ska därför i alla ämnen arbeta med att utveckla sitt språk och få möjlighet att möta och diskutera olika perspektiv på människors livsvillkor i samhället.",
+      "Arbetsplatsförlagt lärande ska förekomma på alla yrkesprogram. Det arbetsplatsförlagda lärandet ska bidra till att eleverna utvecklar yrkeskunskaper och en yrkesidentitet samt förstår yrkeskulturen och blir en del av yrkesgemenskapen på en arbetsplats. Det arbetsplatsförlagda lärandet kan också ge inblick i företagandets villkor.",
+      "Examensmålet gäller för både skolförlagd utbildning och lärlingsutbildning."
+    ],
+    "orientation": {
+      "title": "Inriktningar",
+      "lines": [
+        "Bygg- och anläggningsprogrammet har fem inriktningar.",
+        "Samtliga inriktningar kan leda till fortsatta studier på yrkeshögskola."
+      ]
+    },
+    "educationObjectives": [
+      "Gymnasiearbetet ska visa att eleven är förberedd för det yrkesområde som gäller för den valda yrkesutgången. Det ska pröva elevens förmåga att utföra vanligt förekommande arbetsuppgifter inom yrkesområdet.",
+      "Gymnasiearbetet ska utföras på ett sådant sätt att eleven planerar, genomför och utvärderar sin uppgift.",
+      "Gymnasiearbetet kan utformas så att det ger eleverna möjlighet att pröva sitt yrkeskunnande i företagsliknande arbetsformer."
+    ]
+  },
+  "education": {
+    "mandatory": {
+      "courses": [
+        "ENGENG05",
+        "HISHIS01a1",
+        "IDRIDR01",
+        "MATMAT01a",
+        "NAKNAK01a1",
+        "RELREL01",
+        "SAMSAM01a1",
+        "SVASVA01",
+        "SVESVE01"
+      ],
+      "subjects": [
+        {
+          "code": "ENG",
+          "minPoints": 100,
+          "courses": [
+            "ENGENG05"
+          ]
+        },
+        {
+          "code": "HIS",
+          "minPoints": 50,
+          "courses": [
+            "HISHIS01a1"
+          ]
+        },
+        {
+          "code": "IDR",
+          "minPoints": 100,
+          "courses": [
+            "IDRIDR01"
+          ]
+        },
+        {
+          "code": "MAT",
+          "minPoints": 100,
+          "courses": [
+            "MATMAT01a"
+          ]
+        },
+        {
+          "code": "NAK",
+          "minPoints": 50,
+          "courses": [
+            "NAKNAK01a1"
+          ]
+        },
+        {
+          "code": "REL",
+          "minPoints": 50,
+          "courses": [
+            "RELREL01"
+          ]
+        },
+        {
+          "code": "SAM",
+          "minPoints": 50,
+          "courses": [
+            "SAMSAM01a1"
+          ]
+        },
+        {
+          "code": "SVA",
+          "minPoints": 100,
+          "courses": [
+            "SVASVA01"
+          ]
+        },
+        {
+          "code": "SVE",
+          "minPoints": 100,
+          "courses": [
+            "SVESVE01"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "program": {
+      "courses": [
+        "BYGBYG01",
+        "BYGBYG02"
+      ],
+      "subjects": [
+        {
+          "code": "BYG",
+          "minPoints": 400,
+          "courses": [
+            "BYGBYG01",
+            "BYGBYG02"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "specialization": {
+      "courses": [
+        "ANLANÄ0",
+        "ANLANG0",
+        "ANLANL0",
+        "ANLANL01",
+        "ANLANL02",
+        "ANLANN0",
+        "ANLANS0",
+        "ARKARI0",
+        "ARKARK0",
+        "BELBEÄ0",
+        "BELBEG0",
+        "BELBEL0",
+        "BERBEB0",
+        "BERBEM0",
+        "BERBEP0",
+        "BERBER0",
+        "BETBET01",
+        "BETBET02",
+        "BETBET03",
+        "BETBET04",
+        "CADCAD01",
+        "CADCAD02",
+        "DESDES01",
+        "ELMELM0",
+        "ENTENR0",
+        "FÖRENT0",
+        "FÖRFÖR01",
+        "FYSFYS01a",
+        "GOLGOL01",
+        "GOLGOL02",
+        "GOLGOL03",
+        "HÅLHÅB0",
+        "HUBSPC01S",
+        "HUBSPC02S",
+        "HUBSPC03S",
+        "HUSHUB0",
+        "HUSHUS01",
+        "HUSHUS02",
+        "HUSHUS03",
+        "JÄRJÄR01",
+        "JÄRJÄR02",
+        "JÄRJÄR03",
+        "LACFÄR0",
+        "LACINS0",
+        "LACLAK0",
+        "MARMAE0",
+        "MARMAL0",
+        "MARMAL01",
+        "MARMAL02",
+        "MARMAL03",
+        "MARMAL04",
+        "MARMAL05",
+        "MARMAR0",
+        "MATMAT02a",
+        "MOBGRV0",
+        "MOBHJU0",
+        "MOTMOT01",
+        "MURMUR01",
+        "MURMUR02",
+        "MURMUR03",
+        "PLÅPLÅ0",
+        "PLÅPLS0",
+        "PLTBYG01",
+        "PLTBYG02",
+        "PLTBYG03",
+        "PLTBYG04",
+        "PLTKUU0",
+        "PLTLÄT0",
+        "PLTPLT0",
+        "PRRPRR01",
+        "SVASVA02",
+        "SVESVE02",
+        "TÄTTÄT0",
+        "TEKTEK01",
+        "TIATIL00S",
+        "TRÄBYG0",
+        "TRÄTIM0",
+        "TRÄTRK01",
+        "TRÄTRK02",
+        "TRÄTRK03",
+        "VEIVEN0",
+        "VEIVEN01",
+        "VEIVEN02",
+        "VEIVET0",
+        "VELVEN01",
+        "VELVET02",
+        "VETLUF0",
+        "VETVEL0"
+      ],
+      "subjects": [
+        {
+          "code": "ANL",
+          "minPoints": 1100,
+          "courses": [
+            "ANLANÄ0",
+            "ANLANG0",
+            "ANLANL0",
+            "ANLANL01",
+            "ANLANL02",
+            "ANLANN0",
+            "ANLANS0"
+          ]
+        },
+        {
+          "code": "ARK",
+          "minPoints": 200,
+          "courses": [
+            "ARKARI0",
+            "ARKARK0"
+          ]
+        },
+        {
+          "code": "BEL",
+          "minPoints": 400,
+          "courses": [
+            "BELBEÄ0",
+            "BELBEG0",
+            "BELBEL0"
+          ]
+        },
+        {
+          "code": "BER",
+          "minPoints": 700,
+          "courses": [
+            "BERBEB0",
+            "BERBEM0",
+            "BERBEP0",
+            "BERBER0"
+          ]
+        },
+        {
+          "code": "BET",
+          "minPoints": 400,
+          "courses": [
+            "BETBET01",
+            "BETBET02",
+            "BETBET03",
+            "BETBET04"
+          ]
+        },
+        {
+          "code": "CAD",
+          "minPoints": 100,
+          "courses": [
+            "CADCAD01",
+            "CADCAD02"
+          ]
+        },
+        {
+          "code": "DES",
+          "minPoints": 100,
+          "courses": [
+            "DESDES01"
+          ]
+        },
+        {
+          "code": "ELM",
+          "minPoints": 100,
+          "courses": [
+            "ELMELM0"
+          ]
+        },
+        {
+          "code": "ENT",
+          "minPoints": 100,
+          "courses": [
+            "ENTENR0"
+          ]
+        },
+        {
+          "code": "FÖR",
+          "minPoints": 200,
+          "courses": [
+            "FÖRENT0",
+            "FÖRFÖR01"
+          ]
+        },
+        {
+          "code": "FYS",
+          "minPoints": 150,
+          "courses": [
+            "FYSFYS01a"
+          ]
+        },
+        {
+          "code": "GOL",
+          "minPoints": 400,
+          "courses": [
+            "GOLGOL01",
+            "GOLGOL02",
+            "GOLGOL03"
+          ]
+        },
+        {
+          "code": "HÅL",
+          "minPoints": 100,
+          "courses": [
+            "HÅLHÅB0"
+          ]
+        },
+        {
+          "code": "HUB",
+          "minPoints": 500,
+          "courses": [
+            "HUBSPC01S",
+            "HUBSPC02S",
+            "HUBSPC03S"
+          ]
+        },
+        {
+          "code": "HUS",
+          "minPoints": 700,
+          "courses": [
+            "HUSHUB0",
+            "HUSHUS01",
+            "HUSHUS02",
+            "HUSHUS03"
+          ]
+        },
+        {
+          "code": "JÄR",
+          "minPoints": 500,
+          "courses": [
+            "JÄRJÄR01",
+            "JÄRJÄR02",
+            "JÄRJÄR03"
+          ]
+        },
+        {
+          "code": "LAC",
+          "minPoints": 400,
+          "courses": [
+            "LACFÄR0",
+            "LACINS0",
+            "LACLAK0"
+          ]
+        },
+        {
+          "code": "MAR",
+          "minPoints": 1400,
+          "courses": [
+            "MARMAE0",
+            "MARMAL0",
+            "MARMAL01",
+            "MARMAL02",
+            "MARMAL03",
+            "MARMAL04",
+            "MARMAL05",
+            "MARMAR0"
+          ]
+        },
+        {
+          "code": "MAT",
+          "minPoints": 100,
+          "courses": [
+            "MATMAT02a"
+          ]
+        },
+        {
+          "code": "MOB",
+          "minPoints": 400,
+          "courses": [
+            "MOBGRV0",
+            "MOBHJU0"
+          ]
+        },
+        {
+          "code": "MOT",
+          "minPoints": 100,
+          "courses": [
+            "MOTMOT01"
+          ]
+        },
+        {
+          "code": "MUR",
+          "minPoints": 300,
+          "courses": [
+            "MURMUR01",
+            "MURMUR02",
+            "MURMUR03"
+          ]
+        },
+        {
+          "code": "PLÅ",
+          "minPoints": 300,
+          "courses": [
+            "PLÅPLÅ0",
+            "PLÅPLS0"
+          ]
+        },
+        {
+          "code": "PLT",
+          "minPoints": 1200,
+          "courses": [
+            "PLTBYG01",
+            "PLTBYG02",
+            "PLTBYG03",
+            "PLTBYG04",
+            "PLTKUU0",
+            "PLTLÄT0",
+            "PLTPLT0"
+          ]
+        },
+        {
+          "code": "PRR",
+          "minPoints": 100,
+          "courses": [
+            "PRRPRR01"
+          ]
+        },
+        {
+          "code": "SVA",
+          "minPoints": 100,
+          "courses": [
+            "SVASVA02"
+          ]
+        },
+        {
+          "code": "SVE",
+          "minPoints": 100,
+          "courses": [
+            "SVESVE02"
+          ]
+        },
+        {
+          "code": "TÄT",
+          "minPoints": 100,
+          "courses": [
+            "TÄTTÄT0"
+          ]
+        },
+        {
+          "code": "TEK",
+          "minPoints": 150,
+          "courses": [
+            "TEKTEK01"
+          ]
+        },
+        {
+          "code": "TIA",
+          "minPoints": 100,
+          "courses": [
+            "TIATIL00S"
+          ]
+        },
+        {
+          "code": "TRÄ",
+          "minPoints": 500,
+          "courses": [
+            "TRÄBYG0",
+            "TRÄTIM0",
+            "TRÄTRK01",
+            "TRÄTRK02",
+            "TRÄTRK03"
+          ]
+        },
+        {
+          "code": "VEI",
+          "minPoints": 500,
+          "courses": [
+            "VEIVEN0",
+            "VEIVEN01",
+            "VEIVEN02",
+            "VEIVET0"
+          ]
+        },
+        {
+          "code": "VEL",
+          "minPoints": 300,
+          "courses": [
+            "VELVEN01",
+            "VELVET02"
+          ]
+        },
+        {
+          "code": "VET",
+          "minPoints": 200,
+          "courses": [
+            "VETLUF0",
+            "VETVEL0"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "orientations": [
+      {
+        "name": "Anläggningsfordon",
+        "code": "BAANL",
+        "points": 900,
+        "courses": [
+          "ANAANA01",
+          "ANAANA02",
+          "ANAANA03",
+          "ANAANA04",
+          "ANAANL0"
+        ],
+        "subjects": [
+          {
+            "code": "ANA",
+            "minPoints": 900,
+            "courses": [
+              "ANAANA01",
+              "ANAANA02",
+              "ANAANA03",
+              "ANAANA04",
+              "ANAANL0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Husbyggnad",
+        "code": "BAHUS",
+        "points": 700,
+        "courses": [
+          "HUSHUB0",
+          "HUSHUS01",
+          "HUSHUS02",
+          "HUSHUS03"
+        ],
+        "subjects": [
+          {
+            "code": "HUS",
+            "minPoints": 700,
+            "courses": [
+              "HUSHUB0",
+              "HUSHUS01",
+              "HUSHUS02",
+              "HUSHUS03"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Mark och anläggning",
+        "code": "BAMAR",
+        "points": 500,
+        "courses": [
+          "ANLANL01",
+          "ANLANL02",
+          "ANLANS0"
+        ],
+        "subjects": [
+          {
+            "code": "ANL",
+            "minPoints": 500,
+            "courses": [
+              "ANLANL01",
+              "ANLANL02",
+              "ANLANS0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Måleri",
+        "code": "BAMAL",
+        "points": 400,
+        "courses": [
+          "MARMAL0",
+          "MARMAL01"
+        ],
+        "subjects": [
+          {
+            "code": "MAR",
+            "minPoints": 400,
+            "courses": [
+              "MARMAL0",
+              "MARMAL01"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Plåtslageri",
+        "code": "BAPLA",
+        "points": 400,
+        "courses": [
+          "PLÅPLÅ0",
+          "PLÅPLS0",
+          "VELVEN01"
+        ],
+        "subjects": [
+          {
+            "code": "PLÅ",
+            "minPoints": 300,
+            "courses": [
+              "PLÅPLÅ0",
+              "PLÅPLS0"
+            ]
+          },
+          {
+            "code": "VEL",
+            "minPoints": 100,
+            "courses": [
+              "VELVEN01"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      }
+    ],
+    "profiles": [],
+    "professionalDegrees": [
+      {
+        "name": "Anläggningsmaskinförare",
+        "code": "BAANL",
+        "courses": [
+          "ANLANÄ0",
+          "ANLANN0"
+        ],
+        "subjects": [
+          {
+            "code": "ANL",
+            "minPoints": 300,
+            "courses": [
+              "ANLANÄ0",
+              "ANLANN0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Beläggningsarbetare",
+        "code": "BAMAR",
+        "courses": [
+          "ANLANG0",
+          "BELBEÄ0",
+          "BELBEG0",
+          "BELBEL0",
+          "MOBHJU0"
+        ],
+        "subjects": [
+          {
+            "code": "ANL",
+            "minPoints": 100,
+            "courses": [
+              "ANLANG0"
+            ]
+          },
+          {
+            "code": "BEL",
+            "minPoints": 400,
+            "courses": [
+              "BELBEÄ0",
+              "BELBEG0",
+              "BELBEL0"
+            ]
+          },
+          {
+            "code": "MOB",
+            "minPoints": 200,
+            "courses": [
+              "MOBHJU0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Bergarbetare",
+        "code": "BAMAR",
+        "courses": [
+          "BERBEB0",
+          "BERBEM0",
+          "BERBEP0",
+          "BERBER0"
+        ],
+        "subjects": [
+          {
+            "code": "BER",
+            "minPoints": 700,
+            "courses": [
+              "BERBEB0",
+              "BERBEM0",
+              "BERBEP0",
+              "BERBER0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Betongarbetare",
+        "code": "BAHUS",
+        "courses": [
+          "BETBET01",
+          "BETBET02",
+          "BETBET03"
+        ],
+        "subjects": [
+          {
+            "code": "BET",
+            "minPoints": 300,
+            "courses": [
+              "BETBET01",
+              "BETBET02",
+              "BETBET03"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Byggnadsmålare",
+        "code": "BAMAL",
+        "courses": [
+          "MARMAL02",
+          "MARMAL03",
+          "MARMAL04"
+        ],
+        "subjects": [
+          {
+            "code": "MAR",
+            "minPoints": 600,
+            "courses": [
+              "MARMAL02",
+              "MARMAL03",
+              "MARMAL04"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Byggnadsplåtslagare",
+        "code": "BAPLA",
+        "courses": [
+          "PLTBYG01",
+          "PLTBYG02",
+          "PLTBYG03"
+        ],
+        "subjects": [
+          {
+            "code": "PLT",
+            "minPoints": 600,
+            "courses": [
+              "PLTBYG01",
+              "PLTBYG02",
+              "PLTBYG03"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Glastekniker",
+        "code": "BAHUS",
+        "courses": [
+          "HUBSPC01S",
+          "HUBSPC02S",
+          "HUBSPC03S"
+        ],
+        "subjects": [
+          {
+            "code": "HUB",
+            "minPoints": 500,
+            "courses": [
+              "HUBSPC01S",
+              "HUBSPC02S",
+              "HUBSPC03S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Golvläggare",
+        "code": "BAHUS",
+        "courses": [
+          "GOLGOL01",
+          "GOLGOL02",
+          "GOLGOL03"
+        ],
+        "subjects": [
+          {
+            "code": "GOL",
+            "minPoints": 400,
+            "courses": [
+              "GOLGOL01",
+              "GOLGOL02",
+              "GOLGOL03"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Håltagare",
+        "code": "BAHUS",
+        "courses": [
+          "HUBSPC01S",
+          "HUBSPC02S"
+        ],
+        "subjects": [
+          {
+            "code": "HUB",
+            "minPoints": 300,
+            "courses": [
+              "HUBSPC01S",
+              "HUBSPC02S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Järnvägstekniker",
+        "code": "BAMAR",
+        "courses": [
+          "JÄRJÄR01",
+          "JÄRJÄR02",
+          "JÄRJÄR03",
+          "MOBHJU0"
+        ],
+        "subjects": [
+          {
+            "code": "JÄR",
+            "minPoints": 500,
+            "courses": [
+              "JÄRJÄR01",
+              "JÄRJÄR02",
+              "JÄRJÄR03"
+            ]
+          },
+          {
+            "code": "MOB",
+            "minPoints": 200,
+            "courses": [
+              "MOBHJU0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Murare",
+        "code": "BAHUS",
+        "courses": [
+          "MURMUR01",
+          "MURMUR02",
+          "MURMUR03"
+        ],
+        "subjects": [
+          {
+            "code": "MUR",
+            "minPoints": 300,
+            "courses": [
+              "MURMUR01",
+              "MURMUR02",
+              "MURMUR03"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Plattsättare",
+        "code": "BAHUS",
+        "courses": [
+          "HUBSPC01S",
+          "HUBSPC02S"
+        ],
+        "subjects": [
+          {
+            "code": "HUB",
+            "minPoints": 300,
+            "courses": [
+              "HUBSPC01S",
+              "HUBSPC02S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Stenmontör",
+        "code": "BAHUS",
+        "courses": [
+          "HUBSPC01S",
+          "HUBSPC02S"
+        ],
+        "subjects": [
+          {
+            "code": "HUB",
+            "minPoints": 300,
+            "courses": [
+              "HUBSPC01S",
+              "HUBSPC02S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Ställningsbyggare",
+        "code": "BAHUS",
+        "courses": [
+          "HUBSPC01S",
+          "HUBSPC02S"
+        ],
+        "subjects": [
+          {
+            "code": "HUB",
+            "minPoints": 300,
+            "courses": [
+              "HUBSPC01S",
+              "HUBSPC02S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Takmontör",
+        "code": "BAHUS",
+        "courses": [
+          "HUBSPC01S",
+          "HUBSPC02S"
+        ],
+        "subjects": [
+          {
+            "code": "HUB",
+            "minPoints": 300,
+            "courses": [
+              "HUBSPC01S",
+              "HUBSPC02S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Träarbetare",
+        "code": "BAHUS",
+        "courses": [
+          "TRÄTRK01",
+          "TRÄTRK02",
+          "TRÄTRK03"
+        ],
+        "subjects": [
+          {
+            "code": "TRÄ",
+            "minPoints": 300,
+            "courses": [
+              "TRÄTRK01",
+              "TRÄTRK02",
+              "TRÄTRK03"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Undertaksmontör",
+        "code": "BAHUS",
+        "courses": [
+          "HUBSPC01S",
+          "HUBSPC02S"
+        ],
+        "subjects": [
+          {
+            "code": "HUB",
+            "minPoints": 300,
+            "courses": [
+              "HUBSPC01S",
+              "HUBSPC02S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Ventilationsplåtslagare",
+        "code": "BAPLA",
+        "courses": [
+          "VEIVEN01",
+          "VEIVEN02",
+          "VEIVET0",
+          "VELVET02"
+        ],
+        "subjects": [
+          {
+            "code": "VEI",
+            "minPoints": 400,
+            "courses": [
+              "VEIVEN01",
+              "VEIVEN02",
+              "VEIVET0"
+            ]
+          },
+          {
+            "code": "VEL",
+            "minPoints": 200,
+            "courses": [
+              "VELVET02"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Väg- och anläggningsarbetare (mot gaturum och parker)",
+        "code": "BAMAR",
+        "courses": [
+          "ANLANÄ0",
+          "ANLANG0",
+          "ANLANL0"
+        ],
+        "subjects": [
+          {
+            "code": "ANL",
+            "minPoints": 500,
+            "courses": [
+              "ANLANÄ0",
+              "ANLANG0",
+              "ANLANL0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Väg- och anläggningsarbetare (mot väg och infrastruktur)",
+        "code": "BAMAR",
+        "courses": [
+          "ANLANÄ0",
+          "ANLANN0",
+          "MOBGRV0",
+          "MOBHJU0"
+        ],
+        "subjects": [
+          {
+            "code": "ANL",
+            "minPoints": 300,
+            "courses": [
+              "ANLANÄ0",
+              "ANLANN0"
+            ]
+          },
+          {
+            "code": "MOB",
+            "minPoints": 400,
+            "courses": [
+              "MOBGRV0",
+              "MOBHJU0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      }
+    ]
+  }
+}

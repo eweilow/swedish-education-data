@@ -1,0 +1,34 @@
+{
+  "title": "Ellära – spårfordon",
+  "code": "LLA",
+  "developmentPurposes": [
+    "Kunskaper om elsystems och spänningskällors ingående komponenter, uppbyggnad och funktion i spårfordon och spårområden.",
+    "Kunskaper om uppbyggnad av och funktion hos lik- och enfasväxelströmskretsar i spårfordon samt färdigheter i att mäta och beräkna elektriska storheter i dessa med belastningar av olika slag.",
+    "Kunskaper om uppkomsten av störningar inom och mellan olika elssystem i spårfordon och spårområden.",
+    "Färdighet i att felsöka och avhjälpa fel i lik- och enfasväxelströmskretsar i spårfordon.",
+    "Kunskaper om uppbyggnad av och funktion hos trefassystem i spårfordon samt färdigheter i att mäta och beräkna elektriska storheter i dessa med belastningar av olika slag.",
+    "Färdighet i att felsöka och avhjälpa fel i trefassystem i spårfordon.",
+    "Kunskaper om bestämmelser och standarder för elektricitet.",
+    "Färdighet i att arbeta säkert med underhåll på låg- och högspänningsanläggningar.",
+    "Förmåga att arbeta ergonomiskt på ett sätt som förebygger ohälsa och personskador.",
+    "Förmåga att arbeta på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet ellära – spårfordon ska syfta till att eleverna utvecklar färdigheter i att mäta och beräkna elektriska storheter i lik- och enfasväxelströmskretsar samt i trefassystem med belastningar av olika slag inom spårfordon. Den ska också bidra till att eleverna utvecklar förmåga att felsöka för att avhjälpa fel i fordonets elsystem. Dessutom ska undervisningen leda till att eleverna utvecklar förståelse av hur och var ledningsbundna störningar uppkommer samt deras verkan på elektriska system för drift och fordonsfunktioner.",
+    "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om bestämmelser och standarder för elektricitet inom spårfordon samt om vilka elektriska spänningar och frekvenser som förekommer i spårbundna fordon.",
+    "Undervisningen ska leda till att eleverna utvecklar kunskap om och förståelse för säkerhetsfaktorer, säkerhetsbestämmelser och skyddsanordningar gällande låg- och högspänningsanläggningar inom spårfordon och spårområden samt förmåga att arbeta i enlighet med dessa. Den ska även ge eleverna möjlighet att utveckla färdigheter i att arbeta ergonomiskt med hänsyn till hälsa och miljö.",
+    "Undervisningen ska leda till att eleverna utvecklar förmåga att använda relevanta elektriska mätinstrument. Den ska också leda till att eleverna utvecklar förmåga att praktiskt söka och avhjälpa fel med hjälp av scheman, ritningar, mätinstrument och relevanta verktyg."
+  ],
+  "courseInfo": {
+    "LLAELL01": "Ellära – spårfordon 1, 100 poäng.",
+    "LLAELL02": "Ellära – spårfordon 2, 100 poäng, som bygger på kursen ellära – spårfordon 1."
+  },
+  "description": "Ämnet ellära – spårfordon behandlar lik- och enfasväxelströmskretsar samt trefassystem och belastningar som förekommer i spårbundna fordon. Det behandlar också ledningsburna störningar och säkerhetsfrågor.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "VOCATIONAL",
+  "applicableFrom": "2016-05-11T22:00:00.000Z",
+  "courses": [
+    "LLAELL01",
+    "LLAELL02"
+  ]
+}

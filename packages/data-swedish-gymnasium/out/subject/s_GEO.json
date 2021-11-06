@@ -1,0 +1,32 @@
+{
+  "title": "Geografi",
+  "code": "GEO",
+  "developmentPurposes": [
+    "Kunskaper om geografiska processer och geografins begrepp, teorier och modeller.",
+    "Kunskaper om olika natur- och kulturlandskap, om deras samband, utveckling och förändring över tid samt om samband mellan människa, samhälle och miljö.",
+    "Förmåga att analysera intressekonflikter med koppling till naturgivna risker och mänsklig verksamhet samt hur intressekonflikter påverkar jordens livsmiljöer och människans livsvillkor, ur perspektivet hållbar utveckling.",
+    "Kunskaper om företeelser i närmiljön och hur de kan relateras till andra platser och regioner på jorden.",
+    "Förmåga att använda olika geografiska källor, metoder och tekniker vid arbetet med geografisk analys samt att samla in, bearbeta, värdera och presentera geografisk information.",
+    "Kunskaper om samhällets behov av rumslig information och hur det kan tillgodoses.",
+    "Färdigheter i att använda digitala geografiska verktyg för att analysera och visualisera rumsliga förhållanden."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet geografi ska syfta till att eleverna utvecklar kunskaper om jorden som ett sammanflätat, föränderligt och komplext system. Denna systemsyn är nödvändig för att kunna beskriva och analysera rumsliga mönster och processer lokalt, regionalt och globalt som ett resultat av samspel mellan människa, samhälle och natur.",
+    "Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om jordens varierande livsmiljöer, deras utveckling, föränderlighet, resurser och sårbarhet, samt om möjligheter och problem med att möjliggöra hållbar utveckling. I samband med frågor om hållbar utveckling ska eleverna ges möjlighet att analysera till exempel konsekvenser av en klimatförändrad värld, tillgång till vattenresurser och odlingsbar mark, naturgivna risker och hot, naturresursanvändning och resurskonflikter samt social rättvisa och solidaritet utifrån olika perspektiv som kön, sexualitet, klass och etnicitet. Undervisningen ska leda till att eleverna utvecklar en global geografisk referensram där kunskaper om egen och andras livsmiljö är en del.",
+    "I undervisningen ska eleverna ges möjlighet att samla in, bearbeta, kritiskt tolka och värdera rumsliga data samt att formulera och visualisera resultat i form av texter, kartor, bilder, modeller, tabeller och diagram. Eleverna ska även ges möjlighet att utveckla kunskaper om samhällets behov av olika rumsliga data samt om hur stora informationsmängder kan hanteras med hjälp av digitala geografiska verktyg som geografiska informationssystem (GIS). Fältstudier, exkursioner, laborationer och övningar ska ingå i undervisningen för att observera, identifiera, kategorisera och analysera händelser och förändringar i omvärlden."
+  ],
+  "courseInfo": {
+    "GEOGEO01": "Geografi 1, 100 poäng, som bygger på grundskolans kunskaper eller motsvarande.",
+    "GEOGEO02": "Geografi 2, 100 poäng, som bygger på kursen geografi 1.",
+    "GEOGEO0": "Geografiska informationssystem, 100 poäng."
+  },
+  "description": "Geografisk kunskap har sitt ursprung i människans behov av att upptäcka och förstå sin omvärld och kunna orientera sig i den. Ämnet geografi är till sin karaktär tvärvetenskapligt och i ämnet integreras naturvetenskap och samhällsvetenskap utifrån en systemsyn. Det behandlar människans livsvillkor, naturmiljö och samhälle samt miljöförändringar i olika delar av världen över tid. I ämnet behandlas också frågor om hållbar utveckling och samhällets sårbarhet.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "COMMON",
+  "applicableFrom": "2011-06-30T22:00:00.000Z",
+  "courses": [
+    "GEOGEO0",
+    "GEOGEO01",
+    "GEOGEO02"
+  ]
+}

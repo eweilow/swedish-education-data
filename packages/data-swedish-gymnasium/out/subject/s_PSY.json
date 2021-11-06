@@ -1,0 +1,36 @@
+{
+  "title": "Psykiatri",
+  "code": "PSY",
+  "developmentPurposes": [
+    "Kunskaper om lagar och andra bestämmelser som styr verksamhetsområdet samt förmåga att arbeta efter dessa i praktisk verksamhet.",
+    "Kunskaper om den historiska utvecklingen inom verksamhetsområdet samt om betydelsen av evidensbaserad kunskap.",
+    "Kunskaper om rättspsykiatrins samhällsskyddande verksamhet samt förmåga att se människan bakom brottet i arbetet med att återanpassa patienten till ett liv i frihet.",
+    "Kunskaper om orsaker till att psykisk ohälsa uppstår samt faktorer som påverkar psykisk hälsa och ohälsa.",
+    "Kunskaper om olika psykiska funktionsnedsättningar samt förmåga att tillämpa dessa kunskaper i praktisk verksamhet.",
+    "Kunskaper om omvårdnads- och omsorgsprocessens olika steg och innehåll vid olika psykiska funktionsnedsättningar samt förmåga att tillämpa dessa kunskaper i praktisk verksamhet.",
+    "Kunskaper om den samhällsbaserade psykiatrins olika stödåtgärder i arbetet med patienter och brukare som är i behov av återhämtning.",
+    "Förmåga att möta och kommunicera med patienter, brukare och närstående på ett respektfullt, lyhört och empatiskt sätt samt förmåga att reflektera över sitt eget förhållningssätt i mötet med dem.",
+    "Förmåga att med kreativitet och initiativförmåga medverka i vårdens, omsorgens och omvårdnadens förbättrings- och kvalitetsarbete utifrån evidensbaserad kunskap.",
+    "Kunskaper om hur ett väl utvecklat samarbete med olika huvudmän, yrkesgrupper och närstående påverkar patienters och brukares återhämtning positivt."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet psykiatri ska syfta till att eleverna utvecklar kunskaper om olika psykiska funktionsnedsättningar. Den ska bidra till att eleverna utvecklar förmåga att kommunicera och möta patienter och brukare med ett lyhört, respektfullt och empatiskt förhållningssätt. I undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om livsvärldens betydelse för uppkomst av psykisk funktionsnedsättning liksom om samhällets och enskilda människors möjlighet att påverka den.",
+    "Undervisningen ska bidra till att eleverna blir medvetna om de fördomar som finns om psykiska funktionsnedsättningar. I undervisningen ska eleverna ges möjlighet att diskutera orsaker till ökningen av psykisk ohälsa i samhället inte minst bland unga samt utveckla förståelse av att psykisk ohälsa kan drabba alla människor och att det är lika naturligt att söka hjälp för det som för en fysisk sjukdom. Eleverna ska dessutom utveckla förståelse av hur vården, omsorgen och omvårdnaden ska utformas för patienter och brukare med psykiska funktionsnedsättningar. Eleverna ska ges möjlighet att planera, genomföra, dokumentera och utvärdera arbetet utifrån omvårdnads- och omsorgsprocessens olika steg."
+  ],
+  "courseInfo": {
+    "PSYPSY01": "Psykiatri 1, 100 poäng.",
+    "PSYPSY02": "Psykiatri 2, 200 poäng, som bygger på kursen psykiatri 1.",
+    "PSYRÄS0": "Rättspsykiatri, 100 poäng, som bygger på kursen psykiatri 2.",
+    "PSYSAM0": "Samhällsbaserad psykiatri, 100 poäng, som bygger på kursen psykiatri 2."
+  },
+  "description": "Ämnet psykiatri är tvärvetenskapligt. Det bygger i huvudsak på medicinsk vetenskap, vårdvetenskap och pedagogik. Ämnet behandlar vård- och omsorgsarbete vid psykiska sjukdomar.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "VOCATIONAL",
+  "applicableFrom": "2016-05-31T22:00:00.000Z",
+  "courses": [
+    "PSYPSY01",
+    "PSYPSY02",
+    "PSYRÄS0",
+    "PSYSAM0"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Naturkunskap",
+  "code": "NAK",
+  "developmentPurposes": [
+    "Förmåga att använda kunskaper om naturvetenskap för att diskutera, göra ställningstaganden och formulera olika handlingsalternativ.",
+    "Kunskaper om naturvetenskapens roll i aktuella samhällsfrågor och i förhållande till hållbar utveckling.",
+    "Kunskaper om olika livsstilars konsekvenser såväl för den egna hälsan som för folkhälsan och miljön.",
+    "Kunskaper om människokroppens uppbyggnad och funktion samt dess växelverkan med omgivningen.",
+    "Kunskaper om hur naturvetenskap organiseras samt hur den kan granskas kritiskt och användas för kritisk granskning.",
+    "Kunskaper om de naturvetenskapliga teoriernas betydelse för samhällens framväxt och för människans världsbild."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet naturkunskap ska syfta till att eleverna utvecklar kunskaper i naturvetenskap samt förmåga att kritiskt värdera och ta ställning i frågor som har ett naturvetenskapligt innehåll. Den ska leda till att eleverna utvecklar förståelse av hur naturvetenskapliga kunskaper kan användas i såväl yrkesliv som vardagsnära situationer och för att göra personliga val och ställningstaganden.",
+    "Utifrån aktuella frågeställningar och företeelser ska undervisningen ge eleverna möjlighet att, såväl med som utan digitala verktyg, använda naturvetenskapliga kunskaper och arbetsmetoder. Det betyder att samtidigt som undervisningen ska behandla olika innehåll som till exempel miljö- och klimatfrågor, jordens resursfördelning, kretslopp, hälsa eller genmodifiering ska den också påvisa hur dessa frågor kan hanteras utifrån ett naturvetenskapligt förhållningssätt. Genom att få diskutera och utforska frågor med samhällsanknytning ska eleverna ges möjlighet att befästa, fördjupa och utveckla naturvetenskapliga kunskaper för att kunna möta, förstå och påverka sin samtid. Undervisningen ska ge eleven möjlighet att använda digitala och andra verktyg samt göra simuleringar för att söka och uppnå kunskaper i naturvetenskap."
+  ],
+  "courseInfo": {
+    "NAKNAK01a1": "Naturkunskap 1a1, 50 poäng, som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen naturkunskap 1b.",
+    "NAKNAK01a2": "Naturkunskap 1a2, 50 poäng, som bygger på naturkunskap 1a1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen naturkunskap 1b.",
+    "NAKNAK01b": "Naturkunskap 1b, 100 poäng, som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen naturkunskap 1a1 eller kursen naturkunskap 1a2.",
+    "NAKNAK02": "Naturkunskap 2, 100 poäng, som bygger på kursen naturkunskap 1a2 eller kursen naturkunskap 1b."
+  },
+  "description": "Ämnet naturkunskap är till sin karaktär tvärvetenskapligt med en grund i biologi, fysik, geovetenskap och kemi. I ämnet behandlas hälsa, energi och hållbar utveckling, kunskapsområden som har vuxit fram där naturvetenskap möter samhällsvetenskap.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "COMMON",
+  "applicableFrom": "2017-06-30T22:00:00.000Z",
+  "courses": [
+    "NAKNAK01a1",
+    "NAKNAK01a2",
+    "NAKNAK01b",
+    "NAKNAK02"
+  ]
+}

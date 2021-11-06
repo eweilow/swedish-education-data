@@ -1,0 +1,97 @@
+{
+  "subject": "WES",
+  "title": "Webbserverprogrammering 2",
+  "code": "WESWEB02",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för de tekniker som möjliggör dynamiska webbplatser och webbtjänster."
+      ],
+      [
+        "Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt produkt.",
+        "<strong>Vid behov reviderar eleven planen</strong>.",
+        "I projektplanen beskriver eleven <strong>utförligt och nyanserat</strong> produktens funktion, <strong>arkitektur och mjukvarugränssnitt</strong>.",
+        "Utifrån projektplanen utvecklar eleven <strong>efter samråd</strong> med handledare produkten där presentations­logiken är skild från produktens övriga logik.",
+        "<strong>Produkten är i <strong>omfattande</strong> utsträckning skapad med objektorienterad eller funktionell programmering och uppvisar användning av ett eller flera enkla designmönster</strong>.",
+        "I arbetet utvecklar eleven kod som <strong>följer en given kodningsstandard</strong> och är <strong>utförligt och nyanserat</strong> kommenterad.",
+        "Produkten uppvisar funktionalitet med ett eller flera språk för webbserver­programmering och tillhandahåller ett informations­hanterings­system som också hämtar eller lämnar data via <strong>flera</strong> webbtjänster.",
+        "Dessutom tillhandahåller produkten <strong>någon</strong> lösning för permanent datalagring <strong>och eleven utför en optimering av denna</strong>.",
+        "Produkten är av <strong>god</strong> kvalitet och följer etablerad god praxis, vilket eleven kontrollerar med <strong>omfattande automatiserade och manuella</strong> tester."
+      ],
+      [
+        "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av de moment som har utförts <strong>med koppling till generella principer och testresultat</strong> samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>.",
+        "Eleven identifierar hot och sårbarheter mot produkten och vidtar <strong>flera</strong> åtgärder för att förhindra att dessa utnyttjas.",
+        "<strong>Dessutom kontrollerar eleven produktens säkerhet med några tester</strong>.",
+        "När eleven kommunicerar med andra använder hen <strong>med säkerhet</strong> terminologi."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör <strong>utförligt</strong> för de tekniker som möjliggör dynamiska webbplatser och webbtjänster."
+      ],
+      [
+        "Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt produkt.",
+        "I projektplanen beskriver eleven <strong>utförligt</strong> produktens funktion <strong>och arkitektur</strong>.",
+        "Utifrån projektplanen utvecklar eleven <strong>efter samråd</strong> med handledare produkten där presentations­logiken är skild från produktens övriga logik.",
+        "<strong>Produkten är i begränsad utsträckning skapad med objektorienterad eller funktionell programmering</strong>.",
+        "I arbetet utvecklar eleven kod som <strong>följer en given kodningsstandard</strong> och är <strong>utförligt</strong> kommenterad.",
+        "Produkten uppvisar funktionalitet med ett eller flera språk för webbserver­programmering och tillhandahåller ett <strong>enkelt</strong> informations­hanterings­system som också hämtar eller lämnar data via <strong>några</strong> webbtjänster.",
+        "Dessutom tillhandahåller produkten <strong>någon</strong> lösning för permanent datalagring <strong>och eleven utför en enkel optimering av denna</strong>.",
+        "Produkten är av <strong>tillfredsställande</strong> kvalitet och följer etablerad god praxis, vilket eleven kontrollerar med <strong>automatiserade</strong> tester."
+      ],
+      [
+        "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av de moment som har utförts samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+        "Eleven identifierar hot och sårbarheter mot produkten och vidtar <strong>några</strong> åtgärder för att förhindra att dessa utnyttjas.",
+        "När eleven kommunicerar med andra använder hen <strong>med viss säkerhet</strong> terminologi."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven redogör <strong>översiktligt</strong> för de tekniker som möjliggör dynamiska webbplatser och webbtjänster."
+      ],
+      [
+        "Eleven gör en <strong>enkel</strong> projektplan för en tänkt produkt.",
+        "I projektplanen beskriver eleven <strong>översiktligt</strong> produktens funktion.",
+        "Utifrån projektplanen utvecklar eleven <strong>i samråd</strong> med handledare produkten där presentations­logiken <strong>huvudsakligen</strong> är skild från produktens övriga logik.",
+        "I arbetet utvecklar eleven kod som är <strong>läsbar</strong> och <strong>översiktligt</strong> kommenterad.",
+        "Produkten uppvisar <strong>enkel</strong> funktionalitet med ett eller flera språk för webbserver­programmering och tillhandahåller ett <strong>enkelt</strong> informations­hanterings­system som också hämtar eller lämnar data via <strong>någon</strong> webbtjänst.",
+        "Dessutom tillhandahåller produkten <strong>någon</strong> lösning för permanent datalagring.",
+        "Produkten är av <strong>tillfredsställande</strong> kvalitet och följer etablerad god praxis, vilket eleven kontrollerar med <strong>begränsade</strong> tester."
+      ],
+      [
+        "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av de moment som har utförts samt utvärderar med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+        "Eleven identifierar hot och sårbarheter mot produkten och vidtar <strong>någon</strong> åtgärd för att förhindra att denna utnyttjas.",
+        "När eleven kommunicerar med andra använder hen <strong>med viss säkerhet enkel</strong> terminologi."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Webbserverns och dynamiska webbplatsers funktionalitet.",
+        "Utvecklingsprocessen för ett webbtekniskt projekt med målsättningar, krav, begränsningar, planering och uppföljning. Systemering, kodning, optimering, testning och driftsättning.",
+        "Dokumentation av utvecklingsprocess och färdig produkt inklusive kod och mjukvarugränssnitt.",
+        "Funktionen i ett eller flera programspråk för dynamiska webbplatser.",
+        "Datalagring i relationsdatabas eller med annan teknik.",
+        "Standardiserade datautbytesformat, till exempel XML och JSON.",
+        "Kodning och dokumentation enligt vedertagen praxis för vald teknik.",
+        "Applikationsarkitektur och separation av olika slags logik.",
+        "Kvalitetssäkring av dynamiska webbapplikationers funktionalitet, säkerhet och kodkvalitet.",
+        "Säkerhet och sätt att identifiera hot och sårbarheter samt hur attacker kan motverkas genom effektiva åtgärder."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen webbserverprogrammering 2 omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]
+}

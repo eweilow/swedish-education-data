@@ -1,0 +1,43 @@
+{
+  "title": "Dansgestaltning för yrkesdansare",
+  "code": "DAG",
+  "developmentPurposes": [
+    "Förmåga att använda koder och konventioner som används vid repetitionsprocesser och sceniska produktioner.",
+    "Kunskaper om konstnärliga processer från idé till scenisk gestaltning samt förmåga att reflektera över den konstnärliga arbetsprocessen och det konstnärliga resultatet.",
+    "Förmåga att uttrycka sig med kroppen och dansen i sceniska sammanhang. Förmåga att samarbeta och samspela med medaktörer samt att använda relevant teknik i arbete med en partner. Förmåga att kommunicera med publik utifrån olika konstnärliga förhållningssätt.",
+    "Förmåga att dansa olika typer av repertoar. Förmåga att analysera, tolka, memorera och variera gestaltningar efter olika konstnärliga förhållningssätt och sammanhang, både individuellt och i ensemble. Kunskaper om koreografiers estetiska utgångspunkter och förhållningssätt.",
+    "Förmåga att improvisera, interagera med andra, associera, ta beslut och förhålla sig till olika former av instruktioner.",
+    "Förmåga att använda kompositionsmetoder och koreografiska arbetssätt. Förmåga att skapa dans i olika konstellationer. Kunskaper om olika koreografiska förhållningssätt.",
+    "Kunskaper om etiska förhållningssätt, arbetsmiljöfrågor samt upphovsrättsliga frågor.",
+    "Förmåga att kommunicera med andra inom yrkesområdet och att använda begrepp och vokabulär som är relevanta."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet dansgestaltning för yrkesdansare ska syfta till att eleverna utvecklar scenisk kunskap samt färdigheter i gestaltningsarbete av äldre och samtida repertoar inom klassisk balett och modern nutida dans utifrån olika konstnärliga förhållningssätt.",
+    "Scenisk kunskap innebär både scenisk erfarenhet och kunskaper om hur gestaltningsarbete går till. Genom undervisningen ska eleverna därför ges möjlighet att i sceniska sammanhang utveckla förmåga att samarbeta och kommunicera med publiken samt erfarenhet av att ingå i en konstnärlig helhet. Eleverna ska ges möjlighet att utveckla sin förmåga att ta ansvar för och reflektera över den konstnärliga processen och det konstnärliga resultatet. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om koder och konventioner som används inom området samt vilka yrkesroller som måste samverka för att sceniskt arbete ska fungera. Den ska också ta fasta på att stärka elevernas motivation och självförtroende.",
+    "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om den koreografiska arbetsprocessen från idé fram till det sceniska framförandet. Utbildningen ska även ge eleverna möjlighet att utveckla förmåga att analysera, tolka och memorera koreografiskt material enligt genrernas konventioner samt att självständigt fördjupa arbetet när det gäller dansteknisk och konstnärlig problemlösning. Eleverna ska också ges möjlighet att delta i kreativa processer, utveckla förmåga att improvisera, vara initiativrika och skapande samt lyhörda inför olika sätt att förhålla sig till konstnärliga processer.",
+    "Undervisningen ska bidra till att eleverna utvecklar kunskaper om och färdigheter i olika metoder när det gäller tolkning, improvisation och komposition samt hur dessa faktorer bygger på olika förhållningssätt till dans som konstnärligt uttryck.",
+    "Inom yrkesområdet förekommer en stor variation av repertoarer, och gestaltning har olika innebörd beroende på koreografisk arbetsmetod och konstnärligt förhållningssätt. En del gestaltningar innebär att dansen närmar sig teaterns sätt att arbeta medan andra utgår från att rörelsen är i fokus. Undervisningen ska därför leda till att eleverna utvecklar förmåga till rollanalys och rollgestaltning samt till gestaltning med rörelsen i fokus. Undervisningen ska dessutom bidra till att eleverna utvecklar förmåga att variera gestaltning efter olika konstnärliga förhållningssätt och sammanhang.",
+    "Repertoarkunskap innefattar samarbete och interagerande med en partner. Undervisningen ska därför leda till att eleverna utvecklar grundläggande kunskaper om partnerarbete och ergonomisk lyftteknik samt förmåga att fokusera, vara uppmärksam och beredd inför förändringar, känna av en annan kropp i och ur balans och kommunicera via kroppen.",
+    "Undervisningen ska medvetandegöra och motverka stereotypa föreställningar om vad som anses vara manligt och kvinnligt samt belysa konsekvenserna av olika kroppsideal. Den ska även behandla andra frågor om etik och moral i relation till dansutövande.",
+    "Eleverna ska också ges möjlighet att utveckla kunskaper om frågor som rör upphovsrätt och arbetsmiljö i relation till scenkonstnärligt arbete.",
+    "Utforskande och reflekterande arbetsmetoder, problemlösande feedback och coachning individuellt och i grupp är väsentligt i ämnet och ska därför ingå i undervisningen. En del av den konstnärliga processen består av analys och tolkning av både egna och andras gestaltningar. Undervisningen ska därför ge eleverna möjlighet att analysera och tolka egna och andras gestaltningar samt använda begrepp i samband med gestaltningsarbetet."
+  ],
+  "courseInfo": {
+    "DAGDAS0": "Dansimprovisation och komposition för yrkesdansare – profil klassisk balett, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen dansimprovisation och komposition för yrkesdansare – profil modern nutida dans.",
+    "DAGDAN0": "Dansimprovisation och komposition för yrkesdansare – profil modern nutida dans, 100 poäng. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen dansimprovisation och komposition för yrkesdansare – profil klassisk balett.",
+    "DAGPAS0": "Pas de deux/partnering, 100 poäng.",
+    "DAGREP0": "Repertoar för yrkesdansare, 100 poäng.",
+    "DAGSCE0": "Scenisk verksamhet för yrkesdansare, 100 poäng."
+  },
+  "description": "Ämnet dansgestaltning för yrkesdansare är till sin karaktär scenkonstnärligt och behandlar det gestaltningsarbete som krävs för yrkesmässigt utövande av scenkonstnärligt framträdande. Ämnet dansgestaltning för yrkesdansare får bara anordnas på yrkesdansarutbildningen.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "VOCATIONAL",
+  "applicableFrom": "2015-12-15T23:00:00.000Z",
+  "courses": [
+    "DAGDAN0",
+    "DAGDAS0",
+    "DAGPAS0",
+    "DAGREP0",
+    "DAGSCE0"
+  ]
+}

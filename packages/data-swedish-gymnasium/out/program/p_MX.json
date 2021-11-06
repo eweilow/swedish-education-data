@@ -1,0 +1,440 @@
+{
+  "title": "Marinteknikutbildningen",
+  "code": "MX",
+  "url": "https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola/programstruktur-och-examensmal/marinteknikutbildningen",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "typeOfProgram": "NATIONAL_RECRUITMENT_FOR_LOCAL_SPECIALIZATION",
+  "applicableFrom": "2017-02-28T23:00:00.000Z",
+  "info": {
+    "degreeObjectives": [
+      "Marinteknikutbildningen är en riksrekryterande yrkesutbildning inom gymnasieskolan med egna examensmål. Efter examen från utbildningen ska eleverna ha de kunskaper som behövs för att arbeta som till exempel båtbyggare, marintekniker och marin systemtekniker.",
+      "Utbildningen ska utveckla elevernas kunskaper om olika typer av fartyg som används som fritidsbåtar samt om deras motorer, system och utrustning. I detta ingår funktion, konstruktion, reparation och service av fritidsbåtar och de system som förekommer.",
+      "Stor teknisk bredd och avancerad teknik utmärker de yrken som utbildningen leder till. Den tekniska utrustningen för service av fritidsbåtar blir också alltmer komplex och specialiserad. Detta ställer höga krav på användare och på dem som ska utföra service och underhåll av fritidsbåtar och deras motorer, system och utrustning. Utbildningen ska därför utveckla elevernas förmåga att reflektera över, värdera och välja mellan olika handlingsalternativ. Eleverna ska också ges möjlighet att diskutera och reflektera över sitt eget lärande utifrån olika arbetsuppgifter och därigenom få en förståelse av sin egen yrkesutövning och yrket i stort.",
+      "Utvecklingen inom de yrken utbildningen leder till innebär att en person ofta arbetar ensam med många skilda uppgifter i verksamheten. Det ställer höga krav på förmåga till självständig problemlösning. Inom de yrken utbildningen leder till har dock inte alltid en person all den kunskap som krävs för att lösa en viss uppgift. Utbildningen ska därför utveckla elevernas förmåga att arbeta både självständigt och i lag där personer med olika kunskaper och kulturell bakgrund samarbetar för att lösa problem.",
+      "Utbildningen ska ge eleverna möjlighet att utveckla kunskaper om och färdigheter i att välja utrustning och metod för att kunna utföra arbetsuppgifter med hänsyn till miljö, kvalitet, säkerhet och ekonomi. Eleverna ska också utveckla förmåga att genomföra olika arbetsuppgifter utifrån krav på hållbar utveckling.",
+      "Oavsett om man är anställd eller driver eget företag krävs initiativförmåga, idérikedom, självständighet, personligt ansvarstagande och samarbetsförmåga. Därför ska utbildningen ge eleverna möjlighet att utveckla kunskaper om entreprenörskap och företagande.",
+      "Utbildningen ska utveckla elevernas förmåga att använda yrkets fackspråk och kommunicera och samverka med kunder, uppdragsgivare och leverantörer. Eleverna ska utveckla ett serviceinriktat förhållningssätt och förmåga att utföra arbetet med kvalitet och ansvarskänsla. Eleverna ska också ges möjlighet att utveckla kunskaper om lagar och andra bestämmelser. Dessutom ska eleverna ges möjlighet att utveckla förmåga att dokumentera sitt arbete enligt de krav som finns inom branschen.",
+      "Arbetsplatsförlagt lärande ska förekomma på utbildningen. Det arbetsplatsförlagda lärandet ska bidra till att eleverna utvecklar yrkeskunskaper och en yrkesidentitet samt förstår yrkeskulturen och blir en del av yrkesgemenskapen på en arbetsplats. Det arbetsplatsförlagda lärandet kan också ge inblick i företagandets villkor.",
+      "Examensmålet gäller för både skolförlagd utbildning och lärlingsutbildning."
+    ],
+    "orientation": {
+      "title": "Inriktningar",
+      "lines": [
+        "Marinteknikutbildningen har två inriktningar.",
+        "Båda inriktningarna kan leda till fortsatta studier på yrkeshögskola."
+      ]
+    },
+    "educationObjectives": [
+      "Gymnasiearbetet ska visa att eleven är förberedd för det yrkesområde som gäller för den valda yrkesutgången. Det ska pröva elevens förmåga att utföra vanligt förekommande arbetsuppgifter inom yrkesområdet.",
+      "Gymnasiearbetet ska utföras på ett sådant sätt att eleven planerar, genomför och utvärderar sin uppgift.",
+      "Gymnasiearbetet kan utformas så att det ger eleverna möjlighet att pröva sitt yrkeskunnande i företagsliknande arbetsformer."
+    ]
+  },
+  "education": {
+    "mandatory": {
+      "courses": [
+        "ENGENG05",
+        "HISHIS01a1",
+        "IDRIDR01",
+        "MATMAT01a",
+        "NAKNAK01a1",
+        "RELREL01",
+        "SAMSAM01a1",
+        "SVASVA01",
+        "SVESVE01"
+      ],
+      "subjects": [
+        {
+          "code": "ENG",
+          "minPoints": 100,
+          "courses": [
+            "ENGENG05"
+          ]
+        },
+        {
+          "code": "HIS",
+          "minPoints": 50,
+          "courses": [
+            "HISHIS01a1"
+          ]
+        },
+        {
+          "code": "IDR",
+          "minPoints": 100,
+          "courses": [
+            "IDRIDR01"
+          ]
+        },
+        {
+          "code": "MAT",
+          "minPoints": 100,
+          "courses": [
+            "MATMAT01a"
+          ]
+        },
+        {
+          "code": "NAK",
+          "minPoints": 50,
+          "courses": [
+            "NAKNAK01a1"
+          ]
+        },
+        {
+          "code": "REL",
+          "minPoints": 50,
+          "courses": [
+            "RELREL01"
+          ]
+        },
+        {
+          "code": "SAM",
+          "minPoints": 50,
+          "courses": [
+            "SAMSAM01a1"
+          ]
+        },
+        {
+          "code": "SVA",
+          "minPoints": 100,
+          "courses": [
+            "SVASVA01"
+          ]
+        },
+        {
+          "code": "SVE",
+          "minPoints": 100,
+          "courses": [
+            "SVESVE01"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "program": {
+      "courses": [
+        "BATSKA0",
+        "FRDBAT0",
+        "MAIBAT01",
+        "MAIMAR01",
+        "MANMAR0"
+      ],
+      "subjects": [
+        {
+          "code": "BAT",
+          "minPoints": 100,
+          "courses": [
+            "BATSKA0"
+          ]
+        },
+        {
+          "code": "FRD",
+          "minPoints": 100,
+          "courses": [
+            "FRDBAT0"
+          ]
+        },
+        {
+          "code": "MAI",
+          "minPoints": 200,
+          "courses": [
+            "MAIBAT01",
+            "MAIMAR01"
+          ]
+        },
+        {
+          "code": "MAN",
+          "minPoints": 100,
+          "courses": [
+            "MANMAR0"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "specialization": {
+      "courses": [
+        "BATKUS0",
+        "DACFAR0",
+        "DACRAD0",
+        "ENTENR0",
+        "FRDBAS0",
+        "FRDKON02",
+        "FRDPLA0",
+        "FYSFYS01b1",
+        "FYSFYS01b2",
+        "HAVFIN01",
+        "HAVHAV0",
+        "MAIMAR02",
+        "MAIMAR03",
+        "MAIMOT01",
+        "MAIMOT02",
+        "MAKMAS0",
+        "MANDIA0",
+        "MANNYI0",
+        "MATMAT02a",
+        "SAASVT0"
+      ],
+      "subjects": [
+        {
+          "code": "BAT",
+          "minPoints": 100,
+          "courses": [
+            "BATKUS0"
+          ]
+        },
+        {
+          "code": "DAC",
+          "minPoints": 150,
+          "courses": [
+            "DACFAR0",
+            "DACRAD0"
+          ]
+        },
+        {
+          "code": "ENT",
+          "minPoints": 100,
+          "courses": [
+            "ENTENR0"
+          ]
+        },
+        {
+          "code": "FRD",
+          "minPoints": 500,
+          "courses": [
+            "FRDBAS0",
+            "FRDKON02",
+            "FRDPLA0"
+          ]
+        },
+        {
+          "code": "FYS",
+          "minPoints": 150,
+          "courses": [
+            "FYSFYS01b1",
+            "FYSFYS01b2"
+          ]
+        },
+        {
+          "code": "HAV",
+          "minPoints": 400,
+          "courses": [
+            "HAVFIN01",
+            "HAVHAV0"
+          ]
+        },
+        {
+          "code": "MAI",
+          "minPoints": 400,
+          "courses": [
+            "MAIMAR02",
+            "MAIMAR03",
+            "MAIMOT01",
+            "MAIMOT02"
+          ]
+        },
+        {
+          "code": "MAK",
+          "minPoints": 100,
+          "courses": [
+            "MAKMAS0"
+          ]
+        },
+        {
+          "code": "MAN",
+          "minPoints": 200,
+          "courses": [
+            "MANDIA0",
+            "MANNYI0"
+          ]
+        },
+        {
+          "code": "MAT",
+          "minPoints": 100,
+          "courses": [
+            "MATMAT02a"
+          ]
+        },
+        {
+          "code": "SAA",
+          "minPoints": 100,
+          "courses": [
+            "SAASVT0"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "orientations": [
+      {
+        "name": "El och elektronik",
+        "code": "MXELO",
+        "points": 300,
+        "courses": [
+          "ELEELR0",
+          "MAIBAT02",
+          "MAIMOT01"
+        ],
+        "subjects": [
+          {
+            "code": "ELE",
+            "minPoints": 100,
+            "courses": [
+              "ELEELR0"
+            ]
+          },
+          {
+            "code": "MAI",
+            "minPoints": 200,
+            "courses": [
+              "MAIBAT02",
+              "MAIMOT01"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Service och reparation",
+        "code": "MXSER",
+        "points": 300,
+        "courses": [
+          "FRDKON01",
+          "MANINT0"
+        ],
+        "subjects": [
+          {
+            "code": "FRD",
+            "minPoints": 200,
+            "courses": [
+              "FRDKON01"
+            ]
+          },
+          {
+            "code": "MAN",
+            "minPoints": 100,
+            "courses": [
+              "MANINT0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      }
+    ],
+    "profiles": [],
+    "professionalDegrees": [
+      {
+        "name": "Båtbyggare",
+        "code": "MXSER",
+        "courses": [
+          "FRDKON02",
+          "FRDPLA0",
+          "HAVFIN03",
+          "HAVFIN04",
+          "HAVHAV0",
+          "MANNYI0"
+        ],
+        "subjects": [
+          {
+            "code": "FRD",
+            "minPoints": 300,
+            "courses": [
+              "FRDKON02",
+              "FRDPLA0"
+            ]
+          },
+          {
+            "code": "HAV",
+            "minPoints": 600,
+            "courses": [
+              "HAVFIN03",
+              "HAVFIN04",
+              "HAVHAV0"
+            ]
+          },
+          {
+            "code": "MAN",
+            "minPoints": 100,
+            "courses": [
+              "MANNYI0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Marin systemtekniker",
+        "code": "MXELO",
+        "courses": [
+          "FYSFYS01a",
+          "MAIMAR02",
+          "MAIMAR03",
+          "MAIMOT02",
+          "MANNYI0"
+        ],
+        "subjects": [
+          {
+            "code": "FYS",
+            "minPoints": 150,
+            "courses": [
+              "FYSFYS01a"
+            ]
+          },
+          {
+            "code": "MAI",
+            "minPoints": 300,
+            "courses": [
+              "MAIMAR02",
+              "MAIMAR03",
+              "MAIMOT02"
+            ]
+          },
+          {
+            "code": "MAN",
+            "minPoints": 100,
+            "courses": [
+              "MANNYI0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Marintekniker",
+        "code": "MXSER",
+        "courses": [
+          "FRDBAS0",
+          "FRDPLA0",
+          "MAIMAR02",
+          "MANDIA0",
+          "MANNYI0"
+        ],
+        "subjects": [
+          {
+            "code": "FRD",
+            "minPoints": 100,
+            "courses": [
+              "FRDBAS0",
+              "FRDPLA0"
+            ]
+          },
+          {
+            "code": "MAI",
+            "minPoints": 100,
+            "courses": [
+              "MAIMAR02"
+            ]
+          },
+          {
+            "code": "MAN",
+            "minPoints": 200,
+            "courses": [
+              "MANDIA0",
+              "MANNYI0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      }
+    ]
+  }
+}

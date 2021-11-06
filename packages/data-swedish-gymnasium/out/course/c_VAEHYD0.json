@@ -1,0 +1,65 @@
+{
+  "subject": "VAE",
+  "title": "Hydraulik, kraftstationshydraulik och turbiner",
+  "code": "VAEHYD0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> vattenkraftstationens hydralikkomponenter och turbiner samt deras funktion, dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+        "I beskrivningen gör eleven <strong>välgrundade och nyanserade</strong> kopplingar till relevanta fysikaliska principer.",
+        "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur en vattenkraftstation drivs."
+      ],
+      [
+        "Eleven utför på ett elsäkert och personsäkert sätt <strong>avancerat</strong> arbete med turbiner och hydralikkomponenter i en vattenkraftstation.",
+        "I arbetet använder eleven <strong>med säkerhet</strong> utrustningen på ett riktigt sätt.",
+        "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett <strong>nyanserat</strong> fackspråk som fungerar för arbetsuppgiften.",
+        "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete samt utvärderar det med <strong>nyanserade</strong> omdömen.",
+        "<strong>Dessutom ger eleven förslag på hur arbetet kan förbättras</strong>."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> vattenkraftstationens hydralikkomponenter och turbiner samt deras funktion, dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+        "I beskrivningen gör eleven <strong>välgrundade</strong> kopplingar till relevanta fysikaliska principer.",
+        "Dessutom redogör eleven <strong>utförligt</strong> för hur en vattenkraftstation drivs."
+      ],
+      [
+        "Eleven utför på ett elsäkert och personsäkert sätt arbete med turbiner och hydralikkomponenter i en vattenkraftstation.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustningen på ett riktigt sätt.",
+        "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett fackspråk som fungerar för arbetsuppgiften.",
+        "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete samt utvärderar det med <strong>nyanserade</strong> omdömen."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> vattenkraftstationens hydralikkomponenter och turbiner samt deras funktion, dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+        "I beskrivningen gör eleven <strong>enkla</strong> kopplingar till relevanta fysikaliska principer.",
+        "Dessutom redogör eleven <strong>översiktligt</strong> för hur en vattenkraftstation drivs."
+      ],
+      [
+        "Eleven utför på ett elsäkert och personsäkert sätt <strong>enkelt</strong> arbete med turbiner och hydralikkomponenter i en vattenkraftstation.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustningen på ett riktigt sätt.",
+        "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett <strong>enkelt</strong> fackspråk som fungerar för arbetsuppgiften.",
+        "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete samt utvärderar det med <strong>enkla</strong> omdömen."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Hydraulikkomponenters funktion och användning.",
+        "Olika turbinmodellers uppbyggnad och funktion.",
+        "Kraftstationshydraulik och turbinreglering.",
+        "Uppbyggnad och funktion av vattenkraftstationers olika glidlager och tätningsboxar."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen hydraulik, kraftstationshydraulik och turbiner omfattar punkterna 1–2, 6 och 10 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    5
+  ]
+}

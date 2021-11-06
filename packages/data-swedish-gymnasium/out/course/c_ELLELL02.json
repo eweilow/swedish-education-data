@@ -1,0 +1,88 @@
+{
+  "subject": "ELL",
+  "title": "Ellära 2",
+  "code": "ELLELL02",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för trefassystemets uppbyggnad och funktion samt för olika belastningars inverkan på elsystemet.",
+        "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet."
+      ],
+      [
+        "Eleven utför <strong>efter samråd</strong> med handledare elektriska mätningar på trefassystem.",
+        "Inför arbetet väljer eleven <strong>med säkerhet</strong> lämpliga mätmetoder och mätinstrument.",
+        "Dessutom gör eleven en <strong>välgrundad</strong> riskbedömning och anpassar vid behov mätningen efter den.",
+        "Eleven utför <strong>efter samråd</strong> med handledare <strong>avancerade</strong> beräkningar.",
+        "Utifrån resultaten av mätningarna och beräkningarna föreslår eleven <strong>med säkerhet</strong> lämpliga åtgärder för att avhjälpa fel i elsystemet.",
+        "Eleven utför <strong>efter samråd</strong> med handledare dessa åtgärder.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör <strong>utförligt</strong> för trefassystemets uppbyggnad och funktion samt för olika belastningars inverkan på elsystemet.",
+        "Dessutom redogör eleven <strong>utförligt</strong> för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet."
+      ],
+      [
+        "Eleven utför <strong>efter samråd</strong> med handledare elektriska mätningar på trefassystem.",
+        "Inför arbetet väljer eleven <strong>med viss säkerhet</strong> lämpliga mätmetoder och mätinstrument.",
+        "Dessutom gör eleven en riskbedömning och anpassar vid behov mätningen efter den.",
+        "Eleven utför <strong>efter samråd</strong> med handledare beräkningar.",
+        "Utifrån resultaten av mätningarna och beräkningarna föreslår eleven <strong>med viss säkerhet</strong> lämpliga åtgärder för att avhjälpa fel i elsystemet.",
+        "Eleven utför <strong>efter samråd</strong> med handledare dessa åtgärder.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven redogör <strong>översiktligt</strong> för trefassystemets uppbyggnad och funktion samt för olika belastningars inverkan på elsystemet.",
+        "Dessutom redogör eleven <strong>översiktligt</strong> för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet."
+      ],
+      [
+        "Eleven utför <strong>i samråd</strong> med handledare elektriska mätningar på trefassystem.",
+        "Inför arbetet väljer eleven <strong>med viss säkerhet</strong> lämpliga mätmetoder och mätinstrument.",
+        "Dessutom gör eleven en <strong>enkel</strong> riskbedömning och anpassar vid behov mätningen efter den.",
+        "Eleven utför <strong>i samråd</strong> med handledare <strong>enkla</strong> beräkningar.",
+        "Utifrån resultaten av mätningarna och beräkningarna föreslår eleven <strong>med viss säkerhet</strong> lämpliga åtgärder för att avhjälpa fel i elsystemet.",
+        "Eleven utför <strong>i samråd</strong> med handledare dessa åtgärder.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Trefassystemets uppbyggnad och funktion från transformator till belastning.",
+        "Resistiva, induktiva och kapacitiva kretsar i trefasnät.",
+        "Skillnader mellan symmetrisk och osymmetrisk belastning.",
+        "Trefasmotorers och trefastransformatorers funktion och påverkan i trefassystemet.",
+        "Olika spänningssystems funktion inom distribution och industri.",
+        "TN-C-systemets samt TN-S-systemets uppbyggnad, funktion och användning.",
+        "Elektriska och magnetiska fälts uppkomst och verkan.",
+        "Vagabonderande strömmars uppkomst och utbredning.",
+        "Skyddsledarens funktion och verkan.",
+        "Linjära och olinjära lasters verkan på uppkomsten av övertoner.",
+        "Kraftelektroniska utrustningars användning och funktion.",
+        "Filtrering, stabilisering och andra åtgärder för att minska ledningsburna störningar."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen ellära 2 omfattar punkterna 3–4 och 6–7 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    2,
+    3,
+    5,
+    6
+  ]
+}

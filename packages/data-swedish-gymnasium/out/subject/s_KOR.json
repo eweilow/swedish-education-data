@@ -1,0 +1,36 @@
+{
+  "title": "Konstruktionsteknik",
+  "code": "KOR",
+  "developmentPurposes": [
+    "Kunskaper om konstruktionsprocessen och förståelse av sambanden mellan de olika delarna i den.",
+    "Förmåga att planera och genomföra konstruktionsarbeten genom att söka, tolka och strukturera relevant information samt genom att välja och använda metoder, modeller, teorier och verktyg. Förmåga att rimlighetsbedöma resultat och att utvärdera konstruktionsarbeten.",
+    "Förmåga att använda konstruktionsverktyg, komponenter, standarder och normer inom konstruktionsarbetet samt kunskaper om deras egenskaper och begränsningar.",
+    "Förmåga att utvärdera och välja material.",
+    "Förmåga att tolka och skapa berednings- och tillverkningsunderlag samt tekniska instruktioner.",
+    "Kunskaper om hur produktionsteknik, kvalitet, lönsamhet och hållbar utveckling samspelar med konstruktionsarbete samt förmåga att optimera konstruktioner mot dessa parametrar.",
+    "Kunskaper om tekniska system samt förmåga att se samspelet mellan komponenter, delsystem och hela system, och i sitt konstruktionsarbete använda detta till att skapa fungerande konstruktioner.",
+    "Kunskaper om provning och förmåga att utföra provning via mätningar, simuleringar och test.",
+    "Förmåga att dokumentera och redovisa konstruktionsarbeten med relevanta hjälpmedel."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet konstruktionsteknik ska syfta till att eleverna utvecklar kunskaper om konstruktionsprocessen för att i sin roll som gymnasieingenjör kunna utföra konstruktionsarbete med hänsyn till produktionstekniska, kvalitetsmässiga, ekonomiska och miljömässiga förutsättningar. Genom undervisningen ska eleverna ges möjlighet att fördjupa sin förståelse av tekniska system och utveckla förmåga att i sitt konstruktionsarbete se samspelet mellan komponenter, delsystem och hela system för att kunna utveckla bättre konstruktioner.",
+    "Undervisningen ska leda till att eleverna självständigt planerar, genomför, dokumenterar och utvärderar konstruktionsarbeten i projektform. Genom undervisningen ska eleverna ges möjlighet att inhämta, sovra och strukturera information, välja och använda konstruktionsmetoder och verktyg samt använda relevanta matematiska och teknikvetenskapliga teorier och modeller. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper i att använda digitala konstruktionsmetoder och verktyg. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om vanliga komponenter samt om svenska och internationella standarder och normer för att använda i sitt arbete.",
+    "Undervisningen ska ge eleverna möjlighet att fördjupa sina kunskaper i materialteknik för att kunna utvärdera och välja material i konstruktioner. Undervisningen ska även ge eleverna möjlighet att tolka och skapa berednings- och tillverkningsunderlag samt tekniska instruktioner. Dessutom ska undervisningen bidra till att eleverna utvecklar kunskaper inom dimensionering och provning av konstruktioner med hjälp av manuella och datorstödda mätningar, simuleringar och tester."
+  ],
+  "courseInfo": {
+    "KORKON3": "Konstruktionsteknik, 100 poäng.",
+    "KORMEK3": "Mekanik och hållfasthetslära, 100 poäng.",
+    "KORMAT3": "Materialteknik, 100 poäng.",
+    "KORTIL3": "Tillämpad konstruktionsteknik, 100 poäng, som bygger på kursen konstruktionsteknik."
+  },
+  "description": "Ämnet konstruktionsteknik behandlar konstruktionsprocessen och hur konstruktören använder dess olika delar för att utveckla och förbättra tekniska lösningar. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "OTHER",
+  "applicableFrom": "2018-07-31T22:00:00.000Z",
+  "courses": [
+    "KORKON3",
+    "KORMAT3",
+    "KORMEK3",
+    "KORTIL3"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "subject": "CAD",
+  "title": "Cad 2",
+  "code": "CADCAD02",
+  "points": 50,
+  "criteria": {
+    "A": [
+      [
+        "Eleven <strong>väljer och</strong> gör <strong>avancerade</strong> inställningar av cad-programvaror för sammanställningar och applikationer <strong>samt diskuterar utförligt alternativa inställningar</strong>.",
+        "Dessutom gör eleven skisser och ritningar för produktionsändamål med <strong>gott</strong> resultat enligt gällande standarder."
+      ],
+      [
+        "Eleven utför <strong>komplexa</strong> sammanställningar med <strong>gott</strong> resultat.",
+        "I arbetet använder eleven <strong>med säkerhet</strong> applikationer i olika <strong>komplexa</strong> situationer.",
+        "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetat kan förbättras</strong>."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven <strong>väljer och</strong> gör inställningar av cad-programvaror för sammanställningar och applikationer <strong>samt diskuterar översiktligt alternativa inställningar</strong>.",
+        "Dessutom gör eleven skisser och ritningar för produktionsändamål med <strong>tillfredsställande</strong> resultat enligt gällande standarder."
+      ],
+      [
+        "Eleven utför <strong>komplexa</strong> sammanställningar med <strong>tillfredsställande</strong> resultat.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> applikationer i olika situationer.",
+        "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>nyanserade</strong> omdömen."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven gör <strong>enkla</strong> inställningar av cad-programvaror för sammanställningar och applikationer.",
+        "Dessutom gör eleven skisser och ritningar för produktionsändamål med <strong>tillfredsställande</strong> resultat enligt gällande standarder."
+      ],
+      [
+        "Eleven utför <strong>enkla</strong> sammanställningar med <strong>tillfredsställande</strong> resultat.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> applikationer i olika <strong>enkla</strong> situationer.",
+        "När arbetet är utfört utvärderar eleven sitt arbete och resultat med <strong>enkla</strong> omdömen."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Cad-systemets inställningar för sammanställningar och analys.",
+        "Skiss- och ritteknik inom valt teknikområde.",
+        "Ritningsunderlag enligt gällande standarder och normer för valt teknikområde.",
+        "Grunderna för att skapa sammanställningar i tre dimensioner med beaktande av konstruktionsvillkor.",
+        "Grundläggande applikationer beroende på teknikområde, till exempel FEM-analys (finita elementmetoden) inom produktutveckling och byggteknik.",
+        "Cad-systemets roll i produktutvecklings- och produktionsprocessen."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen cad 2 omfattar punkterna 1–2 och 4–7 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    3,
+    4,
+    5,
+    6
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Teater",
+  "code": "TEA",
+  "developmentPurposes": [
+    "Färdigheter i att använda kroppen och rösten som sceniska uttrycksmedel.",
+    "Färdigheter i att använda scenografi, kostym, mask, ljus och ljud som sceniska uttrycksmedel.",
+    "Kunskaper om den sceniska berättelsens uppbyggnad.",
+    "Kunskaper om regi och dess betydelse för helheten.",
+    "Förståelse av hur teaterns olika uttrycksområden samverkar.",
+    "Färdigheter i att med teaterns uttrycksmedel kommunicera med en publik.",
+    "Förmåga att samarbeta i grupper.",
+    "Förmåga att reflektera över det egna skapandet.",
+    "Förmåga att analysera och tolka olika sceniska gestaltningar.",
+    "Kunskaper om konstarten teater ur ett samtida och historiskt perspektiv."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet teater ska syfta till att eleverna utvecklar kunskaper om teaterns tre hörnpelare: berättelsen, berättaren och rummet, med uttryck som till exempel skådespeleri, dramatik, regi, scenografi, mask, kostym, ljus och ljud i samspel med en publik. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om att teater genom historien varit en aktiv del av sin samtid. I det kollektiva teaterarbetet är det angeläget att vara lyhörd för andra människor och att kunna ta initiativ. Genom undervisningen ska eleverna därför ges möjlighet att utveckla ansvarskänsla och initiativförmåga.",
+    "Undervisningen ska utgå från elevernas kreativitet och stimulera skaparglädjen, liksom viljan att berätta. I undervisningen ska teori och praktik vävas samman. Undervisningen ska belysa teaterns teori, samhällsfunktion och historia. I det praktiska gestaltningsarbetet ska eleverna få tillgång till material så att de ges möjlighet att utveckla sitt skapande inom teaterns olika områden.",
+    "Centralt i all teater är gestaltning och kommunikation. Undervisningen ska därför bidra till att eleverna utvecklar sin förmåga att gestalta inom teaterns olika områden och förmåga att medvetet kommunicera med sin publik. Metoder för detta ska vara övning, skapande, presentation, upplevelse samt analys och tolkning. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att uppleva olika teaterformer."
+  ],
+  "courseInfo": {
+    "TEASCE01": "Scenisk gestaltning 1, 100 poäng.",
+    "TEASCE02": "Scenisk gestaltning 2, 100 poäng, som bygger på kursen scenisk gestaltning 1.",
+    "TEASCE03": "Scenisk gestaltning 3, 100 poäng, som bygger på kursen scenisk gestaltning 2.",
+    "TEADRM0": "Dramatik och dramaturgi, 100 poäng.",
+    "TEAFYS0": "Fysisk teater, 100 poäng.",
+    "TEALJU00S": "Ljud och ljus, 100 poäng. Kursen kan läsas flera gånger med olika innehåll.",
+    "TEAREG0": "Regi, 100 poäng.",
+    "TEARÖS0": "Röst, 100 poäng.",
+    "TEASCN0": "Sceniskt karaktärsarbete – text, 100 poäng.",
+    "TEASCI0": "Sceniskt karaktärsarbete, 100 poäng.",
+    "TEASCE00S": "Scenografi, mask och kostym, 100 poäng. Kursen kan läsas flera gånger med olika innehåll.",
+    "TEATEA0": "Teaterteori, 100 poäng."
+  },
+  "description": "Teater handlar om mötet mellan aktörer och publik, här och nu. Ämnet teater behandlar de konstnärliga uttrycksformer som kan samverka i en teaterföreställning, till exempel skådespeleri, regi och scenografi. Med hjälp av begrepp, teorier och metoder från dessa konstnärliga uttrycksformer skapas förståelse av teatern som form.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "COMMON",
+  "applicableFrom": "2012-05-02T22:00:00.000Z",
+  "courses": [
+    "TEADRM0",
+    "TEAFYS0",
+    "TEALJU00S",
+    "TEAREG0",
+    "TEARÖS0",
+    "TEASCE01",
+    "TEASCE02",
+    "TEASCE03",
+    "TEASCE00S",
+    "TEASCI0",
+    "TEASCN0",
+    "TEATEA0"
+  ]
+}

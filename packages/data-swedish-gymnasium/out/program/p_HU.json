@@ -1,0 +1,588 @@
+{
+  "title": "Humanistiska programmet",
+  "code": "HU",
+  "url": "https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola/programstruktur-och-examensmal/humanistiska-programmet",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "typeOfProgram": "PRELIMINARY_PROGRAM_FOR_HIGHER_EDUCATION",
+  "applicableFrom": "2018-07-31T22:00:00.000Z",
+  "info": {
+    "degreeObjectives": [
+      "Humanistiska programmet är ett högskoleförberedande program. Efter examen från programmet ska eleverna ha kunskaper för högskolestudier inom främst humaniora men även inom samhällsvetenskap.",
+      "Utbildningen ska utveckla elevernas kunskaper i humaniora. Inom humaniora studeras människan i samtiden och historien utifrån kulturella och språkliga perspektiv, lokalt och globalt, nationellt och internationellt. Utbildningen ska sätta människans skapande och tänkande i centrum och behandla kulturarv, samtida kultur och interkulturella frågor, liksom språk som kulturbärare. Centrala kunskapsområden är därför språk, litteratur, historia, kulturhistoria och filosofi.",
+      "Språk och text intar en särställning och en språklig medvetenhet ska prägla utbildningen. Därför ska utbildningen utveckla elevernas språkliga säkerhet och kreativitet i tal och skrift samt deras förmåga att medvetet använda språket för kommunikation, reflektion och lärande i alla ämnen. Utbildningen ska ge eleverna redskap för att analysera och tolka olika typer av texter och talat språk på svenska och engelska inom programmets olika kunskapsområden.",
+      "Utbildningen ska ge eleverna kunskaper om metoder för att formulera och besvara frågeställningar inom humaniora samt färdigheter i att urskilja fakta, värderingar och logiska resonemang i olika typer av källor. Eleverna ska ges möjlighet att utveckla sin förmåga att argumentera i tal och skrift, dra slutsatser och motivera sina ställningstaganden. Utbildningen ska också ge eleverna färdigheter i att använda digitala verktyg och medier för informationssökning, kommunikation och presentation och i att söka, sovra och bearbeta information från olika typer av material med källkritisk medvetenhet.",
+      "Utbildningen ska bidra till att utveckla elevernas intresse för humaniora. Genom utbildningens betoning på människans tänkande och skapande ska eleverna ges möjlighet att reflektera över etiska och filosofiska frågeställningar, samt att utveckla humanistisk bildning och kunskaper som är betydelsefulla inom andra områden. Eleverna ska ges förutsättningar att utveckla förmåga att ur olika perspektiv beskriva och tolka mänskligt handlande liksom att sätta sig in i och belysa olika sätt att tänka och uttrycka sig.",
+      "Utbildningen ska utveckla elevernas samarbetsförmåga samt stimulera dem att se möjligheter och ta initiativ. Vidare ska utbildningen möjliggöra för eleverna att omsätta kunskaper i humaniora i handling genom möten, studiebesök, utbyten eller andra jämförbara praktiska moment.",
+      "Utbildningen ska ge förutsättningar för eleverna att utveckla grunder i ett vetenskapligt förhållningssätt. Den ska även utveckla elevernas självständighet och ansvarstagande."
+    ],
+    "orientation": {
+      "title": "Inriktningar",
+      "lines": [
+        "Humanistiska programmet har två inriktningar."
+      ]
+    },
+    "educationObjectives": [
+      "Gymnasiearbetet ska visa att eleven är förberedd för högskolestudier inom i första hand det humanistiska området. Det ska utföras på ett sådant sätt att eleven formulerar en frågeställning samt planerar, genomför och utvärderar ett större arbete som utgår från centrala kunskapsområden inom programmet.",
+      "Gymnasiearbetet ska redovisas i en skriftlig rapport med en kort sammanfattning på engelska eller valfritt modernt språk. Eleven ska presentera och diskutera sitt arbete samt ge respons på andra gymnasiearbeten."
+    ]
+  },
+  "education": {
+    "mandatory": {
+      "courses": [
+        "ENGENG05",
+        "ENGENG06",
+        "HISHIS01b",
+        "HISHIS02b",
+        "IDRIDR01",
+        "MATMAT01b",
+        "NAKNAK01b",
+        "RELREL01",
+        "SAMSAM01b",
+        "SVASVA01",
+        "SVASVA02",
+        "SVASVA03",
+        "SVESVE01",
+        "SVESVE02",
+        "SVESVE03"
+      ],
+      "subjects": [
+        {
+          "code": "ENG",
+          "minPoints": 200,
+          "courses": [
+            "ENGENG05",
+            "ENGENG06"
+          ]
+        },
+        {
+          "code": "HIS",
+          "minPoints": 200,
+          "courses": [
+            "HISHIS01b",
+            "HISHIS02b"
+          ]
+        },
+        {
+          "code": "IDR",
+          "minPoints": 100,
+          "courses": [
+            "IDRIDR01"
+          ]
+        },
+        {
+          "code": "MAT",
+          "minPoints": 100,
+          "courses": [
+            "MATMAT01b"
+          ]
+        },
+        {
+          "code": "NAK",
+          "minPoints": 100,
+          "courses": [
+            "NAKNAK01b"
+          ]
+        },
+        {
+          "code": "REL",
+          "minPoints": 50,
+          "courses": [
+            "RELREL01"
+          ]
+        },
+        {
+          "code": "SAM",
+          "minPoints": 100,
+          "courses": [
+            "SAMSAM01b"
+          ]
+        },
+        {
+          "code": "SVA",
+          "minPoints": 300,
+          "courses": [
+            "SVASVA01",
+            "SVASVA02",
+            "SVASVA03"
+          ]
+        },
+        {
+          "code": "SVE",
+          "minPoints": 300,
+          "courses": [
+            "SVESVE01",
+            "SVESVE02",
+            "SVESVE03"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "program": {
+      "courses": [
+        "FIOFIO01",
+        "MÄKMÄK01"
+      ],
+      "subjects": [
+        {
+          "code": "FIO",
+          "minPoints": 50,
+          "courses": [
+            "FIOFIO01"
+          ]
+        },
+        {
+          "code": "MÄK",
+          "minPoints": 100,
+          "courses": [
+            "MÄKMÄK01"
+          ]
+        },
+        {
+          "code": "MOD",
+          "minPoints": 200,
+          "courses": []
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "specialization": {
+      "courses": [
+        "ARKARI0",
+        "ARKARK0",
+        "BIDBIT0",
+        "BILBIL0",
+        "BILBIL01a1",
+        "BILBIL01b",
+        "ENGENG07",
+        "ENTENR0",
+        "ESTEST01",
+        "ESTEST02",
+        "ESTEST03",
+        "FIOFIO02",
+        "GEOGEO01",
+        "HISHIS03",
+        "HUMHUM00S",
+        "JURRÄT0",
+        "KLAKLA01",
+        "KLAKLA02",
+        "KOSFIL0",
+        "KOSKOS0",
+        "KOSKUL0",
+        "KOSSAT0",
+        "LATLAT01",
+        "LATLAT02",
+        "LATLAT03",
+        "MÄKMÄK02",
+        "MATMAT02b",
+        "MATMAT03b",
+        "MATMAT04",
+        "MEEJOU01",
+        "MEETET0",
+        "MERMEE01",
+        "MODXXX01",
+        "MODXXX02",
+        "MODXXX03",
+        "MODXXX04",
+        "MODXXX05",
+        "MODXXX06",
+        "MODXXX07",
+        "MODZHO01",
+        "MODZHO02",
+        "MODZHO03",
+        "MODZHO04",
+        "MODZHO05",
+        "MODZHO06",
+        "MODZHO07",
+        "MOEMOD0",
+        "MOEXXX01",
+        "MOEXXX02",
+        "NAKNAK02",
+        "PEDKOU0",
+        "PEDLÄR0",
+        "PEDMÄI0",
+        "PEDPEG0",
+        "PEGDRA0",
+        "PRRPRR01",
+        "PSKPSY01",
+        "PSKPSY02a",
+        "PSKPSY02b",
+        "RELREL0",
+        "RELREL02",
+        "SAMINR0",
+        "SAMSAM02",
+        "SAMSAM03",
+        "SOIETN0",
+        "SOISOO0",
+        "SOIUNG0",
+        "SPAXXX0",
+        "SPAXXX01a",
+        "SPAXXX01b",
+        "SVELIT0",
+        "SVERET0",
+        "SVESKR0",
+        "TEADRM0",
+        "TEATEA0",
+        "TIATIL00S",
+        "VISVIS0"
+      ],
+      "subjects": [
+        {
+          "code": "ARK",
+          "minPoints": 200,
+          "courses": [
+            "ARKARI0",
+            "ARKARK0"
+          ]
+        },
+        {
+          "code": "BID",
+          "minPoints": 100,
+          "courses": [
+            "BIDBIT0"
+          ]
+        },
+        {
+          "code": "BIL",
+          "minPoints": 250,
+          "courses": [
+            "BILBIL0",
+            "BILBIL01a1",
+            "BILBIL01b"
+          ]
+        },
+        {
+          "code": "ENG",
+          "minPoints": 100,
+          "courses": [
+            "ENGENG07"
+          ]
+        },
+        {
+          "code": "ENT",
+          "minPoints": 100,
+          "courses": [
+            "ENTENR0"
+          ]
+        },
+        {
+          "code": "EST",
+          "minPoints": 300,
+          "courses": [
+            "ESTEST01",
+            "ESTEST02",
+            "ESTEST03"
+          ]
+        },
+        {
+          "code": "FIO",
+          "minPoints": 50,
+          "courses": [
+            "FIOFIO02"
+          ]
+        },
+        {
+          "code": "GEO",
+          "minPoints": 100,
+          "courses": [
+            "GEOGEO01"
+          ]
+        },
+        {
+          "code": "HIS",
+          "minPoints": 100,
+          "courses": [
+            "HISHIS03"
+          ]
+        },
+        {
+          "code": "HUM",
+          "minPoints": 100,
+          "courses": [
+            "HUMHUM00S"
+          ]
+        },
+        {
+          "code": "JUR",
+          "minPoints": 100,
+          "courses": [
+            "JURRÄT0"
+          ]
+        },
+        {
+          "code": "KLA",
+          "minPoints": 200,
+          "courses": [
+            "KLAKLA01",
+            "KLAKLA02"
+          ]
+        },
+        {
+          "code": "KOS",
+          "minPoints": 350,
+          "courses": [
+            "KOSFIL0",
+            "KOSKOS0",
+            "KOSKUL0",
+            "KOSSAT0"
+          ]
+        },
+        {
+          "code": "LAT",
+          "minPoints": 300,
+          "courses": [
+            "LATLAT01",
+            "LATLAT02",
+            "LATLAT03"
+          ]
+        },
+        {
+          "code": "MÄK",
+          "minPoints": 100,
+          "courses": [
+            "MÄKMÄK02"
+          ]
+        },
+        {
+          "code": "MAT",
+          "minPoints": 300,
+          "courses": [
+            "MATMAT02b",
+            "MATMAT03b",
+            "MATMAT04"
+          ]
+        },
+        {
+          "code": "MEE",
+          "minPoints": 200,
+          "courses": [
+            "MEEJOU01",
+            "MEETET0"
+          ]
+        },
+        {
+          "code": "MER",
+          "minPoints": 100,
+          "courses": [
+            "MERMEE01"
+          ]
+        },
+        {
+          "code": "MOD",
+          "minPoints": 1400,
+          "courses": [
+            "MODXXX01",
+            "MODXXX02",
+            "MODXXX03",
+            "MODXXX04",
+            "MODXXX05",
+            "MODXXX06",
+            "MODXXX07",
+            "MODZHO01",
+            "MODZHO02",
+            "MODZHO03",
+            "MODZHO04",
+            "MODZHO05",
+            "MODZHO06",
+            "MODZHO07"
+          ]
+        },
+        {
+          "code": "MOE",
+          "minPoints": 300,
+          "courses": [
+            "MOEMOD0",
+            "MOEXXX01",
+            "MOEXXX02"
+          ]
+        },
+        {
+          "code": "NAK",
+          "minPoints": 100,
+          "courses": [
+            "NAKNAK02"
+          ]
+        },
+        {
+          "code": "PED",
+          "minPoints": 400,
+          "courses": [
+            "PEDKOU0",
+            "PEDLÄR0",
+            "PEDMÄI0",
+            "PEDPEG0"
+          ]
+        },
+        {
+          "code": "PEG",
+          "minPoints": 100,
+          "courses": [
+            "PEGDRA0"
+          ]
+        },
+        {
+          "code": "PRR",
+          "minPoints": 100,
+          "courses": [
+            "PRRPRR01"
+          ]
+        },
+        {
+          "code": "PSK",
+          "minPoints": 150,
+          "courses": [
+            "PSKPSY01",
+            "PSKPSY02a",
+            "PSKPSY02b"
+          ]
+        },
+        {
+          "code": "REL",
+          "minPoints": 150,
+          "courses": [
+            "RELREL0",
+            "RELREL02"
+          ]
+        },
+        {
+          "code": "SAM",
+          "minPoints": 300,
+          "courses": [
+            "SAMINR0",
+            "SAMSAM02",
+            "SAMSAM03"
+          ]
+        },
+        {
+          "code": "SOI",
+          "minPoints": 300,
+          "courses": [
+            "SOIETN0",
+            "SOISOO0",
+            "SOIUNG0"
+          ]
+        },
+        {
+          "code": "SPA",
+          "minPoints": 250,
+          "courses": [
+            "SPAXXX0",
+            "SPAXXX01a",
+            "SPAXXX01b"
+          ]
+        },
+        {
+          "code": "SVE",
+          "minPoints": 300,
+          "courses": [
+            "SVELIT0",
+            "SVERET0",
+            "SVESKR0"
+          ]
+        },
+        {
+          "code": "SVT",
+          "minPoints": 0,
+          "courses": []
+        },
+        {
+          "code": "TEA",
+          "minPoints": 200,
+          "courses": [
+            "TEADRM0",
+            "TEATEA0"
+          ]
+        },
+        {
+          "code": "TIA",
+          "minPoints": 100,
+          "courses": [
+            "TIATIL00S"
+          ]
+        },
+        {
+          "code": "VIS",
+          "minPoints": 100,
+          "courses": [
+            "VISVIS0"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "orientations": [
+      {
+        "name": "Kultur",
+        "code": "HUKUL",
+        "points": 400,
+        "courses": [
+          "FIOFIO02",
+          "KOSKUL0",
+          "KOSSAT0",
+          "PSKPSY01",
+          "SVELIT0"
+        ],
+        "subjects": [
+          {
+            "code": "FIO",
+            "minPoints": 50,
+            "courses": [
+              "FIOFIO02"
+            ]
+          },
+          {
+            "code": "KOS",
+            "minPoints": 200,
+            "courses": [
+              "KOSKUL0",
+              "KOSSAT0"
+            ]
+          },
+          {
+            "code": "PSK",
+            "minPoints": 50,
+            "courses": [
+              "PSKPSY01"
+            ]
+          },
+          {
+            "code": "SVE",
+            "minPoints": 100,
+            "courses": [
+              "SVELIT0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Språk",
+        "code": "HUSPR",
+        "points": 400,
+        "courses": [
+          "LATLAT01"
+        ],
+        "subjects": [
+          {
+            "code": "LAT",
+            "minPoints": 100,
+            "courses": [
+              "LATLAT01"
+            ]
+          }
+        ],
+        "aliasSubjects": [
+          {
+            "code": "SPK",
+            "name": "Språk",
+            "optional": false,
+            "minPoints": 300,
+            "courses": []
+          }
+        ]
+      }
+    ],
+    "profiles": [],
+    "professionalDegrees": []
+  }
+}

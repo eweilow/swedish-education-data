@@ -1,0 +1,107 @@
+{
+  "subject": "FLY",
+  "title": "Underhållsteknik – flyg",
+  "code": "FLYUNS0",
+  "points": 200,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> med stöd av informationsmaterial <strong>olika</strong> flygmaterial och verktyg samt deras funktion.",
+        "Dessutom beskriver eleven <strong>utförligt och nyanserat olika</strong> metoder vid reparation och underhåll."
+      ],
+      [
+        "Eleven utför <strong>efter samråd</strong> med handledare och med hjälp av skrivna instruktioner <strong>avancerade</strong> reparationer och <strong>avancerat</strong> underhåll.",
+        "Dessutom utför eleven <strong>efter samråd</strong> med handledare <strong>avancerade</strong> sammanfogningar av detaljer och komponenter i luftfartyg utifrån ställda kvalitetskrav.",
+        "Eleven arbetar i bekanta <strong>och nya</strong> situationer utifrån det regelverk som uppgiften kräver.",
+        "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sina arbetsprocesser och sitt resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>.",
+        "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "Eleven kommunicerar med ett <strong>nyanserat och</strong> för arbetsuppgiften fungerande fackspråk.",
+        "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla och utveckla samarbetet</strong> för att nå planerade resultat.",
+        "Resultatet av elevens arbete är <strong>gott</strong>."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> med stöd av informationsmaterial <strong>olika</strong> flygmaterial och verktyg samt deras funktion.",
+        "Dessutom beskriver eleven <strong>utförligt olika</strong> metoder vid reparation och underhåll."
+      ],
+      [
+        "Eleven utför <strong>efter samråd</strong> med handledare och med hjälp av skrivna instruktioner reparationer och underhåll.",
+        "Dessutom utför eleven <strong>efter samråd</strong> med handledare sammanfogningar av detaljer och komponenter i luftfartyg utifrån ställda kvalitetskrav.",
+        "Eleven arbetar i bekanta <strong>och delvis nya</strong> situationer utifrån det regelverk som uppgiften kräver.",
+        "När arbetet är utfört utvärderar eleven med <strong>nyanserade</strong> omdömen sina arbetsprocesser och sitt resultat.",
+        "Dessutom gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "Eleven kommunicerar med ett för arbetsuppgiften fungerande fackspråk.",
+        "Dessutom samarbetar eleven <strong>och medverkar till att upprätthålla samarbetet</strong> för att nå planerade resultat.",
+        "Resultatet av elevens arbete är <strong>tillfredsställande</strong>."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> med stöd av informationsmaterial <strong>vanligt förekommande</strong> flygmaterial och verktyg samt deras funktion.",
+        "Dessutom beskriver eleven <strong>översiktligt vanligt förekommande</strong> metoder vid reparation och underhåll."
+      ],
+      [
+        "Eleven utför <strong>i samråd</strong> med handledare och med hjälp av skrivna instruktioner <strong>enkla</strong> reparationer och <strong>enkelt</strong> underhåll.",
+        "Dessutom utför eleven <strong>i samråd</strong> med handledare sammanfogningar av detaljer och komponenter i luftfartyg utifrån ställda kvalitetskrav.",
+        "Eleven arbetar i bekanta situationer utifrån det regelverk som uppgiften kräver.",
+        "När arbetet är utfört utvärderar eleven med <strong>enkla</strong> omdömen sina arbetsprocesser och sitt resultat.",
+        "Dessutom gör eleven en <strong>enkel</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "Eleven kommunicerar med ett <strong>enkelt men</strong> för arbetsuppgiften fungerande fackspråk.",
+        "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "Resultatet av elevens arbete är <strong>tillfredsställande</strong>."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Allmänna och för yrkesområdet typiska verktyg och tillsynsmetoder.",
+        "Handhavande av flygplan på marken samt demontering och montering av komponenter.",
+        "Inspektionsteknik samt hur flygteknisk underhållsteknik regleras av luftfartsbestämmelserna.",
+        "Miljö- och säkerhetsaspekter på arbetsplatsen, i synnerhet säkerhetsåtgärder för luftfartyg och i verkstad.",
+        "Verkstadsrutiner, till exempel vård av verktyg och kalibreringsstandarder.",
+        "Provutrustning för avionik.",
+        "Maskinritningar, diagram och standarder.",
+        "Passningar och spel, till exempel scheman för passningar och spel.",
+        "Rör och slangar, till exempel inspektion och provning av dessa.",
+        "Fjädrar, till exempel inspektion och provning av dessa.",
+        "Lager, till exempel inspektion och provning av dessa.",
+        "Transmissioner, till exempel inspektion och provning av dessa.",
+        "Roderlinor, till exempel inspektion och provning av dessa.",
+        "Materialhantering, till exempel plåtbearbetning och inspektionsmetoder.",
+        "Sammanfogning, till exempel svetsning, hårdlödning, lödning, nitning, klämning och limning.",
+        "Luftfartygs vikt och balans.",
+        "Luftfartygs handhavande och förvaring.",
+        "Demonterings-, inspektions-, reparations- och monteringstekniker.",
+        "Onormala händelser, till exempel åsknedslag, hårda landningar och turbulens.",
+        "Underhållsförfarande, till exempel underhållsplanering och utfärdande av intyg."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen underhållsteknik – flyg omfattar punkterna 3–8 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]
+}

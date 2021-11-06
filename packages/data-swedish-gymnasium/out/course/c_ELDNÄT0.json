@@ -1,0 +1,106 @@
+{
+  "subject": "ELD",
+  "title": "Nät- och transformatorstationer",
+  "code": "ELDNÄT0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> hur nät- och transformatorstationers komponenter och utrustningar fungerar och arbetar."
+      ],
+      [
+        "Eleven planerar <strong>efter samråd</strong> med handledare vanligt förekommande arbete i nät- och transformatorstationer utifrån föreskrifter och standarder inom området.",
+        "I planeringen läser och tolkar eleven <strong>med säkerhet</strong> elscheman och andra dokument.",
+        "Dessutom väljer eleven <strong>med säkerhet</strong> lämpliga metoder och lämplig utrustning för arbetet <strong>samt motiverar sina val</strong>.",
+        "Inför arbetet gör eleven en <strong>välgrundad</strong> riskbedömning och anpassar vid behov sin planering utifrån den.",
+        "Eleven utför <strong>efter samråd</strong> med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra.",
+        "I arbetet använder eleven <strong>med säkerhet</strong> metoderna och utrustningen.",
+        "Under arbetets gång upptäcker eleven <strong>avancerade</strong> problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare.",
+        "I arbetet kommunicerar eleven <strong>med säkerhet</strong> med andra."
+      ],
+      [
+        "Eleven kontrollerar <strong>efter samråd</strong> med handledare säkerheten i anläggningar samt söker och reparerar <strong>efter samråd</strong> med handledare <strong>avancerade</strong> fel som uppkommer i såväl nya som befintliga anläggningar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> hur nät- och transformatorstationers komponenter och utrustningar fungerar och arbetar."
+      ],
+      [
+        "Eleven planerar <strong>efter samråd</strong> med handledare vanligt förekommande arbete i nät- och transformatorstationer utifrån föreskrifter och standarder inom området.",
+        "I planeringen läser och tolkar eleven <strong>med viss säkerhet</strong> elscheman och andra dokument.",
+        "Dessutom väljer eleven <strong>med viss säkerhet</strong> lämpliga metoder och lämplig utrustning för arbetet.",
+        "Inför arbetet gör eleven en riskbedömning och anpassar vid behov sin planering utifrån den.",
+        "Eleven utför <strong>efter samråd</strong> med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> metoderna och utrustningen.",
+        "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem <strong>efter samråd</strong> med handledare.",
+        "I arbetet kommunicerar eleven <strong>med viss säkerhet</strong> med andra."
+      ],
+      [
+        "Eleven kontrollerar <strong>efter samråd</strong> med handledare säkerheten i anläggningar samt söker och reparerar <strong>efter samråd</strong> med handledare fel som uppkommer i såväl nya som befintliga anläggningar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> hur nät- och transformatorstationers komponenter och utrustningar fungerar och arbetar."
+      ],
+      [
+        "Eleven planerar <strong>i samråd</strong> med handledare vanligt förekommande arbete i nät- och transformatorstationer utifrån föreskrifter och standarder inom området.",
+        "I planeringen läser och tolkar eleven <strong>med viss säkerhet</strong> elscheman och andra dokument.",
+        "Dessutom väljer eleven <strong>med viss säkerhet</strong> lämpliga metoder och lämplig utrustning för arbetet.",
+        "Inför arbetet gör eleven en <strong>enkel</strong> riskbedömning och anpassar vid behov sin planering utifrån den.",
+        "Eleven utför <strong>i samråd</strong> med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> metoderna och utrustningen.",
+        "Under arbetets gång upptäcker eleven <strong>enkla</strong> problem som uppkommer och löser dem <strong>i samråd</strong> med handledare.",
+        "I arbetet kommunicerar eleven <strong>med viss säkerhet</strong> med andra."
+      ],
+      [
+        "Eleven kontrollerar <strong>i samråd</strong> med handledare säkerheten i anläggningar samt söker och reparerar <strong>i samråd</strong> med handledare <strong>enkla</strong> fel som uppkommer i såväl nya som befintliga anläggningar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Nätstationers utformning och bestyckning.",
+        "Driftcentralens uppbyggnad och systemfunktioner.",
+        "Avbrottsfri strömförsörjning (UPS) och batterianläggningar.",
+        "Transformatorstationer (40–400 kV) samt ställverks- och brytarkonstruktioner.",
+        "Transformatorstationernas kommunikationssystem.",
+        "Lastfrånskiljare och kopplingsutrustning.",
+        "Montering av kopplingsapparater och kablar.",
+        "Drifttillsyn samt underhåll och besiktning av nät- och transformatorstationer.",
+        "Elsäkerhetsanvisningarna (ESA).",
+        "Skyddsutrustning för personsäkerhet vid arbete i nät- och transformatorstationer.",
+        "Skydd för systemens olika delar.",
+        "Spänningsprovning och arbetsjordning.",
+        "Överspänningsskydd och hjälpkraftsystem.",
+        "Kontrollanläggningens funktionsblock och delsystem.",
+        "Uppbyggnad och driftsäkerhetskrav för datoriserade kontrollanläggningar.",
+        "Kontrollanläggningsområdets olika elmiljöklasser.",
+        "Fjärrkontrollsystemets uppgift och struktur."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen nät- och transformatorstationer omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]
+}

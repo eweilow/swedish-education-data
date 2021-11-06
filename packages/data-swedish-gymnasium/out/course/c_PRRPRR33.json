@@ -1,0 +1,101 @@
+{
+  "subject": "PRR",
+  "title": "Programmering 3",
+  "code": "PRRPRR33",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven planerar <strong>efter samråd</strong> med handledare programmeringsuppgifter och väljer <strong>med säkerhet</strong> lämpliga programspråk.",
+        "I planeringen väljer eleven <strong>efter samråd</strong> med handledare datastrukturer och algoritmer som är adekvata för uppgiften.",
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för olika programmeringsparadigms historik och användningsområden."
+      ],
+      [
+        "Eleven implementerar <strong>flera</strong> datastrukturer och <strong>efter samråd</strong> med handledare också <strong>några</strong> algoritmer samt löser <strong>flera</strong> uppgifter genom att utnyttja rekursion.",
+        "Eleven använder med <strong>mycket gott</strong> handlag gränssnitt i sin programmering både mot internet och databashanterare.",
+        "Dessutom gör eleven en <strong>avancerad</strong> analys av en eller flera algoritmers komplexitet.",
+        "Eleven strukturerar och dokumenterar sitt arbete <strong>med säkerhet</strong> enligt en fungerande modell.",
+        "Elevens färdiga program är <strong>robusta</strong> och utförda med <strong>god</strong> kvalitet i flera programspråk från olika programmeringsparadigm <strong>i program av komplex karaktär</strong>."
+      ],
+      [
+        "Eleven anpassar <strong>med säkerhet</strong> sin planering av programmeringsuppgifter och utför <strong>på ett systematiskt och effektivt sätt</strong> felsökning av logiska fel och syntaxfel.",
+        "Eleven kvalitetssäkrar sitt program med <strong>mycket gott</strong> handlag genom <strong>omfattande</strong> manuella och automatiserade tekniker eller tester.",
+        "Innan programmeringsuppgifter avslutas utvärderar eleven med <strong>välgrundade och nyanserade</strong> omdömen <strong>samt ger förslag på förbättringar</strong> av programmens prestanda och ändamålsenlighet i <strong>flera</strong> situationer och sammanhang.",
+        "Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då <strong>med säkerhet</strong> datavetenskapliga begrepp."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven planerar <strong>efter samråd</strong> med handledare programmeringsuppgifter och väljer <strong>med viss säkerhet</strong> lämpliga programspråk.",
+        "I planeringen väljer eleven <strong>efter samråd</strong> med handledare datastrukturer och algoritmer som är adekvata för uppgiften.",
+        "Eleven redogör <strong>utförligt</strong> för olika programmeringsparadigms historik och användningsområden."
+      ],
+      [
+        "Eleven implementerar <strong>några</strong> datastrukturer och <strong>efter samråd</strong> med handledare också <strong>någon</strong> algoritm samt löser <strong>några</strong> uppgifter genom att utnyttja rekursion.",
+        "Eleven använder med <strong>gott</strong> handlag i sin programmering gränssnitt både mot internet och databashanterare.",
+        "Dessutom gör eleven en analys av en eller flera algoritmers komplexitet.",
+        "Eleven strukturerar och dokumenterar sitt arbete <strong>med viss säkerhet</strong> enligt en fungerande modell.",
+        "Elevens färdiga program är <strong>robusta</strong> och utförda med <strong>tillfredsställande</strong> kvalitet i flera programspråk från olika programmeringsparadigm."
+      ],
+      [
+        "Eleven anpassar <strong>med viss säkerhet</strong> sin planering av programmeringsuppgifter och utför <strong>på ett systematiskt sätt</strong> felsökning av logiska fel och syntaxfel.",
+        "Eleven kvalitetssäkrar sitt program med <strong>gott</strong> handlag genom manuella och automatiserade tekniker eller tester.",
+        "Innan programmeringsuppgiften avslutas utvärderar eleven med <strong>välgrundade</strong> omdömen programmets prestanda och ändamålsenlighet i <strong>några</strong> situationer och sammanhang.",
+        "Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då <strong>med viss säkerhet</strong> datavetenskapliga begrepp."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven planerar <strong>i samråd</strong> med handledare programmeringsuppgifter och väljer <strong>med viss säkerhet</strong> lämpliga programspråk.",
+        "I planeringen väljer eleven <strong>i samråd</strong> med handledare datastrukturer och algoritmer som är adekvata för uppgiften.",
+        "Eleven redogör <strong>översiktligt</strong> för olika programmeringsparadigms historik och användningsområden."
+      ],
+      [
+        "Eleven implementerar <strong>någon</strong> datastruktur och <strong>i samråd</strong> med handledare också <strong>någon</strong> algoritm samt löser <strong>någon</strong> uppgift genom att utnyttja rekursion.",
+        "Eleven använder <strong>med visst</strong> handlag i sin programmering gränssnitt både mot internet och databashanterare.",
+        "Dessutom gör eleven en <strong>enkel</strong> analys av en eller flera algoritmers komplexitet.",
+        "Eleven strukturerar och dokumenterar sitt arbete <strong>med viss säkerhet</strong> enligt en fungerande modell.",
+        "Elevens färdiga program är utförda med <strong>tillfredsställande</strong> kvalitet i flera programspråk från olika programmeringsparadigm <strong>i program av enkel karaktär</strong>."
+      ],
+      [
+        "Eleven anpassar <strong>med viss säkerhet</strong> sin planering av programmeringsuppgiften och utför felsökning av logiska fel och syntaxfel.",
+        "Eleven kvalitetssäkrar sitt program med <strong>visst</strong> handlag genom <strong>begränsade</strong> manuella och automatiserade tekniker eller tester.",
+        "Innan programmeringsuppgiften avslutas utvärderar eleven med <strong>enkla</strong> omdömen programmets prestanda och ändamålsenlighet i <strong>någon</strong> situation och i <strong>något</strong> sammanhang.",
+        "Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då <strong>med viss säkerhet</strong> datavetenskapliga begrepp."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Olika programmeringsparadigms historik och användningsområden.",
+        "Olika programspråks historik och inbördes släktskap samt de vanligaste programspråkens aktuella användningsområden.",
+        "Programmering i kompilerade och tolkade programspråk.",
+        "Rekursion.",
+        "Abstrakta modeller, till exempel tillståndsmaskin.",
+        "Analys och val av datastrukturer och algoritmer utifrån tillämpning och prestanda.",
+        "Designmönster och mjukvaruarkitektur.",
+        "Analys, nedbrytning och modellering av programmeringstekniska problem med flera lämpliga verktyg och metoder.",
+        "Dokumentation.",
+        "Design av lämplig lösning ur föregående analys med flera lämpliga verktyg och metoder.",
+        "Programmering i språk från flera paradigm.",
+        "Användning av webbtjänster, protokoll, gränssnitt och format för datautbyte.",
+        "Användning av databashanterare för lagring av data.",
+        "Kvalitetssäkring och testning av källkod genom manuella och automatiserade metoder, till exempel kodgranskning och enhetstestning."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen programmering 3 omfattar punkterna 2–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2–4.",
+  "applicableSubjectPurposes": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ]
+}

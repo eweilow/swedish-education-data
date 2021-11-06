@@ -1,0 +1,287 @@
+{
+  "title": "Tågteknikutbildningen",
+  "code": "TX",
+  "url": "https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola/programstruktur-och-examensmal/tagteknikutbildningen",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "typeOfProgram": "NATIONAL_RECRUITMENT_FOR_LOCAL_SPECIALIZATION",
+  "applicableFrom": "2017-07-31T22:00:00.000Z",
+  "info": {
+    "degreeObjectives": [
+      "Tågteknikutbildningen är en riksrekryterande yrkesutbildning inom gymnasieskolan med egna examensmål. Efter examen från utbildningen ska eleverna ha de kunskaper som behövs för att arbeta med avhjälpande och förebyggande underhåll av spårbundna fordon.",
+      "Utbildningen ska utveckla elevernas kunskaper om tekniken i spårbundna fordon. I detta ingår spårbundna fordons funktion och konstruktion samt felsökning, reparation och service av spårbundna fordon och deras kringutrustning. Eftersom tågtekniskt underhållsarbete präglas av höga krav på säkerhet och kvalitet är det av stor betydelse att undvika mänskliga felhandlingar. Utbildningen ska därför utveckla elevernas kunskaper om samspelet mellan människa och maskin.",
+      "Snabb teknisk utveckling utmärker de yrken som utbildningen leder till. Den tekniska utrustning som används blir också alltmer komplex, specialiserad och anpassad till den specifika typen av spårfordon eller arbetsområde. Avancerad teknik och olika sätt att organisera arbetet kräver förmåga att reflektera över, värdera och välja mellan olika handlingsalternativ. Utbildningen ska därför utveckla elevernas förmåga till fortsatt lärande i arbetslivet och till att ta ansvar för sin egen utveckling inom yrket. Eleverna ska också utveckla kunskaper om och färdigheter i att välja rätt utrustning och metod för att utföra arbetsuppgifter med hänsyn till miljö, kvalitet, säkerhet och ekonomi. Eleverna ska utveckla förmåga att genomföra olika arbetsuppgifter utifrån krav på hållbar utveckling.",
+      "Utvecklingen inom de yrken som utbildningen leder till innebär att en person ensam arbetar med många skilda uppgifter i verksamheten, där olika typer av problem kan uppstå. Det ställer höga krav på förmåga till självständig problemlösning. Inom de yrken utbildningen leder till har dock inte alltid en person all den kunskap som krävs för att lösa en viss uppgift. Utbildningen ska därför utveckla elevernas förmåga att arbeta både självständigt och i lag där personer med olika kunskaper samarbetar för att lösa problem. Eleverna ska även ges möjlighet att utveckla initiativförmåga, idérikedom och företagsamhet. Utbildningen ska ge eleverna möjlighet att diskutera och reflektera över sitt eget lärande utifrån olika arbetsuppgifter och därigenom få en förståelse av sin egen yrkesutövning och yrket i stort.",
+      "Eleverna ska utveckla ett yrkesmässigt språkbruk som fungerar i olika situationer med ett ordförråd som är relevant för yrket i både svenska och engelska. Dessutom ska eleverna utveckla sin förmåga att följa och upprätta dokumentation enligt de krav som finns inom branschen. Kunskaper om olika datasystem krävs inom de yrken utbildningen leder till. Utbildningen ska därför utveckla elevernas förmåga att använda datorer och datasystem på det sätt som yrket kräver.",
+      "Utbildningen ska utveckla elevernas kunskaper om nationella och internationella överenskommelser, lagar och andra bestämmelser inom valt yrkesområde. Dessa kunskaper är till exempel viktiga för att skapa en bra arbetsmiljö och förebygga arbetsskador.",
+      "Arbetsplatsförlagt lärande ska förekomma på utbildningen. Det arbetsplatsförlagda lärandet ska bidra till att eleverna utvecklar yrkeskunskaper och en yrkesidentitet samt förstår yrkeskulturen och blir en del av yrkesgemenskapen på en arbetsplats. Det arbetsplatsförlagda lärandet kan också ge inblick i företagandets villkor.",
+      "Examensmålet gäller för både skolförlagd utbildning och lärlingsutbildning."
+    ],
+    "orientation": {
+      "title": "Inriktningar",
+      "lines": [
+        "Tågteknikutbildningen har inga inriktningar.",
+        "Utbildningen kan leda till arbete som till exempel tågmekaniker eller underhållsmekaniker.",
+        "Utbildningen kan leda till fortsatta studier på yrkeshögskola."
+      ]
+    },
+    "educationObjectives": [
+      "Gymnasiearbetet ska visa att eleven är förberedd för det yrkesområde som gäller för den valda yrkesutgången. Det ska pröva elevens förmåga att utföra vanligt förekommande arbetsuppgifter inom yrkesområdet.",
+      "Gymnasiearbetet ska utföras på ett sådant sätt att eleven planerar, genomför och utvärderar sin uppgift.",
+      "Gymnasiearbetet kan utformas så att det ger eleverna möjlighet att pröva sitt yrkeskunnande i företagsliknande arbetsformer."
+    ]
+  },
+  "education": {
+    "mandatory": {
+      "courses": [
+        "ENGENG05",
+        "HISHIS01a1",
+        "IDRIDR01",
+        "MATMAT01a",
+        "NAKNAK01a1",
+        "RELREL01",
+        "SAMSAM01a1",
+        "SVASVA01",
+        "SVESVE01"
+      ],
+      "subjects": [
+        {
+          "code": "ENG",
+          "minPoints": 100,
+          "courses": [
+            "ENGENG05"
+          ]
+        },
+        {
+          "code": "HIS",
+          "minPoints": 50,
+          "courses": [
+            "HISHIS01a1"
+          ]
+        },
+        {
+          "code": "IDR",
+          "minPoints": 100,
+          "courses": [
+            "IDRIDR01"
+          ]
+        },
+        {
+          "code": "MAT",
+          "minPoints": 100,
+          "courses": [
+            "MATMAT01a"
+          ]
+        },
+        {
+          "code": "NAK",
+          "minPoints": 50,
+          "courses": [
+            "NAKNAK01a1"
+          ]
+        },
+        {
+          "code": "REL",
+          "minPoints": 50,
+          "courses": [
+            "RELREL01"
+          ]
+        },
+        {
+          "code": "SAM",
+          "minPoints": 50,
+          "courses": [
+            "SAMSAM01a1"
+          ]
+        },
+        {
+          "code": "SVA",
+          "minPoints": 100,
+          "courses": [
+            "SVASVA01"
+          ]
+        },
+        {
+          "code": "SVE",
+          "minPoints": 100,
+          "courses": [
+            "SVESVE01"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "program": {
+      "courses": [
+        "CADCAD01",
+        "DRIUND0",
+        "DRIUNH0",
+        "ELNELE0",
+        "LLAELL01",
+        "LLAELL02",
+        "PRUPRD01S",
+        "SPOSPA0",
+        "VEAVER0"
+      ],
+      "subjects": [
+        {
+          "code": "CAD",
+          "minPoints": 50,
+          "courses": [
+            "CADCAD01"
+          ]
+        },
+        {
+          "code": "DRI",
+          "minPoints": 200,
+          "courses": [
+            "DRIUND0",
+            "DRIUNH0"
+          ]
+        },
+        {
+          "code": "ELN",
+          "minPoints": 100,
+          "courses": [
+            "ELNELE0"
+          ]
+        },
+        {
+          "code": "LLA",
+          "minPoints": 200,
+          "courses": [
+            "LLAELL01",
+            "LLAELL02"
+          ]
+        },
+        {
+          "code": "PRU",
+          "minPoints": 100,
+          "courses": [
+            "PRUPRD01S"
+          ]
+        },
+        {
+          "code": "SPO",
+          "minPoints": 150,
+          "courses": [
+            "SPOSPA0"
+          ]
+        },
+        {
+          "code": "VEA",
+          "minPoints": 100,
+          "courses": [
+            "VEAVER0"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "specialization": {
+      "courses": [
+        "DAODAC0",
+        "DAYPRO0",
+        "ELFELK0",
+        "ENTENR0",
+        "MATMAT02a",
+        "SVASVA02",
+        "SVESVE02",
+        "SYTSYS0",
+        "TRFTRA0"
+      ],
+      "subjects": [
+        {
+          "code": "DAO",
+          "minPoints": 100,
+          "courses": [
+            "DAODAC0"
+          ]
+        },
+        {
+          "code": "DAY",
+          "minPoints": 200,
+          "courses": [
+            "DAYPRO0"
+          ]
+        },
+        {
+          "code": "ELF",
+          "minPoints": 150,
+          "courses": [
+            "ELFELK0"
+          ]
+        },
+        {
+          "code": "ENT",
+          "minPoints": 100,
+          "courses": [
+            "ENTENR0"
+          ]
+        },
+        {
+          "code": "MAT",
+          "minPoints": 100,
+          "courses": [
+            "MATMAT02a"
+          ]
+        },
+        {
+          "code": "SVA",
+          "minPoints": 100,
+          "courses": [
+            "SVASVA02"
+          ]
+        },
+        {
+          "code": "SVE",
+          "minPoints": 100,
+          "courses": [
+            "SVESVE02"
+          ]
+        },
+        {
+          "code": "SYT",
+          "minPoints": 150,
+          "courses": [
+            "SYTSYS0"
+          ]
+        },
+        {
+          "code": "TRF",
+          "minPoints": 100,
+          "courses": [
+            "TRFTRA0"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "orientations": [],
+    "profiles": [],
+    "professionalDegrees": [
+      {
+        "name": "Mekaniker spårbundna fordon",
+        "code": "TXTAG",
+        "courses": [],
+        "subjects": []
+      },
+      {
+        "name": "Underhållsmekaniker",
+        "code": "TXTAG",
+        "courses": [
+          "ENTENR0"
+        ],
+        "subjects": [
+          {
+            "code": "ENT",
+            "minPoints": 100,
+            "courses": [
+              "ENTENR0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      }
+    ]
+  }
+}

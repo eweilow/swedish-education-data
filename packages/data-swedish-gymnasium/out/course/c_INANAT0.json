@@ -1,0 +1,102 @@
+{
+  "subject": "INA",
+  "title": "Nätverks- och kommunikationstjänster",
+  "code": "INANAT0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för begrepp och teorier inom teknikområdet samt beskriver <strong>utförligt och nyanserat</strong> uppbyggnad, funktion och arbetssätt hos olika nätverks- och kommunikationstjänster och hur driftsäkerhet kan uppnås.",
+        "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur olika nätverks- och kommunikationstjänster på ett informationssäkert sätt kan integreras i nya eller förbättrade system."
+      ],
+      [
+        "Eleven analyserar <strong>efter samråd</strong> med handledare befintliga informationstekniska system för datakommunikation samt dokumenterar sin analys.",
+        "Resultatet av arbetet är <strong>gott</strong>.",
+        "Dessutom installerar, konfigurerar och felsöker eleven <strong>efter samråd</strong> med handledare nätverks- och kommunikationstjänster och integrerar dem i nya eller förbättrade system.",
+        "Eleven utför sitt arbete med <strong>mycket gott</strong> handlag och automatiserar rutinuppgifter.",
+        "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner, manualer och andra dokument på både svenska och engelska.",
+        "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete så att systemet blir spårbart och lätt att underhålla.",
+        "Resultatet av arbetet är <strong>gott</strong> i fråga om informationssäkerhet, kvalitet och resurseffektivitet."
+      ],
+      [
+        "Eleven presenterar <strong>med säkerhet</strong> sitt arbete med hjälp av något presentationsverktyg."
+      ],
+      [
+        "När eleven samråder med handledare bedömer eleven <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör <strong>utförligt</strong> för begrepp och teorier inom teknikområdet samt beskriver <strong>utförligt</strong> uppbyggnad, funktion och arbetssätt hos olika nätverks- och kommunikationstjänster och hur driftsäkerhet kan uppnås.",
+        "Dessutom redogör eleven <strong>utförligt</strong> för hur olika nätverks- och kommunikationstjänster på ett informationssäkert sätt kan integreras i nya eller förbättrade system."
+      ],
+      [
+        "Eleven analyserar <strong>efter samråd</strong> med handledare befintliga informationstekniska system för datakommunikation samt dokumenterar sin analys.",
+        "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+        "Dessutom installerar, konfigurerar och felsöker eleven <strong>efter samråd</strong> med handledare nätverks- och kommunikationstjänster och integrerar dem i nya eller förbättrade system.",
+        "Eleven utför sitt arbete med <strong>gott</strong> handlag och automatiserar rutinuppgifter.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument på både svenska och engelska.",
+        "Dessutom gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete så att systemet blir spårbart och lätt att underhålla.",
+        "Resultatet av arbetet är <strong>tillfredsställande</strong> i fråga om informationssäkerhet, kvalitet och resurseffektivitet."
+      ],
+      [
+        "Eleven presenterar <strong>med viss säkerhet</strong> sitt arbete med hjälp av något presentationsverktyg."
+      ],
+      [
+        "När eleven samråder med handledare bedömer eleven <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven redogör <strong>översiktligt</strong> för begrepp och teorier inom teknikområdet samt beskriver <strong>översiktligt</strong> uppbyggnad, funktion och arbetssätt hos olika nätverks- och kommunikationstjänster och hur driftsäkerhet kan uppnås.",
+        "Dessutom redogör eleven <strong>översiktligt</strong> för hur olika nätverks- och kommunikationstjänster på ett informationssäkert sätt kan integreras i nya eller förbättrade system."
+      ],
+      [
+        "Eleven analyserar <strong>i samråd</strong> med handledare befintliga informationstekniska system för datakommunikation samt dokumenterar sin analys.",
+        "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+        "Dessutom installerar, konfigurerar och felsöker eleven <strong>i samråd</strong> med handledare nätverks- och kommunikationstjänster och integrerar dem i nya eller förbättrade system.",
+        "Eleven utför sitt arbete med <strong>visst</strong> handlag och automatiserar rutinuppgifter.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument på både svenska och engelska.",
+        "Dessutom gör eleven en <strong>enkel</strong> dokumentation av sitt arbete så att systemet blir spårbart och lätt att underhålla.",
+        "Resultatet av arbetet är <strong>tillfredsställande</strong> i fråga om informationssäkerhet, kvalitet och resurseffektivitet."
+      ],
+      [
+        "Eleven presenterar <strong>med viss säkerhet</strong> sitt arbete med hjälp av något presentationsverktyg."
+      ],
+      [
+        "När eleven samråder med handledare bedömer eleven <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Kommunikationsarkitekturer, till exempel stordator, klient-server och tunna klienter.",
+        "Nätverksoperativsystem och plattformar med hänsyn till hur dessa kan integreras i befintliga system.",
+        "Molntjänster och vilka informationssäkerhetsmässiga hänsyn som bör tas vid införandet av en molntjänst.",
+        "Serverkluster och system för lastbalansering.",
+        "Datalagringstekniker och disksystem.",
+        "System för övervakning och incidenthantering.",
+        "Webbpubliceringssystem och ramverk samt deras roll och användning i ett informationssystems intranät och extranät.",
+        "Dokumentationsmetoder och uppställande av referensnivåer som hjälp för prestandaoptimering och felsökning.",
+        "Virtualisering och virtualiseringstekniker. Installation och konfigurering av någon virtualiseringsteknik.",
+        "E-posttjänster och deras roll och funktion i ett informationssystem. Installation och konfigurering av någon e-posttjänst.",
+        "DNS (Domain Name System) och dess roll och funktion i ett informationssystem. Installation och konfigurering av någon DNS-tjänst.",
+        "Webbservrar och webbtjänster och deras roll och funktion i ett informationssystem. Installation och konfigurering av någon webbserver.",
+        "Tillverkning av skript för automatisering av rutinuppgifter inom ett informationstekniskt system, till exempel klientinstallationer och kontohantering.",
+        "Presentationsverktyg som används inom kunskapsområdet."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen nätverks- och kommunikationstjänster omfattar punkterna 1–2, 4–7 och 9 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    3,
+    4,
+    5,
+    6,
+    8
+  ]
+}

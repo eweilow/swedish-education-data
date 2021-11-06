@@ -1,0 +1,39 @@
+{
+  "title": "Styckningskunskap",
+  "code": "STC",
+  "developmentPurposes": [
+    "Kunskaper om djurens anatomi, köttkvalitet och om styckningsdetaljernas olika användningsområden, hantering, förpackning och förvaring.",
+    "Färdigheter i att göra styckningskalkyler och effektivitetsbedömningar.",
+    "Färdigheter i att utföra hängande och liggande styckning samt att finstycka grovstyckade detaljer.",
+    "Förmåga att använda utrustning, maskiner och verktyg.",
+    "Förmåga att förpacka och förvara styckningsdetaljer.",
+    "Kunskaper om lagar och andra bestämmelser inom området.",
+    "Förmåga att underhålla utrustning, maskiner och verktyg.",
+    "Förmåga att utvärdera sitt arbete och resultat."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet styckningskunskap ska syfta till att eleverna utvecklar förmåga att grov- och finstycka olika djurslag med moderna och traditionella hantverksmetoder. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att välja och hantera råvaror samt kunskaper om hur kvaliteten på olika råvaror påverkar slutprodukten.",
+    "Undervisningen ska bidra till att eleverna utvecklar kunskaper om hygien, ergonomi, arbetsmiljö och säkerhet samt om lagar och andra bestämmelser som gäller för yrkesområdet. Den ska ge eleverna möjlighet att utveckla färdigheter i att organisera och utföra arbetet samt förmåga att bedöma arbetet och reflektera över hur arbetsprocessen påverkar resultatet. Undervisningen ska även bidra till att eleverna utvecklar kreativitet samt problemlösnings- och initiativförmåga. Dessutom ska eleverna ges möjlighet att utföra arbetsuppgifter såväl individuellt som i samarbete med andra.",
+    "Genom praktiska övningar i undervisningen ska eleverna ges möjlighet att utveckla färdigheter inom styckningsområdet."
+  ],
+  "courseInfo": {
+    "STCFIN0": "Finstyckning, 100 poäng.",
+    "STCSTY01": "Styckning 1, 100 poäng.",
+    "STCSTY02": "Styckning 2, 100 poäng, som bygger på kursen styckning 1.",
+    "STCSTY03": "Styckning 3, 200 poäng, som bygger på kursen styckning 2.",
+    "STCSTY04": "Styckning 4, 100 poäng, som bygger på kursen styckning 3.",
+    "STCSTY00S": "Styckning – specialisering, 100 poäng, som bygger på kursen styckning 4. Kursen kan läsas flera gånger med olika innehåll."
+  },
+  "description": "Ämnet styckningskunskap behandlar hantverksmässig styckning av olika djurslag. I ämnet behandlas dessutom djurens anatomi, hur styckdetaljer används inom näringen samt betydelsen av produktkvalitet.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "VOCATIONAL",
+  "applicableFrom": "2014-11-12T23:00:00.000Z",
+  "courses": [
+    "STCFIN0",
+    "STCSTY01",
+    "STCSTY02",
+    "STCSTY03",
+    "STCSTY04",
+    "STCSTY00S"
+  ]
+}

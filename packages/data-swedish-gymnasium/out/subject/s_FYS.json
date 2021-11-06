@@ -1,0 +1,34 @@
+{
+  "title": "Fysik",
+  "code": "FYS",
+  "developmentPurposes": [
+    "Kunskaper om fysikens begrepp, modeller, teorier och arbetsmetoder samt förståelse av hur dessa utvecklas.",
+    "Förmåga att analysera och söka svar på ämnesrelaterade frågor samt att identifiera, formulera och lösa problem. Förmåga att reflektera över och värdera valda strategier, metoder och resultat.",
+    "Förmåga att planera, genomföra, tolka och redovisa experiment och observationer samt förmåga att hantera material och utrustning.",
+    "Kunskaper om fysikens betydelse för individ och samhälle.",
+    "Förmåga att använda kunskaper i fysik för att kommunicera samt för att granska och använda information."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet fysik ska syfta till att eleverna utvecklar kunskaper om fysikens begrepp, teorier, modeller och arbetsmetoder. Den ska bidra till att eleverna utvecklar kunskaper om fysikens olika tillämpningar inom till exempel teknik, medicin och hållbar utveckling och därigenom förståelse av fysikens betydelse i samhället. Genom undervisningen ska eleverna ges möjlighet att utveckla ett naturvetenskapligt perspektiv på vår omvärld. I undervisningen ska aktuell forskning och elevernas upplevelser, nyfikenhet och kreativitet tas tillvara. Undervisningen ska också bidra till att eleverna, från en naturvetenskaplig utgångspunkt, kan delta i samhällsdebatten och diskutera etiska frågor och ställningstaganden.",
+    "Fysik utvecklas ständigt i ett samspel mellan teori och experiment, där hypoteser, teorier och modeller testas, omvärderas och förändras. Undervisningen ska därför behandla teoriers och modellers utveckling, begränsningar och giltighetsområden. Den ska bidra till att eleverna utvecklar förmåga att arbeta teoretiskt och experimentellt samt att kommunicera med hjälp av ett naturvetenskapligt språk. Undervisningen ska också bidra till att eleverna utvecklar förmåga att kritiskt värdera och skilja mellan påståenden som bygger på vetenskaplig respektive icke-vetenskaplig grund.",
+    "Undervisningen ska innefatta naturvetenskapliga arbetsmetoder som att formulera och söka svar på frågor, planera och utföra observationer och experiment samt bearbeta, tolka och kritiskt granska resultat och information. Eleverna ska ges möjlighet att analysera och lösa problem genom resonemang baserade på begrepp och modeller, såväl med som utan matematik. I undervisningen ska eleverna ges tillfällen att argumentera kring och presentera analyser och slutsatser. De ska även ges möjlighet att använda datorstödd utrustning för insamling, simulering, beräkning, bearbetning och presentation av data."
+  ],
+  "courseInfo": {
+    "FYSFYS01a": "Fysik 1a, 150 poäng, som bygger på grundskolans kunskaper eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen fysik 1b1 eller kursen fysik 1b2.",
+    "FYSFYS01b1": "Fysik 1b1, 100 poäng, som bygger på grundskolans kunskaper eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen fysik 1a.",
+    "FYSFYS01b2": "Fysik 1b2, 50 poäng, som bygger på kursen fysik 1b1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen fysik 1a.",
+    "FYSFYS02": "Fysik 2, 100 poäng, som bygger på kursen fysik 1a eller kursen fysik 1b2.",
+    "FYSFYS03": "Fysik 3, 100 poäng, som bygger på kursen fysik 2."
+  },
+  "description": "Fysik är ett naturvetenskapligt ämne som har sitt ursprung i människans behov av att förstå och förklara sin omvärld. Fysik behandlar allt från växelverkan mellan materiens minsta beståndsdelar till universums ursprung och struktur. Utifrån systematiska observationer och experiment strävar fysiken efter att finna grundläggande principer som kan uttryckas matematiskt i modeller och teorier.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "COMMON",
+  "applicableFrom": "2011-07-21T22:00:00.000Z",
+  "courses": [
+    "FYSFYS01a",
+    "FYSFYS01b1",
+    "FYSFYS01b2",
+    "FYSFYS02",
+    "FYSFYS03"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "subject": "VEK",
+  "title": "Verktygs- och materialhantering",
+  "code": "VEKVEK0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven väljer och använder <strong>efter samråd</strong> med handledare verktyg, maskiner, material och fästdon på adekvat sätt för olika arbetsuppgifter.",
+        "I arbetet tar eleven hänsyn till nödvändiga säkerhetsaspekter."
+      ],
+      [
+        "Eleven utför <strong>efter samråd</strong> med handledare <strong>komplexa</strong> monteringsarbeten i enlighet med lagar och andra bestämmelser, anvisningar och standarder med ett <strong>gott</strong> resultat.",
+        "I arbetet tolkar eleven <strong>med säkerhet</strong> ritningar och materialbeteckningar.",
+        "Vidare använder och följer eleven <strong>med säkerhet</strong> verktygens manualer samt utför arbetet ergonomiskt och på ett sätt som är säkert för eleven själv och andra."
+      ],
+      [
+        "När arbetet är utfört vårdar eleven <strong>efter samråd</strong> med handledare verktyg och maskiner.",
+        "Dessutom utför eleven <strong>efter samråd</strong> med handledare kvalitetskontroll av gjorda arbetsuppgifter."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven väljer och använder <strong>efter samråd</strong> med handledare verktyg, maskiner, material och fästdon på adekvat sätt för olika arbetsuppgifter.",
+        "I arbetet tar eleven hänsyn till nödvändiga säkerhetsaspekter."
+      ],
+      [
+        "Eleven utför <strong>efter samråd</strong> med handledare monteringsarbeten i enlighet med lagar och andra bestämmelser, anvisningar och standarder med ett <strong>tillfredsställande</strong> resultat.",
+        "I arbetet tolkar eleven <strong>med viss säkerhet</strong> ritningar och materialbeteckningar.",
+        "Vidare använder och följer eleven <strong>med viss säkerhet</strong> verktygens manualer samt utför arbetet ergonomiskt och på ett sätt som är säkert för eleven själv och andra."
+      ],
+      [
+        "När arbetet är utfört vårdar eleven <strong>efter samråd</strong> med handledare verktyg och maskiner.",
+        "Dessutom utför eleven <strong>efter samråd</strong> med handledare kvalitetskontroll av gjorda arbetsuppgifter."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven väljer och använder <strong>i samråd</strong> med handledare verktyg, maskiner, material och fästdon på adekvat sätt för olika arbetsuppgifter.",
+        "I arbetet tar eleven hänsyn till nödvändiga säkerhetsaspekter."
+      ],
+      [
+        "Eleven utför <strong>i samråd</strong> med handledare <strong>enkla</strong> monteringsarbeten i enlighet med lagar och andra bestämmelser, anvisningar och standarder med ett <strong>tillfredsställande</strong> resultat.",
+        "I arbetet tolkar eleven <strong>med viss säkerhet</strong> ritningar och materialbeteckningar.",
+        "Vidare använder och följer eleven <strong>med viss säkerhet</strong> verktygens manualer samt utför arbetet ergonomiskt och på ett sätt som är säkert för eleven själv och andra."
+      ],
+      [
+        "När arbetet är utfört vårdar eleven <strong>i samråd</strong> med handledare verktyg och maskiner.",
+        "Dessutom utför eleven <strong>i samråd</strong> med handledare kvalitetskontroll av gjorda arbetsuppgifter."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Faktorer som påverkar val av verktyg, maskiner, material och fästdon.",
+        "Användning och vård av verktyg och maskiner för den aktuella arbetsuppgiften, ur hållbarhets-, säkerhets- och miljöaspekter.",
+        "Säkerhetsaspekter på och begränsningar av vad som får göras utifrån olika behörighetskrav.",
+        "Montering i enlighet med lagar och andra bestämmelser, anvisningar och standarder för olika material och fästdon.",
+        "Tolkning och tillämpning av montageritningar och materialbeteckningar för den aktuella arbetsuppgiften.",
+        "Manualer och anvisningar från verktygstillverkare.",
+        "Ergonomi och arbetsmiljö för den aktuella arbetsuppgiften och hur verktygen kan underlätta arbetet.",
+        "Kvalitetskontroll i form av belastningsprövning, egenkontroll och dokumentation av arbetet."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen verktygs- och materialhantering omfattar punkterna 1–8 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]
+}

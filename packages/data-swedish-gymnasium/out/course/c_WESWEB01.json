@@ -1,0 +1,95 @@
+{
+  "subject": "WES",
+  "title": "Webbserverprogrammering 1",
+  "code": "WESWEB01",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> tekniken bakom dynamiska webbplatser och hur de samspelar med olika tekniker på webben."
+      ],
+      [
+        "Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt webbapplikation.",
+        "<strong>Vid behov reviderar eleven planen</strong>.",
+        "I projektplanen beskriver eleven <strong>utförligt och nyanserat</strong> applikationens funktion, <strong>arkitektur och mjukvarugränssnitt</strong>.",
+        "Utifrån projektplanen utvecklar eleven <strong>efter samråd</strong> med handledare applikationen där presentations­logiken är skild från applikationens övriga logik.",
+        "I arbetet utvecklar eleven kod som <strong>följer en given kodningsstandard</strong> och är <strong>utförligt</strong> kommenterad.",
+        "Applikationen uppvisar funktionalitet med ett språk för webbserver­programmering <strong>för att driva en helt databaserad webbplats eller en jämförbart avancerad produkt</strong> och tillhandahåller en lösning <strong>med viss komplexitet</strong> för <strong>permanent datalagring</strong>.",
+        "Produkten är av <strong>god</strong> kvalitet och följer etablerad god praxis.",
+        "<strong>Detta kontrollerar eleven med hjälp av flera tester, även manuella</strong>."
+      ],
+      [
+        "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av de moment som har utförts samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>.",
+        "Eleven identifierar <strong>flera</strong> sårbarheter eller hot och vidtar <strong>avancerade</strong> åtgärder för att förhindra att produkten utnyttjas.",
+        "När eleven kommunicerar med andra använder hen <strong>med säkerhet</strong> terminologi."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> tekniken bakom dynamiska webbplatser och hur de samspelar med olika tekniker på webben."
+      ],
+      [
+        "Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt webbapplikation.",
+        "I projektplanen beskriver eleven <strong>utförligt</strong> applikationens funktion <strong>och arkitektur</strong>.",
+        "Utifrån projektplanen utvecklar eleven <strong>efter samråd</strong> med handledare applikationen där presentations­logiken är skild från applikationens övriga logik.",
+        "I arbetet utvecklar eleven kod som <strong>följer en given kodningsstandard</strong> och är <strong>översiktligt</strong> kommenterad.",
+        "Applikationen uppvisar funktionalitet med ett språk för webbserver­programmering och tillhandahåller en <strong>enkel</strong> lösning för <strong>permanent datalagring</strong>.",
+        "Produkten är av <strong>tillfredsställande</strong> kvalitet och följer etablerad god praxis.",
+        "<strong>Detta kontrollerar eleven med hjälp av några tester</strong>."
+      ],
+      [
+        "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av de moment som har utförts samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+        "Eleven identifierar sårbarheter eller hot och vidtar åtgärder för att förhindra att produkten utnyttjas.",
+        "När eleven kommunicerar med andra använder hen <strong>med viss säkerhet</strong> terminologi."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> tekniken bakom dynamiska webbplatser och hur de samspelar med olika tekniker på webben."
+      ],
+      [
+        "Eleven gör en <strong>enkel</strong> projektplan för en tänkt webbapplikation.",
+        "I projektplanen beskriver eleven <strong>översiktligt</strong> applikationens funktion.",
+        "Utifrån projektplanen utvecklar eleven <strong>i samråd</strong> med handledare applikationen där presentations­logiken <strong>i begränsad utsträckning</strong> är skild från applikationens övriga logik.",
+        "I arbetet utvecklar eleven kod som <strong>i begränsad utsträckning</strong> är <strong>läsbar</strong> och <strong>översiktligt</strong> kommenterad.",
+        "Applikationen uppvisar <strong>enkel</strong> funktionalitet med ett språk för webbserver­programmering och tillhandahåller en <strong>enkel</strong> lösning för <strong>datapersistens mellan sidvisningar</strong>.",
+        "Produkten är av <strong>tillfredsställande</strong> kvalitet och följer etablerad god praxis."
+      ],
+      [
+        "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av de moment som har utförts samt utvärderar med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+        "Eleven identifierar ett <strong>fåtal</strong> sårbarheter eller hot och vidtar <strong>enkla</strong> åtgärder för att förhindra att produkten utnyttjas.",
+        "När eleven kommunicerar med andra använder hen <strong>med viss säkerhet enkel</strong> terminologi."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Webbserverns och dynamiska webbplatsers funktionalitet.",
+        "Utvecklingsprocessen för ett webbtekniskt projekt med målsättningar, krav, begränsningar, planering och uppföljning. Specifikation av struktur och design, kodning, testning samt driftsättning.",
+        "Dokumentation av utvecklingsprocess och färdig produkt.",
+        "En översikt över olika lösningar eller språk som finns för att skapa dynamiska webbplatser.",
+        "Grundfunktionen i ett programspråk för dynamiska webbplatser.",
+        "Teknisk orientering om webbens protokoll, adresser, säkerhet samt samspelet mellan klient och server.",
+        "Datalagring i relationsdatabas eller med annan teknik.",
+        "Teckenkodning. Begrepp, standarder och handhavande.",
+        "Kodning och dokumentation enligt vedertagen praxis för vald teknik.",
+        "Applikationsarkitektur och separation av olika slags logik.",
+        "Kvalitetssäkring av dynamiska webbapplikationers funktionalitet, säkerhet och kodkvalitet.",
+        "Grundläggande säkerhet och sätt att identifiera hot och sårbarheter samt hur attacker kan motverkas genom effektiva åtgärder."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen webbserverprogrammering 1 omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkt 1.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]
+}

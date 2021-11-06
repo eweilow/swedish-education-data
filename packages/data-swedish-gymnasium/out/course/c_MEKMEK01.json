@@ -1,0 +1,72 @@
+{
+  "subject": "MEK",
+  "title": "Mekatronik 1",
+  "code": "MEKMEK01",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven planerar och bygger <strong>efter samråd</strong> med handledare flera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik.",
+        "I arbetet använder eleven <strong>med säkerhet</strong> ritningar och manualer samt samarbetar <strong>med säkerhet</strong> med andra.",
+        "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "Med exempel från både industri och vardagsliv beskriver eleven <strong>utförligt och nyanserat</strong> hur ett <strong>komplext</strong> mekatroniskt system är uppbyggt.",
+        "Med hjälp av matematiska och fysikaliska begrepp beskriver eleven <strong>utförligt och nyanserat</strong> fysikaliska principer vid olika mekatroniska tillämpningar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven planerar och bygger <strong>efter samråd</strong> med handledare <strong>ett eller</strong> flera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> ritningar och manualer samt samarbetar <strong>med viss säkerhet</strong> med andra.",
+        "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "Med exempel från både industri och vardagsliv beskriver eleven <strong>utförligt</strong> hur ett mekatroniskt system är uppbyggt.",
+        "Med hjälp av matematiska och fysikaliska begrepp beskriver eleven <strong>utförligt</strong> fysikaliska principer vid olika mekatroniska tillämpningar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven planerar och bygger <strong>i samråd</strong> med handledare <strong>ett eller</strong> flera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> ritningar och manualer samt samarbetar <strong>med viss säkerhet</strong> med andra.",
+        "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "Med exempel från både industri och vardagsliv beskriver eleven <strong>översiktligt</strong> hur ett <strong>enkelt</strong> mekatroniskt system är uppbyggt.",
+        "Med hjälp av matematiska och fysikaliska begrepp beskriver eleven <strong>översiktligt</strong> fysikaliska principer vid olika mekatroniska tillämpningar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Elarbete, mekaniskt arbete och enklare programmering av styrenheter.",
+        "Tolkning av ritningar och manualer.",
+        "Uppbyggnad av mekatroniska system från sensor, via styrenhet, till aktuator.",
+        "Hur logiska grundfunktioner kan användas för olika styrtekniska lösningar.",
+        "Tekniska lösningar i vardagen för omvandling av energi, materia eller information.",
+        "Grundläggande mekaniska begrepp, till exempel hävstång, block, lutande planet, fackverk och balk.",
+        "Grundläggande elektriska storheter och begrepp, till exempel laddning, ström, spänning, resistans och sluten krets.",
+        "Mätning av olika mekaniska och elektriska storheter."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen mekatronik 1 omfattar punkterna 1–2 och 4–5 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet utifrån en produktmekatronisk utgångspunkt.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    3,
+    4
+  ]
+}

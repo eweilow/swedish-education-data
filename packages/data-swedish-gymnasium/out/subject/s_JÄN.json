@@ -1,0 +1,31 @@
+{
+  "title": "Järnvägsteknik",
+  "code": "JÄN",
+  "developmentPurposes": [
+    "Kunskaper om de olika teknik- och anläggningssystem som finns inom järnvägsbranschen.",
+    "Kunskaper om kontaktledningssystemets uppbyggnad och konstruktion.",
+    "Kunskaper om signalsystemets uppbyggnad och konstruktion.",
+    "Förmåga att planera sitt arbete samt att montera, felsöka och reparera anläggningar.",
+    "Kunskaper om begrepp, föreskrifter, standarder och andra bestämmelser inom området.",
+    "Förmåga att arbeta säkert och förebygga skador på personer och egendom.",
+    "Förmåga att dokumentera sitt arbete."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet järnvägsteknik ska syfta till att eleverna utvecklar kunskaper i underhåll, installation och reparation av befintliga anläggningar. I undervisningen ska eleverna ges möjlighet att utveckla färdigheter i att lösa problem som uppstår under arbetets gång samt i att felsöka och reparera fel i järnvägsanläggningars el- och signalsystem. Undervisningen ska bidra till att eleverna utvecklar förståelse av den tekniska utvecklingen inom branschen. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om säkerhet, föreskrifter, standarder och andra bestämmelser inom området.",
+    "Undervisningen ska ge eleverna möjlighet att arbeta praktiskt och i laborationsmiljö och därigenom utveckla förmåga att använda verktyg och material på rätt sätt. Vidare ska undervisningen leda till att eleverna utvecklar förmåga att hantera instrument och dokumentation, till exempel ritningar och arbetsbeskrivningar."
+  ],
+  "courseInfo": {
+    "JÄNALM0": "Allmän järnvägsteknik, 100 poäng, som bygger på kursen praktisk ellära.",
+    "JÄNELN0": "Elteknik, 300 poäng, som bygger på kursen allmän järnvägsteknik.",
+    "JÄNSIG0": "Signalteknik, 300 poäng, som bygger på kursen allmän järnvägsteknik."
+  },
+  "description": "Ämnet järnvägsteknik behandlar underhåll, ombyggnation, nybyggnation och felsökning av järnvägsanläggningars el- och signalsystem. I ämnet ställs höga krav på både trafik- och elsäkerhet eftersom det utgör grunden för allt arbete på och bredvid järnvägsanläggningar.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "VOCATIONAL",
+  "applicableFrom": "2011-06-30T22:00:00.000Z",
+  "courses": [
+    "JÄNALM0",
+    "JÄNELN0",
+    "JÄNSIG0"
+  ]
+}

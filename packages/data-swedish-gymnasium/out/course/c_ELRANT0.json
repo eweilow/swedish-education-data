@@ -1,0 +1,89 @@
+{
+  "subject": "ELR",
+  "title": "Antenn- och kabel-TV-teknik",
+  "code": "ELRANT0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven utför med <strong>mycket gott</strong> handlag enkelt, <strong>men även mer avancerat</strong>, installationsarbete på antenn- och kabel-tv.",
+        "Eleven gör en <strong>genomarbetad</strong> planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften.",
+        "Inför arbetet väljer eleven <strong>efter samråd</strong> med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med <strong>mycket gott</strong> handlag och på ett miljömässigt sätt."
+      ],
+      [
+        "Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga installationer, samt löser och reparerar dem <strong>efter samråd</strong> med handledare."
+      ],
+      [
+        "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik.",
+        "Eleven kontrollerar säkerheten med <strong>gott</strong> resultat, gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete och tar i drift installationen."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven utför med <strong>gott</strong> handlag enkelt installationsarbete på antenn- och kabel-tv.",
+        "Eleven gör en <strong>genomarbetad</strong> planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften.",
+        "Inför arbetet väljer eleven <strong>efter samråd</strong> med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med <strong>gott</strong> handlag och på ett miljömässigt sätt."
+      ],
+      [
+        "Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga installationer, samt löser och reparerar dem <strong>efter samråd</strong> med handledare."
+      ],
+      [
+        "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik.",
+        "Eleven kontrollerar säkerheten med <strong>tillfredsställande</strong> resultat, gör en <strong>noggrann</strong> dokumentation av sitt arbete och tar i drift installationen."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven utför med <strong>visst</strong> handlag enkelt installationsarbete på antenn- och kabel-tv.",
+        "Eleven gör en <strong>enkel</strong> planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften.",
+        "Inför arbetet väljer eleven <strong>i samråd</strong> med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med <strong>visst</strong> handlag och på ett miljömässigt sätt."
+      ],
+      [
+        "Under arbetet upptäcker eleven eventuella problem och fel i såväl nya som befintliga installationer, samt löser och reparerar dem <strong>i samråd</strong> med handledare."
+      ],
+      [
+        "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik.",
+        "Eleven kontrollerar säkerheten med <strong>tillfredsställande</strong> resultat, gör en <strong>enkel</strong> dokumentation av sitt arbete och tar i drift installationen."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Planering, installation och driftsättning samt underhåll av antenn- och kabel-tv-anläggningar för mark- och satellitdistribuerad tv.",
+        "Digital tv-teknik och tv-signalens uppbyggnad vid satellit- och kabelsändningar.",
+        "Uppbyggnad och funktionssätt hos bredbandiga multifunktionsnät för fastigheter (BMF-nät) samt hybrid-, fiber- och coaxnät (HFC-nät).",
+        "Användning och tolkning av de mättekniska begreppen decibel, dämpning och förstärkning, samt intermodulationsavstånd och carrier to noise (C/N).",
+        "Skalning av kablar och montering av kontakter.",
+        "Standarder, normer och systemkrav för antenn- och kabel-tv-anläggningar.",
+        "Europanormens krav på distributionssystem för television och ljudradio.",
+        "Krav på strålningsimmunitet hos komponenter och kablar för att minska ledningsbundna störningar.",
+        "Antenner, mottagningsutrustningar och mätinstrument för satellitmottagning.",
+        "Antenner för tv-mottagning och mätinstrument för kontroll av signalnivå och kvalitet.",
+        "Felsökning och reparation av antenn- och kabel-tv-anläggningar.",
+        "Kontrollmätning och signalnivåjustering i kabel-tv-anläggningar.",
+        "Registrering av mätdata och dokumentation av arbetet."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen antenn- och kabel-TV-teknik omfattar punkterna 1–7 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ]
+}

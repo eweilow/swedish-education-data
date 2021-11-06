@@ -1,0 +1,38 @@
+{
+  "title": "Nätverksteknik",
+  "code": "NAI",
+  "developmentPurposes": [
+    "Kunskaper om uppbyggnad och funktion av olika delar och komponenter i nätverk.",
+    "Förmåga att planera sitt arbete samt att läsa och tolka instruktioner, manualer och andra dokument på både svenska och engelska.",
+    "Förmåga att utföra hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+    "Förmåga att bygga upp nätverk och anläggningar samt att skapa systemlösningar.",
+    "Förmåga att övervaka, underhålla, felsöka samt identifiera och åtgärda fel i utrustning i nätverksmiljöer.",
+    "Kunskaper om lagar och andra bestämmelser inom nätverksområdet.",
+    "Förmåga att arbeta på ett säkert sätt som förebygger skador på person, egendom och miljö.",
+    "Förmåga att dokumentera sitt arbete.",
+    "Förmåga att ge råd till användare av nätverkssystem och datorteknisk utrustning."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet nätverksteknik ska syfta till att eleverna utvecklar kunskaper om lokala och globala datornätverk till den nivå som krävs för att yrkesmässigt administrera lokala nätverk och kunna säkerställa en snabb och säker kommunikation mellan ingående enheter. Undervisningen ska leda till att eleverna utvecklar kunskaper om hård- och mjukvaruinstallationer samt färdigheter i konfigurering, optimering, analys och administration av nätverk.",
+    "Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att utföra vanliga arbetsuppgifter på vanligt förekommande system. Eleverna ska ges möjlighet att lösa problem, utföra felsökning och åtgärda fel, både självständigt och i samarbete med andra. I undervisningen ska eleverna ges möjlighet att utveckla sitt miljö- och säkerhetstänkande.",
+    "Undervisningen ska leda till att eleverna utvecklar förmåga att möta och kommunicera med kunder och uppdragsgivare på ett serviceinriktat och kvalitetsmedvetet sätt. Eleverna ska ges möjlighet att utveckla förmåga att uttrycka sig både skriftligt och muntligt samt att dokumentera sitt arbete. I undervisningen ska praktiska och laborativa moment varvas med teoretiska moment."
+  ],
+  "courseInfo": {
+    "NAIADM0": "Administration av nätverks- och serverutrustning, 100 poäng, som bygger på kursen datorteknik 1a eller kursen datorteknik 1b.",
+    "NAINAR0": "Nätverksteknik, 100 poäng.",
+    "NAINAV0": "Nätverksadministration, 100 poäng, som bygger på kursen nätverksteknik.",
+    "NAINAE0": "Nätverkssäkerhet, 100 poäng, som bygger på kursen nätverksteknik.",
+    "NAINAK0": "Nätverksteknologier, 100 poäng, som bygger på kursen nätverksteknik."
+  },
+  "description": "Ämnet nätverksteknik behandlar nätverksutrustning och it-systemlösningar samt övervakning för att uppnå hög driftsäkerhet inom nätverksområdet. Det behandlar också klienter och servrar samt hur övrig utrustning samverkar inom nätverksområdet. Dessutom behandlas programvara för både klienter och servrar samt administration av servertjänster i nätverksmiljö.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "VOCATIONAL",
+  "applicableFrom": "2015-04-23T22:00:00.000Z",
+  "courses": [
+    "NAIADM0",
+    "NAINAE0",
+    "NAINAK0",
+    "NAINAR0",
+    "NAINAV0"
+  ]
+}

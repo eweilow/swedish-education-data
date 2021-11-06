@@ -1,0 +1,605 @@
+{
+  "title": "Sjöfartsutbildningen",
+  "code": "SX",
+  "url": "https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola/programstruktur-och-examensmal/sjofartsutbildningen",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "typeOfProgram": "NATIONAL_RECRUITMENT_FOR_LOCAL_SPECIALIZATION",
+  "applicableFrom": "2017-02-28T23:00:00.000Z",
+  "info": {
+    "degreeObjectives": [
+      "Sjöfartsutbildningen är en riksrekryterande yrkesutbildning inom gymnasieskolan med egna examensmål. Innehållet i och utformningen av utbildningen styrs till stor del av internationella överenskommelser. Efter examen från utbildningen ska eleverna ha de kunskaper som behövs för att arbeta som befattningshavare inom däcks- eller maskinavdelningen ombord på handelsfartyg. Inom utbildningen ska eleverna också ges möjligheter att läsa kurser som förbereder för högskolestudier till fartygsbefäl och maskinbefäl.",
+      "Utbildningen ska utveckla elevernas kunskaper om fartygs drift och underhåll samt förmåga att utföra drifts- och underhållsarbete ombord. I detta ingår kunskaper om vakthållning till sjöss samt förmåga att utföra arbetsuppgifter som vaktgående personal. Utbildningen ska även utveckla elevernas kunskaper om rederiers och fartygs säkerhetsorganisation samt förmåga att utföra säkerhets- och miljöskyddsarbete på fartyg. Kunskaper om faktorer som påverkar arbetsmiljön och den personliga säkerheten samt om de regler som finns inom arbetsmiljöområdet ska ingå i detta sammanhang. Vidare ska utbildningen utveckla elevernas kunskaper om olika fartygstyper och om lasthantering ombord samt förmåga att arbeta säkert vid hantering av olika laster.",
+      "Förmåga att ta eget ansvar för sina arbetsuppgifter och för fartygets säkerhet och drift är viktigt för en sjöman. Att aktivt kunna identifiera risker, problem och störningar i driften samt att finna lösningar på dessa tillsammans med den övriga besättningen förutsätter ansvarsfullhet och samarbetsförmåga. En sjöman måste samtidigt kunna arbeta självständigt, ofta ensam, med en arbetsuppgift. Utbildningen ska därför utveckla elevernas kunskaper om de risker som finns på fartyg, förmåga att agera säkerhetsmedvetet i varje situation ombord samt att arbeta både självständigt och tillsammans med andra.",
+      "Utbildningen ska ge eleverna möjlighet att utveckla förståelse av de särdrag som präglar sjömäns arbete och vardag ombord. Exempelvis arbetar sjömän ofta långa perioder borta från hemmet och lever tätt tillsammans med sina arbetskamrater under tjänstgöringsperioden. Detta medför att människor som arbetar till sjöss behöver utveckla förmågor för att klara av arbetet och det sociala livet ombord. Besättningen på ett fartyg kan bestå av människor från flera olika nationer och kulturer, och fartygen trafikerar ofta hamnar i många olika länder. Det ställer höga krav på förståelse av andra kulturer. För att kunna kommunicera, möta och samarbeta med människor i skilda sammanhang ska eleverna ges möjlighet att utveckla sin kommunikativa förmåga.",
+      "Utbildningen ska ge eleverna möjlighet att utveckla ett yrkesmässigt språkbruk som fungerar i olika situationer, med ett ordförråd som är relevant för yrket på både svenska och engelska.",
+      "Utbildningen ska ge eleverna möjlighet att utveckla de kunskaper som certifierande myndigheter kräver för att utfärda behörighetsbevis för däckspersonal respektive maskinpersonal. Kraven för behörigheter för sjöfolk anges i nationella och internationella regelverk.",
+      "Arbetsplatsförlagt lärande ska förekomma på utbildningen. Det arbetsplatsförlagda lärandet ska bidra till att eleverna utvecklar yrkeskunskaper och en yrkesidentitet samt förstår yrkeskulturen och blir en del av yrkesgemenskapen på en arbetsplats. Det arbetsplatsförlagda lärande kan också ge en inblick i företagandets villkor.",
+      "Examensmålet gäller för både skolförlagd utbildning och lärlingsutbildning."
+    ],
+    "orientation": {
+      "title": "Inriktningar",
+      "lines": [
+        "Sjöfartsutbildningen har två inriktningar.",
+        "Båda inriktningarna kan leda till fortsatta studier på yrkeshögskola."
+      ]
+    },
+    "educationObjectives": [
+      "Gymnasiearbetet ska visa att eleven är förberedd för det yrkesområde som gäller för den valda yrkesutgången. Det ska pröva elevens förmåga att utföra vanligt förekommande arbetsuppgifter inom yrkesområdet.",
+      "Gymnasiearbetet ska utföras på ett sådant sätt att eleven planerar, genomför och utvärderar sin uppgift.",
+      "Gymnasiearbetet kan utformas så att det ger eleverna möjlighet att pröva sitt yrkeskunnande i företagsliknande arbetsformer."
+    ]
+  },
+  "education": {
+    "mandatory": {
+      "courses": [
+        "ENGENG05",
+        "HISHIS01a1",
+        "IDRIDR01",
+        "MATMAT01a",
+        "NAKNAK01a1",
+        "RELREL01",
+        "SAMSAM01a1",
+        "SVASVA01",
+        "SVESVE01"
+      ],
+      "subjects": [
+        {
+          "code": "ENG",
+          "minPoints": 100,
+          "courses": [
+            "ENGENG05"
+          ]
+        },
+        {
+          "code": "HIS",
+          "minPoints": 50,
+          "courses": [
+            "HISHIS01a1"
+          ]
+        },
+        {
+          "code": "IDR",
+          "minPoints": 100,
+          "courses": [
+            "IDRIDR01"
+          ]
+        },
+        {
+          "code": "MAT",
+          "minPoints": 100,
+          "courses": [
+            "MATMAT01a"
+          ]
+        },
+        {
+          "code": "NAK",
+          "minPoints": 50,
+          "courses": [
+            "NAKNAK01a1"
+          ]
+        },
+        {
+          "code": "REL",
+          "minPoints": 50,
+          "courses": [
+            "RELREL01"
+          ]
+        },
+        {
+          "code": "SAM",
+          "minPoints": 50,
+          "courses": [
+            "SAMSAM01a1"
+          ]
+        },
+        {
+          "code": "SVA",
+          "minPoints": 100,
+          "courses": [
+            "SVASVA01"
+          ]
+        },
+        {
+          "code": "SVE",
+          "minPoints": 100,
+          "courses": [
+            "SVESVE01"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "program": {
+      "courses": [
+        "FARLAS0",
+        "SJOGRN0",
+        "SJOSAE0",
+        "VERVER0"
+      ],
+      "subjects": [
+        {
+          "code": "FAR",
+          "minPoints": 100,
+          "courses": [
+            "FARLAS0"
+          ]
+        },
+        {
+          "code": "SJO",
+          "minPoints": 300,
+          "courses": [
+            "SJOGRN0",
+            "SJOSAE0"
+          ]
+        },
+        {
+          "code": "VER",
+          "minPoints": 100,
+          "courses": [
+            "VERVER0"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "specialization": {
+      "courses": [
+        "DACDAC01",
+        "DACFAR0",
+        "DACRAD0",
+        "DRIUNÅ0",
+        "DRIUND0",
+        "ELLELL01",
+        "ELLELL02",
+        "ELLPRA0",
+        "ELRELF0",
+        "ELRELK0",
+        "ENEENE01",
+        "ENEENE02",
+        "ENGENG06",
+        "ENTENR0",
+        "FARSKE0",
+        "FYSFYS01b1",
+        "FYSFYS01b2",
+        "INSELI0",
+        "LARLAM0",
+        "LEDLED0",
+        "MAKMAS0",
+        "MAKMAS01",
+        "MÄTMÄO0",
+        "MÄTMÄT0",
+        "MATMAT02a",
+        "MAYMAR0",
+        "MEKMEK01",
+        "PLTPLT0",
+        "PRUPRD01S",
+        "SAAKÄL01S",
+        "SAASVT0",
+        "VEKVEK0",
+        "VVIVVS0"
+      ],
+      "subjects": [
+        {
+          "code": "DAC",
+          "minPoints": 450,
+          "courses": [
+            "DACDAC01",
+            "DACFAR0",
+            "DACRAD0"
+          ]
+        },
+        {
+          "code": "DRI",
+          "minPoints": 200,
+          "courses": [
+            "DRIUNÅ0",
+            "DRIUND0"
+          ]
+        },
+        {
+          "code": "ELL",
+          "minPoints": 300,
+          "courses": [
+            "ELLELL01",
+            "ELLELL02",
+            "ELLPRA0"
+          ]
+        },
+        {
+          "code": "ELR",
+          "minPoints": 200,
+          "courses": [
+            "ELRELF0",
+            "ELRELK0"
+          ]
+        },
+        {
+          "code": "ENE",
+          "minPoints": 200,
+          "courses": [
+            "ENEENE01",
+            "ENEENE02"
+          ]
+        },
+        {
+          "code": "ENG",
+          "minPoints": 100,
+          "courses": [
+            "ENGENG06"
+          ]
+        },
+        {
+          "code": "ENT",
+          "minPoints": 100,
+          "courses": [
+            "ENTENR0"
+          ]
+        },
+        {
+          "code": "FAR",
+          "minPoints": 50,
+          "courses": [
+            "FARSKE0"
+          ]
+        },
+        {
+          "code": "FYS",
+          "minPoints": 150,
+          "courses": [
+            "FYSFYS01b1",
+            "FYSFYS01b2"
+          ]
+        },
+        {
+          "code": "INS",
+          "minPoints": 200,
+          "courses": [
+            "INSELI0"
+          ]
+        },
+        {
+          "code": "LAR",
+          "minPoints": 100,
+          "courses": [
+            "LARLAM0"
+          ]
+        },
+        {
+          "code": "LED",
+          "minPoints": 100,
+          "courses": [
+            "LEDLED0"
+          ]
+        },
+        {
+          "code": "MAK",
+          "minPoints": 400,
+          "courses": [
+            "MAKMAS0",
+            "MAKMAS01"
+          ]
+        },
+        {
+          "code": "MAT",
+          "minPoints": 100,
+          "courses": [
+            "MATMAT02a"
+          ]
+        },
+        {
+          "code": "MÄT",
+          "minPoints": 200,
+          "courses": [
+            "MÄTMÄO0",
+            "MÄTMÄT0"
+          ]
+        },
+        {
+          "code": "MAY",
+          "minPoints": 100,
+          "courses": [
+            "MAYMAR0"
+          ]
+        },
+        {
+          "code": "MEK",
+          "minPoints": 100,
+          "courses": [
+            "MEKMEK01"
+          ]
+        },
+        {
+          "code": "PLT",
+          "minPoints": 100,
+          "courses": [
+            "PLTPLT0"
+          ]
+        },
+        {
+          "code": "PRU",
+          "minPoints": 100,
+          "courses": [
+            "PRUPRD01S"
+          ]
+        },
+        {
+          "code": "SAA",
+          "minPoints": 200,
+          "courses": [
+            "SAAKÄL01S",
+            "SAASVT0"
+          ]
+        },
+        {
+          "code": "VEK",
+          "minPoints": 100,
+          "courses": [
+            "VEKVEK0"
+          ]
+        },
+        {
+          "code": "VVI",
+          "minPoints": 100,
+          "courses": [
+            "VVIVVS0"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "orientations": [
+      {
+        "name": "Däck",
+        "code": "SXDAC",
+        "points": 600,
+        "courses": [
+          "DACDAC01",
+          "DACDAC02"
+        ],
+        "subjects": [
+          {
+            "code": "DAC",
+            "minPoints": 600,
+            "courses": [
+              "DACDAC01",
+              "DACDAC02"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Maskin",
+        "code": "SXMAS",
+        "points": 600,
+        "courses": [
+          "MAKMAS01",
+          "MAKMAS02"
+        ],
+        "subjects": [
+          {
+            "code": "MAK",
+            "minPoints": 600,
+            "courses": [
+              "MAKMAS01",
+              "MAKMAS02"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      }
+    ],
+    "profiles": [],
+    "professionalDegrees": [
+      {
+        "name": "Befaren matros",
+        "code": "SXDAC",
+        "courses": [
+          "DACDAC01",
+          "DACDAC02",
+          "FARLAS0"
+        ],
+        "subjects": [
+          {
+            "code": "DAC",
+            "minPoints": 600,
+            "courses": [
+              "DACDAC01",
+              "DACDAC02"
+            ]
+          },
+          {
+            "code": "FAR",
+            "minPoints": 100,
+            "courses": [
+              "FARLAS0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Befaren motorman",
+        "code": "SXMAS",
+        "courses": [
+          "FARLAS0",
+          "MAKMAS01",
+          "MAKMAS02"
+        ],
+        "subjects": [
+          {
+            "code": "FAR",
+            "minPoints": 100,
+            "courses": [
+              "FARLAS0"
+            ]
+          },
+          {
+            "code": "MAK",
+            "minPoints": 600,
+            "courses": [
+              "MAKMAS01",
+              "MAKMAS02"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Fartygsbefäl",
+        "code": "SXDAC",
+        "courses": [
+          "DACDAC01",
+          "DACDAC02",
+          "DACFAR0",
+          "FARLAS0"
+        ],
+        "subjects": [
+          {
+            "code": "DAC",
+            "minPoints": 700,
+            "courses": [
+              "DACDAC01",
+              "DACDAC02",
+              "DACFAR0"
+            ]
+          },
+          {
+            "code": "FAR",
+            "minPoints": 100,
+            "courses": [
+              "FARLAS0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Fartygselektriker",
+        "code": "SXMAS",
+        "courses": [
+          "ELLPRA0",
+          "ELRELF0",
+          "FARLAS0",
+          "MAKMAS01",
+          "MAKMAS02"
+        ],
+        "subjects": [
+          {
+            "code": "ELL",
+            "minPoints": 100,
+            "courses": [
+              "ELLPRA0"
+            ]
+          },
+          {
+            "code": "ELR",
+            "minPoints": 100,
+            "courses": [
+              "ELRELF0"
+            ]
+          },
+          {
+            "code": "FAR",
+            "minPoints": 100,
+            "courses": [
+              "FARLAS0"
+            ]
+          },
+          {
+            "code": "MAK",
+            "minPoints": 600,
+            "courses": [
+              "MAKMAS01",
+              "MAKMAS02"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Maskinbefäl",
+        "code": "SXMAS",
+        "courses": [
+          "FARLAS0",
+          "MAKMAS0",
+          "MAKMAS01",
+          "MAKMAS02"
+        ],
+        "subjects": [
+          {
+            "code": "FAR",
+            "minPoints": 100,
+            "courses": [
+              "FARLAS0"
+            ]
+          },
+          {
+            "code": "MAK",
+            "minPoints": 700,
+            "courses": [
+              "MAKMAS0",
+              "MAKMAS01",
+              "MAKMAS02"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Matros",
+        "code": "SXDAC",
+        "courses": [
+          "DACDAC01",
+          "DACDAC02",
+          "FARLAS0"
+        ],
+        "subjects": [
+          {
+            "code": "DAC",
+            "minPoints": 600,
+            "courses": [
+              "DACDAC01",
+              "DACDAC02"
+            ]
+          },
+          {
+            "code": "FAR",
+            "minPoints": 100,
+            "courses": [
+              "FARLAS0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Motorman",
+        "code": "SXMAS",
+        "courses": [
+          "FARLAS0",
+          "MAKMAS01",
+          "MAKMAS02"
+        ],
+        "subjects": [
+          {
+            "code": "FAR",
+            "minPoints": 100,
+            "courses": [
+              "FARLAS0"
+            ]
+          },
+          {
+            "code": "MAK",
+            "minPoints": 600,
+            "courses": [
+              "MAKMAS01",
+              "MAKMAS02"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      }
+    ]
+  }
+}

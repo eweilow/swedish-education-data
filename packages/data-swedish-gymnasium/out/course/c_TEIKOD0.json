@@ -1,0 +1,99 @@
+{
+  "subject": "TEI",
+  "title": "Kondensisolering",
+  "code": "TEIKOD0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> olika typer av isoleringsmaterial, hur de är konstruerade samt vilka egenskaper och användningsområden de har."
+      ],
+      [
+        "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete.",
+        "I planeringen väljer eleven <strong>med säkerhet</strong> någon vanligt förekommande metod.",
+        "Eleven utför <strong>efter samråd</strong> med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav.",
+        "I arbetet använder eleven med <strong>mycket gott</strong> handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.",
+        "Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra."
+      ],
+      [
+        "När arbetet är utfört gör eleven <strong>efter samråd</strong> med handledare kontroller.",
+        "Eleven värderar också med <strong>nyanserade</strong> omdömen om arbetet uppfyller fastställda kvalitetskrav <strong>samt ger förslag på hur arbetet kan förbättras</strong>.",
+        "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utförda åtgärder."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> olika typer av isoleringsmaterial, hur de är konstruerade samt vilka egenskaper och användningsområden de har."
+      ],
+      [
+        "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete.",
+        "I planeringen väljer eleven <strong>med viss säkerhet</strong> någon vanligt förekommande metod.",
+        "Eleven utför <strong>efter samråd</strong> med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav.",
+        "I arbetet använder eleven med <strong>gott</strong> handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.",
+        "Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra."
+      ],
+      [
+        "När arbetet är utfört gör eleven <strong>efter samråd</strong> med handledare kontroller.",
+        "Eleven värderar också med <strong>nyanserade</strong> omdömen om arbetet uppfyller fastställda kvalitetskrav.",
+        "Dessutom gör eleven en <strong>noggrann</strong> dokumentation av utförda åtgärder."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> olika typer av isoleringsmaterial, hur de är konstruerade samt vilka egenskaper och användningsområden de har."
+      ],
+      [
+        "Eleven planerar <strong>i samråd</strong> med handledare sitt arbete.",
+        "I planeringen väljer eleven <strong>med viss säkerhet</strong> någon vanligt förekommande metod.",
+        "Eleven utför <strong>i samråd</strong> med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav.",
+        "I arbetet använder eleven med <strong>visst</strong> handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.",
+        "Dessutom gör eleven en <strong>enkel</strong> riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra."
+      ],
+      [
+        "När arbetet är utfört gör eleven <strong>i samråd</strong> med handledare kontroller.",
+        "Eleven värderar också med <strong>enkla</strong> omdömen om arbetet uppfyller fastställda kvalitetskrav.",
+        "Dessutom gör eleven en <strong>enkel</strong> dokumentation av utförda åtgärder."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Olika typer av isoleringsmaterial samt deras konstruktion, egenskaper och användningsområden.",
+        "Planering och organisering av arbetsplatser och arbetsuppgifter vid kondensisolering av kalla installationer.",
+        "Montering av termisk isolering av kalla installationer.",
+        "Isoleringsteori, ritningar, arbetsbeskrivningar och monteringsanvisningar.",
+        "Problem som kan uppstå med kondens samt med värme- och fuktflöden vid kalla installationer.",
+        "Brandkrav när cellgummi används.",
+        "Montering av cellgummiisolering på rörinstallationer.",
+        "Montering av kondensisolering med folierörskål.",
+        "Montering av cellgummiisolering på apparater och komponenter.",
+        "Isolering med polyuretanskumning av rörledningar vid högt ställda krav på funktionen i temperaturhållningen.",
+        "Montering av ångbromsar.",
+        "Verktyg, maskiner och andra hjälpmedel.",
+        "Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen. Arbetsmiljön vid användning av limprodukter vid försegling av cellgummiisolering.",
+        "Ergonomiskt riktigt arbetssätt.",
+        "Kontroll och dokumentation av utförda åtgärder."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen kondensisolering omfattar punkterna 1 och 3–7 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    2,
+    3,
+    4,
+    5,
+    6
+  ]
+}

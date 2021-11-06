@@ -1,0 +1,76 @@
+{
+  "subject": "MEK",
+  "title": "Mekatronik 2",
+  "code": "MEKMEK02",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven planerar och bygger <strong>efter samråd</strong> med handledare flera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik.",
+        "I arbetet använder eleven <strong>med säkerhet</strong> ritningar, manualer och informationsteknik.",
+        "Dessutom samarbetar eleven <strong>med säkerhet</strong> med andra.",
+        "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete samt utvärderar det med <strong>nyanserade</strong> omdömen.",
+        "<strong>Dessutom ger eleven förslag på hur systemet kan förbättras</strong>."
+      ],
+      [
+        "Med exempel från både industri och vardagsliv beskriver eleven <strong>utförligt och nyanserat</strong> hur ett mekatroniskt <strong>komplext</strong> system är uppbyggt.",
+        "Med hjälp av matematiska och fysikaliska begrepp beskriver eleven <strong>utförligt och nyanserat</strong> fysikaliska principer vid olika mekatroniska tillämpningar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven planerar och bygger <strong>efter samråd</strong> med handledare <strong>ett eller</strong> flera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> ritningar, manualer och informationsteknik.",
+        "Dessutom samarbetar eleven <strong>med viss säkerhet</strong> med andra.",
+        "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete samt utvärderar det med <strong>nyanserade</strong> omdömen."
+      ],
+      [
+        "Med exempel från både industri och vardagsliv beskriver eleven <strong>utförligt</strong> hur ett mekatroniskt system är uppbyggt.",
+        "Med hjälp av matematiska och fysikaliska begrepp beskriver eleven <strong>utförligt</strong> fysikaliska principer vid olika mekatroniska tillämpningar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven planerar och bygger <strong>i samråd</strong> med handledare <strong>ett eller</strong> flera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> ritningar, manualer och informationsteknik.",
+        "Dessutom samarbetar eleven <strong>med viss säkerhet</strong> med andra.",
+        "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete samt utvärderar det med <strong>enkla</strong> omdömen."
+      ],
+      [
+        "Med exempel från både industri och vardagsliv beskriver eleven <strong>översiktligt</strong> hur ett <strong>enkelt</strong> mekatroniskt system är uppbyggt.",
+        "Med hjälp av matematiska och fysikaliska begrepp beskriver eleven <strong>översiktligt</strong> fysikaliska principer vid olika mekatroniska tillämpningar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Mekatroniska system och mekatroniska processer.",
+        "Fördjupad tolkning av ritningar och manualer.",
+        "Informationsteknik som stöd vid uppbyggnad och programmering av mekatroniska system, till exempel cad-programvara med stöd för hållfasthetsprövning vid olika belastningar och programmeringsverktyg för aktuellt styrsystem.",
+        "Metoder för integration av mekanisk struktur, elektroteknik och styrteknik vid byggandet av mekatroniska system i form av såväl produkter som tillverkningssystem.",
+        "Begreppen process och system.",
+        "Modularisering och demodularisering av tillverkningssystem och tekniska system i vardagen.",
+        "Matematiska och fysikaliska begrepp vid arbete med mekatroniska system, till exempel hävarm, moment, kraft, tröghet, uthållning, styvhet och jämvikt."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen mekatronik 2 omfattar punkterna 1–5 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet utifrån både en produktmekatronisk och en processmekatronisk utgångspunkt.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ]
+}

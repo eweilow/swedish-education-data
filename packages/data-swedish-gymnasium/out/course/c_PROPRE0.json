@@ -1,0 +1,98 @@
+{
+  "subject": "PRO",
+  "title": "Processreglering",
+  "code": "PROPRE0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad, funktion och principer för distribuerade styrsystem och olika reglertekniska systemlösningar."
+      ],
+      [
+        "Eleven utför <strong>efter samråd</strong> med handledare <strong></strong>vanligt förekommande konfigureringar och optimeringar i olika reglertekniska processer med ett resultat som på ett <strong>gott</strong> sätt uppfyller fastställda kvalitets- och miljökrav."
+      ],
+      [
+        "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra.",
+        "I arbetet hanterar och vårdar eleven med <strong>mycket gott</strong> handlag material, verktyg och övrig utrustning.",
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> hur standarder och föreskrifter styr val av utrustning och arbetssätt."
+      ],
+      [
+        "Efter utfört arbete gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utfört arbete.",
+        "Eleven utvärderar sitt arbete med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör <strong>utförligt</strong> för uppbyggnad, funktion och principer för distribuerade styrsystem och olika reglertekniska systemlösningar."
+      ],
+      [
+        "Eleven utför <strong>efter samråd</strong> med handledare <strong></strong>vanligt förekommande konfigureringar och optimeringar i olika reglertekniska processer med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav."
+      ],
+      [
+        "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra.",
+        "I arbetet hanterar och vårdar eleven med <strong>gott</strong> handlag material, verktyg och övrig utrustning.",
+        "Eleven beskriver <strong>utförligt</strong> hur standarder och föreskrifter styr val av utrustning och arbetssätt."
+      ],
+      [
+        "Efter utfört arbete gör eleven en <strong>noggrann</strong> dokumentation av utfört arbete.",
+        "Eleven utvärderar sitt arbete med <strong>nyanserade</strong> omdömen."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven redogör <strong>översiktligt</strong> för uppbyggnad, funktion och principer för distribuerade styrsystem och olika reglertekniska systemlösningar."
+      ],
+      [
+        "Eleven utför <strong>i samråd</strong> med handledare vanligt förekommande konfigureringar och optimeringar i olika reglertekniska processer med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav."
+      ],
+      [
+        "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra.",
+        "I arbetet hanterar och vårdar eleven med <strong>visst</strong> handlag material, verktyg och övrig utrustning.",
+        "Eleven beskriver <strong>översiktligt</strong> hur standarder och föreskrifter styr val av utrustning och arbetssätt."
+      ],
+      [
+        "Efter utfört arbete gör eleven en <strong>enkel</strong> dokumentation av utfört arbete.",
+        "Eleven utvärderar sitt arbete med <strong>enkla</strong> omdömen."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Processreglering med distribuerade styrsystem.",
+        "Kontinuerlig och diskontinuerlig reglering med tidsproportionell utgång.",
+        "Reglering av flerkapacitiva processer.",
+        "Sammansatta reglersystem med framkoppling, internt och externt börvärde samt kvot- och kaskadreglering.",
+        "Multivariabla regleringar.",
+        "Parameterstyrning och adaptiv parameteruppdatering.",
+        "Reglering med oskarp logik (fuzzy logic).",
+        "Störningar i reglerprocessen, innefattande störtendenskompensering.",
+        "Laborativa konfigureringar av kontrollerande enheter och processanläggningar med optimeringsmetoder för process och parametrar.",
+        "Tolkning av anläggningsteknisk dokumentation, till exempel processcheman, plintscheman, tabeller, datablad, manualer och certifikat.",
+        "Dokumentation, till exempel regulatorinställningar.",
+        "Signalmätmetoder på automatiserade processanläggningar i drift.",
+        "Säkerhets-, energiförbruknings- och miljöaspekter vid processreglering, inklusive riskanalys, energioptimering och minimering av kemiska föroreningar.",
+        "Standarder och föreskrifter inom området, till exempel ATEX-direktiven."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen processreglering omfattar punkterna 1–2, 5 och 8–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2 och 5.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    4,
+    7,
+    8,
+    9
+  ]
+}

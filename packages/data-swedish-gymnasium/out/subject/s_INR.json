@@ -1,0 +1,30 @@
+{
+  "title": "Industriautomation",
+  "code": "INR",
+  "developmentPurposes": [
+    "Kunskaper om uppbyggnad av, funktion och principer för samt de risker som finns vid arbete med industriella automatiserade system.",
+    "Kunskaper om standarder och begrepp som används vid arbete med industriella automatiserade system.",
+    "Förmåga att planera och på ett säkert sätt utföra arbete i industriella automatiserade system.",
+    "Förmåga att läsa och framställa scheman, ritningar och annan dokumentation över industriella automatiserade system.",
+    "Förmåga att installera, programmera och driftsätta industriella automatiserade system.",
+    "Färdigheter i att använda informationsteknik som stöd vid byggnation, drift och underhåll av industriella automatiserade system.",
+    "Förmåga att förebygga och avhjälpa fel i industriella automatiserade system."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet industriautomation ska syfta till att eleverna utvecklar kunskaper i att planera och utföra arbete på industriella automatiserade system med hjälp av systemdokumentation, till exempel ritningar och manualer. Undervisningen ska även leda till att eleverna utvecklar förståelse av hur informationsteknik kan användas vid arbete med industriella automatiserade system. Dessutom ska eleverna ges möjlighet att utveckla förmåga att hantera verktyg och utrustning inom valt område.",
+    "Undervisningen ska bidra till att eleverna utvecklar förståelse av säkerhet, standarder och begrepp samt färdigheter i att tillämpa dessa. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att förebygga och avhjälpa fel i industriella automatiserade system. Dessutom ska undervisningen ge eleverna möjlighet att utveckla teoretisk förståelse av begrepp, teorier och metoder.",
+    "Genom både praktiskt och teoretiskt arbete med uppgifter ska eleverna ges möjlighet att öva sig i att arbeta enligt yrkespraxis."
+  ],
+  "courseInfo": {
+    "INRIND0": "Industriautomation, 100 poäng, som bygger på kursen mät- och styrteknik, kursen mät- och reglerteknik och kursen programmerbara styrsystem.",
+    "INRROB0": "Robotteknik, 100 poäng, som bygger på kursen programmerbara styrsystem eller på kurserna datorstyrd produktion 1 och datorstyrd produktion 2."
+  },
+  "description": "Ämnet industriautomation behandlar byggnation och underhåll av industriella automatiserade system. Automatiserade system är processer med funktioner som verkar av sig själv. De kan styras av i förväg beskrivna program men också av händelser som sker i eller i anslutning till aktuella funktioner. Automatiserade system används bland annat i tillverkningsindustrin och i processindustrin.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "VOCATIONAL",
+  "applicableFrom": "2014-10-01T22:00:00.000Z",
+  "courses": [
+    "INRIND0",
+    "INRROB0"
+  ]
+}

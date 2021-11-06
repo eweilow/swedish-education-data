@@ -1,0 +1,69 @@
+{
+  "subject": "CAD",
+  "title": "Cad 3",
+  "code": "CADCAD03",
+  "points": 50,
+  "criteria": {
+    "A": [
+      [
+        "Eleven utför <strong>avancerad</strong> dokumenthantering med <strong>gott</strong> resultat.",
+        "Dessutom utför eleven <strong>efter samråd</strong> med handledare avancerad solidmodellering med <strong>gott</strong> resultat."
+      ],
+      [
+        "Eleven gör komplexa sammanställningar med <strong>gott</strong> resultat.",
+        "I arbetet använder eleven <strong>med säkerhet</strong> applikationer i komplexa situationer.",
+        "Dessutom analyserar eleven sitt resultat med utgångspunkt i rörelsesimulering."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven utför dokumenthantering med <strong>tillfredsställande</strong> resultat.",
+        "Dessutom utför eleven <strong>efter samråd</strong> med handledare avancerad solidmodellering med <strong>tillfredsställande</strong> resultat."
+      ],
+      [
+        "Eleven gör komplexa sammanställningar med <strong>tillfredsställande</strong> resultat.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> applikationer i komplexa situationer.",
+        "Dessutom analyserar eleven <strong>med viss säkerhet</strong> sitt resultat med utgångspunkt i rörelsesimulering."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven utför <strong>enkel</strong> dokumenthantering med <strong>tillfredsställande</strong> resultat.",
+        "Dessutom utför eleven <strong>i samråd</strong> med handledare avancerad solidmodellering med <strong>tillfredsställande</strong> resultat."
+      ],
+      [
+        "Eleven gör komplexa sammanställningar med <strong>tillfredsställande</strong> resultat.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> applikationer i komplexa situationer.",
+        "Dessutom analyserar eleven <strong>med viss säkerhet</strong> sitt resultat med utgångspunkt i rörelsesimulering."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Grundläggande dokumenthantering.",
+        "Fördjupning inom solidmodellering.",
+        "Komplexa sammanställningar i tre dimensioner med beaktande av konstruktionsvillkor.",
+        "Fördjupning av applikationer beroende på valt teknikområde, till exempel FEM-analys (finita elementmetoden) inom produktutveckling och byggteknik.",
+        "Grundläggande rörelsesimulering, till exempel studstal, friktion och last med beaktande av randvillkor."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen cad 3 omfattar punkterna 3–6 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    2,
+    3,
+    4,
+    5
+  ]
+}

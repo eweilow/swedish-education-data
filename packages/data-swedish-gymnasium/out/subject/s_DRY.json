@@ -1,0 +1,36 @@
+{
+  "title": "Dryckeskunskap",
+  "code": "DRY",
+  "developmentPurposes": [
+    "Kunskaper om ansvarsfull alkoholservering, alkoholpolitik, etiska frågor och lagar och andra bestämmelser inom området samt om alkoholens skadeverkningar.",
+    "Kunskaper om varma och kalla drycker.",
+    "Kunskaper om dryckestraditioner och olika dryckers historia.",
+    "Förmåga att planera, organisera och utföra arbetsuppgifter inom området.",
+    "Förmåga att använda redskap och utrustning samt att välja och använda arbetsmetoder.",
+    "Förmåga att arbeta hygieniskt, ergonomisk och säkert.",
+    "Förmåga att utvärdera sitt arbete och resultat.",
+    "Förmåga att samarbeta med andra och använda fackspråk."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet dryckeskunskap ska syfta till att eleverna utvecklar kunskaper om kalla och varma drycker, deras ursprung, egenskaper, användningsområden och karaktär. Eleverna ska även ges möjlighet att utveckla kunskaper om odlingsområden, framställningsmetoder, olika tillverkningsprocesser och råvaror samt hur detta påverkar slutproduktens kvalitet och pris.",
+    "Eleverna ska ges möjlighet att utveckla förmåga att servera drycker, utforma dryckeslistor samt att identifiera och bedöma kvaliteten på olika drycker. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om sinnenas betydelse för bedömningen. Undervisningen ska även leda till att eleverna utvecklar kunskaper om svenska och internationella dryckestraditioner ur ett nutida och historiskt perspektiv. Undervisningen ska även leda till att eleverna utvecklar förståelse av olika gästers behov och krav.",
+    "Undervisningen ska leda till att eleverna utvecklar kunskaper om vad som avses med ansvarsfull alkoholservering samt om alkoholens skadeverkningar. Den ska även leda till att eleverna utvecklar kunskaper om alkoholpolitiska och etiska frågor inom området samt om lagar och andra bestämmelser som rör hantering av olika drycker.",
+    "I undervisningen ska eleverna ges möjlighet att praktiskt tillämpa sina kunskaper om servering, blandning och beredning av drycker. Eleverna ska även ges möjlighet att praktiskt träna upp sin förmåga att bedöma och identifiera drycker."
+  ],
+  "courseInfo": {
+    "DRYDRC0": "Drycker och ansvarsfull alkoholservering, 100 poäng.",
+    "DRYBAT0": "Barteknik, 100 poäng, som bygger på kursen drycker och ansvarsfull alkoholservering.",
+    "DRYDRY0": "Drycker, 100 poäng, som bygger på kursen drycker och ansvarsfull alkoholservering.",
+    "DRYDRY00S": "Drycker – specialisering, 100 poäng, som bygger på kursen drycker. Kursen kan läsas flera gånger med olika innehåll."
+  },
+  "description": "Ämnet dryckeskunskap behandlar tillredning och servering av varma, kalla, alkoholfria och alkoholhaltiga drycker. Ämnet tar även upp dryckestraditioner och behandlar lagar och andra bestämmelser som gäller för servering av alkoholhaltiga drycker.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "VOCATIONAL",
+  "applicableFrom": "2011-06-30T22:00:00.000Z",
+  "courses": [
+    "DRYBAT0",
+    "DRYDRC0",
+    "DRYDRY0",
+    "DRYDRY00S"
+  ]
+}

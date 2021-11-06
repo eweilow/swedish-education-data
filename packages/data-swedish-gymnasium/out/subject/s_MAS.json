@@ -1,0 +1,49 @@
+{
+  "title": "Maskin- och lastbilsteknik",
+  "code": "MAS",
+  "developmentPurposes": [
+    "Kunskaper om lastbilar och mobila maskiner samt om deras utrustning och användningsområden.",
+    "Kunskaper om komponenter och system samt om hur de samverkar.",
+    "Förmåga att utföra diagnos, service, underhåll och reparation av lastbilar och mobila maskiner.",
+    "Förmåga att utföra funktions- och säkerhetskontroll.",
+    "Förmåga att välja och använda arbetsmetoder och utrustning.",
+    "Förmåga att arbeta på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.",
+    "Förmåga att använda såväl svenska som engelska manualer samt digitala informationssystem.",
+    "Förmåga att använda ett yrkesmässigt språk."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet maskin- och lastbilsteknik ska syfta till att eleverna utvecklar förmåga att genomföra underhåll, diagnostisering och reparationer av lastbilar och mobila maskiner. Den ska ge eleverna möjlighet att utveckla tekniskt kunnande inom området maskin- och lastbilsteknik samt förmåga att använda teknik på ett korrekt sätt i ett givet sammanhang. Undervisningen ska leda till att eleverna utvecklar förmåga att arbeta med problemlösning såväl självständigt som tillsammans med andra. Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper om system och komponenter samt om hur dessa samverkar.",
+    "Undervisningen ska bidra till att stimulera elevernas intresse för lastbilar och mobila maskiner, deras utrustning och ny teknik. Genom undervisningen ska eleverna även ges möjlighet att utveckla en yrkesidentitet och förmåga att använda ett yrkesmässigt språk.",
+    "I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Dessa arbetsuppgifter ska utgå från ett problemlösande och laborativt arbetssätt."
+  ],
+  "courseInfo": {
+    "MASARB0": "Arbete från servicebil, 100 poäng.",
+    "MASMAI0": "Maskin- och lastbilsteknik – introduktion, 200 poäng, som bygger på kursen fordonsteknik – introduktion.",
+    "MASREP0": "Reparation av lastbilar och mobila maskiner, 300 poäng.",
+    "MASLAT0": "Lastbilar och utrustning, 300 poäng, som bygger på kursen maskin- och lastbilsteknik – introduktion samt kursen reparation av lastbilar och mobila maskiner.",
+    "MASLAI0": "Lastbilsmonterad hydraulik och pneumatik, 100 poäng, som bygger på kursen maskin- och lastbilsteknik – introduktion samt kursen reparation av lastbilar och mobila maskiner.",
+    "MASMOB0": "Mobila maskiner och utrustning, 300 poäng, som bygger på kursen maskin- och lastbilsteknik – introduktion samt kursen reparation av lastbilar och mobila maskiner.",
+    "MASKOM0": "Komfortsystem, 100 poäng, som bygger på kursen lastbilar och utrustning.",
+    "MASMOB01": "Mobil hydraulik 1, 100 poäng, som bygger på kursen mobila maskiner och utrustning, kursen lastbilsmonterad hydraulik och pneumatik eller kursen pistmaskiner och utrustning.",
+    "MASMOB02": "Mobil hydraulik 2, 100 poäng, som bygger på kursen mobil hydraulik 1.",
+    "MASANP0": "Anpassning och montering av utrustning, 200 poäng, som bygger på kursen lastbilsmonterad hydraulik och pneumatik eller kursen mobil hydraulik 1.",
+    "MASSTY0": "Styr- och övervakningssystem, 100 poäng, som bygger på kursen lastbilsmonterad hydraulik och pneumatik eller kursen mobil hydraulik 1."
+  },
+  "description": "Ämnet maskin- och lastbilsteknik behandlar funktion hos och tillsyn, service och reparation av lastbilar och mobila maskiner samt felsökning och support. Det behandlar också olika användningsområden för lastbilar och mobila maskiner samt branscher inom området.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "VOCATIONAL",
+  "applicableFrom": "2015-12-14T23:00:00.000Z",
+  "courses": [
+    "MASANP0",
+    "MASARB0",
+    "MASKOM0",
+    "MASLAI0",
+    "MASLAT0",
+    "MASMAI0",
+    "MASMOB0",
+    "MASMOB01",
+    "MASMOB02",
+    "MASREP0",
+    "MASSTY0"
+  ]
+}

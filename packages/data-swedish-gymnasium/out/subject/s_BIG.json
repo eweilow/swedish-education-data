@@ -1,0 +1,34 @@
+{
+  "title": "Biologi – naturbruk",
+  "code": "BIG",
+  "developmentPurposes": [
+    "Kunskaper om marken och livet i marken samt om kretslopp i mark, vatten och luft.",
+    "Kunskaper om växters byggnad, livsprocesser och utvecklingsfaser.",
+    "Kunskaper om olika djurarter, deras egenskaper och historiska utveckling samt om djurs etologi och naturliga ursprung.",
+    "Kunskaper om olika djurarters anatomi och fysiologi.",
+    "Kunskaper om mikroorganismer och mikrobiologiska processer av betydelse inom naturbruket.",
+    "Förmåga att identifiera, beskriva och namnge växt- och djurarter inom naturbruket.",
+    "Kunskaper om biologisk mångfald, hotade arter och genbanker.",
+    "Kunskaper om biologins betydelse inom naturbruket samt förmåga att söka information om växter och djur."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet biologi – naturbruk ska syfta till att eleverna utvecklar kunskaper om växters och djurs byggnad, livsprocesser och utvecklingsfaser. Den ska också leda till att eleverna utvecklar kunskaper om marken och livsprocesser i marken samt om naturbrukets påverkan på ekosystemen. Undervisningen ska bidra till att eleverna utvecklar förståelse av energiomsättning hos växter och djur samt kretslopp i mark, vatten och luft. Den ska också leda till att eleverna utvecklar förmåga att identifiera, namnge och beskriva växt- och djurarter. Undervisningen ska vidare bidra till att eleverna utvecklar kunskaper om mikrobiologi och mikrobiologiska processer.",
+    "Genom laborationer och undersökande arbetssätt ska eleverna ges möjlighet att utveckla ett naturvetenskapligt tänkande och en biologisk förståelse av djur och växter. I undervisningen ska eleverna genom praktiska övningar, observationer och fältstudier ges möjlighet att utveckla kunskaper i etologi samt om växternas och djurens anatomi och fysiologi. Genom informationssökning i samband med fältstudier ska eleverna ges möjlighet att utveckla kunskaper om olika arter och biologisk mångfald."
+  ],
+  "courseInfo": {
+    "BIGDJE0": "Djurens biologi, 100 poäng, som bygger på kursen biologi 1.",
+    "BIGMAN0": "Marken och växternas biologi, 100 poäng, som bygger på kursen biologi 1.",
+    "BIGBEA0": "Bevarandebiologi, 100 poäng, som bygger på kursen djurens biologi eller kursen marken och växternas biologi.",
+    "BIGBIG00S": "Biologi – naturbruk – specialisering, 100 poäng, som bygger på kursen djurens biologi eller kursen marken och växternas biologi. Kursen kan läsas flera gånger med olika innehåll."
+  },
+  "description": "Ämnet biologi – naturbruk är naturvetenskapligt och behandlar den biologi som har betydelse för arbete med djur och växter inom naturbruk. Kunskaper om marken och växternas biologi är centrala för verksamheter inom jordbruk, skogsbruk och trädgård. Arbete med olika slags djur ställer krav på kunskaper inom de biologiska vetenskapsområdena etologi, djurens anatomi och fysiologi samt mikrobiologi. I ämnet behandlas också artkunskap, biologisk mångfald och bevarandefrågor.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "category": "VOCATIONAL",
+  "applicableFrom": "2011-06-30T22:00:00.000Z",
+  "courses": [
+    "BIGBEA0",
+    "BIGBIG00S",
+    "BIGDJE0",
+    "BIGMAN0"
+  ]
+}

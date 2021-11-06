@@ -1,0 +1,71 @@
+{
+  "subject": "PES",
+  "title": "Taxitrafik",
+  "code": "PESTAX0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> system för trafikledning samt hantering av utrustningar för betalsystem och redovisning av arbets- och vilotider.",
+        "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> branschetiska regler och krav på prisinformation till kunder."
+      ],
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> användning och hantering av fordonstillbehör och tilläggsutrustningar som hjälpmedel för passagerare vid i- och urstigning.",
+        "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> arbetsställningar och ergonomi samt hälsa och miljö i arbetet."
+      ],
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> handlingsalternativ vid olyckor och nödsituationer.",
+        "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> sätt att bemöta passagerare med särskilda behov."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> system för trafikledning samt hantering av utrustningar för betalsystem och redovisning av arbets- och vilotider.",
+        "Dessutom beskriver eleven <strong>utförligt</strong> branschetiska regler och krav på prisinformation till kunder."
+      ],
+      [
+        "Eleven beskriver <strong>utförligt</strong> användning och hantering av fordonstillbehör och tilläggsutrustningar som hjälpmedel för passagerare vid i- och urstigning.",
+        "Dessutom beskriver eleven <strong>utförligt</strong> arbetsställningar och ergonomi samt hälsa och miljö i arbetet."
+      ],
+      [
+        "Eleven beskriver <strong>utförligt</strong> handlingsalternativ vid olyckor och nödsituationer.",
+        "Dessutom beskriver eleven <strong>utförligt</strong> sätt att bemöta passagerare med särskilda behov."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> system för trafikledning samt hantering av utrustningar för betalsystem och redovisning av arbets- och vilotider.",
+        "Dessutom beskriver eleven <strong>översiktligt</strong> branschetiska regler och krav på prisinformation till kunder."
+      ],
+      [
+        "Eleven beskriver <strong>översiktligt</strong> användning och hantering av fordonstillbehör och tilläggsutrustningar som hjälpmedel för passagerare vid i- och urstigning.",
+        "Dessutom beskriver eleven <strong>översiktligt</strong> arbetsställningar och ergonomi samt hälsa och miljö i arbetet."
+      ],
+      [
+        "Eleven beskriver <strong>översiktligt</strong> handlingsalternativ vid olyckor och nödsituationer.",
+        "Dessutom beskriver eleven <strong>översiktligt</strong> sätt att bemöta passagerare med särskilda behov."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Trafikledningssystem som är specifika för taxilogistik och taxametersystem.",
+        "Lagar och andra bestämmelser som reglerar taxiverksamheten, till exempel branschetiska regler, prisinformation och vilotidsförordningar.",
+        "Fordonstillbehör och tilläggsutrustning i fordon, till exempel ramper, lyftar, bårar, alkolås, skyddskameror och fästanordningar för bagage och rullstolar.",
+        "Ergonomi, hälsa och miljö.",
+        "Agerande vid olycka och nödsituationer.",
+        "Bemötande och värdskap med särskild tonvikt på sjukresenärer och resande inom särskild kollektivtrafik samt de särskilda krav dessa grupper ställer på förare och fordon."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen taxitrafik omfattar punkterna 1–2, 6 och 8–9 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    5,
+    7,
+    8
+  ]
+}

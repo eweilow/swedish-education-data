@@ -1,0 +1,78 @@
+{
+  "subject": "DAO",
+  "title": "Datorteknik 1a",
+  "code": "DAODAT01a",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> hur dator- och kommunikationssystem är uppbyggda och fungerar samt hur driftsäkerhet och integritetsskydd uppnås i systemen."
+      ],
+      [
+        "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>mycket gott</strong> handlag hård- och mjukvaruinstallation, konfigurering och underhåll samt åtgärdar <strong>enkla och även mer avancerade</strong> fel i datorer och datorsystem.",
+        "Resultatet är <strong>gott</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "Dessutom installerar och konfigurerar eleven <strong>efter samråd</strong> med handledare datorer i ett befintligt nätverk.",
+        "Eleven hanterar med <strong>mycket gott</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> hur dator- och kommunikationssystem är uppbyggda och fungerar samt hur driftsäkerhet och integritetsskydd uppnås i systemen."
+      ],
+      [
+        "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>gott</strong> handlag hård- och mjukvaruinstallation, konfigurering och underhåll samt åtgärdar <strong>enkla</strong> fel i datorer och datorsystem.",
+        "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "Dessutom installerar och konfigurerar eleven <strong>efter samråd</strong> med handledare datorer i ett befintligt nätverk.",
+        "Eleven hanterar med <strong>gott</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> hur dator- och kommunikationssystem är uppbyggda och fungerar samt hur driftsäkerhet och integritetsskydd uppnås i systemen."
+      ],
+      [
+        "Eleven planerar och utför <strong>i samråd</strong> med handledare och med <strong>visst</strong> handlag hård- och mjukvaruinstallation, konfigurering och underhåll samt åtgärdar <strong>enkla</strong> fel i datorer och datorsystem.",
+        "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "Dessutom installerar och konfigurerar eleven <strong>i samråd</strong> med handledare datorer i ett befintligt nätverk.",
+        "Eleven hanterar med <strong>visst</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>enkel</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Datorsystems uppbyggnad, komponenter och kringutrustningar.",
+        "Grunderna i OSI-modellen (Open Systems Interconnection) och gällande standarder för datorkommunikation.",
+        "Program, till exempel enklare kommunikationsprogram och applikationsprogram för mobila enheter.",
+        "Enklare rit- och simuleringsprogram.",
+        "Begreppen filer, filformat, komprimering och kryptering.",
+        "Fältbussars användning inom till exempel industri-, el- och andra teknikområden.",
+        "Rutiner för säkerhetskopiering och installation av virusskydd.",
+        "ESD-säker hantering av mikroprocessorer och minnen (Electro Static Discharge).",
+        "Planering, montering, konfigurering samt driftsättning av datorsystem för något av användningsområdena mätning, styrning, övervakning eller dokumentation.",
+        "Installation och konfigurering av applikationsprogram.",
+        "Installation och konfigurering av datorer i ett befintligt nätverk.",
+        "Installation av skrivare och andra enheter i nätverk."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen datorteknik 1a omfattar punkterna 1–2 och 4 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    3
+  ]
+}

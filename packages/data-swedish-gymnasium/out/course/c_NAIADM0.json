@@ -1,0 +1,102 @@
+{
+  "subject": "NAI",
+  "title": "Administration av nätverks- och serverutrustning",
+  "code": "NAIADM0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar."
+      ],
+      [
+        "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete.",
+        "I planeringen läser och tolkar eleven <strong>med säkerhet</strong> instruktioner, manualer och andra dokument.",
+        "Eleven utför <strong>efter samråd</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+        "Eleven bygger också <strong>efter samråd</strong> med handledare upp nätverk och anläggningar samt skapar <strong>med säkerhet</strong> systemlösningar.",
+        "Dessutom utför eleven <strong>efter samråd</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>efter samråd</strong> med handledare fel i utrustning i nätverksmiljöer.",
+        "Arbetet utförs i enlighet med lagar och andra bestämmelser, på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+        "Resultatet av arbetet är <strong>gott</strong> med avseende på funktion, säkerhet och kvalitet.",
+        "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "Eleven ger <strong>efter samråd</strong> med handledare <strong>avancerade</strong> råd till användare vid val av nätverkssystem och datorteknisk utrustning."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar."
+      ],
+      [
+        "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete.",
+        "I planeringen läser och tolkar eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument.",
+        "Eleven utför <strong>efter samråd</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+        "Eleven bygger också <strong>efter samråd</strong> med handledare upp nätverk och anläggningar samt skapar <strong>med viss säkerhet</strong> systemlösningar.",
+        "Dessutom utför eleven <strong>efter samråd</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>efter samråd</strong> med handledare fel i utrustning i nätverksmiljöer.",
+        "Arbetet utförs i enlighet med lagar och andra bestämmelser, på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+        "Resultatet av arbetet är <strong>tillfredsställande</strong> med avseende på funktion, säkerhet och kvalitet.",
+        "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "Eleven ger <strong>efter samråd</strong> med handledare råd till användare vid val av nätverkssystem och datorteknisk utrustning."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar."
+      ],
+      [
+        "Eleven planerar <strong>i samråd</strong> med handledare sitt arbete.",
+        "I planeringen läser och tolkar eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument.",
+        "Eleven utför <strong>i samråd</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+        "Eleven bygger också <strong>i samråd</strong> med handledare upp nätverk och anläggningar samt skapar <strong>med viss säkerhet</strong> systemlösningar.",
+        "Dessutom utför eleven <strong>i samråd</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>i samråd</strong> med handledare fel i utrustning i nätverksmiljöer.",
+        "Arbetet utförs i enlighet med lagar och andra bestämmelser, på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+        "Resultatet av arbetet är <strong>tillfredsställande</strong> med avseende på funktion, säkerhet och kvalitet.",
+        "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "Eleven ger <strong>i samråd</strong> med handledare <strong>enkla</strong> råd till användare vid val av nätverkssystem och datorteknisk utrustning."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Nättopologier, dvs. på vilket sätt olika noder i nätverk är kopplade till varandra.",
+        "Konfigurering av anslutningstjänster till nätverkslagringsplatser.",
+        "Konfigurering av system och hantering av funktionsfel.",
+        "Hantering av olika former av nätverksutrustning, till exempel switchar, routrar och gateways. Utrustningens funktion och användningsområde.",
+        "Hantering av strömbortfall i en servermiljö och konfigurering av larm vid driftavbrott. Implementering av driftsäkerhet på såväl disknivå som elkraftsnivå.",
+        "Övervakning av nätverkstrafik och klienter samt hantering och övervakning med SNMP (Simple Network Management Protocol).",
+        "Skydd av servrar och klienter i nätverksmiljö med hjälp av mjukvara och hårdvara.",
+        "Kryptering av kommunikation mellan nät och servrar.",
+        "Systemintegration, till exempel samordning av inloggning och auktorisering till olika system.",
+        "Hantering och konfigurering av brandväggar.",
+        "Lagar och andra bestämmelser, till exempel personuppgiftslagen. Policydokument.",
+        "Felsökningsmetodik."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen administration av nätverks- och serverutrustning omfattar punkterna 1–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 5 och 6.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ]
+}

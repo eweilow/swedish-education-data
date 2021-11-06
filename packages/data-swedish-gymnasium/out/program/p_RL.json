@@ -1,0 +1,660 @@
+{
+  "title": "Restaurang- och livsmedelsprogrammet",
+  "code": "RL",
+  "url": "https://www.skolverket.se/laroplaner-amnen-och-kurser/gymnasieutbildning/gymnasieskola/programstruktur-och-examensmal/restaurang-och-livsmedelsprogrammet",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "typeOfProgram": "VOCATIONAL_PROGRAM",
+  "applicableFrom": "2019-11-26T23:00:00.000Z",
+  "info": {
+    "degreeObjectives": [
+      "Restaurang- och livsmedelsprogrammet är ett yrkesprogram. Efter examen från programmet ska eleverna ha de kunskaper som behövs för att arbeta inom restaurang- och livsmedelssektorn, till exempel i restaurang, bageri och med färskvaror.",
+      "Utbildningen ska utveckla elevernas kunskaper inom de delar av restaurang- och livsmedelsbranschen där man arbetar nära kunderna med i första hand hantverksmässiga metoder, såväl traditionella som moderna. Den ska också utveckla elevernas kunskaper om och färdigheter i livsmedelsproduktion, matlagning och servering liksom deras kunskaper om måltiden som helhet. Måltiden som helhet är central i utbildningen eftersom de olika verksamhetsområdena samverkar för att skapa måltidsupplevelser. Oavsett om man till exempel bakar, arbetar i delikatessbutik eller på restaurang bidrar man till helheten. Utbildningen ska även ge kunskaper i arbetsmiljö, försäljning, service, hygien, näringslära, specialkoster och alkoholservering. Utbildningen ska också bidra till att utveckla elevernas förmåga att använda digital teknik som förekommer inom för utbildningen relevanta yrkesområden.",
+      "Arbetet nära kunderna ställer krav på goda kunskaper i kommunikation och service. Utbildningen ska därför utveckla elevernas förmåga att bemöta kunder. Även kunskaper i exponering och skyltning av varor ska ingå i utbildningen. Kommunikation är en viktig del i ett fungerande lagarbete. Eftersom arbetet inom yrkesområdet i regel utförs av människor i samverkan ska utbildningen utveckla elevernas förmåga att samverka med andra, oavsett till exempel kön, kulturell bakgrund, ålder, position eller kompetens. Eleverna ska vidare utveckla förmågan att arbeta i grupp, ta initiativ, vara lyhörda, arbeta självständigt och kunna använda yrkets fackspråk. Utbildningen ska även utveckla elevernas förmåga att arbeta med planering, organisation och ekonomi.",
+      "Branschen präglas av förändring och utveckling, vilket ställer krav på kreativitet och flexibilitet. Därför ska utbildningen förbereda eleverna för fortsatt lärande i yrkeslivet samt utveckla deras förmåga att se och förstå sin egen roll i verksamheten, och att diskutera och reflektera över sitt eget lärande utifrån olika arbetsuppgifter. Utbildningen ska utveckla elevernas ansvarskänsla, kvalitetsmedvetenhet och företagsekonomiska förståelse. Arbetsmiljöfrågor och frågor om arbetsorganisation ska ha en central plats i utbildningen för att förebygga arbetsskador och främja god hälsa. Utbildningen ska ge eleverna de kunskaper som behövs för att arbeta arbetsmiljöriktigt, säkert och i enlighet med lagar och andra bestämmelser inom yrkesområdet.",
+      "Livsmedels- och restaurangbranschen har en stark internationell prägel. Därför ska kunskaper om livsmedel och måltider i andra kulturer ingå i utbildningen. Branschen är av tradition en del av en internationell arbetsmarknad. Utbildningen ska därför ge eleverna kännedom om arbete i andra länder och möjligheter till fördjupade studier i engelska. Branschen har dessutom en regional anknytning, med fokus på närliggande produktion och lokala traditioner, vilket ska återspeglas i utbildningen.",
+      "Branschen kännetecknas av många olika typer av företag. Oavsett om man är anställd eller driver eget företag krävs initiativförmåga, idérikedom och egen drivkraft. Därför ska utbildningen ge kunskaper om entreprenörskap och företagande. Utbildningen ska dessutom leda till en fördjupad förståelse av de etiska frågor som livsmedelshantering, försäljning och hållbar utveckling ställer. De etiska frågeställningarna ska även omfatta de tidigare stegen i produktionskedjan, som djurhållning, odling, transport och förädling.",
+      "Arbetsplatsförlagt lärande ska förekomma på alla yrkesprogram. Det arbetsplatsförlagda lärandet ska bidra till att eleverna utvecklar yrkeskunskaper och en yrkesidentitet samt förstår yrkeskulturen och blir en del av yrkesgemenskapen på en arbetsplats. Det arbetsplatsförlagda lärandet kan också ge inblick i företagandets villkor.",
+      "Examensmålet gäller för både skolförlagd utbildning och lärlingsutbildning."
+    ],
+    "orientation": {
+      "title": "Inriktningar",
+      "lines": [
+        "Restaurang- och livsmedelsprogrammet har tre inriktningar.",
+        "Samtliga inriktningar kan leda till fortsatta studier på yrkeshögskola."
+      ]
+    },
+    "educationObjectives": [
+      "Gymnasiearbetet ska visa att eleven är förberedd för det yrkesområde som gäller för den valda yrkesutgången. Det ska pröva elevens förmåga att utföra vanligt förekommande arbetsuppgifter inom yrkesområdet.",
+      "Gymnasiearbetet ska utföras på ett sådant sätt att eleven planerar, genomför och utvärderar sin uppgift.",
+      "Gymnasiearbetet kan utformas så att det ger eleverna möjlighet att pröva sitt yrkeskunnande i företagsliknande arbetsformer."
+    ]
+  },
+  "education": {
+    "mandatory": {
+      "courses": [
+        "ENGENG05",
+        "HISHIS01a1",
+        "IDRIDR01",
+        "MATMAT01a",
+        "NAKNAK01a1",
+        "RELREL01",
+        "SAMSAM01a1",
+        "SVASVA01",
+        "SVESVE01"
+      ],
+      "subjects": [
+        {
+          "code": "ENG",
+          "minPoints": 100,
+          "courses": [
+            "ENGENG05"
+          ]
+        },
+        {
+          "code": "HIS",
+          "minPoints": 50,
+          "courses": [
+            "HISHIS01a1"
+          ]
+        },
+        {
+          "code": "IDR",
+          "minPoints": 100,
+          "courses": [
+            "IDRIDR01"
+          ]
+        },
+        {
+          "code": "MAT",
+          "minPoints": 100,
+          "courses": [
+            "MATMAT01a"
+          ]
+        },
+        {
+          "code": "NAK",
+          "minPoints": 50,
+          "courses": [
+            "NAKNAK01a1"
+          ]
+        },
+        {
+          "code": "REL",
+          "minPoints": 50,
+          "courses": [
+            "RELREL01"
+          ]
+        },
+        {
+          "code": "SAM",
+          "minPoints": 50,
+          "courses": [
+            "SAMSAM01a1"
+          ]
+        },
+        {
+          "code": "SVA",
+          "minPoints": 100,
+          "courses": [
+            "SVASVA01"
+          ]
+        },
+        {
+          "code": "SVE",
+          "minPoints": 100,
+          "courses": [
+            "SVESVE01"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "program": {
+      "courses": [
+        "HYGHYG0",
+        "LIVLIV01",
+        "MÅTBRC0",
+        "SEVSEV01"
+      ],
+      "subjects": [
+        {
+          "code": "HYG",
+          "minPoints": 100,
+          "courses": [
+            "HYGHYG0"
+          ]
+        },
+        {
+          "code": "LIV",
+          "minPoints": 100,
+          "courses": [
+            "LIVLIV01"
+          ]
+        },
+        {
+          "code": "MÅT",
+          "minPoints": 100,
+          "courses": [
+            "MÅTBRC0"
+          ]
+        },
+        {
+          "code": "SEV",
+          "minPoints": 100,
+          "courses": [
+            "SEVSEV01"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "specialization": {
+      "courses": [
+        "AKTAKT0",
+        "AKTBEO0",
+        "BAGBAG01",
+        "BAGBAG02",
+        "BAGBAG03",
+        "BAGBAG04",
+        "BAGBAG00S",
+        "BAGCHO0",
+        "BAGKON01",
+        "BAGKON02",
+        "BAGKON03",
+        "BAGKON04",
+        "BAGKON00S",
+        "CHACHA01",
+        "CHACHA02",
+        "CHACHA03",
+        "CHACHA04",
+        "CHACHA00S",
+        "DRYBAT0",
+        "DRYDRC0",
+        "DRYDRY0",
+        "DRYDRY00S",
+        "ENGENG06",
+        "ENTENR0",
+        "FÖRENT0",
+        "FÖRFÖR01",
+        "FÖRFÖR02",
+        "FÖSPER01",
+        "FÖSPER02",
+        "FÖSTEL0",
+        "HANAFR0",
+        "HANPRA01",
+        "HANPRA02",
+        "KONKOF0",
+        "LEDLED0",
+        "LIVLIV02",
+        "MACMAT0",
+        "MALMAL01",
+        "MALMAL02",
+        "MALMAL03",
+        "MALMAL04",
+        "MALMAL00S",
+        "MALSPE0",
+        "MAOMAT01",
+        "MAOMAT02",
+        "MAOMAT00S",
+        "MODXXX01",
+        "MODXXX02",
+        "MODXXX03",
+        "MODXXX04",
+        "MODXXX05",
+        "MODXXX06",
+        "MODXXX07",
+        "MODZHO01",
+        "MODZHO02",
+        "MODZHO03",
+        "MODZHO04",
+        "MODZHO05",
+        "MODZHO06",
+        "MODZHO07",
+        "PRRPRR01",
+        "RECLOG0",
+        "SERARR0",
+        "SERFRU0",
+        "SERMAF0",
+        "SERSER01",
+        "SERSER02",
+        "SERSER00S",
+        "SEVSEV02",
+        "STCFIN0",
+        "STCSTY01",
+        "STCSTY02",
+        "STCSTY03",
+        "STCSTY04",
+        "STCSTY00S",
+        "TIATIL00S"
+      ],
+      "subjects": [
+        {
+          "code": "AKT",
+          "minPoints": 200,
+          "courses": [
+            "AKTAKT0",
+            "AKTBEO0"
+          ]
+        },
+        {
+          "code": "BAG",
+          "minPoints": 1300,
+          "courses": [
+            "BAGBAG01",
+            "BAGBAG02",
+            "BAGBAG03",
+            "BAGBAG04",
+            "BAGBAG00S",
+            "BAGCHO0",
+            "BAGKON01",
+            "BAGKON02",
+            "BAGKON03",
+            "BAGKON04",
+            "BAGKON00S"
+          ]
+        },
+        {
+          "code": "CHA",
+          "minPoints": 600,
+          "courses": [
+            "CHACHA01",
+            "CHACHA02",
+            "CHACHA03",
+            "CHACHA04",
+            "CHACHA00S"
+          ]
+        },
+        {
+          "code": "DRY",
+          "minPoints": 400,
+          "courses": [
+            "DRYBAT0",
+            "DRYDRC0",
+            "DRYDRY0",
+            "DRYDRY00S"
+          ]
+        },
+        {
+          "code": "ENG",
+          "minPoints": 100,
+          "courses": [
+            "ENGENG06"
+          ]
+        },
+        {
+          "code": "ENT",
+          "minPoints": 100,
+          "courses": [
+            "ENTENR0"
+          ]
+        },
+        {
+          "code": "FÖR",
+          "minPoints": 300,
+          "courses": [
+            "FÖRENT0",
+            "FÖRFÖR01",
+            "FÖRFÖR02"
+          ]
+        },
+        {
+          "code": "FÖS",
+          "minPoints": 300,
+          "courses": [
+            "FÖSPER01",
+            "FÖSPER02",
+            "FÖSTEL0"
+          ]
+        },
+        {
+          "code": "HAN",
+          "minPoints": 300,
+          "courses": [
+            "HANAFR0",
+            "HANPRA01",
+            "HANPRA02"
+          ]
+        },
+        {
+          "code": "KON",
+          "minPoints": 100,
+          "courses": [
+            "KONKOF0"
+          ]
+        },
+        {
+          "code": "LED",
+          "minPoints": 100,
+          "courses": [
+            "LEDLED0"
+          ]
+        },
+        {
+          "code": "LIV",
+          "minPoints": 100,
+          "courses": [
+            "LIVLIV02"
+          ]
+        },
+        {
+          "code": "MAC",
+          "minPoints": 100,
+          "courses": [
+            "MACMAT0"
+          ]
+        },
+        {
+          "code": "MAL",
+          "minPoints": 900,
+          "courses": [
+            "MALMAL01",
+            "MALMAL02",
+            "MALMAL03",
+            "MALMAL04",
+            "MALMAL00S",
+            "MALSPE0"
+          ]
+        },
+        {
+          "code": "MAO",
+          "minPoints": 300,
+          "courses": [
+            "MAOMAT01",
+            "MAOMAT02",
+            "MAOMAT00S"
+          ]
+        },
+        {
+          "code": "MOD",
+          "minPoints": 1400,
+          "courses": [
+            "MODXXX01",
+            "MODXXX02",
+            "MODXXX03",
+            "MODXXX04",
+            "MODXXX05",
+            "MODXXX06",
+            "MODXXX07",
+            "MODZHO01",
+            "MODZHO02",
+            "MODZHO03",
+            "MODZHO04",
+            "MODZHO05",
+            "MODZHO06",
+            "MODZHO07"
+          ]
+        },
+        {
+          "code": "PRR",
+          "minPoints": 100,
+          "courses": [
+            "PRRPRR01"
+          ]
+        },
+        {
+          "code": "REC",
+          "minPoints": 100,
+          "courses": [
+            "RECLOG0"
+          ]
+        },
+        {
+          "code": "SER",
+          "minPoints": 700,
+          "courses": [
+            "SERARR0",
+            "SERFRU0",
+            "SERMAF0",
+            "SERSER01",
+            "SERSER02",
+            "SERSER00S"
+          ]
+        },
+        {
+          "code": "SEV",
+          "minPoints": 100,
+          "courses": [
+            "SEVSEV02"
+          ]
+        },
+        {
+          "code": "STC",
+          "minPoints": 700,
+          "courses": [
+            "STCFIN0",
+            "STCSTY01",
+            "STCSTY02",
+            "STCSTY03",
+            "STCSTY04",
+            "STCSTY00S"
+          ]
+        },
+        {
+          "code": "TIA",
+          "minPoints": 100,
+          "courses": [
+            "TIATIL00S"
+          ]
+        }
+      ],
+      "aliasSubjects": []
+    },
+    "orientations": [
+      {
+        "name": "Bageri och konditori",
+        "code": "RLBAG",
+        "points": 300,
+        "courses": [
+          "BAGBAG01",
+          "BAGCHO0",
+          "BAGKON01"
+        ],
+        "subjects": [
+          {
+            "code": "BAG",
+            "minPoints": 300,
+            "courses": [
+              "BAGBAG01",
+              "BAGCHO0",
+              "BAGKON01"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Färskvaror, delikatess och catering",
+        "code": "RLFAR",
+        "points": 600,
+        "courses": [
+          "FÖSPER01",
+          "FÖSPER02",
+          "LIVLIV02",
+          "MACMAT0",
+          "MAOMAT01",
+          "SEVSEV02"
+        ],
+        "subjects": [
+          {
+            "code": "FÖS",
+            "minPoints": 200,
+            "courses": [
+              "FÖSPER01",
+              "FÖSPER02"
+            ]
+          },
+          {
+            "code": "LIV",
+            "minPoints": 100,
+            "courses": [
+              "LIVLIV02"
+            ]
+          },
+          {
+            "code": "MAC",
+            "minPoints": 100,
+            "courses": [
+              "MACMAT0"
+            ]
+          },
+          {
+            "code": "MAO",
+            "minPoints": 100,
+            "courses": [
+              "MAOMAT01"
+            ]
+          },
+          {
+            "code": "SEV",
+            "minPoints": 100,
+            "courses": [
+              "SEVSEV02"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Kök och servering",
+        "code": "RLKOK",
+        "points": 300,
+        "courses": [
+          "MACMAT0",
+          "MALMAL01",
+          "SERSER01"
+        ],
+        "subjects": [
+          {
+            "code": "MAC",
+            "minPoints": 100,
+            "courses": [
+              "MACMAT0"
+            ]
+          },
+          {
+            "code": "MAL",
+            "minPoints": 100,
+            "courses": [
+              "MALMAL01"
+            ]
+          },
+          {
+            "code": "SER",
+            "minPoints": 100,
+            "courses": [
+              "SERSER01"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      }
+    ],
+    "profiles": [],
+    "professionalDegrees": [
+      {
+        "name": "Bagare och konditor",
+        "code": "RLBAG",
+        "courses": [
+          "BAGBAG02",
+          "BAGBAG03",
+          "BAGBAG04",
+          "BAGKON02",
+          "BAGKON03"
+        ],
+        "subjects": [
+          {
+            "code": "BAG",
+            "minPoints": 700,
+            "courses": [
+              "BAGBAG02",
+              "BAGBAG03",
+              "BAGBAG04",
+              "BAGKON02",
+              "BAGKON03"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Bagare och konditor",
+        "code": "RLBAG",
+        "courses": [
+          "MALMAL02",
+          "MALMAL03",
+          "MALMAL04",
+          "MALSPE0"
+        ],
+        "subjects": [
+          {
+            "code": "MAL",
+            "minPoints": 700,
+            "courses": [
+              "MALMAL02",
+              "MALMAL03",
+              "MALMAL04",
+              "MALSPE0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Kock",
+        "code": "RLKOK",
+        "courses": [
+          "MALMAL02",
+          "MALMAL03",
+          "MALMAL04",
+          "MALSPE0"
+        ],
+        "subjects": [
+          {
+            "code": "MAL",
+            "minPoints": 700,
+            "courses": [
+              "MALMAL02",
+              "MALMAL03",
+              "MALMAL04",
+              "MALSPE0"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      },
+      {
+        "name": "Servitris eller servitör",
+        "code": "RLKOK",
+        "courses": [
+          "DRYDRC0",
+          "DRYDRY0",
+          "SERARR0",
+          "SERMAF0",
+          "SERSER02",
+          "SERSER00S"
+        ],
+        "subjects": [
+          {
+            "code": "DRY",
+            "minPoints": 200,
+            "courses": [
+              "DRYDRC0",
+              "DRYDRY0"
+            ]
+          },
+          {
+            "code": "SER",
+            "minPoints": 500,
+            "courses": [
+              "SERARR0",
+              "SERMAF0",
+              "SERSER02",
+              "SERSER00S"
+            ]
+          }
+        ],
+        "aliasSubjects": []
+      }
+    ]
+  }
+}

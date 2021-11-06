@@ -1,0 +1,82 @@
+{
+  "subject": "MÄT",
+  "title": "Mät- och reglerteknik",
+  "code": "MÄTMÄT0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven planerar och utför <strong>efter samråd</strong> med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra.",
+        "I arbetet läser och tolkar eleven <strong>med säkerhet</strong> scheman över styr- och reglertekniska komponenter och system."
+      ],
+      [
+        "Eleven gör <strong>avancerade</strong> mätningar av styr- och reglertekniska storheter.",
+        "Dessutom felsöker eleven <strong>efter samråd</strong> med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar <strong>efter samråd</strong> med handledare eventuella fel som har uppstått."
+      ],
+      [
+        "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete med styr- och reglertekniska komponenter och system."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven planerar och utför <strong>efter samråd</strong> med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra.",
+        "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> scheman över styr- och reglertekniska komponenter och system."
+      ],
+      [
+        "Eleven gör mätningar av styr- och reglertekniska storheter.",
+        "Dessutom felsöker eleven <strong>efter samråd</strong> med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar <strong>efter samråd</strong> med handledare eventuella fel som har uppstått."
+      ],
+      [
+        "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete med styr- och reglertekniska komponenter och system."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven planerar och utför <strong>i samråd</strong> med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra.",
+        "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> scheman över styr- och reglertekniska komponenter och system."
+      ],
+      [
+        "Eleven gör <strong>enkla</strong> mätningar av styr- och reglertekniska storheter.",
+        "Dessutom felsöker eleven <strong>i samråd</strong> med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar <strong>i samråd</strong> med handledare eventuella fel som har uppstått."
+      ],
+      [
+        "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av sitt arbete med styr- och reglertekniska komponenter och system."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Enklare reglertekniska laborationer med inställningar av den proportionella förstärkningen och den integrerande förstärkningen samt den deriverande verkan i regulatorn.",
+        "Enklare mättekniska laborationer med mätning av temperatur.",
+        "Inkoppling, kontroll och injustering av vanligt förekommande mät- och reglertekniska komponenter med begrepp som NPN/PNP, sink/source, polaritetsskydd och kortslutningsskydd.",
+        "Pneumatiska eller hydrauliska ventiler samt pådrags och ställdons funktioner, beteckningar, märkningar och symboler.",
+        "Signalföljning och funktionsanalys av en enkel mät- och reglerteknisk anläggning med hjälp av mätinstrument, ritningar, scheman, datablad och manualer.",
+        "Grundläggande mät- och reglertekniska begrepp, till exempel stegsvar, rampsvar, dödtid, tidskonstant, linjäritet, hysteres, span, zero, kalibrering, onoggrannhet, repeterbarhet, reproducerbarhet, proportionellt band, proportionell förstärkning, integrerande tidskonstant och deriverande verkan.",
+        "Grundläggande mätosäkerhet, dess syfte och terminologi.",
+        "Grundläggande industriell mätteknik med vanligt förekommande metoder för att mäta temperatur, tryck, flöde och nivå.",
+        "Introduktion till test, kalibrering och spårbarhet för temperatur, tryck, flöde och nivå.",
+        "Metoder för att identifiera, förebygga och avhjälpa fel i mät- och reglertekniska anläggningar.",
+        "Metoder för dokumentation av mät- och reglertekniska arbeten."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen mät- och reglerteknik omfattar punkterna 1–5 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ]
+}

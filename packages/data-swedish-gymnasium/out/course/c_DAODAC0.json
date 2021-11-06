@@ -1,0 +1,84 @@
+{
+  "subject": "DAO",
+  "title": "Dator- och nätverksteknik",
+  "code": "DAODAC0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> hur datorer och lokala nätverk är uppbyggda och fungerar samt hur driftsäkerhet uppnås.",
+        "<strong>Dessutom redogör eleven utförligt och nyanserat för sambandet mellan de olika delarna som ingår i nätverkets uppbyggnad </strong>."
+      ],
+      [
+        "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>mycket gott</strong> handlag <strong>avancerad</strong> hård- och mjukvaruinstallation, uppbyggnad, konfigurering, uppgradering, optimering och felsökning samt åtgärdar fel i datorer och datorsystem.",
+        "Resultatet är <strong>gott</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "Dessutom installerar eleven <strong>efter samråd</strong> med handledare datorer i lokala nätverk.",
+        "Eleven hanterar med <strong>mycket gott</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> hur datorer och lokala nätverk är uppbyggda och fungerar samt hur driftsäkerhet uppnås."
+      ],
+      [
+        "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>gott</strong> handlag hård- och mjukvaruinstallation, uppbyggnad, konfigurering, uppgradering, optimering och felsökning samt åtgärdar fel i datorer och datorsystem.",
+        "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "Dessutom installerar eleven <strong>efter samråd</strong> med handledare datorer i lokala nätverk.",
+        "Eleven hanterar med <strong>gott</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> hur datorer och lokala nätverk är uppbyggda och fungerar samt hur driftsäkerhet uppnås."
+      ],
+      [
+        "Eleven planerar och utför <strong>i samråd</strong> med handledare och med <strong>visst</strong> handlag hård- och mjukvaruinstallation, uppbyggnad, konfigurering, uppgradering, optimering och felsökning samt åtgärdar fel i datorer och datorsystem.",
+        "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "Dessutom installerar eleven <strong>i samråd</strong> med handledare datorer i lokala nätverk.",
+        "Eleven hanterar med <strong>visst</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>enkel</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Hård- och mjukvaruinstallation, uppbyggnad, konfigurering och uppgradering av datorer och datorsystem.",
+        "Lokala nätverk, uppbyggnad och arbetssätt.",
+        "Protokoll för dataöverföring via nätverk.",
+        "Olika processortyper och deras användningsområden.",
+        "Vanliga operativsystem och deras egenskaper.",
+        "Prestanda för olika datalagringmedia. Lagring av data på optiska medier.",
+        "Begreppen switchning och routning.",
+        "Begreppet virtuella nät.",
+        "Interna och externa bussar, deras användningsområden och prestanda.",
+        "Säkerhetskopiering och virusskydd.",
+        "Installation av kringutrustning och uppgradering av drivrutiner.",
+        "Installation och underhåll av lokal skrivare.",
+        "Konfigurering av grafikkort.",
+        "Datorns start- och bootsekvenser samt inställning och uppgradering av dess BIOS (Basic Input/Output System) eller firmware.",
+        "Kontroll och optimering av datorers och datorsystems prestanda och funktion.",
+        "Felsökning i datorer och datorsystem."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen dator- och nätverksteknik omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3
+  ]
+}

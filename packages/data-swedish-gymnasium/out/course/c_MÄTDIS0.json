@@ -1,0 +1,80 @@
+{
+  "subject": "MÄT",
+  "title": "Distribuerade styrsystem",
+  "code": "MÄTDIS0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven planerar och utför <strong>efter samråd</strong> med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra.",
+        "I arbetet läser och tolkar eleven <strong>med säkerhet</strong> scheman över styr- och reglertekniska komponenter och system."
+      ],
+      [
+        "Eleven gör <strong>avancerade</strong> mätningar av styr- och reglertekniska storheter.",
+        "Dessutom felsöker eleven <strong>efter samråd</strong> med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar <strong>efter samråd</strong> med handledare eventuella fel som har uppstått."
+      ],
+      [
+        "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete med styr- och reglertekniska komponenter och system."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven planerar och utför <strong>efter samråd</strong> med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra.",
+        "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> scheman över styr- och reglertekniska komponenter och system."
+      ],
+      [
+        "Eleven gör mätningar av styr- och reglertekniska storheter.",
+        "Dessutom felsöker eleven <strong>efter samråd</strong> med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar <strong>efter samråd</strong> med handledare eventuella fel som har uppstått."
+      ],
+      [
+        "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete med styr- och reglertekniska komponenter och system."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven planerar och utför <strong>i samråd</strong> med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra.",
+        "I arbetet läser och tolkar eleven <strong>med viss säkerhet</strong> scheman över styr- och reglertekniska komponenter och system."
+      ],
+      [
+        "Eleven gör <strong>enkla</strong> mätningar av styr- och reglertekniska storheter.",
+        "Dessutom felsöker eleven <strong>i samråd</strong> med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar <strong>i samråd</strong> med handledare eventuella fel som har uppstått."
+      ],
+      [
+        "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av sitt arbete med styr- och reglertekniska komponenter och system."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Planering och byggande av styr- och reglertekniska anläggningar med distribuerade kontrollenheter eller I/O (input/output) beroende på anläggningens karaktär.",
+        "Scheman, ritningar och övrig dokumentation över komponenter för distribuerad styrning.",
+        "Referensmodeller för datorkommunikation, till exempel OSI-modellen (open systems interconnection).",
+        "Transmission control protocol/internet protocol (TCP/IP).",
+        "Fältbussar, till exempel Profibus, KNX, Lon och Modbus.",
+        "Informationsteknik som stöd för byggande av system med distribuerad styrning.",
+        "Vanligt förekommande styrda och reglerade storheter med distribuerade styrsystem, till exempel belysning, temperatur, tryck, flöde och nivå.",
+        "Metoder för felsökning i anläggningar med distribuerade styrsystem, till exempel verktyg för visualisering av data och jämförelser av data med mätningar av samma signal på plint.",
+        "Metoder för dokumentation av anläggningar med distribuerade styrsystem."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen distribuerade styrsystem omfattar punkterna 1–5 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ]
+}

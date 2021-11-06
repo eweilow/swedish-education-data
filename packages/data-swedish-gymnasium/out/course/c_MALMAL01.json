@@ -1,0 +1,77 @@
+{
+  "subject": "MAL",
+  "title": "Matlagning 1",
+  "code": "MALMAL01",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare matlagning.",
+        "Eleven tillagar metodiskt, hantverksmässigt och <strong>efter samråd</strong> med handledare maträtter med <strong>god</strong> kvalitet när det gäller smak och utseende.",
+        "I arbetet använder eleven med <strong>mycket gott</strong> handlag vanliga grundläggande metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften.",
+        "I arbetet redogör eleven <strong>utförligt och nyanserat</strong> för ekonomiska konsekvenser vid val av råvaror samt för deras hantering och förvaring."
+      ],
+      [
+        "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>utförligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet."
+      ],
+      [
+        "Eleven samarbetar och kommunicerar <strong>med säkerhet</strong> med andra.",
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare matlagning.",
+        "Eleven tillagar metodiskt, hantverksmässigt och <strong>efter samråd</strong> med handledare maträtter med <strong>tillfredsställande</strong> kvalitet när det gäller smak och utseende.",
+        "I arbetet använder eleven med <strong>gott</strong> handlag vanliga grundläggande metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften.",
+        "I arbetet redogör eleven <strong>utförligt</strong> för ekonomiska konsekvenser vid val av råvaror samt för deras hantering och förvaring."
+      ],
+      [
+        "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet."
+      ],
+      [
+        "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra.",
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven planerar och organiserar <strong>i samråd</strong> med handledare matlagning.",
+        "Eleven tillagar metodiskt, hantverksmässigt och <strong>i samråd</strong> med handledare maträtter med <strong>tillfredsställande</strong> kvalitet när det gäller smak och utseende.",
+        "I arbetet använder eleven med <strong>visst</strong> handlag vanliga grundläggande metoder, redskap, maskiner och annan utrustning som är lämpliga för uppgiften.",
+        "I arbetet redogör eleven <strong>översiktligt</strong> för ekonomiska konsekvenser vid val av råvaror samt för deras hantering och förvaring."
+      ],
+      [
+        "Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar <strong>översiktligt</strong> arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet."
+      ],
+      [
+        "Eleven samarbetar och kommunicerar <strong>med viss säkerhet</strong> med andra.",
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Grundläggande matlagning och matlagningsmetoder.",
+        "Kalla och varma maträtter.",
+        "Kökets redskap, maskiner och annan utrustning. Hur de används och hanteras på ett säkert sätt.",
+        "Grunderna i identifiering, behandling och hantering av råvaror samt smakmässiga och ekonomiska konsekvenser av hur råvaror behandlas och förvaras.",
+        "Hygien och dagliga hygienrutiner, till exempel rengöring av lokaler och utrustning.",
+        "Ergonomi i det egna arbetet samt ergonomiska riskfaktorer.",
+        "Arbetsmiljö och säkerhet samt lagar och andra bestämmelser som gäller inom området, till exempel livsmedelslagen.",
+        "Grundläggande kommunikation för arbete i kök."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen matlagning 1 omfattar punkterna 1–3, 6–7 och 9 under rubriken Ämnets syfte. I kursen behandlas grundläggande färdigheter i ämnet.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    5,
+    6,
+    8
+  ]
+}

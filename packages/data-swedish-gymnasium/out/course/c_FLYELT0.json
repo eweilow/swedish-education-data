@@ -1,0 +1,72 @@
+{
+  "subject": "FLY",
+  "title": "Elektronik – flyg",
+  "code": "FLYELT0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> elektroniska komponenter, kretsar och system."
+      ],
+      [
+        "Eleven <strong>väljer</strong> formler, <strong>motiverar sina val</strong> och utför <strong>efter samråd</strong> med handledare beräkningar samt redogör <strong>utförligt och nyanserat</strong> för <strong>komplexa</strong> samband inom området.",
+        "Dessutom utför eleven i bekanta <strong>och nya</strong> situationer och utifrån laborationsanvisningar <strong>avancerade</strong> uppkopplingar, mätningar och rimlighetsuppskattningar samt tolkar resultaten.",
+        "I arbetet använder eleven <strong>med säkerhet</strong> relevanta begrepp och symboler.",
+        "Eleven arbetar utifrån de krav på säkerhet och miljö som uppgiften kräver och beskriver <strong>utförligt</strong> lagar och andra bestämmelser som styr verksamheten.",
+        "Resultatet av elevens arbete är <strong>gott</strong>."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> elektroniska komponenter, kretsar och system."
+      ],
+      [
+        "Eleven <strong>väljer</strong> formler och utför <strong>efter samråd</strong> med handledare beräkningar samt redogör <strong>utförligt</strong> för samband inom området.",
+        "Dessutom utför eleven i bekanta <strong>och delvis nya</strong> situationer och utifrån laborationsanvisningar uppkopplingar, mätningar och rimlighetsuppskattningar samt tolkar resultaten.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> relevanta begrepp och symboler.",
+        "Eleven arbetar utifrån de krav på säkerhet och miljö som uppgiften kräver och beskriver <strong>utförligt</strong> lagar och andra bestämmelser som styr verksamheten.",
+        "Resultatet av elevens arbete är <strong>tillfredsställande</strong>."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> elektroniska komponenter, kretsar och system."
+      ],
+      [
+        "Eleven utför <strong>i samråd</strong> med handledare och <strong>utifrån givna</strong> formler beräkningar samt redogör <strong>översiktligt</strong> för <strong>enkla</strong> samband inom området.",
+        "Dessutom utför eleven i bekanta situationer och utifrån laborationsanvisningar <strong>enkla</strong> uppkopplingar, mätningar och rimlighetsuppskattningar samt tolkar resultaten.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> relevanta begrepp och symboler.",
+        "Eleven arbetar utifrån de krav på säkerhet och miljö som uppgiften kräver och beskriver <strong>översiktligt</strong> lagar och andra bestämmelser som styr verksamheten.",
+        "Resultatet av elevens arbete är <strong>tillfredsställande</strong>."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Elektroniksystems olika komponenter, till exempel dioder och transistorer.",
+        "Integrerade kretsar, till exempel logiska och linjära kretsar.",
+        "Kretskort.",
+        "Servosystem, till exempel komponenter och mekanismer.",
+        "Mätningar och beräkningar på elektroniska komponenter."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen elektronik – flyg omfattar punkterna 2 och 5–7 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    1,
+    4,
+    5,
+    6
+  ]
+}

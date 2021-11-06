@@ -1,0 +1,80 @@
+{
+  "subject": "DAO",
+  "title": "Industriell informationsteknik",
+  "code": "DAOINU0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> hur industriell mjukvara och industriell informationsteknisk hårdvara är uppbyggd och fungerar samt hur driftsäkerhet och spårbarhet kan uppnås."
+      ],
+      [
+        "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>mycket gott</strong> handlag installation, konfigurering, driftsättning och felsökning samt åtgärdar fel i industriell informationsteknisk hårdvara för insamling av data.",
+        "Dessutom planerar och utför eleven <strong>efter samråd</strong> med handledare och med <strong>mycket gott</strong> handlag installation och konfigurering av industriell mjukvara för lagring och visualisering av data.",
+        "Resultatet är <strong>gott</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "Eleven hanterar med <strong>mycket gott</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete.",
+        "Dessutom gör eleven en <strong>välgrundad och nyanserad</strong> bedömning av kvaliteten på insamlad data."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> hur industriell mjukvara och industriell informationsteknisk hårdvara är uppbyggd och fungerar samt hur driftsäkerhet och spårbarhet kan uppnås."
+      ],
+      [
+        "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>gott</strong> handlag installation, konfigurering, driftsättning och felsökning samt åtgärdar fel i industriell informationsteknisk hårdvara för insamling av data.",
+        "Dessutom planerar och utför eleven <strong>efter samråd</strong> med handledare och med <strong>gott</strong> handlag installation och konfigurering av industriell mjukvara för lagring och visualisering av data.",
+        "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "Eleven hanterar med <strong>gott</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann</strong> dokumentation av sitt arbete.",
+        "Dessutom gör eleven en <strong>välgrundad</strong> bedömning av kvaliteten på insamlad data."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> hur industriell mjukvara och industriell informationsteknisk hårdvara är uppbyggd och fungerar samt hur driftsäkerhet och spårbarhet kan uppnås."
+      ],
+      [
+        "Eleven planerar och utför <strong>i samråd</strong> med handledare och med <strong>visst</strong> handlag installation, konfigurering, driftsättning och felsökning samt åtgärdar fel i industriell informationsteknisk hårdvara för insamling av data.",
+        "Dessutom planerar och utför eleven <strong>i samråd</strong> med handledare och med <strong>visst</strong> handlag installation och konfigurering av industriell mjukvara för lagring och visualisering av data.",
+        "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "Eleven hanterar med <strong>visst</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>enkel</strong> dokumentation av sitt arbete.",
+        "Dessutom gör eleven en <strong>enkel</strong> bedömning av kvaliteten på insamlad data."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Vanligt förekommande övergripande programvaror för kontroll, övervakning och datainsamling inom elkrafts- och energidistribution och i fastigheter, tillverknings- och processindustrin, till exempel SCADA (Supervisory Control and Data Acquisition).",
+        "HMI (Human Machine Interface), dvs. användning av programvara för visualisering av data i realtid till ett säkert och lättolkat gränssnitt.",
+        "Vanligt förekommande fältbussar och trådlös informationsteknik inom elkrafts- och energidistribution, i fastigheter samt i tillverknings- och processindustrin.",
+        "Driftsäkerhet och spårbarhet inom industriell informationsteknik.",
+        "Planering, montering, konfigurering och driftsättning av industriell informationsteknisk hårdvara för datainsamling från mät-, styr- eller reglerteknisk applikation till persondator. Till exempel adresserad I/O-enhet (Input/Output), som kan läsa en mätgivares värde till datorn.",
+        "Installation och konfigurering av industriell programvara för datainsamling, till exempel OPC-server och -klient (Open Connectivity).",
+        "Analyser och bedömningar av insamlad data, med avseende på till exempel datakvalitet och funktion.",
+        "Tolkning av dokumentation, till exempel hård- och mjukvarors manualer.",
+        "Metoder för systematisk dokumentation i projekt, till exempel PDM (Product Data Management).",
+        "Systematisk dokumentation, med hjälp av till exempel loggningsdata eller databashanterare."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen industriell informationsteknik omfattar punkterna 1–4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3
+  ]
+}

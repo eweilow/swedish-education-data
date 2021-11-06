@@ -1,0 +1,89 @@
+{
+  "subject": "PRR",
+  "title": "Programmering 1",
+  "code": "PRRPRR01",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven formulerar och planerar <strong>efter samråd</strong> med handledare programmeringsuppgifter med pseudokod eller diagramteknik.",
+        "I planeringen väljer eleven <strong>med säkerhet</strong> kontrollstrukturer, metoder, variabler, datastrukturer och algoritmer som är adekvata för uppgiften <strong>samt motiverar utförligt sina val</strong>.",
+        "I sin programmering skapar eleven med konsekvent kodningsstil och tydlig namngivning korrekt, strukturerad och <strong>noggrant och utförligt</strong> kommenterad källkod med <strong>gott</strong> resultat.",
+        "Dessutom väljer eleven <strong>med säkerhet</strong> ett uttryckssätt som är anpassat för att på ett <strong>gott</strong> sätt interagera med den avsedda användaren.",
+        "Elevens färdiga program eller skript är utförda med <strong>gott</strong> resultat i ett eller flera programspråk som är stabila och robusta <strong>i program av komplex karaktär</strong>."
+      ],
+      [
+        "Eleven anpassar <strong>med säkerhet</strong> sin planering av programmeringsuppgiften och utför <strong>på ett systematiskt och effektivt sätt</strong> felsökning av syntaxfel, <strong>körtidsfel och programmeringslogiska fel</strong>.",
+        "Innan programmeringsuppgiften avslutas utvärderar eleven med <strong>nyanserade</strong> omdömen <strong>och med förslag på förbättringar</strong> programmets prestanda och ändamålsenlighet i <strong>flera</strong> situationer och sammanhang.",
+        "Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då <strong>med säkerhet</strong> datavetenskapliga begrepp."
+      ],
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för programmeringens möjligheter och begränsningar samt hur programmering har påverkat och påverkar vardagen.",
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för principer för att uppnå god kvalitet vid skapandet av datorprogram."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven formulerar och planerar <strong>efter samråd</strong> med handledare programmeringsuppgifter med pseudokod eller diagramteknik.",
+        "I planeringen väljer eleven <strong>med viss säkerhet</strong> kontrollstrukturer, metoder, variabler, datastrukturer och algoritmer som är adekvata för uppgiften.",
+        "I sin programmering skapar eleven med konsekvent kodningsstil och tydlig namngivning korrekt, strukturerad och <strong>noggrant</strong> kommenterad källkod med <strong>tillfredsställande</strong> resultat.",
+        "Dessutom väljer eleven <strong>med viss säkerhet</strong> ett uttryckssätt som är anpassat för att på ett <strong>tillfredsställande</strong> sätt interagera med den avsedda användaren.",
+        "Elevens färdiga program eller skript är utförda med <strong>tillfredsställande</strong> resultat i ett eller flera programspråk som är stabila och robusta."
+      ],
+      [
+        "Eleven anpassar <strong>med viss säkerhet</strong> sin planering av programmeringsuppgiften och utför <strong>på ett systematiskt sätt</strong> felsökning av syntaxfel, <strong>körtidsfel och programmeringslogiska fel</strong>.",
+        "Innan programmeringsuppgiften avslutas utvärderar eleven med <strong>nyanserade</strong> omdömen programmets prestanda och ändamålsenlighet i <strong>några</strong> situationer och sammanhang.",
+        "Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då <strong>med viss säkerhet</strong> datavetenskapliga begrepp."
+      ],
+      [
+        "Eleven redogör <strong>utförligt</strong> för programmeringens möjligheter och begränsningar samt hur programmering har påverkat och påverkar vardagen.",
+        "Eleven redogör <strong>utförligt</strong> för principer för att uppnå god kvalitet vid skapandet av datorprogram."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven formulerar och planerar <strong>i samråd</strong> med handledare programmeringsuppgifter med pseudokod eller diagramteknik.",
+        "I planeringen väljer eleven <strong>med viss säkerhet</strong> kontrollstrukturer, metoder, variabler, datastrukturer och algoritmer som är adekvata för uppgiften.",
+        "I sin programmering skapar eleven med konsekvent kodningsstil och tydlig namngivning korrekt, strukturerad och <strong>enkelt</strong> kommenterad källkod med <strong>tillfredsställande</strong> resultat.",
+        "Dessutom väljer eleven <strong>med viss säkerhet</strong> ett uttryckssätt som är anpassat för att på ett <strong>tillfredsställande</strong> sätt interagera med den avsedda användaren.",
+        "Elevens färdiga program eller skript är utförda med <strong>tillfredsställande</strong> resultat i ett eller flera programspråk som är stabila och robusta <strong>i program av enkel karaktär</strong>."
+      ],
+      [
+        "Eleven anpassar <strong>med viss säkerhet</strong> sin planering av programmeringsuppgiften och utför felsökning av <strong>enkla</strong> syntaxfel.",
+        "Innan programmeringsuppgiften avslutas utvärderar eleven med <strong>enkla</strong> omdömen programmets prestanda och ändamålsenlighet i <strong>någon</strong> situation och i <strong>något</strong> sammanhang.",
+        "Eleven kommunicerar om programmeringsuppgiften och dess utvärdering och använder då <strong>med viss säkerhet</strong> datavetenskapliga begrepp."
+      ],
+      [
+        "Eleven redogör <strong>översiktligt</strong> för programmeringens möjligheter och begränsningar samt hur programmering har påverkat och påverkar vardagen.",
+        "Eleven redogör <strong>översiktligt</strong> för principer för att uppnå god kvalitet vid skapandet av datorprogram."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Grundläggande programmering i ett eller flera programspråk varav minst ett av språken är textbaserat.",
+        "Programmering och dess olika användningsområden ur ett socialt perspektiv inklusive genus, kultur och socioekonomisk bakgrund.",
+        "Programmeringens möjligheter och begränsningar utifrån datorns funktionssätt.",
+        "Strukturerat arbetssätt för problemlösning och programmering.",
+        "Grundläggande kontrollstrukturer, konstruktioner och datatyper.",
+        "Arbetsmetoder för förebyggande av programmeringsfel, testning, felsökning och rättning av kod.",
+        "Grundläggande datastrukturer och algoritmer.",
+        "Gränssnitt för interaktion mellan program och användare.",
+        "Normer och värden inom programmering, till exempel läsbarhet, dokumentation, testbarhet, rena gränssnitt och nyttan av standard."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen programmering 1 omfattar punkterna 1–6 och 9–10 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    8,
+    9
+  ]
+}
