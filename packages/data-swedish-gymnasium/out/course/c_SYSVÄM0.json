@@ -11,9 +11,8 @@
         "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> en effektiv och miljövänlig energianvändning i energitekniska system."
       ],
       [
-        "Eleven <strong>beräknar</strong> behov av värme- och kyleffekter i <strong>komplexa</strong> system genom att använda vedertagna schabloner och lathundar <strong>samt komplexa beräkningsmetoder</strong> så att systemen följer bygglagstiftningen.",
-        "Dessutom värderar eleven resultatet av sina <strong>beräkningar</strong> med <strong>nyanserade</strong> omdömen <strong>och ger förslag på hur systemet kan energioptimeras</strong>.",
-        "Eleven redogör <strong>utförligt och nyanserat</strong> för hur man dimensionerar systemen."
+        "Eleven <strong>beräknar</strong> behov av värme- och kyleffekter i system genom att använda vedertagna schabloner och lathundar så att systemen följer bygglagstiftningen.",
+        "Dessutom värderar eleven resultatet av sina beräkningar och bedömningar med <strong>nyanserade</strong> omdömen <strong>och ger förslag på hur systemet kan energioptimeras</strong>."
       ]
     ],
     "C": [
@@ -23,8 +22,8 @@
         "Dessutom beskriver eleven <strong>utförligt</strong> en effektiv och miljövänlig energianvändning i energitekniska system."
       ],
       [
-        "Eleven <strong>beräknar</strong> behov av värme- och kyleffekter i system genom att använda vedertagna schabloner och lathundar <strong>samt enkla beräkningsmetoder</strong> så att systemen följer bygglagstiftningen.",
-        "Dessutom värderar eleven resultatet av sina <strong>beräkningar</strong> med <strong>nyanserade</strong> omdömen och redogör <strong>utförligt</strong> för hur man dimensionerar systemen."
+        "Eleven <strong>beräknar</strong> behov av värme- och kyleffekter i system genom att använda vedertagna schabloner och lathundar så att systemen följer bygglagstiftningen.",
+        "Dessutom värderar eleven resultatet av sina beräkningar och bedömningar med <strong>nyanserade</strong> omdömen."
       ]
     ],
     "E": [
@@ -34,8 +33,8 @@
         "Dessutom beskriver eleven <strong>översiktligt</strong> en effektiv och miljövänlig energianvändning i energitekniska system."
       ],
       [
-        "Eleven <strong>uppskattar</strong> behov av värme- och kyleffekter i <strong>enkla</strong> system genom att använda vedertagna schabloner och lathundar så att systemen följer bygglagstiftningen.",
-        "Dessutom värderar eleven resultatet av sina <strong>uppskattningar</strong> med <strong>enkla</strong> omdömen och redogör <strong>översiktligt</strong> för hur man dimensionerar systemen."
+        "Eleven <strong>beräkningar</strong>  behov av värme- och kyleffekter i <strong>enkla</strong> system genom att använda vedertagna schabloner och lathundar så att systemen följer bygglagstiftningen.",
+        "Dessutom värderar eleven resultatet av sina beräkningar och bedömningarmed <strong>enkla</strong> omdömen."
       ]
     ]
   },
@@ -44,23 +43,22 @@
       null,
       [
         "Sambanden mellan värme och andra former av energi. Begrepp inom termodynamiken, till exempel värmeöverföring, temperatur, energiomvandling och tryck.",
-        "Metoder för och tillämpning av energi- och effektberäkningar.",
-        "Dimensionering av rör- och luftkanalsystem, värmare och köldbärarsystemens luftkylare samt flöden och tryckfall i dessa.",
+        "Bedömning av exempelvis energi- och effektbehov i rör- och luftkanalsystem, värmare och köldbärarsystemens luftkylare samt flöden och tryckfall i dessa.",
         "Effektiv energianvändning för byggnader.",
         "Enkla systemritningar, ritningssymboler och beteckningar samt hur de används för att beskriva system.",
-        "Produktinformation, beräkningshandböcker, schabloner, lathundar, datorprogram och beräkningsmetoder samt hur de används för att utföra beräkningar av system.",
+        "Produktinformation, beräkningshandböcker, schabloner, lathundar och datorprogram samt hur de används för att utföra uppskattningar av system.",
         "Bygglagstiftning för att uppfylla samhällets krav på energihushållning, hälsa och säkerhet."
       ]
     ]
   ],
-  "UNSAFE_description": "Kursen värmelära omfattar punkterna 1-7 under rubriken Ämnets syfte, med särskild betoning på punkterna 2 och 6.",
+  "UNSAFE_description": "Kursen värmelära omfattar punkterna 1-4 och 6-8 under rubriken Ämnets syfte, med särskild betoning på punkterna 2 och 6.",
   "applicableSubjectPurposes": [
     0,
     1,
     2,
     3,
-    4,
     5,
-    6
+    6,
+    7
   ]
 }

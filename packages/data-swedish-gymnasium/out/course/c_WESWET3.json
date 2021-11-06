@@ -22,9 +22,9 @@
       ],
       [
         "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av de moment som har utförts <strong>med koppling till generella principer och testresultat</strong> samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>.",
-        "<strong>I utvärderingen gör eleven <strong>välgrundade och nyanserade</strong> reflektioner över hur beslut har tagits i arbetet</strong>.",
+        "<strong>I utvärderingen gör eleven välgrundade och nyanserade reflektioner över hur beslut har tagits i arbetet</strong>.",
         "Eleven identifierar hot och sårbarheter mot produkten och vidtar <strong>flera åtgärder</strong> för att förhindra att dessa utnyttjas.",
-        "<strong>Dessutom kontrollerar eleven produktens säkerhet med <strong>flera</strong> tester</strong>.",
+        "<strong>Dessutom kontrollerar eleven produktens säkerhet med flera tester</strong>.",
         "När eleven kommunicerar med andra använder hen <strong>med säkerhet</strong> terminologi."
       ]
     ],
@@ -34,6 +34,7 @@
       ],
       [
         "Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt produkt.",
+        null,
         "I projektplanen beskriver eleven <strong>utförligt</strong> produktens funktion.",
         "Utifrån projektplanen utvecklar eleven <strong>efter samråd</strong> med handledare produkten där olika sorters logik är skilda från varandra.",
         "I arbetet utvecklar eleven kod som <strong>följer en given kodkonvention och är utförligt kommenterad</strong>.",
@@ -41,12 +42,13 @@
         "Dessutom tillhandahåller produkten <strong>lösning för att läsa, skriva, uppdatera och ta bort data mot</strong> en permanent datalagring.",
         "I arbetet redogör eleven också <strong>utförligt</strong> för vanliga problem som kan uppstå vid datakommunikation mellan server och klient.",
         "Produkten är av <strong>tillfredsställande</strong> kvalitet och följer etablerad god praxis.",
-        "Detta kontrollerar eleven med <strong>några</strong> tester."
+        null
       ],
       [
         "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av de moment som har utförts samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
-        "<strong>I utvärderingen gör eleven välgrundade reflektioner över hur beslut har tagits i arbetet</strong>.",
+        "Detta kontrollerar eleven med <strong>några</strong> tester.",
         "Eleven identifierar hot och sårbarheter mot produkten och vidtar <strong>några åtgärder</strong> för att förhindra att dessa utnyttjas.",
+        "<strong>I utvärderingen gör eleven välgrundade reflektioner över hur beslut har tagits i arbetet</strong>.",
         "När eleven kommunicerar med andra använder hen <strong>med viss säkerhet</strong> terminologi."
       ]
     ],
@@ -56,6 +58,7 @@
       ],
       [
         "Eleven gör en <strong>enkel</strong> projektplan för en tänkt produkt.",
+        null,
         "I projektplanen beskriver eleven <strong>översiktligt</strong> produktens funktion.",
         "Utifrån projektplanen utvecklar eleven <strong>i samråd</strong> med handledare produkten där olika sorters logik <strong>huvudsakligen</strong> är skild från varandra.",
         "I arbetet utvecklar eleven kod som är <strong>läsbar</strong> och <strong>översiktligt</strong> kommenterad.",
@@ -63,11 +66,13 @@
         "Dessutom tillhandahåller produkten <strong>någon</strong> lösning för en permanent datalagring.",
         "I arbetet redogör eleven också <strong>översiktligt</strong> för vanliga problem som kan uppstå vid datakommunikation mellan server och klient.",
         "Produkten är av <strong>tillfredsställande</strong> kvalitet och följer etablerad god praxis.",
-        "Detta kontrollerar eleven med <strong>någon</strong> test."
+        null
       ],
       [
         "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av de moment som har utförts samt utvärderar med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+        null,
         "Eleven identifierar <strong>något</strong> hot eller sårbarhet mot produkten och vidtar <strong>någon</strong> åtgärd för att förhindra att den utnyttjas.",
+        "Detta kontrollerar eleven med <strong>någon</strong> test.",
         "När eleven kommunicerar med andra använder hen <strong>med viss säkerhet enkel</strong> terminologi."
       ]
     ]

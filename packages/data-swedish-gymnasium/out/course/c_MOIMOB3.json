@@ -6,7 +6,7 @@
   "criteria": {
     "A": [
       [
-        "Eleven beskriver <strong>utförligt och nyanserat</strong> <strong>flera</strong> mobila plattformar och dess operativsystem."
+        "Eleven beskriver <strong>utförligt och nyanserat flera</strong> mobila plattformar och dess operativsystem."
       ],
       [
         "Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt produkt.",
@@ -20,8 +20,8 @@
         "Produkten är av <strong>god</strong> kvalitet.",
         "Detta kontrollerar eleven <strong>med flera automatiska och manuella tester</strong>.",
         "Eleven testar produkten på <strong>flera</strong> mobila plattformar som använder samma eller olika operativsystem.",
-        "<strong>Eleven <strong>anpassar produkten</strong> så att den <strong>fungerar på plattformar i störande omgivningar</strong></strong>.",
-        "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av de moment som har utförts <strong>med koppling till generella principer och testresultat</strong> samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>och <strong>ger förslag på hur arbetet kan förbättras</strong></strong>."
+        "<strong>Eleven anpassar produkten så att den fungerar på plattformar i störande omgivningar</strong>.",
+        "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av de moment som har utförts <strong>med koppling till generella principer och testresultat</strong> samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat <strong>och ger förslag på hur arbetet kan förbättras</strong>."
       ],
       [
         "Eleven redogör <strong>utförligt och nyanserat</strong> för innehållet i lagar och andra bestämmelser som rör publicering på webben samt följer dem i sitt arbete.",
@@ -33,10 +33,11 @@
     ],
     "C": [
       [
-        "Eleven beskriver <strong>utförligt</strong> <strong>några</strong> mobila plattformar och dess operativsystem."
+        "Eleven beskriver <strong>utförligt några</strong> mobila plattformar och dess operativsystem."
       ],
       [
         "Eleven gör en <strong>genomarbetad</strong> projektplan för en tänkt produkt.",
+        null,
         "Utifrån projektplanen utvecklar eleven <strong>efter samråd</strong> med handledare produkten.",
         "I arbetet utvecklar eleven kod som med <strong>tillfredsställande</strong> resultat följer standarder och använder funktioner i ett lämpligt API.",
         "Eleven anpassar sin produkt med <strong>gott</strong> handlag så att användargränssnittet inte blockeras.",
@@ -46,6 +47,7 @@
         "Produkten är av <strong>tillfredsställande</strong> kvalitet.",
         "Detta kontrollerar eleven <strong>med några automatiska och manuella tester</strong>.",
         "Eleven testar produkten på <strong>flera</strong> mobila plattformar som använder samma eller olika operativsystem.",
+        null,
         "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av de moment som har utförts samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat."
       ],
       [
@@ -58,10 +60,11 @@
     ],
     "E": [
       [
-        "Eleven beskriver <strong>översiktligt</strong> <strong>någon</strong> mobil plattform och dess operativsystem."
+        "Eleven beskriver <strong>översiktligt någon</strong> mobil plattform och dess operativsystem."
       ],
       [
         "Eleven gör en <strong>enkel</strong> projektplan för en tänkt produkt.",
+        null,
         "Utifrån projektplanen utvecklar eleven <strong>i samråd</strong> med handledare produkten.",
         "I arbetet utvecklar eleven kod som med <strong>tillfredsställande</strong> resultat följer standarder och använder <strong>enkla</strong> funktioner i ett lämpligt API.",
         "Eleven anpassar sin produkt med <strong>visst</strong> handlag så att användargränssnittet inte blockeras.",
@@ -71,6 +74,7 @@
         "Produkten är av <strong>tillfredsställande</strong> kvalitet.",
         "Detta kontrollerar eleven <strong>med någon automatisk test</strong>.",
         "Eleven testar produkten <strong>på någon mobil plattform</strong>.",
+        null,
         "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av de moment som har utförts samt utvärderar med <strong>enkla</strong> omdömen sitt arbete och resultat."
       ],
       [

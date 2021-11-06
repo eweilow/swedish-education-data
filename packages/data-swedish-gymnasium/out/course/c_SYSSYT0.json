@@ -9,6 +9,7 @@
         "Eleven beskriver <strong>utförligt och nyanserat</strong> funktionen och konstruktionen hos olika energitekniska system.",
         "I beskrivningen redogör eleven <strong>utförligt och nyanserat</strong> för komponenter och apparater i systemen och deras funktion och konstruktion.",
         "Eleven hänvisar i sin beskrivning till ritningar, driftkort, användarmanualer och instruktioner.",
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> olika yrkesområdens hantering och skötsel av energitekniska system.",
         "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> en effektiv och miljövänlig energianvändning i energitekniska system.",
         "I beskrivningarna använder eleven <strong>nyanserat</strong> fackspråk."
       ],
@@ -27,6 +28,7 @@
         "Eleven beskriver <strong>utförligt</strong> funktionen och konstruktionen hos olika energitekniska system.",
         "I beskrivningen redogör eleven <strong>utförligt</strong> för komponenter och apparater i systemen och deras funktion och konstruktion.",
         "Eleven hänvisar i sin beskrivning till ritningar, driftkort, användarmanualer och instruktioner.",
+        "Eleven beskriver <strong>utförligt</strong> olika yrkesområdens hantering och skötsel av energitekniska system.",
         "Dessutom beskriver eleven <strong>utförligt</strong> en effektiv och miljövänlig energianvändning i energitekniska system.",
         "I beskrivningarna använder eleven fackspråk."
       ],
@@ -45,6 +47,7 @@
         "Eleven beskriver <strong>översiktligt</strong> funktionen och konstruktionen hos olika energitekniska system.",
         "I beskrivningen redogör eleven <strong>översiktligt</strong> för komponenter och apparater i systemen och deras funktion och konstruktion.",
         "Eleven hänvisar i sin beskrivning till ritningar, driftkort, användarmanualer och instruktioner.",
+        "Eleven beskriver <strong>översiktligt</strong> olika yrkesområdens hantering och skötsel av energitekniska system.",
         "Dessutom beskriver eleven <strong>översiktligt</strong> en effektiv och miljövänlig energianvändning i energitekniska system.",
         "I beskrivningarna använder eleven <strong>enkelt</strong> fackspråk."
       ],
@@ -64,7 +67,7 @@
       null,
       [
         "Helhetssyn på värme-, sanitets-, ventilations-, kyl- och värmepumpssystems funktioner och samverkan i fastigheter, byggnadsverk och anläggningar.",
-        "Uppbyggnad och funktion av värme-, sanitets-, ventilations-, kyl- och värmepumpssystem samt hur de installeras och sköts.",
+        "Uppbyggnad och funktion av värme-, sanitets-, ventilations-, kyl- och värmepumpssystem samt hur de installeras och sköts inom VVS- och fastighetsbranschens olika yrkesområden.",
         "Flödesriktningar, tryck och temperaturer i olika system.",
         "Hur apparater och komponenter i system fungerar var för sig och i samverkan.",
         "Enkla systemritningar, ritningssymboler och beteckningar samt hur de används för att beskriva system.",
@@ -73,13 +76,14 @@
       ]
     ]
   ],
-  "UNSAFE_description": "Kursen systemuppbyggnad omfattar punkterna 1 och 3-7 under rubriken Ämnets syfte, med särskild betoning på punkt 1 och 4.",
+  "UNSAFE_description": "Kursen systemuppbyggnad omfattar punkterna 1 och 3-8 under rubriken Ämnets syfte, med särskild betoning på punkt 1, 4 och 7.",
   "applicableSubjectPurposes": [
     0,
     2,
     3,
     4,
     5,
-    6
+    6,
+    7
   ]
 }

@@ -8,7 +8,6 @@
       [
         "Eleven planerar och organiserar <strong>efter samråd</strong> med handledare laboratoriearbete relaterat till industritekniska processer.",
         "I planeringen tolkar eleven <strong>med säkerhet</strong> kravspecifikationer, instruktioner och säkerhetsföreskrifter.",
-        "<strong>Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det</strong>.",
         "Vidare väljer eleven <strong>efter samråd</strong> med handledare metoder, tekniker, utrustningar, material och kemikalier med hänsyn till önskat resultat, hälsoaspekter, miljöhänsyn och säkerhet.",
         "<strong>Dessutom motiverar eleven utförligt och nyanserat sina val</strong>."
       ],
@@ -34,7 +33,7 @@
       ],
       [
         "Eleven använder med viss säkerhet terminologi och fackspråk samt samarbetar med andra för att lösa arbetsuppgifter.",
-        "Dessutom redogör eleven utförligt för betydelsen av samarbete."
+        "<strong>Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det</strong>."
       ]
     ],
     "C": [
@@ -73,7 +72,8 @@
       [
         "Eleven planerar och organiserar <strong>i samråd</strong> med handledare laboratoriearbete relaterat till industritekniska processer.",
         "I planeringen tolkar eleven <strong>med viss säkerhet</strong> kravspecifikationer, instruktioner och säkerhetsföreskrifter.",
-        "Vidare väljer eleven <strong>i samråd</strong> med handledare metoder, tekniker, utrustningar, material och kemikalier med hänsyn till önskat resultat, hälsoaspekter, miljöhänsyn och säkerhet."
+        "Vidare väljer eleven <strong>i samråd</strong> med handledare metoder, tekniker, utrustningar, material och kemikalier med hänsyn till önskat resultat, hälsoaspekter, miljöhänsyn och säkerhet.",
+        null
       ],
       [
         "Eleven utför med noggrannhet och <strong>i samråd</strong> med handledare laboratoriearbete relaterat till industritekniska processer i enlighet med säkerhetsföreskrifter, givna instruktioner och kravspecifikationer.",
@@ -95,7 +95,10 @@
       [
         "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
       ],
-      []
+      [
+        null,
+        null
+      ]
     ]
   },
   "centralContent": [

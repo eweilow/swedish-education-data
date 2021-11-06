@@ -1,0 +1,78 @@
+{
+  "subject": "ANO",
+  "title": "Anatomi och fysiologi 2",
+  "code": "ANOANA02",
+  "points": 50,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> människokroppens uppbyggnad och funktion.",
+        "Vidare redogör eleven <strong>utförligt och nyanserat</strong> för kroppens vätske- och elektrolytbalans.",
+        "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för människans normala fysiska utveckling.",
+        "I beskrivningarna använder eleven <strong>med säkerhet</strong> medicinsk terminologi."
+      ],
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> vanliga läkemedel, deras verkningssätt, hantering, användningsområden och biverkningar samt redogör för lagar och andra bestämmer som gäller för läkemedelsanvändning och läkemedelshantering.",
+        "Vidare utför eleven enkel läkemedelsberäkning med <strong>gott</strong> resultat och bedömer relevansen av resultatet."
+      ],
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> kroppens försvarssystem."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> människokroppens uppbyggnad och funktion.",
+        "Vidare redogör eleven <strong>utförligt</strong> för kroppens vätske- och elektrolytbalans.",
+        "Dessutom redogör eleven <strong>utförligt</strong> för människans normala fysiska utveckling.",
+        "I beskrivningarna använder eleven <strong>med viss säkerhet</strong> medicinsk terminologi."
+      ],
+      [
+        "Eleven beskriver <strong>utförligt</strong> vanliga läkemedel, deras verkningssätt, hantering, användningsområden och biverkningar samt redogör för lagar och andra bestämmer som gäller för läkemedelsanvändning och läkemedelshantering.",
+        "Vidare utför eleven enkel läkemedelsberäkning med <strong>tillfredsställande</strong> resultat och bedömer relevansen av resultatet."
+      ],
+      [
+        "Eleven beskriver <strong>utförligt</strong> kroppens försvarssystem."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> människokroppens uppbyggnad och funktion.",
+        "Vidare redogör eleven <strong>översiktligt</strong> för kroppens vätske- och elektrolytbalans.",
+        "Dessutom redogör eleven <strong>översiktligt</strong> för människans normala fysiska utveckling.",
+        "I beskrivningarna använder eleven <strong>med viss säkerhet</strong> medicinsk terminologi."
+      ],
+      [
+        "Eleven beskriver <strong>översiktligt</strong> vanliga läkemedel, deras verkningssätt, hantering, användningsområden och biverkningar samt redogör för lagar och andra bestämmer som gäller för läkemedelsanvändning och läkemedelshantering.",
+        "Vidare utför eleven enkel läkemedelsberäkning med <strong>tillfredsställande</strong> resultat och bedömer relevansen av resultatet."
+      ],
+      [
+        "Eleven beskriver <strong>översiktligt</strong> kroppens försvarssystem."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Människokroppens uppbyggnad och funktion samt dess förmåga till ämnesomsättning, rörelse, retbarhet, skydd och försvar.",
+        "Kroppens vätske-, elektrolyt- och näringsbalans.",
+        "Människans utveckling från barn till äldre.",
+        "Den fysiologiska processen kring människans fortplantning från befruktning till förlossning.",
+        "Fördjupad medicinsk terminologi.",
+        "Vanliga läkemedel och deras verkningssätt, användningsområden och vilka biverkningar de kan ha.",
+        "Enklare läkemedelsberäkning samt relevansbedömning av resultatet.",
+        "Lagar och andra bestämmelser som gäller för läkemedelsanvändning.",
+        "Kroppens försvarssystem mot mikroorganismer och virus."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen anatomi och fysiologi 2 omfattar punkterna 1-6 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ]
+}

@@ -28,7 +28,8 @@
         "Eleven utför på ett elsäkert och personsäkert sätt arbete med turbiner och hydralikkomponenter i en vattenkraftstation.",
         "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustningen på ett riktigt sätt.",
         "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett fackspråk som fungerar för arbetsuppgiften.",
-        "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete samt utvärderar det med <strong>nyanserade</strong> omdömen."
+        "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete samt utvärderar det med <strong>nyanserade</strong> omdömen.",
+        null
       ]
     ],
     "E": [
@@ -41,7 +42,8 @@
         "Eleven utför på ett elsäkert och personsäkert sätt <strong>enkelt</strong> arbete med turbiner och hydralikkomponenter i en vattenkraftstation.",
         "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustningen på ett riktigt sätt.",
         "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett <strong>enkelt</strong> fackspråk som fungerar för arbetsuppgiften.",
-        "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete samt utvärderar det med <strong>enkla</strong> omdömen."
+        "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete samt utvärderar det med <strong>enkla</strong> omdömen.",
+        null
       ]
     ]
   },
@@ -60,6 +62,7 @@
   "applicableSubjectPurposes": [
     0,
     1,
-    5
+    5,
+    9
   ]
 }

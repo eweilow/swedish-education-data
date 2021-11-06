@@ -31,11 +31,13 @@
       [
         "Eleven använder <strong>med viss säkerhet några</strong> estetiska uttrycksmedel och estetiska metoder för att kommunicera om idéer, stämningar och betydelser.",
         "Elevens estetiska uttryck är en del i en konstnärlig gestaltning.",
-        "<strong>I förberedelserna redogör eleven utförligt för avsikten med kommunikationen</strong>.",
-        "<strong>I arbetet omsätter eleven med viss säkerhet den avsedda avsikten till ett kommunicerande resultat</strong>."
+        null,
+        null,
+        "<strong>I förberedelserna redogör eleven utförligt för avsikten med kommunikationen</strong>."
       ],
       [
         "Eleven samverkar i skapande arbete i grupp <strong>och med olika kompetenser och uttryck i estetiska produktioner</strong> samt diskuterar <strong>utförligt</strong> hur det egna arbetet relaterar till ett kollektivt resultat.",
+        "<strong>I arbetet omsätter eleven med viss säkerhet den avsedda avsikten till ett kommunicerande resultat</strong>.",
         "<strong>Dessutom anpassar eleven sina insatser efter omständigheter som framkommer i samarbetet med medskapare och under olika skeden av arbetsprocessen</strong>.",
         "Eleven deltar i en konstnärlig produktionsprocess och presentation av en större färdig gestaltning."
       ],
@@ -51,14 +53,20 @@
     "E": [
       [
         "Eleven använder <strong>med viss säkerhet något</strong> estetiskt uttrycksmedel och estetiska metoder för att kommunicera om idéer, stämningar och betydelser.",
-        "Elevens estetiska uttryck är en del i en konstnärlig gestaltning."
+        "Elevens estetiska uttryck är en del i en konstnärlig gestaltning.",
+        null,
+        null,
+        null
       ],
       [
         "Eleven samverkar i skapande arbete i grupp samt diskuterar <strong>översiktligt</strong> hur det egna arbetet relaterar till ett kollektivt resultat.",
+        null,
+        null,
         "Eleven deltar i en konstnärlig produktionsprocess och presentation av en större färdig gestaltning."
       ],
       [
         "Eleven använder <strong>några</strong> redskap för att producera och kommunicera med estetiska uttryck samt diskuterar <strong>översiktligt</strong> hur konstnärlig gestaltning kan förmedlas på olika sätt.",
+        null,
         "Dessutom diskuterar eleven <strong>översiktligt</strong> hur estetiska uttryck kan samverka och användas i olika sammanhang."
       ],
       [
@@ -90,6 +98,11 @@
     4,
     5,
     6,
-    8
+    8,
+    0,
+    2,
+    4,
+    5,
+    6
   ]
 }

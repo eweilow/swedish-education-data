@@ -1,0 +1,65 @@
+{
+  "subject": "ANO",
+  "title": "Anatomi och fysiologi 1",
+  "code": "ANOANA01",
+  "points": 50,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> människokroppens uppbyggnad och funktion.",
+        "I beskrivningarna använder eleven <strong>med säkerhet</strong> medicinsk terminologi."
+      ],
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> vanliga läkemedel och deras hantering samt redogör för lagar och andra bestämmer som gäller för användning och hantering av läkemedel."
+      ],
+      [
+        "Eleven ger också exempel på vanliga mikroorganismer och beskriver <strong>utförligt och nyanserat</strong> hur de sprids."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> människokroppens uppbyggnad och funktion.",
+        "I beskrivningarna använder eleven <strong>med viss säkerhet</strong> medicinsk terminologi."
+      ],
+      [
+        "Eleven beskriver <strong>utförligt</strong> vanliga läkemedel och deras hantering samt redogör för lagar och andra bestämmer som gäller för användning och hantering av läkemedel."
+      ],
+      [
+        "Eleven ger också exempel på vanliga mikroorganismer och beskriver <strong>utförligt</strong> hur de sprids."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> människokroppens uppbyggnad och funktion.",
+        "I beskrivningarna använder eleven <strong>med viss säkerhet</strong> medicinsk terminologi."
+      ],
+      [
+        "Eleven beskriver <strong>översiktligt</strong> vanliga läkemedel och deras hantering samt redogör för lagar och andra bestämmer som gäller för användning och hantering av läkemedel."
+      ],
+      [
+        "Eleven ger också exempel på vanliga mikroorganismer och beskriver <strong>översiktligt</strong> hur de sprids."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Grundläggande om människokroppens uppbyggnad och funktion.",
+        "Grundläggande medicinsk terminologi.",
+        "Grundläggande om läkemedel och läkemedelshantering, däribland olika administreringssätt, halveringstid, terapeutisk bredd och vanliga biverkningar.",
+        "Bestämmelser kring delegering och personligt ansvar för läkemedelshantering.",
+        "Vanliga mikroorganismer och hur de sprids.",
+        "Åtgärder för att förebygga smitta."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen anatomi och fysiologi 1 omfattar punkterna 1 och 3-6 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    2,
+    3,
+    4,
+    5
+  ]
+}

@@ -51,7 +51,8 @@
       [
         "Eleven utför <strong>i samråd</strong> med handledare driftkontroller med hjälp av ritningar, driftkort, användarmanualer och instruktioner samt utifrån lagar och andra bestämmelser.",
         "I sin driftkontroll genomför eleven <strong>enkla</strong> mätningar och beräkningar samt kontrollerar resultatet efter <strong>förutbestämda parametrar</strong>.",
-        "Eleven genomför <strong>i samråd</strong> med handledare nödvändiga justeringar och driftsätter system."
+        "Eleven genomför <strong>i samråd</strong> med handledare nödvändiga justeringar och driftsätter system.",
+        null
       ],
       [
         "Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt."
@@ -74,17 +75,18 @@
         "Utrustning för att reglera temperaturer och flöden.",
         "Inställning och idrifttagning av reglerkretsar.",
         "Installationsregler, bygglagstiftning och arbetsmiljöregler för att uppfylla samhällets krav på energihushållning, hälsa och säkerhet.",
-        "Metoder för förbränningsanlys i värmepannor."
+        "Metoder för förbränningsanalys i värmepannor."
       ]
     ]
   ],
-  "UNSAFE_description": "Kursen injusteringsteknik omfattar punkterna 1-6 under rubriken Ämnets syfte.",
+  "UNSAFE_description": "Kursen injusteringsteknik omfattar punkterna 1-6 och 8 under rubriken Ämnets syfte.",
   "applicableSubjectPurposes": [
     0,
     1,
     2,
     3,
     4,
-    5
+    5,
+    7
   ]
 }

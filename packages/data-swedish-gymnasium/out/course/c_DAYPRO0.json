@@ -52,7 +52,7 @@
       [
         "Eleven planerar och utför arbeten <strong>i samråd</strong> med handledare och hanterar då med <strong>visst</strong> handlag verktyg och teknisk utrustning och tolkar <strong>med viss säkerhet</strong> tillämplig systemdokumentation.",
         "Efter utfört arbete dokumenterar eleven arbetet med <strong>tillfredsställande</strong> resultat utifrån givna regler.",
-        "Under arbetet tillämpar eleven <strong>med viss säkerhet</strong> de regler och instruktioner som omfattar utförande och säkerhet."
+        "Under arbetet tillämpar eleven <strong>med viss säkerhet</strong>  de regler och instruktioner som omfattar utförande och säkerhet."
       ],
       [
         "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
@@ -84,15 +84,9 @@
       ]
     ]
   ],
-  "UNSAFE_description": "Kursen programmerbara datorsystem - spårfordon omfattar punkterna 1-8 under rubriken Ämnets syfte.",
+  "UNSAFE_description": "Kursen programmerbara datorsystem - spårfordon omfattar punkterna 1**\\-**8 under rubriken Ämnets syfte.",
   "applicableSubjectPurposes": [
     0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
     7
   ]
 }
