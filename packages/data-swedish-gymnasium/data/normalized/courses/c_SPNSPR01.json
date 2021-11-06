@@ -32,61 +32,73 @@
   },
   "knowledgeRequirements": {
     "E": [
-      "0Eleven beskriver **översiktligt** uppbyggnad och funktion av olika sprinklersystem",
-      "0Dessutom redogör eleven **översiktligt** för de miljö- och säkerhetskrav samt de brandskyddsregler som gäller sprinkleranläggningar",
-      "0Eleven beskriver **översiktligt** vilka komponenter, material och metoder som används vid sammanfogning, samt vilka standarder och myndighetskrav som gäller",
-      "0Eleven redogör **översiktligt** för olika medier i sprinklersystem samt för deras användningsområden, miljöpåverkan och driftegenskaper",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven planerar och organiserar **i samråd** med handledare arbetsplatsen och sitt arbete",
-      "1I planeringen och utförandet väljer eleven **med viss säkerhet** någon vanligt förekommande arbetsmetod och teknik, utifrån lagar, andra bestämmelser och fastställda kvalitetskrav",
-      "1Dessutom använder eleven **med viss säkerhet** verktyg och maskiner samt följer föreskrifter och anvisningar för dem",
-      "1Eleven utför **i samråd** med handledare arbetet utifrån ritningar och andra gällande handlingar",
-      "2Eleven utför **i samråd** med handledare enklare reparationer, service och underhåll på både äldre och nyare system och installationer",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven värderar också med **enkla** omdömen om arbetet uppfyller fastställda kvalitetskrav",
-      "2Dessutom gör eleven en **enkel** dokumentation av utförda åtgärder",
-      "2Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+      [
+        "Eleven beskriver **översiktligt** uppbyggnad och funktion av olika sprinklersystem",
+        "Dessutom redogör eleven **översiktligt** för de miljö- och säkerhetskrav samt de brandskyddsregler som gäller sprinkleranläggningar",
+        "Eleven beskriver **översiktligt** vilka komponenter, material och metoder som används vid sammanfogning, samt vilka standarder och myndighetskrav som gäller",
+        "Eleven redogör **översiktligt** för olika medier i sprinklersystem samt för deras användningsområden, miljöpåverkan och driftegenskaper"
+      ],
+      [
+        "Eleven planerar och organiserar **i samråd** med handledare arbetsplatsen och sitt arbete",
+        "I planeringen och utförandet väljer eleven **med viss säkerhet** någon vanligt förekommande arbetsmetod och teknik, utifrån lagar, andra bestämmelser och fastställda kvalitetskrav",
+        "Dessutom använder eleven **med viss säkerhet** verktyg och maskiner samt följer föreskrifter och anvisningar för dem",
+        "Eleven utför **i samråd** med handledare arbetet utifrån ritningar och andra gällande handlingar",
+        "Eleven utför **i samråd** med handledare enklare reparationer, service och underhåll på både äldre och nyare system och installationer"
+      ],
+      [
+        "Eleven värderar också med **enkla** omdömen om arbetet uppfyller fastställda kvalitetskrav",
+        "Dessutom gör eleven en **enkel** dokumentation av utförda åtgärder",
+        "Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav"
+      ]
     ],
     "C": [
-      "0Eleven beskriver **utförligt** uppbyggnad och funktion av olika sprinklersystem",
-      "0Dessutom redogör eleven **utförligt** för de miljö- och säkerhetskrav samt de brandskyddsregler som gäller sprinkleranläggningar",
-      "0Eleven beskriver **utförligt** vilka komponenter, material och metoder som används vid sammanfogning, samt vilka standarder och myndighetskrav som gäller",
-      "0Eleven redogör **utförligt** för olika medier i sprinklersystem samt för deras användningsområden, miljöpåverkan och driftegenskaper",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven planerar och organiserar **efter samråd** med handledare arbetsplatsen och sitt arbete",
-      "1I planeringen och utförandet väljer eleven **med viss säkerhet** någon vanligt förekommande arbetsmetod och teknik, utifrån lagar, andra bestämmelser och fastställda kvalitetskrav",
-      "1Dessutom använder eleven **med viss säkerhet** verktyg och maskiner samt följer föreskrifter och anvisningar för dem",
-      "1Eleven utför **efter samråd** med handledare arbetet utifrån ritningar och andra gällande handlingar",
-      "2Eleven utför **efter samråd** med handledare enklare reparationer, service och underhåll på både äldre och nyare system och installationer",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven värderar också med **välgrundade** omdömen om arbetet uppfyller fastställda kvalitetskrav",
-      "2Dessutom gör eleven en **noggrann** dokumentation av utförda åtgärder",
-      "2Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+      [
+        "Eleven beskriver **utförligt** uppbyggnad och funktion av olika sprinklersystem",
+        "Dessutom redogör eleven **utförligt** för de miljö- och säkerhetskrav samt de brandskyddsregler som gäller sprinkleranläggningar",
+        "Eleven beskriver **utförligt** vilka komponenter, material och metoder som används vid sammanfogning, samt vilka standarder och myndighetskrav som gäller",
+        "Eleven redogör **utförligt** för olika medier i sprinklersystem samt för deras användningsområden, miljöpåverkan och driftegenskaper"
+      ],
+      [
+        "Eleven planerar och organiserar **efter samråd** med handledare arbetsplatsen och sitt arbete",
+        "I planeringen och utförandet väljer eleven **med viss säkerhet** någon vanligt förekommande arbetsmetod och teknik, utifrån lagar, andra bestämmelser och fastställda kvalitetskrav",
+        "Dessutom använder eleven **med viss säkerhet** verktyg och maskiner samt följer föreskrifter och anvisningar för dem",
+        "Eleven utför **efter samråd** med handledare arbetet utifrån ritningar och andra gällande handlingar",
+        "Eleven utför **efter samråd** med handledare enklare reparationer, service och underhåll på både äldre och nyare system och installationer"
+      ],
+      [
+        "Eleven värderar också med **välgrundade** omdömen om arbetet uppfyller fastställda kvalitetskrav",
+        "Dessutom gör eleven en **noggrann** dokumentation av utförda åtgärder",
+        "Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav"
+      ]
     ],
     "A": [
-      "0Eleven beskriver **utförligt och nyanserat** uppbyggnad och funktion av olika sprinklersystem",
-      "0Dessutom redogör eleven **utförligt och nyanserat** för de miljö- och säkerhetskrav samt de brandskyddsregler som gäller sprinkleranläggningar",
-      "0Eleven beskriver **utförligt och nyanserat** vilka komponenter, material och metoder som används vid sammanfogning, samt vilka standarder och myndighetskrav som gäller",
-      "0Eleven redogör **utförligt och nyanserat** för olika medier i sprinklersystem samt för deras användningsområden, miljöpåverkan och driftegenskaper",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven planerar och organiserar **efter samråd** med handledare arbetsplatsen och sitt arbete",
-      "1I planeringen och utförandet väljer eleven **med säkerhet** någon vanligt förekommande arbetsmetod och teknik, utifrån lagar, andra bestämmelser och fastställda kvalitetskrav",
-      "1Dessutom använder eleven **med säkerhet** verktyg och maskiner samt följer föreskrifter och anvisningar för dem",
-      "1Eleven utför **efter samråd** med handledare arbetet utifrån ritningar och andra gällande handlingar",
-      "1Eleven utför **efter samråd** med handledare enklare reparationer, service och underhåll på både äldre och nyare system och installationer",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven värderar också med **nyanserade** omdömen om arbetet uppfyller fastställda kvalitetskrav **samt ger förslag på hur arbetet kan förbättras**",
-      "2Dessutom gör eleven en **noggrann och utförlig** dokumentation av utförda åtgärder",
-      "2Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+      [
+        "Eleven beskriver **utförligt och nyanserat** uppbyggnad och funktion av olika sprinklersystem",
+        "Dessutom redogör eleven **utförligt och nyanserat** för de miljö- och säkerhetskrav samt de brandskyddsregler som gäller sprinkleranläggningar",
+        "Eleven beskriver **utförligt och nyanserat** vilka komponenter, material och metoder som används vid sammanfogning, samt vilka standarder och myndighetskrav som gäller",
+        "Eleven redogör **utförligt och nyanserat** för olika medier i sprinklersystem samt för deras användningsområden, miljöpåverkan och driftegenskaper"
+      ],
+      [
+        "Eleven planerar och organiserar **efter samråd** med handledare arbetsplatsen och sitt arbete",
+        "I planeringen och utförandet väljer eleven **med säkerhet** någon vanligt förekommande arbetsmetod och teknik, utifrån lagar, andra bestämmelser och fastställda kvalitetskrav",
+        "Dessutom använder eleven **med säkerhet** verktyg och maskiner samt följer föreskrifter och anvisningar för dem",
+        "Eleven utför **efter samråd** med handledare arbetet utifrån ritningar och andra gällande handlingar",
+        "Eleven utför **efter samråd** med handledare enklare reparationer, service och underhåll på både äldre och nyare system och installationer"
+      ],
+      [
+        "Eleven värderar också med **nyanserade** omdömen om arbetet uppfyller fastställda kvalitetskrav **samt ger förslag på hur arbetet kan förbättras**",
+        "Dessutom gör eleven en **noggrann och utförlig** dokumentation av utförda åtgärder",
+        "Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav"
+      ]
     ]
   }
 }

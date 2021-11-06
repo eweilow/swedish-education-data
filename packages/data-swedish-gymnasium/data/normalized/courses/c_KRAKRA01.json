@@ -28,55 +28,70 @@
   },
   "knowledgeRequirements": {
     "E": [
-      "0Eleven beskriver **översiktligt** uppbyggnad och funktion av en enkel energianläggning",
-      "0I beskrivningen gör eleven **enkla** kopplingar till relevanta naturvetenskapliga principer",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven utför, **i samråd** med handledare och på ett säkert sätt, vanligt förekommande praktiska arbetsuppgifter i en energiteknisk anläggning",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven genomför **med viss säkerhet enkla** energiberäkningar och ger utifrån dem **enkla** förslag för att optimera driften",
-      "2Eleven genomför **i samråd** med handledare provtagning, analys och dosering av olika medier",
-      "2I sitt arbete hanterar och vårdar eleven verktyg och instrument med **visst** handlag utifrån givna instruktioner och arbetsbeskrivningar",
-      "2Under arbetet upptäcker eleven problem som uppkommer och löser dem **i samråd** med handledare",
-      "2I arbetet samverkar och kommunicerar eleven **med viss säkerhet** med andra samt använder ett **enkelt** fackspråk som fungerar för arbetsuppgiften",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven redogör **översiktligt** för säkerhetsföreskrifter och miljökrav",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION",
-      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
-      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+      [
+        "Eleven beskriver **översiktligt** uppbyggnad och funktion av en enkel energianläggning",
+        "I beskrivningen gör eleven **enkla** kopplingar till relevanta naturvetenskapliga principer"
+      ],
+      [
+        "Eleven utför, **i samråd** med handledare och på ett säkert sätt, vanligt förekommande praktiska arbetsuppgifter i en energiteknisk anläggning"
+      ],
+      [
+        "Eleven genomför **med viss säkerhet enkla** energiberäkningar och ger utifrån dem **enkla** förslag för att optimera driften",
+        "Eleven genomför **i samråd** med handledare provtagning, analys och dosering av olika medier",
+        "I sitt arbete hanterar och vårdar eleven verktyg och instrument med **visst** handlag utifrån givna instruktioner och arbetsbeskrivningar",
+        "Under arbetet upptäcker eleven problem som uppkommer och löser dem **i samråd** med handledare",
+        "I arbetet samverkar och kommunicerar eleven **med viss säkerhet** med andra samt använder ett **enkelt** fackspråk som fungerar för arbetsuppgiften"
+      ],
+      [
+        "Eleven redogör **översiktligt** för säkerhetsföreskrifter och miljökrav"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav"
+      ]
     ],
     "C": [
-      "0Eleven beskriver **utförligt** uppbyggnad och funktion av en enkel energianläggning",
-      "0I beskrivningen gör eleven **välgrundade** kopplingar till relevanta naturvetenskapliga principer",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven utför, **efter samråd** med handledare och på ett säkert sätt, vanligt förekommande praktiska arbetsuppgifter i en energiteknisk anläggning",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven genomför **med viss säkerhet** energiberäkningar och ger utifrån dem **välgrundade** förslag för att optimera driften",
-      "2Eleven genomför **efter samråd** med handledare provtagning, analys och dosering av olika medier",
-      "2I sitt arbete hanterar och vårdar eleven verktyg och instrument med **gott** handlag utifrån givna instruktioner och arbetsbeskrivningar",
-      "2Under arbetet upptäcker eleven problem som uppkommer och löser dem **efter samråd** med handledare",
-      "2I arbetet samverkar och kommunicerar eleven **med viss säkerhet** med andra samt använder ett fackspråk som fungerar för arbetsuppgiften",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven redogör **utförligt** för säkerhetsföreskrifter och miljökrav",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION",
-      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
-      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+      [
+        "Eleven beskriver **utförligt** uppbyggnad och funktion av en enkel energianläggning",
+        "I beskrivningen gör eleven **välgrundade** kopplingar till relevanta naturvetenskapliga principer"
+      ],
+      [
+        "Eleven utför, **efter samråd** med handledare och på ett säkert sätt, vanligt förekommande praktiska arbetsuppgifter i en energiteknisk anläggning"
+      ],
+      [
+        "Eleven genomför **med viss säkerhet** energiberäkningar och ger utifrån dem **välgrundade** förslag för att optimera driften",
+        "Eleven genomför **efter samråd** med handledare provtagning, analys och dosering av olika medier",
+        "I sitt arbete hanterar och vårdar eleven verktyg och instrument med **gott** handlag utifrån givna instruktioner och arbetsbeskrivningar",
+        "Under arbetet upptäcker eleven problem som uppkommer och löser dem **efter samråd** med handledare",
+        "I arbetet samverkar och kommunicerar eleven **med viss säkerhet** med andra samt använder ett fackspråk som fungerar för arbetsuppgiften"
+      ],
+      [
+        "Eleven redogör **utförligt** för säkerhetsföreskrifter och miljökrav"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav"
+      ]
     ],
     "A": [
-      "0Eleven beskriver **utförligt och nyanserat** uppbyggnad och funktion av en enkel energianläggning",
-      "0I beskrivningen gör eleven **välgrundade och nyanserade** kopplingar till relevanta naturvetenskapliga principer",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven utför, **efter samråd** med handledare och på ett säkert sätt, vanligt förekommande praktiska arbetsuppgifter i en energiteknisk anläggning",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven genomför **med säkerhet avancerade** energiberäkningar och ger utifrån dem **välgrundade och nyanserade** förslag för att optimera driften",
-      "2Eleven genomför **efter samråd** med handledare provtagning, analys och dosering av olika medier",
-      "2I sitt arbete hanterar och vårdar eleven verktyg och instrument med **mycket gott** handlag utifrån givna instruktioner och arbetsbeskrivningar",
-      "2Under arbetet upptäcker eleven problem som uppkommer och löser dem **efter samråd** med handledare",
-      "2I arbetet samverkar och kommunicerar eleven **med säkerhet** med andra samt använder ett **nyanserat** fackspråk som fungerar för arbetsuppgiften",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven redogör **utförligt och nyanserat** för säkerhetsföreskrifter och miljökrav",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION",
-      "4När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
-      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+      [
+        "Eleven beskriver **utförligt och nyanserat** uppbyggnad och funktion av en enkel energianläggning",
+        "I beskrivningen gör eleven **välgrundade och nyanserade** kopplingar till relevanta naturvetenskapliga principer"
+      ],
+      [
+        "Eleven utför, **efter samråd** med handledare och på ett säkert sätt, vanligt förekommande praktiska arbetsuppgifter i en energiteknisk anläggning"
+      ],
+      [
+        "Eleven genomför **med säkerhet avancerade** energiberäkningar och ger utifrån dem **välgrundade och nyanserade** förslag för att optimera driften",
+        "Eleven genomför **efter samråd** med handledare provtagning, analys och dosering av olika medier",
+        "I sitt arbete hanterar och vårdar eleven verktyg och instrument med **mycket gott** handlag utifrån givna instruktioner och arbetsbeskrivningar",
+        "Under arbetet upptäcker eleven problem som uppkommer och löser dem **efter samråd** med handledare",
+        "I arbetet samverkar och kommunicerar eleven **med säkerhet** med andra samt använder ett **nyanserat** fackspråk som fungerar för arbetsuppgiften"
+      ],
+      [
+        "Eleven redogör **utförligt och nyanserat** för säkerhetsföreskrifter och miljökrav"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav"
+      ]
     ]
   }
 }

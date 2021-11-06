@@ -91,6 +91,12 @@ function getFocusAreas(description: string | null, name: string, code: string) {
   };
 }
 
+const createDummySection = (i: number) =>
+  `${i}THIS ${i}IS ${i}THE ${i}START ${i}OF ${i}SECTION`;
+
+const isDummySection = (str: string) =>
+  /\d+THIS \d+IS \d+THE \d+START \d+OF \d+SECTION/.test(str);
+
 function getKnowledgeRequirement(
   knowledgerequirement: string | null,
   name: string,
@@ -122,33 +128,28 @@ function getKnowledgeRequirement(
   );
 
   const splitRows = sections[0].rows.flatMap((el, i) =>
-    // el.replace(/\.\s*\*\*\s+/g, "**. ")
-    // .replace(/\.\s*\*\*/g, "**.")
-    // .replace(/\*\*\s+\*\*/g, " ") // Fix those pesky stars that make text bold
-    // .replace(/\s+\*\*\*\*/g, " **") // Fix those pesky stars that make text bold
-    // .replace(/\*\*\*\*\s+/g, "** ") // Fix those pesky stars that make text bold
-    // .split(".")
-    el.split(".").map((el) => [el, i] as const)
+    el
+      .replace(/\*\*\.\*\*\s+/g, ". ")
+      .replace(/\.\*\*\s+/g, "**. ")
+      .replace(/\*\*\.\*\*/g, ".")
+      .replace(/\.\*\*/g, "**.")
+      .split(".")
+      .map((el) => [el, i] as const)
   );
+
   return splitRows
     .map(([el, i]) => {
       if (!el && i === splitRows.length - 1) {
         return "";
       }
       if (!el) {
-        return `${i}THIS ${i}IS ${i}THE ${i}START ${i}OF ${i}SECTION`;
+        return createDummySection(i);
       }
 
-      return (
-        i +
-        el
-          .trim()
-          .replace(/\*\*\s+\*\*/g, " ") // Fix those pesky stars that make text bold
-          .replace(/\s+\*\*\*\*/g, " **") // Fix those pesky stars that make text bold
-          .replace(/\*\*\*\*\s+/g, "** ") // Fix those pesky stars that make text bold
-          .replace(/^\s*\*\*\s+/g, "") // Fix those pesky stars that make text bold
-          .replace(/\s+\*\*\s*$/g, "")
-      ); // Fix those pesky stars that make text bold
+      return el
+        .trim()
+        .replace(/\*\* \*\*/g, " ")
+        .replace(/\*\*\*\*/g, "**");
     })
     .filter((el) => !!el);
 }
@@ -187,6 +188,16 @@ class Matrix<I, J, Value> {
   }
 }
 
+function numberOfDummySections(rows: string[]) {
+  return rows.filter((el) => isDummySection(el)).length;
+}
+
+function padDummySectionsToLength(rows: string[], length: number) {
+  for (let i = numberOfDummySections(rows); i < length; i++) {
+    rows.push(createDummySection(i));
+  }
+}
+
 function getKnowledgeRequirements(
   knowledgerequirements: any[],
   name: string,
@@ -205,6 +216,12 @@ function getKnowledgeRequirements(
   const gradesC = grades["C"];
   const gradesA = grades["A"];
 
+  const maxNumberOfDummySections = Math.max(
+    numberOfDummySections(gradesE),
+    numberOfDummySections(gradesC),
+    numberOfDummySections(gradesA)
+  );
+
   let base = gradesE;
   let baseGrade = "E";
   if (gradesC.length >= base.length) {
@@ -215,6 +232,10 @@ function getKnowledgeRequirements(
     base = gradesA;
     baseGrade = "A";
   }
+
+  padDummySectionsToLength(gradesE, maxNumberOfDummySections);
+  padDummySectionsToLength(gradesC, maxNumberOfDummySections);
+  padDummySectionsToLength(gradesA, maxNumberOfDummySections);
 
   for (let i = 0; i < base.length; i++) {
     matrix.set(baseGrade, i, base[i]);
@@ -258,9 +279,7 @@ function getKnowledgeRequirements(
     const split: string[][] = [];
     let collector: string[] = [];
     for (const row of matrix.getRow(grade)) {
-      if (row == null) continue;
-
-      if (/\d+THIS \d+IS \d+THE \d+START \d+OF \d+SECTION/.test(row)) {
+      if (row != null && isDummySection(row)) {
         split.push(collector);
         collector = [];
       } else {
@@ -276,29 +295,24 @@ function getKnowledgeRequirements(
   const collectedC = collect("C");
   const collectedA = collect("A");
 
-  try {
-    assert.equal(
-      collectedE.length,
-      collectedC.length,
-      `E->C, in ${name} (${code})`
-    );
-    assert.equal(
-      collectedC.length,
-      collectedA.length,
-      `C->A, in ${name} (${code})`
-    );
-  } catch (err) {
-    console.error(err);
-    console.log(matrix);
-  }
+  assert.equal(
+    collectedE.length,
+    collectedC.length,
+    `E->C, in ${name} (${code})`
+  );
+  assert.equal(
+    collectedC.length,
+    collectedA.length,
+    `C->A, in ${name} (${code})`
+  );
 
   return {
-    E: matrix.getRow("E"),
-    // E: collectedE,
-    C: matrix.getRow("C"),
-    // C: collectedC,
-    A: matrix.getRow("A"),
-    // A: collectedA,
+    // E: matrix.getRow("E"),
+    E: collectedE,
+    // C: matrix.getRow("C"),
+    C: collectedC,
+    // A: matrix.getRow("A"),
+    A: collectedA,
   };
   // if (gradesC.length > gradesE.length && gradesC.length > gradesA.length) {
   //   console.log(matrix);

@@ -28,52 +28,64 @@
   },
   "knowledgeRequirements": {
     "E": [
-      "0Eleven redogör **översiktligt** för typiska ensembler och musikformer från **någon** tidsperiod, genre eller kultur",
-      "0Dessutom beskriver eleven **översiktligt** olika formtyper",
-      "0Eleven redogör **översiktligt** för kompositionsprincipen för vald typ av musikalisk sats",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven arrangerar och komponerar med **viss** konstnärlig kvalitet **någon enkel** vokalmusik med **viss** anpassning till den valda genrens konventioner och **med viss säkerhet** i textbehandlingen",
-      "1Eleven arrangerar och komponerar med **viss** konstnärlig kvalitet **enkel** instrumentalmusik med **viss** anpassning till den valda genrens konventioner",
-      "1Dessutom **gör** eleven **enkel instrumentering** för **någon mindre** ensembleform och visar **viss** konstnärlig kreativitet i bearbetningen av musikaliskt material",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2I arbetet använder eleven **med viss säkerhet** digitala hjälpmedel och annan musikteknisk utrustning som redskap för musikskapande",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven diskuterar **översiktligt** konstnärliga kvaliteter i olika arrangemang och kompositioner samt värderar med **enkla** omdömen sitt eget arbete",
-      null,
-      "3I diskussionen och värderingen använder eleven **med viss säkerhet** musikteoretiska begrepp",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+      [
+        "Eleven redogör **översiktligt** för typiska ensembler och musikformer från **någon** tidsperiod, genre eller kultur",
+        "Dessutom beskriver eleven **översiktligt** olika formtyper",
+        "Eleven redogör **översiktligt** för kompositionsprincipen för vald typ av musikalisk sats"
+      ],
+      [
+        "Eleven arrangerar och komponerar med **viss** konstnärlig kvalitet **någon enkel** vokalmusik med **viss** anpassning till den valda genrens konventioner och **med viss säkerhet** i textbehandlingen",
+        "Eleven arrangerar och komponerar med **viss** konstnärlig kvalitet **enkel** instrumentalmusik med **viss** anpassning till den valda genrens konventioner",
+        "Dessutom **gör** eleven **enkel instrumentering** för **någon mindre** ensembleform och visar **viss** konstnärlig kreativitet i bearbetningen av musikaliskt material"
+      ],
+      [
+        "I arbetet använder eleven **med viss säkerhet** digitala hjälpmedel och annan musikteknisk utrustning som redskap för musikskapande"
+      ],
+      [
+        "Eleven diskuterar **översiktligt** konstnärliga kvaliteter i olika arrangemang och kompositioner samt värderar med **enkla** omdömen sitt eget arbete",
+        null,
+        "I diskussionen och värderingen använder eleven **med viss säkerhet** musikteoretiska begrepp"
+      ]
     ],
     "C": [
-      "0Eleven redogör **utförligt** för typiska ensembler och musikformer från **några valda** tidsperioder, genrer eller kulturer",
-      "0Dessutom beskriver eleven **utförligt** olika formtyper",
-      "0Eleven redogör **utförligt** för kompositionsprincipen för vald typ av musikalisk sats",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven arrangerar och komponerar med **viss** konstnärlig kvalitet **och ett personligt uttryck, flerstämmig** vokalmusik med **god** anpassning till den valda genrens konventioner och **med viss säkerhet** i textbehandlingen",
-      "1Eleven arrangerar och komponerar med **viss** konstnärlig kvalitet **flerstämmig** instrumentalmusik med **god** anpassning till den valda genrens konventioner",
-      "1Dessutom **instrumenterar** eleven för **några större** ensembleformer och visar konstnärlig kreativitet i **experimenterandet med och** bearbetningen av musikaliskt material",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2I arbetet använder eleven **med viss säkerhet** digitala hjälpmedel och annan musikteknisk utrustning som redskap för musikskapande",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven diskuterar **utförligt** konstnärliga kvaliteter i olika arrangemang och kompositioner samt värderar med **nyanserade** omdömen sitt eget arbete",
-      "3**Dessutom värderar eleven med nyanserade omdömen hur det inre hörandet har omsatts till klingande musikaliskt material i det egna arbetet**",
-      "3I diskussionen och värderingen använder eleven **med viss säkerhet** musikteoretiska begrepp",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+      [
+        "Eleven redogör **utförligt** för typiska ensembler och musikformer från **några valda** tidsperioder, genrer eller kulturer",
+        "Dessutom beskriver eleven **utförligt** olika formtyper",
+        "Eleven redogör **utförligt** för kompositionsprincipen för vald typ av musikalisk sats"
+      ],
+      [
+        "Eleven arrangerar och komponerar med **viss** konstnärlig kvalitet **och ett personligt uttryck, flerstämmig** vokalmusik med **god** anpassning till den valda genrens konventioner och **med viss säkerhet** i textbehandlingen",
+        "Eleven arrangerar och komponerar med **viss** konstnärlig kvalitet **flerstämmig** instrumentalmusik med **god** anpassning till den valda genrens konventioner",
+        "Dessutom **instrumenterar** eleven för **några större** ensembleformer och visar konstnärlig kreativitet i **experimenterandet med och** bearbetningen av musikaliskt material"
+      ],
+      [
+        "I arbetet använder eleven **med viss säkerhet** digitala hjälpmedel och annan musikteknisk utrustning som redskap för musikskapande"
+      ],
+      [
+        "Eleven diskuterar **utförligt** konstnärliga kvaliteter i olika arrangemang och kompositioner samt värderar med **nyanserade** omdömen sitt eget arbete",
+        "**Dessutom värderar eleven med nyanserade omdömen hur det inre hörandet har omsatts till klingande musikaliskt material i det egna arbetet**",
+        "I diskussionen och värderingen använder eleven **med viss säkerhet** musikteoretiska begrepp"
+      ]
     ],
     "A": [
-      "0Eleven redogör **utförligt och nyanserat** för typiska ensembler och musikformer från **flera valda** tidsperioder, genrer eller kulturer",
-      "0Dessutom beskriver eleven **utförligt och nyanserat** olika formtyper",
-      "0Eleven redogör **utförligt och nyanserat** för kompositionsprincipen för vald typ av musikalisk sats",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven arrangerar och komponerar med **kreativitet**, konstnärlig kvalitet **och ett personligt, musikaliskt uttryck, flerstämmig** vokalmusik med **god** anpassning till den valda genrens konventioner och **med säkerhet** i texthandlingen",
-      "1Eleven arrangerar och komponerar med **kreativitet**, konstnärlig kvalitet **och ett personligt uttryck, flerstämmig** instrumentalmusik med **god** anpassning till den valda genrens konventioner **och till instrumentens karaktär**",
-      "1Dessutom **instrumenterar** eleven för **några större** ensembleformer och visar konstnärlig kreativitet i **experimenterandet med och** bearbetningen av musikaliskt material",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2I arbetet använder eleven **med säkerhet** digitala hjälpmedel och annan musikteknisk utrustning som redskap för musikskapande",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven diskuterar **utförligt och nyanserat** konstnärliga kvaliteter i olika arrangemang och kompositioner samt värderar med **nyanserade** omdömen sitt eget arbete **och ger förslag på hur arbetet kan förbättras**",
-      "3**Dessutom värderar eleven med nyanserade omdömen hur det inre hörandet har omsatts till klingande musikaliskt material i det egna arbetet samt ger förslag på hur detta kan förbättras**",
-      "3I diskussionen och värderingen använder eleven **med säkerhet** musikteoretiska begrepp",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+      [
+        "Eleven redogör **utförligt och nyanserat** för typiska ensembler och musikformer från **flera valda** tidsperioder, genrer eller kulturer",
+        "Dessutom beskriver eleven **utförligt och nyanserat** olika formtyper",
+        "Eleven redogör **utförligt och nyanserat** för kompositionsprincipen för vald typ av musikalisk sats"
+      ],
+      [
+        "Eleven arrangerar och komponerar med **kreativitet**, konstnärlig kvalitet **och ett personligt, musikaliskt uttryck, flerstämmig** vokalmusik med **god** anpassning till den valda genrens konventioner och **med säkerhet** i texthandlingen",
+        "Eleven arrangerar och komponerar med **kreativitet**, konstnärlig kvalitet **och ett personligt uttryck, flerstämmig** instrumentalmusik med **god** anpassning till den valda genrens konventioner **och till instrumentens karaktär**",
+        "Dessutom **instrumenterar** eleven för **några större** ensembleformer och visar konstnärlig kreativitet i **experimenterandet med och** bearbetningen av musikaliskt material"
+      ],
+      [
+        "I arbetet använder eleven **med säkerhet** digitala hjälpmedel och annan musikteknisk utrustning som redskap för musikskapande"
+      ],
+      [
+        "Eleven diskuterar **utförligt och nyanserat** konstnärliga kvaliteter i olika arrangemang och kompositioner samt värderar med **nyanserade** omdömen sitt eget arbete **och ger förslag på hur arbetet kan förbättras**",
+        "**Dessutom värderar eleven med nyanserade omdömen hur det inre hörandet har omsatts till klingande musikaliskt material i det egna arbetet samt ger förslag på hur detta kan förbättras**",
+        "I diskussionen och värderingen använder eleven **med säkerhet** musikteoretiska begrepp"
+      ]
     ]
   }
 }

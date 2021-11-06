@@ -22,64 +22,76 @@
   },
   "knowledgeRequirements": {
     "E": [
-      "0Eleven beskriver **översiktligt** lagar och andra bestämmelser som reglerar yrkesmässiga godstransporter med vald lastbil",
-      "0Eleven beskriver också **översiktligt** rutiner vid lastning och leveranser samt metoder för vägning och mätning av gods",
-      "0Dessutom beskriver eleven **översiktligt** transportledningens funktion och rutiner för administration och fakturering",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven planerar och genomför **i samråd** med handledare **enkla** godstransporter med vald lastbil",
-      "1Eleven kör och manövrerar lastbilen på ett trafiksäkert sätt i vanligt förekommande trafiksituationer",
-      "1I samband med olika transportuppdrag väljer eleven i bekanta situationer och **i samråd** med handledare utrustning för lastsäkring",
-      "1Eleven utför också funktionstillsyn och säkerhetskontroll",
-      "1Dessutom hanterar eleven **med viss säkerhet vanligt förekommande** utrustning i samband med lastning, lossning och leverans av gods",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven planerar **i samråd** med handledare transportuppdrag i bekanta situationer",
-      "2I planeringen utför eleven **enkla** lastviktsberäkningar och viktfördelningar",
-      "2Eleven väljer också **med viss säkerhet** lastsäkringsmetod och planerar **i samråd** med handledare färdväg utifrån lastbilens lastvikt och vägnätets bärighet",
-      "2Dessutom tar eleven ansvar för kundens egendom och för lastbil och utrustning",
-      "2Resultatet av elevens arbete är **tillfredsställande**",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+      [
+        "Eleven beskriver **översiktligt** lagar och andra bestämmelser som reglerar yrkesmässiga godstransporter med vald lastbil",
+        "Eleven beskriver också **översiktligt** rutiner vid lastning och leveranser samt metoder för vägning och mätning av gods",
+        "Dessutom beskriver eleven **översiktligt** transportledningens funktion och rutiner för administration och fakturering"
+      ],
+      [
+        "Eleven planerar och genomför **i samråd** med handledare **enkla** godstransporter med vald lastbil",
+        "Eleven kör och manövrerar lastbilen på ett trafiksäkert sätt i vanligt förekommande trafiksituationer",
+        "I samband med olika transportuppdrag väljer eleven i bekanta situationer och **i samråd** med handledare utrustning för lastsäkring",
+        "Eleven utför också funktionstillsyn och säkerhetskontroll",
+        "Dessutom hanterar eleven **med viss säkerhet vanligt förekommande** utrustning i samband med lastning, lossning och leverans av gods"
+      ],
+      [
+        "Eleven planerar **i samråd** med handledare transportuppdrag i bekanta situationer",
+        "I planeringen utför eleven **enkla** lastviktsberäkningar och viktfördelningar",
+        "Eleven väljer också **med viss säkerhet** lastsäkringsmetod och planerar **i samråd** med handledare färdväg utifrån lastbilens lastvikt och vägnätets bärighet",
+        "Dessutom tar eleven ansvar för kundens egendom och för lastbil och utrustning",
+        "Resultatet av elevens arbete är **tillfredsställande**"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav"
+      ]
     ],
     "C": [
-      "0Eleven beskriver **utförligt** lagar och andra bestämmelser som reglerar yrkesmässiga godstransporter med vald lastbil",
-      "0Eleven beskriver också **utförligt** rutiner vid lastning och leveranser samt metoder för vägning och mätning av gods",
-      "0Dessutom beskriver eleven **utförligt** transportledningens funktion och rutiner för administration och fakturering",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven planerar och genomför **efter samråd** med handledare godstransporter med vald lastbil",
-      "1Eleven kör och manövrerar lastbilen på ett trafiksäkert sätt i vanligt förekommande **och ovanliga** trafiksituationer",
-      "1I samband med olika transportuppdrag väljer eleven i bekanta **och delvis nya** situationer och **efter samråd** med handledare utrustning för lastsäkring",
-      "1Eleven utför också funktionstillsyn och säkerhetskontroll",
-      "1Dessutom hanterar eleven **med viss säkerhet olika typer av** utrustning i samband med lastning, lossning och leverans av gods",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven planerar **efter samråd** med handledare transportuppdrag i bekanta **och delvis nya** situationer",
-      "2I planeringen utför eleven lastviktsberäkningar och viktfördelningar",
-      "2Eleven väljer också **med viss säkerhet** lastsäkringsmetod och planerar **efter samråd** med handledare färdväg utifrån lastbilens lastvikt och vägnätets bärighet",
-      "2Dessutom tar eleven ansvar för kundens egendom och för lastbil och utrustning",
-      "2Resultatet av elevens arbete är **tillfredsställande**",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+      [
+        "Eleven beskriver **utförligt** lagar och andra bestämmelser som reglerar yrkesmässiga godstransporter med vald lastbil",
+        "Eleven beskriver också **utförligt** rutiner vid lastning och leveranser samt metoder för vägning och mätning av gods",
+        "Dessutom beskriver eleven **utförligt** transportledningens funktion och rutiner för administration och fakturering"
+      ],
+      [
+        "Eleven planerar och genomför **efter samråd** med handledare godstransporter med vald lastbil",
+        "Eleven kör och manövrerar lastbilen på ett trafiksäkert sätt i vanligt förekommande **och ovanliga** trafiksituationer",
+        "I samband med olika transportuppdrag väljer eleven i bekanta **och delvis nya** situationer och **efter samråd** med handledare utrustning för lastsäkring",
+        "Eleven utför också funktionstillsyn och säkerhetskontroll",
+        "Dessutom hanterar eleven **med viss säkerhet olika typer av** utrustning i samband med lastning, lossning och leverans av gods"
+      ],
+      [
+        "Eleven planerar **efter samråd** med handledare transportuppdrag i bekanta **och delvis nya** situationer",
+        "I planeringen utför eleven lastviktsberäkningar och viktfördelningar",
+        "Eleven väljer också **med viss säkerhet** lastsäkringsmetod och planerar **efter samråd** med handledare färdväg utifrån lastbilens lastvikt och vägnätets bärighet",
+        "Dessutom tar eleven ansvar för kundens egendom och för lastbil och utrustning",
+        "Resultatet av elevens arbete är **tillfredsställande**"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav"
+      ]
     ],
     "A": [
-      "0Eleven beskriver **utförligt och nyanserat** lagar och andra bestämmelser som reglerar yrkesmässiga godstransporter med vald lastbil",
-      "0Eleven beskriver också **utförligt och nyanserat** rutiner vid lastning och leveranser samt metoder för vägning och mätning av gods",
-      "0Dessutom beskriver eleven **utförligt och nyanserat** transportledningens funktion och rutiner för administration och fakturering",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven planerar och genomför **efter samråd** med handledare **komplexa** godstransporter med vald lastbil",
-      "1Eleven kör och manövrerar lastbilen på ett trafiksäkert sätt i vanligt förekommande **och ovanliga, även avancerade**, trafiksituationer",
-      "1I samband med olika transportuppdrag väljer eleven i bekanta **och nya** situationer och **efter samråd** med handledare utrustning för lastsäkring",
-      "1Eleven utför också funktionstillsyn och säkerhetskontroll",
-      "1Dessutom hanterar eleven **med säkerhet olika typer av** utrustning i samband med lastning, lossning och leverans av gods",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven planerar **efter samråd** med handledare transportuppdrag i bekanta **och nya** situationer",
-      "2I planeringen utför eleven **avancerade** lastviktsberäkningar och viktfördelningar",
-      "2Eleven väljer också **med säkerhet** lastsäkringsmetod och planerar **efter samråd** med handledare färdväg utifrån lastbilens lastvikt och vägnätets bärighet",
-      "2Dessutom tar eleven ansvar för kundens egendom och för lastbil och utrustning",
-      "2Resultatet av elevens arbete är **gott**",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+      [
+        "Eleven beskriver **utförligt och nyanserat** lagar och andra bestämmelser som reglerar yrkesmässiga godstransporter med vald lastbil",
+        "Eleven beskriver också **utförligt och nyanserat** rutiner vid lastning och leveranser samt metoder för vägning och mätning av gods",
+        "Dessutom beskriver eleven **utförligt och nyanserat** transportledningens funktion och rutiner för administration och fakturering"
+      ],
+      [
+        "Eleven planerar och genomför **efter samråd** med handledare **komplexa** godstransporter med vald lastbil",
+        "Eleven kör och manövrerar lastbilen på ett trafiksäkert sätt i vanligt förekommande **och ovanliga, även avancerade**, trafiksituationer",
+        "I samband med olika transportuppdrag väljer eleven i bekanta **och nya** situationer och **efter samråd** med handledare utrustning för lastsäkring",
+        "Eleven utför också funktionstillsyn och säkerhetskontroll",
+        "Dessutom hanterar eleven **med säkerhet olika typer av** utrustning i samband med lastning, lossning och leverans av gods"
+      ],
+      [
+        "Eleven planerar **efter samråd** med handledare transportuppdrag i bekanta **och nya** situationer",
+        "I planeringen utför eleven **avancerade** lastviktsberäkningar och viktfördelningar",
+        "Eleven väljer också **med säkerhet** lastsäkringsmetod och planerar **efter samråd** med handledare färdväg utifrån lastbilens lastvikt och vägnätets bärighet",
+        "Dessutom tar eleven ansvar för kundens egendom och för lastbil och utrustning",
+        "Resultatet av elevens arbete är **gott**"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav"
+      ]
     ]
   }
 }

@@ -34,94 +34,115 @@
   },
   "knowledgeRequirements": {
     "E": [
-      "0Eleven beskriver **översiktligt** tekniska komponenter och deras funktioner i bromssystem och bromshjälpsystem",
-      "0Eleven redogör också **översiktligt** för konsekvenser av eftersatt underhåll",
-      "0Dessutom beskriver eleven **översiktligt** olika grenar av yrkesmässig trafik med dess förutsättningar",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven kör och manövrerar i bekanta situationer fordon på ett trafiksäkert och miljömedvetet sätt",
-      "1Eleven planerar och genomför **enkla** transportuppdrag samt redogör **översiktligt** för miljö- och säkerhetsaspekter vid transportuppdrag",
-      "1Eleven utför **i samråd** med handledare **enkel** dokumentation av uppdragen",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven utför **i samråd** med handledare säkerhetskontroll av transportfordon samt vidtar vid behov åtgärder som krävs ur trafiksäkerhetssynpunkt och motiverar dessa **översiktligt**",
-      "2Eleven följer **med viss säkerhet** körtidsregler samt registrerar körtiden enligt praxis",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3I arbetet beskriver eleven **översiktligt** några metoder för lastförankring",
-      "3Dessutom gör eleven, med **tillfredsställande** resultat, **enkla** lastviktsberäkningar för olika fordon utifrån givna förutsättningar samt värderar resultatet med **enkla** omdömen",
-      "3Eleven beskriver **översiktligt** hur last ska säkras samt ger **enkla** exempel på konsekvenser av felaktig lastsäkring",
-      "3Eleven väljer **med viss säkerhet** relevant utrustning och arbetsmetod",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION",
-      "4Eleven identifierar **med viss säkerhet** och beskriver **översiktligt** gods med speciella egenskaper, hur det ska hanteras och kravet på utbildning för att hantera det",
-      "4Eleven ger också **enkla** exempel på riskerna med denna hantering",
-      "4Dessutom beskriver eleven **översiktligt** hur man förebygger personskador vid godshantering och transporter, risker i arbetsmiljön och ger **i samråd** med handledare hjälp till skadade",
-      "4Eleven arbetar på ett ergonomiskt sätt för att förebygga arbetsskador",
-      "4THIS 4IS 4THE 4START 4OF 4SECTION",
-      "5Eleven tar ansvar för kundens egendom samt för fordon och utrustning",
-      "5Eleven redogör **översiktligt** för vad begreppet kvalitet innebär i branschen och för vikten av goda kundkontakter",
-      "5Dessutom samarbetar eleven med andra och anpassar **med viss säkerhet** bemötande och språk efter situation och mottagare",
-      "5Resultatet av elevens arbete är **tillfredsställande**",
-      "5THIS 5IS 5THE 5START 5OF 5SECTION",
-      "6När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
-      "6THIS 6IS 6THE 6START 6OF 6SECTION"
+      [
+        "Eleven beskriver **översiktligt** tekniska komponenter och deras funktioner i bromssystem och bromshjälpsystem",
+        "Eleven redogör också **översiktligt** för konsekvenser av eftersatt underhåll",
+        "Dessutom beskriver eleven **översiktligt** olika grenar av yrkesmässig trafik med dess förutsättningar"
+      ],
+      [
+        "Eleven kör och manövrerar i bekanta situationer fordon på ett trafiksäkert och miljömedvetet sätt",
+        "Eleven planerar och genomför **enkla** transportuppdrag samt redogör **översiktligt** för miljö- och säkerhetsaspekter vid transportuppdrag",
+        "Eleven utför **i samråd** med handledare **enkel** dokumentation av uppdragen"
+      ],
+      [
+        "Eleven utför **i samråd** med handledare säkerhetskontroll av transportfordon samt vidtar vid behov åtgärder som krävs ur trafiksäkerhetssynpunkt och motiverar dessa **översiktligt**",
+        "Eleven följer **med viss säkerhet** körtidsregler samt registrerar körtiden enligt praxis"
+      ],
+      [
+        "I arbetet beskriver eleven **översiktligt** några metoder för lastförankring",
+        "Dessutom gör eleven, med **tillfredsställande** resultat, **enkla** lastviktsberäkningar för olika fordon utifrån givna förutsättningar samt värderar resultatet med **enkla** omdömen",
+        "Eleven beskriver **översiktligt** hur last ska säkras samt ger **enkla** exempel på konsekvenser av felaktig lastsäkring",
+        "Eleven väljer **med viss säkerhet** relevant utrustning och arbetsmetod"
+      ],
+      [
+        "Eleven identifierar **med viss säkerhet** och beskriver **översiktligt** gods med speciella egenskaper, hur det ska hanteras och kravet på utbildning för att hantera det",
+        "Eleven ger också **enkla** exempel på riskerna med denna hantering",
+        "Dessutom beskriver eleven **översiktligt** hur man förebygger personskador vid godshantering och transporter, risker i arbetsmiljön och ger **i samråd** med handledare hjälp till skadade",
+        "Eleven arbetar på ett ergonomiskt sätt för att förebygga arbetsskador"
+      ],
+      [
+        "Eleven tar ansvar för kundens egendom samt för fordon och utrustning",
+        "Eleven redogör **översiktligt** för vad begreppet kvalitet innebär i branschen och för vikten av goda kundkontakter",
+        "Dessutom samarbetar eleven med andra och anpassar **med viss säkerhet** bemötande och språk efter situation och mottagare",
+        "Resultatet av elevens arbete är **tillfredsställande**"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav"
+      ]
     ],
     "C": [
-      "0Eleven beskriver **utförligt** tekniska komponenter och deras funktioner i bromssystem och bromshjälpsystem",
-      "0Eleven redogör också **utförligt** för konsekvenser av eftersatt underhåll",
-      "0Dessutom beskriver eleven **utförligt** olika grenar av yrkesmässig trafik med dess förutsättningar",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven kör och manövrerar i bekanta **och delvis nya** situationer fordon på ett trafiksäkert och miljömedvetet sätt",
-      "1Eleven planerar och genomför transportuppdrag samt redogör **utförligt** för miljö- och säkerhetsaspekter vid transportuppdrag",
-      "1Eleven utför **efter samråd** med handledare **noggrann** dokumentation av uppdragen",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven utför **efter samråd** med handledare säkerhetskontroll av transportfordon samt vidtar vid behov åtgärder som krävs ur trafiksäkerhetssynpunkt och motiverar dessa **utförligt**",
-      "2Eleven följer **med viss säkerhet** körtidsregler samt registrerar körtiden enligt praxis",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3I arbetet beskriver eleven **utförligt** några metoder för lastförankring",
-      "3Dessutom gör eleven, med **tillfredsställande** resultat, lastviktsberäkningar för olika fordon utifrån givna förutsättningar samt värderar resultatet med **nyanserade** omdömen",
-      "3Eleven beskriver **utförligt** hur last ska säkras samt ger **välgrundade** exempel på konsekvenser av felaktig lastsäkring",
-      "3Eleven väljer **med viss säkerhet** relevant utrustning och arbetsmetod",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION",
-      "4Eleven identifierar **med viss säkerhet** och beskriver **utförligt** gods med speciella egenskaper, hur det ska hanteras och kravet på utbildning för att hantera det",
-      "4Eleven ger också **välgrundade** exempel på riskerna med denna hantering",
-      "4Dessutom beskriver eleven **utförligt** hur man förebygger personskador vid godshantering och transporter, risker i arbetsmiljön och ger **efter samråd** med handledare hjälp till skadade",
-      "4Eleven arbetar på ett ergonomiskt sätt för att förebygga arbetsskador",
-      "4THIS 4IS 4THE 4START 4OF 4SECTION",
-      "5Eleven tar ansvar för kundens egendom samt för fordon och utrustning",
-      "5Eleven redogör **utförligt** för vad begreppet kvalitet innebär i branschen och för vikten av goda kundkontakter",
-      "5Dessutom samarbetar eleven med andra och anpassar **med viss säkerhet** bemötande och språk efter situation och mottagare",
-      "5Resultatet av elevens arbete är **tillfredsställande**",
-      "5THIS 5IS 5THE 5START 5OF 5SECTION",
-      "6När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
-      "6THIS 6IS 6THE 6START 6OF 6SECTION"
+      [
+        "Eleven beskriver **utförligt** tekniska komponenter och deras funktioner i bromssystem och bromshjälpsystem",
+        "Eleven redogör också **utförligt** för konsekvenser av eftersatt underhåll",
+        "Dessutom beskriver eleven **utförligt** olika grenar av yrkesmässig trafik med dess förutsättningar"
+      ],
+      [
+        "Eleven kör och manövrerar i bekanta **och delvis nya** situationer fordon på ett trafiksäkert och miljömedvetet sätt",
+        "Eleven planerar och genomför transportuppdrag samt redogör **utförligt** för miljö- och säkerhetsaspekter vid transportuppdrag",
+        "Eleven utför **efter samråd** med handledare **noggrann** dokumentation av uppdragen"
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare säkerhetskontroll av transportfordon samt vidtar vid behov åtgärder som krävs ur trafiksäkerhetssynpunkt och motiverar dessa **utförligt**",
+        "Eleven följer **med viss säkerhet** körtidsregler samt registrerar körtiden enligt praxis"
+      ],
+      [
+        "I arbetet beskriver eleven **utförligt** några metoder för lastförankring",
+        "Dessutom gör eleven, med **tillfredsställande** resultat, lastviktsberäkningar för olika fordon utifrån givna förutsättningar samt värderar resultatet med **nyanserade** omdömen",
+        "Eleven beskriver **utförligt** hur last ska säkras samt ger **välgrundade** exempel på konsekvenser av felaktig lastsäkring",
+        "Eleven väljer **med viss säkerhet** relevant utrustning och arbetsmetod"
+      ],
+      [
+        "Eleven identifierar **med viss säkerhet** och beskriver **utförligt** gods med speciella egenskaper, hur det ska hanteras och kravet på utbildning för att hantera det",
+        "Eleven ger också **välgrundade** exempel på riskerna med denna hantering",
+        "Dessutom beskriver eleven **utförligt** hur man förebygger personskador vid godshantering och transporter, risker i arbetsmiljön och ger **efter samråd** med handledare hjälp till skadade",
+        "Eleven arbetar på ett ergonomiskt sätt för att förebygga arbetsskador"
+      ],
+      [
+        "Eleven tar ansvar för kundens egendom samt för fordon och utrustning",
+        "Eleven redogör **utförligt** för vad begreppet kvalitet innebär i branschen och för vikten av goda kundkontakter",
+        "Dessutom samarbetar eleven med andra och anpassar **med viss säkerhet** bemötande och språk efter situation och mottagare",
+        "Resultatet av elevens arbete är **tillfredsställande**"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav"
+      ]
     ],
     "A": [
-      "0Eleven beskriver **utförligt och nyanserat** tekniska komponenter och deras funktioner i bromssystem och bromshjälpsystem",
-      "0Eleven redogör också **utförligt och nyanserat** för konsekvenser av eftersatt underhåll",
-      "0Dessutom beskriver eleven **utförligt och nyanserat** olika grenar av yrkesmässig trafik med dess förutsättningar",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven kör och manövrerar i bekanta **och nya** situationer fordon på ett trafiksäkert och miljömedvetet sätt",
-      "1Eleven planerar och genomför transportuppdrag samt redogör **utförligt och nyanserat** för miljö- och säkerhetsaspekter vid transportuppdrag",
-      "1Eleven utför **efter samråd** med handledare **noggrann och utförlig** dokumentation av uppdragen",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven utför **efter samråd** med handledare säkerhetskontroll av transportfordon samt vidtar vid behov åtgärder som krävs ur trafiksäkerhetssynpunkt och motiverar dessa **utförligt och nyanserat**",
-      "2Eleven följer **med säkerhet** körtidsregler samt registrerar körtiden enligt praxis",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3I arbetet beskriver eleven **utförligt och nyanserat** några metoder för lastförankring",
-      "3Dessutom gör eleven, med **gott** resultat, lastviktsberäkningar för olika fordon utifrån givna förutsättningar samt värderar resultatet med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**",
-      "3Eleven beskriver **utförligt och nyanserat** hur last ska säkras samt ger **välgrundade och nyanserade** exempel på konsekvenser av felaktig lastsäkring",
-      "3Eleven väljer **med säkerhet** relevant utrustning och arbetsmetod",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION",
-      "4Eleven identifierar **med säkerhet** och beskriver **utförligt och nyanserat** gods med speciella egenskaper, hur det ska hanteras och kravet på utbildning för att hantera det",
-      "4Eleven ger också **välgrundade och nyanserade** exempel på riskerna med denna hantering",
-      "4Dessutom beskriver eleven **utförligt och nyanserat** hur man förebygger personskador vid godshantering och transporter, risker i arbetsmiljön och ger **efter samråd** med handledare hjälp till skadade",
-      "4Eleven arbetar på ett ergonomiskt sätt för att förebygga arbetsskador",
-      "4THIS 4IS 4THE 4START 4OF 4SECTION",
-      "5Eleven tar ansvar för kundens egendom samt för fordon och utrustning",
-      "5Eleven redogör **utförligt och nyanserat** för vad begreppet kvalitet innebär i branschen och för vikten av goda kundkontakter",
-      "5Dessutom samarbetar eleven med andra och anpassar **med säkerhet** bemötande och språk efter situation och mottagare",
-      "5Resultatet av elevens arbete är **gott**",
-      "5THIS 5IS 5THE 5START 5OF 5SECTION",
-      "6När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
-      "6THIS 6IS 6THE 6START 6OF 6SECTION"
+      [
+        "Eleven beskriver **utförligt och nyanserat** tekniska komponenter och deras funktioner i bromssystem och bromshjälpsystem",
+        "Eleven redogör också **utförligt och nyanserat** för konsekvenser av eftersatt underhåll",
+        "Dessutom beskriver eleven **utförligt och nyanserat** olika grenar av yrkesmässig trafik med dess förutsättningar"
+      ],
+      [
+        "Eleven kör och manövrerar i bekanta **och nya** situationer fordon på ett trafiksäkert och miljömedvetet sätt",
+        "Eleven planerar och genomför transportuppdrag samt redogör **utförligt och nyanserat** för miljö- och säkerhetsaspekter vid transportuppdrag",
+        "Eleven utför **efter samråd** med handledare **noggrann och utförlig** dokumentation av uppdragen"
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare säkerhetskontroll av transportfordon samt vidtar vid behov åtgärder som krävs ur trafiksäkerhetssynpunkt och motiverar dessa **utförligt och nyanserat**",
+        "Eleven följer **med säkerhet** körtidsregler samt registrerar körtiden enligt praxis"
+      ],
+      [
+        "I arbetet beskriver eleven **utförligt och nyanserat** några metoder för lastförankring",
+        "Dessutom gör eleven, med **gott** resultat, lastviktsberäkningar för olika fordon utifrån givna förutsättningar samt värderar resultatet med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**",
+        "Eleven beskriver **utförligt och nyanserat** hur last ska säkras samt ger **välgrundade och nyanserade** exempel på konsekvenser av felaktig lastsäkring",
+        "Eleven väljer **med säkerhet** relevant utrustning och arbetsmetod"
+      ],
+      [
+        "Eleven identifierar **med säkerhet** och beskriver **utförligt och nyanserat** gods med speciella egenskaper, hur det ska hanteras och kravet på utbildning för att hantera det",
+        "Eleven ger också **välgrundade och nyanserade** exempel på riskerna med denna hantering",
+        "Dessutom beskriver eleven **utförligt och nyanserat** hur man förebygger personskador vid godshantering och transporter, risker i arbetsmiljön och ger **efter samråd** med handledare hjälp till skadade",
+        "Eleven arbetar på ett ergonomiskt sätt för att förebygga arbetsskador"
+      ],
+      [
+        "Eleven tar ansvar för kundens egendom samt för fordon och utrustning",
+        "Eleven redogör **utförligt och nyanserat** för vad begreppet kvalitet innebär i branschen och för vikten av goda kundkontakter",
+        "Dessutom samarbetar eleven med andra och anpassar **med säkerhet** bemötande och språk efter situation och mottagare",
+        "Resultatet av elevens arbete är **gott**"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav"
+      ]
     ]
   }
 }

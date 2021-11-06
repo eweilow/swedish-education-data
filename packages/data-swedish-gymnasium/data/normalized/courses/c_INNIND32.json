@@ -31,40 +31,52 @@
   },
   "knowledgeRequirements": {
     "E": [
-      "0Eleven läser och tolkar **med säkerhet** produktionsunderlag och genomför **efter samråd** med handledare ett producerande arbete inom vald industriell produktionsmetod",
-      "0Eleven resonerar **övergripande** om olika moderna produktionsmetoder och deras användningsområden",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven planerar, bereder och organiserar **efter samråd** med handledare en industriell produktionsmetod och redogör **övergripande** för hur olika metoder kombineras till en produktionslinje för en produkt",
-      "1Eleven kan **med säkerhet** planera och organisera programmering, simulering, testning och optimering av datorstyrd produktionsutrustning",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven redogör för gällande arbetsmiljölagar, säkerhetsrisker, hur risker minimeras och gör **efter samråd** med handledare en riskanalys",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven redogör **övergripande** för olika metoder och arbetssätt, löser **efter samråd** med handledare produktionstekniska problem och föreslår **med säkerhet** förbättringar inom vald produktionsmetod",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+      [
+        "Eleven läser och tolkar **med säkerhet** produktionsunderlag och genomför **efter samråd** med handledare ett producerande arbete inom vald industriell produktionsmetod",
+        "Eleven resonerar **övergripande** om olika moderna produktionsmetoder och deras användningsområden"
+      ],
+      [
+        "Eleven planerar, bereder och organiserar **efter samråd** med handledare en industriell produktionsmetod och redogör **övergripande** för hur olika metoder kombineras till en produktionslinje för en produkt",
+        "Eleven kan **med säkerhet** planera och organisera programmering, simulering, testning och optimering av datorstyrd produktionsutrustning"
+      ],
+      [
+        "Eleven redogör för gällande arbetsmiljölagar, säkerhetsrisker, hur risker minimeras och gör **efter samråd** med handledare en riskanalys"
+      ],
+      [
+        "Eleven redogör **övergripande** för olika metoder och arbetssätt, löser **efter samråd** med handledare produktionstekniska problem och föreslår **med säkerhet** förbättringar inom vald produktionsmetod"
+      ]
     ],
     "C": [
-      "0Eleven läser och tolkar **med god säkerhet** produktionsunderlag och genomför **självständigt efter samråd** med handledare ett producerande arbete inom vald industriell produktionsmetod",
-      "0Eleven resonerar **utförligt** för olika moderna produktionsmetoder och deras användningsområden",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven planerar, bereder och organiserar **självständigt efter samråd** med handledare en industriell produktionsmetod och redogör **utförligt** för hur olika metoder kombineras till en produktionslinje för en produkt",
-      "1Eleven kan **med god säkerhet** planera och organisera programmering, simulering, testning och optimering av datorstyrd produktionsutrustning",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven redogör för gällande arbetsmiljölagar, säkerhetsrisker, hur risker minimeras och kan **självständigt efter samråd** med handledare göra en riskanalys",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven redogör **utförligt** för olika metoder och arbetssätt, löser **självständigt efter samråd** med handledare produktionstekniska problem och föreslår **med god säkerhet** förbättringar inom vald produktionsmetod",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+      [
+        "Eleven läser och tolkar **med god säkerhet** produktionsunderlag och genomför **självständigt efter samråd** med handledare ett producerande arbete inom vald industriell produktionsmetod",
+        "Eleven resonerar **utförligt** för olika moderna produktionsmetoder och deras användningsområden"
+      ],
+      [
+        "Eleven planerar, bereder och organiserar **självständigt efter samråd** med handledare en industriell produktionsmetod och redogör **utförligt** för hur olika metoder kombineras till en produktionslinje för en produkt",
+        "Eleven kan **med god säkerhet** planera och organisera programmering, simulering, testning och optimering av datorstyrd produktionsutrustning"
+      ],
+      [
+        "Eleven redogör för gällande arbetsmiljölagar, säkerhetsrisker, hur risker minimeras och kan **självständigt efter samråd** med handledare göra en riskanalys"
+      ],
+      [
+        "Eleven redogör **utförligt** för olika metoder och arbetssätt, löser **självständigt efter samråd** med handledare produktionstekniska problem och föreslår **med god säkerhet** förbättringar inom vald produktionsmetod"
+      ]
     ],
     "A": [
-      "0Eleven läser och tolkar **med mycket god säkerhet** produktionsunderlag och genomför **självständigt** ett producerande arbete inom vald industriell produktionsmetod",
-      "0Eleven resonerar **utförligt och nyanserat** för olika moderna produktionsmetoder och deras användningsområden",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven planerar, bereder och organiserar **självständigt** en industriell produktionsmetod och redogör **utförligt och nyanserat** för hur olika metoder kombineras till en produktionslinje för en produkt",
-      "1Eleven kan **med mycket god säkerhet** planera och organisera programmering, simulering, testning och optimering av datorstyrd produktionsutrustning",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven redogör för gällande arbetsmiljölagar, säkerhetsrisker, hur risker minimeras och kan **självständigt** göra en riskanalys",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven redogör **utförligt och nyanserat** för olika metoder och arbetssätt, löser **självständigt** produktionstekniska problem och föreslår **med mycket god säkerhet** förbättringar inom vald produktionsmetod",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+      [
+        "Eleven läser och tolkar **med mycket god säkerhet** produktionsunderlag och genomför **självständigt** ett producerande arbete inom vald industriell produktionsmetod",
+        "Eleven resonerar **utförligt och nyanserat** för olika moderna produktionsmetoder och deras användningsområden"
+      ],
+      [
+        "Eleven planerar, bereder och organiserar **självständigt** en industriell produktionsmetod och redogör **utförligt och nyanserat** för hur olika metoder kombineras till en produktionslinje för en produkt",
+        "Eleven kan **med mycket god säkerhet** planera och organisera programmering, simulering, testning och optimering av datorstyrd produktionsutrustning"
+      ],
+      [
+        "Eleven redogör för gällande arbetsmiljölagar, säkerhetsrisker, hur risker minimeras och kan **självständigt** göra en riskanalys"
+      ],
+      [
+        "Eleven redogör **utförligt och nyanserat** för olika metoder och arbetssätt, löser **självständigt** produktionstekniska problem och föreslår **med mycket god säkerhet** förbättringar inom vald produktionsmetod"
+      ]
     ]
   }
 }

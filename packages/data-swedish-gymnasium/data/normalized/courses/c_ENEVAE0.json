@@ -31,55 +31,73 @@
   },
   "knowledgeRequirements": {
     "E": [
-      "0Eleven redogör **översiktligt** för delprocesser i tillverkningsprocesserna",
-      "0Dessutom redogör eleven **översiktligt** för uppbyggnad, funktion och principer hos olika energitekniska systemlösningar",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven utför med **visst** handlag och **i samråd** med handledare **enkla** provtagningar och analyser och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö",
-      "1I arbetet löser eleven **med viss säkerhet enkla** fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven använder och vårdar **i samråd** med handledare material och verktyg, samt hanterar kemikalier, enligt instruktioner och arbetsbeskrivningar",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven dokumenterar **med viss säkerhet** sitt arbete och utvärderar det med **enkla** omdömen",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION",
-      "4I arbetet samverkar eleven med andra och använder ett **enkelt** fackspråk som fungerar för arbetsuppgiften",
-      "4Arbetet utförs i enlighet med lagar och andra bestämmelser",
-      "4THIS 4IS 4THE 4START 4OF 4SECTION",
-      "5När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
-      "5THIS 5IS 5THE 5START 5OF 5SECTION"
+      [
+        "Eleven redogör **översiktligt** för delprocesser i tillverkningsprocesserna",
+        "Dessutom redogör eleven **översiktligt** för uppbyggnad, funktion och principer hos olika energitekniska systemlösningar"
+      ],
+      [
+        "Eleven utför med **visst** handlag och **i samråd** med handledare **enkla** provtagningar och analyser och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö",
+        "I arbetet löser eleven **med viss säkerhet enkla** fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete"
+      ],
+      [
+        "Eleven använder och vårdar **i samråd** med handledare material och verktyg, samt hanterar kemikalier, enligt instruktioner och arbetsbeskrivningar"
+      ],
+      [
+        "Eleven dokumenterar **med viss säkerhet** sitt arbete och utvärderar det med **enkla** omdömen"
+      ],
+      [
+        "I arbetet samverkar eleven med andra och använder ett **enkelt** fackspråk som fungerar för arbetsuppgiften",
+        "Arbetet utförs i enlighet med lagar och andra bestämmelser"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav"
+      ]
     ],
     "C": [
-      "0Eleven redogör **utförligt** för delprocesser i tillverkningsprocesserna",
-      "0Dessutom redogör eleven **utförligt** för uppbyggnad, funktion och principer hos olika energitekniska systemlösningar",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven utför med **gott** handlag och **efter samråd** med handledare provtagningar och analyser och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö",
-      "1I arbetet löser eleven **ansvarsfullt och med viss säkerhet** fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven använder och vårdar **efter samråd** med handledare material och verktyg, samt hanterar kemikalier, enligt instruktioner och arbetsbeskrivningar",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven dokumenterar **med säkerhet** sitt arbete och utvärderar det med **enkla** omdömen",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION",
-      "4I arbetet samverkar eleven med andra och använder ett **nyanserat** fackspråk som fungerar för arbetsuppgiften",
-      "4Arbetet utförs i enlighet med lagar och andra bestämmelser",
-      "4THIS 4IS 4THE 4START 4OF 4SECTION",
-      "5När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
-      "5THIS 5IS 5THE 5START 5OF 5SECTION"
+      [
+        "Eleven redogör **utförligt** för delprocesser i tillverkningsprocesserna",
+        "Dessutom redogör eleven **utförligt** för uppbyggnad, funktion och principer hos olika energitekniska systemlösningar"
+      ],
+      [
+        "Eleven utför med **gott** handlag och **efter samråd** med handledare provtagningar och analyser och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö",
+        "I arbetet löser eleven **ansvarsfullt och med viss säkerhet** fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete"
+      ],
+      [
+        "Eleven använder och vårdar **efter samråd** med handledare material och verktyg, samt hanterar kemikalier, enligt instruktioner och arbetsbeskrivningar"
+      ],
+      [
+        "Eleven dokumenterar **med säkerhet** sitt arbete och utvärderar det med **enkla** omdömen"
+      ],
+      [
+        "I arbetet samverkar eleven med andra och använder ett **nyanserat** fackspråk som fungerar för arbetsuppgiften",
+        "Arbetet utförs i enlighet med lagar och andra bestämmelser"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav"
+      ]
     ],
     "A": [
-      "0Eleven redogör **utförligt och nyanserat** för avancerade delprocesser i tillverkningsprocesserna",
-      "0Dessutom redogör eleven **utförligt och nyanserat** för uppbyggnad, funktion och principer hos olika energitekniska systemlösningar",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven utför med **mycket gott** handlag och **efter samråd** med handledare avancerade provtagningar och analyser och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö",
-      "1I arbetet löser eleven, **ansvarsfullt och med säkerhet, komplexa** fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven använder och vårdar **efter samråd** med handledare material och verktyg, samt hanterar kemikalier, enligt instruktioner och arbetsbeskrivningar",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven dokumenterar **med säkerhet** sitt arbete och utvärderar det med **nyanserade** omdömen",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION",
-      "4I arbetet samverkar eleven med andra och använder ett **nyanserat** fackspråk som **är anpassat till mottagaren och** fungerar för arbetsuppgiften",
-      "4Arbetet utförs i enlighet med lagar och andra bestämmelser",
-      "4THIS 4IS 4THE 4START 4OF 4SECTION",
-      "5När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
-      "5THIS 5IS 5THE 5START 5OF 5SECTION"
+      [
+        "Eleven redogör **utförligt och nyanserat** för avancerade delprocesser i tillverkningsprocesserna",
+        "Dessutom redogör eleven **utförligt och nyanserat** för uppbyggnad, funktion och principer hos olika energitekniska systemlösningar"
+      ],
+      [
+        "Eleven utför med **mycket gott** handlag och **efter samråd** med handledare avancerade provtagningar och analyser och uppnår ett resultat som uppfyller fastställda krav på säkerhet, kvalitet och miljö",
+        "I arbetet löser eleven, **ansvarsfullt och med säkerhet, komplexa** fysikaliska och vattenkemiska problem, genom beräkningar och laborativt arbete"
+      ],
+      [
+        "Eleven använder och vårdar **efter samråd** med handledare material och verktyg, samt hanterar kemikalier, enligt instruktioner och arbetsbeskrivningar"
+      ],
+      [
+        "Eleven dokumenterar **med säkerhet** sitt arbete och utvärderar det med **nyanserade** omdömen"
+      ],
+      [
+        "I arbetet samverkar eleven med andra och använder ett **nyanserat** fackspråk som **är anpassat till mottagaren och** fungerar för arbetsuppgiften",
+        "Arbetet utförs i enlighet med lagar och andra bestämmelser"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav"
+      ]
     ]
   }
 }

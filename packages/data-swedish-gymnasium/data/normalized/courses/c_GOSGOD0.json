@@ -26,76 +26,94 @@
   },
   "knowledgeRequirements": {
     "E": [
-      "0Eleven beskriver **översiktligt** några användningsområden för olika lastbilskonstruktioner",
-      "0Dessutom beskriver eleven **översiktligt** några godstransporter som kräver dispensansökan för att kunna genomföras samt tillvägagångssättet för att genomföra sådana godstransporter",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven planerar **i samråd** med handledare godstransporter i bekanta trafikmiljöer",
-      "1I planeringen väljer eleven **med viss säkerhet** lämplig lastbil inför transportuppdraget samt utför i bekanta situationer funktionstillsyn och säkerhetskontroll med val av arbetsmetod och tillvägagångssätt",
-      "1Eleven färdigställer och förbereder i bekanta situationer lastbilen med utrustning inför lastning av gods samt utför **i samråd** med handledare **enkla** lastviktsberäkningar och viktfördelningar",
-      "1Dessutom väljer eleven i bekanta situationer lämplig lastsäkringsmetod",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven genomför **i samråd** med handledare godstransporter i bekanta trafikmiljöer",
-      "2I arbetet följer eleven de regler som styr yrkesmässiga godstransporter",
-      "2Dessutom planerar eleven **i samråd** med handledare färdväg utifrån lastbilens lastvikt",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven kör och manövrerar lastbilen med last på ett säkert och miljövänligt sätt i bekanta trafikmiljöer",
-      "3I körningen använder eleven i bekanta situationer funktioner på lastbilen som ökar framkomligheten i olika trafiksituationer och i skiftande väglag",
-      "3Dessutom hanterar eleven **med viss säkerhet** i bekanta situationer utrustning i samband med lossning och leverans av gods",
-      "3Eleven tar ansvar för kundens egendom samt för lastbil och utrustning",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION",
-      "4Eleven samarbetar för att nå planerade resultat samt kommunicerar **med viss säkerhet** med medarbetare och kunder",
-      "4Resultatet av elevens arbete är **tillfredsställande**",
-      "4THIS 4IS 4THE 4START 4OF 4SECTION",
-      "5När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
-      "5THIS 5IS 5THE 5START 5OF 5SECTION"
+      [
+        "Eleven beskriver **översiktligt** några användningsområden för olika lastbilskonstruktioner",
+        "Dessutom beskriver eleven **översiktligt** några godstransporter som kräver dispensansökan för att kunna genomföras samt tillvägagångssättet för att genomföra sådana godstransporter"
+      ],
+      [
+        "Eleven planerar **i samråd** med handledare godstransporter i bekanta trafikmiljöer",
+        "I planeringen väljer eleven **med viss säkerhet** lämplig lastbil inför transportuppdraget samt utför i bekanta situationer funktionstillsyn och säkerhetskontroll med val av arbetsmetod och tillvägagångssätt",
+        "Eleven färdigställer och förbereder i bekanta situationer lastbilen med utrustning inför lastning av gods samt utför **i samråd** med handledare **enkla** lastviktsberäkningar och viktfördelningar",
+        "Dessutom väljer eleven i bekanta situationer lämplig lastsäkringsmetod"
+      ],
+      [
+        "Eleven genomför **i samråd** med handledare godstransporter i bekanta trafikmiljöer",
+        "I arbetet följer eleven de regler som styr yrkesmässiga godstransporter",
+        "Dessutom planerar eleven **i samråd** med handledare färdväg utifrån lastbilens lastvikt"
+      ],
+      [
+        "Eleven kör och manövrerar lastbilen med last på ett säkert och miljövänligt sätt i bekanta trafikmiljöer",
+        "I körningen använder eleven i bekanta situationer funktioner på lastbilen som ökar framkomligheten i olika trafiksituationer och i skiftande väglag",
+        "Dessutom hanterar eleven **med viss säkerhet** i bekanta situationer utrustning i samband med lossning och leverans av gods",
+        "Eleven tar ansvar för kundens egendom samt för lastbil och utrustning"
+      ],
+      [
+        "Eleven samarbetar för att nå planerade resultat samt kommunicerar **med viss säkerhet** med medarbetare och kunder",
+        "Resultatet av elevens arbete är **tillfredsställande**"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav"
+      ]
     ],
     "C": [
-      "0Eleven beskriver **utförligt** några användningsområden för olika lastbilskonstruktioner",
-      "0Dessutom beskriver eleven **utförligt** några godstransporter som kräver dispensansökan för att kunna genomföras samt tillvägagångssättet för att genomföra sådana godstransporter",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven planerar **efter samråd** med handledare godstransporter i bekanta **och delvis nya** trafikmiljöer",
-      "1I planeringen väljer eleven **med viss säkerhet** lämplig lastbil inför transportuppdraget samt utför i bekanta **och delvis nya** situationer funktionstillsyn och säkerhetskontroll med val av arbetsmetod och tillvägagångssätt",
-      "1Eleven färdigställer och förbereder i bekanta **och delvis nya** situationer lastbilen med utrustning inför lastning av gods samt utför **efter samråd** med handledare lastviktsberäkningar och viktfördelningar",
-      "1Dessutom väljer eleven i bekanta **och delvis nya** situationer lämplig lastsäkringsmetod",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven genomför **efter samråd** med handledare godstransporter i bekanta **och delvis nya** trafikmiljöer",
-      "2I arbetet följer eleven de regler som styr yrkesmässiga godstransporter",
-      "2Dessutom planerar eleven **efter samråd** med handledare färdväg utifrån lastbilens lastvikt",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven kör och manövrerar lastbilen med last på ett säkert och miljövänligt sätt i bekanta **och delvis nya** trafikmiljöer",
-      "3I körningen använder eleven i bekanta **och delvis nya** situationer funktioner på lastbilen som ökar framkomligheten i olika trafiksituationer och i skiftande väglag",
-      "3Dessutom hanterar eleven **med viss säkerhet** i bekanta **och delvis nya** situationer utrustning i samband med lossning och leverans av gods",
-      "3Eleven tar ansvar för kundens egendom samt för lastbil och utrustning",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION",
-      "4Eleven samarbetar **och medverkar till att upprätthålla samarbetet** för att nå planerade resultat samt kommunicerar **med viss säkerhet** med medarbetare och kunder",
-      "4Resultatet av elevens arbete är **tillfredsställande**",
-      "4THIS 4IS 4THE 4START 4OF 4SECTION",
-      "5När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
-      "5THIS 5IS 5THE 5START 5OF 5SECTION"
+      [
+        "Eleven beskriver **utförligt** några användningsområden för olika lastbilskonstruktioner",
+        "Dessutom beskriver eleven **utförligt** några godstransporter som kräver dispensansökan för att kunna genomföras samt tillvägagångssättet för att genomföra sådana godstransporter"
+      ],
+      [
+        "Eleven planerar **efter samråd** med handledare godstransporter i bekanta **och delvis nya** trafikmiljöer",
+        "I planeringen väljer eleven **med viss säkerhet** lämplig lastbil inför transportuppdraget samt utför i bekanta **och delvis nya** situationer funktionstillsyn och säkerhetskontroll med val av arbetsmetod och tillvägagångssätt",
+        "Eleven färdigställer och förbereder i bekanta **och delvis nya** situationer lastbilen med utrustning inför lastning av gods samt utför **efter samråd** med handledare lastviktsberäkningar och viktfördelningar",
+        "Dessutom väljer eleven i bekanta **och delvis nya** situationer lämplig lastsäkringsmetod"
+      ],
+      [
+        "Eleven genomför **efter samråd** med handledare godstransporter i bekanta **och delvis nya** trafikmiljöer",
+        "I arbetet följer eleven de regler som styr yrkesmässiga godstransporter",
+        "Dessutom planerar eleven **efter samråd** med handledare färdväg utifrån lastbilens lastvikt"
+      ],
+      [
+        "Eleven kör och manövrerar lastbilen med last på ett säkert och miljövänligt sätt i bekanta **och delvis nya** trafikmiljöer",
+        "I körningen använder eleven i bekanta **och delvis nya** situationer funktioner på lastbilen som ökar framkomligheten i olika trafiksituationer och i skiftande väglag",
+        "Dessutom hanterar eleven **med viss säkerhet** i bekanta **och delvis nya** situationer utrustning i samband med lossning och leverans av gods",
+        "Eleven tar ansvar för kundens egendom samt för lastbil och utrustning"
+      ],
+      [
+        "Eleven samarbetar **och medverkar till att upprätthålla samarbetet** för att nå planerade resultat samt kommunicerar **med viss säkerhet** med medarbetare och kunder",
+        "Resultatet av elevens arbete är **tillfredsställande**"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav"
+      ]
     ],
     "A": [
-      "0Eleven beskriver **utförligt och nyanserat** några användningsområden för olika lastbilskonstruktioner",
-      "0Dessutom beskriver eleven **utförligt och nyanserat** några godstransporter som kräver dispensansökan för att kunna genomföras samt tillvägagångssättet för att genomföra sådana godstransporter",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven planerar **efter samråd** med handledare godstransporter i bekanta **och nya** trafikmiljöer",
-      "1I planeringen väljer eleven **med säkerhet** lämplig lastbil inför transportuppdraget samt utför i bekanta **och nya** situationer funktionstillsyn och säkerhetskontroll med val av arbetsmetod och tillvägagångssätt",
-      "1Eleven färdigställer och förbereder i bekanta **och nya** situationer lastbilen med utrustning inför lastning av gods samt utför **efter samråd** med handledare **avancerade** lastviktsberäkningar och viktfördelningar",
-      "1Dessutom väljer eleven i bekanta **och nya** situationer lämplig lastsäkringsmetod",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven genomför **efter samråd** med handledare godstransporter i bekanta **och nya komplexa** trafikmiljöer",
-      "2I arbetet följer eleven de regler som styr yrkesmässiga godstransporter",
-      "2Dessutom planerar eleven **efter samråd** med handledare färdväg utifrån lastbilens lastvikt",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven kör och manövrerar lastbilen med last på ett säkert och miljövänligt sätt i bekanta **och nya** trafikmiljöer",
-      "3I körningen använder eleven i bekanta **och nya** situationer funktioner på lastbilen som ökar framkomligheten i olika trafiksituationer och i skiftande väglag",
-      "3Dessutom hanterar eleven **med säkerhet** i bekanta **och nya** situationer utrustning i samband med lossning och leverans av gods",
-      "3Eleven tar ansvar för kundens egendom samt för lastbil och utrustning",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION",
-      "4Eleven samarbetar **och medverkar till att upprätthålla och utveckla samarbetet** för att nå planerade resultat samt kommunicerar **med viss säkerhet** med medarbetare och kunder",
-      "4Resultatet av elevens arbete är **gott**",
-      "4THIS 4IS 4THE 4START 4OF 4SECTION",
-      "5När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
-      "5THIS 5IS 5THE 5START 5OF 5SECTION"
+      [
+        "Eleven beskriver **utförligt och nyanserat** några användningsområden för olika lastbilskonstruktioner",
+        "Dessutom beskriver eleven **utförligt och nyanserat** några godstransporter som kräver dispensansökan för att kunna genomföras samt tillvägagångssättet för att genomföra sådana godstransporter"
+      ],
+      [
+        "Eleven planerar **efter samråd** med handledare godstransporter i bekanta **och nya** trafikmiljöer",
+        "I planeringen väljer eleven **med säkerhet** lämplig lastbil inför transportuppdraget samt utför i bekanta **och nya** situationer funktionstillsyn och säkerhetskontroll med val av arbetsmetod och tillvägagångssätt",
+        "Eleven färdigställer och förbereder i bekanta **och nya** situationer lastbilen med utrustning inför lastning av gods samt utför **efter samråd** med handledare **avancerade** lastviktsberäkningar och viktfördelningar",
+        "Dessutom väljer eleven i bekanta **och nya** situationer lämplig lastsäkringsmetod"
+      ],
+      [
+        "Eleven genomför **efter samråd** med handledare godstransporter i bekanta **och nya komplexa** trafikmiljöer",
+        "I arbetet följer eleven de regler som styr yrkesmässiga godstransporter",
+        "Dessutom planerar eleven **efter samråd** med handledare färdväg utifrån lastbilens lastvikt"
+      ],
+      [
+        "Eleven kör och manövrerar lastbilen med last på ett säkert och miljövänligt sätt i bekanta **och nya** trafikmiljöer",
+        "I körningen använder eleven i bekanta **och nya** situationer funktioner på lastbilen som ökar framkomligheten i olika trafiksituationer och i skiftande väglag",
+        "Dessutom hanterar eleven **med säkerhet** i bekanta **och nya** situationer utrustning i samband med lossning och leverans av gods",
+        "Eleven tar ansvar för kundens egendom samt för lastbil och utrustning"
+      ],
+      [
+        "Eleven samarbetar **och medverkar till att upprätthålla och utveckla samarbetet** för att nå planerade resultat samt kommunicerar **med viss säkerhet** med medarbetare och kunder",
+        "Resultatet av elevens arbete är **gott**"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav"
+      ]
     ]
   }
 }

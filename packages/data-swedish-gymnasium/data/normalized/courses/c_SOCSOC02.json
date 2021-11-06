@@ -29,64 +29,79 @@
   },
   "knowledgeRequirements": {
     "E": [
-      "0Eleven beskriver **översiktligt** sociala verksamheter",
-      "0Dessutom redogör eleven **översiktligt** för hur sociala frågor hanteras i samhället",
-      "0Eleven redogör även **översiktligt** för olika lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven planerar, organiserar och utför vanligt förekommande **enkla** arbetsuppgifter, **i samråd** med handledare, och på ett yrkesmässigt sätt",
-      null,
-      "1Eleven gör en **enkel** dokumentation av utförda uppgifter och aktiviteter",
-      "1I dokumentationen använder eleven **med viss säkerhet** relevanta begrepp",
-      "1När arbetet är utfört utvärderar eleven uppgifterna och aktiviteterna med **enkla** omdömen utifrån uppsatta mål",
-      "1I utvärderingen diskuterar eleven **översiktligt** möjliga alternativa lösningar och föreslår vid behov förbättringar",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven anpassar **med viss säkerhet** sin kommunikation till mottagaren och samarbetar med andra",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven diskuterar **översiktligt** egna, andras och samhällets attityder, värderingar och handlingar i relation till arbetsuppgifterna",
-      "3I diskussionen framför eleven **enkla** argument för sina åsikter och visar respekt för andras åsikter",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION",
-      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
-      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+      [
+        "Eleven beskriver **översiktligt** sociala verksamheter",
+        "Dessutom redogör eleven **översiktligt** för hur sociala frågor hanteras i samhället",
+        "Eleven redogör även **översiktligt** för olika lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete"
+      ],
+      [
+        "Eleven planerar, organiserar och utför vanligt förekommande **enkla** arbetsuppgifter, **i samråd** med handledare, och på ett yrkesmässigt sätt",
+        null,
+        "Eleven gör en **enkel** dokumentation av utförda uppgifter och aktiviteter",
+        "I dokumentationen använder eleven **med viss säkerhet** relevanta begrepp",
+        "När arbetet är utfört utvärderar eleven uppgifterna och aktiviteterna med **enkla** omdömen utifrån uppsatta mål",
+        "I utvärderingen diskuterar eleven **översiktligt** möjliga alternativa lösningar och föreslår vid behov förbättringar"
+      ],
+      [
+        "Eleven anpassar **med viss säkerhet** sin kommunikation till mottagaren och samarbetar med andra"
+      ],
+      [
+        "Eleven diskuterar **översiktligt** egna, andras och samhällets attityder, värderingar och handlingar i relation till arbetsuppgifterna",
+        "I diskussionen framför eleven **enkla** argument för sina åsikter och visar respekt för andras åsikter"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav"
+      ]
     ],
     "C": [
-      "0Eleven beskriver **utförligt** sociala verksamheter",
-      "0Dessutom redogör eleven **utförligt** för hur sociala frågor hanteras i samhället",
-      "0Eleven redogör även **utförligt** för olika lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven planerar, organiserar och utför vanligt förekommande arbetsuppgifter, **efter samråd** med handledare, och på ett yrkesmässigt sätt",
-      "1**Eleven diskuterar utförligt sin egen och andras roll och betydelse samt tar sin utgångspunkt i det vid sitt eget handlande**",
-      "1Eleven gör en **noggrann** dokumentation av utförda uppgifter och aktiviteter",
-      "1I dokumentationen använder eleven **med viss säkerhet** relevanta begrepp",
-      "1När arbetet är utfört utvärderar eleven uppgifterna och aktiviteterna med **välgrundade** omdömen utifrån uppsatta mål",
-      "1I utvärderingen diskuterar eleven **utförligt** möjliga alternativa lösningar och föreslår vid behov förbättringar",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven anpassar **med viss säkerhet** sin kommunikation till mottagaren och samarbetar med andra",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven diskuterar **utförligt** egna, andras och samhällets attityder, värderingar och handlingar i relation till arbetsuppgifterna",
-      "3I diskussionen framför eleven **välgrundade** argument för sina åsikter och visar respekt för andras åsikter",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION",
-      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
-      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+      [
+        "Eleven beskriver **utförligt** sociala verksamheter",
+        "Dessutom redogör eleven **utförligt** för hur sociala frågor hanteras i samhället",
+        "Eleven redogör även **utförligt** för olika lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete"
+      ],
+      [
+        "Eleven planerar, organiserar och utför vanligt förekommande arbetsuppgifter, **efter samråd** med handledare, och på ett yrkesmässigt sätt",
+        "**Eleven diskuterar utförligt sin egen och andras roll och betydelse samt tar sin utgångspunkt i det vid sitt eget handlande**",
+        "Eleven gör en **noggrann** dokumentation av utförda uppgifter och aktiviteter",
+        "I dokumentationen använder eleven **med viss säkerhet** relevanta begrepp",
+        "När arbetet är utfört utvärderar eleven uppgifterna och aktiviteterna med **välgrundade** omdömen utifrån uppsatta mål",
+        "I utvärderingen diskuterar eleven **utförligt** möjliga alternativa lösningar och föreslår vid behov förbättringar"
+      ],
+      [
+        "Eleven anpassar **med viss säkerhet** sin kommunikation till mottagaren och samarbetar med andra"
+      ],
+      [
+        "Eleven diskuterar **utförligt** egna, andras och samhällets attityder, värderingar och handlingar i relation till arbetsuppgifterna",
+        "I diskussionen framför eleven **välgrundade** argument för sina åsikter och visar respekt för andras åsikter"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav"
+      ]
     ],
     "A": [
-      "0Eleven beskriver **utförligt och nyanserat** sociala verksamheter",
-      "0Dessutom redogör eleven **utförligt och nyanserat** för hur sociala frågor hanteras i samhället",
-      "0Eleven redogör även **utförligt** för olika lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven planerar, organiserar och utför vanligt förekommande **komplexa** arbetsuppgifter, **efter samråd** med handledare, och på ett yrkesmässigt sätt **samt anpassar vid behov genomförandet till ändrade förutsättningar**",
-      "1**Eleven diskuterar utförligt och nyanserat sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande**",
-      "1Eleven gör en **noggrann och utförlig** dokumentation av utförda uppgifter och aktiviteter",
-      "1I dokumentationen använder eleven **med säkerhet** relevanta begrepp",
-      "1När arbetet är utfört utvärderar eleven uppgifterna och aktiviteterna med **välgrundade och nyanserade** omdömen utifrån uppsatta mål",
-      "1I utvärderingen diskuterar eleven **utförligt och nyanserat** möjliga alternativa lösningar och föreslår vid behov förbättringar",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven anpassar **med säkerhet** sin kommunikation till mottagaren och samarbetar med andra",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven diskuterar **utförligt och nyanserat** egna, andras och samhällets attityder, värderingar och handlingar i relation till arbetsuppgifterna",
-      "3I diskussionen framför eleven **välgrundade och nyanserade** argument för sina åsikter samt visar respekt för andras åsikter",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION",
-      "4När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
-      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+      [
+        "Eleven beskriver **utförligt och nyanserat** sociala verksamheter",
+        "Dessutom redogör eleven **utförligt och nyanserat** för hur sociala frågor hanteras i samhället",
+        "Eleven redogör även **utförligt** för olika lagar och andra bestämmelser som styr verksamheterna och tar utgångspunkt i dem i sitt arbete"
+      ],
+      [
+        "Eleven planerar, organiserar och utför vanligt förekommande **komplexa** arbetsuppgifter, **efter samråd** med handledare, och på ett yrkesmässigt sätt **samt anpassar vid behov genomförandet till ändrade förutsättningar**",
+        "**Eleven diskuterar utförligt och nyanserat sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande**",
+        "Eleven gör en **noggrann och utförlig** dokumentation av utförda uppgifter och aktiviteter",
+        "I dokumentationen använder eleven **med säkerhet** relevanta begrepp",
+        "När arbetet är utfört utvärderar eleven uppgifterna och aktiviteterna med **välgrundade och nyanserade** omdömen utifrån uppsatta mål",
+        "I utvärderingen diskuterar eleven **utförligt och nyanserat** möjliga alternativa lösningar och föreslår vid behov förbättringar"
+      ],
+      [
+        "Eleven anpassar **med säkerhet** sin kommunikation till mottagaren och samarbetar med andra"
+      ],
+      [
+        "Eleven diskuterar **utförligt och nyanserat** egna, andras och samhällets attityder, värderingar och handlingar i relation till arbetsuppgifterna",
+        "I diskussionen framför eleven **välgrundade och nyanserade** argument för sina åsikter samt visar respekt för andras åsikter"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav"
+      ]
     ]
   }
 }

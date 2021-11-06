@@ -31,61 +31,73 @@
   },
   "knowledgeRequirements": {
     "E": [
-      "0Eleven redogör **övergripande** för industrirobotsystems uppbyggnad, användningsområde och funktion samt deras betydelse för automatiserade processer",
-      "0Eleven redogör även **övergripande** för uppbyggnad och funktion av kringutrustning till industrirobotsystem",
-      "0Vidare resonerar eleven **övergripande** kring robottekniska begrepp, definition och användning av olika koordinatsystem samt grundläggande kinematik",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven använder **med säkerhet** programverktyg för simulering av industrirobotsystem kopplade till en automatiserad process",
-      "1Dessutom resonerar eleven **med säkerhet** kring hur automatisering kan påverka social, ekonomisk och ekologisk hållbarhet",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven planerar och utför programskrivning **efter samråd** med handledare för industrirobotsystem samt genomför ändring och definition av variabler och systemparametrar",
-      "2I sitt arbete förhåller sig eleven till de säkerhetsföreskrifter som finns inom området",
-      "2Vidare strukturerar eleven **efter samråd** med handledare kommunikation och konfiguration mellan industrirobotsystemet och andra enheter, internt och externt",
-      "2Eleven genomför **med säkerhet** kontroll före drifttagning och provkörning av program samt utför arbete i industrirobotsystem",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven analyserar, förbättrar och optimerar befintliga industrirobotsystem och ger **välgrundade** förslag på åtgärder",
-      "3Eleven felsöker **efter samråd** med handledare, med hjälp av program, manualer och dokument i industrirobotsystem",
-      "3Vidare dokumenterar eleven **övergripande** industriella industrirobotsystem med både muntliga, skriftliga och digitala metoder",
-      "3Eleven bedömer, ersätter och konfigurerar **efter samråd** med handledare defekta komponenter",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+      [
+        "Eleven redogör **övergripande** för industrirobotsystems uppbyggnad, användningsområde och funktion samt deras betydelse för automatiserade processer",
+        "Eleven redogör även **övergripande** för uppbyggnad och funktion av kringutrustning till industrirobotsystem",
+        "Vidare resonerar eleven **övergripande** kring robottekniska begrepp, definition och användning av olika koordinatsystem samt grundläggande kinematik"
+      ],
+      [
+        "Eleven använder **med säkerhet** programverktyg för simulering av industrirobotsystem kopplade till en automatiserad process",
+        "Dessutom resonerar eleven **med säkerhet** kring hur automatisering kan påverka social, ekonomisk och ekologisk hållbarhet"
+      ],
+      [
+        "Eleven planerar och utför programskrivning **efter samråd** med handledare för industrirobotsystem samt genomför ändring och definition av variabler och systemparametrar",
+        "I sitt arbete förhåller sig eleven till de säkerhetsföreskrifter som finns inom området",
+        "Vidare strukturerar eleven **efter samråd** med handledare kommunikation och konfiguration mellan industrirobotsystemet och andra enheter, internt och externt",
+        "Eleven genomför **med säkerhet** kontroll före drifttagning och provkörning av program samt utför arbete i industrirobotsystem"
+      ],
+      [
+        "Eleven analyserar, förbättrar och optimerar befintliga industrirobotsystem och ger **välgrundade** förslag på åtgärder",
+        "Eleven felsöker **efter samråd** med handledare, med hjälp av program, manualer och dokument i industrirobotsystem",
+        "Vidare dokumenterar eleven **övergripande** industriella industrirobotsystem med både muntliga, skriftliga och digitala metoder",
+        "Eleven bedömer, ersätter och konfigurerar **efter samråd** med handledare defekta komponenter"
+      ]
     ],
     "C": [
-      "0Eleven redogör **utförligt** för industrirobotsystems uppbyggnad, användningsområde och funktion samt deras betydelse för automatiserade processer",
-      "0Eleven redogör även **utförligt** för uppbyggnad och funktion av kringutrustning till industrirobotsystem",
-      "0Vidare resonerar eleven **utförligt** kring robottekniska begrepp, definition och användning av olika koordinatsystem samt grundläggande kinematik",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven använder **med god säkerhet** programverktyg för simulering av industrirobotsystem kopplade till en automatiserad process",
-      "1Dessutom resonerar eleven **med god säkerhet** för hur automatisering kan påverka social, ekonomisk och ekologisk hållbarhet",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven planerar och utför programskrivning **självständigt efter samråd** med handledare för industrirobotsystem samt genomför ändring och definition av variabler och systemparametrar",
-      "2I sitt arbete förhåller sig eleven till de säkerhetsföreskrifter som finns inom området",
-      "2Vidare strukturerar eleven **självständigt efter samråd** med handledare kommunikation och konfiguration mellan industrirobotsystemet och andra enheter, internt och externt",
-      "2Eleven genomför **med god säkerhet** kontroll före drifttagning och provkörning av program samt utför arbete i industrirobotsystem",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven analyserar, förbättrar och optimerar befintliga industrirobotsystem och ger **välgrundade och nyanserade** förslag på åtgärder",
-      "3Eleven felsöker **självständigt efter samråd** med handledare med hjälp av program, manualer och dokument i industrirobotsystem",
-      "3Vidare dokumenterar eleven **utförligt** industriella industrirobotsystem med muntliga, skriftliga och digitala metoder",
-      "3Eleven bedömer, ersätter och konfigurerar **självständigt efter samråd** med handledare defekta komponenter",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+      [
+        "Eleven redogör **utförligt** för industrirobotsystems uppbyggnad, användningsområde och funktion samt deras betydelse för automatiserade processer",
+        "Eleven redogör även **utförligt** för uppbyggnad och funktion av kringutrustning till industrirobotsystem",
+        "Vidare resonerar eleven **utförligt** kring robottekniska begrepp, definition och användning av olika koordinatsystem samt grundläggande kinematik"
+      ],
+      [
+        "Eleven använder **med god säkerhet** programverktyg för simulering av industrirobotsystem kopplade till en automatiserad process",
+        "Dessutom resonerar eleven **med god säkerhet** för hur automatisering kan påverka social, ekonomisk och ekologisk hållbarhet"
+      ],
+      [
+        "Eleven planerar och utför programskrivning **självständigt efter samråd** med handledare för industrirobotsystem samt genomför ändring och definition av variabler och systemparametrar",
+        "I sitt arbete förhåller sig eleven till de säkerhetsföreskrifter som finns inom området",
+        "Vidare strukturerar eleven **självständigt efter samråd** med handledare kommunikation och konfiguration mellan industrirobotsystemet och andra enheter, internt och externt",
+        "Eleven genomför **med god säkerhet** kontroll före drifttagning och provkörning av program samt utför arbete i industrirobotsystem"
+      ],
+      [
+        "Eleven analyserar, förbättrar och optimerar befintliga industrirobotsystem och ger **välgrundade och nyanserade** förslag på åtgärder",
+        "Eleven felsöker **självständigt efter samråd** med handledare med hjälp av program, manualer och dokument i industrirobotsystem",
+        "Vidare dokumenterar eleven **utförligt** industriella industrirobotsystem med muntliga, skriftliga och digitala metoder",
+        "Eleven bedömer, ersätter och konfigurerar **självständigt efter samråd** med handledare defekta komponenter"
+      ]
     ],
     "A": [
-      "0Eleven redogör **utförligt och nyanserat** för industrirobotsystems uppbyggnad, användningsområde och funktion samt deras betydelse för automatiserade processer",
-      "0Eleven redogör även **utförligt och nyanserat** för uppbyggnad och funktion av kringutrustning till industrirobotsystem",
-      "0Vidare resonerar eleven **utförligt och nyanserat** för robottekniska begrepp, definition och användning av olika koordinatsystem samt grundläggande kinematik",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven använder **med mycket god säkerhet** programverktyg för simulering av industrirobotsystem kopplade till en automatiserad process",
-      "1Dessutom resonerar eleven **med mycket god säkerhet** för hur automatisering kan påverka social, ekonomisk och ekologisk hållbarhet",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven planerar och utför programskrivning **självständigt** för industrirobotsystem samt genomför ändring och definition av variabler och systemparametrar",
-      "2I sitt arbete förhåller sig eleven till de säkerhetsföreskrifter som finns inom området",
-      "2Vidare strukturerar eleven **självständigt** kommunikation och konfiguration mellan industrirobotsystemet och andra enheter, internt och externt",
-      "2Eleven genomför **med mycket god säkerhet** kontroll före drifttagning och provkörning av program samt utför arbete i industrirobotsystem",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven analyserar, förbättrar och optimerar befintliga industrirobotsystem och ger **välgrundade och nyanserade** förslag på åtgärder",
-      "3Eleven felsöker **självständigt** med hjälp av program, manualer och dokument i industrirobotsystem",
-      "3Vidare dokumenterar eleven industriella industrirobotsystem på ett **utförligt och nyanserat** sätt med muntliga, skriftliga och digitala metoder",
-      "3Eleven bedömer, ersätter och konfigurerar **självständigt** defekta komponenter",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+      [
+        "Eleven redogör **utförligt och nyanserat** för industrirobotsystems uppbyggnad, användningsområde och funktion samt deras betydelse för automatiserade processer",
+        "Eleven redogör även **utförligt och nyanserat** för uppbyggnad och funktion av kringutrustning till industrirobotsystem",
+        "Vidare resonerar eleven **utförligt och nyanserat** för robottekniska begrepp, definition och användning av olika koordinatsystem samt grundläggande kinematik"
+      ],
+      [
+        "Eleven använder **med mycket god säkerhet** programverktyg för simulering av industrirobotsystem kopplade till en automatiserad process",
+        "Dessutom resonerar eleven **med mycket god säkerhet** för hur automatisering kan påverka social, ekonomisk och ekologisk hållbarhet"
+      ],
+      [
+        "Eleven planerar och utför programskrivning **självständigt** för industrirobotsystem samt genomför ändring och definition av variabler och systemparametrar",
+        "I sitt arbete förhåller sig eleven till de säkerhetsföreskrifter som finns inom området",
+        "Vidare strukturerar eleven **självständigt** kommunikation och konfiguration mellan industrirobotsystemet och andra enheter, internt och externt",
+        "Eleven genomför **med mycket god säkerhet** kontroll före drifttagning och provkörning av program samt utför arbete i industrirobotsystem"
+      ],
+      [
+        "Eleven analyserar, förbättrar och optimerar befintliga industrirobotsystem och ger **välgrundade och nyanserade** förslag på åtgärder",
+        "Eleven felsöker **självständigt** med hjälp av program, manualer och dokument i industrirobotsystem",
+        "Vidare dokumenterar eleven industriella industrirobotsystem på ett **utförligt och nyanserat** sätt med muntliga, skriftliga och digitala metoder",
+        "Eleven bedömer, ersätter och konfigurerar **självständigt** defekta komponenter"
+      ]
     ]
   }
 }

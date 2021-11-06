@@ -29,49 +29,61 @@
   },
   "knowledgeRequirements": {
     "E": [
-      "0Eleven beskriver **översiktligt** funktionen och konstruktionen hos olika energitekniska system",
-      "0I beskrivningen redogör eleven **översiktligt** för termodynamikens lagar",
-      "0Dessutom beskriver eleven **översiktligt** en effektiv och miljövänlig energianvändning i energitekniska system",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven utför **i samråd** med handledare driftkontroller med hjälp av ritningar, driftkort, användarmanualer och instruktioner samt utifrån lagar och andra bestämmelser",
-      "1I sin driftkontroll genomför eleven **enkla** mätningar och beräkningar samt kontrollerar resultatet efter **förutbestämda parametrar**",
-      "1Eleven genomför **i samråd** med handledare nödvändiga justeringar och driftsätter system",
-      null,
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+      [
+        "Eleven beskriver **översiktligt** funktionen och konstruktionen hos olika energitekniska system",
+        "I beskrivningen redogör eleven **översiktligt** för termodynamikens lagar",
+        "Dessutom beskriver eleven **översiktligt** en effektiv och miljövänlig energianvändning i energitekniska system"
+      ],
+      [
+        "Eleven utför **i samråd** med handledare driftkontroller med hjälp av ritningar, driftkort, användarmanualer och instruktioner samt utifrån lagar och andra bestämmelser",
+        "I sin driftkontroll genomför eleven **enkla** mätningar och beräkningar samt kontrollerar resultatet efter **förutbestämda parametrar**",
+        "Eleven genomför **i samråd** med handledare nödvändiga justeringar och driftsätter system",
+        null
+      ],
+      [
+        "Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav"
+      ]
     ],
     "C": [
-      "0Eleven beskriver **utförligt** funktionen och konstruktionen hos olika energitekniska system",
-      "0I beskrivningen redogör eleven **utförligt** för termodynamikens lagar",
-      "0Dessutom beskriver eleven **utförligt** en effektiv och miljövänlig energianvändning i energitekniska system",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven utför **efter samråd** med handledare driftkontroller med hjälp av ritningar, driftkort, användarmanualer och instruktioner samt utifrån lagar och andra bestämmelser",
-      "1I sin driftkontroll genomför eleven mätningar och beräkningar samt kontrollerar resultatet efter **förutbestämda parametrar**",
-      "1Eleven genomför **efter samråd** med handledare nödvändiga justeringar, **väljer inställningar** och driftsätter system",
-      "1**Därefter analyserar eleven med viss säkerhet systemen och energioptimerar dem vid behov**",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+      [
+        "Eleven beskriver **utförligt** funktionen och konstruktionen hos olika energitekniska system",
+        "I beskrivningen redogör eleven **utförligt** för termodynamikens lagar",
+        "Dessutom beskriver eleven **utförligt** en effektiv och miljövänlig energianvändning i energitekniska system"
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare driftkontroller med hjälp av ritningar, driftkort, användarmanualer och instruktioner samt utifrån lagar och andra bestämmelser",
+        "I sin driftkontroll genomför eleven mätningar och beräkningar samt kontrollerar resultatet efter **förutbestämda parametrar**",
+        "Eleven genomför **efter samråd** med handledare nödvändiga justeringar, **väljer inställningar** och driftsätter system",
+        "**Därefter analyserar eleven med viss säkerhet systemen och energioptimerar dem vid behov**"
+      ],
+      [
+        "Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav"
+      ]
     ],
     "A": [
-      "0Eleven beskriver **utförligt och nyanserat** funktionen och konstruktionen hos olika energitekniska system",
-      "0I beskrivningen redogör eleven **utförligt och nyanserat** för termodynamikens lagar **och systemens hydrauliska egenskaper**",
-      "0Dessutom beskriver eleven **utförligt och nyanserat** en effektiv och miljövänlig energianvändning i energitekniska system",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven utför **efter samråd** med handledare driftkontroller med hjälp av ritningar, driftkort, användarmanualer och instruktioner samt utifrån lagar och andra bestämmelser",
-      "1I sin driftkontroll genomför eleven mätningar och beräkningar samt kontrollerar resultatet efter **tabeller och diagram**",
-      "1Eleven genomför **efter samråd** med handledare nödvändiga justeringar, **väljer inställningar** och driftsätter system",
-      "1**Därefter analyserar eleven med säkerhet systemen och energioptimerar dem vid behov**",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+      [
+        "Eleven beskriver **utförligt och nyanserat** funktionen och konstruktionen hos olika energitekniska system",
+        "I beskrivningen redogör eleven **utförligt och nyanserat** för termodynamikens lagar **och systemens hydrauliska egenskaper**",
+        "Dessutom beskriver eleven **utförligt och nyanserat** en effektiv och miljövänlig energianvändning i energitekniska system"
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare driftkontroller med hjälp av ritningar, driftkort, användarmanualer och instruktioner samt utifrån lagar och andra bestämmelser",
+        "I sin driftkontroll genomför eleven mätningar och beräkningar samt kontrollerar resultatet efter **tabeller och diagram**",
+        "Eleven genomför **efter samråd** med handledare nödvändiga justeringar, **väljer inställningar** och driftsätter system",
+        "**Därefter analyserar eleven med säkerhet systemen och energioptimerar dem vid behov**"
+      ],
+      [
+        "Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav"
+      ]
     ]
   }
 }

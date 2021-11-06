@@ -25,64 +25,79 @@
   },
   "knowledgeRequirements": {
     "E": [
-      "0Eleven beskriver **översiktligt** räddningstjänst, räddningsarbete och verksamhetens organisation och innehåll",
-      "0Dessutom beskriver eleven **översiktligt** faktorer som styr brandförlopp",
-      "0I beskrivningarna använder eleven **med viss säkerhet** centrala begrepp samt förklarar **enkla** samband och drar **enkla** slutsatser",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven redogör **översiktligt** för lagar och andra bestämmelser som styr verksamheten och tar utgångspunkt i dem i sitt arbete",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven planerar, organiserar och utför, **i samråd** med handledare, vanligt förekommande **enkla** arbetsuppgifter på ett yrkesmässigt sätt",
-      "2I arbetet använder eleven redskap och metoder som **finns angivna** för uppgiften, diskuterar **översiktligt** möjliga alternativa lösningar och föreslår vid behov förbättringar",
-      "2Dessutom interagerar eleven, samt kommunicerar **med viss säkerhet**, i samarbete och möten med människor",
-      null,
-      "2När arbetet är utfört gör eleven en **enkel** dokumentation av utförda uppgifter och aktiviteter",
-      "2I dokumentationen använder eleven **med viss säkerhet** relevanta begrepp",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven diskuterar **översiktligt** egna och andras attityder, värderingar och handlingar i relation till arbetsuppgifterna",
-      "3I diskussionen framför eleven **enkla** argument för sina åsikter samt visar respekt för andras åsikter",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION",
-      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
-      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+      [
+        "Eleven beskriver **översiktligt** räddningstjänst, räddningsarbete och verksamhetens organisation och innehåll",
+        "Dessutom beskriver eleven **översiktligt** faktorer som styr brandförlopp",
+        "I beskrivningarna använder eleven **med viss säkerhet** centrala begrepp samt förklarar **enkla** samband och drar **enkla** slutsatser"
+      ],
+      [
+        "Eleven redogör **översiktligt** för lagar och andra bestämmelser som styr verksamheten och tar utgångspunkt i dem i sitt arbete"
+      ],
+      [
+        "Eleven planerar, organiserar och utför, **i samråd** med handledare, vanligt förekommande **enkla** arbetsuppgifter på ett yrkesmässigt sätt",
+        "I arbetet använder eleven redskap och metoder som **finns angivna** för uppgiften, diskuterar **översiktligt** möjliga alternativa lösningar och föreslår vid behov förbättringar",
+        "Dessutom interagerar eleven, samt kommunicerar **med viss säkerhet**, i samarbete och möten med människor",
+        null,
+        "När arbetet är utfört gör eleven en **enkel** dokumentation av utförda uppgifter och aktiviteter",
+        "I dokumentationen använder eleven **med viss säkerhet** relevanta begrepp"
+      ],
+      [
+        "Eleven diskuterar **översiktligt** egna och andras attityder, värderingar och handlingar i relation till arbetsuppgifterna",
+        "I diskussionen framför eleven **enkla** argument för sina åsikter samt visar respekt för andras åsikter"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav"
+      ]
     ],
     "C": [
-      "0Eleven beskriver **utförligt** räddningstjänst, räddningsarbete och verksamhetens organisation och innehåll",
-      "0Dessutom beskriver eleven **utförligt** faktorer som styr brandförlopp",
-      "0I beskrivningarna använder eleven **med viss säkerhet** centrala begrepp samt förklarar samband och drar **välgrundade** slutsatser",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven redogör **utförligt** för lagar och andra bestämmelser som styr verksamheten och tar utgångspunkt i dem i sitt arbete",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven planerar, organiserar och utför, **efter samråd** med handledare, vanligt förekommande arbetsuppgifter på ett yrkesmässigt sätt",
-      "2I arbetet **väljer och** använder eleven redskap och metoder som **passar** för uppgiften, diskuterar **utförligt** möjliga alternativa lösningar och föreslår vid behov förbättringar",
-      "2Dessutom interagerar eleven, samt kommunicerar **med viss säkerhet**, i samarbete och möten med människor",
-      "2**Eleven diskuterar utförligt sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande**",
-      "2När arbetet är utfört gör eleven en **noggrann** dokumentation av utförda uppgifter och aktiviteter",
-      "2I dokumentationen använder eleven **med viss säkerhet** relevanta begrepp",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven diskuterar **utförligt** egna och andras attityder, värderingar och handlingar i relation till arbetsuppgifterna",
-      "3I diskussionen framför eleven **välgrundade** argument för sina åsikter samt visar respekt för andras åsikter",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION",
-      "4När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav",
-      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+      [
+        "Eleven beskriver **utförligt** räddningstjänst, räddningsarbete och verksamhetens organisation och innehåll",
+        "Dessutom beskriver eleven **utförligt** faktorer som styr brandförlopp",
+        "I beskrivningarna använder eleven **med viss säkerhet** centrala begrepp samt förklarar samband och drar **välgrundade** slutsatser"
+      ],
+      [
+        "Eleven redogör **utförligt** för lagar och andra bestämmelser som styr verksamheten och tar utgångspunkt i dem i sitt arbete"
+      ],
+      [
+        "Eleven planerar, organiserar och utför, **efter samråd** med handledare, vanligt förekommande arbetsuppgifter på ett yrkesmässigt sätt",
+        "I arbetet **väljer och** använder eleven redskap och metoder som **passar** för uppgiften, diskuterar **utförligt** möjliga alternativa lösningar och föreslår vid behov förbättringar",
+        "Dessutom interagerar eleven, samt kommunicerar **med viss säkerhet**, i samarbete och möten med människor",
+        "**Eleven diskuterar utförligt sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande**",
+        "När arbetet är utfört gör eleven en **noggrann** dokumentation av utförda uppgifter och aktiviteter",
+        "I dokumentationen använder eleven **med viss säkerhet** relevanta begrepp"
+      ],
+      [
+        "Eleven diskuterar **utförligt** egna och andras attityder, värderingar och handlingar i relation till arbetsuppgifterna",
+        "I diskussionen framför eleven **välgrundade** argument för sina åsikter samt visar respekt för andras åsikter"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med viss säkerhet** den egna förmågan och situationens krav"
+      ]
     ],
     "A": [
-      "0Eleven beskriver **utförligt och nyanserat** räddningstjänst, räddningsarbete och verksamhetens organisation och innehåll",
-      "0Dessutom beskriver eleven **utförligt och nyanserat** faktorer som styr brandförlopp",
-      "0I beskrivningarna använder eleven **med säkerhet** centrala begrepp samt förklarar **komplexa** samband och drar **välgrundade och nyanserade** slutsatser",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven redogör **utförligt** för lagar och andra bestämmelser som styr verksamheten och tar utgångspunkt i dem i sitt arbete",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven planerar, organiserar och utför, **efter samråd** med handledare, vanligt förekommande, **även avancerade**, arbetsuppgifter på ett yrkesmässigt sätt **samt anpassar vid behov genomförandet till ändrade förutsättningar**",
-      "2I arbetet **väljer och** använder eleven redskap och metoder som **passar** för uppgiften, **motiverar sina val samt** diskuterar **utförligt och nyanserat** möjliga alternativa lösningar och föreslår vid behov förbättringar",
-      "2Dessutom interagerar eleven, samt kommunicerar **med säkerhet**, i samarbete och möten med människor",
-      "2**Eleven diskuterar utförligt och nyanserat sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande**",
-      "2När arbetet är utfört gör eleven en **noggrann och utförlig** dokumentation av utförda uppgifter och aktiviteter",
-      "2I dokumentationen använder eleven **med säkerhet** relevanta begrepp",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven diskuterar **utförligt och nyanserat** egna och andras attityder, värderingar och handlingar i relation till arbetsuppgifterna",
-      "3I diskussionen framför eleven **välgrundade och nyanserade** argument för sina åsikter samt visar respekt för andras åsikter",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION",
-      "4När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav",
-      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+      [
+        "Eleven beskriver **utförligt och nyanserat** räddningstjänst, räddningsarbete och verksamhetens organisation och innehåll",
+        "Dessutom beskriver eleven **utförligt och nyanserat** faktorer som styr brandförlopp",
+        "I beskrivningarna använder eleven **med säkerhet** centrala begrepp samt förklarar **komplexa** samband och drar **välgrundade och nyanserade** slutsatser"
+      ],
+      [
+        "Eleven redogör **utförligt** för lagar och andra bestämmelser som styr verksamheten och tar utgångspunkt i dem i sitt arbete"
+      ],
+      [
+        "Eleven planerar, organiserar och utför, **efter samråd** med handledare, vanligt förekommande, **även avancerade**, arbetsuppgifter på ett yrkesmässigt sätt **samt anpassar vid behov genomförandet till ändrade förutsättningar**",
+        "I arbetet **väljer och** använder eleven redskap och metoder som **passar** för uppgiften, **motiverar sina val samt** diskuterar **utförligt och nyanserat** möjliga alternativa lösningar och föreslår vid behov förbättringar",
+        "Dessutom interagerar eleven, samt kommunicerar **med säkerhet**, i samarbete och möten med människor",
+        "**Eleven diskuterar utförligt och nyanserat sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande**",
+        "När arbetet är utfört gör eleven en **noggrann och utförlig** dokumentation av utförda uppgifter och aktiviteter",
+        "I dokumentationen använder eleven **med säkerhet** relevanta begrepp"
+      ],
+      [
+        "Eleven diskuterar **utförligt och nyanserat** egna och andras attityder, värderingar och handlingar i relation till arbetsuppgifterna",
+        "I diskussionen framför eleven **välgrundade och nyanserade** argument för sina åsikter samt visar respekt för andras åsikter"
+      ],
+      [
+        "När eleven samråder med handledare bedömer hon eller han **med säkerhet** den egna förmågan och situationens krav"
+      ]
     ]
   }
 }

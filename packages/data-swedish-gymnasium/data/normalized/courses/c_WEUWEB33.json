@@ -34,64 +34,73 @@
   },
   "knowledgeRequirements": {
     "E": [
-      "0Eleven följer **med viss säkerhet** en projektplan för framtagning av en eller flera produkter",
-      "0Planen uppfyller standardiserad projektmetodik för mjukvaruutveckling",
-      "0Utifrån projektplanen utvecklar eleven **i samråd** med handledare produkten eller produkterna där logiker som styr innehåll, design och beteende är åtskilda",
-      "0Eleven använder **med viss säkerhet** pakethantering vid installation av olika klassbibliotek och ramverk",
-      "0I arbetet utvecklar eleven kod som med **tillfredsställande** resultat följer standarder och etablerad god praxis",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven utvecklar **något** skript för användarinteraktion och **något** skript för kommunikation med webbtjänster med **tillfredsställande** funktionalitet",
-      "1Eleven använder **med viss säkerhet enkla** tekniker för asynkrona anrop för sin produkt",
-      "1Dessutom utvecklar eleven två- eller tredimensionell interaktiv grafik med **tillfredsställande** funktionalitet",
-      "1Produkten eller produkterna är av **tillfredsställande** kvalitet när det gäller funktion och tillgänglighet",
-      "1Detta kontrollerar eleven med **automatiserade** tester",
-      "1Eleven vidtar **någon** åtgärd för att åstadkomma god prestanda för produkten eller produkterna",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2När arbetet är utfört gör eleven en **enkel** dokumentation i enlighet med vald projektmetod samt utvärderar med **enkla** omdömen sitt arbete och resultat",
-      "2Eleven följer i sitt arbete lagar och andra bestämmelser som rör mjukvaruutveckling och publicering på webben",
-      "2Eleven tar hänsyn till säkerhetsaspekter i sitt arbete och i fråga om produkten eller produkterna samt kontrollerar säkerheten genom **begränsade** tester",
-      "2Eleven använder **med viss säkerhet** terminologi inom området",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+      [
+        "Eleven följer **med viss säkerhet** en projektplan för framtagning av en eller flera produkter",
+        "Planen uppfyller standardiserad projektmetodik för mjukvaruutveckling",
+        "Utifrån projektplanen utvecklar eleven **i samråd** med handledare produkten eller produkterna där logiker som styr innehåll, design och beteende är åtskilda",
+        "Eleven använder **med viss säkerhet** pakethantering vid installation av olika klassbibliotek och ramverk",
+        "I arbetet utvecklar eleven kod som med **tillfredsställande** resultat följer standarder och etablerad god praxis"
+      ],
+      [
+        "Eleven utvecklar **något** skript för användarinteraktion och **något** skript för kommunikation med webbtjänster med **tillfredsställande** funktionalitet",
+        "Eleven använder **med viss säkerhet enkla** tekniker för asynkrona anrop för sin produkt",
+        "Dessutom utvecklar eleven två- eller tredimensionell interaktiv grafik med **tillfredsställande** funktionalitet",
+        "Produkten eller produkterna är av **tillfredsställande** kvalitet när det gäller funktion och tillgänglighet",
+        "Detta kontrollerar eleven med **automatiserade** tester",
+        "Eleven vidtar **någon** åtgärd för att åstadkomma god prestanda för produkten eller produkterna"
+      ],
+      [
+        "När arbetet är utfört gör eleven en **enkel** dokumentation i enlighet med vald projektmetod samt utvärderar med **enkla** omdömen sitt arbete och resultat",
+        "Eleven följer i sitt arbete lagar och andra bestämmelser som rör mjukvaruutveckling och publicering på webben",
+        "Eleven tar hänsyn till säkerhetsaspekter i sitt arbete och i fråga om produkten eller produkterna samt kontrollerar säkerheten genom **begränsade** tester",
+        "Eleven använder **med viss säkerhet** terminologi inom området"
+      ]
     ],
     "C": [
-      "0Eleven följer **med viss säkerhet** en projektplan för framtagning av en eller flera produkter",
-      "0Planen uppfyller standardiserad projektmetodik för mjukvaruutveckling",
-      "0Utifrån projektplanen utvecklar eleven **efter samråd** med handledare produkten eller produkterna där logiker som styr innehåll, design och beteende är åtskilda",
-      "0Eleven använder **med viss säkerhet** pakethantering vid installation av olika klassbibliotek och ramverk",
-      "0I arbetet utvecklar eleven kod som med **tillfredsställande** resultat följer standarder och etablerad god praxis",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven utvecklar **några** skript för användarinteraktion och **några** skript för kommunikation med webbtjänster med **tillfredsställande** funktionalitet",
-      "1Eleven använder **med viss säkerhet** tekniker för asynkrona anrop för sin produkt",
-      "1Dessutom utvecklar eleven två- eller tredimensionell interaktiv grafik med **tillfredsställande** funktionalitet",
-      "1Produkten eller produkterna är av **tillfredsställande** kvalitet när det gäller funktion och tillgänglighet",
-      "1Detta kontrollerar eleven med **manuella och automatiserade** tester",
-      "1Eleven vidtar **några** åtgärder för att åstadkomma god prestanda för produkten eller produkterna",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2När arbetet är utfört gör eleven en **noggrann** dokumentation i enlighet med vald projektmetod samt utvärderar med **nyanserade** omdömen sitt arbete och resultat",
-      "2Eleven följer i sitt arbete lagar och andra bestämmelser som rör mjukvaruutveckling och publicering på webben",
-      "2Eleven tar hänsyn till säkerhetsaspekter i sitt arbete och i fråga om produkten eller produkterna samt kontrollerar säkerheten genom tester",
-      "2Eleven använder **med viss säkerhet** terminologi inom området",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+      [
+        "Eleven följer **med viss säkerhet** en projektplan för framtagning av en eller flera produkter",
+        "Planen uppfyller standardiserad projektmetodik för mjukvaruutveckling",
+        "Utifrån projektplanen utvecklar eleven **efter samråd** med handledare produkten eller produkterna där logiker som styr innehåll, design och beteende är åtskilda",
+        "Eleven använder **med viss säkerhet** pakethantering vid installation av olika klassbibliotek och ramverk",
+        "I arbetet utvecklar eleven kod som med **tillfredsställande** resultat följer standarder och etablerad god praxis"
+      ],
+      [
+        "Eleven utvecklar **några** skript för användarinteraktion och **några** skript för kommunikation med webbtjänster med **tillfredsställande** funktionalitet",
+        "Eleven använder **med viss säkerhet** tekniker för asynkrona anrop för sin produkt",
+        "Dessutom utvecklar eleven två- eller tredimensionell interaktiv grafik med **tillfredsställande** funktionalitet",
+        "Produkten eller produkterna är av **tillfredsställande** kvalitet när det gäller funktion och tillgänglighet",
+        "Detta kontrollerar eleven med **manuella och automatiserade** tester",
+        "Eleven vidtar **några** åtgärder för att åstadkomma god prestanda för produkten eller produkterna"
+      ],
+      [
+        "När arbetet är utfört gör eleven en **noggrann** dokumentation i enlighet med vald projektmetod samt utvärderar med **nyanserade** omdömen sitt arbete och resultat",
+        "Eleven följer i sitt arbete lagar och andra bestämmelser som rör mjukvaruutveckling och publicering på webben",
+        "Eleven tar hänsyn till säkerhetsaspekter i sitt arbete och i fråga om produkten eller produkterna samt kontrollerar säkerheten genom tester",
+        "Eleven använder **med viss säkerhet** terminologi inom området"
+      ]
     ],
     "A": [
-      "0Eleven följer **med säkerhet** en projektplan för framtagning av en eller flera produkter",
-      "0Planen uppfyller standardiserad projektmetodik för mjukvaruutveckling",
-      "0Utifrån projektplanen utvecklar eleven **efter samråd** med handledare produkten eller produkterna där logiker som styr innehåll, design och beteende är åtskilda",
-      "0Eleven använder **med säkerhet** pakethantering vid installation av olika klassbibliotek och ramverk",
-      "0I arbetet utvecklar eleven kod som med **gott** resultat följer standarder och etablerad god praxis",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven utvecklar **flera** skript för användarinteraktion och **flera** skript för kommunikation med webbtjänster med **god** funktionalitet",
-      "1Eleven använder **med säkerhet avancerade** tekniker för asynkrona anrop för sin produkt",
-      "1Dessutom utvecklar eleven två- eller tredimensionell interaktiv grafik med **god** funktionalitet",
-      "1Produkten eller produkterna är av **god** kvalitet när det gäller funktion och tillgänglighet",
-      "1Detta kontrollerar eleven med **manuella och automatiserade** tester",
-      "1Eleven vidtar **flera** åtgärder för att åstadkomma god prestanda för produkten eller produkterna",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2När arbetet är utfört gör eleven en **noggrann och utförlig** dokumentation i enlighet med vald projektmetod samt utvärderar med **utförliga och nyanserade** omdömen sitt arbete och resultat **samt ger förslag på hur arbetet kan förbättras**",
-      "2Eleven följer i sitt arbete lagar och andra bestämmelser som rör mjukvaruutveckling och publicering på webben",
-      "2Eleven tar hänsyn till säkerhetsaspekter i sitt arbete och i fråga om produkten eller produkterna samt kontrollerar säkerheten genom **omfattande** tester",
-      "2Eleven använder **med säkerhet** terminologi inom området",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION"
+      [
+        "Eleven följer **med säkerhet** en projektplan för framtagning av en eller flera produkter",
+        "Planen uppfyller standardiserad projektmetodik för mjukvaruutveckling",
+        "Utifrån projektplanen utvecklar eleven **efter samråd** med handledare produkten eller produkterna där logiker som styr innehåll, design och beteende är åtskilda",
+        "Eleven använder **med säkerhet** pakethantering vid installation av olika klassbibliotek och ramverk",
+        "I arbetet utvecklar eleven kod som med **gott** resultat följer standarder och etablerad god praxis"
+      ],
+      [
+        "Eleven utvecklar **flera** skript för användarinteraktion och **flera** skript för kommunikation med webbtjänster med **god** funktionalitet",
+        "Eleven använder **med säkerhet avancerade** tekniker för asynkrona anrop för sin produkt",
+        "Dessutom utvecklar eleven två- eller tredimensionell interaktiv grafik med **god** funktionalitet",
+        "Produkten eller produkterna är av **god** kvalitet när det gäller funktion och tillgänglighet",
+        "Detta kontrollerar eleven med **manuella och automatiserade** tester",
+        "Eleven vidtar **flera** åtgärder för att åstadkomma god prestanda för produkten eller produkterna"
+      ],
+      [
+        "När arbetet är utfört gör eleven en **noggrann och utförlig** dokumentation i enlighet med vald projektmetod samt utvärderar med **utförliga och nyanserade** omdömen sitt arbete och resultat **samt ger förslag på hur arbetet kan förbättras**",
+        "Eleven följer i sitt arbete lagar och andra bestämmelser som rör mjukvaruutveckling och publicering på webben",
+        "Eleven tar hänsyn till säkerhetsaspekter i sitt arbete och i fråga om produkten eller produkterna samt kontrollerar säkerheten genom **omfattande** tester",
+        "Eleven använder **med säkerhet** terminologi inom området"
+      ]
     ]
   }
 }

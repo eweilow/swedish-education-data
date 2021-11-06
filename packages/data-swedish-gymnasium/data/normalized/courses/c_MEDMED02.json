@@ -26,49 +26,61 @@
   },
   "knowledgeRequirements": {
     "E": [
-      "0Eleven beskriver **översiktligt** människokroppens uppbyggnad och funktion",
-      "0Eleven beskriver också **översiktligt** olika sjukdomar och deras specifika fysiska och psykiska symtom",
-      "0Dessutom ger eleven exempel på relevanta undersökningsmetoder, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar",
-      "0Eleven beskriver **översiktligt** kroppens vätske- och näringsbalans samt ger exempel på sjukdomar där balansen kan rubbas",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      null,
-      null,
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "1Eleven beskriver **översiktligt** specifika läkemedel, deras verkningssätt, användningsområden och biverkningar",
-      "1Eleven ger också exempel på mikroorganismer och beskriver **översiktligt** hur de kan spridas samt beskriver **översiktligt** kroppens försvarssystem",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "2I beskrivningarna använder eleven **med viss säkerhet enkel** medicinsk terminologi",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+      [
+        "Eleven beskriver **översiktligt** människokroppens uppbyggnad och funktion",
+        "Eleven beskriver också **översiktligt** olika sjukdomar och deras specifika fysiska och psykiska symtom",
+        "Dessutom ger eleven exempel på relevanta undersökningsmetoder, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar",
+        "Eleven beskriver **översiktligt** kroppens vätske- och näringsbalans samt ger exempel på sjukdomar där balansen kan rubbas"
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "Eleven beskriver **översiktligt** specifika läkemedel, deras verkningssätt, användningsområden och biverkningar",
+        "Eleven ger också exempel på mikroorganismer och beskriver **översiktligt** hur de kan spridas samt beskriver **översiktligt** kroppens försvarssystem"
+      ],
+      [
+        "I beskrivningarna använder eleven **med viss säkerhet enkel** medicinsk terminologi"
+      ]
     ],
     "C": [
-      "0Eleven beskriver **utförligt** människokroppens uppbyggnad och funktion",
-      "0Eleven beskriver också **utförligt** olika sjukdomar och deras specifika fysiska och psykiska symtom",
-      "0Dessutom ger eleven exempel på, **och förklarar sambanden mellan**, relevanta undersökningsmetoder, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar",
-      "0Eleven beskriver **utförligt** kroppens vätske- och näringsbalans, ger exempel på sjukdomar där balansen kan rubbas **samt beskriver symtom som uppkommer när balansen är rubbad**",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1**Eleven förklarar utförligt några samband mellan människa, miljö, livsstil och specifika sjukdomar**",
-      null,
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven beskriver **utförligt** specifika läkemedel, deras verkningssätt, användningsområden och biverkningar",
-      "2Eleven ger också exempel på mikroorganismer och beskriver **utförligt** hur de kan spridas samt beskriver **utförligt** kroppens försvarssystem",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3I beskrivningarna använder eleven **med viss säkerhet** medicinsk terminologi",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+      [
+        "Eleven beskriver **utförligt** människokroppens uppbyggnad och funktion",
+        "Eleven beskriver också **utförligt** olika sjukdomar och deras specifika fysiska och psykiska symtom",
+        "Dessutom ger eleven exempel på, **och förklarar sambanden mellan**, relevanta undersökningsmetoder, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar",
+        "Eleven beskriver **utförligt** kroppens vätske- och näringsbalans, ger exempel på sjukdomar där balansen kan rubbas **samt beskriver symtom som uppkommer när balansen är rubbad**"
+      ],
+      [
+        null,
+        "**Eleven förklarar utförligt några samband mellan människa, miljö, livsstil och specifika sjukdomar**"
+      ],
+      [
+        "Eleven beskriver **utförligt** specifika läkemedel, deras verkningssätt, användningsområden och biverkningar",
+        "Eleven ger också exempel på mikroorganismer och beskriver **utförligt** hur de kan spridas samt beskriver **utförligt** kroppens försvarssystem"
+      ],
+      [
+        "I beskrivningarna använder eleven **med viss säkerhet** medicinsk terminologi"
+      ]
     ],
     "A": [
-      "0Eleven beskriver **utförligt och nyanserat** människokroppens uppbyggnad och funktion",
-      "0Eleven beskriver också **utförligt och nyanserat** olika sjukdomar och deras specifika fysiska och psykiska symtom",
-      "0Dessutom ger eleven exempel på, **och förklarar nyanserat sambanden mellan**, relevanta undersökningsmetoder, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar",
-      "0Eleven beskriver **utförligt och nyanserat** kroppens vätske- och näringsbalans, ger exempel på sjukdomar där balansen kan rubbas **samt beskriver symtom som uppkommer när balansen är rubbad och motiverar varför de uppkommer**",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1**Eleven förklarar utförligt och nyanserat några samband mellan människa, miljö, livsstil och specifika sjukdomar",
-      "1Dessutom värderar eleven med enkla omdömen olika förklaringar till samband mellan sjukdom och människans fysiska, psykiska och sociala förutsättningar**",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven beskriver **utförligt och nyanserat** specifika läkemedel, deras verkningssätt, användningsområden och biverkningar",
-      "2Eleven ger också exempel på mikroorganismer och beskriver **utförligt och nyanserat** hur de kan spridas samt beskriver **utförligt och nyanserat** kroppens försvarssystem",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3I beskrivningarna använder eleven **med säkerhet** medicinsk terminologi",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION"
+      [
+        "Eleven beskriver **utförligt och nyanserat** människokroppens uppbyggnad och funktion",
+        "Eleven beskriver också **utförligt och nyanserat** olika sjukdomar och deras specifika fysiska och psykiska symtom",
+        "Dessutom ger eleven exempel på, **och förklarar nyanserat sambanden mellan**, relevanta undersökningsmetoder, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar",
+        "Eleven beskriver **utförligt och nyanserat** kroppens vätske- och näringsbalans, ger exempel på sjukdomar där balansen kan rubbas **samt beskriver symtom som uppkommer när balansen är rubbad och motiverar varför de uppkommer**"
+      ],
+      [
+        "**Eleven förklarar utförligt och nyanserat några samband mellan människa, miljö, livsstil och specifika sjukdomar",
+        "Dessutom värderar eleven med enkla omdömen olika förklaringar till samband mellan sjukdom och människans fysiska, psykiska och sociala förutsättningar**"
+      ],
+      [
+        "Eleven beskriver **utförligt och nyanserat** specifika läkemedel, deras verkningssätt, användningsområden och biverkningar",
+        "Eleven ger också exempel på mikroorganismer och beskriver **utförligt och nyanserat** hur de kan spridas samt beskriver **utförligt och nyanserat** kroppens försvarssystem"
+      ],
+      [
+        "I beskrivningarna använder eleven **med säkerhet** medicinsk terminologi"
+      ]
     ]
   }
 }

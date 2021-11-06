@@ -32,67 +32,82 @@
   },
   "knowledgeRequirements": {
     "E": [
-      "0Eleven redogör **övergripande** för konstruktionsprocessen och dess delar samt för sambanden mellan dem",
-      null,
-      "0Eleven planerar **med säkerhet** konstruktionsarbete samt löser sammansatta problem och konstruktionsuppgifter med **tillfredställande** resultat",
-      "0Dessutom utvärderar eleven arbetet med **välgrundade** omdömen",
-      "0Eleven använder med **tillfredsställande** resultat, matematiska och teknikvetenskapliga teorier och modeller som stöd i sitt konstruktionsarbete",
-      "0Arbetet kan utföras både med och utan datorstödda verktyg",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven använder **med säkerhet** konstruktionsverktyg för visualisering, dimensionering och dokumentation i sitt konstruktionsarbete samt visar **övergripande** kunskaper om deras egenskaper och begränsningar",
-      "1Dessutom tar eleven i sitt arbete hänsyn till standarder och normer",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven redogör **övergripande** för vanliga konstruktionsmaterial och deras användningsområden",
-      "2Eleven resonerar **övergripande** kring sambandet mellan materialval och konstruktionsfunktion",
-      "2Eleven utarbetar berednings- och tillverkningsunderlag med **tillfredställande** resultat",
-      "2Eleven redogör **övergripande** för sambanden mellan konstruktion och tillverkning, kvalitet, lönsamhet och hållbar utveckling",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven utför **med säkerhet** dimensionering och provning av konstruktioner genom mätningar, simuleringar och test med **tillfredsställande** resultat, både manuellt och med hjälp av datorer",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION",
-      "4Eleven dokumenterar och redovisar konstruktionsarbetet och resultatet **med säkerhet** och med relevanta tekniska hjälpmedel",
-      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+      [
+        "Eleven redogör **övergripande** för konstruktionsprocessen och dess delar samt för sambanden mellan dem",
+        null,
+        "Eleven planerar **med säkerhet** konstruktionsarbete samt löser sammansatta problem och konstruktionsuppgifter med **tillfredställande** resultat",
+        "Dessutom utvärderar eleven arbetet med **välgrundade** omdömen",
+        "Eleven använder med **tillfredsställande** resultat, matematiska och teknikvetenskapliga teorier och modeller som stöd i sitt konstruktionsarbete",
+        "Arbetet kan utföras både med och utan datorstödda verktyg"
+      ],
+      [
+        "Eleven använder **med säkerhet** konstruktionsverktyg för visualisering, dimensionering och dokumentation i sitt konstruktionsarbete samt visar **övergripande** kunskaper om deras egenskaper och begränsningar",
+        "Dessutom tar eleven i sitt arbete hänsyn till standarder och normer"
+      ],
+      [
+        "Eleven redogör **övergripande** för vanliga konstruktionsmaterial och deras användningsområden",
+        "Eleven resonerar **övergripande** kring sambandet mellan materialval och konstruktionsfunktion",
+        "Eleven utarbetar berednings- och tillverkningsunderlag med **tillfredställande** resultat",
+        "Eleven redogör **övergripande** för sambanden mellan konstruktion och tillverkning, kvalitet, lönsamhet och hållbar utveckling"
+      ],
+      [
+        "Eleven utför **med säkerhet** dimensionering och provning av konstruktioner genom mätningar, simuleringar och test med **tillfredsställande** resultat, både manuellt och med hjälp av datorer"
+      ],
+      [
+        "Eleven dokumenterar och redovisar konstruktionsarbetet och resultatet **med säkerhet** och med relevanta tekniska hjälpmedel"
+      ]
     ],
     "C": [
-      "0Eleven redogör **utförligt** för konstruktionsprocessen och dess delar samt för sambanden mellan dem",
-      "0**Dessutom för eleven specialiserade resonemang kring någon av processens delar**",
-      "0Eleven planerar **med god säkerhet** konstruktionsarbete samt löser konstruktionsuppgifter med **gott** resultat",
-      "0Dessutom utvärderar eleven arbetet med **välgrundade och nyanserade** omdömen",
-      "0Eleven använder med **gott** resultat, matematiska och teknikvetenskapliga teorier och modeller som stöd i sitt konstruktionsarbete",
-      "0Arbetet kan utföras både med och utan datorstödda verktyg",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven använder **med god säkerhet** konstruktionsverktyg för visualisering, dimensionering och dokumentation i sitt konstruktionsarbete samt visar **specialiserade** kunskaper om dess egenskaper och begränsningar",
-      "1Dessutom tar eleven i sitt arbete hänsyn till standarder och normer",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven redogör **övergripande** för, **och visar i något fall specialiserade kunskaper om,** vanliga konstruktionsmaterial och dess användningsområden",
-      "2Eleven resonerar också **utförligt** kring sambandet mellan materialval och konstruktionsfunktion",
-      "2Eleven utarbetar berednings- och tillverkningsunderlag **med gott** resultat",
-      "2Eleven redogör **övergripande** för, **och visar i något fall specialiserade kunskaper om,** sambanden mellan konstruktion och tillverkning, kvalitet, lönsamhet och hållbar utveckling",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven utför **med god säkerhe**t dimensionering och provning av konstruktioner genom mätningar, simuleringar och test **med gott** resultat, både manuellt och med hjälp av datorer",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION",
-      "4Eleven dokumenterar och redovisar konstruktionsarbetet och resultatet **med god säkerhet** och med relevanta tekniska hjälpmedel",
-      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+      [
+        "Eleven redogör **utförligt** för konstruktionsprocessen och dess delar samt för sambanden mellan dem",
+        "**Dessutom för eleven specialiserade resonemang kring någon av processens delar**",
+        "Eleven planerar **med god säkerhet** konstruktionsarbete samt löser konstruktionsuppgifter med **gott** resultat",
+        "Dessutom utvärderar eleven arbetet med **välgrundade och nyanserade** omdömen",
+        "Eleven använder med **gott** resultat, matematiska och teknikvetenskapliga teorier och modeller som stöd i sitt konstruktionsarbete",
+        "Arbetet kan utföras både med och utan datorstödda verktyg"
+      ],
+      [
+        "Eleven använder **med god säkerhet** konstruktionsverktyg för visualisering, dimensionering och dokumentation i sitt konstruktionsarbete samt visar **specialiserade** kunskaper om dess egenskaper och begränsningar",
+        "Dessutom tar eleven i sitt arbete hänsyn till standarder och normer"
+      ],
+      [
+        "Eleven redogör **övergripande** för, **och visar i något fall specialiserade kunskaper om,** vanliga konstruktionsmaterial och dess användningsområden",
+        "Eleven resonerar också **utförligt** kring sambandet mellan materialval och konstruktionsfunktion",
+        "Eleven utarbetar berednings- och tillverkningsunderlag **med gott** resultat",
+        "Eleven redogör **övergripande** för, **och visar i något fall specialiserade kunskaper om,** sambanden mellan konstruktion och tillverkning, kvalitet, lönsamhet och hållbar utveckling"
+      ],
+      [
+        "Eleven utför **med god säkerhe**t dimensionering och provning av konstruktioner genom mätningar, simuleringar och test **med gott** resultat, både manuellt och med hjälp av datorer"
+      ],
+      [
+        "Eleven dokumenterar och redovisar konstruktionsarbetet och resultatet **med god säkerhet** och med relevanta tekniska hjälpmedel"
+      ]
     ],
     "A": [
-      "0Eleven redogör **utförligt och nyanserat** för konstruktionsprocessen och dess delar samt för sambanden mellan dem",
-      "0**Dessutom för eleven specialiserade resonemang kring några av processens delar**",
-      "0Eleven planerar **med mycket god säkerhet** konstruktionsarbete samt löser **sammansatta problem** och konstruktionsuppgifter med **mycket gott** resultat",
-      "0Dessutom utvärderar eleven arbetet med **välgrundade och nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**",
-      "0Eleven använder **med mycket gott** resultat, matematiska och teknikvetenskapliga teorier och modeller som stöd i sitt konstruktionsarbete",
-      "0Arbetet kan utföras både med och utan datorstödda verktyg",
-      "0THIS 0IS 0THE 0START 0OF 0SECTION",
-      "1Eleven använder **med mycket god säkerhet** konstruktionsverktyg för visualisering, dimensionering och dokumentation i sitt konstruktionsarbete samt visar **specialiserade** kunskaper om dess egenskaper och begränsningar",
-      "1Dessutom tar eleven i sitt arbete hänsyn till standarder och normer",
-      "1THIS 1IS 1THE 1START 1OF 1SECTION",
-      "2Eleven redogör **övergripande** för, **och visar i några fall specialiserade kunskaper om**, vanliga konstruktionsmaterial och dess användningsområden",
-      "2Eleven resonerar också **utförligt och nyanserat** kring sambandet mellan materialval och konstruktionsfunktion",
-      "2Eleven utarbetar berednings- och tillverkningsunderlag **med mycket gott** resultat",
-      "2Eleven redogör övergripande för, **och visar i några fall specialiserade kunskaper om**, sambanden mellan konstruktion och tillverkning, kvalitet, lönsamhet och hållbar utveckling",
-      "2THIS 2IS 2THE 2START 2OF 2SECTION",
-      "3Eleven utför **med mycket god säkerhe**t dimensionering och provning av konstruktioner genom **avancerade** mätningar, simuleringar och test **med mycket gott** resultat, både manuellt och med hjälp av datorer",
-      "3THIS 3IS 3THE 3START 3OF 3SECTION",
-      "4Eleven dokumenterar och redovisar konstruktionsarbetet och resultatet **med mycket god säkerhet** och med relevanta tekniska hjälpmedel",
-      "4THIS 4IS 4THE 4START 4OF 4SECTION"
+      [
+        "Eleven redogör **utförligt och nyanserat** för konstruktionsprocessen och dess delar samt för sambanden mellan dem",
+        "**Dessutom för eleven specialiserade resonemang kring några av processens delar**",
+        "Eleven planerar **med mycket god säkerhet** konstruktionsarbete samt löser **sammansatta problem** och konstruktionsuppgifter med **mycket gott** resultat",
+        "Dessutom utvärderar eleven arbetet med **välgrundade och nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**",
+        "Eleven använder **med mycket gott** resultat, matematiska och teknikvetenskapliga teorier och modeller som stöd i sitt konstruktionsarbete",
+        "Arbetet kan utföras både med och utan datorstödda verktyg"
+      ],
+      [
+        "Eleven använder **med mycket god säkerhet** konstruktionsverktyg för visualisering, dimensionering och dokumentation i sitt konstruktionsarbete samt visar **specialiserade** kunskaper om dess egenskaper och begränsningar",
+        "Dessutom tar eleven i sitt arbete hänsyn till standarder och normer"
+      ],
+      [
+        "Eleven redogör **övergripande** för, **och visar i några fall specialiserade kunskaper om**, vanliga konstruktionsmaterial och dess användningsområden",
+        "Eleven resonerar också **utförligt och nyanserat** kring sambandet mellan materialval och konstruktionsfunktion",
+        "Eleven utarbetar berednings- och tillverkningsunderlag **med mycket gott** resultat",
+        "Eleven redogör övergripande för, **och visar i några fall specialiserade kunskaper om**, sambanden mellan konstruktion och tillverkning, kvalitet, lönsamhet och hållbar utveckling"
+      ],
+      [
+        "Eleven utför **med mycket god säkerhe**t dimensionering och provning av konstruktioner genom **avancerade** mätningar, simuleringar och test **med mycket gott** resultat, både manuellt och med hjälp av datorer"
+      ],
+      [
+        "Eleven dokumenterar och redovisar konstruktionsarbetet och resultatet **med mycket god säkerhet** och med relevanta tekniska hjälpmedel"
+      ]
     ]
   }
 }
