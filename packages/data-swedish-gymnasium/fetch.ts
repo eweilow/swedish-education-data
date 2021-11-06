@@ -23,8 +23,11 @@ async function main() {
       file,
       prettier.format(readFileSync(file, "utf-8"), {
         filepath: file,
-        xmlWhitespaceSensitivity: "ignore",
-      } as any)
+        ...({
+          xmlWhitespaceSensitivity: "ignore",
+        } as any),
+        plugins: [require("@prettier/plugin-xml")],
+      })
     );
   }
 }
