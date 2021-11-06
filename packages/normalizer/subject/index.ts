@@ -69,7 +69,7 @@ export async function normalizeSubjects(
     cwd: inputDirectory,
     absolute: true,
   })) {
-    const contents = readFileSync(file, "utf-8");
+    const contents = readFileSync(file, "utf-8").replaceAll("–", "-");
 
     const data = await parseXML(contents);
     const { subject } = data;

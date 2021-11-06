@@ -81,7 +81,7 @@ function getFocusAreas(description: string | null, name: string, code: string) {
 
   const [, match] = expr.exec(row)!;
 
-  const finalMatchExpr = /(([0-9]+–[0-9]+)|([0-9]+)|(samtliga mål))/g;
+  const finalMatchExpr = /(([0-9]+[–-][0-9]+)|([0-9]+)|(samtliga mål))/g;
   const matches = [...match.matchAll(finalMatchExpr)].map((el) => el[1]);
   assert.isAtLeast(matches.length, 1, `in ${name} (${code})`);
 
@@ -330,7 +330,7 @@ export async function normalizeCourses(
     cwd: inputDirectory,
     absolute: true,
   })) {
-    const contents = readFileSync(file, "utf-8");
+    const contents = readFileSync(file, "utf-8").replaceAll("–", "-");
 
     const subjectData = await parseXML(contents);
     const { subject } = subjectData;
