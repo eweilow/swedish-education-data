@@ -140,14 +140,16 @@ export async function normalizeSubjects(
       for (let i = 0; i < rows.length; i++) {
         rows[i] = rows[i]
           .replace(/(\w) (\d+ poäng)/, (_, a, b) => a + ", " + b)
-          .replace(/(\d+ poäng), .+$/, (_, a, b) => a + ".");
+          .replace(/(\d+ poäng), .+$/, (_, a, b) => a + ".")
+          .replace(/(\d+ poäng). .+$/, (_, a, b) => a + ".")
+          .replace(/(\d+ poäng) .+$/, (_, a, b) => a + ".");
       }
     }
 
     for (const row of result.purpose?.sections?.[2]?.rows ?? []) {
       assert.match(
         row,
-        /^\d+\. .+?, \d+ poäng/i,
+        /^\d+\. .+?, \d+ poäng\.$/i,
         `in ${result.name} (${result.code})`
       );
     }
