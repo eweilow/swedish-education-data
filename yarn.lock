@@ -234,7 +234,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@education-data/fetcher@^0.0.1-alpha.9, @education-data/fetcher@workspace:packages/fetcher":
+"@education-data/fetcher@^0.0.1-alpha.10, @education-data/fetcher@workspace:packages/fetcher":
   version: 0.0.0-use.local
   resolution: "@education-data/fetcher@workspace:packages/fetcher"
   dependencies:
@@ -251,7 +251,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@education-data/normalizer@^0.0.1-alpha.9, @education-data/normalizer@workspace:packages/normalizer":
+"@education-data/normalizer@^0.0.1-alpha.12, @education-data/normalizer@workspace:packages/normalizer":
   version: 0.0.0-use.local
   resolution: "@education-data/normalizer@workspace:packages/normalizer"
   dependencies:
@@ -272,7 +272,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@education-data/parser@^0.0.1-alpha.9, @education-data/parser@workspace:packages/parser":
+"@education-data/parser@^0.0.1-alpha.10, @education-data/parser@workspace:packages/parser":
   version: 0.0.0-use.local
   resolution: "@education-data/parser@workspace:packages/parser"
   dependencies:
@@ -301,9 +301,9 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@education-data/swedish-gymnasium@workspace:packages/data-swedish-gymnasium"
   dependencies:
-    "@education-data/fetcher": ^0.0.1-alpha.9
-    "@education-data/normalizer": ^0.0.1-alpha.9
-    "@education-data/parser": ^0.0.1-alpha.9
+    "@education-data/fetcher": ^0.0.1-alpha.10
+    "@education-data/normalizer": ^0.0.1-alpha.12
+    "@education-data/parser": ^0.0.1-alpha.10
     "@prettier/plugin-xml": ^1.1.0
     "@types/glob": ^7.1.1
     "@types/prettier": ^2.4.1

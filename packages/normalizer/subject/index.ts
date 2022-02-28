@@ -71,7 +71,13 @@ export async function normalizeSubjects(
       .replaceAll(String.fromCharCode(173), "");
 
     const data = await parseXML(contents);
+
     const { subject } = data;
+    const appliesFrom = new Date(subject.appliancedate[0]);
+
+    if (Date.now() < +appliesFrom) {
+      continue; // Ignore if not yet applicable
+    }
 
     const result = {
       name: pickOnlyIf.string(subject.name?.[0]),

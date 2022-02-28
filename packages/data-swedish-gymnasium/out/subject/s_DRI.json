@@ -20,6 +20,7 @@
   "courseInfo": {
     "DRIAVH01": "Avhjälpande underhåll 1, 100 poäng.",
     "DRIAVH02": "Avhjälpande underhåll 2, 100 poäng.",
+    "DRIUNÅ0": "Underhåll - lager och smörjteknik, 100 poäng.",
     "DRIUND0": "Underhåll - driftsäkerhet, 100 poäng.",
     "DRIUNE0": "Underhåll - elteknik, 100 poäng.",
     "DRIUNH0": "Underhåll - hydraulik och pneumatik, 100 poäng.",
@@ -29,8 +30,7 @@
     "DRIUNR0": "Underhåll - hydraulik, 100 poäng.",
     "DRIUNT0": "Underhåll - transmissioner och uppriktning, 100 poäng.",
     "DRIUNU0": "Underhåll - pumpteknik, 100 poäng.",
-    "DRIUNV0": "Underhåll - vibrationsteknik, 100 poäng.",
-    "DRIUNÅ0": "Underhåll - lager och smörjteknik, 100 poäng."
+    "DRIUNV0": "Underhåll - vibrationsteknik, 100 poäng."
   },
   "description": "Ämnet driftsäkerhet och underhåll handlar om hur ett välutvecklat underhåll får teknisk utrustning att fungera på ett optimalt sätt. Det behandlar tekniska utrustningars uppbyggnad, funktion och styrning samt hur man med hjälp av tekniska och organisatoriska åtgärder kan lösa drifttekniska problem. Ämnet behandlar också förbättringsprocessens betydelse.",
   "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
@@ -39,6 +39,7 @@
   "courses": [
     "DRIAVH01",
     "DRIAVH02",
+    "DRIUNÅ0",
     "DRIUND0",
     "DRIUNE0",
     "DRIUNH0",
@@ -48,7 +49,6 @@
     "DRIUNR0",
     "DRIUNT0",
     "DRIUNU0",
-    "DRIUNV0",
-    "DRIUNÅ0"
+    "DRIUNV0"
   ]
 }

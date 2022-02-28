@@ -337,6 +337,11 @@ export async function normalizeCourses(
 
     const subjectData = await parseXML(contents);
     const { subject } = subjectData;
+    const appliesFrom = new Date(subject.appliancedate[0]);
+
+    if (Date.now() < +appliesFrom) {
+      continue; // Ignore if not yet applicable
+    }
 
     for (const course of subject.courses) {
       const result = {

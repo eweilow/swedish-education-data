@@ -255,6 +255,11 @@
     "file": "./subject/s_ELA.json"
   },
   {
+    "code": "ELÄ",
+    "title": "Elmätteknik",
+    "file": "./subject/s_ELÄ.json"
+  },
+  {
     "code": "ELC",
     "title": "El- och hybridfordonsteknik",
     "file": "./subject/s_ELC.json"
@@ -308,11 +313,6 @@
     "code": "ELR",
     "title": "Elektroteknik",
     "file": "./subject/s_ELR.json"
-  },
-  {
-    "code": "ELÄ",
-    "title": "Elmätteknik",
-    "file": "./subject/s_ELÄ.json"
   },
   {
     "code": "ENE",
@@ -430,6 +430,16 @@
     "file": "./subject/s_FOR.json"
   },
   {
+    "code": "FÖR",
+    "title": "Företagsekonomi",
+    "file": "./subject/s_FÖR.json"
+  },
+  {
+    "code": "FÖS",
+    "title": "Försäljning och kundservice",
+    "file": "./subject/s_FÖS.json"
+  },
+  {
     "code": "FOT",
     "title": "Fotografisk bild",
     "file": "./subject/s_FOT.json"
@@ -458,16 +468,6 @@
     "code": "FYS",
     "title": "Fysik",
     "file": "./subject/s_FYS.json"
-  },
-  {
-    "code": "FÖR",
-    "title": "Företagsekonomi",
-    "file": "./subject/s_FÖR.json"
-  },
-  {
-    "code": "FÖS",
-    "title": "Försäljning och kundservice",
-    "file": "./subject/s_FÖS.json"
   },
   {
     "code": "GAS",
@@ -505,6 +505,11 @@
     "file": "./subject/s_GRA.json"
   },
   {
+    "code": "GRÄ",
+    "title": "Gränssnittsdesign",
+    "file": "./subject/s_GRÄ.json"
+  },
+  {
     "code": "GRF",
     "title": "Grafisk produktion",
     "file": "./subject/s_GRF.json"
@@ -518,11 +523,6 @@
     "code": "GRU",
     "title": "Grundläggande vård och omsorg",
     "file": "./subject/s_GRU.json"
-  },
-  {
-    "code": "GRÄ",
-    "title": "Gränssnittsdesign",
-    "file": "./subject/s_GRÄ.json"
   },
   {
     "code": "GYN",
@@ -540,6 +540,11 @@
     "file": "./subject/s_HAL.json"
   },
   {
+    "code": "HÅL",
+    "title": "Hållbart samhälle",
+    "file": "./subject/s_HÅL.json"
+  },
+  {
     "code": "HAN",
     "title": "Handel",
     "file": "./subject/s_HAN.json"
@@ -548,6 +553,11 @@
     "code": "HAO",
     "title": "Hälso- och sjukvård",
     "file": "./subject/s_HAO.json"
+  },
+  {
+    "code": "HÄT",
+    "title": "Hästkunskap",
+    "file": "./subject/s_HÄT.json"
   },
   {
     "code": "HAV",
@@ -615,16 +625,6 @@
     "file": "./subject/s_HYG.json"
   },
   {
-    "code": "HÅL",
-    "title": "Hållbart samhälle",
-    "file": "./subject/s_HÅL.json"
-  },
-  {
-    "code": "HÄT",
-    "title": "Hästkunskap",
-    "file": "./subject/s_HÄT.json"
-  },
-  {
     "code": "IDR",
     "title": "Idrott och hälsa",
     "file": "./subject/s_IDR.json"
@@ -685,11 +685,6 @@
     "file": "./subject/s_INV.json"
   },
   {
-    "code": "JUR",
-    "title": "Juridik",
-    "file": "./subject/s_JUR.json"
-  },
-  {
     "code": "JÄN",
     "title": "Järnvägsteknik",
     "file": "./subject/s_JÄN.json"
@@ -698,6 +693,11 @@
     "code": "JÄR",
     "title": "Järnvägsbyggnad",
     "file": "./subject/s_JÄR.json"
+  },
+  {
+    "code": "JUR",
+    "title": "Juridik",
+    "file": "./subject/s_JUR.json"
   },
   {
     "code": "KAR",
@@ -860,9 +860,19 @@
     "file": "./subject/s_MAI.json"
   },
   {
+    "code": "MÄI",
+    "title": "Människan i industrin",
+    "file": "./subject/s_MÄI.json"
+  },
+  {
     "code": "MAK",
     "title": "Maskintjänst",
     "file": "./subject/s_MAK.json"
+  },
+  {
+    "code": "MÄK",
+    "title": "Människans språk",
+    "file": "./subject/s_MÄK.json"
   },
   {
     "code": "MAL",
@@ -875,6 +885,11 @@
     "file": "./subject/s_MAN.json"
   },
   {
+    "code": "MÄN",
+    "title": "Människan",
+    "file": "./subject/s_MÄN.json"
+  },
+  {
     "code": "MAO",
     "title": "Mat och butik",
     "file": "./subject/s_MAO.json"
@@ -885,9 +900,24 @@
     "file": "./subject/s_MAR.json"
   },
   {
+    "code": "MÄS",
+    "title": "Människans säkerhet",
+    "file": "./subject/s_MÄS.json"
+  },
+  {
     "code": "MAT",
     "title": "Matematik",
     "file": "./subject/s_MAT.json"
+  },
+  {
+    "code": "MÅT",
+    "title": "Måltids- och branschkunskap",
+    "file": "./subject/s_MÅT.json"
+  },
+  {
+    "code": "MÄT",
+    "title": "Mät-, styr- och reglerteknik",
+    "file": "./subject/s_MÄT.json"
   },
   {
     "code": "MAY",
@@ -980,36 +1010,6 @@
     "file": "./subject/s_MUS.json"
   },
   {
-    "code": "MÅT",
-    "title": "Måltids- och branschkunskap",
-    "file": "./subject/s_MÅT.json"
-  },
-  {
-    "code": "MÄI",
-    "title": "Människan i industrin",
-    "file": "./subject/s_MÄI.json"
-  },
-  {
-    "code": "MÄK",
-    "title": "Människans språk",
-    "file": "./subject/s_MÄK.json"
-  },
-  {
-    "code": "MÄN",
-    "title": "Människan",
-    "file": "./subject/s_MÄN.json"
-  },
-  {
-    "code": "MÄS",
-    "title": "Människans säkerhet",
-    "file": "./subject/s_MÄS.json"
-  },
-  {
-    "code": "MÄT",
-    "title": "Mät-, styr- och reglerteknik",
-    "file": "./subject/s_MÄT.json"
-  },
-  {
     "code": "NAE",
     "title": "Naturvetenskaplig spets inom försöksverksamhet med riksrekryterande gymnasial spetsutbildning",
     "file": "./subject/s_NAE.json"
@@ -1045,6 +1045,11 @@
     "file": "./subject/s_NAT.json"
   },
   {
+    "code": "NÄT",
+    "title": "Näthandel",
+    "file": "./subject/s_NÄT.json"
+  },
+  {
     "code": "NAU",
     "title": "Naturbruk",
     "file": "./subject/s_NAU.json"
@@ -1053,11 +1058,6 @@
     "code": "NAV",
     "title": "Naturvetenskaplig specialisering",
     "file": "./subject/s_NAV.json"
-  },
-  {
-    "code": "NÄT",
-    "title": "Näthandel",
-    "file": "./subject/s_NÄT.json"
   },
   {
     "code": "ODI",
@@ -1090,14 +1090,14 @@
     "file": "./subject/s_PES.json"
   },
   {
-    "code": "PLT",
-    "title": "Plåtslageriteknik",
-    "file": "./subject/s_PLT.json"
-  },
-  {
     "code": "PLÅ",
     "title": "Plåtslageri",
     "file": "./subject/s_PLÅ.json"
+  },
+  {
+    "code": "PLT",
+    "title": "Plåtslageriteknik",
+    "file": "./subject/s_PLT.json"
   },
   {
     "code": "PRC",
@@ -1375,6 +1375,11 @@
     "file": "./subject/s_SYT.json"
   },
   {
+    "code": "TÄT",
+    "title": "Tätskikt våtrum",
+    "file": "./subject/s_TÄT.json"
+  },
+  {
     "code": "TEA",
     "title": "Teater",
     "file": "./subject/s_TEA.json"
@@ -1415,6 +1420,11 @@
     "file": "./subject/s_TRA.json"
   },
   {
+    "code": "TRÄ",
+    "title": "Trä",
+    "file": "./subject/s_TRÄ.json"
+  },
+  {
     "code": "TRC",
     "title": "Truckteknik",
     "file": "./subject/s_TRC.json"
@@ -1448,16 +1458,6 @@
     "code": "TRV",
     "title": "Travkunskap",
     "file": "./subject/s_TRV.json"
-  },
-  {
-    "code": "TRÄ",
-    "title": "Trä",
-    "file": "./subject/s_TRÄ.json"
-  },
-  {
-    "code": "TÄT",
-    "title": "Tätskikt våtrum",
-    "file": "./subject/s_TÄT.json"
   },
   {
     "code": "UND",
@@ -1495,9 +1495,19 @@
     "file": "./subject/s_VAO.json"
   },
   {
+    "code": "VÅR",
+    "title": "Vård och omsorg",
+    "file": "./subject/s_VÅR.json"
+  },
+  {
     "code": "VAT",
     "title": "Vatten- och miljöteknik",
     "file": "./subject/s_VAT.json"
+  },
+  {
+    "code": "VÄX",
+    "title": "Växtkunskap",
+    "file": "./subject/s_VÄX.json"
   },
   {
     "code": "VEA",
@@ -1538,16 +1548,6 @@
     "code": "VVI",
     "title": "VVS - installation",
     "file": "./subject/s_VVI.json"
-  },
-  {
-    "code": "VÅR",
-    "title": "Vård och omsorg",
-    "file": "./subject/s_VÅR.json"
-  },
-  {
-    "code": "VÄX",
-    "title": "Växtkunskap",
-    "file": "./subject/s_VÄX.json"
   },
   {
     "code": "WES",

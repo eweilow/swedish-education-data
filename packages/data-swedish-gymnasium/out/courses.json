@@ -95,6 +95,11 @@
     "file": "./course/c_ANIANI00S.json"
   },
   {
+    "code": "ANLANÄ0",
+    "title": "Anläggning - ledningsbyggnad",
+    "file": "./course/c_ANLANÄ0.json"
+  },
+  {
     "code": "ANLANG0",
     "title": "Anläggning - stensättning",
     "file": "./course/c_ANLANG0.json"
@@ -123,11 +128,6 @@
     "code": "ANLANS0",
     "title": "Anläggningsprocessen",
     "file": "./course/c_ANLANS0.json"
-  },
-  {
-    "code": "ANLANÄ0",
-    "title": "Anläggning - ledningsbyggnad",
-    "file": "./course/c_ANLANÄ0.json"
   },
   {
     "code": "ANOANA01",
@@ -245,6 +245,11 @@
     "file": "./course/c_BATSKA0.json"
   },
   {
+    "code": "BELBEÄ0",
+    "title": "Beläggningsarbeten",
+    "file": "./course/c_BELBEÄ0.json"
+  },
+  {
     "code": "BELBEG0",
     "title": "Beläggningsmaskiner",
     "file": "./course/c_BELBEG0.json"
@@ -253,11 +258,6 @@
     "code": "BELBEL0",
     "title": "Beläggning",
     "file": "./course/c_BELBEL0.json"
-  },
-  {
-    "code": "BELBEÄ0",
-    "title": "Beläggningsarbeten",
-    "file": "./course/c_BELBEÄ0.json"
   },
   {
     "code": "BERBEB0",
@@ -845,6 +845,11 @@
     "file": "./course/c_DRIAVH02.json"
   },
   {
+    "code": "DRIUNÅ0",
+    "title": "Underhåll - lager och smörjteknik",
+    "file": "./course/c_DRIUNÅ0.json"
+  },
+  {
     "code": "DRIUND0",
     "title": "Underhåll - driftsäkerhet",
     "file": "./course/c_DRIUND0.json"
@@ -895,11 +900,6 @@
     "file": "./course/c_DRIUNV0.json"
   },
   {
-    "code": "DRIUNÅ0",
-    "title": "Underhåll - lager och smörjteknik",
-    "file": "./course/c_DRIUNÅ0.json"
-  },
-  {
     "code": "DRYBAT0",
     "title": "Barteknik",
     "file": "./course/c_DRYBAT0.json"
@@ -928,6 +928,16 @@
     "code": "ELAELL0",
     "title": "Ellära - flyg",
     "file": "./course/c_ELAELL0.json"
+  },
+  {
+    "code": "ELÄELM01",
+    "title": "Elmätteknik 1",
+    "file": "./course/c_ELÄELM01.json"
+  },
+  {
+    "code": "ELÄELM02",
+    "title": "Elmätteknik 2",
+    "file": "./course/c_ELÄELM02.json"
   },
   {
     "code": "ELCELO01",
@@ -1068,16 +1078,6 @@
     "code": "ELRELK0",
     "title": "Elektromekanik",
     "file": "./course/c_ELRELK0.json"
-  },
-  {
-    "code": "ELÄELM01",
-    "title": "Elmätteknik 1",
-    "file": "./course/c_ELÄELM01.json"
-  },
-  {
-    "code": "ELÄELM02",
-    "title": "Elmätteknik 2",
-    "file": "./course/c_ELÄELM02.json"
   },
   {
     "code": "ENEENE01",
@@ -1370,9 +1370,79 @@
     "file": "./course/c_FOOMIL0.json"
   },
   {
+    "code": "FÖRENT0",
+    "title": "Entreprenörskap och företagande",
+    "file": "./course/c_FÖRENT0.json"
+  },
+  {
     "code": "FORFOD0",
     "title": "Fordons- och transportbranschens villkor och arbetsområden",
     "file": "./course/c_FORFOD0.json"
+  },
+  {
+    "code": "FÖRFÖR01",
+    "title": "Företagsekonomi 1",
+    "file": "./course/c_FÖRFÖR01.json"
+  },
+  {
+    "code": "FÖRFÖR02",
+    "title": "Företagsekonomi 2",
+    "file": "./course/c_FÖRFÖR02.json"
+  },
+  {
+    "code": "FÖRFÖR00S",
+    "title": "Företagsekonomi - specialisering",
+    "file": "./course/c_FÖRFÖR00S.json"
+  },
+  {
+    "code": "FÖRMAD0",
+    "title": "Marknadsföring",
+    "file": "./course/c_FÖRMAD0.json"
+  },
+  {
+    "code": "FÖRRED01",
+    "title": "Redovisning 1",
+    "file": "./course/c_FÖRRED01.json"
+  },
+  {
+    "code": "FÖRRED02",
+    "title": "Redovisning 2",
+    "file": "./course/c_FÖRRED02.json"
+  },
+  {
+    "code": "FÖSPER01",
+    "title": "Personlig försäljning 1",
+    "file": "./course/c_FÖSPER01.json"
+  },
+  {
+    "code": "FÖSPER02",
+    "title": "Personlig försäljning 2",
+    "file": "./course/c_FÖSPER02.json"
+  },
+  {
+    "code": "FÖSPER03",
+    "title": "Personlig försäljning 3",
+    "file": "./course/c_FÖSPER03.json"
+  },
+  {
+    "code": "FÖSSER02",
+    "title": "Servicekunskap 2",
+    "file": "./course/c_FÖSSER02.json"
+  },
+  {
+    "code": "FÖSSEV0",
+    "title": "Servicekunskap",
+    "file": "./course/c_FÖSSEV0.json"
+  },
+  {
+    "code": "FÖSSEV01",
+    "title": "Servicekunskap 1",
+    "file": "./course/c_FÖSSEV01.json"
+  },
+  {
+    "code": "FÖSTEL0",
+    "title": "Telefon- och internetservice",
+    "file": "./course/c_FÖSTEL0.json"
   },
   {
     "code": "FOTFOT01",
@@ -1480,66 +1550,6 @@
     "file": "./course/c_FYSFYS03.json"
   },
   {
-    "code": "FÖRENT0",
-    "title": "Entreprenörskap och företagande",
-    "file": "./course/c_FÖRENT0.json"
-  },
-  {
-    "code": "FÖRFÖR01",
-    "title": "Företagsekonomi 1",
-    "file": "./course/c_FÖRFÖR01.json"
-  },
-  {
-    "code": "FÖRFÖR02",
-    "title": "Företagsekonomi 2",
-    "file": "./course/c_FÖRFÖR02.json"
-  },
-  {
-    "code": "FÖRFÖR00S",
-    "title": "Företagsekonomi - specialisering",
-    "file": "./course/c_FÖRFÖR00S.json"
-  },
-  {
-    "code": "FÖRMAD0",
-    "title": "Marknadsföring",
-    "file": "./course/c_FÖRMAD0.json"
-  },
-  {
-    "code": "FÖRRED01",
-    "title": "Redovisning 1",
-    "file": "./course/c_FÖRRED01.json"
-  },
-  {
-    "code": "FÖRRED02",
-    "title": "Redovisning 2",
-    "file": "./course/c_FÖRRED02.json"
-  },
-  {
-    "code": "FÖSPER01",
-    "title": "Personlig försäljning 1",
-    "file": "./course/c_FÖSPER01.json"
-  },
-  {
-    "code": "FÖSPER02",
-    "title": "Personlig försäljning 2",
-    "file": "./course/c_FÖSPER02.json"
-  },
-  {
-    "code": "FÖSPER03",
-    "title": "Personlig försäljning 3",
-    "file": "./course/c_FÖSPER03.json"
-  },
-  {
-    "code": "FÖSSEV0",
-    "title": "Servicekunskap",
-    "file": "./course/c_FÖSSEV0.json"
-  },
-  {
-    "code": "FÖSTEL0",
-    "title": "Telefon- och internetservice",
-    "file": "./course/c_FÖSTEL0.json"
-  },
-  {
     "code": "GASGAS0",
     "title": "Gasturbinmotorer",
     "file": "./course/c_GASGAS0.json"
@@ -1625,6 +1635,11 @@
     "file": "./course/c_GRAGRA0.json"
   },
   {
+    "code": "GRÄGRÄ0",
+    "title": "Gränssnittsdesign",
+    "file": "./course/c_GRÄGRÄ0.json"
+  },
+  {
     "code": "GRAGRA01",
     "title": "Grafisk kommunikation 1",
     "file": "./course/c_GRAGRA01.json"
@@ -1638,6 +1653,11 @@
     "code": "GRAGRI0",
     "title": "Grafisk illustration",
     "file": "./course/c_GRAGRI0.json"
+  },
+  {
+    "code": "GRÄGRN0",
+    "title": "Gränssnitt 3D",
+    "file": "./course/c_GRÄGRN0.json"
   },
   {
     "code": "GRAGRP0",
@@ -1685,16 +1705,6 @@
     "file": "./course/c_GRUGRD0.json"
   },
   {
-    "code": "GRÄGRN0",
-    "title": "Gränssnitt 3D",
-    "file": "./course/c_GRÄGRN0.json"
-  },
-  {
-    "code": "GRÄGRÄ0",
-    "title": "Gränssnittsdesign",
-    "file": "./course/c_GRÄGRÄ0.json"
-  },
-  {
     "code": "GYNGYM3",
     "title": "Gymnasieingenjören i praktiken",
     "file": "./course/c_GYNGYM3.json"
@@ -1720,6 +1730,11 @@
     "file": "./course/c_HALERG0.json"
   },
   {
+    "code": "HÅLHÅB0",
+    "title": "Hållbart samhällsbyggande",
+    "file": "./course/c_HÅLHÅB0.json"
+  },
+  {
     "code": "HALHAL0",
     "title": "Hälsopedagogik",
     "file": "./course/c_HALHAL0.json"
@@ -1735,14 +1750,34 @@
     "file": "./course/c_HALMEN0.json"
   },
   {
+    "code": "HÅLMIJ0",
+    "title": "Miljö- och energikunskap",
+    "file": "./course/c_HÅLMIJ0.json"
+  },
+  {
+    "code": "HÅLPOL0",
+    "title": "Politik och hållbar utveckling",
+    "file": "./course/c_HÅLPOL0.json"
+  },
+  {
     "code": "HANAFR0",
     "title": "Affärsutveckling och ledarskap",
     "file": "./course/c_HANAFR0.json"
   },
   {
+    "code": "HANBRA0",
+    "title": "Branschkunskap inom handel",
+    "file": "./course/c_HANBRA0.json"
+  },
+  {
     "code": "HANBRS0",
     "title": "Branschkunskap inom handel och administration",
     "file": "./course/c_HANBRS0.json"
+  },
+  {
+    "code": "HANHAN0",
+    "title": "Handel och hållbar utveckling",
+    "file": "./course/c_HANHAN0.json"
   },
   {
     "code": "HANHAN00S",
@@ -1778,6 +1813,36 @@
     "code": "HAORAD0",
     "title": "Räddningsmedicin",
     "file": "./course/c_HAORAD0.json"
+  },
+  {
+    "code": "HÄTDEN01a",
+    "title": "Den unga hästens utveckling 1a",
+    "file": "./course/c_HÄTDEN01A.json"
+  },
+  {
+    "code": "HÄTDEN01b",
+    "title": "Den unga hästens utveckling 1b",
+    "file": "./course/c_HÄTDEN01B.json"
+  },
+  {
+    "code": "HÄTDEN02",
+    "title": "Den unga hästens utveckling 2",
+    "file": "./course/c_HÄTDEN02.json"
+  },
+  {
+    "code": "HÄTHÄS01",
+    "title": "Hästkunskap 1",
+    "file": "./course/c_HÄTHÄS01.json"
+  },
+  {
+    "code": "HÄTHÄS02",
+    "title": "Hästkunskap 2",
+    "file": "./course/c_HÄTHÄS02.json"
+  },
+  {
+    "code": "HÄTHÄS03",
+    "title": "Hästkunskap 3",
+    "file": "./course/c_HÄTHÄS03.json"
   },
   {
     "code": "HAVBAR02",
@@ -2210,51 +2275,6 @@
     "file": "./course/c_HYGHYG0.json"
   },
   {
-    "code": "HÅLHÅB0",
-    "title": "Hållbart samhällsbyggande",
-    "file": "./course/c_HÅLHÅB0.json"
-  },
-  {
-    "code": "HÅLMIJ0",
-    "title": "Miljö- och energikunskap",
-    "file": "./course/c_HÅLMIJ0.json"
-  },
-  {
-    "code": "HÅLPOL0",
-    "title": "Politik och hållbar utveckling",
-    "file": "./course/c_HÅLPOL0.json"
-  },
-  {
-    "code": "HÄTDEN01a",
-    "title": "Den unga hästens utveckling 1a",
-    "file": "./course/c_HÄTDEN01A.json"
-  },
-  {
-    "code": "HÄTDEN01b",
-    "title": "Den unga hästens utveckling 1b",
-    "file": "./course/c_HÄTDEN01B.json"
-  },
-  {
-    "code": "HÄTDEN02",
-    "title": "Den unga hästens utveckling 2",
-    "file": "./course/c_HÄTDEN02.json"
-  },
-  {
-    "code": "HÄTHÄS01",
-    "title": "Hästkunskap 1",
-    "file": "./course/c_HÄTHÄS01.json"
-  },
-  {
-    "code": "HÄTHÄS02",
-    "title": "Hästkunskap 2",
-    "file": "./course/c_HÄTHÄS02.json"
-  },
-  {
-    "code": "HÄTHÄS03",
-    "title": "Hästkunskap 3",
-    "file": "./course/c_HÄTHÄS03.json"
-  },
-  {
     "code": "IDRIDO01",
     "title": "Idrott och hälsa 1 - specialisering",
     "file": "./course/c_IDRIDO01.json"
@@ -2475,21 +2495,6 @@
     "file": "./course/c_INVVVS0.json"
   },
   {
-    "code": "JURAFF0",
-    "title": "Affärsjuridik",
-    "file": "./course/c_JURAFF0.json"
-  },
-  {
-    "code": "JURPRI0",
-    "title": "Privatjuridik",
-    "file": "./course/c_JURPRI0.json"
-  },
-  {
-    "code": "JURRÄT0",
-    "title": "Rätten och samhället",
-    "file": "./course/c_JURRÄT0.json"
-  },
-  {
     "code": "JÄNALM0",
     "title": "Allmän järnvägsteknik",
     "file": "./course/c_JÄNALM0.json"
@@ -2518,6 +2523,21 @@
     "code": "JÄRJÄR03",
     "title": "Järnvägsbyggnad 3",
     "file": "./course/c_JÄRJÄR03.json"
+  },
+  {
+    "code": "JURAFF0",
+    "title": "Affärsjuridik",
+    "file": "./course/c_JURAFF0.json"
+  },
+  {
+    "code": "JURPRI0",
+    "title": "Privatjuridik",
+    "file": "./course/c_JURPRI0.json"
+  },
+  {
+    "code": "JURRÄT0",
+    "title": "Rätten och samhället",
+    "file": "./course/c_JURRÄT0.json"
   },
   {
     "code": "KARKAR0",
@@ -3000,6 +3020,16 @@
     "file": "./course/c_MAIBAT02.json"
   },
   {
+    "code": "MÄIMÄN01",
+    "title": "Människan i industrin 1",
+    "file": "./course/c_MÄIMÄN01.json"
+  },
+  {
+    "code": "MÄIMÄN02",
+    "title": "Människan i industrin 2",
+    "file": "./course/c_MÄIMÄN02.json"
+  },
+  {
     "code": "MAIMAR01",
     "title": "Marinelektronik 1",
     "file": "./course/c_MAIMAR01.json"
@@ -3023,6 +3053,16 @@
     "code": "MAIMOT02",
     "title": "Motorelektronik 2",
     "file": "./course/c_MAIMOT02.json"
+  },
+  {
+    "code": "MÄKMÄK01",
+    "title": "Människans språk 1",
+    "file": "./course/c_MÄKMÄK01.json"
+  },
+  {
+    "code": "MÄKMÄK02",
+    "title": "Människans språk 2",
+    "file": "./course/c_MÄKMÄK02.json"
   },
   {
     "code": "MAKMAS0",
@@ -3073,6 +3113,16 @@
     "code": "MANDIA0",
     "title": "Diagnos och reparation",
     "file": "./course/c_MANDIA0.json"
+  },
+  {
+    "code": "MÄNETI0",
+    "title": "Etik och människans livsvillkor",
+    "file": "./course/c_MÄNETI0.json"
+  },
+  {
+    "code": "MÄNINA0",
+    "title": "Internationellt arbete",
+    "file": "./course/c_MÄNINA0.json"
   },
   {
     "code": "MANINT0",
@@ -3145,6 +3195,31 @@
     "file": "./course/c_MARMAR0.json"
   },
   {
+    "code": "MÄSMÄN0",
+    "title": "Människans säkerhet",
+    "file": "./course/c_MÄSMÄN0.json"
+  },
+  {
+    "code": "MÅTBRC0",
+    "title": "Branschkunskap inom restaurang och livsmedel",
+    "file": "./course/c_MÅTBRC0.json"
+  },
+  {
+    "code": "MÄTDIS0",
+    "title": "Distribuerade styrsystem",
+    "file": "./course/c_MÄTDIS0.json"
+  },
+  {
+    "code": "MÄTMÄO0",
+    "title": "Mät- och styrteknik",
+    "file": "./course/c_MÄTMÄO0.json"
+  },
+  {
+    "code": "MÄTMÄT0",
+    "title": "Mät- och reglerteknik",
+    "file": "./course/c_MÄTMÄT0.json"
+  },
+  {
     "code": "MATMAT01a",
     "title": "Matematik 1a",
     "file": "./course/c_MATMAT01A.json"
@@ -3198,6 +3273,11 @@
     "code": "MATMAT00S",
     "title": "Matematik - specialisering",
     "file": "./course/c_MATMAT00S.json"
+  },
+  {
+    "code": "MÄTPRR0",
+    "title": "Programmerbara styrsystem",
+    "file": "./course/c_MÄTPRR0.json"
   },
   {
     "code": "MAYMAR0",
@@ -3550,66 +3630,6 @@
     "file": "./course/c_MUSRYT0.json"
   },
   {
-    "code": "MÅTBRC0",
-    "title": "Branschkunskap inom restaurang och livsmedel",
-    "file": "./course/c_MÅTBRC0.json"
-  },
-  {
-    "code": "MÄIMÄN01",
-    "title": "Människan i industrin 1",
-    "file": "./course/c_MÄIMÄN01.json"
-  },
-  {
-    "code": "MÄIMÄN02",
-    "title": "Människan i industrin 2",
-    "file": "./course/c_MÄIMÄN02.json"
-  },
-  {
-    "code": "MÄKMÄK01",
-    "title": "Människans språk 1",
-    "file": "./course/c_MÄKMÄK01.json"
-  },
-  {
-    "code": "MÄKMÄK02",
-    "title": "Människans språk 2",
-    "file": "./course/c_MÄKMÄK02.json"
-  },
-  {
-    "code": "MÄNETI0",
-    "title": "Etik och människans livsvillkor",
-    "file": "./course/c_MÄNETI0.json"
-  },
-  {
-    "code": "MÄNINA0",
-    "title": "Internationellt arbete",
-    "file": "./course/c_MÄNINA0.json"
-  },
-  {
-    "code": "MÄSMÄN0",
-    "title": "Människans säkerhet",
-    "file": "./course/c_MÄSMÄN0.json"
-  },
-  {
-    "code": "MÄTDIS0",
-    "title": "Distribuerade styrsystem",
-    "file": "./course/c_MÄTDIS0.json"
-  },
-  {
-    "code": "MÄTMÄO0",
-    "title": "Mät- och styrteknik",
-    "file": "./course/c_MÄTMÄO0.json"
-  },
-  {
-    "code": "MÄTMÄT0",
-    "title": "Mät- och reglerteknik",
-    "file": "./course/c_MÄTMÄT0.json"
-  },
-  {
-    "code": "MÄTPRR0",
-    "title": "Programmerbara styrsystem",
-    "file": "./course/c_MÄTPRR0.json"
-  },
-  {
     "code": "NAENAT30S",
     "title": "Naturvetenskaplig spets",
     "file": "./course/c_NAENAT30S.json"
@@ -3710,16 +3730,6 @@
     "file": "./course/c_NATNAT0.json"
   },
   {
-    "code": "NAUNAU0",
-    "title": "Naturbruk",
-    "file": "./course/c_NAUNAU0.json"
-  },
-  {
-    "code": "NAVNAT00S",
-    "title": "Naturvetenskaplig specialisering",
-    "file": "./course/c_NAVNAT00S.json"
-  },
-  {
     "code": "NÄTNÄT01",
     "title": "Näthandel 1",
     "file": "./course/c_NÄTNÄT01.json"
@@ -3728,6 +3738,16 @@
     "code": "NÄTNÄT02",
     "title": "Näthandel 2",
     "file": "./course/c_NÄTNÄT02.json"
+  },
+  {
+    "code": "NAUNAU0",
+    "title": "Naturbruk",
+    "file": "./course/c_NAUNAU0.json"
+  },
+  {
+    "code": "NAVNAT00S",
+    "title": "Naturvetenskaplig specialisering",
+    "file": "./course/c_NAVNAT00S.json"
   },
   {
     "code": "ODIODI00S",
@@ -3835,6 +3855,16 @@
     "file": "./course/c_PESTAX0.json"
   },
   {
+    "code": "PLÅPLÅ0",
+    "title": "Plåtslageri - grunder",
+    "file": "./course/c_PLÅPLÅ0.json"
+  },
+  {
+    "code": "PLÅPLS0",
+    "title": "Plåtslageriprocessen",
+    "file": "./course/c_PLÅPLS0.json"
+  },
+  {
     "code": "PLTBYG01",
     "title": "Byggnadsplåtslageri 1",
     "file": "./course/c_PLTBYG01.json"
@@ -3868,16 +3898,6 @@
     "code": "PLTPLT0",
     "title": "Plåtslageri - svetstekniker",
     "file": "./course/c_PLTPLT0.json"
-  },
-  {
-    "code": "PLÅPLS0",
-    "title": "Plåtslageriprocessen",
-    "file": "./course/c_PLÅPLS0.json"
-  },
-  {
-    "code": "PLÅPLÅ0",
-    "title": "Plåtslageri - grunder",
-    "file": "./course/c_PLÅPLÅ0.json"
   },
   {
     "code": "PRCPRO31",
@@ -4495,6 +4515,11 @@
     "file": "./course/c_SKMVIE0.json"
   },
   {
+    "code": "SKÖBEK0",
+    "title": "Beskärning och trädvård",
+    "file": "./course/c_SKÖBEK0.json"
+  },
+  {
     "code": "SKOFIS01",
     "title": "Fiske och vattenvård 1",
     "file": "./course/c_SKOFIS01.json"
@@ -4523,11 +4548,6 @@
     "code": "SKOMÅN0",
     "title": "Mångbruk av skog",
     "file": "./course/c_SKOMÅN0.json"
-  },
-  {
-    "code": "SKÖBEK0",
-    "title": "Beskärning och trädvård",
-    "file": "./course/c_SKÖBEK0.json"
   },
   {
     "code": "SKÖSKÖ0",
@@ -4855,6 +4875,11 @@
     "file": "./course/c_SYTSYS0.json"
   },
   {
+    "code": "TÄTTÄT0",
+    "title": "Tätskikt våtrum",
+    "file": "./course/c_TÄTTÄT0.json"
+  },
+  {
     "code": "TEADRM0",
     "title": "Dramatik och dramaturgi",
     "file": "./course/c_TEADRM0.json"
@@ -5000,6 +5025,11 @@
     "file": "./course/c_TILTIL02.json"
   },
   {
+    "code": "TRÄBYG0",
+    "title": "Bygga i trä",
+    "file": "./course/c_TRÄBYG0.json"
+  },
+  {
     "code": "TRAFOD0",
     "title": "Fordonskombinationer - persontransporter",
     "file": "./course/c_TRAFOD0.json"
@@ -5008,6 +5038,26 @@
     "code": "TRAFOR0",
     "title": "Fordonskombinationer - godstransporter",
     "file": "./course/c_TRAFOR0.json"
+  },
+  {
+    "code": "TRÄTIM0",
+    "title": "Timring",
+    "file": "./course/c_TRÄTIM0.json"
+  },
+  {
+    "code": "TRÄTRK01",
+    "title": "Trä 1 - stommar",
+    "file": "./course/c_TRÄTRK01.json"
+  },
+  {
+    "code": "TRÄTRK02",
+    "title": "Trä 2 - beklädnad",
+    "file": "./course/c_TRÄTRK02.json"
+  },
+  {
+    "code": "TRÄTRK03",
+    "title": "Trä 3 - montage",
+    "file": "./course/c_TRÄTRK03.json"
   },
   {
     "code": "TRAYRK01a",
@@ -5093,36 +5143,6 @@
     "code": "TRVTRA02",
     "title": "Trav 2",
     "file": "./course/c_TRVTRA02.json"
-  },
-  {
-    "code": "TRÄBYG0",
-    "title": "Bygga i trä",
-    "file": "./course/c_TRÄBYG0.json"
-  },
-  {
-    "code": "TRÄTIM0",
-    "title": "Timring",
-    "file": "./course/c_TRÄTIM0.json"
-  },
-  {
-    "code": "TRÄTRK01",
-    "title": "Trä 1 - stommar",
-    "file": "./course/c_TRÄTRK01.json"
-  },
-  {
-    "code": "TRÄTRK02",
-    "title": "Trä 2 - beklädnad",
-    "file": "./course/c_TRÄTRK02.json"
-  },
-  {
-    "code": "TRÄTRK03",
-    "title": "Trä 3 - montage",
-    "file": "./course/c_TRÄTRK03.json"
-  },
-  {
-    "code": "TÄTTÄT0",
-    "title": "Tätskikt våtrum",
-    "file": "./course/c_TÄTTÄT0.json"
   },
   {
     "code": "UNDFLY0",
@@ -5235,6 +5255,16 @@
     "file": "./course/c_VAOVAT00S.json"
   },
   {
+    "code": "VÅRVÅR01",
+    "title": "Vård- och omsorgsarbete 1",
+    "file": "./course/c_VÅRVÅR01.json"
+  },
+  {
+    "code": "VÅRVÅR02",
+    "title": "Vård- och omsorgsarbete 2",
+    "file": "./course/c_VÅRVÅR02.json"
+  },
+  {
     "code": "VATDRI0",
     "title": "Dricksvatten",
     "file": "./course/c_VATDRI0.json"
@@ -5253,6 +5283,21 @@
     "code": "VATVAT0",
     "title": "Vatten- och miljöteknik",
     "file": "./course/c_VATVAT0.json"
+  },
+  {
+    "code": "VÄXVÄK0",
+    "title": "Växtkunskap - fastighetsskötsel",
+    "file": "./course/c_VÄXVÄK0.json"
+  },
+  {
+    "code": "VÄXVÄX01",
+    "title": "Växtkunskap 1",
+    "file": "./course/c_VÄXVÄX01.json"
+  },
+  {
+    "code": "VÄXVÄX02",
+    "title": "Växtkunskap 2",
+    "file": "./course/c_VÄXVÄX02.json"
   },
   {
     "code": "VEAVER0",
@@ -5368,31 +5413,6 @@
     "code": "VVIVVT0",
     "title": "VVS-teknik",
     "file": "./course/c_VVIVVT0.json"
-  },
-  {
-    "code": "VÅRVÅR01",
-    "title": "Vård- och omsorgsarbete 1",
-    "file": "./course/c_VÅRVÅR01.json"
-  },
-  {
-    "code": "VÅRVÅR02",
-    "title": "Vård- och omsorgsarbete 2",
-    "file": "./course/c_VÅRVÅR02.json"
-  },
-  {
-    "code": "VÄXVÄK0",
-    "title": "Växtkunskap - fastighetsskötsel",
-    "file": "./course/c_VÄXVÄK0.json"
-  },
-  {
-    "code": "VÄXVÄX01",
-    "title": "Växtkunskap 1",
-    "file": "./course/c_VÄXVÄX01.json"
-  },
-  {
-    "code": "VÄXVÄX02",
-    "title": "Växtkunskap 2",
-    "file": "./course/c_VÄXVÄX02.json"
   },
   {
     "code": "WESWEB01",

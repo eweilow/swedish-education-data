@@ -15,7 +15,7 @@ import * as xmlPlugin from "@prettier/plugin-xml";
 async function main() {
   console.info("\n[fetching and extracting data]");
   await fetchSyllabus(
-    "https://opendata.skolverket.se/data/syllabus.tgz",
+    "https://opendata.skolverket.se/data/GY.tgz",
     rawDirectory
   );
 
