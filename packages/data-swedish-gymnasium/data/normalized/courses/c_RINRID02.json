@@ -1,0 +1,102 @@
+{
+  "name": "Ridning 2",
+  "code": "RINRID02",
+  "focusAreas": {
+    "string": "Kursen ridning 2 omfattar punkterna 1-6 och 8-10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2 och 3.",
+    "entries": [
+      "1-6",
+      "8-10"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Hästars gångarter och hoppteknik.",
+          "2. Hästars utveckling, till exempel muskelsättning, kondition, utseende och beteende.",
+          "3. Observation av hästars hälsa och kondition samt hästars reaktioner på träning.",
+          "4. Arbetsplaner och träningsprogram för ridhästar.",
+          "5. Visitering av, utrustning för och ridning av olika typer av hästar.",
+          "6. Träning av hästar för någon eller några av ridsportens olika grenar.",
+          "7. Hantering av hästar i samband med träning och tävling.",
+          "8. Assistans vid löshoppning samt byggande av bana för löshoppning.",
+          "9. Tömkörning av skolad häst i ändamålsenlig form.",
+          "10. Val och vård av utrustning till hästar för olika slags arbete.",
+          "11. Ergonomi, arbetsmiljö och säkerhet i samband med arbete med hästar.",
+          "12. Lagar och andra bestämmelser som rör arbete med hästar.",
+          "13. Bestämmelser om ridning på väg samt i skog och mark.",
+          "14. Etik i samband med träning och tävling."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **översiktligt** för hästars olika gångarter och hoppteknik.",
+        "Eleven redogör också **översiktligt** för hästars utveckling och eventuella avvikelser från en normal utveckling samt för faktorer som påverkar hästars hälsa och kondition.",
+        "Dessutom redogör eleven **översiktligt** för träningsrelaterade skador på ridhästar samt hur skadorna kan förebyggas.",
+        "Eleven upprättar ett **enkelt** träningsprogram för ridhästar samt för **med viss säkerhet** journal över arbete med och skötsel av hästar."
+      ],
+      [
+        "Eleven organiserar, planerar och utför **i samråd** med handledare arbetsuppgifter med ett **tillfredsställande** resultat.",
+        "Dessutom visiterar, utrustar och rider eleven **i samråd** med handledare olika typer av hästar.",
+        "Elevens ridning är **tillfredsställande**.",
+        "Eleven anpassar **i samråd** med handledare specialutrustning för aktuell häst och träning.",
+        "I arbetet och ridningen hanterar eleven hästarna och utrustningen på ett **tillfredsställande** sätt.",
+        "Eleven genomför **i samråd** med handledare tömkörning av skolade hästar samt assisterar vid löshoppning.",
+        "Eleven sköter och vårdar **i samråd** med handledare aktuell utrustning.",
+        "Eleven arbetar säkert och ergonomiskt i samband med ridning.",
+        "Dessutom redogör eleven **översiktligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för hästars olika gångarter och hoppteknik.",
+        "Eleven redogör också **utförligt** för hästars utveckling och eventuella avvikelser från en normal utveckling samt för faktorer som påverkar hästars hälsa och kondition.",
+        "Dessutom redogör eleven **utförligt** för träningsrelaterade skador på ridhästar samt hur skadorna kan förebyggas.",
+        "Eleven upprättar ett **genomarbetat** träningsprogram för ridhästar samt för **med viss säkerhet** journal över arbete med och skötsel av hästar."
+      ],
+      [
+        "Eleven organiserar, planerar och utför **efter samråd** med handledare arbetsuppgifter med ett **tillfredsställande** resultat.",
+        "Dessutom visiterar, utrustar och rider eleven **efter samråd** med handledare olika typer av hästar.",
+        "Elevens ridning är **tillfredsställande**.",
+        "Eleven anpassar **efter samråd** med handledare specialutrustning för aktuell häst och träning.",
+        "I arbetet och ridningen hanterar eleven hästarna och utrustningen på ett **tillfredsställande** sätt.",
+        "Eleven genomför **efter samråd** med handledare tömkörning av skolade hästar samt assisterar vid löshoppning.",
+        "Eleven sköter och vårdar **efter samråd** med handledare aktuell utrustning.",
+        "Eleven arbetar säkert och ergonomiskt i samband med ridning.",
+        "Dessutom redogör eleven **utförligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för hästars olika gångarter och hoppteknik.",
+        "Eleven redogör också **utförligt och nyanserat** för hästars utveckling och eventuella avvikelser från en normal utveckling samt för faktorer som påverkar hästars hälsa och kondition.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för träningsrelaterade skador på ridhästar samt hur skadorna kan förebyggas.",
+        "Eleven upprättar ett **genomarbetat** träningsprogram för ridhästar samt för **med säkerhet** journal över arbete med och skötsel av hästar."
+      ],
+      [
+        "Eleven organiserar, planerar och utför **efter samråd** med handledare arbetsuppgifter med ett **gott** resultat.",
+        "Dessutom visiterar, utrustar och rider eleven **efter samråd** med handledare olika typer av hästar.",
+        "Elevens ridning är **god**.",
+        "Eleven anpassar **efter samråd** med handledare specialutrustning för aktuell häst och träning.",
+        "I arbetet och ridningen hanterar eleven hästarna och utrustningen på ett **gott** sätt.",
+        "Eleven genomför **efter samråd** med handledare tömkörning av skolade hästar samt assisterar vid löshoppning.",
+        "Eleven sköter och vårdar **efter samråd** med handledare aktuell utrustning.",
+        "Eleven arbetar säkert och ergonomiskt i samband med ridning.",
+        "Dessutom redogör eleven **utförligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

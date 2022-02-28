@@ -1,0 +1,90 @@
+{
+  "subject": "DAO",
+  "title": "Multimediasystem",
+  "code": "DAOMUL0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> uppbyggnad, funktion och arbetssätt hos multimediasystem samt hur driftsäkerhet uppnås.",
+        "<strong>Dessutom redogör eleven utförligt och nyanserat för sambandet mellan de olika delarna som ingår i multimediasystemets uppbyggnad</strong>."
+      ],
+      [
+        "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>mycket gott</strong> handlag <strong>avancerad</strong> installation, konfigurering, sammankoppling av enheter och systematisk felsökning samt åtgärdar fel i multimediasystem.",
+        "Resultatet är <strong>gott</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "Eleven hanterar med <strong>mycket gott</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "Eleven ger <strong>med säkerhet</strong> stöd och support till användare på ett serviceinriktat sätt."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> uppbyggnad, funktion och arbetssätt hos multimediasystem samt hur driftsäkerhet uppnås.",
+        null
+      ],
+      [
+        "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>gott</strong> handlag installation, konfigurering, sammankoppling av enheter och enkel systematisk felsökning samt åtgärdar <strong>enkla</strong> fel i multimediasystem.",
+        "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "Eleven hanterar med <strong>gott</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>noggrann</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "Eleven ger <strong>med viss säkerhet</strong> stöd och support till användare på ett serviceinriktat sätt."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> uppbyggnad, funktion och arbetssätt hos multimediasystem samt hur driftsäkerhet uppnås.",
+        null
+      ],
+      [
+        "Eleven planerar och utför <strong>i samråd</strong> med handledare och med <strong>visst</strong> handlag installation, konfigurering, sammankoppling av enheter och enkel systematisk felsökning samt åtgärdar <strong>enkla</strong> fel i multimediasystem.",
+        "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "Eleven hanterar med <strong>visst</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en <strong>enkel</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "Eleven ger <strong>med viss säkerhet</strong> stöd och support till användare på ett serviceinriktat sätt."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Konfigurering, anpassning och sammankoppling av olika enheter till ett fungerande multimediasystem.",
+        "Konfigurering av grafikkort mot bildskärmar, tv och projektorer samt installation av utrustning för videokonferenser.",
+        "Konfigurering av mediaspelare och webbläsare.",
+        "Nätverksfunktioner och konfigurering av tv-apparater, dekodrar och tv-kort till datorer.",
+        "Installation och konfigurering av ip-telefonutrustning (internetprotokoll).",
+        "Konfigurering av digitala ljudkort och ljudsystem och inkoppling av högtalarsystem.",
+        "Installation av server för hemmabruk.",
+        "Installation av olika kommunikationsprogram för snabbmeddelanden och sociala medier.",
+        "Anpassning av molntjänster och internetbaserade tjänster.",
+        "Kodningsmetoder och skydd av upphovsrätten.",
+        "Systematisk felsökning och åtgärdande av enkla fel.",
+        "Stöd och support till användare av multimediadatorer och multimediasystem.",
+        "Konsumenttjänstlagen vid support och hemservice."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen multimediasystem omfattar punkterna 1-5 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ]
+}

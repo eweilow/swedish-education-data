@@ -1,0 +1,139 @@
+{
+  "name": "Spårfordon - grund",
+  "code": "SPOSPA0",
+  "focusAreas": {
+    "string": "Kursen spårfordon - grund omfattar punkterna 1-10 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper.",
+    "entries": [
+      "1-10"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Spårfordons historia, utveckling och framtid samt roll i samhället.",
+          "2. Olika spårbundna fordon och deras användningsområden.",
+          "3. Konstruktion och funktion av olika driftarter för spårfordon, till exempel el-, diesel- och eldieseldrift.",
+          "4. Spårfordons uppbyggnad, funktionssystem och ingående komponenter.",
+          "5. Relevanta metoder och strategier för underhåll av spårfordon.",
+          "6. Instrument, manualer, ritningar, scheman och system för arbeten samt dokumentation vid åtgärder på spårfordon.",
+          "7. Säkerhet i samband med vistelse i spår och spårområden.",
+          "8. Lagar och andra bestämmelser för spårfordon och deras driftsområden.",
+          "9. Enkel demontering, installation och montering.",
+          "10. Funktion och uppbyggnad av system och anläggningar för drift, till exempel kraftförsörjningsanläggningar.",
+          "11. Arbetsmiljö, riskanalys, brandskydd, första hjälpen och krishantering.",
+          "12. Ergonomiskt arbetssätt för att förebygga ohälsa och olycksfall.",
+          "13. Fackspråk för att förstå och följa instruktioner samt för att kommunicera kring arbetets utförande."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **översiktligt** för branschen, dess driftsområden och samhällsfunktion.",
+        "Eleven redogör **översiktligt** för spårbundna fordonstyper, deras användningsområden och driftsmiljö.",
+        "Eleven redogör även **översiktligt** för konstruktion och funktion hos spårfordon med olika driftarter samt funktionssystem och hur dessa system samverkar.",
+        "Dessutom beskriver eleven **översiktligt** metoder för underhåll samt redogör **översiktligt** för underhållets betydelse för driftssäkerhet."
+      ],
+      [
+        "Eleven planerar och organiserar arbetsuppgifter **i samråd** med handledare.",
+        "I planeringen tolkar eleven **med viss säkerhet** instruktioner, ritningar och funktionsbeskrivningar.",
+        "Vidare väljer eleven **i samråd** med handledare arbetsmetoder, verktyg och utrustning som passar för uppgiften."
+      ],
+      [
+        "Eleven hanterar material, utrustning, verktyg och maskiner med **visst** handlag och håller god ordning på arbetsplatsen.",
+        "Eleven arbetar ergonomiskt och på ett sätt som är säkert såväl för eleven själv som för andra samt använder skyddsutrustning och lämpliga arbetskläder.",
+        "Dessutom vårdar eleven **med viss säkerhet** utrustning, maskiner och verktyg enligt instruktioner."
+      ],
+      [
+        "Eleven utför med noggrannhet **i samråd** med handledare arbetsuppgifter med installation, montering och demontering i enlighet med arbetsbeskrivningar, säkerhetsföreskrifter samt givna instruktioner.",
+        null,
+        "Resultatet av arbetet är **tillfredsställande** utifrån givna kvalitets- och funktionskrav.",
+        "Vid arbete i **bekanta** situationer använder eleven **med säkerhet** instruktioner och utrustningsbeskrivningar."
+      ],
+      [
+        "Eleven redogör **översiktligt** för material, teknik, metoder och verktyg som används för arbetsuppgiften och hur dessa påverkar kvalitet och slutresultat.",
+        "Eleven redogör dessutom **översiktligt** för eventuella svårigheter under arbetet samt utvärderar med **enkla** omdömen den egna arbetsinsatsen.",
+        "Dessutom redogör eleven **översiktligt** för individens, gruppens och den mänskliga faktorns betydelse i arbetet samt beskriver åtgärder vid olyckstillbud."
+      ],
+      [
+        "Eleven använder **med viss säkerhet** relevanta **facktermer**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen med **viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för branschen, dess driftsområden och samhällsfunktion.",
+        "Eleven redogör **utförligt** för spårbundna fordonstyper, deras användningsområden och driftsmiljö.",
+        "Eleven redogör även **utförligt** för konstruktion och funktion hos spårfordon med olika driftarter samt funktionssystem och hur dessa system samverkar.",
+        "Dessutom beskriver eleven **utförligt** metoder för underhåll samt redogör **utförligt** för underhållets betydelse för driftssäkerhet."
+      ],
+      [
+        "Eleven planerar och organiserar arbetsuppgifter **efter samråd** med handledare.",
+        "I planeringen tolkar eleven **med viss säkerhet** instruktioner, ritningar och funktionsbeskrivningar.",
+        "Vidare väljer eleven **efter samråd** med handledare arbetsmetoder, verktyg och utrustning som passar för uppgiften."
+      ],
+      [
+        "Eleven hanterar material, utrustning, verktyg och maskiner med **gott** handlag och håller god ordning på arbetsplatsen.",
+        "Eleven arbetar ergonomiskt och på ett sätt som är säkert såväl för eleven själv som för andra samt använder skyddsutrustning och lämpliga arbetskläder.",
+        "Dessutom vårdar eleven **med viss säkerhet** utrustning, maskiner och verktyg enligt instruktioner."
+      ],
+      [
+        "Eleven utför med noggrannhet **efter samråd** med handledare arbetsuppgifter med installation, montering och demontering i enlighet med arbetsbeskrivningar, säkerhetsföreskrifter samt givna instruktioner.",
+        null,
+        "Resultatet av arbetet är **tillfredsställande** utifrån givna kvalitets- och funktionskrav.",
+        "Vid arbete i **nya** situationer använder eleven **med säkerhet** instruktioner och utrustningsbeskrivningar."
+      ],
+      [
+        "Eleven redogör **utförligt** för material, teknik, metoder och verktyg som används för arbetsuppgiften och hur dessa påverkar kvalitet och slutresultat.",
+        "Eleven redogör dessutom **utförligt** för eventuella svårigheter under arbetet samt utvärderar med **välgrundade** omdömen den egna arbetsinsatsen.",
+        "Dessutom redogör eleven **utförligt** för individens, gruppens och den mänskliga faktorns betydelse i arbetet samt beskriver åtgärder vid olyckstillbud."
+      ],
+      [
+        "Eleven använder **med viss säkerhet** relevanta **fackspråk**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen med **viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för branschen, dess driftsområden och samhällsfunktion.",
+        "Eleven redogör **utförligt och nyanserat** för spårbundna fordonstyper, deras användningsområden och driftsmiljö.",
+        "Eleven redogör även **utförligt och nyanserat** för konstruktion och funktion hos spårfordon med olika driftarter samt funktionssystem och hur dessa system samverkar.",
+        "Dessutom beskriver eleven **utförligt och nyanserat** metoder för underhåll samt redogör **utförligt och nyanserat** för underhållets betydelse för driftssäkerhet."
+      ],
+      [
+        "Eleven planerar och organiserar arbetsuppgifter **efter samråd** med handledare.",
+        "I planeringen tolkar eleven **med säkerhet** instruktioner, ritningar och funktionsbeskrivningar.",
+        "Vidare väljer eleven **efter samråd** med handledare arbetsmetoder, verktyg och utrustning som passar för uppgiften."
+      ],
+      [
+        "Eleven hanterar material, utrustning, verktyg och maskiner med **gott** handlag och håller god ordning på arbetsplatsen.",
+        "Eleven arbetar ergonomiskt och på ett sätt som är säkert såväl för eleven själv som för andra samt använder skyddsutrustning och lämpliga arbetskläder.",
+        "Dessutom vårdar eleven **med säkerhet** utrustning, maskiner och verktyg enligt instruktioner."
+      ],
+      [
+        "Eleven utför med noggrannhet **efter samråd** med handledare arbetsuppgifter med installationer, montering och demontering i enlighet med arbetsbeskrivningar, säkerhetsföreskrifter samt givna instruktioner.",
+        "I arbetet använder eleven i **nya** situationer **med säkerhet** instruktioner och utrustningsbeskrivningar.",
+        "Resultatet av arbetet är **gott** utifrån givna kvalitets- och funktionskrav.",
+        "Vid arbete i **nya** situationer använder eleven **med säkerhet** instruktioner och utrustningsbeskrivningar."
+      ],
+      [
+        "Eleven redogör **utförligt och nyanserat** för material, teknik, metoder och verktyg som används för arbetsuppgiften och hur dessa påverkar kvalitet och slutresultat.",
+        "Eleven redogör dessutom **utförligt och nyanserat** för eventuella svårigheter under arbetet samt utvärderar med **välgrundade och nyanserade** omdömen den egna arbetsinsatsen.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för individens, gruppens och den mänskliga faktorns betydelse i arbetet samt beskriver åtgärder vid olyckstillbud."
+      ],
+      [
+        "Eleven använder **med säkerhet** relevant **fackspråk**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

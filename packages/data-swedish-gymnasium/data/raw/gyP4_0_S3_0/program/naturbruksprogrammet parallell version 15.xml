@@ -1,0 +1,2119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<program xmlns="http://syllabus2011program.types.skolverket.se/v4_0">
+  <name>Naturbruksprogrammet</name>
+  <code>NB001</code>
+  <codeExternal>NB</codeExternal>
+  <skolfsId>0000:00</skolfsId>
+  <applianceDate>2018-08-01T00:00:00+02:00</applianceDate>
+  <validTo>2023-06-30T00:00:00+02:00</validTo>
+  <version>15</version>
+  <status>PUBLISHED</status>
+  <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+  <typeOfProgram>VOCATIONAL_PROGRAM</typeOfProgram>
+  <commonMandatory>
+    <subject>
+      <optional>false</optional>
+      <name>Engelska</name>
+      <code>ENG</code>
+      <point>100</point>
+      <course>
+        <name>Engelska 5</name>
+        <code>ENGENG05</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Historia</name>
+      <code>HIS</code>
+      <point>50</point>
+      <course>
+        <name>Historia 1a1</name>
+        <code>HISHIS01a1</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Idrott och hälsa</name>
+      <code>IDR</code>
+      <point>100</point>
+      <course>
+        <name>Idrott och hälsa 1</name>
+        <code>IDRIDR01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Matematik</name>
+      <code>MAT</code>
+      <point>100</point>
+      <course>
+        <name>Matematik 1a</name>
+        <code>MATMAT01a</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Naturkunskap</name>
+      <code>NAK</code>
+      <point>50</point>
+      <course>
+        <name>Naturkunskap 1a1</name>
+        <code>NAKNAK01a1</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Religionskunskap</name>
+      <code>REL</code>
+      <point>50</point>
+      <course>
+        <name>Religionskunskap 1</name>
+        <code>RELREL01</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Samhällskunskap</name>
+      <code>SAM</code>
+      <point>50</point>
+      <course>
+        <name>Samhällskunskap 1a1</name>
+        <code>SAMSAM01a1</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska</name>
+      <code>SVE</code>
+      <point>100</point>
+      <course>
+        <name>Svenska 1</name>
+        <code>SVESVE01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska som andraspråk</name>
+      <code>SVA</code>
+      <point>100</point>
+      <course>
+        <name>Svenska som andraspråk 1</name>
+        <code>SVASVA01</code>
+        <point>100</point>
+      </course>
+    </subject>
+  </commonMandatory>
+  <commonProgram>
+    <subject>
+      <optional>false</optional>
+      <name>Biologi</name>
+      <code>BIO</code>
+      <point>100</point>
+      <course>
+        <name>Biologi 1</name>
+        <code>BIOBIO01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Entreprenörskap</name>
+      <code>ENT</code>
+      <point>100</point>
+      <course>
+        <name>Entreprenörskap</name>
+        <code>ENTENR0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Naturbruk</name>
+      <code>NAU</code>
+      <point>200</point>
+      <course>
+        <name>Naturbruk</name>
+        <code>NAUNAU0</code>
+        <point>200</point>
+      </course>
+    </subject>
+  </commonProgram>
+  <programOrientations>
+    <programOrientation>
+      <subject>
+        <optional>false</optional>
+        <name>Biologi – naturbruk</name>
+        <code>BIG</code>
+        <point>100</point>
+        <course>
+          <name>Djurens biologi</name>
+          <code>BIGDJE0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Djur</name>
+        <code>DJU</code>
+        <point>100</point>
+        <course>
+          <name>Djuren i naturbruket</name>
+          <code>DJUDJR0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Djurhållning</name>
+          <code>DJUDJH0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <name>Djur</name>
+      <code>NBDJU</code>
+      <codeExternal>NBDJU</codeExternal>
+      <point>300</point>
+      <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+    </programOrientation>
+    <programOrientation>
+      <subject>
+        <optional>false</optional>
+        <name>Biologi – naturbruk</name>
+        <code>BIG</code>
+        <point>100</point>
+        <course>
+          <name>Marken och växternas biologi</name>
+          <code>BIGMAN0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Djur</name>
+        <code>DJU</code>
+        <point>100</point>
+        <course>
+          <name>Djuren i naturbruket</name>
+          <code>DJUDJR0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Fordon och redskap inom naturbruk</name>
+        <code>FOH</code>
+        <point>100</point>
+        <course>
+          <name>Fordon och redskap</name>
+          <code>FOHFOR0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <name>Lantbruk</name>
+      <code>NBLAN</code>
+      <codeExternal>NBLAN</codeExternal>
+      <point>300</point>
+      <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+    </programOrientation>
+    <programOrientation>
+      <subject>
+        <optional>false</optional>
+        <name>Biologi – naturbruk</name>
+        <code>BIG</code>
+        <point>100</point>
+        <course>
+          <name>Marken och växternas biologi</name>
+          <code>BIGMAN0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Motor- och röjmotorsåg</name>
+        <code>MOT</code>
+        <point>100</point>
+        <course>
+          <name>Motor- och röjmotorsåg 1</name>
+          <code>MOTMOT01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Skog, mark och vatten</name>
+        <code>SKO</code>
+        <point>100</point>
+        <course>
+          <name>Mångbruk av skog</name>
+          <code>SKOMÅN0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <name>Skog</name>
+      <code>NBSKO</code>
+      <codeExternal>NBSKO</codeExternal>
+      <point>300</point>
+      <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+    </programOrientation>
+    <programOrientation>
+      <subject>
+        <optional>false</optional>
+        <name>Biologi – naturbruk</name>
+        <code>BIG</code>
+        <point>100</point>
+        <course>
+          <name>Marken och växternas biologi</name>
+          <code>BIGMAN0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Fordon och redskap inom naturbruk</name>
+        <code>FOH</code>
+        <point>100</point>
+        <course>
+          <name>Fordon och redskap</name>
+          <code>FOHFOR0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Växtkunskap</name>
+        <code>VÄX</code>
+        <point>100</point>
+        <course>
+          <name>Växtkunskap 1</name>
+          <code>VÄXVÄX01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <name>Trädgård</name>
+      <code>NBTRA</code>
+      <codeExternal>NBTRA</codeExternal>
+      <point>300</point>
+      <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+    </programOrientation>
+  </programOrientations>
+  <profiles />
+  <specialization>
+    <subject>
+      <optional>false</optional>
+      <name>Aktiviteter och värdskap</name>
+      <code>AKT</code>
+      <point>100</point>
+      <course>
+        <name>Besöksnäringen</name>
+        <code>AKTBEO0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Aktiviteter och upplevelser</name>
+        <code>AKTAKT0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Arkitektur</name>
+      <code>ARK</code>
+      <point>100</point>
+      <course>
+        <name>Arkitektur – rum</name>
+        <code>ARKARI0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Biodling</name>
+      <code>BIN</code>
+      <point>100</point>
+      <course>
+        <name>Biodling</name>
+        <code>BINBIO0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Biologi – naturbruk</name>
+      <code>BIG</code>
+      <point>100</point>
+      <course>
+        <name>Djurens biologi</name>
+        <code>BIGDJE0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Marken och växternas biologi</name>
+        <code>BIGMAN0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Bevarandebiologi</name>
+        <code>BIGBEA0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Biologi – naturbruk – specialisering</name>
+        <code>BIGBIG00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Design</name>
+      <code>DES</code>
+      <point>100</point>
+      <course>
+        <name>Design 1</name>
+        <code>DESDES01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Djur</name>
+      <code>DJU</code>
+      <point>100</point>
+      <course>
+        <name>Djuren i naturbruket</name>
+        <code>DJUDJR0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Djurhållning</name>
+        <code>DJUDJH0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Sällskapsdjur 1</name>
+        <code>DJUSÄL01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Sällskapsdjur 2</name>
+        <code>DJUSÄL02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Djur i zoohandel</name>
+        <code>DJUDJI0</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Djur – specialisering</name>
+        <code>DJUDJU00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Djur för forskningsändamål</name>
+      <code>DJF</code>
+      <point>200</point>
+      <course>
+        <name>Djur för forskningsändamål</name>
+        <code>DJFDJU0</code>
+        <point>200</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Djurparksdjur</name>
+      <code>DJP</code>
+      <point>100</point>
+      <course>
+        <name>Djurparksdjur 1</name>
+        <code>DJPDJU01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Djurparksdjur 2</name>
+        <code>DJPDJU02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Djurvård inom djurens hälso- och sjukvård</name>
+      <code>DJR</code>
+      <point>100</point>
+      <course>
+        <name>Djurvård inom djurens hälso- och sjukvård 1</name>
+        <code>DJRDJU01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Djurvård inom djurens hälso- och sjukvård 2</name>
+        <code>DJRDJU02</code>
+        <point>200</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Energiteknik</name>
+      <code>ENE</code>
+      <point>100</point>
+      <course>
+        <name>Förnybar energi</name>
+        <code>ENEFÖR0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Fordon och redskap inom naturbruk</name>
+      <code>FOH</code>
+      <point>100</point>
+      <course>
+        <name>Fordon och redskap</name>
+        <code>FOHFOR0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Fysik</name>
+      <code>FYS</code>
+      <point>100</point>
+      <course>
+        <name>Fysik 1b1</name>
+        <code>FYSFYS01b1</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Företagsekonomi</name>
+      <code>FÖR</code>
+      <point>100</point>
+      <course>
+        <name>Företagsekonomi 1</name>
+        <code>FÖRFÖR01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Företagsekonomi 2</name>
+        <code>FÖRFÖR02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Entreprenörskap och företagande</name>
+        <code>FÖRENT0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Försäljning och kundservice</name>
+      <code>FÖS</code>
+      <point>100</point>
+      <course>
+        <name>Personlig försäljning 1</name>
+        <code>FÖSPER01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Servicekunskap</name>
+        <code>FÖSSEV0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Geografi</name>
+      <code>GEO</code>
+      <point>100</point>
+      <course>
+        <name>Geografi 1</name>
+        <code>GEOGEO01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Hundkunskap</name>
+      <code>HUN</code>
+      <point>100</point>
+      <course>
+        <name>Hundkunskap 1</name>
+        <code>HUNHUN01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Hundkunskap 2</name>
+        <code>HUNHUN02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Hundkunskap 3</name>
+        <code>HUNHUN03</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Träning av hund</name>
+        <code>HUNTRN0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Hygienkunskap</name>
+      <code>HYG</code>
+      <point>100</point>
+      <course>
+        <name>Hygien</name>
+        <code>HYGHYG0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Hästkunskap</name>
+      <code>HÄT</code>
+      <point>100</point>
+      <course>
+        <name>Hästkunskap 1</name>
+        <code>HÄTHÄS01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Hästkunskap 2</name>
+        <code>HÄTHÄS02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Hästkunskap 3</name>
+        <code>HÄTHÄS03</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Kemi</name>
+      <code>KEM</code>
+      <point>100</point>
+      <course>
+        <name>Kemi 1</name>
+        <code>KEMKEM01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Lantbruksdjur</name>
+      <code>LAN</code>
+      <point>100</point>
+      <course>
+        <name>Lantbruksdjur 1</name>
+        <code>LANLAN01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Lantbruksdjur 2</name>
+        <code>LANLAN02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Lantbruksdjur – specialisering</name>
+        <code>LANLAN00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Lantbruksmaskiner</name>
+      <code>LAU</code>
+      <point>100</point>
+      <course>
+        <name>Lantbruksmaskiner 1</name>
+        <code>LAULAT01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Lantbruksmaskiner 2</name>
+        <code>LAULAT02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Lastmaskiner och truckar inom naturbruk</name>
+      <code>LAS</code>
+      <point>100</point>
+      <course>
+        <name>Lastmaskiner och truckar</name>
+        <code>LASLAA0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Livsmedels- och näringskunskap</name>
+      <code>LIV</code>
+      <point>100</point>
+      <course>
+        <name>Livsmedels- och näringskunskap 1</name>
+        <code>LIVLIV01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Matematik</name>
+      <code>MAT</code>
+      <point>100</point>
+      <course>
+        <name>Matematik 2a</name>
+        <code>MATMAT02a</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Matematik 3b</name>
+        <code>MATMAT03b</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Matematik 3c</name>
+        <code>MATMAT03c</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Matlagningskunskap</name>
+      <code>MAL</code>
+      <point>100</point>
+      <course>
+        <name>Matlagning 1</name>
+        <code>MALMAL01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Mobila arbetsmaskiner</name>
+      <code>MOB</code>
+      <point>200</point>
+      <course>
+        <name>Grävmaskiner</name>
+        <code>MOBGRV0</code>
+        <point>200</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Motor- och röjmotorsåg</name>
+      <code>MOT</code>
+      <point>100</point>
+      <course>
+        <name>Motor- och röjmotorsåg 1</name>
+        <code>MOTMOT01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Motor- och röjmotorsåg 2</name>
+        <code>MOTMOT02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Natur- och landskapsvård</name>
+      <code>NAT</code>
+      <point>100</point>
+      <course>
+        <name>Natur- och landskapsvård</name>
+        <code>NATNAT0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Naturbrukets byggnader</name>
+      <code>NAR</code>
+      <point>100</point>
+      <course>
+        <name>Byggnadsunderhåll</name>
+        <code>NARBYA0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Naturguidning</name>
+      <code>NAG</code>
+      <point>100</point>
+      <course>
+        <name>Guidning i naturbruksmiljöer</name>
+        <code>NAGGUD0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Naturguidning 1</name>
+        <code>NAGNAT01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Naturguidning 2</name>
+        <code>NAGNAT02</code>
+        <point>200</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Odling i växthus</name>
+      <code>ODI</code>
+      <point>100</point>
+      <course>
+        <name>Odling i växthus 1</name>
+        <code>ODIODL01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Odling i växthus 2</name>
+        <code>ODIODL02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Odling i växthus – specialisering</name>
+        <code>ODIODI00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Pedagogik</name>
+      <code>PED</code>
+      <point>100</point>
+      <course>
+        <name>Aktivitetsledarskap</name>
+        <code>PEDAKI00S</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Kommunikation</name>
+        <code>PEDKOU0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Programmering</name>
+      <code>PRR</code>
+      <point>100</point>
+      <course>
+        <name>Programmering 1</name>
+        <code>PRRPRR01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Ridning och körning</name>
+      <code>RIN</code>
+      <point>200</point>
+      <course>
+        <name>Ridning och körning</name>
+        <code>RINRID0</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Körning 1</name>
+        <code>RINKOR01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Körning 2</name>
+        <code>RINKOR02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Ridning 1</name>
+        <code>RINRID01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Ridning 2</name>
+        <code>RINRID02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Serviceteknik – naturbruk</name>
+      <code>SEI</code>
+      <point>100</point>
+      <course>
+        <name>Serviceteknik – naturbruk 1</name>
+        <code>SEISEI01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Serviceteknik – naturbruk 2</name>
+        <code>SEISEI02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Serviceteknik – naturbruk – specialisering</name>
+        <code>SEISER00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Skog, mark och vatten</name>
+      <code>SKO</code>
+      <point>100</point>
+      <course>
+        <name>Fiske och vattenvård 1</name>
+        <code>SKOFIS01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Fiske och vattenvård 2</name>
+        <code>SKOFIS02</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Jakt och viltvård 1</name>
+        <code>SKOJAK01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Jakt och viltvård 2</name>
+        <code>SKOJAK02</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Jakt och viltvård – specialisering</name>
+        <code>SKOJAK00S</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Mångbruk av skog</name>
+        <code>SKOMÅN0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Skogsmaskiner</name>
+      <code>SKM</code>
+      <point>100</point>
+      <course>
+        <name>Småskalig skogsteknik</name>
+        <code>SKMSMA0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Terrängtransporter</name>
+        <code>SKMTER0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Virkestransport med skotare</name>
+        <code>SKMVIE0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Avverkningsmaskiner</name>
+        <code>SKMAVV0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Skogsmaskiner – specialisering</name>
+        <code>SKMSKO00S</code>
+        <point>200</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Skogsproduktion</name>
+      <code>SKG</code>
+      <point>100</point>
+      <course>
+        <name>Skogsskötsel 1</name>
+        <code>SKGSKO01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Skogsskötsel 2</name>
+        <code>SKGSKO02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Skogsskötsel – specialisering</name>
+        <code>SKGSKG00S</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Virkeslära</name>
+        <code>SKGVIR0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Virkesmätning</name>
+        <code>SKGVIK0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Skötsel av utemiljöer</name>
+      <code>SKÖ</code>
+      <point>100</point>
+      <course>
+        <name>Skötsel av utemiljöer</name>
+        <code>SKÖSKÖ0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Beskärning och trädvård</name>
+        <code>SKÖBEK0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Skötsel av utemiljöer – specialisering</name>
+        <code>SKÖSKÖ00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska</name>
+      <code>SVE</code>
+      <point>100</point>
+      <course>
+        <name>Svenska 2</name>
+        <code>SVESVE02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska som andraspråk</name>
+      <code>SVA</code>
+      <point>100</point>
+      <course>
+        <name>Svenska som andraspråk 2</name>
+        <code>SVASVA02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Tillämpad programmering</name>
+      <code>TIA</code>
+      <point>100</point>
+      <course>
+        <name>Tillämpad programmering</name>
+        <code>TIATIL00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Travkunskap</name>
+      <code>TRV</code>
+      <point>100</point>
+      <course>
+        <name>Trav 1</name>
+        <code>TRVTRA01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Trav 2</name>
+        <code>TRVTRA02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Trädgårdsanläggning</name>
+      <code>TRD</code>
+      <point>100</point>
+      <course>
+        <name>Trädgårdsanläggning 1</name>
+        <code>TRDTRÄ01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Trädgårdsanläggning 2</name>
+        <code>TRDTRÄ02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Trädgårdsanläggning – specialisering</name>
+        <code>TRDTRÄ00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Trädgårdsmaskiner</name>
+      <code>TRS</code>
+      <point>100</point>
+      <course>
+        <name>Trädgårdsmaskiner</name>
+        <code>TRSTRG0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Trädgårdsodling</name>
+      <code>TRR</code>
+      <point>100</point>
+      <course>
+        <name>Trädgårdsodling</name>
+        <code>TRRTRA0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Trädgårdsodling – grönsaker, frukt och bär</name>
+        <code>TRRTRD0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Trädgårdsodling – plantskoleväxter</name>
+        <code>TRRTRG0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Trädgårdsodling – specialisering</name>
+        <code>TRRTRA00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Växtkunskap</name>
+      <code>VÄX</code>
+      <point>100</point>
+      <course>
+        <name>Växtkunskap 1</name>
+        <code>VÄXVÄX01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Växtkunskap 2</name>
+        <code>VÄXVÄX02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Växtodling</name>
+      <code>VAO</code>
+      <point>100</point>
+      <course>
+        <name>Odling av djurfoder</name>
+        <code>VAOODL0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Växtodling 1</name>
+        <code>VAOVAT01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Växtodling 2</name>
+        <code>VAOVAT02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Växtodling – specialisering</name>
+        <code>VAOVAT00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+  </specialization>
+  <individualChoice />
+  <projectAssignment />
+  <professionalDegrees>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Djur</name>
+        <code>DJU</code>
+        <point>100</point>
+        <course>
+          <name>Sällskapsdjur 1</name>
+          <code>DJUSÄL01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Hundkunskap</name>
+        <code>HUN</code>
+        <point>100</point>
+        <course>
+          <name>Hundkunskap 1</name>
+          <code>HUNHUN01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Hundkunskap 2</name>
+          <code>HUNHUN02</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Hundkunskap 3</name>
+          <code>HUNHUN03</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Träning av hund</name>
+          <code>HUNTRN0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Pedagogik</name>
+        <code>PED</code>
+        <point>100</point>
+        <course>
+          <name>Aktivitetsledarskap</name>
+          <code>PEDAKI00S</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>NBDJU</programOrientationCode>
+      <name>Arbete med hund</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Lantbruksmaskiner</name>
+        <code>LAU</code>
+        <point>100</point>
+        <course>
+          <name>Lantbruksmaskiner 1</name>
+          <code>LAULAT01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Naturbrukets byggnader</name>
+        <code>NAR</code>
+        <point>100</point>
+        <course>
+          <name>Byggnadsunderhåll</name>
+          <code>NARBYA0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Serviceteknik – naturbruk</name>
+        <code>SEI</code>
+        <point>100</point>
+        <course>
+          <name>Serviceteknik – naturbruk 1</name>
+          <code>SEISEI01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Växtodling</name>
+        <code>VAO</code>
+        <point>100</point>
+        <course>
+          <name>Växtodling 1</name>
+          <code>VAOVAT01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Växtodling 2</name>
+          <code>VAOVAT02</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Växtodling – specialisering</name>
+          <code>VAOVAT00S</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>NBLAN</programOrientationCode>
+      <name>Arbete med lantbrukets växtodling</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Biologi – naturbruk</name>
+        <code>BIG</code>
+        <point>100</point>
+        <course>
+          <name>Djurens biologi</name>
+          <code>BIGDJE0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Lantbruksdjur</name>
+        <code>LAN</code>
+        <point>100</point>
+        <course>
+          <name>Lantbruksdjur 1</name>
+          <code>LANLAN01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Lantbruksdjur 2</name>
+          <code>LANLAN02</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Lantbruksdjur – specialisering</name>
+          <code>LANLAN00S</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Naturbrukets byggnader</name>
+        <code>NAR</code>
+        <point>100</point>
+        <course>
+          <name>Byggnadsunderhåll</name>
+          <code>NARBYA0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Växtodling</name>
+        <code>VAO</code>
+        <point>100</point>
+        <course>
+          <name>Odling av djurfoder</name>
+          <code>VAOODL0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>NBDJU</programOrientationCode>
+      <name>Arbete med lantbruksdjur</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Lantbruksmaskiner</name>
+        <code>LAU</code>
+        <point>100</point>
+        <course>
+          <name>Lantbruksmaskiner 1</name>
+          <code>LAULAT01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Lantbruksmaskiner 2</name>
+          <code>LAULAT02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Naturbrukets byggnader</name>
+        <code>NAR</code>
+        <point>100</point>
+        <course>
+          <name>Byggnadsunderhåll</name>
+          <code>NARBYA0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Serviceteknik – naturbruk</name>
+        <code>SEI</code>
+        <point>100</point>
+        <course>
+          <name>Serviceteknik – naturbruk 1</name>
+          <code>SEISEI01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Serviceteknik – naturbruk 2</name>
+          <code>SEISEI02</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Serviceteknik – naturbruk – specialisering</name>
+          <code>SEISER00S</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>NBLAN</programOrientationCode>
+      <name>Arbete med lantbruksmaskiner</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Serviceteknik – naturbruk</name>
+        <code>SEI</code>
+        <point>100</point>
+        <course>
+          <name>Serviceteknik – naturbruk 1</name>
+          <code>SEISEI01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Serviceteknik – naturbruk 2</name>
+          <code>SEISEI02</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Serviceteknik – naturbruk – specialisering</name>
+          <code>SEISER00S</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Skogsmaskiner</name>
+        <code>SKM</code>
+        <point>100</point>
+        <course>
+          <name>Terrängtransporter</name>
+          <code>SKMTER0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Skogsproduktion</name>
+        <code>SKG</code>
+        <point>100</point>
+        <course>
+          <name>Skogsskötsel 1</name>
+          <code>SKGSKO01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Skogsskötsel 2</name>
+          <code>SKGSKO02</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Virkeslära</name>
+          <code>SKGVIR0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>NBSKO</programOrientationCode>
+      <name>Arbete med skogsmaskinservice</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Biologi – naturbruk</name>
+        <code>BIG</code>
+        <point>100</point>
+        <course>
+          <name>Biologi – naturbruk – specialisering</name>
+          <code>BIGBIG00S</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Djur</name>
+        <code>DJU</code>
+        <point>100</point>
+        <course>
+          <name>Sällskapsdjur 1</name>
+          <code>DJUSÄL01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Djurvård inom djurens hälso- och sjukvård</name>
+        <code>DJR</code>
+        <point>100</point>
+        <course>
+          <name>Djurvård inom djurens hälso- och sjukvård 1</name>
+          <code>DJRDJU01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Djurvård inom djurens hälso- och sjukvård 2</name>
+          <code>DJRDJU02</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Hundkunskap</name>
+        <code>HUN</code>
+        <point>100</point>
+        <course>
+          <name>Hundkunskap 1</name>
+          <code>HUNHUN01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>NBDJU</programOrientationCode>
+      <name>Djurvårdare inom djurens hälso- och sjukvård</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Djur</name>
+        <code>DJU</code>
+        <point>100</point>
+        <course>
+          <name>Sällskapsdjur 1</name>
+          <code>DJUSÄL01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Djur för forskningsändamål</name>
+        <code>DJF</code>
+        <point>200</point>
+        <course>
+          <name>Djur för forskningsändamål</name>
+          <code>DJFDJU0</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Djurvård inom djurens hälso- och sjukvård</name>
+        <code>DJR</code>
+        <point>100</point>
+        <course>
+          <name>Djurvård inom djurens hälso- och sjukvård 1</name>
+          <code>DJRDJU01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Djurvård inom djurens hälso- och sjukvård 2</name>
+          <code>DJRDJU02</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Hundkunskap</name>
+        <code>HUN</code>
+        <point>100</point>
+        <course>
+          <name>Hundkunskap 1</name>
+          <code>HUNHUN01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>NBDJU</programOrientationCode>
+      <name>Djurvårdare inriktning forskningsdjur</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Hästkunskap</name>
+        <code>HÄT</code>
+        <point>100</point>
+        <course>
+          <name>Hästkunskap 1</name>
+          <code>HÄTHÄS01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Hästkunskap 2</name>
+          <code>HÄTHÄS02</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Hästkunskap 3</name>
+          <code>HÄTHÄS03</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Ridning och körning</name>
+        <code>RIN</code>
+        <point>200</point>
+        <course>
+          <name>Ridning och körning</name>
+          <code>RINRID0</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Ridning 1</name>
+          <code>RINRID01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Ridning 2</name>
+          <code>RINRID02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>NBDJU</programOrientationCode>
+      <name>Hästskötare med inriktning mot ridning</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Hästkunskap</name>
+        <code>HÄT</code>
+        <point>100</point>
+        <course>
+          <name>Hästkunskap 1</name>
+          <code>HÄTHÄS01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Hästkunskap 2</name>
+          <code>HÄTHÄS02</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Hästkunskap 3</name>
+          <code>HÄTHÄS03</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Ridning och körning</name>
+        <code>RIN</code>
+        <point>200</point>
+        <course>
+          <name>Ridning och körning</name>
+          <code>RINRID0</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Travkunskap</name>
+        <code>TRV</code>
+        <point>100</point>
+        <course>
+          <name>Trav 1</name>
+          <code>TRVTRA01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Trav 2</name>
+          <code>TRVTRA02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>NBDJU</programOrientationCode>
+      <name>Hästskötare med inriktning mot trav</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Aktiviteter och värdskap</name>
+        <code>AKT</code>
+        <point>100</point>
+        <course>
+          <name>Aktiviteter och upplevelser</name>
+          <code>AKTAKT0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Företagsekonomi</name>
+        <code>FÖR</code>
+        <point>100</point>
+        <course>
+          <name>Entreprenörskap och företagande</name>
+          <code>FÖRENT0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Naturguidning</name>
+        <code>NAG</code>
+        <point>100</point>
+        <course>
+          <name>Naturguidning 1</name>
+          <code>NAGNAT01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Naturguidning 2</name>
+          <code>NAGNAT02</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Skog, mark och vatten</name>
+        <code>SKO</code>
+        <point>100</point>
+        <course>
+          <name>Fiske och vattenvård 1</name>
+          <code>SKOFIS01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Jakt och viltvård 1</name>
+          <code>SKOJAK01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>NBSKO</programOrientationCode>
+      <name>Naturguide</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Skogsmaskiner</name>
+        <code>SKM</code>
+        <point>100</point>
+        <course>
+          <name>Terrängtransporter</name>
+          <code>SKMTER0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Virkestransport med skotare</name>
+          <code>SKMVIE0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Avverkningsmaskiner</name>
+          <code>SKMAVV0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Skogsmaskiner – specialisering</name>
+          <code>SKMSKO00S</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Skogsproduktion</name>
+        <code>SKG</code>
+        <point>100</point>
+        <course>
+          <name>Skogsskötsel 1</name>
+          <code>SKGSKO01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Skogsskötsel 2</name>
+          <code>SKGSKO02</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Virkeslära</name>
+          <code>SKGVIR0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>NBSKO</programOrientationCode>
+      <name>Skogsmaskinförare</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Motor- och röjmotorsåg</name>
+        <code>MOT</code>
+        <point>100</point>
+        <course>
+          <name>Motor- och röjmotorsåg 2</name>
+          <code>MOTMOT02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Skogsmaskiner</name>
+        <code>SKM</code>
+        <point>100</point>
+        <course>
+          <name>Terrängtransporter</name>
+          <code>SKMTER0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Skogsproduktion</name>
+        <code>SKG</code>
+        <point>100</point>
+        <course>
+          <name>Skogsskötsel 1</name>
+          <code>SKGSKO01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Skogsskötsel 2</name>
+          <code>SKGSKO02</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Skogsskötsel – specialisering</name>
+          <code>SKGSKG00S</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Virkeslära</name>
+          <code>SKGVIR0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>NBSKO</programOrientationCode>
+      <name>Skogsvårdare</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Odling i växthus</name>
+        <code>ODI</code>
+        <point>100</point>
+        <course>
+          <name>Odling i växthus 1</name>
+          <code>ODIODL01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Skötsel av utemiljöer</name>
+        <code>SKÖ</code>
+        <point>100</point>
+        <course>
+          <name>Skötsel av utemiljöer</name>
+          <code>SKÖSKÖ0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Trädgårdsmaskiner</name>
+        <code>TRS</code>
+        <point>100</point>
+        <course>
+          <name>Trädgårdsmaskiner</name>
+          <code>TRSTRG0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Trädgårdsodling</name>
+        <code>TRR</code>
+        <point>100</point>
+        <course>
+          <name>Trädgårdsodling</name>
+          <code>TRRTRA0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Trädgårdsodling – grönsaker, frukt och bär</name>
+          <code>TRRTRD0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Trädgårdsodling – plantskoleväxter</name>
+          <code>TRRTRG0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Trädgårdsodling – specialisering</name>
+          <code>TRRTRA00S</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>NBTRA</programOrientationCode>
+      <name>Trädgårdsarbetare med inriktning mot frilandsodling</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Skötsel av utemiljöer</name>
+        <code>SKÖ</code>
+        <point>100</point>
+        <course>
+          <name>Skötsel av utemiljöer</name>
+          <code>SKÖSKÖ0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Beskärning och trädvård</name>
+          <code>SKÖBEK0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Skötsel av utemiljöer – specialisering</name>
+          <code>SKÖSKÖ00S</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Trädgårdsanläggning</name>
+        <code>TRD</code>
+        <point>100</point>
+        <course>
+          <name>Trädgårdsanläggning 1</name>
+          <code>TRDTRÄ01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Trädgårdsmaskiner</name>
+        <code>TRS</code>
+        <point>100</point>
+        <course>
+          <name>Trädgårdsmaskiner</name>
+          <code>TRSTRG0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Trädgårdsodling</name>
+        <code>TRR</code>
+        <point>100</point>
+        <course>
+          <name>Trädgårdsodling</name>
+          <code>TRRTRA0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Växtkunskap</name>
+        <code>VÄX</code>
+        <point>100</point>
+        <course>
+          <name>Växtkunskap 2</name>
+          <code>VÄXVÄX02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>NBTRA</programOrientationCode>
+      <name>Trädgårdsarbetare med inriktning mot skötsel av utemiljöer</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Skötsel av utemiljöer</name>
+        <code>SKÖ</code>
+        <point>100</point>
+        <course>
+          <name>Skötsel av utemiljöer</name>
+          <code>SKÖSKÖ0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Trädgårdsanläggning</name>
+        <code>TRD</code>
+        <point>100</point>
+        <course>
+          <name>Trädgårdsanläggning 1</name>
+          <code>TRDTRÄ01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Trädgårdsanläggning 2</name>
+          <code>TRDTRÄ02</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Trädgårdsanläggning – specialisering</name>
+          <code>TRDTRÄ00S</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Trädgårdsmaskiner</name>
+        <code>TRS</code>
+        <point>100</point>
+        <course>
+          <name>Trädgårdsmaskiner</name>
+          <code>TRSTRG0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Trädgårdsodling</name>
+        <code>TRR</code>
+        <point>100</point>
+        <course>
+          <name>Trädgårdsodling</name>
+          <code>TRRTRA0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Växtkunskap</name>
+        <code>VÄX</code>
+        <point>100</point>
+        <course>
+          <name>Växtkunskap 2</name>
+          <code>VÄXVÄX02</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>NBTRA</programOrientationCode>
+      <name>Trädgårdsarbetare med inriktning mot trädgårdsanläggning</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Odling i växthus</name>
+        <code>ODI</code>
+        <point>100</point>
+        <course>
+          <name>Odling i växthus 1</name>
+          <code>ODIODL01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Odling i växthus 2</name>
+          <code>ODIODL02</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Odling i växthus – specialisering</name>
+          <code>ODIODI00S</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Skötsel av utemiljöer</name>
+        <code>SKÖ</code>
+        <point>100</point>
+        <course>
+          <name>Skötsel av utemiljöer</name>
+          <code>SKÖSKÖ0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Trädgårdsodling</name>
+        <code>TRR</code>
+        <point>100</point>
+        <course>
+          <name>Trädgårdsodling</name>
+          <code>TRRTRA0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Trädgårdsodling – grönsaker, frukt och bär</name>
+          <code>TRRTRD0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Trädgårdsodling – specialisering</name>
+          <code>TRRTRA00S</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>NBTRA</programOrientationCode>
+      <name>Trädgårdsarbetare med inriktning mot växthusodling</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Biologi – naturbruk</name>
+        <code>BIG</code>
+        <point>100</point>
+        <course>
+          <name>Biologi – naturbruk – specialisering</name>
+          <code>BIGBIG00S</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Hundkunskap</name>
+        <code>HUN</code>
+        <point>100</point>
+        <course>
+          <name>Träning av hund</name>
+          <code>HUNTRN0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Skog, mark och vatten</name>
+        <code>SKO</code>
+        <point>100</point>
+        <course>
+          <name>Jakt och viltvård 1</name>
+          <code>SKOJAK01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Jakt och viltvård 2</name>
+          <code>SKOJAK02</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Skogsproduktion</name>
+        <code>SKG</code>
+        <point>100</point>
+        <course>
+          <name>Skogsskötsel 1</name>
+          <code>SKGSKO01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>NBSKO</programOrientationCode>
+      <name>Viltförvaltare</name>
+      <profSpecialization />
+    </professionalDegree>
+  </professionalDegrees>
+  <category>VOCATIONAL_PROGRAM</category>
+  <modifiedDate>2021-10-21T00:00:00+02:00</modifiedDate>
+  <createdDate>2019-05-08T13:48:29+02:00</createdDate>
+  <typeOfStudyPath>PROGRAM</typeOfStudyPath>
+</program>

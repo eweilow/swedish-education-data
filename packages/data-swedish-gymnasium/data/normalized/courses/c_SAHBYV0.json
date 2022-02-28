@@ -1,0 +1,89 @@
+{
+  "name": "Byggnadsverk",
+  "code": "SAHBYV0",
+  "focusAreas": {
+    "string": "Kursen byggnadsverk omfattar punkterna 1-5 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-5"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Byggnadsteknik och konstruktionselement inom husbyggnad och anläggning, till exempel undergrund, grundkonstruktion inklusive dränering och eventuell radon, bärande och icke bärande delar av en byggnad, väggar, bjälklag, takkonstruktion, fönster och dörrar, vägar och rörgravar.",
+          "2. Viktiga byggnadsmaterial, till exempel trä, betong, isolering, tätskikt, murverk, grus och markbeläggning med hänsyn till dess tillverkning, uppbyggnad, egenskaper, användningsområden och hantering vid rivning.",
+          "3. Materialbedömningar, jämförelse av olika material utifrån hållbarhetsaspekter.",
+          "4. Byggnadsfysik för byggande av god inre och yttre miljö. Vanliga funktionskrav vad gäller värme, fukt, ljud, brand och beständighet samt energieffektivitet och miljö.",
+          "5. Tvärsektionsritningar där sambandet mellan byggnadsfysik, byggnadsmaterial och byggteknik framgår.",
+          "6. Tekniska beskrivningar av mark- och grundläggning samt byggnadsbeskrivningar inklusive materialval.",
+          "7. Installationstekniska system för ventilation, värme, sanitet och el i byggnader samt hur dessa system kan påverka både inre och yttre miljö.",
+          "8. Vanligt förekommande funktionskrav för belysning, el, värme och komfort, vattenkvalitet, luftväxling och ljud.",
+          "9. Övergripande driftsekonomi som skötsel, underhållsintervall och åtgärder samt kostnader för investering, drift och underhåll.",
+          "10. Kännedom om Boverket, PBL (plan- och bygglagen) och BBR (Boverkets byggregler).",
+          "11. Kännedom om processen runt bygglovshandlingar."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **översiktligt** för vanliga byggnadstekniker och vanliga konstruktionselement inom husbyggnad och anläggning.",
+        "Dessutom beskriver och jämför eleven **översiktligt** olika, viktiga byggnadsmaterial och dess uppbyggnad, egenskaper, tillverkning, användningsområden och livscykel.",
+        "Vidare redogör eleven **översiktligt** för olika typer av byggnader och anläggningar."
+      ],
+      [
+        "Eleven redogör för de byggnadsfysikaliska funktionskraven för värme, fukt, ljud, brand och beständighet.",
+        "Dessutom redogör eleven **översiktligt** för byggnadsfysikaliska faktorer som har betydelse för energieffektivitet och miljö.",
+        "Vidare redogör eleven **översiktligt** med sektionsritningar samt tekniska beskrivningar för sambandet mellan byggnadsfysik, byggnadsmaterial och byggnadsteknik med PBL och BBR som grund."
+      ],
+      [
+        "Eleven redogör **översiktligt** för olika installationstekniska system för ventilation, värme, sanitet och el i byggnader samt beskriver **översiktligt** hur dessa system kan påverka inre och yttre miljö."
+      ],
+      [
+        "Eleven redogör **översiktligt** för funktionskraven för belysning, värme och komfort, vattenkvalitet, luftväxling och ljud.",
+        "Dessutom redogör eleven **översiktligt** för på vilket sätt dessa krav kan bidra till god driftsekonomi."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för vanliga byggnadstekniker och vanliga konstruktionselement inom husbyggnad och anläggning.",
+        "Dessutom beskriver och jämför eleven **utförligt** olika, viktiga byggnadsmaterial och dess uppbyggnad, egenskaper, tillverkning, användningsområden och livscykel.",
+        "Vidare redogör eleven **utförligt** för olika typer av byggnader och anläggningar."
+      ],
+      [
+        "Eleven redogör **utförligt** för de byggnadsfysikaliska funktionskraven för värme, fukt, ljud, brand och beständighet.",
+        "Dessutom redogör eleven **utförligt** för byggnadsfysikaliska faktorer som har betydelse för energieffektivitet och miljö.",
+        "Vidare redogör eleven **utförligt** med sektionsritningar samt tekniska beskrivningar för sambandet mellan byggnadsfysik, byggnadsmaterial och byggnadsteknik med PBL och BBR som grund."
+      ],
+      [
+        "Eleven redogör **utförligt** för olika installationstekniska system för ventilation, värme, sanitet och el i byggnader samt beskriver **utförligt** hur dessa system kan påverka inre och yttre miljö."
+      ],
+      [
+        "Eleven redogör **utförligt** för funktionskraven för belysning, värme och komfort, vattenkvalitet, luftväxling och ljud.",
+        "Dessutom redogör eleven **utförligt** för på vilket sätt dessa krav kan bidra till god driftsekonomi."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för vanliga byggnadstekniker och vanliga konstruktionselement inom husbyggnad och anläggning.",
+        "Dessutom beskriver och jämför eleven **utförligt och nyanserat** olika, viktiga byggnadsmaterial och dess uppbyggnad, egenskaper, tillverkning, användningsområden och livscykel.",
+        "Vidare redogör eleven **utförligt och nyanserat** för olika typer av byggnader och anläggningar."
+      ],
+      [
+        "Eleven redogör **utförligt och nyanserat** för de byggnadsfysikaliska funktionskraven för värme, fukt, ljud, brand och beständighet.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för byggnadsfysikaliska faktorer som har betydelse för energieffektivitet och miljö.",
+        "Vidare redogör eleven **utförligt och nyanserat** med sektionsritningar samt tekniska beskrivningar för sambandet mellan byggnadsfysik, byggnadsmaterial och byggnadsteknik med PBL och BBR som grund."
+      ],
+      [
+        "Eleven redogör **utförligt och nyanserat** för olika installationstekniska system för ventilation, värme, sanitet och el i byggnader samt beskriver **utförligt och nyanserat** hur dessa system kan påverka inre och yttre miljö."
+      ],
+      [
+        "Eleven redogör **utförligt och nyanserat** för funktionskraven för belysning, värme och komfort, vattenkvalitet, luftväxling och ljud.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för på vilket sätt dessa krav kan bidra till god driftsekonomi."
+      ]
+    ]
+  }
+}

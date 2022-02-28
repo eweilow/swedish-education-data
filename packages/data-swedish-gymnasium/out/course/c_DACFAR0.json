@@ -1,0 +1,116 @@
+{
+  "subject": "DAC",
+  "title": "Fartygsbefäl",
+  "code": "DACFAR0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven utför <strong>efter samråd</strong> med handledare navigatoriska uppgifter och använder <strong>med säkerhet</strong> metoder och hjälpmedel som är lämpliga för uppgiften.",
+        "Eleven planerar och genomför <strong>efter samråd</strong> med handledare en fiktiv resa inomskärs och i kustnära farvatten.",
+        "I arbetet löser eleven <strong>komplexa</strong> problem som uppstår.",
+        "Resultatet av elevens arbete är <strong>gott</strong>."
+      ],
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> miljö- och säkerhetsrisker vid framförandet av fartyg samt de metoder och den utrustning som finns ombord för att undvika sådana risker.",
+        "Eleven drar <strong>välgrundade och nyanserade</strong> slutsatser om sambanden mellan risker och arbetsmetoder."
+      ],
+      [
+        "Eleven använder <strong>med säkerhet</strong> termer och begrepp som är relevanta för området."
+      ],
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> navigationsmetoder och sjövägsregler samt den navigationsutrustning som används på fartygs brygga.",
+        "Dessutom redogör eleven <strong>utförligt</strong> för de lagar och andra bestämmelser som gäller inom området."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven utför <strong>efter samråd</strong> med handledare navigatoriska uppgifter och använder <strong>med viss säkerhet</strong> metoder och hjälpmedel som är lämpliga för uppgiften.",
+        "Eleven planerar och genomför <strong>efter samråd</strong> med handledare en fiktiv resa inomskärs och i kustnära farvatten.",
+        "I arbetet löser eleven problem som uppstår.",
+        "Resultatet av elevens arbete är <strong>tillfredsställande</strong>."
+      ],
+      [
+        "Eleven beskriver <strong>utförligt</strong> miljö- och säkerhetsrisker vid framförandet av fartyg samt de metoder och den utrustning som finns ombord för att undvika sådana risker.",
+        "Eleven drar <strong>välgrundade</strong> slutsatser om sambanden mellan risker och arbetsmetoder."
+      ],
+      [
+        "Eleven använder <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området."
+      ],
+      [
+        "Eleven beskriver <strong>utförligt</strong> navigationsmetoder och sjövägsregler samt den navigationsutrustning som används på fartygs brygga.",
+        "Dessutom redogör eleven <strong>utförligt</strong> för de lagar och andra bestämmelser som gäller inom området."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven utför <strong>i samråd</strong> med handledare navigatoriska uppgifter och använder <strong>med viss säkerhet</strong> metoder och hjälpmedel som är lämpliga för uppgiften.",
+        "Eleven planerar och genomför <strong>i samråd</strong> med handledare en fiktiv resa inomskärs och i kustnära farvatten.",
+        "I arbetet löser eleven <strong>enkla</strong> problem som uppstår.",
+        "Resultatet av elevens arbete är <strong>tillfredsställande</strong>."
+      ],
+      [
+        "Eleven beskriver <strong>översiktligt</strong> miljö- och säkerhetsrisker vid framförandet av fartyg samt de metoder och den utrustning som finns ombord för att undvika sådana risker.",
+        "Eleven drar <strong>enkla</strong> slutsatser om sambanden mellan risker och arbetsmetoder."
+      ],
+      [
+        "Eleven använder <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området."
+      ],
+      [
+        "Eleven beskriver <strong>översiktligt</strong> navigationsmetoder och sjövägsregler samt den navigationsutrustning som används på fartygs brygga.",
+        "Dessutom redogör eleven <strong>översiktligt</strong> för de lagar och andra bestämmelser som gäller inom området."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      "Bryggtjänst",
+      [
+        "Navigation.",
+        "Elektroniska navigationshjälpmedel.",
+        "Meteorologi.",
+        "Svenska och internationella sjövägsregler.",
+        "Vakthållning på fartygs brygga.",
+        "Radar."
+      ]
+    ],
+    [
+      "Miljö- och fartygsteknik",
+      [
+        "Fartygsstabilitet.",
+        "Fartygsmanövrering.",
+        "Skydd av den marina miljön.",
+        "Manöver- och maskinsystem.",
+        "Lagar och andra bestämmelser."
+      ]
+    ],
+    [
+      "Säkerhet",
+      [
+        "Brandskydd.",
+        "Hälso- och sjukvård.",
+        "Personlig säkerhet.",
+        "Passagerarsäkerhet.",
+        "Nödåtgärder.",
+        "Lagar och andra bestämmelser."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen fartygsbefäl omfattar punkterna 1 och 4-7 under rubriken Ämnets syfte, med särskild betoning på punkt 1.",
+  "applicableSubjectPurposes": [
+    0,
+    3,
+    4,
+    5,
+    6
+  ]
+}

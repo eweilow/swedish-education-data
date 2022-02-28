@@ -1,0 +1,100 @@
+{
+  "subject": "INS",
+  "title": "Kommunikationsnät 2",
+  "code": "INSKOM02",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven planerar <strong>efter samråd</strong> med handledare vanligt förekommande <strong>och avancerade</strong> installationer av kommunikationsnät utifrån lagar och andra bestämmelser samt standarder som finns inom området.",
+        "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur installationen är tänkt att fungera."
+      ],
+      [
+        "Eleven utför i olika miljöer och med <strong>mycket gott</strong> handlag vanligt förekommande, <strong>även avancerade</strong>, installationer av kommunikationsnät på ett sätt som är säkert för eleven själv och andra.",
+        "Inför arbetet väljer eleven <strong>efter samråd</strong> med handledare material avsedda för uppgiften.",
+        "Under arbetet väljer eleven <strong>med säkerhet</strong> verktyg, instrument och övrig utrustning samt använder dem med <strong>mycket gott</strong> handlag.",
+        "<strong>Eleven motiverar utförligt och nyanserat sina val</strong>.",
+        "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd</strong> med handledare.",
+        "Eleven kontrollerar säkerheten och driftsätter installationen.",
+        "Efter utfört arbete gör eleven en <strong>noggrann och utförlig</strong> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området.",
+        "Eleven utvärderar sitt arbete och resultat med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+      ],
+      [
+        "Eleven söker och reparerar <strong>efter samråd</strong> med handledare fel som uppkommer på såväl nya som befintliga installationer."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven planerar <strong>efter samråd</strong> med handledare vanligt förekommande installationer av kommunikationsnät utifrån lagar och andra bestämmelser samt standarder som finns inom området.",
+        "Dessutom redogör eleven <strong>utförligt</strong> för hur installationen är tänkt att fungera."
+      ],
+      [
+        "Eleven utför i olika miljöer och med <strong>gott</strong> handlag vanligt förekommande installationer av kommunikationsnät på ett sätt som är säkert för eleven själv och andra.",
+        "Inför arbetet väljer eleven <strong>efter samråd</strong> med handledare material avsedda för uppgiften.",
+        "Under arbetet väljer eleven <strong>med viss säkerhet</strong> verktyg, instrument och övrig utrustning samt använder dem med <strong>gott</strong> handlag.",
+        "<strong>Eleven motiverar utförligt sina val</strong>.",
+        "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>efter samråd</strong> med handledare.",
+        "Eleven kontrollerar säkerheten och driftsätter installationen.",
+        "Efter utfört arbete gör eleven en <strong>noggrann</strong> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området.",
+        "Eleven utvärderar sitt arbete och resultat med <strong>nyanserade</strong> omdömen."
+      ],
+      [
+        "Eleven söker och reparerar <strong>efter samråd</strong> med handledare fel som uppkommer på såväl nya som befintliga installationer."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven planerar <strong>i samråd</strong> med handledare vanligt förekommande installationer av kommunikationsnät utifrån lagar och andra bestämmelser samt standarder som finns inom området.",
+        "Dessutom redogör eleven <strong>översiktligt</strong> för hur installationen är tänkt att fungera."
+      ],
+      [
+        "Eleven utför i olika miljöer och med <strong>visst</strong> handlag vanligt förekommande installationer av kommunikationsnät på ett sätt som är säkert för eleven själv och andra.",
+        "Inför arbetet väljer eleven <strong>i samråd</strong> med handledare material avsedda för uppgiften.",
+        "Under arbetet väljer eleven <strong>med viss säkerhet</strong> verktyg, instrument och övrig utrustning samt använder dem med <strong>visst</strong> handlag.",
+        null,
+        "Under arbetet upptäcker eleven problem som uppstår och löser dem <strong>i samråd</strong> med handledare.",
+        "Eleven kontrollerar säkerheten och driftsätter installationen.",
+        "Efter utfört arbete gör eleven en <strong>enkel</strong> dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området.",
+        "Eleven utvärderar sitt arbete och resultat med <strong>enkla</strong> omdömen."
+      ],
+      [
+        "Eleven söker och reparerar <strong>i samråd</strong> med handledare fel som uppkommer på såväl nya som befintliga installationer."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Registreringssystems uppbyggnad samt registrering av telenät enligt olika standarder.",
+        "Uppbyggnad av och arbetssätt hos komponenter och system i fastighetsnät med fiber och koppar.",
+        "Uppbyggnad av och arbetsätt hos telefonanläggningar med telefonväxlar samt Telias nät.",
+        "Planering, installation, driftsättning och registrering av datanät, fastighetsnät och bredbandsnät, med till exempel kopparkabel, fiberkabel och koaxialkabelsystem, samt med hjälp av ritningar och anvisningar.",
+        "Planering, installation, driftsättning och registrering av enklare teleanläggningar med gemensamt 01-nät med RWC, kallelse och tidsdistribution med hjälp av ritningar och anvisningar.",
+        "Planering, installation, driftsättning och registrering av säkerhetssystem med brandlarm, inbrottslarm, CCTV och passersystem med hjälp av ritningar och anvisningar.",
+        "Installation och registrering av anläggningar med korskoppling.",
+        "Allmän installationsteknik samt vilka konsekvenser felaktiga installationer kan få, till exempel hur signaler påverkas om koaxialkabeln monteras med för liten böjradie.",
+        "Inmätningsmetoder och mätutrustningar för till exempel fiber- och kopparnät.",
+        "Anläggningar och metoder för distribution av ljud och tid."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen kommunikationsnät 2 omfattar punkterna 1-6 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ]
+}

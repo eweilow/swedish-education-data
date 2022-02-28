@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Matlagningskunskap</name>
+  <englishName>Cooking</englishName>
+  <description
+  >&lt;p&gt;Ämnet matlagningskunskap behandlar grundläggande matlagningsmetoder och variationer av dem samt hur matlagningens historia och olika mattraditioner påverkar dagens matlagning. I ämnet behandlas också hur råvaror används samt betydelsen av produktkvalitet. Dessutom behandlas bestämmelser om hygien och arbetsmiljö vid matlagning.&lt;/p&gt;</description>
+  <code>MAL</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2010-10-28T14:27:27+02:00</createdDate>
+  <modifiedDate>2020-02-19T15:57:54+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Matlagningskunskap&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet matlagningskunskap ska syfta till att eleverna utvecklar förmåga att yrkesmässigt laga mat med moderna och traditionella hantverksmetoder. Den ska även bidra till att eleverna utvecklar förmåga att tillämpa näringslära och fastställda rekommendationer för god hälsa. Eleverna ska ges möjlighet att utveckla förmåga att utforma recept samt göra näringsvärdesberäkningar.&lt;/p&gt;&lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om hygien, ergonomi, arbetsmiljö- och säkerhetsfrågor samt om lagar och andra bestämmelser som gäller för yrkesområdet. Den ska ge eleverna möjlighet att utveckla färdigheter i att organisera och utföra arbetet samt förmåga att bedöma arbetet och reflektera över hur arbetsprocessen påverkar resultatet. Undervisningen ska dessutom bidra till att eleverna utvecklar kreativitet, problemlösningsförmåga och initiativförmåga samt förmåga att utföra sina uppgifter såväl individuellt som i samarbete med andra.&lt;/p&gt;&lt;p&gt;Genom att praktiskt tillämpa sina kunskaper ska eleverna ges möjlighet att pröva olika arbetsuppgifter som förekommer inom ämnesområdet.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet matlagningskunskap ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Förmåga att planera och organisera matlagning inom olika verksamhetsområden.&lt;/li&gt; &lt;li&gt;Förmåga att tillaga välsmakande och estetiskt tilltalande anrättningar utifrån trend och tradition samt att använda och vårda redskap, maskiner och annan utrustning.&lt;/li&gt; &lt;li&gt;Kunskaper om ekonomiska konsekvenser vid val och inköp av råvaror samt vid tillagning och förvaring.&lt;/li&gt; &lt;li&gt;Kunskaper om näringslära vid matlagning.&lt;/li&gt; &lt;li&gt;Förmåga att utforma recept och menyer för olika verksamheter.&lt;/li&gt; &lt;li&gt;Förmåga att arbeta på ett hygieniskt, ergonomiskt och säkert sätt.&lt;/li&gt; &lt;li&gt;Kunskaper om lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.&lt;/li&gt; &lt;li&gt;Förmåga att utvärdera utfört sitt arbete och resultat.&lt;/li&gt; &lt;li&gt;Förmåga att samarbeta och kommunicera med andra.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Matlagning 1, 100 poäng.&lt;/li&gt; &lt;li&gt;Matlagning 2, 200 poäng, som bygger på kursen matlagning 1.&lt;/li&gt; &lt;li&gt;Matlagning 3, 200 poäng, som bygger på kursen matlagning 2.&lt;/li&gt; &lt;li&gt;Matlagning 4, 200 poäng, som bygger på kursen matlagning 3.&lt;/li&gt; &lt;li&gt;Matlagning – specialisering, 100 poäng, som bygger på kursen matlagning 4. Kursen kan läsas flera gånger med olika innehåll.&lt;/li&gt; &lt;li&gt;Specialkoster, 100 poäng, som bygger på kursen matlagning 3.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2010:68</skolfsId>
+  <applianceDate>2011-07-01T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Matlagning 1</name>
+    <englishName>Cooking 1</englishName>
+    <description
+    >&lt;p&gt;Kursen matlagning 1 omfattar punkterna 1–3, 6–7 och 9 under rubriken Ämnets syfte. I kursen behandlas grundläggande färdigheter i ämnet.&lt;/p&gt;</description>
+    <code>MALMAL01</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Matlagning 1, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MALMAL01&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Grundläggande matlagning och matlagningsmetoder.&lt;/li&gt; &lt;li&gt;Kalla och varma maträtter.&lt;/li&gt; &lt;li&gt;Kökets redskap, maskiner och annan utrustning. Hur de används och hanteras på ett säkert sätt.&lt;/li&gt; &lt;li&gt;Grunderna i identifiering, behandling och hantering av råvaror samt smakmässiga och ekonomiska konsekvenser av hur råvaror behandlas och förvaras.&lt;/li&gt; &lt;li&gt;Hygien och dagliga hygienrutiner, till exempel rengöring av lokaler och utrustning.&lt;/li&gt; &lt;li&gt;Ergonomi i det egna arbetet samt ergonomiska riskfaktorer.&lt;/li&gt; &lt;li&gt;Arbetsmiljö och säkerhet samt lagar och andra bestämmelser som gäller inom området, till exempel livsmedelslagen.&lt;/li&gt; &lt;li&gt;Grundläggande kommunikation för arbete i kök.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare matlagning. Eleven tillagar metodiskt, hantverksmässigt och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare maträtter med &lt;strong&gt;tillfredsställande&lt;/strong&gt; kvalitet när det gäller smak och utseende. I arbetet använder eleven med&lt;strong&gt; visst &lt;/strong&gt;handlag vanliga grundläggande metoder, redskap, maskiner och annan utrustning som är lämpliga för uppgiften. I arbetet redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för ekonomiska konsekvenser vid val av råvaror samt för deras hantering och förvaring.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar &lt;strong&gt;översiktligt&lt;/strong&gt; arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet. &lt;/p&gt;&lt;p&gt;Eleven samarbetar och kommunicerar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; med andra. När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare matlagning. Eleven tillagar metodiskt, hantverksmässigt och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare maträtter med &lt;strong&gt;tillfredsställande&lt;/strong&gt; kvalitet när det gäller smak och utseende. I arbetet använder eleven med&lt;strong&gt; gott &lt;/strong&gt;handlag vanliga grundläggande metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften. I arbetet redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för ekonomiska konsekvenser vid val av råvaror samt för deras hantering och förvaring.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar &lt;strong&gt;översiktligt&lt;/strong&gt; arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.&lt;/p&gt;&lt;p&gt;Eleven samarbetar och kommunicerar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; med andra. När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare matlagning. Eleven tillagar metodiskt, hantverksmässigt och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare maträtter med &lt;strong&gt;god&lt;/strong&gt; kvalitet när det gäller smak och utseende. I arbetet använder eleven med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag vanliga grundläggande metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften. I arbetet redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för ekonomiska konsekvenser vid val av råvaror samt för deras hantering och förvaring.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar &lt;strong&gt;utförligt&lt;/strong&gt; arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.&lt;/p&gt;&lt;p&gt;Eleven samarbetar och kommunicerar &lt;strong&gt;med säkerhet&lt;/strong&gt; med andra. När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Matlagning 2</name>
+    <englishName>Cooking 2</englishName>
+    <description
+    >&lt;p&gt;Kursen matlagning 2 omfattar punkterna 1–9 under rubriken Ämnets syfte, med särskild betoning på punkt 1.&lt;/p&gt;</description>
+    <code>MALMAL02</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Matlagning 2, 200 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MALMAL02&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Yrkesmässig matlagning och metoder avsedda för restaurang och storkök.&lt;/li&gt; &lt;li&gt;Rationella arbetssätt vid matlagning i restaurang och storkök.&lt;/li&gt; &lt;li&gt;Kalla och varma maträtter, klassiska såväl som nyskapande.&lt;/li&gt; &lt;li&gt;Kökets redskap, maskiner och annan utrustning. Hur de används, hanteras och vårdas på ett säkert sätt.&lt;/li&gt; &lt;li&gt;Grundläggande allergi- och specialkostmatlagning.&lt;/li&gt; &lt;li&gt;Råvaror och hur de kan kombineras på ett näringsmässigt, kreativt och ekonomiskt sätt.&lt;/li&gt; &lt;li&gt;Hygien och dagliga hygienrutiner, till exempel rengöring av lokaler och utrustning.&lt;/li&gt; &lt;li&gt;Ergonomi i det egna arbetet samt ergonomiska riskfaktorer.&lt;/li&gt; &lt;li&gt;Arbetsmiljö och säkerhet samt lagar och andra bestämmelser som gäller inom området, till exempel livsmedelslagen.&lt;/li&gt; &lt;li&gt;Metoder för utvärdering.&lt;/li&gt; &lt;li&gt;Grundläggande kommunikation för arbete i kök samt grundläggande fackterminologi.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>200</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare matlagning. Eleven tillagar metodiskt, hantverksmässigt och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare maträtter med &lt;strong&gt;tillfredsställande&lt;/strong&gt; kvalitet när det gäller smak och utseende. I arbetet använder eleven med&lt;strong&gt; visst &lt;/strong&gt;handlag vanliga metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften. Eleven utför arbetet inom givna tidsramar. Eleven tillagar även &lt;strong&gt;i samråd &lt;/strong&gt;med handledare allergi- och specialkoster. I arbetet kombinerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;råvaror med hänsyn tagen till ekonomi och näringsinnehåll. Dessutom utformar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; recept och menyer för olika verksamheter.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar &lt;strong&gt;översiktligt&lt;/strong&gt; arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.&lt;/p&gt;&lt;p&gt;När arbetet är utfört utvärderar eleven sitt arbete och resultat med&lt;strong&gt; enkla &lt;/strong&gt;omdömen. Eleven samarbetar och kommunicerar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; med andra och använder grundläggande fackspråk. När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare matlagning. Eleven tillagar metodiskt, hantverksmässigt och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare maträtter med &lt;strong&gt;tillfredsställande&lt;/strong&gt; kvalitet när det gäller smak och utseende. I arbetet använder eleven med&lt;strong&gt; gott &lt;/strong&gt;handlag vanliga metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften. Eleven utför arbetet inom givna tidsramar. Eleven tillagar även &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare allergi- och specialkoster. I arbetet kombinerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;råvaror med hänsyn tagen till ekonomi och näringsinnehåll. Dessutom utformar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; recept och menyer för olika verksamheter. &lt;/p&gt;&lt;p&gt;Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar &lt;strong&gt;översiktligt&lt;/strong&gt; arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.&lt;/p&gt;&lt;p&gt;När arbetet är utfört utvärderar eleven sitt arbete och resultat med&lt;strong&gt; nyanserade &lt;/strong&gt;omdömen. Eleven samarbetar och kommunicerar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; med andra och använder grundläggande fackspråk. När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare matlagning. Eleven tillagar metodiskt, hantverksmässigt och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare maträtter med &lt;strong&gt;god&lt;/strong&gt; kvalitet när det gäller smak och utseende. I arbetet använder eleven med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag vanliga metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften. Eleven utför arbetet inom givna tidsramar. Eleven tillagar även &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare allergi- och specialkoster. I arbetet kombinerar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;råvaror med hänsyn tagen till ekonomi och näringsinnehåll. Dessutom utformar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;recept och menyer för olika verksamheter. &lt;/p&gt;&lt;p&gt;Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar &lt;strong&gt;utförligt&lt;/strong&gt; arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.&lt;/p&gt;&lt;p&gt;När arbetet är utfört utvärderar eleven sitt arbete och resultat med&lt;strong&gt; nyanserade &lt;/strong&gt;omdömen &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. Eleven samarbetar och kommunicerar &lt;strong&gt;med säkerhet&lt;/strong&gt; med andra och använder grundläggande fackspråk. När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Matlagning 3</name>
+    <englishName>Cooking 3</englishName>
+    <description
+    >&lt;p&gt;Kursen matlagning 3 omfattar punkterna 1–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1, 5 och 8. I kursen behandlas fördjupade färdigheter i ämnet.&lt;/p&gt;</description>
+    <code>MALMAL03</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Matlagning 3, 200 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MALMAL03&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Yrkesmässig matlagning och metoder, tekniker, redskap, maskiner och annan utrustning avsedd för restaurang och storkök.&lt;/li&gt; &lt;li&gt;Kreativt skapande av kalla och varma maträtter.&lt;/li&gt; &lt;li&gt;Kemiska och fysikaliska processer vid matlagning och hantering av råvaror.&lt;/li&gt; &lt;li&gt;Fördjupning av hur råvaror kan hanteras och förvaras. &lt;/li&gt; &lt;li&gt;Råvarors kvalitet och näringsinnehåll samt ekonomiska beräkningar när det gäller val av råvaror och prissättning av maträtter.&lt;/li&gt; &lt;li&gt;Framtagande av recept, matsedlar och menyer.&lt;/li&gt; &lt;li&gt;Hygien och dagliga hygienrutiner, till exempel rengöring av lokaler och utrustning.&lt;/li&gt; &lt;li&gt;Arbetsmiljö och säkerhet samt lagar och andra bestämmelser som gäller inom området, till exempel livsmedelslagen.&lt;/li&gt; &lt;li&gt;Egenkontroll. &lt;/li&gt; &lt;li&gt;Kommunikation och logistik för arbete i kök samt fackterminologi.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>200</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare matlagning. Eleven tillagar metodiskt, hantverksmässigt, tekniskt och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare maträtter med &lt;strong&gt;tillfredsställande&lt;/strong&gt; kvalitet när det gäller smak och utseende. I arbetet använder eleven med&lt;strong&gt; visst &lt;/strong&gt;handlag metoder, redskap, maskiner och annan utrustning som är lämpliga för uppgiften. Eleven utför arbetet inom givna tidsramar. I arbetet redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för kemiska och fysikaliska processer vid matlagning samt vid hantering och förvaring av råvaror. Dessutom utför eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;ekonomiska beräkningar vid val av råvaror och prissättning av maträtter. Eleven utformar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;recept, matsedlar och menyer.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar &lt;strong&gt;översiktligt&lt;/strong&gt; arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.&lt;/p&gt;&lt;p&gt;När arbetet är utfört utvärderar eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare sitt arbete med hjälp av egenkontroll. Eleven samarbetar och kommunicerar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; med andra och använder fackspråk. När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare matlagning. Eleven tillagar metodiskt, hantverksmässigt, tekniskt och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare maträtter med &lt;strong&gt;tillfredsställande&lt;/strong&gt; kvalitet när det gäller smak och utseende. I arbetet använder eleven med&lt;strong&gt; gott &lt;/strong&gt;handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften. Eleven utför arbetet inom givna tidsramar. I arbetet redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för kemiska och fysikaliska processer vid matlagning samt vid hantering och förvaring av råvaror. Dessutom utför eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;ekonomiska beräkningar vid val av råvaror och prissättning av maträtter. Eleven utformar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; recept, matsedlar och menyer. &lt;/p&gt;&lt;p&gt;Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar &lt;strong&gt;översiktligt&lt;/strong&gt; arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.&lt;/p&gt;&lt;p&gt;När arbetet är utfört utvärderar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete med hjälp av egenkontroll. Eleven samarbetar och kommunicerar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; med andra och använder fackspråk. När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare matlagning. Eleven tillagar metodiskt, hantverksmässigt, tekniskt och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare maträtter med &lt;strong&gt;god&lt;/strong&gt; kvalitet när det gäller smak och utseende. I arbetet använder eleven med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften. Eleven utför arbetet inom givna tidsramar. I arbetet redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för kemiska och fysikaliska processer vid matlagning samt vid hantering och förvaring av råvaror. Dessutom utför eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;ekonomiska beräkningar vid val av råvaror och prissättning av maträtter. Eleven utformar &lt;strong&gt;med säkerhet &lt;/strong&gt;recept, matsedlar och menyer.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar &lt;strong&gt;utförligt&lt;/strong&gt; arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.&lt;/p&gt;&lt;p&gt;När arbetet är utfört utvärderar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete med hjälp av egenkontroll. Eleven samarbetar och kommunicerar &lt;strong&gt;med säkerhet&lt;/strong&gt; med andra och använder fackspråk. När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <courses>
+    <name>Matlagning 4</name>
+    <englishName>Cooking 4</englishName>
+    <description
+    >&lt;p&gt;Kursen matlagning 4 omfattar punkterna 1–9 under rubriken Ämnets syfte. I kursen behandlas fördjupade färdigheter i ämnet.&lt;/p&gt;</description>
+    <code>MALMAL04</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Matlagning 4, 200 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MALMAL04&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Yrkesmässigt arbete inom restaurang och storkök.&lt;/li&gt; &lt;li&gt;Tillverkning av avancerade maträtter och anrättningar.&lt;/li&gt; &lt;li&gt;Restaurangekonomi. Ekonomisk planering, kalkylering och ekonomiska konsekvenser för verksamheter inom restaurang- och storköksbranschen.&lt;/li&gt; &lt;li&gt;Kreativt framtagande av recept, matsedlar och menyer.&lt;/li&gt; &lt;li&gt;Hygien och dagliga hygienrutiner, till exempel rengöring av lokaler och utrustning.&lt;/li&gt; &lt;li&gt;Arbetsmiljö och säkerhet samt lagar och andra bestämmelser som gäller inom området, till exempel livsmedelslagen.&lt;/li&gt; &lt;li&gt;Utförande och uppföljning av egenkontroll för att uppnå matsäkerhet.&lt;/li&gt; &lt;li&gt;Kommunikation och logistik för arbete i kök samt fackterminologi.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>200</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare matlagning. Eleven tillagar metodiskt, hantverksmässigt, tekniskt och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare&lt;strong&gt; &lt;/strong&gt;avancerade maträtter och anrättningar med &lt;strong&gt;tillfredsställande&lt;/strong&gt; kvalitet när det gäller smak och utseende. I arbetet använder eleven med&lt;strong&gt; visst &lt;/strong&gt;handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften. Eleven utför arbetet inom givna tidsramar. I arbetet utför eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;ekonomisk planering och kalkylering vid val av råvaror och prissättning av maträtter. Eleven utformar &lt;strong&gt;med handledning&lt;/strong&gt; recept, matsedlar och menyer samt planerar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;inköp utifrån ekonomiska konsekvenser.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar &lt;strong&gt;översiktligt&lt;/strong&gt; arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.&lt;/p&gt;&lt;p&gt;När arbetet är utfört utvärderar eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare sitt arbete med hjälp av egenkontroll. Dessutom följer eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare&lt;strong&gt; &lt;/strong&gt;upp resultatet av egenkontrollen. Eleven samarbetar och kommunicerar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; med andra och använder fackspråk. När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;efter samråd med handledare&lt;/strong&gt; matlagning. Eleven tillagar metodiskt, hantverksmässigt, tekniskt och &lt;strong&gt;efter samråd med handledare&lt;/strong&gt; avancerade maträtter och anrättningar med &lt;strong&gt;tillfredsställande&lt;/strong&gt; kvalitet när det gäller smak och utseende. I arbetet använder eleven med&lt;strong&gt; gott &lt;/strong&gt;handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften. Eleven utför arbetet inom givna tidsramar. I arbetet utför eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;ekonomisk planering och kalkylering vid val av råvaror och prissättning av maträtter. Eleven utformar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;recept, matsedlar och menyer samt planerar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;inköp utifrån ekonomiska konsekvenser.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar &lt;strong&gt;översiktligt&lt;/strong&gt; arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.&lt;/p&gt;&lt;p&gt;När arbetet är utfört utvärderar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete med hjälp av egenkontroll. Dessutom följer eleven &lt;strong&gt;efter&lt;/strong&gt;&lt;strong&gt; samråd &lt;/strong&gt;med handledare upp resultatet av egenkontrollen. Eleven samarbetar och kommunicerar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; med andra och använder fackspråk. När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare matlagning. Eleven tillagar metodiskt, hantverksmässigt, tekniskt och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare avancerade maträtter och anrättningar med &lt;strong&gt;god&lt;/strong&gt; kvalitet när det gäller smak och utseende. I arbetet använder eleven med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften. Eleven utför arbetet inom givna tidsramar. I arbetet utför eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;ekonomisk planering och kalkylering vid val av råvaror och prissättning av maträtter. Eleven utformar &lt;strong&gt;med säkerhet&lt;/strong&gt; recept, matsedlar och menyer samt planerar &lt;strong&gt;med säkerhet &lt;/strong&gt;inköp utifrån ekonomiska konsekvenser.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar &lt;strong&gt;utförligt&lt;/strong&gt; arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.&lt;/p&gt;&lt;p&gt;När arbetet är utfört utvärderar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete med hjälp av egenkontroll. Dessutom följer eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare upp resultatet av egenkontrollen. Eleven samarbetar och kommunicerar &lt;strong&gt;med säkerhet&lt;/strong&gt; med andra och använder fackspråk. När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>4</sortOrder>
+  </courses>
+  <courses>
+    <name>Matlagning – specialisering</name>
+    <englishName>Cooking – specialisation</englishName>
+    <description
+    >&lt;p&gt;Kursen matlagning – specialisering omfattar punkterna 1–9 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom valt specialiseringsområde.&lt;/p&gt;</description>
+    <code>MALMAL00S</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Matlagning – specialisering, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MALMAL00S&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Yrkesmässig och experimentell matlagning inom valt specialiseringsområde. Exempel på specialiseringsområden kan vara kreativ matlagning, molekylär gastronomi, internationell matlagning, tematisk matlagning och snabbmat eller street food.&lt;/li&gt; &lt;li&gt;Tillverkning av avancerade och experimentella maträtter och anrättningar.&lt;/li&gt; &lt;li&gt;Matlagningens trender, traditioner och utveckling inom valt specialiseringsområde.&lt;/li&gt; &lt;li&gt;Matkulturer i dag och i ett historiskt perspektiv inom valt specialiseringsområde. Hur matkulturer påverkas av andra kulturer.&lt;/li&gt; &lt;li&gt;Ekonomiska och näringsmässiga konsekvenser vid val och inköp av råvaror samt vid tillagning och förvaring.&lt;/li&gt; &lt;li&gt;Framtagande av recept, matsedlar och menyer inom valt specialiseringsområde.&lt;/li&gt; &lt;li&gt;Hygien och dagliga hygienrutiner, till exempel rengöring av lokaler och utrustning.&lt;/li&gt; &lt;li&gt;Arbetsmiljö och säkerhet samt lagar och andra bestämmelser som gäller inom området.&lt;/li&gt; &lt;li&gt;Kommunikation med andra samt fackterminologi.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare matlagning. Eleven tillagar metodiskt, hantverksmässigt, tekniskt och &lt;strong&gt;i samråd &lt;/strong&gt;med handledare&lt;strong&gt; &lt;/strong&gt;avancerade och experimentella maträtter och anrättningar inom valt specialiseringsområde med &lt;strong&gt;tillfredsställande&lt;/strong&gt; kvalitet när det gäller smak och utseende. I arbetet använder eleven med&lt;strong&gt; visst &lt;/strong&gt;handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften. Eleven utför arbetet inom givna tidsramar. Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för trender, traditioner och utveckling inom valt specialiseringsområde samt för hur matkulturer förändras genom historien och påverkas av andra kulturer. I arbetet redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för ekonomiska och näringsmässiga konsekvenser vid val och inköp av råvaror samt vid tillagning och förvaring. Eleven utformar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; recept, matsedlar och menyer inom valt specialiseringsområde.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar &lt;strong&gt;översiktligt&lt;/strong&gt; arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.&lt;/p&gt;&lt;p&gt;När arbetet är utfört utvärderar eleven sitt arbete och resultat med&lt;strong&gt; enkla &lt;/strong&gt;omdömen. Eleven samarbetar och kommunicerar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; med andra och använder fackspråk. När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare matlagning. Eleven tillagar metodiskt, hantverksmässigt, tekniskt och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare avancerade och experimentella maträtter och anrättningar inom valt specialiseringsområde med &lt;strong&gt;tillfredsställande&lt;/strong&gt; kvalitet när det gäller smak och utseende. I arbetet använder eleven med&lt;strong&gt; gott &lt;/strong&gt;handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften. Eleven utför arbetet inom givna tidsramar. Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för trender, traditioner och utveckling inom valt specialiseringsområde samt för hur matkulturer förändras genom historien och påverkas av andra kulturer. I arbetet redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för ekonomiska och näringsmässiga konsekvenser vid val och inköp av råvaror samt vid tillagning och förvaring. Eleven utformar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;recept, matsedlar och menyer inom valt specialiseringsområde.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar &lt;strong&gt;översiktligt&lt;/strong&gt; arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.&lt;/p&gt;&lt;p&gt;När arbetet är utfört utvärderar eleven sitt arbete och resultat med&lt;strong&gt; nyanserade &lt;/strong&gt;omdömen. Eleven samarbetar och kommunicerar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; med andra och använder fackspråk. När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare matlagning. Eleven tillagar metodiskt, hantverksmässigt, tekniskt och &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare avancerade och experimentella maträtter och anrättningar inom valt specialiseringsområde med &lt;strong&gt;god&lt;/strong&gt; kvalitet när det gäller smak och utseende. I arbetet använder eleven med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften. Eleven utför arbetet inom givna tidsramar. Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för trender, traditioner och utveckling inom valt specialiseringsområde samt för hur matkulturer förändras genom historien och påverkas av andra kulturer. I arbetet redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för ekonomiska och näringsmässiga konsekvenser vid val och inköp av råvaror samt vid tillagning och förvaring. Eleven utformar &lt;strong&gt;med säkerhet&lt;/strong&gt; recept, matsedlar och menyer inom valt specialiseringsområde.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar &lt;strong&gt;utförligt&lt;/strong&gt; arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.&lt;/p&gt;&lt;p&gt;När arbetet är utfört utvärderar eleven sitt arbete och resultat med&lt;strong&gt; nyanserade &lt;/strong&gt;omdömen &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. Eleven samarbetar och kommunicerar &lt;strong&gt;med säkerhet&lt;/strong&gt; med andra och använder fackspråk. När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>5</sortOrder>
+  </courses>
+  <courses>
+    <name>Specialkoster</name>
+    <englishName>Special diets</englishName>
+    <description
+    >&lt;p&gt;Kursen specialkoster omfattar punkterna 1–9 under rubriken Ämnets syfte. I kursen behandlas fördjupade färdigheter i ämnet.&lt;/p&gt;</description>
+    <code>MALSPE0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Specialkoster, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MALSPE0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Yrkesmässig tillagning av specialkoster.&lt;/li&gt; &lt;li&gt;Immunologi och födoämnesintolerans.&lt;/li&gt; &lt;li&gt;Mat och måltider för olika behov.&lt;/li&gt; &lt;li&gt;Ekonomiska konsekvenser vid val av råvaror samt vid hantering och förvaring.&lt;/li&gt; &lt;li&gt;Näringsberäkningar av måltider med hjälp av datorprogram.&lt;/li&gt; &lt;li&gt;Svenska näringsrekommendationer.&lt;/li&gt; &lt;li&gt;Kreativt framtagande av recept, matsedlar och menyer för olika specialkoster.&lt;/li&gt; &lt;li&gt;Hygien och dagliga hygienrutiner, till exempel rengöring av lokaler och utrustning.&lt;/li&gt; &lt;li&gt;Arbetsmiljö och livsmedelssäkerhet samt lagar och andra bestämmelser som gäller inom området.&lt;/li&gt; &lt;li&gt;Kommunikation med andra samt fackterminologi.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare matlagning av olika specialkoster. &lt;strong&gt;I samråd&lt;/strong&gt; med handledare tillagar eleven på ett metodiskt, hantverksmässigt och tekniskt sätt anrättningar som har &lt;strong&gt;tillfredsställande&lt;/strong&gt; kvalitet i fråga om smak, utseende och näringsinnehåll samt är anpassade till olika behov och födoämnesintoleranser. I arbetet använder eleven med&lt;strong&gt; visst &lt;/strong&gt;handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften. Eleven utför arbetet inom givna tidsramar. I arbetet redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för ekonomiska konsekvenser vid val av råvaror samt vid hantering och förvaring. Eleven utför &lt;strong&gt;med viss säkerhet &lt;/strong&gt;näringsberäkningar av måltider med hjälp av datorprogram samt gör en &lt;strong&gt;enkel &lt;/strong&gt;bedömning av måltiden utifrån svenska näringsrekommendationer. Eleven utformar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; recept, matsedlar och menyer för specialkoster.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar &lt;strong&gt;översiktligt&lt;/strong&gt; arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.&lt;/p&gt;&lt;p&gt;När arbetet är utfört utvärderar eleven sitt arbete och resultat med&lt;strong&gt; enkla &lt;/strong&gt;omdömen. Eleven samarbetar och kommunicerar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; med andra och använder fackspråk. När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare matlagning av olika specialkoster. &lt;strong&gt;Efter samråd &lt;/strong&gt;med handledare tillagar eleven på ett metodiskt, hantverksmässigt och tekniskt sätt anrättningar som har &lt;strong&gt;tillfredsställande&lt;/strong&gt; kvalitet i fråga om smak, utseende och näringsinnehåll samt är anpassade till olika behov och födoämnesintoleranser. I arbetet använder eleven med&lt;strong&gt; gott &lt;/strong&gt;handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften. Eleven utför arbetet inom givna tidsramar. I arbetet redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för ekonomiska konsekvenser vid val av råvaror samt vid hantering och förvaring. Eleven utför &lt;strong&gt;med viss säkerhet &lt;/strong&gt;näringsberäkningar av måltider med hjälp av datorprogram samt gör en &lt;strong&gt;välgrundad &lt;/strong&gt;bedömning av måltiden utifrån svenska näringsrekommendationer. Eleven utformar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; recept, matsedlar och menyer för specialkoster.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar &lt;strong&gt;översiktligt&lt;/strong&gt; arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.&lt;/p&gt;&lt;p&gt;När arbetet är utfört utvärderar eleven sitt arbete och resultat med&lt;strong&gt; nyanserade &lt;/strong&gt;omdömen. Eleven samarbetar och kommunicerar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; med andra och använder fackspråk. När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och organiserar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare matlagning av olika specialkoster. &lt;strong&gt;Efter samråd &lt;/strong&gt;med handledare tillagar eleven på ett metodiskt, hantverksmässigt och tekniskt sätt anrättningar som har &lt;strong&gt;god&lt;/strong&gt; kvalitet i fråga om smak, utseende och näringsinnehåll samt är anpassade till olika behov och födoämnesintoleranser. I arbetet använder eleven med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag metoder, redskap, maskiner och annan utrustning som är lämplig för uppgiften. Eleven utför arbetet inom givna tidsramar. I arbetet redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för ekonomiska konsekvenser vid val av råvaror samt vid hantering och förvaring. Eleven utför &lt;strong&gt;med säkerhet &lt;/strong&gt;näringsberäkningar av måltider med hjälp av datorprogram samt gör en &lt;strong&gt;välgrundad och nyanserad &lt;/strong&gt;bedömning av måltiden utifrån svenska näringsrekommendationer. Eleven utformar &lt;strong&gt;med säkerhet &lt;/strong&gt;recept, matsedlar och menyer för specialkoster.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett hygieniskt, ergonomiskt och säkert sätt samt motiverar &lt;strong&gt;utförligt&lt;/strong&gt; arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet.&lt;/p&gt;&lt;p&gt;När arbetet är utfört utvärderar eleven sitt arbete och resultat med&lt;strong&gt; nyanserade &lt;/strong&gt;omdömen &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. Eleven samarbetar och kommunicerar &lt;strong&gt;med säkerhet&lt;/strong&gt; med andra och använder fackspråk. När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>6</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

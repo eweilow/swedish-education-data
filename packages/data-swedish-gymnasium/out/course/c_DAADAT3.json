@@ -1,0 +1,108 @@
+{
+  "subject": "DAA",
+  "title": "Datalagring",
+  "code": "DAADAT3",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för grundläggande teorier inom området och använder <strong>med säkerhet</strong> förekommande terminologi."
+      ],
+      [
+        "Eleven gör en <strong>avancerad</strong> analys av data som är aktuell för lagring och skapar med <strong>gott</strong> resultat en modell av denna data.",
+        "Dessutom väljer eleven <strong>med säkerhet</strong> en lämplig datalagringslösning och ger <strong>välgrundade och nyanserade</strong> motiv för sitt val."
+      ],
+      [
+        "Eleven implementerar med <strong>gott</strong> resultat avseende teknisk <strong>och optimal</strong> funktion datalagring utifrån sin modell.",
+        "Dessutom identifierar eleven <strong>flera</strong> möjliga problem avseende prestanda, <strong>skalbarhet</strong>, dataintegritet, <strong>feltolerans</strong> och säkerhet samt åtgärdar dem med <strong>gott</strong> resultat."
+      ],
+      [
+        "Eleven demonstrerar med <strong>mycket gott</strong> handlag operationer gentemot lagrad data samt skapar och vid behov redigerar ett <strong>avancerat</strong> databasschema.",
+        "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för åtkomst direkt via programspråkets inbyggda gränssnitt och genom ramverk eller externa kodbibliotek."
+      ],
+      [
+        "Eleven utvecklar med <strong>gott</strong> resultat fungerande funktioner för auktorisering och lösningar för lagring av data, så att den är säkrad mot obehörig åtkomst eller misstag gjorda av användare."
+      ],
+      [
+        "Eleven hanterar lagrad data ansvarsfullt och enligt gällande lagstiftning samt resonerar <strong>utförligt och nyanserat</strong> om personlig integritet och andra etiska frågor i relation till datalagring."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör <strong>utförligt</strong> för grundläggande teorier inom området och använder <strong>med viss säkerhet</strong> förekommande terminologi."
+      ],
+      [
+        "Eleven gör en analys av data som är aktuell för lagring och skapar med <strong>tillfredsställande</strong> resultat en modell av denna data.",
+        "Dessutom väljer eleven <strong>med viss säkerhet</strong> en lämplig datalagringslösning och ger <strong>välgrundade</strong> motiv för sitt val."
+      ],
+      [
+        "Eleven implementerar med <strong>tillfredsställande</strong> resultat avseende teknisk funktion datalagring utifrån sin modell.",
+        "Dessutom identifierar eleven <strong>några</strong> möjliga problem avseende prestanda, dataintegritet, <strong>feltolerans</strong> och säkerhet samt åtgärdar dem med <strong>tillfredsställande</strong> resultat."
+      ],
+      [
+        "Eleven demonstrerar med <strong>gott</strong> handlag operationer gentemot lagrad data samt skapar och vid behov redigerar ett databasschema.",
+        "Dessutom redogör eleven <strong>utförligt</strong> för åtkomst direkt via programspråkets inbyggda gränssnitt och genom ramverk eller externa kodbibliotek."
+      ],
+      [
+        "Eleven utvecklar med <strong>tillfredsställande</strong> resultat fungerande funktioner för auktorisering och lösningar för lagring av data, så att den är säkrad mot obehörig åtkomst eller misstag gjorda av användare."
+      ],
+      [
+        "Eleven hanterar lagrad data ansvarsfullt och enligt gällande lagstiftning samt resonerar <strong>utförligt</strong> om personlig integritet och andra etiska frågor i relation till datalagring."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven redogör <strong>översiktligt</strong> för grundläggande teorier inom området och använder <strong>med viss säkerhet</strong> förekommande terminologi."
+      ],
+      [
+        "Eleven gör en <strong>enkel</strong> analys av data som är aktuell för lagring och skapar med <strong>tillfredsställande</strong> resultat en modell av denna data.",
+        "Dessutom väljer eleven <strong>med viss säkerhet</strong> en lämplig datalagringslösning och ger <strong>enkla</strong> motiv för sitt val."
+      ],
+      [
+        "Eleven implementerar med <strong>tillfredsställande</strong> resultat avseende teknisk funktion datalagring utifrån sin modell.",
+        "Dessutom identifierar eleven <strong>några</strong> möjliga problem avseende prestanda, dataintegritet och säkerhet samt åtgärdar dem med <strong>tillfredsställande</strong> resultat."
+      ],
+      [
+        "Eleven demonstrerar med <strong>visst</strong> handlag operationer gentemot lagrad data samt skapar och vid behov redigerar ett <strong>enkelt</strong> databasschema.",
+        "Dessutom redogör eleven <strong>översiktligt</strong> för åtkomst direkt via programspråkets inbyggda gränssnitt och genom ramverk eller externa kodbibliotek."
+      ],
+      [
+        "Eleven utvecklar med <strong>tillfredsställande</strong> resultat fungerande funktioner för auktorisering och lösningar för lagring av data, så att den är säkrad mot obehörig åtkomst eller misstag gjorda av användare."
+      ],
+      [
+        "Eleven hanterar lagrad data ansvarsfullt och enligt gällande lagstiftning samt resonerar <strong>översiktligt</strong> om personlig integritet och andra etiska frågor i relation till datalagring."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Terminologi och grundläggande teori om datalagring.",
+        "Grundläggande teoribildning för datamodeller.",
+        "Datalagring i strukturerade filer i olika format.",
+        "Datalagring i relationsdatabas samt i någon ytterligare typ av databas.",
+        "Prestandaoptimering och skalbarhet.",
+        "Dataintegritet, feltolerans och säkerhet.",
+        "Verktyg för administration och utveckling.",
+        "Frågespråk och verktyg för manipulering av lagrad data.",
+        "Åtkomst av data för att skapa, läsa, ändra eller radera data samt för att skapa och redigera schema.",
+        "Programvarugränssnitt för åtkomst till lagrad data.",
+        "Auktorisering av dataåtkomst, säker lagring och handhavande av känsliga uppgifter.",
+        "Datasäkerhet och backup.",
+        "Lagstiftning, andra bestämmelser och integritetsfrågor."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen datalagring omfattar punkterna 1-8 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "name": "Biologi 2",
+  "code": "BIOBIO02",
+  "focusAreas": {
+    "string": "Kursen biologi 2 omfattar punkterna 1-5 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-5"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Cell- och molekylärbiologi",
+        "rows": [
+          "1. Cellers livscykler och differentiering, utveckling från ägg till vuxen. Cellers kommunikation.",
+          "2. Celldelars funktion. Livsprocesser och regleringen av dem, till exempel fotosyntes, metabolism och transport över membran. Evolutionärt perspektiv på molekylärbiologi.",
+          "3. Cell- och molekylärbiologins användningsområden. Möjligheter, risker och etiska frågor."
+        ]
+      },
+      {
+        "title": "Organismens funktion",
+        "rows": [
+          "1. Fysiologi hos människan och andra djur. Organsystem och deras uppbyggnad, funktion och samspel. Hormonsystemets och nervsystemets reglering av organismen.",
+          "2. Samband mellan evolution och organismernas funktionella byggnad och livsprocesser.",
+          "3. Immunsystem, smittspridning och infektion. Virus byggnad, funktion och reproduktion.",
+          "4. Mikroorganismer och deras betydelse för hälsa och sjukdom. Antibiotika och evolutionära processer.",
+          "5. Samband mellan levnadsförhållanden, hälsa och sjukdom. Etik i medicinska frågor.",
+          "6. Vad som händer i kroppen under menstruation, förälskelse, sex och graviditet. Hur sexuellt överförbara sjukdomar och oönskade graviditeter kan förebyggas.",
+          "7. Livscykler och fysiologi hos växter och svampar.",
+          "8. Användning av modern utrustning vid fysiologiska undersökningar och laborationer."
+        ]
+      },
+      {
+        "title": "Biologins karaktär och arbetsmetoder",
+        "rows": [
+          "1. Modeller och teorier som idealiseringar av verkligheten. Modellers och teoriers giltighetsområden samt hur de kan utvecklas, generaliseras eller ersättas av andra modeller och teorier över tid.",
+          "2. Avgränsning och studier av problem och frågor med hjälp av biologiska resonemang.",
+          "3. Det experimentella arbetets betydelse för att testa, omvärdera och revidera hypoteser, teorier och modeller.",
+          "4. Planering och genomförande av fältstudier, experiment och observationer samt formulering och prövning av hypoteser i samband med dessa. Utvärdering av resultat och slutsatser genom analys av metodval, arbetsprocess och felkällor.",
+          "5. Fysiologiska undersökningar och laborationer inklusive användning av modern utrustning. Enklare molekylärbiologiska metoder. Sterilteknik och odling av bakterier.",
+          "6. Användning av genetiska data för studier av biologiska sammanhang.",
+          "7. Frågor om religion, etik och hållbar utveckling kopplade till biologins olika arbetssätt och verksamhetsområden."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **översiktligt** för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+        "Eleven använder dessa **med viss säkerhet** för att söka svar på frågor samt för att beskriva och **exemplifiera** biologiska samband på olika nivåer, från molekylnivå till ekosystemnivå.",
+        "Utifrån **något** exempel redogör eleven **översiktligt** för hur biologins modeller och teorier utvecklas.",
+        "Eleven värderar också modellers och teoriers giltighet och begränsningar med **enkla** omdömen."
+      ],
+      [
+        "Eleven analyserar och söker svar på **enkla** frågor i **bekanta situationer** med **tillfredsställande** resultat.",
+        "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+        "I arbetet formulerar eleven relevanta hypoteser och formulerar **med viss säkerhet enkla** egna frågor.",
+        "Eleven planerar och genomför **i samråd** med handledare experiment och fältstudier på ett tillfredsställande sätt.",
+        "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+        "Vidare tolkar eleven sina resultat, utvärderar sina metoder med **enkla** omdömen och motiverar sina slutsatser med **enkla** resonemang.",
+        null
+      ],
+      [
+        "Eleven diskuterar **översiktligt** frågor som rör biologins betydelse för individ och samhälle.",
+        "I diskussionerna för eleven fram **enkla** argument och redogör **översiktligt** för konsekvenser av **något** tänkbart ställningstagande.",
+        null
+      ],
+      [
+        "Eleven använder **med viss säkerhet** ett naturvetenskapligt språk och anpassar **till viss del** sin kommunikation till syfte och sammanhang.",
+        "Dessutom använder eleven olika typer av källor och gör **enkla** bedömningar av informationens och källornas trovärdighet och relevans."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+        "Eleven använder dessa **med viss säkerhet** för att söka svar på frågor samt för att beskriva och **exemplifiera** biologiska samband på olika nivåer, från molekylnivå till ekosystemnivå.",
+        "Utifrån **några** exempel redogör eleven **utförligt** för hur biologins modeller och teorier utvecklas.",
+        "Eleven värderar också modellers och teoriers giltighet och begränsningar med **enkla** omdömen."
+      ],
+      [
+        "Eleven analyserar och söker svar på **komplexa** frågor i **bekanta situationer** med **tillfredsställande** resultat.",
+        "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+        "I arbetet formulerar eleven relevanta hypoteser och formulerar **med viss säkerhet** egna frågor.",
+        "Eleven planerar och genomför **efter samråd** med handledare experiment och fältstudier på ett tillfredsställande sätt.",
+        "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+        "Vidare tolkar eleven sina resultat, utvärderar sina metoder med **enkla** omdömen och motiverar sina slutsatser med **välgrundade** resonemang.",
+        null
+      ],
+      [
+        "Eleven diskuterar **utförligt** frågor som rör biologins betydelse för individ och samhälle.",
+        "I diskussionerna för eleven fram **välgrundade** argument och redogör **utförligt** för konsekvenser av **något** tänkbart ställningstagande.",
+        null
+      ],
+      [
+        "Eleven använder **med viss säkerhet** ett naturvetenskapligt språk och anpassar **till stor del** sin kommunikation till syfte och sammanhang.",
+        "Dessutom använder eleven olika typer av källor och gör **välgrundade** bedömningar av informationens och källornas trovärdighet och relevans."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+        "Eleven använder dessa **med säkerhet** för att söka svar på frågor samt för att **beskriva och generalisera kring** biologiska samband på olika nivåer, från molekylnivå till ekosystemnivå.",
+        "Utifrån **några** exempel redogör eleven **utförligt och nyanserat** för hur biologins modeller och teorier utvecklas.",
+        "Eleven värderar också modellers och teoriers giltighet och begränsningar med **nyanserade** omdömen."
+      ],
+      [
+        "Eleven analyserar och söker svar på **komplexa** frågor i **bekanta och nya situationer** med **gott** resultat.",
+        "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+        "I arbetet formulerar eleven relevanta hypoteser och formulerar **med säkerhet komplexa** egna frågor.",
+        "Eleven planerar och genomför **efter samråd** med handledare experiment och fältstudier på ett tillfredsställande sätt.",
+        "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+        "Vidare tolkar eleven sina resultat, utvärderar sina metoder med **nyanserade** omdömen och motiverar sina slutsatser med **välgrundade och nyanserade** resonemang.",
+        "**Vid behov föreslår eleven också förändringar**."
+      ],
+      [
+        "Eleven diskuterar **utförligt och nyanserat komplexa** frågor som rör biologins betydelse för individ och samhälle.",
+        "I diskussionerna för eleven fram **välgrundade och nyanserade** argument och redogör **utförligt och nyanserat** för konsekvenser av **flera** tänkbara ställningstaganden.",
+        "**Eleven föreslår också nya frågeställningar att diskutera**."
+      ],
+      [
+        "Eleven använder **med säkerhet** ett naturvetenskapligt språk och anpassar **till stor del** sin kommunikation till syfte och sammanhang.",
+        "Dessutom använder eleven olika typer av källor och gör **välgrundade och nyanserade** bedömningar av informationens och källornas trovärdighet och relevans."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

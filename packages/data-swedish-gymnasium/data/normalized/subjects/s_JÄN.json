@@ -1,0 +1,47 @@
+{
+  "name": "Järnvägsteknik",
+  "code": "JÄN",
+  "description": [
+    "Ämnet järnvägsteknik behandlar underhåll, ombyggnation, nybyggnation och felsökning av järnvägsanläggningars el- och signalsystem. I ämnet ställs höga krav på både trafik- och elsäkerhet eftersom det utgör grunden för allt arbete på och bredvid järnvägsanläggningar."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet järnvägsteknik ska syfta till att eleverna utvecklar kunskaper i underhåll, installation och reparation av befintliga anläggningar. I undervisningen ska eleverna ges möjlighet att utveckla färdigheter i att lösa problem som uppstår under arbetets gång samt i att felsöka och reparera fel i järnvägsanläggningars el- och signalsystem. Undervisningen ska bidra till att eleverna utvecklar förståelse av den tekniska utvecklingen inom branschen. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om säkerhet, föreskrifter, standarder och andra bestämmelser inom området.",
+          "Undervisningen ska ge eleverna möjlighet att arbeta praktiskt och i laborationsmiljö och därigenom utveckla förmåga att använda verktyg och material på rätt sätt. Vidare ska undervisningen leda till att eleverna utvecklar förmåga att hantera instrument och dokumentation, till exempel ritningar och arbetsbeskrivningar."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet järnvägsteknik ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Kunskaper om de olika teknik- och anläggningssystem som finns inom järnvägsbranschen.",
+          "2. Kunskaper om kontaktledningssystemets uppbyggnad och konstruktion.",
+          "3. Kunskaper om signalsystemets uppbyggnad och konstruktion.",
+          "4. Förmåga att planera sitt arbete samt att montera, felsöka och reparera anläggningar.",
+          "5. Kunskaper om begrepp, föreskrifter, standarder och andra bestämmelser inom området.",
+          "6. Förmåga att arbeta säkert och förebygga skador på personer och egendom.",
+          "7. Förmåga att dokumentera sitt arbete."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Allmän järnvägsteknik, 100 poäng.",
+          "2. Elteknik, 300 poäng.",
+          "3. Signalteknik, 300 poäng."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2010-12-02T08:25:20.000Z",
+  "modifiedDate": "2020-02-19T14:57:20.000Z",
+  "courseCodes": [
+    "JÄNALM0",
+    "JÄNELN0",
+    "JÄNSIG0"
+  ]
+}

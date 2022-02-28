@@ -1,0 +1,69 @@
+{
+  "name": "Hydraulik, kraftstationshydraulik och turbiner",
+  "code": "VAEHYD0",
+  "focusAreas": {
+    "string": "Kursen hydraulik, kraftstationshydraulik och turbiner omfattar punkterna 1-2, 6 och 10 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "entries": [
+      "1-2",
+      "6",
+      "10"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Hydraulikkomponenters funktion och användning.",
+          "2. Olika turbinmodellers uppbyggnad och funktion.",
+          "3. Kraftstationshydraulik och turbinreglering.",
+          "4. Uppbyggnad och funktion av vattenkraftstationers olika glidlager och tätningsboxar."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** vattenkraftstationens hydralikkomponenter och turbiner samt deras funktion, dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+        "I beskrivningen gör eleven **enkla** kopplingar till relevanta fysikaliska principer.",
+        "Dessutom redogör eleven **översiktligt** för hur en vattenkraftstation drivs."
+      ],
+      [
+        "Eleven utför på ett elsäkert och personsäkert sätt **enkelt** arbete med turbiner och hydralikkomponenter i en vattenkraftstation.",
+        "I arbetet använder eleven **med viss säkerhet** utrustningen på ett riktigt sätt.",
+        "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett **enkelt** fackspråk som fungerar för arbetsuppgiften.",
+        "Eleven gör en **enkel** dokumentation av sitt arbete samt utvärderar det med **enkla** omdömen.",
+        null
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** vattenkraftstationens hydralikkomponenter och turbiner samt deras funktion, dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+        "I beskrivningen gör eleven **välgrundade** kopplingar till relevanta fysikaliska principer.",
+        "Dessutom redogör eleven **utförligt** för hur en vattenkraftstation drivs."
+      ],
+      [
+        "Eleven utför på ett elsäkert och personsäkert sätt arbete med turbiner och hydralikkomponenter i en vattenkraftstation.",
+        "I arbetet använder eleven **med viss säkerhet** utrustningen på ett riktigt sätt.",
+        "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett fackspråk som fungerar för arbetsuppgiften.",
+        "Eleven gör en **noggrann** dokumentation av sitt arbete samt utvärderar det med **nyanserade** omdömen.",
+        null
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** vattenkraftstationens hydralikkomponenter och turbiner samt deras funktion, dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+        "I beskrivningen gör eleven **välgrundade och nyanserade** kopplingar till relevanta fysikaliska principer.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för hur en vattenkraftstation drivs."
+      ],
+      [
+        "Eleven utför på ett elsäkert och personsäkert sätt **avancerat** arbete med turbiner och hydralikkomponenter i en vattenkraftstation.",
+        "I arbetet använder eleven **med säkerhet** utrustningen på ett riktigt sätt.",
+        "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett **nyanserat** fackspråk som fungerar för arbetsuppgiften.",
+        "Eleven gör en **noggrann och utförlig** dokumentation av sitt arbete samt utvärderar det med **nyanserade** omdömen.",
+        "**Dessutom ger eleven förslag på hur arbetet kan förbättras**."
+      ]
+    ]
+  }
+}

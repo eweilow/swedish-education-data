@@ -1,0 +1,109 @@
+{
+  "subject": "MJK",
+  "title": "Mjukvarudesign",
+  "code": "MJKMJU3",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven för <strong>välgrundade och nyanserade</strong> resonemang om olika metoder inom mjukvaruutveckling och beskriver <strong>utförligt och nyanserat</strong> hur området mjukvaruutveckling har utvecklats.",
+        "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för olika kodstandarder, körmiljöer och plattformar."
+      ],
+      [
+        "Eleven deltar i ett projekt för att utveckla en applikation och följer <strong>med säkerhet</strong> vald utvecklingsmetodik.",
+        "Dessutom skapar eleven med <strong>gott</strong> resultat installerbara paket av applikationen eller installationsprogram för applikationen."
+      ],
+      [
+        "I sitt arbete <strong>installerar och</strong> använder eleven <strong>flera</strong> verktyg för kodning, projekthantering och samarbete samt för kvalitetskontroll, testning, kodanalys och versionshantering.",
+        "Dessutom skapar eleven <strong>med säkerhet</strong> kod som följer projektets specificerade kodstandard.",
+        "Under arbetet använder och skapar eleven <strong>med säkerhet</strong> teknisk dokumentation, buggrapporter och tester.",
+        "Eleven för <strong>välgrundade och nyanserade</strong> resonemang med användare och medarbetare för att föra arbetet framåt."
+      ],
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för hur applikationen har anpassats för vald körmiljö och hur denna förhåller sig till andra körmiljöer.",
+        "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> hur produkten internationaliserats eller lokaliserats."
+      ],
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för hur en god arbetsmiljö vid mjukvarudesign kan utformas.",
+        "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för olika alternativ för licenser, distributionsmetoder och betalningsmodeller."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven för <strong>välgrundade</strong> resonemang om olika metoder inom mjukvaruutveckling och beskriver <strong>utförligt</strong> hur området mjukvaruutveckling har utvecklats.",
+        "Dessutom redogör eleven <strong>utförligt</strong> för olika kodstandarder, körmiljöer och plattformar."
+      ],
+      [
+        "Eleven deltar i ett projekt för att utveckla en applikation och följer <strong>med viss säkerhet</strong> vald utvecklingsmetodik.",
+        "Dessutom skapar eleven med <strong>tillfredsställande</strong> resultat installerbara paket av applikationen eller installationsprogram för applikationen."
+      ],
+      [
+        "I sitt arbete <strong>installerar och</strong> använder eleven <strong>några</strong> verktyg för kodning, projekthantering och samarbete samt för kvalitetskontroll, testning, kodanalys och versionshantering.",
+        "Dessutom skapar eleven <strong>med viss säkerhet</strong> kod som följer projektets specificerade kodstandard.",
+        "Under arbetet använder och skapar eleven <strong>med viss säkerhet</strong> teknisk dokumentation, buggrapporter och tester.",
+        "Eleven för <strong>välgrundade</strong> resonemang med användare och medarbetare för att föra arbetet framåt."
+      ],
+      [
+        "Eleven redogör <strong>utförligt</strong> för hur applikationen har anpassats för vald körmiljö och hur denna förhåller sig till andra körmiljöer.",
+        "Dessutom beskriver eleven <strong>utförligt</strong> hur produkten internationaliserats eller lokaliserats."
+      ],
+      [
+        "Eleven redogör <strong>utförligt</strong> för hur en god arbetsmiljö vid mjukvarudesign kan utformas.",
+        "Dessutom redogör eleven <strong>utförligt</strong> för olika alternativ för licenser, distributionsmetoder och betalningsmodeller."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven för <strong>enkla</strong> resonemang om olika metoder inom mjukvaruutveckling och beskriver <strong>översiktligt</strong> hur området mjukvaruutveckling har utvecklats.",
+        "Dessutom redogör eleven <strong>översiktligt</strong> för olika kodstandarder, körmiljöer och plattformar."
+      ],
+      [
+        "Eleven deltar i ett projekt för att utveckla en applikation och följer <strong>med viss säkerhet</strong> vald utvecklingsmetodik.",
+        "Dessutom skapar eleven med <strong>tillfredsställande</strong> resultat installerbara paket av applikationen eller installationsprogram för applikationen."
+      ],
+      [
+        "I sitt arbete använder eleven <strong>några</strong> verktyg för kodning, projekthantering och samarbete samt för kvalitetskontroll, testning, kodanalys och versionshantering.",
+        "Dessutom skapar eleven <strong>med viss säkerhet</strong> kod som följer projektets specificerade kodstandard.",
+        "Under arbetet använder och skapar eleven <strong>med viss säkerhet</strong> teknisk dokumentation, buggrapporter och tester.",
+        "Eleven för <strong>enkla</strong> resonemang med användare och medarbetare för att föra arbetet framåt."
+      ],
+      [
+        "Eleven redogör <strong>översiktligt</strong> för hur applikationen har anpassats för vald körmiljö och hur denna förhåller sig till andra körmiljöer.",
+        "Dessutom beskriver eleven <strong>översiktligt</strong> hur produkten internationaliserats eller lokaliserats."
+      ],
+      [
+        "Eleven redogör <strong>översiktligt</strong> för hur en god arbetsmiljö vid mjukvarudesign kan utformas.",
+        "Dessutom redogör eleven <strong>översiktligt</strong> för olika alternativ för licenser, distributionsmetoder och betalningsmodeller."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Körmiljöer och plattformar, till exempel desktop, mobil, inbyggda system och webbapplikationer.",
+        "Utvecklingsmetodik, inklusive agila metoder.",
+        "Utvecklingsmiljöer och infrastrukturbehov.",
+        "Verktyg för projekthantering, ärendehantering och samarbete.",
+        "Kodkvalitet och kodstandarder.",
+        "Kodanalys och kvalitetskontroll, inklusive bugghantering och automatiserade tester.",
+        "Verktyg för versionshantering.",
+        "Internationalisering och lokalisering.",
+        "Upprättande av teknisk dokumentation, till exempel genererad från programkodskommentarer.",
+        "Ergonomiska krav på datorarbetsplatsen.",
+        "Paketering och distribution av mjukvara.",
+        "Licenser och betalningsmodeller."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen mjukvarudesign omfattar punkterna 1-7 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ]
+}

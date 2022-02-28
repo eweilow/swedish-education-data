@@ -1,0 +1,80 @@
+{
+  "name": "Kontrollanläggningar",
+  "code": "VAEKOR0",
+  "focusAreas": {
+    "string": "Kursen kontrollanläggningar omfattar punkterna 1-2 och 4-8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "entries": [
+      "1-2",
+      "4-8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Kontrollanläggningsscheman med tillhörande tabeller.",
+          "2. Mätning för kontroll och övervakning.",
+          "3. Enklare störningsanalyser.",
+          "4. Felsökning i kontrollanläggning.",
+          "5. Start- och stoppautomatikens funktion.",
+          "6. Reläskyddsfilosofi och dess praktiska tillämpning.",
+          "7. Lokalkraft- och reservkraftssystem."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** vattenkraftstationens kontrollanläggningar samt deras funktion, dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+        "I beskrivningen gör eleven **enkla** kopplingar till relevanta fysikaliska principer."
+      ],
+      [
+        "Eleven utför på ett elsäkert och personsäkert sätt **enkelt** arbete med turbiner och hydralikkomponenter i en vattenkraftstation.",
+        "I arbetet använder eleven **med viss säkerhet** utrustningen på ett riktigt sätt.",
+        "Under arbetet upptäcker eleven problem som uppkommer och löser dem **i samråd** med handledare.",
+        "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett **enkelt** fackspråk som fungerar för arbetsuppgiften.",
+        "Eleven gör en **enkel** dokumentation av sitt arbete samt utvärderar det med **enkla** omdömen.",
+        null
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** vattenkraftstationens kontrollanläggningar samt deras funktion, dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+        "I beskrivningen gör eleven **välgrundade** kopplingar till relevanta fysikaliska principer."
+      ],
+      [
+        "Eleven utför på ett elsäkert och personsäkert sätt arbete med turbiner och hydralikkomponenter i en vattenkraftstation.",
+        "I arbetet använder eleven **med viss säkerhet** utrustningen på ett riktigt sätt.",
+        "Under arbetet upptäcker eleven problem som uppkommer och löser dem **efter samråd** med handledare.",
+        "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett fackspråk som fungerar för arbetsuppgiften.",
+        "Eleven gör en **noggrann** dokumentation av sitt arbete samt utvärderar det med **nyanserade** omdömen.",
+        null
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** vattenkraftstationens kontrollanläggningar samt deras funktion, dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+        "I beskrivningen gör eleven **välgrundade och nyanserade** kopplingar till relevanta fysikaliska principer."
+      ],
+      [
+        "Eleven utför på ett elsäkert och personsäkert sätt **avancerat** arbete med turbiner och hydralikkomponenter i en vattenkraftstation.",
+        "I arbetet använder eleven **med säkerhet** utrustningen på ett riktigt sätt.",
+        "Under arbetet upptäcker eleven problem som uppkommer och löser dem **efter samråd** med handledare.",
+        "I arbetet samverkar och kommunicerar eleven på ett ansvarsfullt sätt med andra samt använder ett **nyanserat** fackspråk som fungerar för arbetsuppgiften.",
+        "Eleven gör en **noggrann och utförlig** dokumentation av sitt arbete samt utvärderar det med **nyanserade** omdömen.",
+        "**Dessutom ger eleven förslag på hur arbetet kan förbättras**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

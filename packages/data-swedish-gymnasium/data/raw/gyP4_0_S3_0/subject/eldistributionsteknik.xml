@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Eldistributionsteknik</name>
+  <englishName>Electricity distribution</englishName>
+  <description
+  >&lt;p&gt;Ämnet eldistributionsteknik behandlar eldistributionsnät och tillhörande anläggningar samt felsökning och felavhjälpning i befintliga anläggningar. Dessutom behandlas säkerhetsfrågor eftersom eldistributionsanläggningar ofta arbetar med höga spänningar och stora effekter, vilket gör att ett misstag kan orsaka stora skador både på person och på egendom.&lt;/p&gt;</description>
+  <code>ELD</code>
+  <status>PUBLISHED</status>
+  <version>2</version>
+  <createdDate>2015-12-15T17:42:30+01:00</createdDate>
+  <modifiedDate>2020-02-19T15:50:56+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Eldistributionsteknik&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet eldistributionsteknik ska syfta till att eleverna utvecklar kunskaper i utbyggnad, förbättring, reparation och underhållsarbete av eldistributionsnät. Den ska även ge eleverna möjlighet att utveckla förmåga att tillämpa de elsäkerhetsanvisningar, föreskrifter, standarder och andra bestämmelser som gäller för eldistributionsarbete. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att lösa problem som uppkommer under arbetets gång. Dessutom ska undervisningen ge eleverna möjlighet att utveckla färdigheter i att kommunicera i tal och skrift för att garantera elsäkerheten.&lt;/p&gt;&lt;p&gt;I undervisningen ska eleverna ges möjlighet att arbeta med praktiskt eldistributionsarbete. Därigenom ska de ges möjlighet att utveckla förmåga att arbeta ergonomiskt och säkerhetsmässigt samt att använda säkerhetsutrustning, skyddskläder och verktyg.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet eldistributionsteknik ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om funktion och arbetssätt hos eldistributionssystems komponenter, utrustningar och stationer.&lt;/li&gt; &lt;li&gt;Förmåga att planera sitt arbete samt att bygga, driftsätta och underhålla eldistributionsnät och anläggningar.&lt;/li&gt; &lt;li&gt;Förmåga att tillämpa föreskrifter och standarder som gäller för eldistributionsarbete.&lt;/li&gt; &lt;li&gt;Förmåga att läsa och tolka elscheman och andra dokument.&lt;/li&gt; &lt;li&gt;Förmåga att välja och använda lämpliga metoder och lämplig utrustning.&lt;/li&gt; &lt;li&gt;Förmåga att arbeta på ett sätt som är säkert och ergonomiskt för eleven själv och andra.&lt;/li&gt; &lt;li&gt;Förmåga att kommunicera med andra.&lt;/li&gt; &lt;li&gt;Färdigheter i att kontrollera, felsöka och reparera anläggningar.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Belysningsnät, 100 poäng.&lt;/li&gt; &lt;li&gt;Högspänningsnät, 100 poäng.&lt;/li&gt; &lt;li&gt;Lågspänningsnät, 100 poäng.&lt;/li&gt; &lt;li&gt;Nät- och transformatorstationer, 100 poäng, som bygger på kursen lågspänningsnät eller kursen högspänningsnät.&lt;/li&gt; &lt;li&gt;Nätunderhållsarbete i stadsnät, 100 poäng, som bygger på kursen lågspänningsnät eller kursen högspänningsnät.&lt;/li&gt; &lt;li&gt;Nätunderhållsarbete i vindkraftnät, 100 poäng, som bygger på kursen lågspänningsnät eller kursen högspänningsnät.&lt;/li&gt; &lt;li&gt;Nätunderhållsarbete på luftledningsnät 0,4–24kV, 100 poäng, som bygger på kursen lågspänningsnät eller kursen högspänningsnät.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2010:149</skolfsId>
+  <applianceDate>2015-12-15T00:00:00+01:00</applianceDate>
+  <courses>
+    <name>Belysningsnät</name>
+    <englishName>Lighting mains</englishName>
+    <description
+    >&lt;p&gt;Kursen belysningsnät omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>ELDBEY0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Belysningsnät, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: ELDBEY0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Belysningsnäts uppbyggnad, funktion och arbetssätt samt deras komponenter, till exempel stolpar, armaturer och belysningskällor. Belysningsnäts kontroll och styrsystem.&lt;/li&gt; &lt;li&gt;Montering, skarvning och schaktning i belysningsnät. &lt;/li&gt; &lt;li&gt;Underhåll av belysningsnät.&lt;/li&gt; &lt;li&gt;Föreskrifter och andra bestämmelser inom området. &lt;/li&gt; &lt;li&gt;Elscheman och andra dokument.&lt;/li&gt; &lt;li&gt;Verktyg, maskiner och annan utrustning.&lt;/li&gt; &lt;li&gt;Mätinstrument och mätmetoder för kabelfelsökning.&lt;/li&gt; &lt;li&gt;Säkerhetsrutiner och anvisningar vid arbete med belysningsnät. &lt;/li&gt; &lt;li&gt;Säkerhet gällande arbete på väg och från korg. &lt;/li&gt; &lt;li&gt;Kontroll av belysningsnät.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;hur belysningsnäts komponenter, utrustningar och stationer fungerar och arbetar.&lt;/p&gt;&lt;p&gt;Eleven planerar&lt;strong&gt; i samråd &lt;/strong&gt;med handledare vanligt förekommande arbete i belysningsnät utifrån föreskrifter och standarder inom området. I planeringen läser och tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;elscheman och andra dokument. Dessutom väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämpliga metoder och lämplig utrustning för arbetet. Inför arbetet gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;riskbedömning och anpassar vid behov sin planering utifrån den. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoderna och utrustningen. Under arbetets gång upptäcker eleven &lt;strong&gt;enkla&lt;/strong&gt; problem som uppkommer och löser dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. I arbetet kommunicerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare säkerheten i anläggningar samt söker och reparerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare &lt;strong&gt;enkla&lt;/strong&gt; fel som uppkommer i såväl nya som befintliga anläggningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;hur belysningsnäts komponenter, utrustningar och stationer fungerar och arbetar.&lt;/p&gt;&lt;p&gt;Eleven planerar&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare vanligt förekommande arbete i belysningsnät utifrån föreskrifter och standarder inom området. I planeringen läser och tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;elscheman och andra dokument. Dessutom väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämpliga metoder och lämplig utrustning för arbetet. Inför arbetet gör eleven en riskbedömning och anpassar vid behov sin planering utifrån den. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoderna och utrustningen. Under arbetets gång upptäcker eleven problem som uppkommer och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. I arbetet kommunicerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare säkerheten i anläggningar samt söker och reparerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare fel som uppkommer i såväl nya som befintliga anläggningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;hur belysningsnäts komponenter, utrustningar och stationer fungerar och arbetar.&lt;/p&gt;&lt;p&gt;Eleven planerar&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare vanligt förekommande arbete i belysningsnät utifrån föreskrifter och standarder inom området. I planeringen läser och tolkar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;elscheman och andra dokument. Dessutom väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;lämpliga metoder och lämplig utrustning för arbetet &lt;strong&gt;samt motiverar sina val&lt;/strong&gt;. Inför arbetet gör eleven en &lt;strong&gt;välgrundad &lt;/strong&gt;riskbedömning och anpassar vid behov sin planering utifrån den. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;metoderna och utrustningen. Under arbetets gång upptäcker eleven &lt;strong&gt;avancerade &lt;/strong&gt;problem som uppkommer och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. I arbetet kommunicerar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;med andra.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare säkerheten i anläggningar samt söker och reparerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare &lt;strong&gt;avancerade &lt;/strong&gt;fel som uppkommer i såväl nya som befintliga anläggningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Högspänningsnät</name>
+    <englishName>High tension systems</englishName>
+    <description
+    >&lt;p&gt;Kursen högspänningsnät omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>ELDHÖG0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Högspänningsnät, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: ELDHÖG0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Nätstationer i luftledningsnät och kabelnät.&lt;/li&gt; &lt;li&gt;Kablar och komponenter för jordkabelnät.&lt;/li&gt; &lt;li&gt;Nybyggnad och ombyggnad, driftsättning, underhåll samt reparation av högspänningsnät.&lt;/li&gt; &lt;li&gt;Luftledningsnät och jordkabelnät för högspänning.&lt;/li&gt; &lt;li&gt;Kabelnätarbete samt tillverkning av skarvar och ändavslut.&lt;/li&gt; &lt;li&gt;Stolparbete, stolpresning och stagförankring.&lt;/li&gt; &lt;li&gt;Riggning och lindragning.&lt;/li&gt; &lt;li&gt;Najning och skarvning av friledning.&lt;/li&gt; &lt;li&gt;Underhåll och besiktning.&lt;/li&gt; &lt;li&gt;Byggnadssätt, föreskrifter och standarder, till exempel elbyggnadsrationalisering (EBR).&lt;/li&gt; &lt;li&gt;Säkerhetsföreskrifter och arbetsmiljöföreskrifter. &lt;/li&gt; &lt;li&gt;Elsäkerhetsanvisningarna (ESA).&lt;/li&gt; &lt;li&gt;Linjescheman och kartor.&lt;/li&gt; &lt;li&gt;Dokument för bevisväxling.&lt;/li&gt; &lt;li&gt;Verktyg, maskiner och annan utrustning.&lt;/li&gt; &lt;li&gt;Mätinstrument och mättekniker inom området. &lt;/li&gt; &lt;li&gt;Säkerhet och ergonomi. Driftsäkerhet. Skyddskläder och säkerhetsutrustningar.&lt;/li&gt; &lt;li&gt;Nedtagning av nödställd.&lt;/li&gt; &lt;li&gt;Kommunikation med arbetsledning och medarbetare.&lt;/li&gt; &lt;li&gt;Spänningsprovning och arbetsjordning.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;hur högspänningsnäts och högspänningsanläggningars komponenter, utrustningar och stationer fungerar och arbetar.&lt;/p&gt;&lt;p&gt;Eleven planerar&lt;strong&gt; i samråd &lt;/strong&gt;med handledare vanligt förekommande arbete i högspänningsnät och högspänningsanläggningar utifrån föreskrifter och standarder inom området. I planeringen läser och tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;elscheman och andra dokument. Dessutom väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämpliga metoder och lämplig utrustning för arbetet. Inför arbetet gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;riskbedömning och anpassar vid behov sin planering utifrån den. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoderna och utrustningen. Under arbetets gång upptäcker eleven &lt;strong&gt;enkla&lt;/strong&gt; problem som uppkommer och löser dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. I arbetet kommunicerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare säkerheten i anläggningar samt söker och reparerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare &lt;strong&gt;enkla&lt;/strong&gt; fel som uppkommer i såväl nya som befintliga anläggningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;hur högspänningsnäts och högspänningsanläggningars komponenter, utrustningar och stationer fungerar och arbetar.&lt;/p&gt;&lt;p&gt;Eleven planerar&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare vanligt förekommande arbete i högspänningsnät och högspänningsanläggningar utifrån föreskrifter och standarder inom området. I planeringen läser och tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;elscheman och andra dokument. Dessutom väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämpliga metoder och lämplig utrustning för arbetet. Inför arbetet gör eleven en riskbedömning och anpassar vid behov sin planering utifrån den. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoderna och utrustningen. Under arbetets gång upptäcker eleven problem som uppkommer och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. I arbetet kommunicerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare säkerheten i anläggningar samt söker och reparerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare fel som uppkommer i såväl nya som befintliga anläggningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;hur högspänningsnäts och högspänningsanläggningars komponenter, utrustningar och stationer fungerar och arbetar.&lt;/p&gt;&lt;p&gt;Eleven planerar&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare vanligt förekommande arbete i högspänningsnät och högspänningsanläggningar utifrån föreskrifter och standarder inom området. I planeringen läser och tolkar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;elscheman och andra dokument. Dessutom väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;lämpliga metoder och lämplig utrustning för arbetet &lt;strong&gt;samt motiverar sina val&lt;/strong&gt;. Inför arbetet gör eleven en &lt;strong&gt;välgrundad &lt;/strong&gt;riskbedömning och anpassar vid behov sin planering utifrån den. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;metoderna och utrustningen. Under arbetets gång upptäcker eleven &lt;strong&gt;avancerade &lt;/strong&gt;problem som uppkommer och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. I arbetet kommunicerar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;med andra.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare säkerheten i anläggningar samt söker och reparerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare &lt;strong&gt;avancerade &lt;/strong&gt;fel som uppkommer i såväl nya som befintliga anläggningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Lågspänningsnät</name>
+    <englishName>Low tension systems</englishName>
+    <description
+    >&lt;p&gt;Kursen lågspänningsnät omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>ELDLÅS0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Lågspänningsnät, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: ELDLÅS0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Nätstationer och stolpstationer.&lt;/li&gt; &lt;li&gt;Konstruktioner, kablar och komponenter.&lt;/li&gt; &lt;li&gt;Nybyggnad och ombyggnad, driftsättning, underhåll samt reparation av lågspänningsnät.&lt;/li&gt; &lt;li&gt;Luftledningsnät och jordkabelnät.&lt;/li&gt; &lt;li&gt;Kabelarbete samt tillverkning av skarvar och avslut.&lt;/li&gt; &lt;li&gt;Montering och inkoppling av kabelskåp.&lt;/li&gt; &lt;li&gt;Krafter, stagning och förankring.&lt;/li&gt; &lt;li&gt;Underhåll och besiktning.&lt;/li&gt; &lt;li&gt;Byggnadssätt, föreskrifter och standarder, till exempel elbyggnadsrationalisering (EBR).&lt;/li&gt; &lt;li&gt;Säkerhetsföreskrifter och arbetsmiljöföreskrifter. &lt;/li&gt; &lt;li&gt;Elsäkerhetsanvisningarna (ESA).&lt;/li&gt; &lt;li&gt;Linjescheman och kartor.&lt;/li&gt; &lt;li&gt;Dokument för bevisväxling.&lt;/li&gt; &lt;li&gt;Verktyg, maskiner och annan utrustning.&lt;/li&gt; &lt;li&gt;Säkerhet och ergonomi. Driftsäkerhet. Skyddskläder och säkerhetsutrustningar.&lt;/li&gt; &lt;li&gt;Nedtagning av nödställd.&lt;/li&gt; &lt;li&gt;Kommunikation med arbetsledning och medarbetare.&lt;/li&gt; &lt;li&gt;Spänningsprovning och arbetsjordning.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;hur lågspänningsnäts och lågspänningsanläggningars komponenter, utrustningar och stationer fungerar och arbetar.&lt;/p&gt;&lt;p&gt;Eleven planerar&lt;strong&gt; i samråd &lt;/strong&gt;med handledare vanligt förekommande arbete i lågspänningsnät och lågspänningsanläggningar utifrån föreskrifter och standarder inom området. I planeringen läser och tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;elscheman och andra dokument. Dessutom väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämpliga metoder och lämplig utrustning för arbetet. Inför arbetet gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;riskbedömning och anpassar vid behov sin planering utifrån den. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoderna och utrustningen. Under arbetets gång upptäcker eleven &lt;strong&gt;enkla&lt;/strong&gt; problem som uppkommer och löser dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. I arbetet kommunicerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare säkerheten i anläggningar samt söker och reparerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare &lt;strong&gt;enkla&lt;/strong&gt; fel som uppkommer i såväl nya som befintliga anläggningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;hur lågspänningsnäts och lågspänningsanläggningars komponenter, utrustningar och stationer fungerar och arbetar.&lt;/p&gt;&lt;p&gt;Eleven planerar&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare vanligt förekommande arbete i lågspänningsnät och lågspänningsanläggningar utifrån föreskrifter och standarder inom området. I planeringen läser och tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;elscheman och andra dokument. Dessutom väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämpliga metoder och lämplig utrustning för arbetet. Inför arbetet gör eleven en riskbedömning och anpassar vid behov sin planering utifrån den. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoderna och utrustningen. Under arbetets gång upptäcker eleven problem som uppkommer och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. I arbetet kommunicerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare säkerheten i anläggningar samt söker och reparerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare fel som uppkommer i såväl nya som befintliga anläggningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;hur lågspänningsnäts och lågspänningsanläggningars komponenter, utrustningar och stationer fungerar och arbetar.&lt;/p&gt;&lt;p&gt;Eleven planerar&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare vanligt förekommande arbete i lågspänningsnät och lågspänningsanläggningar utifrån föreskrifter och standarder inom området. I planeringen läser och tolkar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;elscheman och andra dokument. Dessutom väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;lämpliga metoder och lämplig utrustning för arbetet. Inför arbetet gör eleven en &lt;strong&gt;välgrundad &lt;/strong&gt;riskbedömning och anpassar vid behov sin planering utifrån den. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;metoderna och utrustningen. Under arbetets gång upptäcker eleven &lt;strong&gt;avancerade &lt;/strong&gt;problem som uppkommer och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. I arbetet kommunicerar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;med andra.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare säkerheten i anläggningar samt söker och reparerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare&lt;strong&gt; avancerade&lt;/strong&gt; fel som uppkommer i såväl nya som befintliga anläggningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <courses>
+    <name>Nät- och transformatorstationer</name>
+    <englishName>Network and substations</englishName>
+    <description
+    >&lt;p&gt;Kursen nät- och transformatorstationer omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>ELDNÄT0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Nät- och transformatorstationer, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: ELDNÄT0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Nätstationers utformning och bestyckning.&lt;/li&gt; &lt;li&gt;Driftcentralens uppbyggnad och systemfunktioner.&lt;/li&gt; &lt;li&gt;Avbrottsfri strömförsörjning (UPS) och batterianläggningar. &lt;/li&gt; &lt;li&gt;Transformatorstationer (40–400 kV) samt ställverks- och brytarkonstruktioner.&lt;/li&gt; &lt;li&gt;Transformatorstationernas kommunikationssystem.&lt;/li&gt; &lt;li&gt;Lastfrånskiljare och kopplingsutrustning.&lt;/li&gt; &lt;li&gt;Montering av kopplingsapparater och kablar.&lt;/li&gt; &lt;li&gt;Drifttillsyn samt underhåll och besiktning av nät- och transformatorstationer. &lt;/li&gt; &lt;li&gt;Elsäkerhetsanvisningarna (ESA).&lt;/li&gt; &lt;li&gt;Skyddsutrustning för personsäkerhet vid arbete i nät- och transformatorstationer.&lt;/li&gt; &lt;li&gt;Skydd för systemens olika delar.&lt;/li&gt; &lt;li&gt;Spänningsprovning och arbetsjordning.&lt;/li&gt; &lt;li&gt;Överspänningsskydd och hjälpkraftsystem. &lt;/li&gt; &lt;li&gt;Kontrollanläggningens funktionsblock och delsystem.&lt;/li&gt; &lt;li&gt;Uppbyggnad och driftsäkerhetskrav för datoriserade kontrollanläggningar.&lt;/li&gt; &lt;li&gt;Kontrollanläggningsområdets olika elmiljöklasser.&lt;/li&gt; &lt;li&gt;Fjärrkontrollsystemets uppgift och struktur.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;hur nät- och transformatorstationers komponenter och utrustningar fungerar och arbetar.&lt;/p&gt;&lt;p&gt;Eleven planerar&lt;strong&gt; i samråd &lt;/strong&gt;med handledare vanligt förekommande arbete i nät- och transformatorstationer utifrån föreskrifter och standarder inom området. I planeringen läser och tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;elscheman och andra dokument. Dessutom väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämpliga metoder och lämplig utrustning för arbetet. Inför arbetet gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;riskbedömning och anpassar vid behov sin planering utifrån den. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoderna och utrustningen. Under arbetets gång upptäcker eleven &lt;strong&gt;enkla&lt;/strong&gt; problem som uppkommer och löser dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. I arbetet kommunicerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare säkerheten i anläggningar samt söker och reparerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare &lt;strong&gt;enkla&lt;/strong&gt; fel som uppkommer i såväl nya som befintliga anläggningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;hur nät- och transformatorstationers komponenter och utrustningar fungerar och arbetar.&lt;/p&gt;&lt;p&gt;Eleven planerar&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare vanligt förekommande arbete i nät- och transformatorstationer utifrån föreskrifter och standarder inom området. I planeringen läser och tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;elscheman och andra dokument. Dessutom väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämpliga metoder och lämplig utrustning för arbetet. Inför arbetet gör eleven en riskbedömning och anpassar vid behov sin planering utifrån den. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoderna och utrustningen. Under arbetets gång upptäcker eleven problem som uppkommer och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. I arbetet kommunicerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare säkerheten i anläggningar samt söker och reparerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare fel som uppkommer i såväl nya som befintliga anläggningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;hur nät- och transformatorstationers komponenter och utrustningar fungerar och arbetar.&lt;/p&gt;&lt;p&gt;Eleven planerar&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare vanligt förekommande arbete i nät- och transformatorstationer utifrån föreskrifter och standarder inom området. I planeringen läser och tolkar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;elscheman och andra dokument. Dessutom väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;lämpliga metoder och lämplig utrustning för arbetet &lt;strong&gt;samt motiverar sina val&lt;/strong&gt;. Inför arbetet gör eleven en &lt;strong&gt;välgrundad &lt;/strong&gt;riskbedömning och anpassar vid behov sin planering utifrån den. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;metoderna och utrustningen. Under arbetets gång upptäcker eleven &lt;strong&gt;avancerade &lt;/strong&gt;problem som uppkommer och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. I arbetet kommunicerar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;med andra.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare säkerheten i anläggningar samt söker och reparerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare &lt;strong&gt;avancerade &lt;/strong&gt;fel som uppkommer i såväl nya som befintliga anläggningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>4</sortOrder>
+  </courses>
+  <courses>
+    <name>Nätunderhållsarbete i stadsnät</name>
+    <englishName>Network maintenance in urban networks</englishName>
+    <description
+    >&lt;p&gt;Kursen nätunderhållsarbete i stadsnät omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>ELDNÄU0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Nätunderhållsarbete i stadsnät, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: ELDNÄU0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Kabelskåp och serviceinstallationer.&lt;/li&gt; &lt;li&gt;Grävande och schaktning i stadsmiljö.&lt;/li&gt; &lt;li&gt;Kabelförläggning i mark och tunnelsystem.&lt;/li&gt; &lt;li&gt;Underhåll av nätstationer i stadsnät. &lt;/li&gt; &lt;li&gt;Underhåll och besiktning av kabelnät.&lt;/li&gt; &lt;li&gt;Föreskrifter och andra bestämmelser inom området.&lt;/li&gt; &lt;li&gt;Byggmetoder och underhållsmetoder enligt reglerna för elbyggnadsrationalisering (EBR).&lt;/li&gt; &lt;li&gt;Elscheman och andra dokument.&lt;/li&gt; &lt;li&gt;Verktyg, maskiner och annan utrustning.&lt;/li&gt; &lt;li&gt;Mätinstrument och mätmetoder för kabelfelsökning. &lt;/li&gt; &lt;li&gt;Säkerhetsrutiner och anvisningar vid arbete med kabelnät (ESA).&lt;/li&gt; &lt;li&gt;Säkerhet gällande arbete på väg och från korg. &lt;/li&gt; &lt;li&gt;Kontroll av nätstationer i stadsnät.&lt;/li&gt; &lt;li&gt;Felsökning och reparation av kabelnät.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;hur stadsnäts komponenter, utrustningar och stationer fungerar och arbetar.&lt;/p&gt;&lt;p&gt;Eleven planerar&lt;strong&gt; i samråd &lt;/strong&gt;med handledare vanligt förekommande nätunderhållsarbete i stadsnät utifrån föreskrifter och standarder inom området. I planeringen läser och tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;elscheman och andra dokument. Dessutom väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämpliga metoder och lämplig utrustning för arbetet. Inför arbetet gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;riskbedömning och anpassar vid behov sin planering utifrån den. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoderna och utrustningen. Under arbetets gång upptäcker eleven &lt;strong&gt;enkla&lt;/strong&gt; problem som uppkommer och löser dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. I arbetet kommunicerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare säkerheten i anläggningar samt söker och reparerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare &lt;strong&gt;enkla&lt;/strong&gt; fel som uppkommer i såväl nya som befintliga anläggningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;hur stadsnäts komponenter, utrustningar och stationer fungerar och arbetar.&lt;/p&gt;&lt;p&gt;Eleven planerar&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare vanligt förekommande nätunderhållsarbete i stadsnät utifrån föreskrifter och standarder inom området. I planeringen läser och tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;elscheman och andra dokument. Dessutom väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämpliga metoder och lämplig utrustning för arbetet. Inför arbetet gör eleven en riskbedömning och anpassar vid behov sin planering utifrån den. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoderna och utrustningen. Under arbetets gång upptäcker eleven problem som uppkommer och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. I arbetet kommunicerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare säkerheten i anläggningar samt söker och reparerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare fel som uppkommer i såväl nya som befintliga anläggningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;hur stadsnäts komponenter, utrustningar och stationer fungerar och arbetar.&lt;/p&gt;&lt;p&gt;Eleven planerar&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare vanligt förekommande nätunderhållsarbete i stadsnät utifrån föreskrifter och standarder inom området. I planeringen läser och tolkar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;elscheman och andra dokument. Dessutom väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;lämpliga metoder och lämplig utrustning för arbetet &lt;strong&gt;samt motiverar sina val&lt;/strong&gt;. Inför arbetet gör eleven en &lt;strong&gt;välgrundad &lt;/strong&gt;riskbedömning och anpassar vid behov sin planering utifrån den. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;metoderna och utrustningen. Under arbetets gång upptäcker eleven &lt;strong&gt;avancerade &lt;/strong&gt;problem som uppkommer och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. I arbetet kommunicerar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;med andra.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare säkerheten i anläggningar samt söker och reparerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare &lt;strong&gt;avancerade &lt;/strong&gt;fel som uppkommer i såväl nya som befintliga anläggningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>5</sortOrder>
+  </courses>
+  <courses>
+    <name>Nätunderhållsarbete i vindkraftnät</name>
+    <englishName>Network maintenance in wind-power networks</englishName>
+    <description
+    >&lt;p&gt;Kursen nätunderhållsarbete i vindkraftnät omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>ELDNÄN0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Nätunderhållsarbete i vindkraftnät, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: ELDNÄN0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Nätstationer och kabelskåp.&lt;/li&gt; &lt;li&gt;Teknik och byggnadssätt för vindkraftnät.&lt;/li&gt; &lt;li&gt;Kabelförläggning och schaktning.&lt;/li&gt; &lt;li&gt;Nätunderhållsarbete i vindkraftnät.&lt;/li&gt; &lt;li&gt;Säkerhets- och arbetsmiljöföreskrifter. &lt;/li&gt; &lt;li&gt;Elsäkerhetsanvisningarna (ESA).&lt;/li&gt; &lt;li&gt;Linjescheman och andra dokument.&lt;/li&gt; &lt;li&gt;Dokument för bevisväxling.&lt;/li&gt; &lt;li&gt;Verktyg.&lt;/li&gt; &lt;li&gt;Säkerhetsrisker med vindkraftverk på nätet.&lt;/li&gt; &lt;li&gt;Skyddsutrustning.&lt;/li&gt; &lt;li&gt;Säkerhet på väg.&lt;/li&gt; &lt;li&gt;Kommunikation med driftcentral och arbetsledning.&lt;/li&gt; &lt;li&gt;Spänningsprovning och arbetsjordning.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;hur vindkraftnäts komponenter, utrustningar och stationer fungerar och arbetar.&lt;/p&gt;&lt;p&gt;Eleven planerar&lt;strong&gt; i samråd &lt;/strong&gt;med handledare vanligt förekommande nätunderhållsarbete i vindkraftnät utifrån föreskrifter och standarder inom området. I planeringen läser och tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;elscheman och andra dokument. Dessutom väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämpliga metoder och lämplig utrustning för arbetet. Inför arbetet gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;riskbedömning och anpassar vid behov sin planering utifrån den. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoderna och utrustningen. Under arbetets gång upptäcker eleven &lt;strong&gt;enkla&lt;/strong&gt; problem som uppkommer och löser dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. I arbetet kommunicerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare säkerheten i anläggningar samt söker och reparerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare &lt;strong&gt;enkla&lt;/strong&gt; fel som uppkommer i såväl nya som befintliga anläggningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;hur vindkraftnäts komponenter, utrustningar och stationer fungerar och arbetar.&lt;/p&gt;&lt;p&gt;Eleven planerar&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare vanligt förekommande nätunderhållsarbete i vindkraftnät utifrån föreskrifter och standarder inom området. I planeringen läser och tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;elscheman och andra dokument. Dessutom väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämpliga metoder och lämplig utrustning för arbetet. Inför arbetet gör eleven en riskbedömning och anpassar vid behov sin planering utifrån den. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoderna och utrustningen. Under arbetets gång upptäcker eleven problem som uppkommer och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. I arbetet kommunicerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare säkerheten i anläggningar samt söker och reparerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare fel som uppkommer i såväl nya som befintliga anläggningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;hur vindkraftnäts komponenter, utrustningar och stationer fungerar och arbetar.&lt;/p&gt;&lt;p&gt;Eleven planerar&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare vanligt förekommande nätunderhållsarbete i vindkraftnät utifrån föreskrifter och standarder inom området. I planeringen läser och tolkar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;elscheman och andra dokument. Dessutom väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;lämpliga metoder och lämplig utrustning för arbetet &lt;strong&gt;samt motiverar sina val&lt;/strong&gt;. Inför arbetet gör eleven en &lt;strong&gt;välgrundad &lt;/strong&gt;riskbedömning och anpassar vid behov sin planering utifrån den. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;metoderna och utrustningen. Under arbetets gång upptäcker eleven &lt;strong&gt;avancerade &lt;/strong&gt;problem som uppkommer och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. I arbetet kommunicerar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;med andra.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare säkerheten i anläggningar samt söker och reparerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare &lt;strong&gt;avancerade &lt;/strong&gt;fel som uppkommer i såväl nya som befintliga anläggningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>6</sortOrder>
+  </courses>
+  <courses>
+    <name>Nätunderhållsarbete på luftledningsnät 0,4–24kV</name>
+    <englishName>
+      Network maintenance in overhead line system 0.4—24kV
+    </englishName>
+    <description
+    >&lt;p&gt;Kursen nätunderhållsarbete på luftledningsnät 0,4–24 kV omfattar punkterna 1–8 under rubriken Ämnet syfte. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>ELDNÄD0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Nätunderhållsarbete på luftledningsnät 0,4–24kV, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: ELDNÄD0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Röjning vid trädpåfällning och islast. &lt;/li&gt; &lt;li&gt;Underhåll och besiktning av luftledningsnät och nätstationer i luftledningsnät.&lt;/li&gt; &lt;li&gt;Föreskrifter och andra bestämmelser inom området.&lt;/li&gt; &lt;li&gt;Byggmetoder och underhållsmetoder enligt reglerna för elbyggnadsrationalisering (EBR).&lt;/li&gt; &lt;li&gt;Elscheman och andra dokument.&lt;/li&gt; &lt;li&gt;Verktyg, maskiner och annan utrustning.&lt;/li&gt; &lt;li&gt;Säkerhetsrutiner och anvisningar vid arbete med luftledningar (ESA). &lt;/li&gt; &lt;li&gt;Säkerhet gällande arbete på väg och från korg.&lt;/li&gt; &lt;li&gt;Kontroll av nätstationer i luftledningsnät. &lt;/li&gt; &lt;li&gt;Felsökning och reparation av luftledningsnät.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt &lt;/strong&gt;hur luftledningsnäts komponenter, utrustningar och stationer fungerar och arbetar.&lt;/p&gt;&lt;p&gt;Eleven planerar&lt;strong&gt; i samråd &lt;/strong&gt;med handledare vanligt förekommande nätunderhållsarbete på luftledningsnät utifrån föreskrifter och standarder inom området. I planeringen läser och tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;elscheman och andra dokument. Dessutom väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämpliga metoder och lämplig utrustning för arbetet. Inför arbetet gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;riskbedömning och anpassar vid behov sin planering utifrån den. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoderna och utrustningen. Under arbetets gång upptäcker eleven &lt;strong&gt;enkla&lt;/strong&gt; problem som uppkommer och löser dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. I arbetet kommunicerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare säkerheten i anläggningar samt söker och reparerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare &lt;strong&gt;enkla&lt;/strong&gt; fel som uppkommer i såväl nya som befintliga anläggningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;hur luftledningsnäts komponenter, utrustningar och stationer fungerar och arbetar.&lt;/p&gt;&lt;p&gt;Eleven planerar&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare vanligt förekommande nätunderhållsarbete på luftledningsnät utifrån föreskrifter och standarder inom området. I planeringen läser och tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;elscheman och andra dokument. Dessutom väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämpliga metoder och lämplig utrustning för arbetet. Inför arbetet gör eleven en riskbedömning och anpassar vid behov sin planering utifrån den. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;metoderna och utrustningen. Under arbetets gång upptäcker eleven problem som uppkommer och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. I arbetet kommunicerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare säkerheten i anläggningar samt söker och reparerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare fel som uppkommer i såväl nya som befintliga anläggningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;hur luftledningsnäts komponenter, utrustningar och stationer fungerar och arbetar.&lt;/p&gt;&lt;p&gt;Eleven planerar&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare vanligt förekommande nätunderhållsarbete på luftledningsnät utifrån föreskrifter och standarder inom området. I planeringen läser och tolkar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;elscheman och andra dokument. Dessutom väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;lämpliga metoder och lämplig utrustning för arbetet &lt;strong&gt;samt motiverar sina val&lt;/strong&gt;. Inför arbetet gör eleven en &lt;strong&gt;välgrundad &lt;/strong&gt;riskbedömning och anpassar vid behov sin planering utifrån den. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;metoderna och utrustningen. Under arbetets gång upptäcker eleven &lt;strong&gt;avancerade &lt;/strong&gt;problem som uppkommer och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. I arbetet kommunicerar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;med andra.&lt;/p&gt;&lt;p&gt;Eleven kontrollerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare säkerheten i anläggningar samt söker och reparerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare &lt;strong&gt;avancerade &lt;/strong&gt;fel som uppkommer i såväl nya som befintliga anläggningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>7</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

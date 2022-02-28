@@ -1,0 +1,107 @@
+{
+  "name": "Webbtjänster",
+  "code": "WESWET3",
+  "focusAreas": {
+    "string": "Kursen webbtjänster omfattar punkterna 1-8 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Applikationsserverns funktionalitet.",
+          "2. Kodning och dokumentation enligt vedertagen praxis för vald teknik.",
+          "3. Utvecklingsprocessen för att skapa webbtjänster med målsättningar, planering, systemering, kodning, optimering, skalbarhet, dokumentation och uppföljning.",
+          "4. Design av API:er enligt vedertagen praxis.",
+          "5. Arkitektur för kommunikation med databashanterare, till exempel RESTful.",
+          "6. Tekniker för att hantera full-duplex kommunikation.",
+          "7. Hämta data från externa webbtjänster.",
+          "8. Datalagring med och utan ORM-lager eller motsvarande teknik.",
+          "9. Protokoll vid överföring av data, till exempel http.",
+          "10. Autentisering och säkerhet vid överföring av data, till exempel asynkron kryptering.",
+          "11. Uppnående av interoperabilitet mellan server och klient genom att följa standarder.",
+          "12. Applikationsarkitektur och separation av olika slags logik, till exempel MVC.",
+          "13. Kvalitetssäkring och testning av webbtjänsters funktionalitet och säkerhet, till exempel med stresstester.",
+          "14. Säkerhet och sätt att identifiera hot och sårbarheter samt hur attacker kan motverkas genom effektiva åtgärder."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **översiktligt** för de tekniker som möjliggör datakommunikation med hjälp av webbtjänster."
+      ],
+      [
+        "Eleven gör en **enkel** projektplan för en tänkt produkt.",
+        null,
+        "I projektplanen beskriver eleven **översiktligt** produktens funktion.",
+        "Utifrån projektplanen utvecklar eleven **i samråd** med handledare produkten där olika sorters logik **huvudsakligen** är skild från varandra.",
+        "I arbetet utvecklar eleven kod som är **läsbar** och **översiktligt** kommenterad.",
+        "Produkten uppvisar **begränsad** funktionalitet med ett språk för webbtjänster och tillhandahåller ett **enkelt** informationshanteringssystem som också hämtar eller lämnar data via någon **enkel** webbtjänst.",
+        "Dessutom tillhandahåller produkten **någon** lösning för en permanent datalagring.",
+        "I arbetet redogör eleven också **översiktligt** för vanliga problem som kan uppstå vid datakommunikation mellan server och klient.",
+        "Produkten är av **tillfredsställande** kvalitet och följer etablerad god praxis.",
+        null
+      ],
+      [
+        "När arbetet är utfört gör eleven en **enkel** dokumentation av de moment som har utförts samt utvärderar med **enkla** omdömen sitt arbete och resultat.",
+        null,
+        "Eleven identifierar **något** hot eller sårbarhet mot produkten och vidtar **någon** åtgärd för att förhindra att den utnyttjas.",
+        "Detta kontrollerar eleven med **någon** test.",
+        "När eleven kommunicerar med andra använder hen **med viss säkerhet enkel** terminologi."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för de tekniker som möjliggör datakommunikation med hjälp av webbtjänster."
+      ],
+      [
+        "Eleven gör en **genomarbetad** projektplan för en tänkt produkt.",
+        null,
+        "I projektplanen beskriver eleven **utförligt** produktens funktion.",
+        "Utifrån projektplanen utvecklar eleven **efter samråd** med handledare produkten där olika sorters logik är skilda från varandra.",
+        "I arbetet utvecklar eleven kod som **följer en given kodkonvention och är utförligt kommenterad**.",
+        "Produkten uppvisar funktionalitet med ett språk för webbtjänster och tillhandahåller ett informationshanteringssystem som också hämtar eller lämnar data via någon webbtjänst.",
+        "Dessutom tillhandahåller produkten **lösning för att läsa, skriva, uppdatera och ta bort data mot** en permanent datalagring.",
+        "I arbetet redogör eleven också **utförligt** för vanliga problem som kan uppstå vid datakommunikation mellan server och klient.",
+        "Produkten är av **tillfredsställande** kvalitet och följer etablerad god praxis.",
+        null
+      ],
+      [
+        "När arbetet är utfört gör eleven en **noggrann** dokumentation av de moment som har utförts samt utvärderar med **nyanserade** omdömen sitt arbete och resultat.",
+        "Detta kontrollerar eleven med **några** tester.",
+        "Eleven identifierar hot och sårbarheter mot produkten och vidtar **några åtgärder** för att förhindra att dessa utnyttjas.",
+        "**I utvärderingen gör eleven välgrundade reflektioner över hur beslut har tagits i arbetet**.",
+        "När eleven kommunicerar med andra använder hen **med viss säkerhet** terminologi."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för de tekniker som möjliggör datakommunikation med hjälp av webbtjänster."
+      ],
+      [
+        "Eleven gör en **genomarbetad** projektplan för en tänkt produkt.",
+        "**Vid behov reviderar eleven planen**.",
+        "I projektplanen beskriver eleven **utförligt och nyanserat** produktens funktion, **arkitektur och mjukvarugränssnitt**.",
+        "Utifrån projektplanen utvecklar eleven **efter samråd** med handledare produkten där olika sorters logik är skilda från varandra.",
+        "I arbetet utvecklar eleven kod som **följer en given kodkonvention** och är **utförligt och nyanserat** kommenterad med **teknisk dokumentation**.",
+        "Produkten uppvisar **omfattande** funktionalitet med ett språk för webbtjänster och tillhandahåller ett informationshanteringssystem som också hämtar eller lämnar data via någon **avancerad** webbtjänst.",
+        "Dessutom tillhandahåller produkten en **avancerad** lösning för **att läsa, skriva, uppdatera och ta bort data mot** en permanent datalagring.",
+        "I arbetet redogör eleven också **utförligt och nyanserat** för vanliga problem som kan uppstå vid datakommunikation mellan server och klient.",
+        "Produkten är av **god** kvalitet och följer etablerad god praxis.",
+        "**Detta kontrollerar eleven med omfattande manuella och automatiserade tester**."
+      ],
+      [
+        "När arbetet är utfört gör eleven en **noggrann och utförlig** dokumentation av de moment som har utförts **med koppling till generella principer och testresultat** samt utvärderar med **nyanserade** omdömen sitt arbete och resultat **samt ger förslag på hur arbetet kan förbättras**.",
+        "**I utvärderingen gör eleven välgrundade och nyanserade reflektioner över hur beslut har tagits i arbetet**.",
+        "Eleven identifierar hot och sårbarheter mot produkten och vidtar **flera åtgärder** för att förhindra att dessa utnyttjas.",
+        "**Dessutom kontrollerar eleven produktens säkerhet med flera tester**.",
+        "När eleven kommunicerar med andra använder hen **med säkerhet** terminologi."
+      ]
+    ]
+  }
+}

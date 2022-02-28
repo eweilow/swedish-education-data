@@ -1,0 +1,64 @@
+{
+  "name": "Anatomi och fysiologi 1",
+  "code": "ANOANA01",
+  "focusAreas": {
+    "string": "Kursen anatomi och fysiologi 1 omfattar punkterna 1 och 3-6 under rubriken Ämnets syfte.",
+    "entries": [
+      "1",
+      "3-6"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Grundläggande om människokroppens uppbyggnad och funktion.",
+          "2. Grundläggande medicinsk terminologi.",
+          "3. Grundläggande om läkemedel och läkemedelshantering, däribland olika administreringssätt, halveringstid, terapeutisk bredd och vanliga biverkningar.",
+          "4. Bestämmelser kring delegering och personligt ansvar för läkemedelshantering.",
+          "5. Vanliga mikroorganismer och hur de sprids.",
+          "6. Åtgärder för att förebygga smitta."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** människokroppens uppbyggnad och funktion.",
+        "I beskrivningarna använder eleven **med viss säkerhet** medicinsk terminologi."
+      ],
+      [
+        "Eleven beskriver **översiktligt** vanliga läkemedel och deras hantering samt redogör för lagar och andra bestämmer som gäller för användning och hantering av läkemedel."
+      ],
+      [
+        "Eleven ger också exempel på vanliga mikroorganismer och beskriver **översiktligt** hur de sprids."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** människokroppens uppbyggnad och funktion.",
+        "I beskrivningarna använder eleven **med viss säkerhet** medicinsk terminologi."
+      ],
+      [
+        "Eleven beskriver **utförligt** vanliga läkemedel och deras hantering samt redogör för lagar och andra bestämmer som gäller för användning och hantering av läkemedel."
+      ],
+      [
+        "Eleven ger också exempel på vanliga mikroorganismer och beskriver **utförligt** hur de sprids."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** människokroppens uppbyggnad och funktion.",
+        "I beskrivningarna använder eleven **med säkerhet** medicinsk terminologi."
+      ],
+      [
+        "Eleven beskriver **utförligt och nyanserat** vanliga läkemedel och deras hantering samt redogör för lagar och andra bestämmer som gäller för användning och hantering av läkemedel."
+      ],
+      [
+        "Eleven ger också exempel på vanliga mikroorganismer och beskriver **utförligt och nyanserat** hur de sprids."
+      ]
+    ]
+  }
+}

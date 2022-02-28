@@ -1,0 +1,96 @@
+{
+  "name": "Processdatorsystem",
+  "code": "PROPRO0",
+  "focusAreas": {
+    "string": "Kursen processdatorsystem omfattar punkterna 1, 4 och 6-9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 6.",
+    "entries": [
+      "1",
+      "4",
+      "6-9"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. HMI, dvs. användning av programvara för visualisering av en process med trender, historik och larmhantering.",
+          "2. Informationstekniska strukturer och nivåer i processindustrin samt hur olika fältbussar används i dessa nivåer med koppling till administrativa kontorsnät.",
+          "3. Distribuerade styrsystem med konfigurering av processkontrollerande enheter och programvaror för insamling av processdata.",
+          "4. Informationsteknik i processdatorsystem med upprättande av kommunikation mot processen med OPC-server (open connectivity), fältbuss eller ethernet.",
+          "5. Metoder för omvandling av analoga signaler till digitala värden och vice versa med upplösning, noggrannhet, ingenjörsstorhet, signalhantering och signalkonditionering.",
+          "6. Systematisk dokumentation i nätverk.",
+          "7. Säkerhet i processdatorsystem med skanntider, behörighetsinloggning, spårbarhet, redundans, realtidsoperativsystem (rtos), reglerfunktioner långt ut i anläggningen samt riskanalyser för informationsbortfall."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **översiktligt** för uppbyggnad, funktion och principer hos olika informationstekniska system och enheter."
+      ],
+      [
+        "Eleven utför **i samråd** med handledare vanligt förekommande inkopplingar och konfigureringar för insamling av data i en automatiserad processanläggning med ett resultat som på ett **tillfredsställande** sätt uppfyller fastställda kvalitets- och miljökrav.",
+        "Dessutom visualiserar eleven med **tillfredsställande** resultat processen i realtid med ett gränssnitt."
+      ],
+      [
+        "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra.",
+        "I arbetet beskriver eleven **översiktligt** informationens väg från process till gränssnitt samt löser **enkla** datortekniska och informationstekniska problem med hjälp av mätningar, manualer och laborativt arbete.",
+        "I arbetet hanterar och vårdar eleven med **visst** handlag material, verktyg och övrig utrustning.",
+        "Eleven beskriver **översiktligt** hur standarder och föreskrifter styr val av utrustning och arbetssätt."
+      ],
+      [
+        "Efter utfört arbete gör eleven en **enkel** dokumentation i nätverk.",
+        "Eleven utvärderar sitt arbete med **enkla** omdömen."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för uppbyggnad, funktion och principer hos olika informationstekniska system och enheter."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledarevanligt förekommande inkopplingar och konfigureringar för insamling av data i en automatiserad processanläggning med ett resultat som på ett **tillfredsställande** sätt uppfyller fastställda kvalitets- och miljökrav.",
+        "Dessutom visualiserar eleven med **tillfredsställande** resultat processen i realtid med ett gränssnitt."
+      ],
+      [
+        "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra.",
+        "I arbetet beskriver eleven **utförligt** informationens väg från process till gränssnitt samt löser datortekniska och informationstekniska problem med hjälp av mätningar, manualer och laborativt arbete.",
+        "I arbetet hanterar och vårdar eleven med **gott** handlag material, verktyg och övrig utrustning.",
+        "Eleven beskriver **utförligt** hur standarder och föreskrifter styr val av utrustning och arbetssätt."
+      ],
+      [
+        "Efter utfört arbete gör eleven en **noggrann** dokumentation i nätverk.",
+        "Eleven utvärderar sitt arbete med **nyanserade** omdömen."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för uppbyggnad, funktion och principer hos olika informationstekniska system och enheter."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare vanligt förekommande inkopplingar och konfigureringar för insamling av data i en automatiserad processanläggning med ett resultat som på ett **gott** sätt uppfyller fastställda kvalitets- och miljökrav.",
+        "Dessutom visualiserar eleven med **gott** resultat processen i realtid med ett gränssnitt."
+      ],
+      [
+        "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra.",
+        "I arbetet beskriver eleven **utförligt och nyanserat** informationens väg från process till gränssnitt samt löser **avancerade** datortekniska och informationstekniska problem med hjälp av mätningar, manualer och laborativt arbete.",
+        "I arbetet hanterar och vårdar eleven med **mycket gott** handlag material, verktyg och övrig utrustning.",
+        "Eleven beskriver **utförligt och nyanserat** hur standarder och föreskrifter styr val av utrustning och arbetssätt."
+      ],
+      [
+        "Efter utfört arbete gör eleven en **noggrann och utförlig** dokumentation i nätverk.",
+        "Eleven utvärderar sitt arbete med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

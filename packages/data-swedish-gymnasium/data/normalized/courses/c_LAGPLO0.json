@@ -1,0 +1,103 @@
+{
+  "name": "Plocklagerhantering",
+  "code": "LAGPLO0",
+  "focusAreas": {
+    "string": "Kursen plocklagerhantering omfattar punkterna 2-3, 5-6 och 8 under rubriken Ämnets syfte.",
+    "entries": [
+      "2-3",
+      "5-6",
+      "8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Olika typer av plocklager, till exempel automatiserade plocklager.",
+          "2. Hantering av de maskiner och den utrustning som krävs för varuhantering i plocklager.",
+          "3. Plocklagers struktur och styrning.",
+          "4. Reservdelslagers betydelse för eftermarknad och kundservice.",
+          "5. Alternativa försörjningsupplägg för reservdelshantering.",
+          "6. Lagerdesign och distributionsupplägg.",
+          "7. Lagrets roll i materialflödet.",
+          "8. Artiklar som styrs via lager.",
+          "9. Lagrets funktion i kedjan från producent till kund.",
+          "10. Materialflödens påverkan av antal lager.",
+          "11. Leverantörsstyrda lager.",
+          "12. Olika lagerstyrningssystem.",
+          "13. Styrning av centrallager och lokala lager.",
+          "14. Prognostisering för lagerstyrning."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** olika lagers struktur och funktion samt ger exempel på materialflöden.",
+        "Eleven beskriver också **översiktligt** plocklagers struktur, styrning och betydelse.",
+        "Dessutom beskriver eleven **översiktligt** lagrets roll i kedjan från producent till kund."
+      ],
+      [
+        "Eleven planerar och genomför **i samråd** med handledare och i bekanta situationer plockning, packning, lastning och lastsäkring av varor i olika typer av plocklager.",
+        "I arbetet använder eleven **med viss säkerhet** rutiner för materialstyrning.",
+        "Eleven emballerar och använder **med viss säkerhet** förpackningar enligt praxis.",
+        "Dessutom utför eleven **i samråd** med handledare **enkla** prognoser och dimensioneringar av olika lagerytor för ett optimalt varuflöde."
+      ],
+      [
+        "Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet.",
+        "Eleven tar ansvar för kundens egendom samt för lokaler och utrustning.",
+        "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "Resultatet av elevens arbete är **tillfredsställande**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** olika lagers struktur och funktion samt ger exempel på materialflöden.",
+        "Eleven beskriver också **utförligt** plocklagers struktur, styrning och betydelse.",
+        "Dessutom beskriver eleven **utförligt** lagrets roll i kedjan från producent till kund."
+      ],
+      [
+        "Eleven planerar och genomför **efter samråd** med handledare och i bekanta **och delvis nya** situationer plockning, packning, lastning och lastsäkring av varor i olika typer av plocklager.",
+        "I arbetet använder eleven **med viss säkerhet** rutiner för materialstyrning.",
+        "Eleven emballerar och använder **med viss säkerhet** förpackningar enligt praxis.",
+        "Dessutom utför eleven **efter samråd** med handledare prognoser och dimensioneringar av olika lagerytor för ett optimalt varuflöde."
+      ],
+      [
+        "Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet.",
+        "Eleven tar ansvar för kundens egendom samt för lokaler och utrustning.",
+        "Dessutom samarbetar eleven **och medverkar till att upprätthålla samarbetet** för att nå planerade resultat.",
+        "Resultatet av elevens arbete är **tillfredsställande**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** olika lagers struktur och funktion samt ger exempel på materialflöden.",
+        "Eleven beskriver också **utförligt och nyanserat** plocklagers struktur, styrning och betydelse.",
+        "Dessutom beskriver eleven **utförligt och nyanserat** lagrets roll i kedjan från producent till kund."
+      ],
+      [
+        "Eleven planerar och genomför **efter samråd** med handledare och i bekanta **och nya** situationer plockning, packning, lastning och lastsäkring av varor i olika typer av plocklager.",
+        "I arbetet använder eleven **med säkerhet** rutiner för materialstyrning.",
+        "Eleven emballerar och använder **med säkerhet** förpackningar enligt praxis.",
+        "Dessutom utför eleven **efter samråd** med handledare **avancerade** prognoser och dimensioneringar av olika lagerytor för ett optimalt varuflöde."
+      ],
+      [
+        "Eleven arbetar ergonomiskt, säkert, miljömässigt och kvalitetsmässigt utifrån lagar och andra bestämmelser som reglerar arbetet.",
+        "Eleven tar ansvar för kundens egendom samt för lokaler och utrustning.",
+        "Dessutom samarbetar eleven **och medverkar till att upprätthålla och utveckla samarbetet** för att nå planerade resultat.",
+        "Resultatet av elevens arbete är **gott**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

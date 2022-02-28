@@ -1,0 +1,71 @@
+{
+  "name": "Röst",
+  "code": "TEARÖS0",
+  "focusAreas": {
+    "string": "Kursen röst omfattar punkterna 1 och 6-9 under rubriken Ämnets syfte, med särskild betoning på punkt 1.",
+    "entries": [
+      "1",
+      "6-9"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Röstorganens anatomi och fysiologi.",
+          "2. Avspänningsteknik och röstövningar för att utveckla ett naturligt användande av rösten.",
+          "3. Effekter av regelbunden röstträning.",
+          "4. Röst och text i samspel.",
+          "5. Rösten som en del i skapandet av en scenisk karaktär.",
+          "6. Röstträning för att göra sig hörd på och utanför scenen samt för att med rösten förmedla en avsikt till en publik.",
+          "7. Samarbete i röstövningsgrupper och gestaltningsgrupper.",
+          "8. Reflektion över det egna skapandet och den egna röstträningen.",
+          "9. Analys och tolkning av sceniska gestaltningar med fokus på rösten.",
+          "10. Begrepp för röstträning och analys av rösten som sceniskt uttrycksmedel, till exempel magstöd, artikulation, ton och volym."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** röstorganens anatomi och redogör **översiktligt** för olika metoder för röstträning.",
+        "Dessutom gestaltar eleven **enkla** uttryck med rösten med tillfredsställande resultat."
+      ],
+      [
+        "Eleven kommunicerar **med viss säkerhet** med publik genom att använda rösten som uttrycksmedel.",
+        "Eleven samarbetar även **med viss säkerhet** i röstövningar och gestaltningar.",
+        "Dessutom diskuterar eleven **översiktligt** det egna skapandet och den egna träningen samt värderar dessa med **enkla** omdömen.",
+        "Eleven gör **enkla** analyser av sceniska gestaltningar samt tolkar dessa.",
+        "I sina analyser använder eleven **med viss säkerhet** relevanta begrepp."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** röstorganens anatomi och redogör **utförligt** för olika metoder för röstträning.",
+        "Dessutom gestaltar eleven uttryck med rösten med tillfredsställande resultat."
+      ],
+      [
+        "Eleven kommunicerar **med viss säkerhet** med publik genom att använda rösten som uttrycksmedel.",
+        "Eleven samarbetar även **med viss säkerhet** i röstövningar och gestaltningar.",
+        "Dessutom diskuterar eleven **utförligt** det egna skapandet och den egna träningen samt värderar dessa med **nyanserade** omdömen.",
+        "Eleven gör analyser av sceniska gestaltningar samt tolkar dessa.",
+        "I sina analyser använder eleven **med viss säkerhet** relevanta begrepp."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** röstorganens anatomi och redogör **utförligt och nyanserat** för olika metoder för röstträning.",
+        "Dessutom gestaltar eleven **komplexa** uttryck med rösten med tillfredsställande resultat."
+      ],
+      [
+        "Eleven kommunicerar **med säkerhet** med publik genom att använda rösten som uttrycksmedel.",
+        "Eleven samarbetar även **med säkerhet** i röstövningar och gestaltningar.",
+        "Dessutom diskuterar eleven **utförligt och nyanserat** det egna skapandet och den egna träningen samt värderar dessa med **nyanserade** omdömen **och formulerar vägar för hur skapandet och träningen kan utvecklas**.",
+        "Eleven gör analyser av sceniska gestaltningar samt tolkar dessa.",
+        "I sina analyser använder eleven **med säkerhet** relevanta begrepp."
+      ]
+    ]
+  }
+}

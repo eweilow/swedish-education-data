@@ -1,0 +1,96 @@
+{
+  "name": "Nätverksteknologier",
+  "code": "NAINAK0",
+  "focusAreas": {
+    "string": "Kursen nätverksteknologier omfattar punkterna 1-9 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-9"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Uppbyggnad av nätverks olika delar samt funktion av bandbredd, till exempel mätning av kapacitet och kapacitetsbehov för olika bredbandslösningar.",
+          "2. Referensmodellerna OSI och TCP/IP (Open Systems Interconnection och Transmission Control Protocol/Internet Protocol) och de olika skiktens specifika tjänst som är oberoende av de tekniker som används i lagret ovanför eller nedanför. Hur information hanteras och hur utrustning och tjänster fungerar i samverkan i olika kommunikationslösningar.",
+          "3. Nätverksprotokoll, dvs. hur digital kommunikation mellan olika datorenheter fungerar. Administration och konfiguration av nätverksprotokoll.",
+          "4. Adressering i nätverk, kommunikation av data mellan olika enheter samt hur kommunikationen fungerar utifrån tekniska regler för de olika protokollen. Hur utdelning av adresser fungerar med DHCP (Dynamic Host Configuration Protocol).",
+          "5. Subnätning, dvs. hur man delar upp ett datornätverk i mindre delar.",
+          "6. Routningsprotokoll, hantering av kommunikation mellan olika adressområden samt olika vägar på vilka data sänds mellan sändare och mottagare i olika nätverk.",
+          "7. Virtuella nät, dvs. VLAN (Virtual Local Area Network). Skydd mot avlyssning mellan olika nätverk.",
+          "8. Tunnling och WLAN (Wireless Local Area Network).",
+          "9. Nätverkstopologier, dvs. på vilket sätt olika noder i nätverk är kopplade till varandra.",
+          "10. Packet switching network, dvs. paketförmedling där data paketeras och adresseras mellan olika fysiska och logiska nivåer och komponenter i en datorbaserad kommunikationssituation.",
+          "11. Accessmetoder för att upprätta kommunikation mellan olika enheter i ett datornätverk.",
+          "12. Överföringsmedier, dvs. olika sätt att skicka digital information i form av data. Begränsningar samt säkerhet och prestanda vid val av olika överföringsmedier, till exempel kabelbaserad eller luftbaserad kommunikation."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** hur nätverks olika delar och komponenter är uppbyggda och fungerar."
+      ],
+      [
+        "Eleven planerar **i samråd** med handledare sitt arbete.",
+        "I planeringen läser och tolkar eleven **med viss säkerhet** instruktioner, manualer och andra dokument.",
+        "Eleven utför **i samråd** med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+        "Eleven bygger också **i samråd** med handledare upp nätverk och anläggningar samt skapar **med viss säkerhet** systemlösningar.",
+        "Dessutom utför eleven **i samråd** med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar **i samråd** med handledare fel i utrustning i nätverksmiljöer.",
+        "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+        "Resultatet av arbetet är **tillfredsställande** med avseende på funktion, säkerhet och kvalitet.",
+        "När arbetet är utfört gör eleven en **enkel** dokumentation av sitt arbete."
+      ],
+      [
+        "Eleven ger **i samråd** med handledare **enkla** råd till användare vid val av nätverkssystem och datorteknisk utrustning."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** hur nätverks olika delar och komponenter är uppbyggda och fungerar."
+      ],
+      [
+        "Eleven planerar **efter samråd** med handledare sitt arbete.",
+        "I planeringen läser och tolkar eleven **med viss säkerhet** instruktioner, manualer och andra dokument.",
+        "Eleven utför **efter samråd** med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+        "Eleven bygger också **efter samråd** med handledare upp nätverk och anläggningar samt skapar **med viss säkerhet** systemlösningar.",
+        "Dessutom utför eleven **efter samråd** med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar **efter samråd** med handledare fel i utrustning i nätverksmiljöer.",
+        "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+        "Resultatet av arbetet är **tillfredsställande** med avseende på funktion, säkerhet och kvalitet.",
+        "När arbetet är utfört gör eleven en **noggrann** dokumentation av sitt arbete."
+      ],
+      [
+        "Eleven ger **efter samråd** med handledare råd till användare vid val av nätverkssystem och datorteknisk utrustning."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** hur nätverks olika delar och komponenter är uppbyggda och fungerar."
+      ],
+      [
+        "Eleven planerar **efter samråd** med handledare sitt arbete.",
+        "I planeringen läser och tolkar eleven **med säkerhet** instruktioner, manualer och andra dokument.",
+        "Eleven utför **efter samråd** med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+        "Eleven bygger också **efter samråd** med handledare upp nätverk och anläggningar samt skapar **med säkerhet** systemlösningar.",
+        "Dessutom utför eleven **efter samråd** med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar **efter samråd** med handledare fel i utrustning i nätverksmiljöer.",
+        "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+        "Resultatet av arbetet är **gott** med avseende på funktion, säkerhet och kvalitet.",
+        "När arbetet är utfört gör eleven en **noggrann och utförlig** dokumentation av sitt arbete."
+      ],
+      [
+        "Eleven ger **efter samråd** med handledare **avancerade** råd till användare vid val av nätverkssystem och datorteknisk utrustning."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

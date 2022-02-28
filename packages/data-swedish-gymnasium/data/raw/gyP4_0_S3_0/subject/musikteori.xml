@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Musikteori</name>
+  <englishName>Music theory</englishName>
+  <description
+  >&lt;p&gt;Ämnet musikteori behandlar gehör, musikaliska former och musikens begrepp. Kunskaper i musikteori bidrar till en musikalisk helhetssyn samt förstärker och utvecklar musikutövandet, musikskapandet och kommunikationen med andra musiker. I ämnet behandlas också notation av musik.&lt;/p&gt;</description>
+  <code>MUI</code>
+  <status>PUBLISHED</status>
+  <version>2</version>
+  <createdDate>2012-01-02T13:34:33+01:00</createdDate>
+  <modifiedDate>2020-02-19T15:58:52+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Musikteori&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet musikteori ska syfta till att eleverna utvecklar kunskaper i allmän musiklära och om musikteoretiska begrepp. Undervisningen ska också leda till att eleverna utvecklar förmåga att hantera notskrift samt kunskaper om notationssystemet och om olika musikaliska former. Genom undervisningen ska eleverna ges verktyg och metoder som de får möjlighet att omsätta praktiskt i musicerande och musikskapande.&lt;/p&gt;&lt;p&gt;Undervisningen ska bidra till att eleverna utvecklar kunskaper om metoder för att notera klingande musik samt metoder för egen gehörsträning. Eleverna ska ges möjlighet att analysera musik både teoretiskt och gehörsmässigt för att de ska kunna förstå olika musikaliska skeenden och strukturer. Vidare ska undervisningen ge eleverna möjlighet att utveckla kunskaper i harmonisering, arrangering och komposition.&lt;/p&gt;&lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om datorutrustning, programvara och musikteknisk utrustning som kan användas såväl vid gehörsträning som vid arrangering eller komposition av musik. Undervisningen ska innefatta konstnärliga aspekter och inspirera till eget skapande.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet musikteori ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om musikaliska former, strukturer, musikens språk och musikteoretiska begrepp.&lt;/li&gt; &lt;li&gt;Förmåga att självständigt öva gehöret och att använda sig av det inre hörandet.&lt;/li&gt; &lt;li&gt;Färdigheter i att använda gehöret och förståelse av gehörets betydelse för utövande av musik.&lt;/li&gt; &lt;li&gt;Kunskaper om melodik, harmonik, periodicitet och rytm.&lt;/li&gt; &lt;li&gt;Kunskaper om noter, ackordbeteckningar och andra musikaliska symboler.&lt;/li&gt; &lt;li&gt;Färdigheter i att arrangera och komponera musik.&lt;/li&gt; &lt;li&gt;Kunskaper om musikinstrument och röster, deras klang, funktion och användning.&lt;/li&gt; &lt;li&gt;Förmåga att använda datorn som hjälpmedel vid musikskapande och arrangering.&lt;/li&gt; &lt;li&gt;Förmåga att omsätta kunskaperna i musikteori till skapande och musicerande.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Gehörs- och musiklära 1, 100 poäng.&lt;/li&gt; &lt;li&gt;Gehörs- och musiklära 2, 100 poäng, som bygger på kursen gehörs- och musiklära 1.&lt;/li&gt; &lt;li&gt;Arrangering och komposition 1, 100 poäng, som bygger på kursen gehörs- och musiklära 1.&lt;/li&gt; &lt;li&gt;Arrangering och komposition 2, 100 poäng, som bygger på kursen arrangering och komposition 1.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2010:181</skolfsId>
+  <applianceDate>2011-12-06T00:00:00+01:00</applianceDate>
+  <courses>
+    <name>Gehörs- och musiklära 1</name>
+    <englishName>Pitch and music theory 1</englishName>
+    <description
+    >&lt;p&gt;Kursen gehörs- och musiklära 1 omfattar punkterna 1–5 och 9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1–3. I kursen behandlas grundläggande färdigheter i ämnet.&lt;/p&gt;</description>
+    <code>MUIGEH01</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Gehörs- och musiklära 1, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MUIGEH01&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Musiklära med föredragsbeteckningar, skalor, intervall, notation, notationspraxis, ackord och harmonisering.&lt;/li&gt; &lt;li&gt;Grundläggande musikteoretiska begrepp i en eller flera genrer samt jämförelse av de olika genrernas musikteoretiska begrepp.&lt;/li&gt; &lt;li&gt;Gehörsträning av puls, rytm, melodi, harmoni och form.&lt;/li&gt; &lt;li&gt;Grundläggande satslära och harmonisk analys.&lt;/li&gt; &lt;li&gt;Notering av klingande musik.&lt;/li&gt; &lt;li&gt;A prima vista-träning.&lt;/li&gt; &lt;li&gt;Aktivt lyssnande och diskussion om musikframförande.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för musiklära. Dessutom identifierar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;och redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för några enkla musikaliska former. I redogörelserna använder eleven &lt;strong&gt;med viss säkerhet vanliga &lt;/strong&gt;musikteoretiska begrepp. Eleven utför &lt;strong&gt;med viss säkerhet enkla&lt;/strong&gt; gehörsövningar, noterar &lt;strong&gt;enkla&lt;/strong&gt; klingande musikexempel och gör &lt;strong&gt;enkla&lt;/strong&gt; musikaliska analysuppgifter i olika genrer.&lt;/p&gt;&lt;p&gt;Eleven skriver och läser &lt;strong&gt;med viss säkerhet &lt;/strong&gt;noter i två klaver. Eleven sjunger &lt;strong&gt;med stöd&lt;/strong&gt; efter &lt;strong&gt;enkla&lt;/strong&gt; notbilder och på gehör. Eleven värderar med &lt;strong&gt;enkla&lt;/strong&gt; omdömen sitt musicerande med hjälp av musikteoretiska begrepp.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för musiklära. Dessutom identifierar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;och redogör &lt;strong&gt;utförligt &lt;/strong&gt;för några enkla musikaliska former. I redogörelsen använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;musikteoretiska begrepp. Eleven utför &lt;strong&gt;med viss säkerhet &lt;/strong&gt;gehörsövningar, noterar klingande musikexempel och gör musikaliska analysuppgifter i olika genrer.&lt;/p&gt;&lt;p&gt;Eleven skriver och läser &lt;strong&gt;med viss säkerhet &lt;/strong&gt;noter i två klaver &lt;strong&gt;samt musicerar efter noter i en klav&lt;/strong&gt;. Eleven sjunger efter &lt;strong&gt;enkla&lt;/strong&gt; notbilder och på gehör &lt;strong&gt;med tillfredsställande kvalitet när det gäller rytm, melodi, harmonik och form&lt;/strong&gt;. &lt;strong&gt;I sitt musicerande kopplar eleven ihop gehör och musikteori&lt;/strong&gt;. Eleven värderar med &lt;strong&gt;nyanserade&lt;/strong&gt; omdömen sitt musicerande med hjälp av musikteoretiska begrepp.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för musiklära. Dessutom identifierar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;och redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för några enkla musikaliska former. I redogörelsen &lt;strong&gt;gör eleven en välgrundad och nyanserad jämförelse av de musikaliska formerna samt &lt;/strong&gt;använder &lt;strong&gt;med säkerhet &lt;/strong&gt;musikteoretiska begrepp. Eleven utför &lt;strong&gt;med säkerhet &lt;/strong&gt;gehörsövningar, noterar klingande musikexempel &lt;strong&gt;med vedertagen notationspraxis &lt;/strong&gt;och gör &lt;strong&gt;komplexa &lt;/strong&gt;musikaliska analysuppgifter i olika genrer &lt;strong&gt;och med lämplig analysmodell&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven skriver och läser &lt;strong&gt;med säkerhet &lt;/strong&gt;noter i två klaver &lt;strong&gt;samt musicerar efter noter i minst två klaver&lt;/strong&gt;. Eleven sjunger efter notbilder och på gehör &lt;strong&gt;med god kvalitet när det gäller rytm, melodi, harmonik och form&lt;/strong&gt;. &lt;strong&gt;I sitt musicerande kopplar eleven ihop gehör och musikteori&lt;/strong&gt;. Eleven värderar med &lt;strong&gt;nyanserade&lt;/strong&gt; omdömen sitt musicerande med hjälp av musikteoretiska begrepp &lt;strong&gt;samt ger förslag på hur musicerandet kan förbättras&lt;/strong&gt;.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Gehörs- och musiklära 2</name>
+    <englishName>Pitch and music theory 2</englishName>
+    <description
+    >&lt;p&gt;Kursen gehörs- och musiklära 2 omfattar punkterna 1–5 och 9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1–3. I kursen behandlas fördjupade färdigheter i ämnet.&lt;/p&gt;</description>
+    <code>MUIGEH02</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Gehörs- och musiklära 2, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MUIGEH02&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Musiklära med föredragsbeteckningar, skalor, intervall, notation, notationspraxis och notationssystem samt ackordbeteckningssystem.&lt;/li&gt; &lt;li&gt;Fördjupade musikteoretiska begrepp och teoribildningar i en eller flera genrer.&lt;/li&gt; &lt;li&gt;Gehörsträning av puls, rytm, melodi, harmoni och form.&lt;/li&gt; &lt;li&gt;Harmonisering och stämföring i flerstämmig sats. &lt;/li&gt; &lt;li&gt;Melodibildning.&lt;/li&gt; &lt;li&gt;Formlära.&lt;/li&gt; &lt;li&gt;Fördjupad satslära och harmonisk analys.&lt;/li&gt; &lt;li&gt;Notering av klingande musik.&lt;/li&gt; &lt;li&gt;A prima vista-träning.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för musiklära. Dessutom identifierar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;och redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för några olika musikaliska former. I redogörelserna använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;musikteoretiska begrepp. Eleven utför &lt;strong&gt;med viss säkerhet &lt;/strong&gt;komplexa gehörsövningar, noterar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;klingande musikexempel och gör &lt;strong&gt;enkla&lt;/strong&gt; musikaliska analysuppgifter i olika genrer.&lt;/p&gt;&lt;p&gt;Eleven skriver och läser &lt;strong&gt;med viss säkerhet &lt;/strong&gt;noter i minst två klaver, harmoniserar melodier och &lt;strong&gt;kompletterar &lt;/strong&gt;flerstämmig sats. Eleven beskriver också &lt;strong&gt;översiktligt &lt;/strong&gt;minst två notationssystem och ger &lt;strong&gt;något &lt;/strong&gt;exempel på deras användningsområde. Dessutom använder eleven minst&lt;strong&gt; ett &lt;/strong&gt;vedertaget system för ackordbeteckningar. Eleven sjunger och spelar efter notbilder och på gehör. Eleven värderar med &lt;strong&gt;enkla&lt;/strong&gt; omdömen sitt musicerande med hjälp av musikteoretiska begrepp.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för musiklära. Dessutom identifierar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;och redogör &lt;strong&gt;utförligt &lt;/strong&gt;för några olika musikaliska former. I redogörelserna använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;musikteoretiska begrepp. Eleven utför &lt;strong&gt;med viss säkerhet &lt;/strong&gt;komplexa gehörsövningar, noterar &lt;strong&gt;med säkerhet &lt;/strong&gt;klingande musikexempel och gör musikaliska analysuppgifter i olika genrer &lt;strong&gt;utifrån olika analysmodeller&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven skriver och läser &lt;strong&gt;med viss säkerhet &lt;/strong&gt;noter i minst två klaver, harmoniserar melodier och &lt;strong&gt;skriver &lt;/strong&gt;flerstämmig sats. Eleven beskriver också &lt;strong&gt;utförligt &lt;/strong&gt;minst två notationssystem och ger &lt;strong&gt;några &lt;/strong&gt;exempel på deras användningsområde. Dessutom använder eleven minst &lt;strong&gt;två &lt;/strong&gt;vedertagna system för ackordbeteckningar &lt;strong&gt;och harmoniska analyser&lt;/strong&gt;. Eleven sjunger och spelar efter notbilder och på gehör &lt;strong&gt;med tillfredsställande kvalitet när det gäller rytm, melodi, harmonik och form&lt;/strong&gt;. &lt;strong&gt;I sitt musicerande använder eleven gehöret i improviserad och noterad musik&lt;/strong&gt;. Eleven värderar med &lt;strong&gt;nyanserade&lt;/strong&gt; omdömen sitt musicerande med hjälp av musikteoretiska begrepp.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för musiklära. Dessutom identifierar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;och redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för några olika musikaliska former. I redogörelserna använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;musikteoretiska begrepp samt &lt;strong&gt;gör en välgrundad och nyanserad jämförelse av de musikaliska formerna&lt;/strong&gt;. Eleven utför &lt;strong&gt;med säkerhet &lt;/strong&gt;komplexa gehörsövningar, noterar &lt;strong&gt;med säkerhet &lt;/strong&gt;klingande musikexempel &lt;strong&gt;med vedertagen notationspraxis &lt;/strong&gt;samt gör &lt;strong&gt;komplexa &lt;/strong&gt;musikaliska analysuppgifter i olika genrer &lt;strong&gt;utifrån olika analysmodeller och motiverar utförligt och nyanserat sina val av analysmodeller&lt;/strong&gt;. &lt;strong&gt;Dessutom tar eleven initiativ till att öva upp sitt gehör&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven skriver och läser &lt;strong&gt;med säkerhet &lt;/strong&gt;noter i minst två klaver, harmoniserar melodier och &lt;strong&gt;skriver &lt;/strong&gt;flerstämmig sats. Eleven beskriver också &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;minst två notationssystem och ger &lt;strong&gt;flera &lt;/strong&gt;exempel på deras användningsområde. Dessutom använder eleven minst &lt;strong&gt;två &lt;/strong&gt;vedertagna system för ackordbeteckningar &lt;strong&gt;och harmoniska analyser samt redogör översiktligt för ytterligare system&lt;/strong&gt;. Eleven sjunger och spelar efter notbilder och på gehör &lt;strong&gt;med god kvalitet när det gäller rytm, melodi, harmonik och form&lt;/strong&gt;. &lt;strong&gt;I sitt musicerande använder eleven gehöret i improviserad och noterad musik samt skriver enkla arrangemang för olika röst- eller instrumentkombinationer&lt;/strong&gt;. Eleven värderar med &lt;strong&gt;nyanserade&lt;/strong&gt; omdömen sitt musicerande med hjälp av musikteoretiska begrepp &lt;strong&gt;samt ger förslag på hur musicerandet kan förbättras&lt;/strong&gt;.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Arrangering och komposition 1</name>
+    <englishName>Arrangement and composition 1</englishName>
+    <description
+    >&lt;p&gt;Kursen arrangering och komposition 1 omfattar punkterna 1 och 4–9 under rubriken Ämnets syfte, med särskild betoning på musikaliska former och punkterna 6–8. I kursen behandlas grundläggande kunskaper.&lt;/p&gt;</description>
+    <code>MUIARA01</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Arrangering och komposition 1, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MUIARA01&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Ensembleformer och musikformer samt stildrag från olika tidsperioder och kulturer.&lt;/li&gt; &lt;li&gt;Melodisk, harmonisk, periodisk och rytmisk uppbyggnad av musik.&lt;/li&gt; &lt;li&gt;Notation och läsning av olika musikgenrer.&lt;/li&gt; &lt;li&gt;Arrangering av vokal och instrumental musik i olika genrer.&lt;/li&gt; &lt;li&gt;Kompositionsprinciper och musikaliska strukturer.&lt;/li&gt; &lt;li&gt;Konstnärlig kreativitet i experiment med och bearbetning av musikaliskt material.&lt;/li&gt; &lt;li&gt;Musikinstruments och rösters klang, funktion och användning.&lt;/li&gt; &lt;li&gt;Användning av digitala medier och musikteknisk utrustning vid arrangering, komposition och produktion av musik.&lt;/li&gt; &lt;li&gt;Analys och tolkning av konstnärliga kvaliteter i form av musikaliskt resultat, form och struktur samt användning av musikteoretiska begrepp som är relevanta i sammanhanget. &lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för &lt;strong&gt;någon&lt;/strong&gt; typisk ensemble och musikformer från &lt;strong&gt;några&lt;/strong&gt; olika musikaliska epoker och stilar. Eleven ger enkla exempel på melodik, harmonik, periodicitet och rytm i &lt;strong&gt;någon&lt;/strong&gt; vald musikform. Eleven noterar och läser &lt;strong&gt;med viss säkerhet &lt;/strong&gt;musik.&lt;/p&gt;&lt;p&gt;Eleven skapar musik i några olika traditionella instrumentala eller vokala former, med &lt;strong&gt;viss&lt;/strong&gt; &lt;strong&gt;konstnärlig kvalitet&lt;/strong&gt;. Eleven gör egna arrangemang och kompositioner för &lt;strong&gt;några olika vanliga&lt;/strong&gt; ensembler. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;digitala hjälpmedel och annan musikteknisk utrustning som redskap för musikskapande.&lt;/p&gt;&lt;p&gt;Eleven diskuterar &lt;strong&gt;översiktligt &lt;/strong&gt;konstnärliga kvaliteter i olika arrangemang och kompositioner samt värderar med &lt;strong&gt;enkla&lt;/strong&gt; omdömen sitt eget arbete. I diskussionen och värderingen använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;musikteoretiska begrepp.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för &lt;strong&gt;några&lt;/strong&gt; typiska ensembler och musikformer från &lt;strong&gt;några&lt;/strong&gt; olika musikaliska epoker och stilar. Eleven ger enkla exempel på melodik, harmonik, periodicitet och rytm i &lt;strong&gt;några&lt;/strong&gt; valda musikformer. Eleven noterar &lt;strong&gt;enligt praxis &lt;/strong&gt;och läser &lt;strong&gt;med viss säkerhet &lt;/strong&gt;musik &lt;strong&gt;samt diskuterar utförligt olika notationssätt och ger exempel på deras användningsområden&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven skapar musik i några olika traditionella instrumentala eller vokala former, med &lt;strong&gt;ett personligt uttryck, viss kreativitet och viss&lt;/strong&gt; &lt;strong&gt;konstnärlig kvalitet&lt;/strong&gt;. Eleven gör egna arrangemang och kompositioner för &lt;strong&gt;flera olika vanliga&lt;/strong&gt; ensembler. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;digitala hjälpmedel och annan musikteknisk utrustning som redskap för musikskapande.&lt;/p&gt;&lt;p&gt;Eleven diskuterar &lt;strong&gt;utförligt &lt;/strong&gt;konstnärliga kvaliteter i olika arrangemang och kompositioner samt värderar med &lt;strong&gt;nyanserade&lt;/strong&gt; omdömen sitt eget arbete. &lt;strong&gt;Dessutom värderar eleven med nyanserade omdömen hur det inre hörandet har omsatts till klingande musikaliskt material i det egna arbetet&lt;/strong&gt;. I diskussionen och värderingen använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;musikteoretiska begrepp.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för &lt;strong&gt;flera&lt;/strong&gt; typiska ensembler och musikformer från &lt;strong&gt;flera&lt;/strong&gt; olika musikaliska epoker och stilar. Eleven ger enkla exempel på melodik, harmonik, periodicitet och rytm i &lt;strong&gt;flera&lt;/strong&gt; valda musikformer. Eleven noterar &lt;strong&gt;enligt praxis med god läsbarhet &lt;/strong&gt;och läser &lt;strong&gt;med säkerhet &lt;/strong&gt;musik &lt;strong&gt;samt diskuterar utförligt och nyanserat olika notationssätt och ger exempel på deras användningsområden&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven skapar musik i några olika, &lt;strong&gt;både&lt;/strong&gt; traditionella &lt;strong&gt;och ovanliga&lt;/strong&gt;, instrumentala eller vokala former, med &lt;strong&gt;ett personligt uttryck, kreativitet och god konstnärlig kvalitet&lt;/strong&gt;. Eleven gör egna arrangemang och kompositioner för &lt;strong&gt;flera olika vanliga&lt;/strong&gt; ensembler &lt;strong&gt;och instrumentkombinationer med ett musikaliskt uttryck som är anpassat till instrumentens eller rösternas karaktär&lt;/strong&gt;. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;digitala hjälpmedel och annan musikteknisk utrustning som redskap för musikskapande.&lt;/p&gt;&lt;p&gt;Eleven diskuterar &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;konstnärliga kvaliteter i olika arrangemang och kompositioner samt värderar med &lt;strong&gt;nyanserade&lt;/strong&gt; omdömen sitt eget arbete &lt;strong&gt;och ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. &lt;strong&gt;Dessutom värderar eleven med nyanserade omdömen hur det inre hörandet har omsatts till klingande musikaliskt material i det egna arbetet samt ger förslag på hur detta kan förbättras&lt;/strong&gt;. I diskussionen och värderingen använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;musikteoretiska begrepp.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <courses>
+    <name>Arrangering och komposition 2</name>
+    <englishName>Arrangement and composition 2</englishName>
+    <description
+    >&lt;p&gt;Kursen arrangering och komposition 2 omfattar punkterna 1 och 4–9 under rubriken Ämnets syfte, med särskild betoning på musikaliska former och punkterna 6–8. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>MUIARA02</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Arrangering och komposition 2, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MUIARA02&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Ensembleformer och musikformer samt stildrag från valda tidsperioder, genrer eller kulturer.&lt;/li&gt; &lt;li&gt;Flerdelade symmetriska och asymmetriska formtyper, till exempel sonat, rondo, fuga, medley och visa.&lt;/li&gt; &lt;li&gt;Fördjupning av någon kompositionsprincip för en musikalisk sats, till exempel kontrapunkt, mediantik, aleatorik, serialism och minimalism.&lt;/li&gt; &lt;li&gt;Arrangering och komposition av flerstämmig vokal musik i vald genre. Textbehandling i vokalmusik.&lt;/li&gt; &lt;li&gt;Arrangering och komposition av flerstämmig instrumental musik i vald genre.&lt;/li&gt; &lt;li&gt;Instrumentering för valda ensembletyper.&lt;/li&gt; &lt;li&gt;Konstnärlig kreativitet i experiment med och bearbetning av musikaliskt material.&lt;/li&gt; &lt;li&gt;Användning av digitala medier och musikteknisk utrustning vid arrangering, komposition och produktion av musik.&lt;/li&gt; &lt;li&gt;Analys och tolkning av konstnärliga kvaliteter i form av musikaliskt resultat, form och struktur samt användning av musikteoretiska begrepp som är relevanta i sammanhanget, till exempel med avseende på tonalitet och modalitet.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för typiska ensembler och musikformer från &lt;strong&gt;någon&lt;/strong&gt; tidsperiod, genre eller kultur. Dessutom beskriver eleven &lt;strong&gt;översiktligt&lt;/strong&gt; olika formtyper. Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för kompositionsprincipen för vald typ av musikalisk sats.&lt;/p&gt;&lt;p&gt;Eleven arrangerar och komponerar med &lt;strong&gt;viss &lt;/strong&gt;konstnärlig kvalitet &lt;strong&gt;någon&lt;/strong&gt; &lt;strong&gt;enkel&lt;/strong&gt; vokalmusik med &lt;strong&gt;viss &lt;/strong&gt;anpassning till den valda genrens konventioner och &lt;strong&gt;med&lt;/strong&gt; &lt;strong&gt;viss säkerhet&lt;/strong&gt; i textbehandlingen. Eleven arrangerar och komponerar med &lt;strong&gt;viss &lt;/strong&gt;konstnärlig kvalitet&lt;strong&gt; enkel&lt;/strong&gt; instrumentalmusik med &lt;strong&gt;viss &lt;/strong&gt;anpassning till den valda genrens konventioner. Dessutom &lt;strong&gt;gör &lt;/strong&gt;eleven &lt;strong&gt;enkel instrumentering&lt;/strong&gt; för &lt;strong&gt;någon&lt;/strong&gt; &lt;strong&gt;mindre&lt;/strong&gt; ensembleform och visar &lt;strong&gt;viss&lt;/strong&gt; konstnärlig kreativitet i bearbetningen av musikaliskt material.&lt;/p&gt;&lt;p&gt;I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;digitala hjälpmedel och annan musikteknisk utrustning som redskap för musikskapande.&lt;/p&gt;&lt;p&gt;Eleven diskuterar &lt;strong&gt;översiktligt &lt;/strong&gt;konstnärliga kvaliteter i olika arrangemang och kompositioner samt värderar med &lt;strong&gt;enkla &lt;/strong&gt;omdömen sitt eget arbete. I diskussionen och värderingen använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; musikteoretiska begrepp.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för typiska ensembler och musikformer från &lt;strong&gt;några &lt;/strong&gt;&lt;strong&gt;valda&lt;/strong&gt; tidsperioder, genrer eller kulturer. Dessutom beskriver eleven &lt;strong&gt;utförligt&lt;/strong&gt; olika formtyper. Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för kompositionsprincipen för vald typ av musikalisk sats.&lt;/p&gt;&lt;p&gt;Eleven arrangerar och komponerar med &lt;strong&gt;viss &lt;/strong&gt;konstnärlig kvalitet&lt;strong&gt; och ett personligt uttryck,&lt;/strong&gt; &lt;strong&gt;flerstämmig&lt;/strong&gt; vokalmusik med &lt;strong&gt;god &lt;/strong&gt;anpassning till den valda genrens konventioner och &lt;strong&gt;med&lt;/strong&gt; &lt;strong&gt;viss säkerhet&lt;/strong&gt; i textbehandlingen. Eleven arrangerar och komponerar med &lt;strong&gt;viss &lt;/strong&gt;konstnärlig kvalitet&lt;strong&gt; flerstämmig &lt;/strong&gt;instrumentalmusik med &lt;strong&gt;god &lt;/strong&gt;anpassning till den valda genrens konventioner. Dessutom &lt;strong&gt;instrumenterar&lt;/strong&gt; eleven för &lt;strong&gt;några&lt;/strong&gt; &lt;strong&gt;större&lt;/strong&gt; ensembleformer och visar konstnärlig kreativitet i &lt;strong&gt;experimenterandet med och&lt;/strong&gt; bearbetningen av musikaliskt material.&lt;/p&gt;&lt;p&gt;I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;digitala hjälpmedel och annan musikteknisk utrustning som redskap för musikskapande.&lt;/p&gt;&lt;p&gt;Eleven diskuterar &lt;strong&gt;utförligt &lt;/strong&gt;konstnärliga kvaliteter i olika arrangemang och kompositioner samt värderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sitt eget arbete. &lt;strong&gt;Dessutom värderar eleven med nyanserade omdömen hur det inre hörandet har omsatts till klingande musikaliskt material i det egna arbetet.&lt;/strong&gt; I diskussionen och värderingen använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; musikteoretiska begrepp.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för typiska ensembler och musikformer från &lt;strong&gt;flera &lt;/strong&gt;&lt;strong&gt;valda &lt;/strong&gt;tidsperioder, genrer eller kulturer. Dessutom beskriver eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; olika formtyper. Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för kompositionsprincipen för vald typ av musikalisk sats.&lt;/p&gt;&lt;p&gt;Eleven arrangerar och komponerar med &lt;strong&gt;kreativitet&lt;/strong&gt;, konstnärlig kvalitet&lt;strong&gt; och ett personligt, musikaliskt uttryck,&lt;/strong&gt; &lt;strong&gt;flerstämmig&lt;/strong&gt; vokalmusik med &lt;strong&gt;god &lt;/strong&gt;anpassning till den valda genrens konventioner och &lt;strong&gt;med&lt;/strong&gt; &lt;strong&gt;säkerhet&lt;/strong&gt; i texthandlingen. Eleven arrangerar och komponerar med &lt;strong&gt;kreativitet&lt;/strong&gt;, konstnärlig kvalitet&lt;strong&gt; och ett personligt uttryck,&lt;/strong&gt; &lt;strong&gt;flerstämmig&lt;/strong&gt; instrumentalmusik med &lt;strong&gt;god &lt;/strong&gt;anpassning till den valda genrens konventioner &lt;strong&gt;och till instrumentens karaktär&lt;/strong&gt;. Dessutom &lt;strong&gt;instrumenterar&lt;/strong&gt; eleven för &lt;strong&gt;några&lt;/strong&gt; &lt;strong&gt;större&lt;/strong&gt; ensembleformer och visar konstnärlig kreativitet i &lt;strong&gt;experimenterandet med&lt;/strong&gt; &lt;strong&gt;och&lt;/strong&gt; bearbetningen av musikaliskt material.&lt;/p&gt;&lt;p&gt;I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;digitala hjälpmedel och annan musikteknisk utrustning som redskap för musikskapande.&lt;/p&gt;&lt;p&gt;Eleven diskuterar &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;konstnärliga kvaliteter i olika arrangemang och kompositioner samt värderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sitt eget arbete &lt;strong&gt;och ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. &lt;strong&gt;Dessutom värderar eleven med nyanserade omdömen hur det inre hörandet har omsatts till klingande musikaliskt material i det egna arbetet samt ger förslag på hur detta kan förbättras.&lt;/strong&gt; I diskussionen och värderingen använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;musikteoretiska begrepp.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>4</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

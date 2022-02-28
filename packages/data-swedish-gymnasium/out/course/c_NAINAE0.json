@@ -1,0 +1,102 @@
+{
+  "subject": "NAI",
+  "title": "Nätverkssäkerhet",
+  "code": "NAINAE0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar."
+      ],
+      [
+        "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete.",
+        "I planeringen läser och tolkar eleven <strong>med säkerhet</strong> instruktioner, manualer och andra dokument.",
+        "Eleven utför <strong>efter samråd</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+        "Eleven bygger också <strong>efter samråd</strong> med handledare upp nätverk och anläggningar samt skapar <strong>med säkerhet</strong> systemlösningar.",
+        "Dessutom utför eleven <strong>efter samråd</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>efter samråd</strong> med handledare fel i utrustning i nätverksmiljöer.",
+        "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+        "Resultatet av arbetet är <strong>gott</strong> med avseende på funktion, säkerhet och kvalitet.",
+        "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "Eleven ger <strong>efter samråd</strong> med handledare <strong>avancerade</strong> råd till användare vid val av nätverkssystem och datorteknisk utrustning."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar."
+      ],
+      [
+        "Eleven planerar <strong>efter samråd</strong> med handledare sitt arbete.",
+        "I planeringen läser och tolkar eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument.",
+        "Eleven utför <strong>efter samråd</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+        "Eleven bygger också <strong>efter samråd</strong> med handledare upp nätverk och anläggningar samt skapar <strong>med viss säkerhet</strong> systemlösningar.",
+        "Dessutom utför eleven <strong>efter samråd</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>efter samråd</strong> med handledare fel i utrustning i nätverksmiljöer.",
+        "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+        "Resultatet av arbetet är <strong>tillfredsställande</strong> med avseende på funktion, säkerhet och kvalitet.",
+        "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "Eleven ger <strong>efter samråd</strong> med handledare råd till användare vid val av nätverkssystem och datorteknisk utrustning."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> hur nätverks olika delar och komponenter är uppbyggda och fungerar."
+      ],
+      [
+        "Eleven planerar <strong>i samråd</strong> med handledare sitt arbete.",
+        "I planeringen läser och tolkar eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument.",
+        "Eleven utför <strong>i samråd</strong> med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+        "Eleven bygger också <strong>i samråd</strong> med handledare upp nätverk och anläggningar samt skapar <strong>med viss säkerhet</strong> systemlösningar.",
+        "Dessutom utför eleven <strong>i samråd</strong> med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar <strong>i samråd</strong> med handledare fel i utrustning i nätverksmiljöer.",
+        "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+        "Resultatet av arbetet är <strong>tillfredsställande</strong> med avseende på funktion, säkerhet och kvalitet.",
+        "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "Eleven ger <strong>i samråd</strong> med handledare <strong>enkla</strong> råd till användare vid val av nätverkssystem och datorteknisk utrustning."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Val av mjukvara respektive hårdvara.",
+        "Programvaror för styrning och övervakning av nättrafik.",
+        "Produktutvärdering och hur man utvärderar program för högsta säkerhet.",
+        "Anslutningar med VPN (Virtual Private Network) eller liknande teknologier.",
+        "TCP (Transmission Control Protocol) och olika portar.",
+        "Säkerhetsrisker i nätverk.",
+        "Säkerhetspolicy och incidenthantering.",
+        "Identifikationssystem för inloggning.",
+        "Installation och konfigurering av brandväggar för hårdvara och mjukvara.",
+        "Virusskydd och internetrelaterade säkerhetshot.",
+        "Kryptering och internetrelaterade säkerhetshot.",
+        "NAT (Network Address Translation) och hur adressöversättning kan skydda eller styra åtkomst till klienter."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen nätverkssäkerhet omfattar punkterna 1-9 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ]
+}

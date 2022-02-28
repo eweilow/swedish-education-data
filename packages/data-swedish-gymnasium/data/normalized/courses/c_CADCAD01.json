@@ -1,0 +1,68 @@
+{
+  "name": "Cad 1",
+  "code": "CADCAD01",
+  "focusAreas": {
+    "string": "Kursen cad 1 omfattar punkterna 1-3 och 6-8 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-3",
+      "6-8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Cad-system och begrepp inom cad.",
+          "2. Cad-systemets inställningar för modellering.",
+          "3. Grundläggande skiss- och ritteknik inom valt teknikområde.",
+          "4. Ritningsunderlag enligt gällande standarder och normer för valt teknikområde.",
+          "5. Solidmodellering i tre dimensioner för att avbilda verkliga och tänkta föremål, till exempel genom extrudering, rotation, svepning och återanvändning av geometri för att skapa mönster.",
+          "6. Cad-systemets roll i produktutvecklings- och produktionsprocessen.",
+          "7. Ergonomiska krav på cad-arbetsplatser och arbetsmiljökrav."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven gör **enkla** inställningar av cad-programvaror för modellering.",
+        "Dessutom gör eleven skisser och ritningar för produktionsändamål med **tillfredsställande** resultat enligt gällande standarder."
+      ],
+      [
+        "Eleven modellerar **enkla** detaljer med programvarans inbyggda verktyg, redigerar i 3D, för över 3D-modellen till 2D-ritning och gör efter överföringen redigeringar enligt gällande ritningsstandarder med **tillfredsställande** resultat.",
+        "När arbetet är utfört utvärderar eleven sitt arbete och resultat med **enkla** omdömen."
+      ],
+      [
+        "Eleven värderar med **enkla** omdömen sin cad-arbetsplats ur ergonomisk synvinkel."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven **väljer och** gör inställningar av cad-programvaror för modellering **samt diskuterar översiktligt alternativa inställningar**.",
+        "Dessutom gör eleven skisser och ritningar för produktionsändamål med **tillfredsställande** resultat enligt gällande standarder."
+      ],
+      [
+        "Eleven modellerar detaljer med programvarans inbyggda verktyg, redigerar i 3D, för över 3D-modellen till 2D-ritning och gör efter överföringen redigeringar enligt gällande ritningsstandarder med **tillfredsställande** resultat.",
+        "När arbetet är utfört utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen."
+      ],
+      [
+        "Eleven värderar med **nyanserade** omdömen sin cad-arbetsplats ur ergonomisk synvinkel."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven **väljer och** gör **avancerade** inställningar av cad-programvaror för modellering **samt diskuterar utförligt alternativa inställningar**.",
+        "Dessutom gör eleven skisser och ritningar för produktionsändamål med **gott** resultat enligt gällande standarder."
+      ],
+      [
+        "Eleven modellerar **komplexa** detaljer med programvarans inbyggda verktyg, redigerar i 3D, för över 3D-modellen till 2D-ritning och gör efter överföringen redigeringar enligt gällande ritningsstandarder med **gott** resultat.",
+        "När arbetet är utfört utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**."
+      ],
+      [
+        "Eleven värderar med **nyanserade** omdömen sin cad-arbetsplats ur ergonomisk synvinkel **samt ger förslag på hur arbetsplatsen kan förbättras**."
+      ]
+    ]
+  }
+}

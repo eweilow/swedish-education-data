@@ -1,0 +1,83 @@
+{
+  "name": "Verktygs- och materialhantering",
+  "code": "VEKVEK0",
+  "focusAreas": {
+    "string": "Kursen verktygs- och materialhantering omfattar punkterna 1-8 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Faktorer som påverkar val av verktyg, maskiner, material och fästdon.",
+          "2. Användning och vård av verktyg och maskiner för den aktuella arbetsuppgiften, ur hållbarhets-, säkerhets- och miljöaspekter.",
+          "3. Säkerhetsaspekter på och begränsningar av vad som får göras utifrån olika behörighetskrav.",
+          "4. Montering i enlighet med lagar och andra bestämmelser, anvisningar och standarder för olika material och fästdon.",
+          "5. Tolkning och tillämpning av montageritningar och materialbeteckningar för den aktuella arbetsuppgiften.",
+          "6. Manualer och anvisningar från verktygstillverkare.",
+          "7. Ergonomi och arbetsmiljö för den aktuella arbetsuppgiften och hur verktygen kan underlätta arbetet.",
+          "8. Kvalitetskontroll i form av belastningsprövning, egenkontroll och dokumentation av arbetet."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven väljer och använder **i samråd** med handledare verktyg, maskiner, material och fästdon på adekvat sätt för olika arbetsuppgifter.",
+        "I arbetet tar eleven hänsyn till nödvändiga säkerhetsaspekter."
+      ],
+      [
+        "Eleven utför **i samråd** med handledare **enkla** monteringsarbeten i enlighet med lagar och andra bestämmelser, anvisningar och standarder med ett **tillfredsställande** resultat.",
+        "I arbetet tolkar eleven **med viss säkerhet** ritningar och materialbeteckningar.",
+        "Vidare använder och följer eleven **med viss säkerhet** verktygens manualer samt utför arbetet ergonomiskt och på ett sätt som är säkert för eleven själv och andra."
+      ],
+      [
+        "När arbetet är utfört vårdar eleven **i samråd** med handledare verktyg och maskiner.",
+        "Dessutom utför eleven **i samråd** med handledare kvalitetskontroll av gjorda arbetsuppgifter."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven väljer och använder **efter samråd** med handledare verktyg, maskiner, material och fästdon på adekvat sätt för olika arbetsuppgifter.",
+        "I arbetet tar eleven hänsyn till nödvändiga säkerhetsaspekter."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare monteringsarbeten i enlighet med lagar och andra bestämmelser, anvisningar och standarder med ett **tillfredsställande** resultat.",
+        "I arbetet tolkar eleven **med viss säkerhet** ritningar och materialbeteckningar.",
+        "Vidare använder och följer eleven **med viss säkerhet** verktygens manualer samt utför arbetet ergonomiskt och på ett sätt som är säkert för eleven själv och andra."
+      ],
+      [
+        "När arbetet är utfört vårdar eleven **efter samråd** med handledare verktyg och maskiner.",
+        "Dessutom utför eleven **efter samråd** med handledare kvalitetskontroll av gjorda arbetsuppgifter."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven väljer och använder **efter samråd** med handledare verktyg, maskiner, material och fästdon på adekvat sätt för olika arbetsuppgifter.",
+        "I arbetet tar eleven hänsyn till nödvändiga säkerhetsaspekter."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare **komplexa** monteringsarbeten i enlighet med lagar och andra bestämmelser, anvisningar och standarder med ett **gott** resultat.",
+        "I arbetet tolkar eleven **med säkerhet** ritningar och materialbeteckningar.",
+        "Vidare använder och följer eleven **med säkerhet** verktygens manualer samt utför arbetet ergonomiskt och på ett sätt som är säkert för eleven själv och andra."
+      ],
+      [
+        "När arbetet är utfört vårdar eleven **efter samråd** med handledare verktyg och maskiner.",
+        "Dessutom utför eleven **efter samråd** med handledare kvalitetskontroll av gjorda arbetsuppgifter."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

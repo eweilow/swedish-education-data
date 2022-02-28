@@ -1,0 +1,89 @@
+{
+  "name": "Injusteringsteknik",
+  "code": "SYSINJ0",
+  "focusAreas": {
+    "string": "Kursen injusteringsteknik omfattar punkterna 1-6 och 8 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-6",
+      "8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Grundprinciper för pumpteknik, pumpdata och driftsätt för cirkulationspumpar, fläktar och ventiler.",
+          "2. Terminologi och begrepp samt funktioner hos komponenter inom reglerteknik.",
+          "3. Enheter och storheter som förekommer inom installations- och fastighetsbranscherna.",
+          "4. Metoder för att mäta tryck, temperatur, flöde och strömningshastighet i vatten och luft.",
+          "5. Mätinstrument för ändamålet.",
+          "6. Funktionstestning för att bedöma riktigheten i system i syfte att säkerställa funktionskrav.",
+          "7. Utrustning för att reglera temperaturer och flöden.",
+          "8. Inställning och idrifttagning av reglerkretsar.",
+          "9. Installationsregler, bygglagstiftning och arbetsmiljöregler för att uppfylla samhällets krav på energihushållning, hälsa och säkerhet.",
+          "10. Metoder för förbränningsanalys i värmepannor."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** funktionen och konstruktionen hos olika energitekniska system.",
+        "I beskrivningen redogör eleven **översiktligt** för termodynamikens lagar.",
+        "Dessutom beskriver eleven **översiktligt** en effektiv och miljövänlig energianvändning i energitekniska system."
+      ],
+      [
+        "Eleven utför **i samråd** med handledare driftkontroller med hjälp av ritningar, driftkort, användarmanualer och instruktioner samt utifrån lagar och andra bestämmelser.",
+        "I sin driftkontroll genomför eleven **enkla** mätningar och beräkningar samt kontrollerar resultatet efter **förutbestämda parametrar**.",
+        "Eleven genomför **i samråd** med handledare nödvändiga justeringar och driftsätter system.",
+        null
+      ],
+      [
+        "Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** funktionen och konstruktionen hos olika energitekniska system.",
+        "I beskrivningen redogör eleven **utförligt** för termodynamikens lagar.",
+        "Dessutom beskriver eleven **utförligt** en effektiv och miljövänlig energianvändning i energitekniska system."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare driftkontroller med hjälp av ritningar, driftkort, användarmanualer och instruktioner samt utifrån lagar och andra bestämmelser.",
+        "I sin driftkontroll genomför eleven mätningar och beräkningar samt kontrollerar resultatet efter **förutbestämda parametrar**.",
+        "Eleven genomför **efter samråd** med handledare nödvändiga justeringar, **väljer inställningar** och driftsätter system.",
+        "**Därefter analyserar eleven med viss säkerhet systemen och energioptimerar dem vid behov**."
+      ],
+      [
+        "Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** funktionen och konstruktionen hos olika energitekniska system.",
+        "I beskrivningen redogör eleven **utförligt och nyanserat** för termodynamikens lagar **och systemens hydrauliska egenskaper**.",
+        "Dessutom beskriver eleven **utförligt och nyanserat** en effektiv och miljövänlig energianvändning i energitekniska system."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare driftkontroller med hjälp av ritningar, driftkort, användarmanualer och instruktioner samt utifrån lagar och andra bestämmelser.",
+        "I sin driftkontroll genomför eleven mätningar och beräkningar samt kontrollerar resultatet efter **tabeller och diagram**.",
+        "Eleven genomför **efter samråd** med handledare nödvändiga justeringar, **väljer inställningar** och driftsätter system.",
+        "**Därefter analyserar eleven med säkerhet systemen och energioptimerar dem vid behov**."
+      ],
+      [
+        "Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "name": "Musikproduktion 2",
+  "code": "MUSMUS02",
+  "focusAreas": {
+    "string": "Kursen musikproduktion 2 omfattar punkterna 5 och 8-9 under rubriken Ämnets syfte, med särskild betoning på punkt 8. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "entries": [
+      "5",
+      "8-9"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Akustiska och elektriska instrument och deras konstruktion, funktion och egenskaper samt röstens fysiologi.",
+          "2. Fördjupad bearbetning av ljud med analog och digital teknik. Teknik och metoder för musiksampling samt bearbetning av midisignaler.",
+          "3. Fördjupad ljuddesign för publik och scen, till exempel enklare beräkningar av ljudtryck och spridningsområde, planering och val av utrustning.",
+          "4. Koppling, synkronisering och styrning av ljudutrustning vid inspelningar och scenframföranden, både avseende publikljud och scenljud med monitormixning. Ljudnivåmätning.",
+          "5. Fördjupad liveteknik, till exempel digital signaldistribution, förinställning och intrimning av ljudutrustning.",
+          "6. Interaktion mellan musikproduktion och andra medier, till exempel film och tv.",
+          "7. Ellära som är relevant för musikproduktion.",
+          "8. Felsökning, underhåll och enkel reparation av musikteknisk utrustning.",
+          "9. Planering och genomförande av ett musikaliskt produktionsprojekt i samarbete med andra och med ett konstnärligt kvalitativt resultat."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** konstruktion och egenskaper hos några vanliga instrument och ger **något** exempel på hur rösten fungerar."
+      ],
+      [
+        "Eleven hanterar och bearbetar med **tillfredsställande** resultat såväl analoga som digitala ljudsignaler, samplar musik och hanterar teknik för detta.",
+        "Eleven gör **enkla** bearbetningar av midisignaler."
+      ],
+      [
+        "Eleven designar ljud för publik och scen i bekanta situationer med **tillfredsställande** resultat.",
+        null,
+        "**I samråd** med handledare och med **visst** handlag kopplar eleven ihop, synkroniserar och styr ljudteknisk utrustning vid inspelning och scenframförande - både avseende publikljud och monitormixning för scenen.",
+        "Resultatet är **tillfredsställande**.",
+        "Dessutom redogör eleven **översiktligt** för den teknik som använts.",
+        null
+      ],
+      [
+        "Eleven diskuterar **översiktligt** utifrån **några** exempel hur inspelad musik kan användas tillsammans med andra medier."
+      ],
+      [
+        "Eleven redogör **översiktligt** för grundläggande ellära relaterad till musikproduktion.",
+        "Dessutom utför eleven **enkelt** underhåll av musikteknisk utrustning med tillfredsställande resultat, identifierar **uppenbara** fel och ger **något** adekvat förslag på hur felen kan avhjälpas eller repareras."
+      ],
+      [
+        "Eleven planerar och genomför en större musikproduktion i samarbete med andra, och resultatet är **tillfredsställande**.",
+        "Eleven uppvisar ett **visst** konstnärligt uttryck.",
+        null
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **översiktligt** konstruktion, **funktion** och egenskaper hos några vanliga **akustiska och elektriska** instrument och ger **några** exempel på hur rösten fungerar **och hanteras i musikproduktion**."
+      ],
+      [
+        "Eleven hanterar och bearbetar med **gott** resultat såväl analoga som digitala ljudsignaler, samplar musik och hanterar teknik för detta.",
+        "Eleven gör bearbetningar av midisignaler."
+      ],
+      [
+        "Eleven designar ljud för publik och scen i bekanta **och nya** situationer med **tillfredsställande** resultat.",
+        null,
+        "**Efter samråd** med handledare och med **gott** handlag kopplar eleven ihop, synkroniserar och styr ljudteknisk utrustning vid inspelning och scenframförande - både avseende publikljud och monitormixning för scenen.",
+        "Resultatet är **gott**.",
+        "Dessutom redogör eleven **utförligt** för den teknik som använts.",
+        null
+      ],
+      [
+        "Eleven diskuterar **utförligt** utifrån **några** exempel hur inspelad musik kan användas tillsammans med andra medier."
+      ],
+      [
+        "Eleven redogör **utförligt** för grundläggande ellära relaterad till musikproduktion.",
+        "Dessutom utför eleven underhåll av musikteknisk utrustning med tillfredsställande resultat, identifierar fel och ger **några** adekvata förslag på hur felen kan avhjälpas eller repareras."
+      ],
+      [
+        "Eleven planerar och genomför en större musikproduktion i samarbete med andra, och resultatet är **tillfredsställande**.",
+        "Eleven uppvisar ett **visst** konstnärligt uttryck.",
+        "**Dessutom tar eleven i arbetet något initiativ som utvecklar resultatet**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt** konstruktion, **funktion** och egenskaper hos några vanliga **akustiska och elektriska** instrument och ger **flera** exempel på hur rösten fungerar **och hur olika rösttyper skiljer sig åt och hanteras i musikproduktion**."
+      ],
+      [
+        "Eleven hanterar och bearbetar med **gott** resultat såväl analoga som digitala ljudsignaler, samplar musik och hanterar **kvalificerad** teknik för detta.",
+        "Eleven gör **avancerade** bearbetningar av midisignaler."
+      ],
+      [
+        "Eleven designar ljud för publik och scen i bekanta **och nya** situationer med **gott** resultat.",
+        "**Eleven väljer efter samråd med handledare lämplig teknik.",
+        "Efter samråd** med handledare och med **mycket gott** handlag kopplar eleven ihop, synkroniserar och styr ljudteknisk utrustning vid inspelning och scenframförande - både avseende publikljud och monitormixning för scenen.",
+        "Resultatet är **gott**.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för den teknik som använts.",
+        "**Eleven ger även förslag på hur arbetet kan förbättras**."
+      ],
+      [
+        "Eleven diskuterar **utförligt och nyanserat** utifrån **flera** exempel hur inspelad musik kan användas tillsammans med andra medier."
+      ],
+      [
+        "Eleven redogör **utförligt och nyanserat** för grundläggande ellära relaterad till musikproduktion.",
+        "Dessutom utför eleven underhåll av musikteknisk utrustning med tillfredsställande resultat, identifierar fel och ger **flera** adekvata förslag på hur felen kan avhjälpas eller repareras."
+      ],
+      [
+        "Eleven planerar och genomför en större musikproduktion i samarbete med andra och resultatet är **gott**.",
+        "Eleven uppvisar ett **gott** konstnärligt uttryck.",
+        "**Dessutom tar eleven i arbetet något initiativ som utvecklar resultatet**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

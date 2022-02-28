@@ -1,0 +1,85 @@
+{
+  "name": "Dator- och nätverksteknik",
+  "code": "DAODAC0",
+  "focusAreas": {
+    "string": "Kursen dator- och nätverksteknik omfattar punkterna 1-4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "entries": [
+      "1-4"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Hård- och mjukvaruinstallation, uppbyggnad, konfigurering och uppgradering av datorer och datorsystem.",
+          "2. Lokala nätverk, uppbyggnad och arbetssätt.",
+          "3. Protokoll för dataöverföring via nätverk.",
+          "4. Olika processortyper och deras användningsområden.",
+          "5. Vanliga operativsystem och deras egenskaper.",
+          "6. Prestanda för olika datalagringmedia. Lagring av data på optiska medier.",
+          "7. Begreppen switchning och routning.",
+          "8. Begreppet virtuella nät.",
+          "9. Interna och externa bussar, deras användningsområden och prestanda.",
+          "10. Säkerhetskopiering och virusskydd.",
+          "11. Installation av kringutrustning och uppgradering av drivrutiner.",
+          "12. Installation och underhåll av lokal skrivare.",
+          "13. Konfigurering av grafikkort.",
+          "14. Datorns start- och bootsekvenser samt inställning och uppgradering av dess BIOS (Basic Input/Output System) eller firmware.",
+          "15. Kontroll och optimering av datorers och datorsystems prestanda och funktion.",
+          "16. Felsökning i datorer och datorsystem."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** hur datorer och lokala nätverk är uppbyggda och fungerar samt hur driftsäkerhet uppnås.",
+        null
+      ],
+      [
+        "Eleven planerar och utför **i samråd** med handledare och med **visst** handlag hård- och mjukvaruinstallation, uppbyggnad, konfigurering, uppgradering, optimering och felsökning samt åtgärdar fel i datorer och datorsystem.",
+        "Resultatet är **tillfredsställande** i fråga om funktion, säkerhet och kvalitet.",
+        "Dessutom installerar eleven **i samråd** med handledare datorer i lokala nätverk.",
+        "Eleven hanterar med **visst** handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven **med viss säkerhet** instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en **enkel** dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** hur datorer och lokala nätverk är uppbyggda och fungerar samt hur driftsäkerhet uppnås.",
+        null
+      ],
+      [
+        "Eleven planerar och utför **efter samråd** med handledare och med **gott** handlag hård- och mjukvaruinstallation, uppbyggnad, konfigurering, uppgradering, optimering och felsökning samt åtgärdar fel i datorer och datorsystem.",
+        "Resultatet är **tillfredsställande** i fråga om funktion, säkerhet och kvalitet.",
+        "Dessutom installerar eleven **efter samråd** med handledare datorer i lokala nätverk.",
+        "Eleven hanterar med **gott** handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven **med viss säkerhet** instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en **noggrann** dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** hur datorer och lokala nätverk är uppbyggda och fungerar samt hur driftsäkerhet uppnås.",
+        "**Dessutom redogör eleven utförligt och nyanserat för sambandet mellan de olika delarna som ingår i nätverkets uppbyggnad**."
+      ],
+      [
+        "Eleven planerar och utför **efter samråd** med handledare och med **mycket gott** handlag **avancerad** hård- och mjukvaruinstallation, uppbyggnad, konfigurering, uppgradering, optimering och felsökning samt åtgärdar fel i datorer och datorsystem.",
+        "Resultatet är **gott** i fråga om funktion, säkerhet och kvalitet.",
+        "Dessutom installerar eleven **efter samråd** med handledare datorer i lokala nätverk.",
+        "Eleven hanterar med **mycket gott** handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven **med säkerhet** instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en **noggrann och utförlig** dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

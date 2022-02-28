@@ -1,0 +1,120 @@
+{
+  "name": "Lantbruksmaskiner 1",
+  "code": "LAULAT01",
+  "focusAreas": {
+    "string": "Kursen lantbruksmaskiner 1 omfattar punkterna 1-8 under rubriken Ämnets syfte, med särskild betoning på punkterna 2 och 4-5.",
+    "entries": [
+      "1-8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Teknisk grund",
+        "rows": [
+          "1. Konstruktions- och funktionsbeskrivningar samt användningsområden för maskiner och teknisk utrustning.",
+          "2. Maskinkomponenter och systemfunktioner.",
+          "3. Teknik och biologi i samverkan.",
+          "4. Ekonomiska beräkningar."
+        ]
+      },
+      {
+        "title": "Arbete med lantbruksmaskiner",
+        "rows": [
+          "1. Körteknik och metodik vid genomförande av arbetsuppgifter.",
+          "2. Arbete med maskiner och teknisk utrustning inom växtodling och vid olika underhållsarbeten.",
+          "3. Planering och användning av tekniska system inklusive datateknik.",
+          "4. Användning av verktyg och verkstadsmaskiner.",
+          "5. Tillsyn, service, underhåll och enklare reparationer av maskiner och teknisk utrustning.",
+          "6. Inställning, beräkning och kalibrering.",
+          "7. Kontroll av funktion på maskiner och teknisk utrustning.",
+          "8. Tolkning av instruktions- och handböcker.",
+          "9. Bedömning av arbetsresultat."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Ergonomi samt arbetsmiljö- och säkerhetsfrågor i samband med användning av lantbruksmaskiner.",
+          "2. Brandförebyggande åtgärder.",
+          "3. Lagar och andra bestämmelser inom området."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** konstruktion och funktion av samt användningsområden för lantbruksmaskiner och teknisk utrustning.",
+        "Beskrivningen innehåller **enkla** förklaringar till hur tekniska och biologiska faktorer samverkar."
+      ],
+      [
+        "Eleven följer arbetsinstruktioner samt kör och manövrerar **i samråd** med handledare lantbruksmaskiner för att utföra olika arbetsuppgifter.",
+        "Eleven använder med **visst** handlag teknisk utrustning samt utför **i samråd** med handledare service, underhåll och enklare reparationer av maskinerna och utrustningen.",
+        "Dessutom ställer eleven **i samråd** med handledare in maskinerna och den tekniska utrustningen samt utför **i samråd** med handledare funktionskontroller.",
+        "I arbetet använder eleven **i samråd** med handledare instruktions- och handböcker.",
+        "Dessutom löser eleven **i samråd** med handledare de problem som uppstår.",
+        "Resultatet av arbetet är **tillfredsställande**."
+      ],
+      [
+        "Eleven arbetar säkert och ergonomiskt med maskinerna och utrustningen samt tar hänsyn till miljön.",
+        "Eleven redogör också **översiktligt** för de faktorer som påverkar det ekonomiska resultatet.",
+        "Dessutom redogör eleven **översiktligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+        "När arbetet är utfört gör eleven en **enkel** bedömning av arbetsresultatet och rapporterar det."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** konstruktion och funktion av samt användningsområden för lantbruksmaskiner och teknisk utrustning.",
+        "Beskrivningen innehåller **välgrundade** förklaringar till hur tekniska och biologiska faktorer samverkar."
+      ],
+      [
+        "Eleven följer arbetsinstruktioner samt kör och manövrerar **efter samråd** med handledare lantbruksmaskiner för att utföra olika arbetsuppgifter.",
+        "Eleven använder med **gott** handlag teknisk utrustning samt utför **efter samråd** med handledare service, underhåll och enklare reparationer av maskinerna och utrustningen.",
+        "Dessutom ställer eleven **efter samråd** med handledare in maskinerna och den tekniska utrustningen samt utför **efter samråd** med handledare funktionskontroller.",
+        "I arbetet använder eleven **efter samråd** med handledare instruktions- och handböcker.",
+        "Dessutom löser eleven **efter samråd** med handledare de problem som uppstår.",
+        "Resultatet av arbetet är **tillfredsställande**."
+      ],
+      [
+        "Eleven arbetar säkert och ergonomiskt med maskinerna och utrustningen samt tar hänsyn till miljön.",
+        "Eleven redogör också **utförligt** för de faktorer som påverkar det ekonomiska resultatet.",
+        "Dessutom redogör eleven **utförligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+        "När arbetet är utfört gör eleven en **välgrundad** bedömning av arbetsresultatet och rapporterar det."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** konstruktion och funktion av samt användningsområden för lantbruksmaskiner och teknisk utrustning.",
+        "Beskrivningen innehåller **välgrundade och nyanserade** förklaringar till hur tekniska och biologiska faktorer samverkar."
+      ],
+      [
+        "Eleven följer arbetsinstruktioner samt kör och manövrerar **efter samråd** med handledare lantbruksmaskiner för att utföra olika arbetsuppgifter.",
+        "Eleven använder med **mycket gott** handlag teknisk utrustning samt utför **efter samråd** med handledare service, underhåll och enklare reparationer av maskinerna och utrustningen.",
+        "Dessutom ställer eleven **efter samråd** med handledare in maskinerna och den tekniska utrustningen samt utför **efter samråd** med handledare funktionskontroller.",
+        "I arbetet använder eleven **efter samråd** med handledare instruktions- och handböcker.",
+        "Dessutom löser eleven **efter samråd** med handledare de problem som uppstår.",
+        "Resultatet av arbetet är **gott**."
+      ],
+      [
+        "Eleven arbetar säkert och ergonomiskt med maskinerna och utrustningen samt tar hänsyn till miljön.",
+        "Eleven redogör också **utförligt och nyanserat** för de faktorer som påverkar det ekonomiska resultatet.",
+        "Dessutom redogör eleven **utförligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+        "När arbetet är utfört gör eleven en **välgrundad och nyanserad** bedömning av arbetsresultatet och rapporterar det."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

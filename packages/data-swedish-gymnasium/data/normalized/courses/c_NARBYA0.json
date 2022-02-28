@@ -1,0 +1,122 @@
+{
+  "name": "Byggnadsunderhåll",
+  "code": "NARBYA0",
+  "focusAreas": {
+    "string": "Kursen byggnadsunderhåll omfattar punkterna 1-7 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 2.",
+    "entries": [
+      "1-7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Byggteknisk grund",
+        "rows": [
+          "1. Byggmaterials egenskaper, funktion och användningsområden.",
+          "2. Byggnaders och byggmaterials underhåll.",
+          "3. Klimatpåverkan och miljöpåverkan beroende på region och läge.",
+          "4. Enkla byggnadskonstruktioner.",
+          "5. Dimensionering och anvisningar.",
+          "6. Tolkning av ritningar och instruktioner.",
+          "7. Ekonomiska beräkningar samt dokumentation av genomfört arbete.",
+          "8. Byggnaders historiska och kulturella värden."
+        ]
+      },
+      {
+        "title": "Arbetsuppgifter",
+        "rows": [
+          "1. Byggnads- och underhållsarbete med naturbrukets byggnader och olika anläggningar.",
+          "2. Val av konstruktionsmaterial och beräkning av materialåtgång.",
+          "3. Arbetsmetoder vid byggarbeten.",
+          "4. Hantering av byggmaterial vid transport och lagring.",
+          "5. Användning och vård av verktyg, maskiner och redskap för olika arbetsuppgifter.",
+          "6. Användning av teknikhandböcker.",
+          "7. Hantering av byggavfall."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Ergonomi, arbetsmiljö och säkerhet i samband med byggnadsunderhåll.",
+          "2. Brandförebyggande åtgärder.",
+          "3. Lagar och andra bestämmelser inom området, till exempel plan- och bygglagstiftning, miljölagstiftning och kulturminneslagstiftning."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **översiktligt** för vanligt förekommande byggmaterial samt för dess egenskaper, funktion, användningsområden, hantering och underhåll.",
+        "Dessutom beskriver eleven **översiktligt** enkla byggnadskonstruktioner, hur olika delar är dimensionerade samt materialets och konstruktionens hållfasthet."
+      ],
+      [
+        "Eleven tolkar **i samråd** med handledare ritningar för ett avgränsat byggprojekt, väljer **med viss säkerhet** lämpligt byggmaterial samt gör **enkla** beräkningar av materialåtgång och kostnader.",
+        "Eleven följer arbetsinstruktioner och genomför **i samråd** med handledare underhåll och byggnadsarbete på byggnader och byggnaders utrustning samt på anläggningar.",
+        "I arbetet använder och vårdar eleven **i samråd** med handledare verktyg och maskiner.",
+        "Dessutom löser eleven **i samråd** med handledare de problem som uppstår.",
+        "Resultatet av arbetet är **tillfredsställande**."
+      ],
+      [
+        "Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön.",
+        "Dessutom redogör eleven **översiktligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+      ],
+      [
+        "I samband med fältstudier i olika byggnadsmiljöer beskriver eleven **översiktligt** byggnaders kulturhistoriska och estetiska värden."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för vanligt förekommande byggmaterial samt för dess egenskaper, funktion, användningsområden, hantering och underhåll.",
+        "Dessutom beskriver eleven **utförligt** enkla byggnadskonstruktioner, hur olika delar är dimensionerade samt materialets och konstruktionens hållfasthet."
+      ],
+      [
+        "Eleven tolkar **efter samråd** med handledare ritningar för ett avgränsat byggprojekt, väljer **med viss säkerhet** lämpligt byggmaterial samt gör beräkningar av materialåtgång och kostnader.",
+        "Eleven följer arbetsinstruktioner och genomför **efter samråd** med handledare underhåll och byggnadsarbete på byggnader och byggnaders utrustning samt på anläggningar.",
+        "I arbetet använder och vårdar eleven **efter samråd** med handledare verktyg och maskiner.",
+        "Dessutom löser eleven **efter samråd** med handledare de problem som uppstår.",
+        "Resultatet av arbetet är **tillfredsställande**."
+      ],
+      [
+        "Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön.",
+        "Dessutom redogör eleven **utförligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+      ],
+      [
+        "I samband med fältstudier i olika byggnadsmiljöer beskriver eleven **utförligt** byggnaders kulturhistoriska och estetiska värden."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för vanligt förekommande byggmaterial samt för dess egenskaper, funktion, användningsområden, hantering och underhåll.",
+        "Dessutom beskriver eleven **utförligt och nyanserat** enkla byggnadskonstruktioner, hur olika delar är dimensionerade samt materialets och konstruktionens hållfasthet."
+      ],
+      [
+        "Eleven tolkar **efter samråd** med handledare ritningar för ett avgränsat byggprojekt, väljer **med säkerhet** lämpligt byggmaterial samt gör **avancerade** beräkningar av materialåtgång och kostnader.",
+        "Eleven följer arbetsinstruktioner och genomför **efter samråd** med handledare underhåll och byggnadsarbete på byggnader och byggnaders utrustning samt på anläggningar.",
+        "I arbetet använder och vårdar eleven **efter samråd** med handledare verktyg och maskiner.",
+        "Dessutom löser eleven **efter samråd** med handledare de problem som uppstår.",
+        "Resultatet av arbetet är **gott**."
+      ],
+      [
+        "Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön.",
+        "Dessutom redogör eleven **utförligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+      ],
+      [
+        "I samband med fältstudier i olika byggnadsmiljöer beskriver eleven **utförligt och nyanserat** byggnaders kulturhistoriska och estetiska värden."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

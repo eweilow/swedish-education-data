@@ -1,0 +1,75 @@
+{
+  "name": "Maskinbefäl",
+  "code": "MAKMAS0",
+  "focusAreas": {
+    "string": "Kursen maskinbefäl omfattar punkterna 2 och 5-8 under rubriken Ämnets syfte, med särskild betoning på punkt 7.",
+    "entries": [
+      "2",
+      "5-8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Drift och underhåll.",
+          "2. Maskinteknik: förbränningsmotorer, förbränning, bränslen och smörjmedel, fartygets framdrivning, hydraulik och däcksmaskineri, kylvattensystem, smörjoljesystem, bränslesystem, läns- och barlastsystem, startsystem och ångsystem.",
+          "3. Ellära.",
+          "4. Styr- och reglerteknik.",
+          "5. Kunskaper om lagar och andra bestämmelser som styr verksamheten."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **översiktligt** för vakthavande befäls arbetsuppgifter och den utrustning och de verktyg som används i fartygets maskinrum.",
+        "Dessutom redogör eleven **översiktligt** för rutiner för drift och underhåll.",
+        "Vidare redogör eleven **översiktligt** för de tekniska konstruktionerna i ett fartygs maskinrum."
+      ],
+      [
+        "Eleven redogör **översiktligt** för hur arbetet kan utföras på ett miljömässigt och säkert sätt."
+      ],
+      [
+        "I sina redogörelser använder eleven **med viss säkerhet** relevanta termer och begrepp."
+      ],
+      [
+        "Elever redogör **översiktligt** för lagar och andra bestämmelser som styr vakthållning på handelsfartyg."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för vakthavande befäls arbetsuppgifter och den utrustning och de verktyg som används i fartygets maskinrum.",
+        "Dessutom redogör eleven **utförligt** för rutiner för drift och underhåll.",
+        "Vidare redogör eleven **utförligt** för de tekniska konstruktionerna i ett fartygs maskinrum."
+      ],
+      [
+        "Eleven redogör **utförligt** för hur arbetet kan utföras på ett miljömässigt och säkert sätt."
+      ],
+      [
+        "I sina redogörelser använder eleven **med viss säkerhet** relevanta termer och begrepp."
+      ],
+      [
+        "Elever redogör **utförligt** för lagar och andra bestämmelser som styr vakthållning på handelsfartyg."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för vakthavande befäls arbetsuppgifter och den utrustning och de verktyg som används i fartygets maskinrum.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för rutiner för drift och underhåll.",
+        "Vidare redogör eleven **utförligt och nyanserat** för de tekniska konstruktionerna i ett fartygs maskinrum."
+      ],
+      [
+        "Eleven redogör **utförligt och nyanserat** för hur arbetet kan utföras på ett miljömässigt och säkert sätt."
+      ],
+      [
+        "I sina redogörelser använder eleven **med säkerhet** relevanta termer och begrepp."
+      ],
+      [
+        "Elever redogör **utförligt** för lagar och andra bestämmelser som styr vakthållning på handelsfartyg."
+      ]
+    ]
+  }
+}

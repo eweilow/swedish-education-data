@@ -1,0 +1,81 @@
+{
+  "name": "El- och verkstadsteknik",
+  "code": "VERVER0",
+  "focusAreas": {
+    "string": "Kursen el- och verkstadsteknik omfattar punkterna 1-5 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-5"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Elarbete, till exempel losskoppling och anslutning av apparater, samt funktionsprovning.",
+          "2. Verkstadsarbete, till exempel sammanfogning och skärande bearbetning.",
+          "3. Pressverktyg för olika kontakttyper som används inom yrkesområdet.",
+          "4. Handverktyg som används i verkstadsarbete.",
+          "5. Enklare ritningar och måttsättning.",
+          "6. Elsäkerhet för personer och egendom."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven utför **i samråd** med handledare enklare elarbete och verkstadsarbete.",
+        "I arbetet väljer eleven samt använder med **visst** handlag den utrustning och de verktyg som är lämpliga för arbetsuppgiften i bekanta situationer.",
+        "Eleven genomför **med viss säkerhet** funktionsprovning.",
+        "Resultatet av elevens arbete är **tillfredsställande**."
+      ],
+      [
+        "Eleven gör inför arbetet en **enkel** planering utifrån de ritningar, scheman, standarder och instruktioner som är relevanta för uppgiften."
+      ],
+      [
+        "Eleven utför **i samråd** med handledare arbetet på ett säkert och miljömedvetet sätt.",
+        "Eleven använder **med viss säkerhet** termer och begrepp som är relevanta för området."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven utför **efter samråd** med handledare enklare elarbete och verkstadsarbete.",
+        "I arbetet väljer eleven samt använder med **gott** handlag den utrustning och de verktyg som är lämpliga för arbetsuppgiften i bekanta **och nya** situationer.",
+        "Eleven genomför **med viss säkerhet** funktionsprovning.",
+        "Resultatet av elevens arbete är **tillfredsställande**."
+      ],
+      [
+        "Eleven gör inför arbetet en **enkel** planering utifrån de ritningar, scheman, standarder och instruktioner som är relevanta för uppgiften."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare arbetet på ett säkert och miljömedvetet sätt.",
+        "Eleven använder **med viss säkerhet** termer och begrepp som är relevanta för området."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven planerar och utför **efter samråd** med handledare enklare elarbete och verkstadsarbete.",
+        "I arbetet väljer eleven samt använder med **mycket gott** handlag den utrustning och de verktyg som är lämpliga för arbetsuppgiften i bekanta **och nya** situationer.",
+        "Eleven genomför **med säkerhet** funktionsprovning.",
+        "Resultatet av elevens arbete är **gott**."
+      ],
+      [
+        "Eleven gör inför arbetet en **genomarbetad** planering utifrån de ritningar, scheman, standarder och instruktioner som är relevanta för uppgiften."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare arbetet på ett säkert och miljömedvetet sätt.",
+        "Eleven använder **med säkerhet** termer och begrepp som är relevanta för området."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

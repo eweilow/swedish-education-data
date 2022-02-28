@@ -1,0 +1,111 @@
+{
+  "subject": "WEU",
+  "title": "Webbutveckling 3",
+  "code": "WEUWEB33",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven följer <strong>med säkerhet</strong> en projektplan för framtagning av en eller flera produkter.",
+        "Planen uppfyller standardiserad projektmetodik för mjukvaruutveckling.",
+        "Utifrån projektplanen utvecklar eleven <strong>efter samråd</strong> med handledare produkten eller produkterna där logiker som styr innehåll, design och beteende är åtskilda.",
+        "Eleven använder <strong>med säkerhet</strong> pakethantering vid installation av olika klassbibliotek och ramverk.",
+        "I arbetet utvecklar eleven kod som med <strong>gott</strong> resultat följer standarder och etablerad god praxis."
+      ],
+      [
+        "Eleven utvecklar <strong>flera</strong> skript för användarinteraktion och <strong>flera</strong> skript för kommunikation med webbtjänster med <strong>god</strong> funktionalitet.",
+        "Eleven använder <strong>med säkerhet avancerade</strong> tekniker för asynkrona anrop för sin produkt.",
+        "Dessutom utvecklar eleven två- eller tredimensionell interaktiv grafik med <strong>god</strong> funktionalitet.",
+        "Produkten eller produkterna är av <strong>god</strong> kvalitet när det gäller funktion och tillgänglighet.",
+        "Detta kontrollerar eleven med <strong>manuella och automatiserade</strong> tester.",
+        "Eleven vidtar <strong>flera</strong> åtgärder för att åstadkomma god prestanda för produkten eller produkterna."
+      ],
+      [
+        "När arbetet är utfört gör eleven en <strong>noggrann och utförlig</strong> dokumentation i enlighet med vald projektmetod samt utvärderar med <strong>utförliga och nyanserade</strong> omdömen sitt arbete och resultat <strong>samt ger förslag på hur arbetet kan förbättras</strong>.",
+        "Eleven följer i sitt arbete lagar och andra bestämmelser som rör mjukvaruutveckling och publicering på webben.",
+        "Eleven tar hänsyn till säkerhetsaspekter i sitt arbete och i fråga om produkten eller produkterna samt kontrollerar säkerheten genom <strong>omfattande</strong> tester.",
+        "Eleven använder <strong>med säkerhet</strong> terminologi inom området."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven följer <strong>med viss säkerhet</strong> en projektplan för framtagning av en eller flera produkter.",
+        "Planen uppfyller standardiserad projektmetodik för mjukvaruutveckling.",
+        "Utifrån projektplanen utvecklar eleven <strong>efter samråd</strong> med handledare produkten eller produkterna där logiker som styr innehåll, design och beteende är åtskilda.",
+        "Eleven använder <strong>med viss säkerhet</strong> pakethantering vid installation av olika klassbibliotek och ramverk.",
+        "I arbetet utvecklar eleven kod som med <strong>tillfredsställande</strong> resultat följer standarder och etablerad god praxis."
+      ],
+      [
+        "Eleven utvecklar <strong>några</strong> skript för användarinteraktion och <strong>några</strong> skript för kommunikation med webbtjänster med <strong>tillfredsställande</strong> funktionalitet.",
+        "Eleven använder <strong>med viss säkerhet</strong> tekniker för asynkrona anrop för sin produkt.",
+        "Dessutom utvecklar eleven två- eller tredimensionell interaktiv grafik med <strong>tillfredsställande</strong> funktionalitet.",
+        "Produkten eller produkterna är av <strong>tillfredsställande</strong> kvalitet när det gäller funktion och tillgänglighet.",
+        "Detta kontrollerar eleven med <strong>manuella och automatiserade</strong> tester.",
+        "Eleven vidtar <strong>några</strong> åtgärder för att åstadkomma god prestanda för produkten eller produkterna."
+      ],
+      [
+        "När arbetet är utfört gör eleven en <strong>noggrann</strong> dokumentation i enlighet med vald projektmetod samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat.",
+        "Eleven följer i sitt arbete lagar och andra bestämmelser som rör mjukvaruutveckling och publicering på webben.",
+        "Eleven tar hänsyn till säkerhetsaspekter i sitt arbete och i fråga om produkten eller produkterna samt kontrollerar säkerheten genom tester.",
+        "Eleven använder <strong>med viss säkerhet</strong> terminologi inom området."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven följer <strong>med viss säkerhet</strong> en projektplan för framtagning av en eller flera produkter.",
+        "Planen uppfyller standardiserad projektmetodik för mjukvaruutveckling.",
+        "Utifrån projektplanen utvecklar eleven <strong>i samråd</strong> med handledare produkten eller produkterna där logiker som styr innehåll, design och beteende är åtskilda.",
+        "Eleven använder <strong>med viss säkerhet</strong> pakethantering vid installation av olika klassbibliotek och ramverk.",
+        "I arbetet utvecklar eleven kod som med <strong>tillfredsställande</strong> resultat följer standarder och etablerad god praxis."
+      ],
+      [
+        "Eleven utvecklar <strong>något</strong> skript för användarinteraktion och <strong>något</strong> skript för kommunikation med webbtjänster med <strong>tillfredsställande</strong> funktionalitet.",
+        "Eleven använder <strong>med viss säkerhet enkla</strong> tekniker för asynkrona anrop för sin produkt.",
+        "Dessutom utvecklar eleven två- eller tredimensionell interaktiv grafik med <strong>tillfredsställande</strong> funktionalitet.",
+        "Produkten eller produkterna är av <strong>tillfredsställande</strong> kvalitet när det gäller funktion och tillgänglighet.",
+        "Detta kontrollerar eleven med <strong>automatiserade</strong> tester.",
+        "Eleven vidtar <strong>någon</strong> åtgärd för att åstadkomma god prestanda för produkten eller produkterna."
+      ],
+      [
+        "När arbetet är utfört gör eleven en <strong>enkel</strong> dokumentation i enlighet med vald projektmetod samt utvärderar med <strong>enkla</strong> omdömen sitt arbete och resultat.",
+        "Eleven följer i sitt arbete lagar och andra bestämmelser som rör mjukvaruutveckling och publicering på webben.",
+        "Eleven tar hänsyn till säkerhetsaspekter i sitt arbete och i fråga om produkten eller produkterna samt kontrollerar säkerheten genom <strong>begränsade</strong> tester.",
+        "Eleven använder <strong>med viss säkerhet</strong> terminologi inom området."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Konsumtion av webbtjänster, protokoll, gränssnitt och format för datautbyte.",
+        "Processen för ett webbutvecklingsprojekt enligt standardiserad metod för mjukvaruutveckling.",
+        "Verktyg för pakethantering.",
+        "Optimering av processer med hjälp av verktyg, till exempel minifiering av javascript och CSS.",
+        "Riktlinjer för god praxis inom webbutveckling.",
+        "Klientsidestekniker för webbapplikationer.",
+        "Skriptspråk för webbutveckling på klientsidan och dokumentobjektsmodellen.",
+        "Interaktion med webbservern via skript.",
+        "Interaktiv webbgrafik och skalbar vektorgrafik.",
+        "Interoperabilitet.",
+        "Applikationer som fungerar oberoende av val av användaragent, operativsystem eller hårdvaruplattform.",
+        "Kvalitetssäkring av applikationens funktion samt validering av kodens kvalitet.",
+        "Kvalitetssäkring av skript genom olika manuella och automatiserade tester, till exempel med enhetstester.",
+        "Lagar och andra bestämmelser som styr digital information.",
+        "Säkerhet och sätt att identifiera hot och sårbarheter samt hur attacker kan motverkas genom effektiva åtgärder.",
+        "Terminologi inom området webbutveckling."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen webbutveckling 3 omfattar punkterna 2-9 under rubriken Ämnets syfte. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
+  "applicableSubjectPurposes": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ]
+}

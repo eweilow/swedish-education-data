@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Elektronik</name>
+  <englishName>Electronics</englishName>
+  <description
+  >&lt;p&gt;Ämnet elektronik behandlar flera teknikområden där elektronik och elektroniska system byggs in för att styra eller ersätta mekaniska system, till exempel i bilar och hushållsmaskiner.&lt;/p&gt;</description>
+  <code>ELE</code>
+  <status>PUBLISHED</status>
+  <version>2</version>
+  <createdDate>2013-06-20T10:27:25+02:00</createdDate>
+  <modifiedDate>2020-02-19T15:50:58+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Elektronik&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet elektronik ska syfta till att eleverna utvecklar kunskaper om funktion och egenskaper hos de vanligaste analoga och digitala elektronikkomponenterna. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att tolka symboler, elektronikscheman, datablad och annan teknisk dokumentation.&lt;/p&gt;&lt;p&gt;Undervisningen ska leda till att eleverna utvecklar förmåga att utföra praktiska moment, till exempel elektronikmontering, komponentmätningar, programmering samt datorsimulering av elektronikuppkopplingar. Dessutom ska undervisningen leda till att eleverna utvecklar färdigheter i att sköta och använda verktyg och mätinstrument. I undervisningen ska ett undersökande arbetssätt och experiment, laborationer och datorsimuleringar ingå.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet elektronik ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om funktion och egenskaper hos vanliga analoga och digitala elektronikkomponenter.&lt;/li&gt; &lt;li&gt;Kunskaper om funktion och arbetssätt hos mikrodatorer och mikroprocessorer.&lt;/li&gt; &lt;li&gt;Förmåga att utföra elektronikmonteringsarbete på ett säkert och miljövänligt sätt.&lt;/li&gt; &lt;li&gt;Förmåga att programmera enklare elektroniksystem och mikrodatorsystem.&lt;/li&gt; &lt;li&gt;Förmåga att använda och tolka begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.&lt;/li&gt; &lt;li&gt;Förmåga att utföra beräkningar av elektriska storheter.&lt;/li&gt; &lt;li&gt;Förmåga att utföra komponent- och kretsmätningar.&lt;/li&gt; &lt;li&gt;Förmåga att utföra datorsimulering av elektronikuppkopplingar.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Elektronik och mikrodatorteknik, 100 poäng.&lt;/li&gt; &lt;li&gt;Låg- och högfrekvenskretsar, 100 poäng, som bygger på kursen elektronik och mikrodatorteknik.&lt;/li&gt; &lt;li&gt;Mikrodatortillämpningar, 100 poäng, som bygger på kursen elektronik och mikrodatorteknik.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2010:150</skolfsId>
+  <applianceDate>2013-04-11T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Elektronik och mikrodatorteknik</name>
+    <englishName>Electronics and microcomputer technology</englishName>
+    <description
+    >&lt;p&gt;Kursen elektronik och mikrodatorteknik omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>ELEELR0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Elektronik och mikrodatorteknik, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: ELEELR0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Egenskaper och arbetssätt hos resistorer, kondensatorer, induktanser och transformatorer.&lt;/li&gt; &lt;li&gt;Egenskaper och arbetssätt hos analoga och digitala halvledarkomponenter.&lt;/li&gt; &lt;li&gt;Egenskaper och arbetssätt hos optokomponenter och displayer.&lt;/li&gt; &lt;li&gt;Mikrodatorns arbetssätt.&lt;/li&gt; &lt;li&gt;Mikroprocessorer och deras kringkomponenter.&lt;/li&gt; &lt;li&gt;ESD-säker (electrostatic discharge) hantering och montering av elektronikkomponenter.&lt;/li&gt; &lt;li&gt;Förbindningsteknik och ytmonteringsteknik. &lt;/li&gt; &lt;li&gt;Enklare programmering av mikrodatorer.&lt;/li&gt; &lt;li&gt;Schemaritningsteknik, symboler och funktioner.&lt;/li&gt; &lt;li&gt;Binära talsystemet, boolesk algebra och de digitala grundfunktionerna.&lt;/li&gt; &lt;li&gt;Arbetssätt och användningsområden för AD- och DA-omvandlare.&lt;/li&gt; &lt;li&gt;Mätteknik för krets- och komponentmätningar.&lt;/li&gt; &lt;li&gt;Datorsimulering av enklare elektronikuppkopplingar.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; funktion och egenskaper hos vanligt förekommande analoga och digitala elektronikkomponenter. Dessutom beskriver eleven &lt;strong&gt;översiktligt &lt;/strong&gt;funktion och arbetssätt hos mikrodatorer och mikroprocessorer.&lt;/p&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare montering, hantering och provning av vanligt förekommande analoga och digitala elektronikkomponenter samt enklare programmering av mikrodatorer. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt är miljövänligt. I arbetet använder och tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument. Dessutom utför eleven&lt;strong&gt; enkla&lt;/strong&gt; beräkningar av elektriska storheter.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;enkla&lt;/strong&gt; komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; funktion och egenskaper hos vanligt förekommande analoga och digitala elektronikkomponenter. Dessutom beskriver eleven &lt;strong&gt;utförligt &lt;/strong&gt;funktion och arbetssätt hos mikrodatorer och mikroprocessorer.&lt;/p&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare montering, hantering och provning av vanligt förekommande analoga och digitala elektronikkomponenter samt enklare programmering av mikrodatorer. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt är miljövänligt. I arbetet använder och tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;&lt;strong&gt;begrepp&lt;/strong&gt;, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument. Dessutom utför eleven beräkningar av elektriska storheter.&lt;/p&gt;&lt;p&gt;Eleven utför komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; funktion och egenskaper hos vanligt förekommande analoga och digitala elektronikkomponenter. Dessutom beskriver eleven &lt;strong&gt;utförligt &lt;/strong&gt;&lt;strong&gt;och nyanserat&lt;/strong&gt; funktion och arbetssätt hos mikrodatorer och mikroprocessorer.&lt;/p&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare montering, hantering och provning av vanligt förekommande analoga och digitala elektronikkomponenter samt enklare programmering av mikrodatorer. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt är miljövänligt. I arbetet använder och tolkar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;&lt;strong&gt;begrepp&lt;/strong&gt;, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument. Dessutom utför eleven&lt;strong&gt; avancerade&lt;/strong&gt; beräkningar av elektriska storheter.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;avancerade &lt;/strong&gt;komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Låg- och högfrekvenskretsar</name>
+    <englishName>Low and high frequency circuits</englishName>
+    <description
+    >&lt;p&gt;Kursen låg- och högfrekvenskretsar omfattar punkterna 1, 3, 5 och 7–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>ELELÅG0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Låg- och högfrekvenskretsar, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: ELELÅG0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Specialtransistorer för låg- och högfrekvens.&lt;/li&gt; &lt;li&gt;Integrerade specialkretsar för låg- och högfrekvens.&lt;/li&gt; &lt;li&gt;Låg- och högfrekvensmoduler.&lt;/li&gt; &lt;li&gt;Mikrodatorer i låg- och högfrekvenskretsar.&lt;/li&gt; &lt;li&gt;Enklare felsökning och reparationer i ljudanläggningar.&lt;/li&gt; &lt;li&gt;Begreppen effekt, frekvensomfång, distorsion och decibel.&lt;/li&gt; &lt;li&gt;Begreppen frekvens, frekvensspektrum, modulering och demodulering.&lt;/li&gt; &lt;li&gt;Symboler, standarder och normer för låg- och högfrekvensområdet.&lt;/li&gt; &lt;li&gt;Elektronik- och blockscheman för ljudanläggningar och förstärkare.&lt;/li&gt; &lt;li&gt;Elektronik- och blockscheman för tv- och satellitmottagningsutrustning.&lt;/li&gt; &lt;li&gt;Elektronik- och blockscheman för kommunikationsradiosystem.&lt;/li&gt; &lt;li&gt;Enklare komponent- och kretsmätningar.&lt;/li&gt; &lt;li&gt;Datorsimulering av enklare låg- och högfrekvenskretsar.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; funktion och egenskaper hos vanligt förekommande elektronikkomponenter och moduler för låg- och högfrekvenskretsar. Dessutom beskriver eleven &lt;strong&gt;översiktligt &lt;/strong&gt;hur dessa komponenter och moduler används i elektronikapparater och elektroniksystem.&lt;/p&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare montering, provning och felsökning av apparater med vanligt förekommande elektronikkomponenter och moduler för låg- och högfrekvenskretsar. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt är miljövänligt. I arbetet använder och tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;enkla&lt;/strong&gt; komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar. Arbetet utförs med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; funktion och egenskaper hos vanligt förekommande elektronikkomponenter och moduler för låg- och högfrekvenskretsar. Dessutom beskriver eleven &lt;strong&gt;utförligt&lt;/strong&gt; hur dessa komponenter och moduler används i elektronikapparater och elektroniksystem.&lt;/p&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare montering, provning och felsökning av apparater med vanligt förekommande elektronikkomponenter och moduler för låg- och högfrekvenskretsar. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt är miljövänligt. I arbetet använder och tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.&lt;/p&gt;&lt;p&gt;Eleven utför komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar. Arbetet utförs med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; funktion och egenskaper hos vanligt förekommande elektronikkomponenter och moduler för låg- och högfrekvenskretsar. Dessutom beskriver eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; hur dessa komponenter och moduler används i elektronikapparater och elektroniksystem.&lt;/p&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare montering, provning och felsökning av apparater med vanligt förekommande elektronikkomponenter och moduler för låg- och högfrekvenskretsar. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt är miljövänligt. I arbetet använder och tolkar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;avancerade &lt;/strong&gt;komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar. Arbetet utförs med &lt;strong&gt;gott &lt;/strong&gt;resultat.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Mikrodatortillämpningar</name>
+    <englishName>Microcomputer applications</englishName>
+    <description
+    >&lt;p&gt;Kursen mikrodatortillämpningar omfattar punkterna 1–5 och 7–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>ELEMIK0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Mikrodatortillämpningar, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: ELEMIK0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Egenskaper hos olika typer av mikrodatorkretsar.&lt;/li&gt; &lt;li&gt;Mikrodatorns dataminne och programminne.&lt;/li&gt; &lt;li&gt;Integrerade funktioner, till exempel timer, serie-interface, AD- och DA-omvandlare, watchdog och displaydrivare.&lt;/li&gt; &lt;li&gt;Användningsområden för mikrodatorer.&lt;/li&gt; &lt;li&gt;Fältprogrammerbara logikkretsar och deras användningsområden.&lt;/li&gt; &lt;li&gt;Interface-kopplingar.&lt;/li&gt; &lt;li&gt;Seriella bussar och deras anslutning.&lt;/li&gt; &lt;li&gt;Presentationsenheter och displayer.&lt;/li&gt; &lt;li&gt;Utvecklingsverktyg och utvecklingsmiljöer.&lt;/li&gt; &lt;li&gt;Vanligt förekommande programmeringsspråk.&lt;/li&gt; &lt;li&gt;Programmering med datorhjälp.&lt;/li&gt; &lt;li&gt;Programutveckling och avlusning av program.&lt;/li&gt; &lt;li&gt;Användning av flödesdiagram.&lt;/li&gt; &lt;li&gt;Begreppen mikrocontroller och mikroprocessor.&lt;/li&gt; &lt;li&gt;Begreppet inbyggda system.&lt;/li&gt; &lt;li&gt;Felsökning i hård- och mjukvara.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; funktion, egenskaper och arbetssätt hos vanligt förekommande mikrodatorer och programmerbara logikkretsar. Dessutom beskriver eleven &lt;strong&gt;översiktligt &lt;/strong&gt;deras användningsområden.&lt;/p&gt;&lt;p&gt;Eleven planerar och löser &lt;strong&gt;i samråd &lt;/strong&gt;med handledare styr- och mättekniska problem med hjälp av mikrodatorkretsar och programmerbara logikkretsar. Eleven programmerar kretsarna så att de på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller kraven på funktion och säkerhet. I arbetet använder och tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;med viss säkerhet&lt;/strong&gt; felsökning i hård- och mjukvara. Dessutom utför eleven &lt;strong&gt;enkla &lt;/strong&gt;kretsmätningar samt datorsimuleringar av elektronikuppkopplingar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; funktion, egenskaper och arbetssätt hos vanligt förekommande mikrodatorer och programmerbara logikkretsar. Dessutom beskriver eleven &lt;strong&gt;utförligt&lt;/strong&gt; deras användningsområden.&lt;/p&gt;&lt;p&gt;Eleven planerar och löser &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare styr- och mättekniska problem med hjälp av mikrodatorkretsar och programmerbara logikkretsar. Eleven programmerar kretsarna så att de på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller kraven på funktion och säkerhet. I arbetet använder och tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;med viss säkerhet&lt;/strong&gt; felsökning i hård- och mjukvara. Dessutom utför eleven kretsmätningar samt datorsimuleringar av elektronikuppkopplingar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; funktion, egenskaper och arbetssätt hos vanligt förekommande mikrodatorer och programmerbara logikkretsar. Dessutom beskriver eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; deras användningsområden.&lt;/p&gt;&lt;p&gt;Eleven planerar och löser &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare &lt;strong&gt;avancerade&lt;/strong&gt; styr- och mättekniska problem med hjälp av mikrodatorkretsar och programmerbara logikkretsar. Eleven programmerar kretsarna så att de på ett &lt;strong&gt;gott &lt;/strong&gt;sätt uppfyller kraven på funktion och säkerhet. I arbetet använder och tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;med säkerhet&lt;/strong&gt; felsökning i hård- och mjukvara. Dessutom utför eleven &lt;strong&gt;avancerade &lt;/strong&gt;kretsmätningar samt datorsimuleringar av elektronikuppkopplingar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

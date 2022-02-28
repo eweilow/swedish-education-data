@@ -1,0 +1,37 @@
+{
+  "title": "Dator- och kommunikationsteknik",
+  "code": "DAO",
+  "developmentPurposes": [
+    "Kunskaper om uppbyggnad och funktion hos datorer, dator- och kommunikationssystem samt olika typer av nätverk.",
+    "Färdigheter i att planera och utföra arbete i datorer samt i dator- och kommunikationssystem.",
+    "Färdigheter i att utföra optimering, administration och diagnostisering av, samt åtgärda fel i, dator- och kommunikationssystem.",
+    "Förmåga att använda instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt att dokumentera sitt arbete.",
+    "Förmåga att ge stöd och support till användare på ett serviceinriktat sätt."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet dator- och kommunikationsteknik ska syfta till att eleverna utvecklar förmåga att arbeta med vanligt förekommande system och komponenter inom dator- och kommunikationsområdena. Genom undervisningen ska eleverna därför ges möjlighet att utveckla kunskaper om system, enheter, komponenter, metoder och arbetssätt som används när datorer är uppkopplade i befintliga nätverk. Eleverna ska också ges möjlighet att utveckla förmåga att lösa problem, utföra felsökningar och åtgärda fel, både självständigt och i samarbete med andra. Undervisningen ska utveckla elevernas kunskaper om datorsäkerhet och förmåga att arbeta med hänsyn till hållbar utveckling. Den ska även bidra till att eleverna utvecklar förmåga att möta och kommunicera med uppdragsgivare och användare på ett serviceinriktat sätt.",
+    "Undervisningen ska varva praktiska och laborativa moment med teoretiska moment. Genom praktiska övningar ska eleverna ges möjlighet att utveckla förmåga att hantera och behandla teknisk utrustning. Eleverna ska även ges möjlighet att uttrycka sig både skriftligt och muntligt genom att dokumentera sitt arbete."
+  ],
+  "courseInfo": {
+    "DAODAC0": "Dator- och nätverksteknik, 100 poäng.",
+    "DAODAT0": "Datorsamordning och support, 100 poäng.",
+    "DAODAT01a": "Datorteknik 1a, 100 poäng.",
+    "DAODAT01b": "Datorteknik 1b, 100 poäng.",
+    "DAODIG0": "Digital kommunikationsteknik, 100 poäng.",
+    "DAOINU0": "Industriell informationsteknik, 100 poäng.",
+    "DAOMUL0": "Multimediasystem, 100 poäng."
+  },
+  "description": "Ämnet dator- och kommunikationsteknik ger en grund för yrkesmässig verksamhet med installationer och underhåll av hård- och mjukvara. Ämnet behandlar också grundläggande elektronikkunskaper eftersom dator- och kommunikationsteknikens utrustningar och apparater är uppbyggda med elektronik.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "applicableFrom": "2015-05-27T11:31:03.000Z",
+  "modifiedDate": "2020-02-19T14:50:32.000Z",
+  "courses": [
+    "DAODAC0",
+    "DAODAT0",
+    "DAODAT01a",
+    "DAODAT01b",
+    "DAODIG0",
+    "DAOINU0",
+    "DAOMUL0"
+  ]
+}

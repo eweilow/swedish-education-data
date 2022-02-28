@@ -1,0 +1,63 @@
+{
+  "subject": "VAE",
+  "title": "Vattenkraftstationer",
+  "code": "VAEVAN0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> vattenkraftstationens huvudkomponenter och deras funktion dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+        "I beskrivningen gör eleven <strong>välgrundade och nyanserade</strong> kopplingar till relevanta fysikaliska principer."
+      ],
+      [
+        "Eleven utför på ett elsäkert och personsäkert sätt <strong>komplext</strong> arbete i en vattenkraftstation.",
+        "I arbetet använder eleven <strong>med säkerhet</strong> utrustningen på ett riktigt sätt.",
+        "Dessutom samarbetar och kommunicerar eleven på ett ansvarsfullt sätt med andra för att lösa arbetsuppgiften samt använder ett <strong>nyanserat</strong> fackspråk som fungerar för arbetsuppgiften.",
+        "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete samt utvärderar det med <strong>nyanserade</strong> omdömen.",
+        "<strong>Dessutom ger eleven förslag på hur arbetet kan förbättras</strong>."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> vattenkraftstationens huvudkomponenter och deras funktion dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+        "I beskrivningen gör eleven <strong>välgrundade</strong> kopplingar till relevanta fysikaliska principer."
+      ],
+      [
+        "Eleven utför på ett elsäkert och personsäkert sätt arbete i en vattenkraftstation.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustningen på ett riktigt sätt.",
+        "Dessutom samarbetar och kommunicerar eleven på ett ansvarsfullt sätt med andra för att lösa arbetsuppgiften samt använder ett fackspråk som fungerar för arbetsuppgiften.",
+        "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete samt utvärderar det med <strong>nyanserade</strong> omdömen.",
+        null
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> vattenkraftstationens huvudkomponenter och deras funktion dels var för sig, dels hur de samverkar för att göra produktion, transformation och överföring av elektrisk kraft möjlig.",
+        "I beskrivningen gör eleven <strong>enkla</strong> kopplingar till relevanta fysikaliska principer."
+      ],
+      [
+        "Eleven utför på ett elsäkert och personsäkert sätt <strong>enkelt</strong> arbete i en vattenkraftstation.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> utrustningen på ett riktigt sätt.",
+        "Dessutom samarbetar och kommunicerar eleven på ett ansvarsfullt sätt med andra för att lösa arbetsuppgiften samt använder ett <strong>enkelt</strong> fackspråk som fungerar för arbetsuppgiften.",
+        "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete samt utvärderar det med <strong>enkla</strong> omdömen.",
+        null
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Vattenkraftstationers uppbyggnad, vilka faktorer som styr en vattenkraftstations utformning samt vattenkraftstationens funktion avseende energiomvandling till elkraftproduktion.",
+        "Vattenkraftstationers huvudkomponenter, till exempel vattenmagasin, dammar, vattenvägar, turbiner, generatorer, transformatorer och ställverk.",
+        "Kraftöverföringssystemets uppbyggnad och funktion."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen vattenkraftstationer omfattar punkterna 1, 6 och 8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+  "applicableSubjectPurposes": [
+    0,
+    5,
+    7
+  ]
+}

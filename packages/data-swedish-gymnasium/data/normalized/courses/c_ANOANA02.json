@@ -1,0 +1,75 @@
+{
+  "name": "Anatomi och fysiologi 2",
+  "code": "ANOANA02",
+  "focusAreas": {
+    "string": "Kursen anatomi och fysiologi 2 omfattar punkterna 1-6 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-6"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Människokroppens uppbyggnad och funktion samt dess förmåga till ämnesomsättning, rörelse, retbarhet, skydd och försvar.",
+          "2. Kroppens vätske-, elektrolyt- och näringsbalans.",
+          "3. Människans utveckling från barn till äldre.",
+          "4. Den fysiologiska processen kring människans fortplantning från befruktning till förlossning.",
+          "5. Fördjupad medicinsk terminologi.",
+          "6. Vanliga läkemedel och deras verkningssätt, användningsområden och vilka biverkningar de kan ha.",
+          "7. Enklare läkemedelsberäkning samt relevansbedömning av resultatet.",
+          "8. Lagar och andra bestämmelser som gäller för läkemedelsanvändning.",
+          "9. Kroppens försvarssystem mot mikroorganismer och virus."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** människokroppens uppbyggnad och funktion.",
+        "Vidare redogör eleven **översiktligt** för kroppens vätske- och elektrolytbalans.",
+        "Dessutom redogör eleven **översiktligt** för människans normala fysiska utveckling.",
+        "I beskrivningarna använder eleven **med viss säkerhet** medicinsk terminologi."
+      ],
+      [
+        "Eleven beskriver **översiktligt** vanliga läkemedel, deras verkningssätt, hantering, användningsområden och biverkningar samt redogör för lagar och andra bestämmer som gäller för läkemedelsanvändning och läkemedelshantering.",
+        "Vidare utför eleven enkel läkemedelsberäkning med **tillfredsställande** resultat och bedömer relevansen av resultatet."
+      ],
+      [
+        "Eleven beskriver **översiktligt** kroppens försvarssystem."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** människokroppens uppbyggnad och funktion.",
+        "Vidare redogör eleven **utförligt** för kroppens vätske- och elektrolytbalans.",
+        "Dessutom redogör eleven **utförligt** för människans normala fysiska utveckling.",
+        "I beskrivningarna använder eleven **med viss säkerhet** medicinsk terminologi."
+      ],
+      [
+        "Eleven beskriver **utförligt** vanliga läkemedel, deras verkningssätt, hantering, användningsområden och biverkningar samt redogör för lagar och andra bestämmer som gäller för läkemedelsanvändning och läkemedelshantering.",
+        "Vidare utför eleven enkel läkemedelsberäkning med **tillfredsställande** resultat och bedömer relevansen av resultatet."
+      ],
+      [
+        "Eleven beskriver **utförligt** kroppens försvarssystem."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** människokroppens uppbyggnad och funktion.",
+        "Vidare redogör eleven **utförligt och nyanserat** för kroppens vätske- och elektrolytbalans.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för människans normala fysiska utveckling.",
+        "I beskrivningarna använder eleven **med säkerhet** medicinsk terminologi."
+      ],
+      [
+        "Eleven beskriver **utförligt och nyanserat** vanliga läkemedel, deras verkningssätt, hantering, användningsområden och biverkningar samt redogör för lagar och andra bestämmer som gäller för läkemedelsanvändning och läkemedelshantering.",
+        "Vidare utför eleven enkel läkemedelsberäkning med **gott** resultat och bedömer relevansen av resultatet."
+      ],
+      [
+        "Eleven beskriver **utförligt och nyanserat** kroppens försvarssystem."
+      ]
+    ]
+  }
+}

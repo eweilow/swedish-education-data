@@ -1,0 +1,95 @@
+{
+  "subject": "KOR",
+  "title": "Mekanik och hållfasthetslära",
+  "code": "KORMEK3",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för, <strong>och visar i några fall specialiserade kunskaper om</strong>, mekaniken och hållfasthetslärans roll i konstruktionsarbetet.",
+        "Eleven resonerar <strong>utförligt och nyanserat</strong> för, <strong>och visar i några fall specialiserade kunskaper om</strong>, innebörden av teorier, modeller och begrepp inom mekanik och hållfasthetslära samt använder dem för att lösa <strong>både bekanta och obekanta</strong> problem och konstruktionsuppgifter med <strong>gott</strong> resultat."
+      ],
+      [
+        "I sitt arbete gör eleven <strong>med mycket god säkerhet</strong> relevanta antaganden för att kunna göra mekanik- och hållfasthetsberäkningar samt motiverar dessa antaganden med <strong>välgrundade och nyanserade</strong> resonemang.",
+        "Dessutom resonerar eleven <strong>utförligt och nyanserat</strong> kring vald metods begränsningar och resultatets rimlighet.",
+        "Eleven använder <strong>med mycket god säkerhet</strong> manuella och datorstödda verktyg för mekanik- och hållfasthetsberäkning samt redogör <strong>utförligt och nyanserat</strong> för dess egenskaper och begränsningar.",
+        "Eleven tar i sitt arbete hänsyn till standarder och normer."
+      ],
+      [
+        "Eleven värderar med <strong>välgrundade och nyanserade</strong> omdömen, material med hänsyn till mekanik och hållfasthet.",
+        "Utifrån ett givet system delar eleven upp systemet i delsystem och använder det <strong>med mycket god säkerhet</strong> i problemlösning.",
+        "Eleven utför <strong>med mycket god säkerhet</strong> provning av konstruktioners hållfasthet via <strong>avancerade</strong> mätningar, simuleringar och test både manuellt och med hjälp av datorer."
+      ],
+      [
+        "Eleven dokumenterar och redovisar <strong>med mycket god säkerhet</strong> mekanik- och hållfasthetsberäkningar."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör <strong>utförlig</strong>t för, <strong>och visar i något fall specialiserade kunskaper om,</strong> mekaniken och hållfasthetslärans roll i konstruktionsarbetet.",
+        "Eleven resonerar <strong>utförligt</strong> för, <strong>och visar i något fall specialiserade kunskaper om,</strong> innebörden av teorier, modeller och begrepp inom mekanik och hållfasthetslära samt använder dem för att lösa <strong>i huvudsak bekanta, men också obekanta,</strong> problem och konstruktionsuppgifter med <strong>gott</strong> resultat."
+      ],
+      [
+        "I sitt arbete gör eleven <strong>med god säkerhet</strong> relevanta antaganden för att kunna göra mekanik- och hållfasthetsberäkningar samt motiverar dessa antaganden med <strong>välgrundade och nyanserade</strong> resonemang.",
+        "Dessutom resonerar eleven <strong>utförligt</strong> kring vald metods begränsningar och resultatets rimlighet.",
+        "Eleven använder <strong>med god säkerhet</strong> manuella och datorstödda verktyg för mekanik- och hållfasthetsberäkning samt redogör <strong>utförligt</strong> för deras egenskaper och begränsningar.",
+        "Eleven tar i sitt arbete hänsyn till standarder och normer."
+      ],
+      [
+        "Eleven värderar med <strong>välgrundade och nyanserade</strong> omdömen material med hänsyn till mekanik och hållfasthet.",
+        "Utifrån ett givet system delar eleven upp systemet i delsystem och använder det <strong>med god säkerhet</strong> i problemlösning.",
+        "Eleven utför <strong>med god säkerhet</strong> provning av konstruktioners hållfasthet via mätningar, simuleringar och test både manuellt och med hjälp av datorer."
+      ],
+      [
+        "Eleven dokumenterar och redovisar <strong>med god säkerhet</strong> mekanik- och hållfasthetsberäkningar."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven redogör <strong>övergripande</strong> för mekaniken och hållfasthetslärans roll i konstruktionsarbetet.",
+        "Eleven resonerar <strong>övergripande</strong> om innebörden av teorier, modeller och begrepp inom mekanik och hållfasthetslära samt använder dem för att lösa <strong>bekanta</strong> problem och konstruktionsuppgifter med <strong>tillfredsställande</strong> resultat."
+      ],
+      [
+        "I sitt arbete gör eleven <strong>med säkerhet</strong> relevanta antaganden för att kunna göra mekanik- och hållfasthetsberäkningar samt motiverar dessa antaganden med <strong>välgrundade</strong> resonemang.",
+        "Dessutom resonerar eleven <strong>översiktligt</strong> kring vald metods begränsningar och resultatets rimlighet.",
+        "Eleven använder <strong>med säkerhet</strong> manuella och datorstödda verktyg för mekanik- och hållfasthetsberäkning samt redogör <strong>övergripande</strong> för deras egenskaper och begränsningar.",
+        "Eleven tar i sitt arbete hänsyn till standarder och normer."
+      ],
+      [
+        "Eleven värderar med <strong>välgrundade</strong> omdömen material med hänsyn till mekanik och hållfasthet.",
+        "Utifrån ett givet system delar eleven upp systemet i delsystem och använder det <strong>med säkerhet</strong> i problemlösning.",
+        "Eleven utför <strong>med säkerhet</strong> provning av konstruktioners hållfasthet via mätningar, simuleringar och test både manuellt och med hjälp av datorer."
+      ],
+      [
+        "Eleven dokumenterar och redovisar <strong>med säkerhet</strong> mekanik- och hållfasthetsberäkningar."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Mekanikens och hållfasthetslärans roll i konstruktionsarbetet.",
+        "Fördjupning i teorier, modeller och begrepp inom mekanik och hållfasthetslära och konstruktionsmässiga tillämpningar av dessa.",
+        "Metod och struktur för mekanik- och hållfasthetsberäkning och dimensionering samt rimlighetsbedömning.",
+        "Antaganden och motivering för mekanik- och hållfasthetsberäkningar.",
+        "Manuella och datorstödda verktyg för mekanik- och hållfasthetsberäkning och dimensionering, samt deras egenskaper och begränsningar.",
+        "Relevanta standarder och normer för beräkningar och dimensionering.",
+        "Utvärdering av material utifrån teorier och modeller i mekanik och hållfasthetslära.",
+        "Analys av tekniska system för att kunna utföra mekanik- och hållfasthetsberäkningar och dimensionering, till exempel vid friläggning.",
+        "Manuell och datorstödd provning av en konstruktions hållfasthet via mätningar, simuleringar och test.",
+        "Dokumentation och redovisning av mekanik- och hållfasthetsberäkning."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen mekanik och hållfasthetslära omfattar punkterna 1-4 och 7-9 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    6,
+    7,
+    8
+  ]
+}

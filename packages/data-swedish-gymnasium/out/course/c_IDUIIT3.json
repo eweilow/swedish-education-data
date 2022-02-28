@@ -1,0 +1,107 @@
+{
+  "subject": "IDU",
+  "title": "Industriell it",
+  "code": "IDUIIT3",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för industriella it-systems uppbyggnad, användningsområde och funktion samt deras betydelse för automatiserade processer.",
+        "Vidare redogör eleven <strong>utförligt och nyanserat</strong> för vanligt förekommande standarder inom industriell it.",
+        "Eleven resonerar <strong>utförligt och nyanserat</strong> kring tekniska begrepp, definitioner och användningsområden för industriell it."
+      ],
+      [
+        "Eleven använder <strong>med mycket god säkerhet</strong> programverktyg för simulering av industriella it-system kopplade till en automatiserad process.",
+        "Eleven resonerar <strong>med mycket god säkerhet</strong> kring hur industriella it-system kan påverka social, ekonomisk och ekologisk hållbarhet."
+      ],
+      [
+        "Eleven strukturerar <strong>självständigt</strong> kommunikation och konfiguration mellan olika system och andra enheter, internt och externt.",
+        "Eleven genomför <strong>självständigt</strong> planering och programskrivning för industriella it-system samt ändring och definition av variabler och systemparametrar.",
+        "Vidare genomför eleven kontroll före drifttagning och provkörning av program samt utför <strong>med mycket god säkerhet</strong> arbete i industriella it-system gällande både person och utrustning."
+      ],
+      [
+        "Eleven analyserar, förbättrar och optimerar befintliga industriella it-system och ger förslag på åtgärder.",
+        "Vidare felsöker eleven <strong>självständigt</strong> med hjälp av program, manualer och dokument i industriella it-system.",
+        "Eleven dokumenterar <strong>utförligt och nyanserat</strong> industriella it-system med muntliga, skriftliga och digitala metoder.",
+        "Eleven bedömer komponenter samt ersätter och konfigurerar <strong>självständigt</strong> defekta delar."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör <strong>utförligt</strong> för industriella it-systems uppbyggnad, användningsområde och funktion samt deras betydelse för automatiserade processer.",
+        "Vidare redogör eleven <strong>utförligt</strong> för vanligt förekommande standarder inom industriell it.",
+        "Eleven resonerar <strong>utförligt</strong> kring tekniska begrepp, definitioner och användningsområden för industriell it."
+      ],
+      [
+        "Eleven använder <strong>med god säkerhet</strong> programverktyg för simulering av industriella it-system kopplade till en automatiserad process.",
+        "Eleven resonerar <strong>med god säkerhet</strong> kring hur industriella it-system kan påverka social, ekonomisk och ekologisk hållbarhet."
+      ],
+      [
+        "Eleven strukturerar <strong>självständigt efter samråd</strong> med handledare kommunikation och konfiguration mellan olika system och andra enheter, internt och externt.",
+        "Eleven genomför <strong>självständigt efter samråd</strong> med handledare planering och programskrivning för industriella it-system samt ändring och definition av variabler och systemparametrar.",
+        "Vidare genomför eleven kontroll före drifttagning och provkörning av program samt utför <strong>med god säkerhet</strong> arbete i industriella it-system gällande både person och utrustning."
+      ],
+      [
+        "Eleven analyserar, förbättrar och optimerar befintliga industriella it-system och ger förslag på åtgärder.",
+        "Vidare felsöker eleven <strong>självständigt efter samråd</strong> med handledare med hjälp av program, manualer och dokument i industriella it-system.",
+        "Eleven dokumenterar <strong>utförligt</strong> industriella it-system med muntliga, skriftliga och digitala metoder.",
+        "Eleven bedömer komponenter samt ersätter och konfigurerar <strong>självständigt efter samråd</strong> med handledare defekta delar."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven redogör <strong>övergripande</strong> för industriella it-systems uppbyggnad, användningsområde och funktion samt deras betydelse för automatiserade processer.",
+        "Vidare redogör eleven <strong>övergripande</strong> för vanligt förekommande standarder inom industriell it.",
+        "Eleven resonerar <strong>övergripande</strong> kring tekniska begrepp, definitioner och användningsområden för industriell it."
+      ],
+      [
+        "Eleven använder <strong>med säkerhet</strong> programverktyg för simulering av industriella it-system kopplade till en automatiserad process.",
+        "Eleven resonerar <strong>med säkerhet</strong> kring hur industriella it-system kan påverka social, ekonomisk och ekologisk hållbarhet."
+      ],
+      [
+        "Eleven strukturerar <strong>efter samråd</strong> med handledare kommunikation och konfiguration mellan olika system och andra enheter, internt och externt.",
+        "Eleven genomför <strong>efter samråd</strong> med handledare planering och programskrivning för industriella it-system samt ändring och definition av variabler och systemparametrar.",
+        "Vidare genomför eleven kontroll före drifttagning och provkörning av program samt utför <strong>med säkerhet</strong> arbete i industriella it-system gällande både person och utrustning."
+      ],
+      [
+        "Eleven analyserar, förbättrar och optimerar befintliga industriella it-system och ger förslag på åtgärder.",
+        "Vidare felsöker eleven <strong>efter samråd</strong> med handledare, med hjälp av program, manualer och dokument i industriella it-system.",
+        "Eleven dokumenterar <strong>övergripande</strong> industriella it-system med både muntliga, skriftliga och digitala metoder.",
+        "Eleven bedömer komponenter samt ersätter och konfigurerar <strong>efter samråd</strong> med handledare defekta delar."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Funktion, principer och uppbyggnad av olika typer av industriella it-system.",
+        "Arbetsmiljö och säkerhet vid arbete med automatiserade system.",
+        "Nätverkstopologier, OSI-modellen, standarder och protokoll med tillämpning inom industriell it.",
+        "Programvaror för kontroll, övervakning och datainsamling.",
+        "Fältbussar och trådlös informationsteknik.",
+        "Program för simulering av industriell it.",
+        "Konsekvenser vid införandet av it-lösningar i produktion.",
+        "Driftsäkerhet och spårbarhet inom industriell informationsteknik.",
+        "Planering, montering, konfigurering och driftsättning av industriell informationsteknisk hårdvara för datainsamling från mät-, styr- eller reglertekniska applikationer.",
+        "Installering och konfigurering av industriell programvara för datainsamling, till exempel OPC-server och -klient.",
+        "Analys och bedömning av insamlad data med avseende på till exempel datakvalitet och funktion.",
+        "Tolkning av dokumentation, till exempel hård- och mjukvarors manualer.",
+        "Metoder för systematisk dokumentation i projekt, till exempel PDM (Product Data Management).",
+        "Systematisk dokumentation med hjälp av till exempel loggningsdata eller databashanterare.",
+        "Förebyggande underhåll samt felsökning och reparation av industriella it-system."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen industriell it omfattar punkterna 1-8 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]
+}

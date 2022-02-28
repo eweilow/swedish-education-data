@@ -1,0 +1,35 @@
+{
+  "title": "Teknik",
+  "code": "TEK",
+  "developmentPurposes": [
+    "Kunskaper om teknikutvecklingsprocessen och förståelse av sambanden mellan de olika delarna i den.",
+    "Förmåga att analysera och värdera tekniska lösningar med hänsyn tagen till ett hållbart samhälle.",
+    "Förmåga att lösa tekniska problem.",
+    "Förmåga att använda teknikvetenskapliga metoder, begrepp och teorier.",
+    "Förmåga att använda modeller och verktyg som redskap för analys, beräkning, rimlighetsbedömning, dokumentation, presentation och information.",
+    "Kunskaper om hur teknik har utvecklats och utvecklas i samspel med det omgivande samhället samt kunskaper om befintlig teknik och aktuell teknikutveckling.",
+    "Kunskaper om teknikens roll och drivkrafter ur ett etiskt perspektiv.",
+    "Kunskaper om hur föreställningar och traditioner inom teknikområdet styr uppfattningar om vad som är manligt och kvinnligt och hur det har påverkat och påverkar teknik och teknikutveckling.",
+    "Förmåga att kommunicera inom det tekniska området samt kommunicera om teknik."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet teknik ska syfta till att eleverna utvecklar kunskaper om teknik, teknikvetenskap och tekniska utvecklingsprocesser. Den ska leda till att eleverna utvecklar förståelse av processerna och hela kedjan från idé och modell, produkt eller tjänst till användning och återvinning. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om befintlig teknik och om utveckling av ny teknik som bidrar till ett mer hållbart samhälle.",
+    "Undervisningen ska belysa hur teknik har utvecklats och utvecklas i växelverkan med det omgivande samhället. Därutöver ska eleverna ges möjlighet att utveckla kunskaper om föreställningar om manligt och kvinnligt i förhållande till teknik. Dessutom ska eleverna få möjlighet att utveckla kunskaper om människors olika förutsättningar för och tillgänglighet till teknik och teknikutveckling.",
+    "Undervisningen ska förbereda eleverna för att aktivt delta i och påverka teknisk utveckling utifrån ett etiskt förhållningssätt Dessutom ska undervisningen bidra till att eleverna utvecklar kunskaper om entreprenörskap genom att utveckla deras förmåga till handling, innovation, och problemlösning. Genom undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om tekniska begrepp samt ge kunskaper i att kommunicera om teknik.",
+    "Undervisningen ska ge eleverna möjlighet att utveckla tekniska kunskaper genom att arbeta med mätningar, observationer, experiment, tekniska beräkningar, matematiska modelleringar samt risk- och rimlighetsbedömningar. Undervisningen ska också leda till att eleverna utvecklar förmåga till analys och värdering. Eleverna ska också ges möjlighet att arbeta i projekt."
+  ],
+  "courseInfo": {
+    "TEKTEK01": "Teknik 1, 150 poäng.",
+    "TEKTEK02": "Teknik 2, 100 poäng.",
+    "TEKTEK00S": "Teknik - specialisering, 100 poäng."
+  },
+  "description": "Ämnet teknik är till sin karaktär tvärvetenskapligt. Teknik handlar om att uppfylla människors behov och önskemål genom att omvandla naturens fysiska resurser eller immateriella tillgångar i produkter, processer, anläggningar och system. Ämnet belyser teknikens roll i samhällsutvecklingen och samspelet mellan människa och natur.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "applicableFrom": "2010-11-11T08:29:22.000Z",
+  "modifiedDate": "2020-02-19T15:02:21.000Z",
+  "courses": [
+    "TEKTEK01",
+    "TEKTEK02",
+    "TEKTEK00S"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "name": "Skeppsteknik",
+  "code": "FARSKE0",
+  "focusAreas": {
+    "string": "Kursen skeppsteknik omfattar punkterna 1-3 och 6-7 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "entries": [
+      "1-3",
+      "6-7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Olika fartygstypers konstruktion.",
+          "2. Fartygs huvuddimensioner och form.",
+          "3. Skeppsmätning.",
+          "4. Lastlinjekonventionen.",
+          "5. Fartygs påkänningar.",
+          "6. Faktorer som påverkar fartygs stabilitet.",
+          "7. Hydrostatiska data."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** fartygs konstruktion och stabilitetsegenskaper samt de faktorer som påverkar fartygs stabilitet."
+      ],
+      [
+        "Eleven utför **i samråd** med handledare enklare djupgående- och stabilitetsberäkningar samt använder **med viss säkerhet** metoder och hjälpmedel som är lämpliga för uppgiften.",
+        "Vid beräkningarna gör eleven **enkla** anpassningar utifrån nya förutsättningar.",
+        "Eleven utför uppgifterna med **tillfredsställande** resultat."
+      ],
+      [
+        "Eleven beskriver **översiktligt** lagar och andra bestämmelser som gäller inom området."
+      ],
+      [
+        "I beskrivningar och beräkningar använder eleven **med viss säkerhet** termer och begrepp som är relevanta för området."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** fartygs konstruktion och stabilitetsegenskaper samt de faktorer som påverkar fartygs stabilitet."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare enklare djupgående- och stabilitetsberäkningar samt använder **med viss säkerhet** metoder och hjälpmedel som är lämpliga för uppgiften.",
+        "Vid beräkningarna gör eleven anpassningar utifrån nya förutsättningar.",
+        "Eleven utför uppgifterna med **tillfredsställande** resultat."
+      ],
+      [
+        "Eleven beskriver **utförligt** lagar och andra bestämmelser som gäller inom området."
+      ],
+      [
+        "I beskrivningar och beräkningar använder eleven **med viss säkerhet** termer och begrepp som är relevanta för området."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** fartygs konstruktion och stabilitetsegenskaper samt de faktorer som påverkar fartygs stabilitet."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare enklare djupgående- och stabilitetsberäkningar samt använder **med säkerhet** metoder och hjälpmedel som är lämpliga för uppgiften.",
+        "Vid beräkningarna gör eleven **välgrundade** anpassningar utifrån nya förutsättningar.",
+        "Eleven utför uppgifterna med **gott** resultat."
+      ],
+      [
+        "Eleven beskriver **utförligt** lagar och andra bestämmelser som gäller inom området."
+      ],
+      [
+        "I beskrivningar och beräkningar använder eleven **med säkerhet** termer och begrepp som är relevanta för området."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

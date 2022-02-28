@@ -1,0 +1,144 @@
+{
+  "subject": "GRÄ",
+  "title": "Gränssnitt 3D",
+  "code": "GRÄGRN0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven gör en <strong>genomarbetad</strong> projektplan för att utveckla ett gränssnitt till en applikation.",
+        "Projektplanen innehåller en <strong>komplex</strong> problemformulering utifrån kundönskemål, identifikation av målgruppen och dess behov samt projektets tekniska förutsättningar.",
+        "Eleven värderar med <strong>nyanserade</strong> omdömen sin projektplan <strong>ur flera perspektiv samt föreslår vid behov förbättringar av planen</strong>."
+      ],
+      [
+        "Eleven utvecklar några tredimensionella objekt.",
+        "Eleven utformar också med <strong>gott</strong> resultat navigation och interaktivitet för en virtuell miljö eller förstärkt verklighet.",
+        "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för olika datakällor som kan användas för att ge information till användaren av gränssnittet."
+      ],
+      [
+        "Eleven bearbetar gränssnittet på <strong>flera olika</strong> sätt enligt principer för visuell design.",
+        "Resultatet är <strong>gott</strong> och anpassat till användarens behov utifrån <strong>flera</strong> principer för användbarhet.",
+        "Detta gör eleven genom att anpassa den visuella designen och interaktionen, så att gränssnittet har en <strong>god</strong> kvalitet i fråga om uppfattningsbarhet och användbarhet också för användare med funktionsnedsättningar."
+      ],
+      [
+        "Eleven följer <strong>flera</strong> av de vedertagna konventioner som finns för den typ av applikation för vilken gränssnittet är avsett.",
+        "Eleven utvecklar en huvudsakligen interaktiv prototyp med <strong>gott</strong> resultat i fråga om funktion, utseende och användbarhet.",
+        "Dessutom testar eleven prototypens användbarhet med <strong>flera</strong> metoder.",
+        "Eleven kompletterar prototypen med en stilguide som täcker <strong>flera</strong> av designens viktiga delar."
+      ],
+      [
+        "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat utifrån projektplanen.",
+        "<strong>Dessutom ger eleven förslag på hur arbetet kan förbättras</strong>.",
+        "I utvärderingen diskuterar eleven <strong>utförligt och nyanserat</strong> hur det egna gränssnittet förhåller sig till teoribildningen om människa-datorinteraktion."
+      ],
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong>, utifrån några exempel i vardagen, för på vilket sätt integritet och etik har betydelse för utformningen av datorsystem, gränssnitt och tjänster utformade efter geografisk kontext.",
+        "Dessutom hänvisar eleven i sin redogörelse till lagar och andra bestämmelser inom området."
+      ],
+      [
+        "Eleven använder <strong>med säkerhet</strong> terminologi inom området."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven gör en <strong>genomarbetad</strong> projektplan för att utveckla ett gränssnitt till en applikation.",
+        "Projektplanen innehåller en problemformulering utifrån kundönskemål, identifikation av målgruppen och dess behov samt projektets tekniska förutsättningar.",
+        "Eleven värderar med <strong>nyanserade</strong> omdömen sin projektplan."
+      ],
+      [
+        "Eleven utvecklar några tredimensionella objekt.",
+        "Eleven utformar också med <strong>tillfredsställande</strong> resultat navigation och interaktivitet för en virtuell miljö eller förstärkt verklighet.",
+        "Dessutom redogör eleven <strong>utförligt</strong> för olika datakällor som kan användas för att ge information till användaren av gränssnittet."
+      ],
+      [
+        "Eleven bearbetar gränssnittet på <strong>några olika</strong> sätt enligt principer för visuell design.",
+        "Resultatet är <strong>tillfredsställande</strong> och anpassat till användarens behov utifrån <strong>några</strong> principer för användbarhet.",
+        "Detta gör eleven genom att anpassa den visuella designen och interaktionen så att gränssnittet har en <strong>tillfredsställande</strong> kvalitet i fråga om uppfattningsbarhet och användbarhet också för användare med funktionsnedsättningar."
+      ],
+      [
+        "Eleven följer <strong>några</strong> av de vedertagna konventioner som finns för den typ av applikation för vilken gränssnittet är avsett.",
+        "Eleven utvecklar en huvudsakligen interaktiv prototyp med <strong>tillfredsställande</strong> resultat i fråga om funktion, utseende och användbarhet.",
+        "Dessutom testar eleven prototypens användbarhet med <strong>några</strong> metoder.",
+        "Eleven kompletterar prototypen med en stilguide som täcker <strong>några</strong> av designens viktiga delar."
+      ],
+      [
+        "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete samt utvärderar med <strong>nyanserade</strong> omdömen sitt arbete och resultat utifrån projektplanen.",
+        null,
+        "I utvärderingen diskuterar eleven <strong>utförligt</strong> hur det egna gränssnittet förhåller sig till teoribildningen om människa-datorinteraktion."
+      ],
+      [
+        "Eleven redogör <strong>utförligt</strong>, utifrån några exempel i vardagen, för på vilket sätt integritet och etik har betydelse för utformningen av datorsystem, gränssnitt och tjänster utformade efter geografisk kontext.",
+        "Dessutom hänvisar eleven i sin redogörelse till lagar och andra bestämmelser inom området."
+      ],
+      [
+        "Eleven använder <strong>med viss säkerhet</strong> terminologi inom området."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven gör en <strong>enkel</strong> projektplan för att utveckla ett gränssnitt till en applikation.",
+        "Projektplanen innehåller en <strong>enkel</strong> problemformulering utifrån kundönskemål, identifikation av målgruppen och dess behov samt projektets tekniska förutsättningar.",
+        "Eleven värderar med <strong>enkla</strong> omdömen sin projektplan."
+      ],
+      [
+        "Eleven utvecklar några <strong>enkla</strong> tredimensionella objekt.",
+        "Eleven utformar också med <strong>tillfredsställande</strong> resultat navigation och interaktivitet för en virtuell miljö eller förstärkt verklighet.",
+        "Dessutom redogör eleven <strong>översiktligt</strong> för olika datakällor som kan användas för att ge information till användaren av gränssnittet."
+      ],
+      [
+        "Eleven bearbetar gränssnittet på <strong>något</strong> sätt enligt principer för visuell design.",
+        "Resultatet är <strong>tillfredsställande</strong> och anpassat till användarens behov utifrån <strong>någon enkel</strong> princip för användbarhet.",
+        "Detta gör eleven genom att anpassa den visuella designen och interaktionen så att gränssnittet har en <strong>tillfredsställande</strong> kvalitet i fråga om uppfattningsbarhet och användbarhet också för användare med funktionsnedsättningar."
+      ],
+      [
+        "Eleven följer <strong>någon</strong> av de vedertagna konventioner som finns för den typ av applikation för vilken gränssnittet är avsett.",
+        "Eleven utvecklar en huvudsakligen interaktiv prototyp med <strong>tillfredsställande</strong> resultat i fråga om funktion, utseende och användbarhet.",
+        "Dessutom testar eleven prototypens användbarhet med <strong>några enkla</strong> metoder.",
+        "Eleven kompletterar prototypen med en stilguide som täcker <strong>någon</strong> av designens viktiga delar."
+      ],
+      [
+        "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete samt utvärderar med <strong>enkla</strong> omdömen sitt arbete och resultat utifrån projektplanen.",
+        null,
+        "I utvärderingen diskuterar eleven <strong>översiktligt</strong> hur det egna gränssnittet förhåller sig till teoribildningen om människa-datorinteraktion."
+      ],
+      [
+        "Eleven redogör <strong>översiktligt</strong>, utifrån några exempel i vardagen, för på vilket sätt integritet och etik har betydelse för utformningen av datorsystem, gränssnitt och tjänster utformade efter geografisk kontext.",
+        "Dessutom hänvisar eleven i sin redogörelse till lagar och andra bestämmelser inom området."
+      ],
+      [
+        "Eleven använder <strong>med viss säkerhet</strong> terminologi inom området."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Begreppsbildning kring och användning av virtuell och förstärkt verklighet samt tjänster utformade efter geografisk kontext.",
+        "Genomförande av förstudier genom problemformulering utifrån kundönskemål, identifikation av målgrupper och typanvändare.",
+        "Undersökning av tekniska förutsättningar och formulering av målsättningar och framgångskriterier.",
+        "Genomförande av gränssnittsdesignprojekt med idégenerering, skisser, återkoppling till beställare, interaktiv prototyp, testning, dokumentation och överlämnande för implementering.",
+        "Datorstöd för projekthantering.",
+        "Utvecklingsverktyg för tredimensionell grafik.",
+        "Modellering och texturer.",
+        "Samverkan mellan tredimensionell användarmiljö, text och ljud.",
+        "Människa-datorinteraktion (HCI) samt användbarhet och tillgänglighet.",
+        "Metoder och teknik för navigation i tredimensionella miljöer.",
+        "Förflyttning genom tredimensionella miljöer och interaktion med tredimensionella objekt.",
+        "Datorsystem (ubicomp) och gränssnitt i vardagen.",
+        "Frågor som rör integritet och etik.",
+        "Lagar och andra bestämmelser inom området."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen gränssnitt 3D omfattar punkterna 1-7 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ]
+}

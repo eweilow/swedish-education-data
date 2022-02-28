@@ -1,0 +1,111 @@
+{
+  "subject": "INA",
+  "title": "Datakommunikation och informationssäkerhet",
+  "code": "INADAT3",
+  "points": 200,
+  "criteria": {
+    "A": [
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för begrepp och teorier inom teknikområdet och beskriver <strong>utförligt och nyanserat</strong> uppbyggnad, funktion och arbetssätt i system för datakommunikation och hur driftsäkerhet kan uppnås.",
+        "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för de samband som finns mellan de olika delarna som utgör ett system för datakommunikation och hur denna kommunikation kan ske informationssäkert."
+      ],
+      [
+        "Eleven analyserar <strong>efter samråd</strong> med handledare befintliga informationstekniska system för datakommunikation samt dokumenterar sin analys.",
+        "Resultatet av arbetet är <strong>gott</strong>.",
+        "Dessutom installerar, konfigurerar och felsöker eleven hård- och mjukvara på ett informationssäkert sätt.",
+        "Eleven utför arbetet med <strong>mycket gott</strong> handlag.",
+        "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner, manualer och andra dokument på både svenska och engelska.",
+        "Dessutom gör eleven en <strong>noggrann och utförlig</strong> dokumentation av arbetet så att systemet blir spårbart och lätt att underhålla.",
+        "Resultatet av arbetet är <strong>gott</strong> i fråga om informationssäkerhet, kvalitet och resurseffektivitet."
+      ],
+      [
+        "Eleven presenterar <strong>med säkerhet</strong> sitt arbete med hjälp av något presentationsverktyg."
+      ],
+      [
+        "När eleven samråder med handledare bedömer eleven <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör <strong>utförligt</strong> för begrepp och teorier inom teknikområdet och beskriver <strong>utförligt</strong> uppbyggnad, funktion och arbetssätt i system för datakommunikation och hur driftsäkerhet kan uppnås.",
+        "Dessutom redogör eleven <strong>utförligt</strong> för de samband som finns mellan de olika delarna som utgör ett system för datakommunikation och hur denna kommunikation kan ske informationssäkert."
+      ],
+      [
+        "Eleven analyserar <strong>efter samråd</strong> med handledare befintliga informationstekniska system för datakommunikation samt dokumenterar sin analys.",
+        "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+        "Dessutom installerar, konfigurerar och felsöker eleven hård- och mjukvara på ett informationssäkert sätt.",
+        "Eleven utför arbetet med <strong>gott</strong> handlag.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument på både svenska och engelska.",
+        "Dessutom gör eleven en <strong>noggrann</strong> dokumentation av arbetet så att systemet blir spårbart och lätt att underhålla.",
+        "Resultatet av arbetet är <strong>tillfredsställande</strong> i fråga om informationssäkerhet, kvalitet och resurseffektivitet."
+      ],
+      [
+        "Eleven presenterar <strong>med viss säkerhet</strong> sitt arbete med hjälp av något presentationsverktyg."
+      ],
+      [
+        "När eleven samråder med handledare bedömer eleven <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven redogör <strong>översiktligt</strong> för begrepp och teorier inom teknikområdet och beskriver <strong>översiktligt</strong> uppbyggnad, funktion och arbetssätt i system för datakommunikation och hur driftsäkerhet kan uppnås.",
+        "Dessutom redogör eleven <strong>översiktligt</strong> för de samband som finns mellan de olika delarna som utgör ett system för datakommunikation och hur denna kommunikation kan ske informationssäkert."
+      ],
+      [
+        "Eleven analyserar <strong>i samråd</strong> med handledare befintliga informationstekniska system för datakommunikation samt dokumenterar sin analys.",
+        "Resultatet av arbetet är <strong>tillfredsställande</strong>.",
+        "Dessutom installerar, konfigurerar och felsöker eleven hård- och mjukvara på ett informationssäkert sätt.",
+        "Eleven utför arbetet med <strong>visst</strong> handlag.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument på både svenska och engelska.",
+        "Dessutom gör eleven en <strong>enkel</strong> dokumentation av arbetet så att systemet blir spårbart och lätt att underhålla.",
+        "Resultatet av arbetet är <strong>tillfredsställande</strong> i fråga om informationssäkerhet, kvalitet och resurseffektivitet."
+      ],
+      [
+        "Eleven presenterar <strong>med viss säkerhet</strong> sitt arbete med hjälp av något presentationsverktyg."
+      ],
+      [
+        "När eleven samråder med handledare bedömer eleven <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Begreppen konfidentialitet, autenticitet, integritet och tillgänglighet ur ett informationssäkerhetsperspektiv.",
+        "Referensmodeller för uppbyggnad av system för datakommunikation.",
+        "Hårdvara i LAN (Local Area Network) och WAN (Wide Area Network) och deras användningsområden.",
+        "Paketförmedlande nät och inkapslingsprocessen. Dataflödet i en referensmodell.",
+        "TCP (Transmission Control Protocol). Funktion och konfigurering.",
+        "IP (Internet Protocol). Funktion och konfigurering i olika versioner. CIDR (Classless Inter-Domain Routing), sub- och supernetting.",
+        "Routningsprotokolls funktioner och konfigurering av routrar.",
+        "Accessmetoder och media för överföring av data, till exempel kopparbaserade, fiberbaserade och trådlösa tekniker.",
+        "Ethernets funktion och konfigurering. Konfigurering av ethernetswitchar.",
+        "Kartläggning och dokumentation av ett befintligt system för datakommunikation med avseende på fysisk struktur och informationssäkerhet.",
+        "Felsökningsmetodik i ett system för datakommunikation.",
+        "Vanliga motåtgärder för hot mot informationssäkerheten.",
+        "Vanliga krypteringsprotokolls funktion.",
+        "Autenticering och system för inloggning på vanligt förekommande nätverksoperativsystem.",
+        "Informationssäkerhet i trådlösa tekniker.",
+        "PKI (Public-Key Infrastructure), SSL (Secure Socket Layer) och system för certifikathantering. Installation och konfigurering av en PKI-lösning.",
+        "Virtuella LAN. Installation och konfigurering av flera VLAN.",
+        "NAT (Network Address Translation). Installation och konfigurering av NAT.",
+        "Olika varianter av VPN (Virtual Private Network). Installation och konfigurering av en fungerande VPN-lösning.",
+        "IPSec (Internet Protocol Security) och dess användning för att åstadkomma konfidentialitet, autenticitet och integritet.",
+        "Installation och konfigurering av en brandvägg.",
+        "Åtgärder mot förlust av data. Installation och konfigurering av system för säkerhetskopiering och återställning av data.",
+        "Presentationsverktyg som används inom kunskapsområdet."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen datakommunikation och informationssäkerhet omfattar punkterna 1-2, 4-7 och 9 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    3,
+    4,
+    5,
+    6,
+    8
+  ]
+}

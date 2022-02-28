@@ -1,0 +1,71 @@
+{
+  "name": "Gehörs- och musiklära 1",
+  "code": "MUIGEH01",
+  "focusAreas": {
+    "string": "Kursen gehörs- och musiklära 1 omfattar punkterna 1-5 och 9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1-3. I kursen behandlas grundläggande färdigheter i ämnet.",
+    "entries": [
+      "1-5",
+      "9"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Musiklära med föredragsbeteckningar, skalor, intervall, notation, notationspraxis, ackord och harmonisering.",
+          "2. Grundläggande musikteoretiska begrepp i en eller flera genrer samt jämförelse av de olika genrernas musikteoretiska begrepp.",
+          "3. Gehörsträning av puls, rytm, melodi, harmoni och form.",
+          "4. Grundläggande satslära och harmonisk analys.",
+          "5. Notering av klingande musik.",
+          "6. A prima vista-träning.",
+          "7. Aktivt lyssnande och diskussion om musikframförande."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **översiktligt** för musiklära.",
+        "Dessutom identifierar eleven **med viss säkerhet** och redogör **översiktligt** för några enkla musikaliska former.",
+        "I redogörelserna använder eleven **med viss säkerhet vanliga** musikteoretiska begrepp.",
+        "Eleven utför **med viss säkerhet enkla** gehörsövningar, noterar **enkla** klingande musikexempel och gör **enkla** musikaliska analysuppgifter i olika genrer."
+      ],
+      [
+        "Eleven skriver och läser **med viss säkerhet** noter i två klaver.",
+        "Eleven sjunger **med stöd** efter **enkla** notbilder och på gehör.",
+        null,
+        "Eleven värderar med **enkla** omdömen sitt musicerande med hjälp av musikteoretiska begrepp."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för musiklära.",
+        "Dessutom identifierar eleven **med viss säkerhet** och redogör **utförligt** för några enkla musikaliska former.",
+        "I redogörelsen använder eleven **med viss säkerhet** musikteoretiska begrepp.",
+        "Eleven utför **med viss säkerhet** gehörsövningar, noterar klingande musikexempel och gör musikaliska analysuppgifter i olika genrer."
+      ],
+      [
+        "Eleven skriver och läser **med viss säkerhet** noter i två klaver **samt musicerar efter noter i en klav**.",
+        "Eleven sjunger efter **enkla** notbilder och på gehör **med tillfredsställande kvalitet när det gäller rytm, melodi, harmonik och form**.",
+        "**I sitt musicerande kopplar eleven ihop gehör och musikteori**.",
+        "Eleven värderar med **nyanserade** omdömen sitt musicerande med hjälp av musikteoretiska begrepp."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för musiklära.",
+        "Dessutom identifierar eleven **med säkerhet** och redogör **utförligt och nyanserat** för några enkla musikaliska former.",
+        "I redogörelsen **gör eleven en välgrundad och nyanserad jämförelse av de musikaliska formerna samt** använder **med säkerhet** musikteoretiska begrepp.",
+        "Eleven utför **med säkerhet** gehörsövningar, noterar klingande musikexempel **med vedertagen notationspraxis** och gör **komplexa** musikaliska analysuppgifter i olika genrer **och med lämplig analysmodell**."
+      ],
+      [
+        "Eleven skriver och läser **med säkerhet** noter i två klaver **samt musicerar efter noter i minst två klaver**.",
+        "Eleven sjunger efter notbilder och på gehör **med god kvalitet när det gäller rytm, melodi, harmonik och form**.",
+        "**I sitt musicerande kopplar eleven ihop gehör och musikteori**.",
+        "Eleven värderar med **nyanserade** omdömen sitt musicerande med hjälp av musikteoretiska begrepp **samt ger förslag på hur musicerandet kan förbättras**."
+      ]
+    ]
+  }
+}

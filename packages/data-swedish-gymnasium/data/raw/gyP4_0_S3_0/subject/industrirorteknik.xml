@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Industrirörteknik</name>
+  <englishName>Industrial pipes</englishName>
+  <description
+  >&lt;p&gt;Ämnet industrirörteknik behandlar uppbyggnad och funktion av processrörsystem för värme- och tryckbärande utrustning. Det behandlar även sammanfogningstekniker som svetsning. Dessutom behandlas materiallära, apparater, komponenter och lyftanordningar.&lt;/p&gt;</description>
+  <code>IND</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2010-10-28T16:18:10+02:00</createdDate>
+  <modifiedDate>2020-02-19T15:57:02+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Industrirörteknik&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet industrirörteknik ska syfta till att eleverna utvecklar kunskaper om processrörsystem inom industrin och om hur dessa är uppbyggda och vilka krav som ställs på deras hållfasthet och funktion. Den ska också ge eleverna möjlighet att utveckla kunskaper om system och installationer av värme- och tryckbärande utrustning med högt ställda säkerhetskrav. &lt;/p&gt;&lt;p&gt;Undervisningen ska leda till att eleverna utvecklar kunskaper om grund- och tillsatsmaterial och om hur dessa förändras vid till exempel värmepåverkan. Eleverna ska även ges möjlighet att utveckla kunskaper om montering och installationsarbete, vilka arbetsmetoder som är lämpliga och hur lyftanordningar får användas. Undervisningen ska leda till att eleverna utvecklar kunskaper om vilka hjälpmedel som finns och hur en riskfri arbetsmiljö säkerställs. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om ritteknik och om hur information från ritningar används i beskrivningar och monteringsanvisningar. I undervisningen ska eleverna också ges möjlighet att utveckla servicekänsla samt initiativ-, problemlösnings- och samarbetsförmåga.&lt;/p&gt;&lt;p&gt;Undervisningen ska genomföras i laborativ miljö med ergonomiskt anpassade verktyg och maskiner samt annan utrustning som behövs för att utföra förekommande arbetsuppgifter. Den ska genomföras så att de praktiska och teoretiska kunskaperna kopplas samman.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet industrirörteknik ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om processrörsystems uppbyggnad och funktion samt de miljökrav som gäller för dessa.&lt;/li&gt; &lt;li&gt;Förmåga att planera och utföra rörmontage utifrån lagar och andra bestämmelser och fastställda kvalitetskrav.&lt;/li&gt; &lt;li&gt;Förmåga att använda ritningar med tillhörande handlingar.&lt;/li&gt; &lt;li&gt;Kunskaper om komponenter och apparater samt om material och metoder för sammanfogning enligt standarder och myndighetskrav.&lt;/li&gt; &lt;li&gt;Kunskaper om nya och beprövade produkter och material samt förmåga att utföra reparationer, service och underhåll på system och installationer.&lt;/li&gt; &lt;li&gt;Förmåga att utföra kontroller samt att värdera och dokumentera sitt arbete.&lt;/li&gt; &lt;li&gt;Kunskaper om arbetsmiljö, hälsa och säkerhet både för den som ska arbeta med och den som ska använda en installation.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Industrirörteknik 1, 100 poäng.&lt;/li&gt; &lt;li&gt;Industrirörteknik 2, 100 poäng, som bygger på kursen industrirörteknik 1. &lt;strong&gt; &lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Industrirörteknik 3, 200 poäng, som bygger på kursen industrirörteknik 2.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2010:77</skolfsId>
+  <applianceDate>2011-07-01T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Industrirörteknik 1</name>
+    <englishName>Industrial pipes 1</englishName>
+    <description
+    >&lt;p&gt;Kursen industrirörteknik 1 omfattar punkterna 1–7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>INDIND01</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Industrirörteknik 1, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: INDIND01&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;System i industriröranläggningar och övriga branschspecifika anläggningar för värme- och tryckbärande utrustning. Systemens uppbyggnad och funktion samt miljökrav och krav som ställs på deras hållfasthet.&lt;/li&gt; &lt;li&gt;Hur planering och organisering av arbetsplatsen och arbetsuppgiften genomförs. Hur montageplanering genomförs.&lt;/li&gt; &lt;li&gt;Ritningar, arbetsbeskrivningar och monteringsanvisningar.&lt;/li&gt; &lt;li&gt;Grundläggande rörarbete: tillkapning, skärning, sågning och fasning.&lt;/li&gt; &lt;li&gt;Måttsättning och beräkning av bygglängder.&lt;/li&gt; &lt;li&gt;Hjälpmedel och metoder för att fixera rörändar.&lt;/li&gt; &lt;li&gt;Verktyg. Maskiner för kapning och fasning samt andra maskiner. Lyftanordningar och utrustning för transporter samt krav som ställs vid lyft och transporter.&lt;/li&gt; &lt;li&gt;Medier i rörsystem, hur de påverkar hållfasthet och konstruktionens livslängd samt vilka krav som ställs vid nyinstallation och demontering av rörledningar och behållare.&lt;/li&gt; &lt;li&gt;Kontroll och bedömning av utförandet samt dokumentation av utförda åtgärder.&lt;/li&gt; &lt;li&gt;Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen. &lt;/li&gt; &lt;li&gt;Ergonomiskt riktigt arbetssätt.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; processrörsystems uppbyggnad och funktion samt de miljökrav som gäller för dem.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämplig arbetsmetod och teknik. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar, andra handlingar samt lagar och andra bestämmelser med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;komponenter och apparater samt material och metoder för sammanfogning. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; verktyg, maskiner, annan utrustning och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven ger exempel på, och redogör &lt;strong&gt;översiktligt &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på system och installationer. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;enkla &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; processrörsystems uppbyggnad och funktion samt de miljökrav som gäller för dem.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämplig arbetsmetod och teknik. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar, andra handlingar samt lagar och andra bestämmelser med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;komponenter och apparater samt material och metoder för sammanfogning. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; verktyg, maskiner, annan utrustning och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven ger exempel på, och redogör &lt;strong&gt;utförligt &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på system och installationer. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; processrörsystems uppbyggnad och funktion samt de miljökrav som gäller för dem.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;lämplig arbetsmetod och teknik. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar, andra handlingar samt lagar och andra bestämmelser med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;komponenter och apparater samt material och metoder för sammanfogning. Dessutom använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; verktyg, maskiner, annan utrustning och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven ger exempel på, och redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på system och installationer. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. Dessutom gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Industrirörteknik 2</name>
+    <englishName>Industrial pipes 2</englishName>
+    <description
+    >&lt;p&gt;Kursen indutrirörteknik 2 omfattar punkterna 1–7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>INDIND02</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Industrirörteknik 2, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: INDIND02&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;System i industriröranläggningar och övriga branschspecifika anläggningar för värme- och tryckbärande utrustning. Systemens uppbyggnad och funktion samt miljökrav och krav som ställs på deras hållfasthet.&lt;/li&gt; &lt;li&gt;Planering och organisering av arbetsplatsen och arbetsuppgiften. Montageplanering.&lt;/li&gt; &lt;li&gt;Isometriska ritningar, arbetsbeskrivningar och monteringsanvisningar för rörmontage i apparatrum och installationsutrymmen.&lt;/li&gt; &lt;li&gt;Svetsning av flänsar, rörförgreningar och böjar samt inpassning till apparater.&lt;/li&gt; &lt;li&gt;Måttsättning och beräkning av bygglängder samt tillverkning av passbitar och rörförgreningar.&lt;/li&gt; &lt;li&gt;Arbetsmetoder för svetsning i svåråtkomliga lägen.&lt;/li&gt; &lt;li&gt;Montering av rörstöd och upphängningsanordningar samt anpassningar av dessa för hållfasthet och rörkvalitet.&lt;/li&gt; &lt;li&gt;Verktyg. Maskiner för kapning och fasning samt andra maskiner. Annan utrustning och andra hjälpmedel.&lt;/li&gt; &lt;li&gt;Materiallära för stål med olika legeringar och tillsatsmaterial för svetsförband. Krav på hållfasthet för såväl tryck som temperatur.&lt;/li&gt; &lt;li&gt;Materialhantering vid leverans och förvaring vid arbetsplatser.&lt;/li&gt; &lt;li&gt;Kontroll och täthetsprovning samt bedömning av utförandet. Dokumentation av utförda åtgärder.&lt;/li&gt; &lt;li&gt;Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen. Ergonomiskt riktigt arbetssätt.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; processrörsystems uppbyggnad och funktion samt de miljökrav som gäller för dem.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämplig arbetsmetod och teknik. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar, andra handlingar samt lagar och andra bestämmelser med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;komponenter och apparater samt material och metoder för sammanfogning. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; verktyg, maskiner, annan utrustning och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven ger exempel på, och redogör &lt;strong&gt;översiktligt &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på system och installationer. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;enkla &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; processrörsystems uppbyggnad och funktion samt de miljökrav som gäller för dem.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämplig arbetsmetod och teknik. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar, andra handlingar samt lagar och andra bestämmelser med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;komponenter och apparater samt material och metoder för sammanfogning. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; verktyg, maskiner, annan utrustning och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven ger exempel på, och redogör &lt;strong&gt;utförligt &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på system och installationer. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; processrörsystems uppbyggnad och funktion samt de miljökrav som gäller för dem.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;lämplig arbetsmetod och teknik. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar, andra handlingar samt lagar och andra bestämmelser med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;komponenter och apparater samt material och metoder för sammanfogning. Dessutom använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; verktyg, maskiner, annan utrustning och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven ger exempel på, och redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på system och installationer. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. Dessutom gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Industrirörteknik 3</name>
+    <englishName>Industrial pipes 3</englishName>
+    <description
+    >&lt;p&gt;Kursen industrirör 3 omfattar punkterna 1–7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>INDIND03</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Industrirörteknik 3, 200 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: INDIND03&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;System i industriröranläggningar och övriga branschspecifika anläggningar för värme- och tryckbärande utrustning. Systemens uppbyggnad och funktion samt miljökrav och krav som ställs på deras hållfasthet.&lt;/li&gt; &lt;li&gt;Planering och organisering av arbetsplatsen och arbetsuppgiften. Montageplanering.&lt;/li&gt; &lt;li&gt;Isometriska ritningar, arbetsbeskrivningar och monteringsanvisningar för prefabricering av rördetaljer och rörmontage.&lt;/li&gt; &lt;li&gt;Metoder för fogförberedelse av stutsförband till rör och behållare.&lt;/li&gt; &lt;li&gt;Tillverkning av prefabricerade rördelar.&lt;/li&gt; &lt;li&gt;Tillverkning av rörstöd och konstruktioner för upphängningsanordningar vid rörmontage i apparatutrymmen och rörgator.&lt;/li&gt; &lt;li&gt;Tillverkning och montering av rörstyrningar, stödfixeringar och glidstöd.&lt;/li&gt; &lt;li&gt;Montering av ventiler, pumpar och övriga apparater med förekommande anslutningsdetaljer, till exempel gängförband, flänsförband och svetsförband.&lt;/li&gt; &lt;li&gt;Riktning och värmebehandling av rör och stålprofiler.&lt;/li&gt; &lt;li&gt;Verktyg. Maskiner för kapning och fasning samt andra maskiner. Annan utrustning och andra hjälpmedel.&lt;/li&gt; &lt;li&gt;Materiallära för stål och dess legeringar samt egenskaper för inre och yttre påverkan av hållfasthet i material för rör, rörstöd och i konstruktioner för upphängningar.&lt;/li&gt; &lt;li&gt;Kvalitetssäkring vid hantering av material vid leverans och förvaring vid arbetsplatser.&lt;/li&gt; &lt;li&gt;Kontroll och täthetsprovning samt bedömning av utförandet. Dokumentation av utförda åtgärder.&lt;/li&gt; &lt;li&gt;Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen. Ergonomiskt riktigt arbetssätt.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>200</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; processrörsystems uppbyggnad och funktion samt de miljökrav som gäller för dem.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämplig arbetsmetod och teknik. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar, andra handlingar samt lagar och andra bestämmelser med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;komponenter och apparater samt material och metoder för sammanfogning. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; verktyg, maskiner, annan utrustning och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven ger exempel på, och redogör &lt;strong&gt;översiktligt &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på system och installationer. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;enkla &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; processrörsystems uppbyggnad och funktion samt de miljökrav som gäller för dem.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämplig arbetsmetod och teknik. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar, andra handlingar samt lagar och andra bestämmelser med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;komponenter och apparater samt material och metoder för sammanfogning. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; verktyg, maskiner, annan utrustning och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven ger exempel på, och redogör &lt;strong&gt;utförligt &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på system och installationer. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; processrörsystems uppbyggnad och funktion samt de miljökrav som gäller för dem.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;lämplig arbetsmetod och teknik. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån ritningar, andra handlingar samt lagar och andra bestämmelser med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;komponenter och apparater samt material och metoder för sammanfogning. Dessutom använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; verktyg, maskiner, annan utrustning och andra hjälpmedel samt följer föreskrifter och anvisningar för dem.&lt;/p&gt;&lt;p&gt;Eleven ger exempel på, och redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;utifrån dessa för, nya och beprövade produkter och material. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare reparationer, service och underhåll på system och installationer. Under arbetets gång och när arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. Dessutom gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;Eleven arbetar ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

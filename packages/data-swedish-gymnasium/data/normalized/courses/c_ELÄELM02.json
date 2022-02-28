@@ -1,0 +1,88 @@
+{
+  "name": "Elmätteknik 2",
+  "code": "ELÄELM02",
+  "focusAreas": {
+    "string": "Kursen elmätteknik 2 omfattar punkterna 1-7 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Mättekniska begrepp, särskilt hur spårbarhet skapas.",
+          "2. Oscilloskop och multimeter, funktion och användningsområden. Användning av oscilloskop och multimeter för mätning av ström, spänning och impedans samt dessa storheters variation i tiden.",
+          "3. Spektrumanalysatorer för att mäta olika egenskaper hos elektriska mätobjekt genom att analysera tidssignalen och signalens spektrum.",
+          "4. Fysikaliska funktioner hos olika mätgivare samt användningsområden för dessa. Val av mätgivare.",
+          "5. Orsaker till att elektriska störningar uppstår, hur de fortplantas och hur de kan reduceras.",
+          "6. Metoder för analys av mätresultat. Mätresultats osäkerhet.",
+          "7. Standarder och metoder för dokumentation av mätresultat."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **översiktligt** för grundläggande begrepp inom området mätteknik."
+      ],
+      [
+        "Eleven använder **i samråd** med handledare oscilloskop och multimeter för att mäta ström, spänning och impedans samt dokumenterar **med tillfredsställande resultat** dessa storheters variation i tiden enligt gällande standarder.",
+        "Med hjälp av spektrumanalysator mäter eleven några variabler hos elektriska mätobjekt och analyserar dessa **med viss säkerhet**.",
+        "Eleven väljer mätgivare och använder den **med viss säkerhet**.",
+        "Eleven beskriver **översiktligt** hur mätgivare fungerar och när de ska användas.",
+        "Dessutom motiverar eleven **översiktligt** sitt val av mätgivare."
+      ],
+      [
+        "Eleven gör en **enkel** tolkning av sina mätresultat.",
+        "I samband med tolkningen redogör eleven **översiktligt** för hur elektriska störningar kan påverka mätresultat samt hur de uppstår, fortplantas och kan reduceras.",
+        "Eleven gör en **enkel** dokumentation av mätresultaten."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för grundläggande begrepp inom området mätteknik."
+      ],
+      [
+        "Eleven använder **efter samråd** med handledare oscilloskop och multimeter för att mäta ström, spänning och impedans samt dokumenterar **med tillfredsställande resultat** dessa storheters variation i tiden enligt gällande standarder.",
+        "Med hjälp av spektrumanalysator mäter eleven några variabler hos elektriska mätobjekt och analyserar dessa **med viss säkerhet**.",
+        "Eleven väljer mätgivare och använder den **med viss säkerhet**.",
+        "Eleven beskriver **utförligt** hur mätgivare fungerar och när de ska användas.",
+        "Dessutom motiverar eleven **utförligt** sitt val av mätgivare."
+      ],
+      [
+        "Eleven gör en tolkning av sina mätresultat.",
+        "I samband med tolkningen redogör eleven **utförligt** för hur elektriska störningar kan påverka mätresultat samt hur de uppstår, fortplantas och kan reduceras.",
+        "Eleven gör en **noggrann** dokumentation av mätresultaten."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för grundläggande begrepp inom området mätteknik."
+      ],
+      [
+        "Eleven använder **efter samråd** med handledare oscilloskop och multimeter för att mäta ström, spänning och impedans samt dokumenterar **med gott resultat** dessa storheters variation i tiden enligt gällande standarder.",
+        "Med hjälp av spektrumanalysator mäter eleven några variabler hos elektriska mätobjekt och analyserar dessa **med säkerhet**.",
+        "Eleven väljer mätgivare och använder den **med säkerhet**.",
+        "Eleven beskriver **utförligt och nyanserat** hur mätgivare fungerar och när de ska användas.",
+        "Dessutom motiverar eleven **utförligt och nyanserat** sitt val av mätgivare."
+      ],
+      [
+        "Eleven gör en **komplex** tolkning av sina mätresultat.",
+        "I samband med tolkningen redogör eleven **utförligt och nyanserat** för hur elektriska störningar kan påverka mätresultat samt hur de uppstår, fortplantas och kan reduceras.",
+        "Eleven gör en **noggrann och utförlig** dokumentation av mätresultaten."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

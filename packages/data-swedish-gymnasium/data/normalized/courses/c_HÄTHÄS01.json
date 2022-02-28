@@ -1,0 +1,122 @@
+{
+  "name": "Hästkunskap 1",
+  "code": "HÄTHÄS01",
+  "focusAreas": {
+    "string": "Kursen hästkunskap 1 omfattar punkterna 1-4, 6-7 och 9-10 under rubriken Ämnets syfte, med särskild betoning på punkterna 3, 6-7 och 10.",
+    "entries": [
+      "1-4",
+      "6-7",
+      "9-10"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Biologisk grund",
+        "rows": [
+          "1. Olika hästraser: exteriör, signalement, ursprung och användningsområden.",
+          "2. Hovens uppbyggnad och funktion. Sjukdomar och sjukdomssymtom i hoven.",
+          "3. Hästars beteenden, historia och domesticering. Hästars roll i samhället genom tiderna.",
+          "4. Olika fodermedel och grovfoderproduktion samt foderkvalitet och näringsinnehåll.",
+          "5. Hästars näringsbehov: underhållsbehov samt tillägg för föl, unghästar och vuxna hästar.",
+          "6. Smittskydd och hygien.",
+          "7. Etik i samband med skötsel och hållande av hästar."
+        ]
+      },
+      {
+        "title": "Arbetsuppgifter",
+        "rows": [
+          "1. Hästskötsel, till exempel rykt, hovskötsel, bandagering, dekorativ hästvård samt vård av utrustning för hästar.",
+          "2. Stallskötsel, till exempel utfodring, rengöring och iordningställande av stall.",
+          "3. Underhåll av stallmiljöer, till exempel vad gäller ströbäddar, inredning, tvättning och målning.",
+          "4. Anläggningsskötsel, till exempel vad gäller staket, träningsbanor, beten och vattenanläggningar.",
+          "5. Visning av häst vid hand vid till exempel veterinärbesiktning eller bedömning.",
+          "6. Förebyggande hälsovård, till exempel iakttagelser och visitering för att bedöma hästars hälsa. Hästars kroppstemperatur, andning och puls.",
+          "7. Tolkning av foderanalyser och foderstater."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Ergonomi, arbetsmiljö och säkerhet i samband med hästskötsel.",
+          "2. Lagar och andra bestämmelser i samband med hästskötsel."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven namnger olika hästraser och beskriver **översiktligt** deras egenskaper, användningsområden och naturliga beteende.",
+        "Eleven redogör också **översiktligt** för olika fodermedel och deras näringsinnehåll samt för hur foder ska hanteras hygieniskt och för att bibehålla hög kvalitet.",
+        "Dessutom redogör eleven **översiktligt** för biologiska samband mellan hästars användning, utveckling och näringsbehov."
+      ],
+      [
+        "I samband med stallturer observerar eleven hästars utseende och beteende samt drar utifrån sina observationer **enkla** slutsatser om hästarnas kondition och välbefinnande.",
+        "Dessutom redogör eleven **översiktligt** för faktorer som bidrar till en god miljö för hästar samt för förebyggande åtgärder mot ohälsa hos hästar."
+      ],
+      [
+        "Eleven följer arbetsinstruktioner och sköter och hanterar **i samråd** med handledare hästar på ett ansvarsfullt, etiskt och säkert sätt.",
+        "Dessutom sköter och hanterar eleven **i samråd** med handledare stall och utrustning.",
+        "Resultatet av arbetet är **tillfredsställande**.",
+        "I arbetet utför eleven **i samråd** med handledare dagliga rutiner samt daglig tillsyn och kontroll av den tekniska utrustningens funktion.",
+        "Eleven löser också **i samråd** med handledare de problem som uppstår.",
+        "Eleven arbetar ergonomiskt med hästar, tillhörande utrustning och stall.",
+        "Dessutom redogör eleven **översiktligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven namnger olika hästraser och beskriver **utförligt** deras egenskaper, användningsområden och naturliga beteende.",
+        "Eleven redogör också **utförligt** för olika fodermedel och deras näringsinnehåll samt för hur foder ska hanteras hygieniskt och för att bibehålla hög kvalitet.",
+        "Dessutom redogör eleven **utförligt** för biologiska samband mellan hästars användning, utveckling och näringsbehov."
+      ],
+      [
+        "I samband med stallturer observerar eleven hästars utseende och beteende samt drar utifrån sina observationer **välgrundade** slutsatser om hästarnas kondition och välbefinnande.",
+        "Dessutom redogör eleven **utförligt** för faktorer som bidrar till en god miljö för hästar samt för förebyggande åtgärder mot ohälsa hos hästar."
+      ],
+      [
+        "Eleven följer arbetsinstruktioner och sköter och hanterar **efter samråd** med handledare hästar på ett ansvarsfullt, etiskt och säkert sätt.",
+        "Dessutom sköter och hanterar eleven **efter samråd** med handledare stall och utrustning.",
+        "Resultatet av arbetet är **tillfredsställande**.",
+        "I arbetet utför eleven **efter samråd** med handledare dagliga rutiner samt daglig tillsyn och kontroll av den tekniska utrustningens funktion.",
+        "Eleven löser också **efter samråd** med handledare de problem som uppstår.",
+        "Eleven arbetar ergonomiskt med hästar, tillhörande utrustning och stall.",
+        "Dessutom redogör eleven **utförligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven namnger olika hästraser och beskriver **utförligt och nyanserat** deras egenskaper, användningsområden och naturliga beteende.",
+        "Eleven redogör också **utförligt och nyanserat** för olika fodermedel och deras näringsinnehåll samt för hur foder ska hanteras hygieniskt och för att bibehålla hög kvalitet.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för biologiska samband mellan hästars användning, utveckling och näringsbehov."
+      ],
+      [
+        "I samband med stallturer observerar eleven hästars utseende och beteende samt drar utifrån sina observationer **välgrundade och nyanserade** slutsatser om hästarnas kondition och välbefinnande.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för faktorer som bidrar till en god miljö för hästar samt för förebyggande åtgärder mot ohälsa hos hästar."
+      ],
+      [
+        "Eleven följer arbetsinstruktioner och sköter och hanterar **efter samråd** med handledare hästar på ett ansvarsfullt, etiskt och säkert sätt.",
+        "Dessutom sköter och hanterar eleven **efter samråd** med handledare stall och utrustning.",
+        "Resultatet av arbetet är **gott**.",
+        "I arbetet utför eleven **efter samråd** med handledare dagliga rutiner samt daglig tillsyn och kontroll av den tekniska utrustningens funktion.",
+        "Eleven löser också **efter samråd** med handledare de problem som uppstår.",
+        "Eleven arbetar ergonomiskt med hästar, tillhörande utrustning och stall.",
+        "Dessutom redogör eleven **utförligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

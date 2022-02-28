@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Mät-, styr- och reglerteknik</name>
+  <englishName>Instrumentation, process and control technology</englishName>
+  <description
+  >&lt;p&gt;Ämnet mät-, styr- och reglerteknik behandlar metoder och arbetssätt för att styra och reglera tekniska komponenter, till exempel regulatorer och styrsystem. Arbete med styr- och reglerteknik har sin grund i industriell mätteknik och aktuatorer. I ämnet behandlas även säkerhetsfrågor som har en central roll i arbete med styr- och reglerteknik, eftersom misstag kan orsaka stora skador både på person och på egendom.&lt;/p&gt;</description>
+  <code>MÄT</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2010-12-02T09:25:21+01:00</createdDate>
+  <modifiedDate>2020-02-19T15:59:07+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Mät-, styr- och reglerteknik&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet mät-, styr- och reglerteknik ska syfta till att eleverna utvecklar färdigheter i att planera och utföra arbeten med styr- och reglerteknisk utrustning. Den ska också leda till att eleverna utvecklar förmåga att använda scheman, ritningar, manualer och föreskrifter. Eleverna ska ges möjlighet att utveckla förmåga att upptäcka och avhjälpa fel i styr- och reglerteknisk utrustning. Vidare ska undervisningen leda till att eleverna utvecklar ett säkert och miljömässigt arbetssätt samt förmåga att dokumentera sitt arbete.&lt;/p&gt;&lt;p&gt;Undervisningen ska ge eleverna möjlighet att planera arbetsuppgifter och arbeta praktiskt med styr- och reglerteknisk utrustning. I undervisningen ska såväl praktiska som teoretiska uppgifter ingå så att eleverna ges möjlighet att förstå sambandet mellan praktiskt arbete och yrkesteori.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet mät-, styr- och reglerteknik ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Förmåga att planera sitt arbete samt att installera, konfigurera, driftsätta och underhålla styr- och reglertekniska komponenter och system på ett säkert sätt.&lt;/li&gt; &lt;li&gt;Förmåga att läsa och tolka scheman över styr- och reglertekniska komponenter och system.&lt;/li&gt; &lt;li&gt;Färdigheter i att mäta styr- och reglertekniska storheter.&lt;/li&gt; &lt;li&gt;Förmåga att felsöka, reparera och åtgärda fel i styr- och reglertekniska komponenter och system.&lt;/li&gt; &lt;li&gt;Förmåga att dokumentera sitt arbete med styr- och reglertekniska komponenter och system.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Distribuerade styrsystem, 100 poäng.&lt;/li&gt; &lt;li&gt;Mät- och reglerteknik, 100 poäng.&lt;/li&gt; &lt;li&gt;Mät- och styrteknik, 100 poäng.&lt;/li&gt; &lt;li&gt;Programmerbara styrsystem, 100 poäng, som bygger på kursen mät- och styrteknik eller kursen programmering 1.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2010:162</skolfsId>
+  <applianceDate>2011-07-01T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Distribuerade styrsystem</name>
+    <englishName>Distributed control systems</englishName>
+    <description
+    >&lt;p&gt;Kursen distribuerade styrsystem omfattar punkterna 1–5 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>MÄTDIS0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Distribuerade styrsystem, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MÄTDIS0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Planering och byggande av styr- och reglertekniska anläggningar med distribuerade kontrollenheter eller I/O (input/output) beroende på anläggningens karaktär.&lt;/li&gt; &lt;li&gt;Scheman, ritningar och övrig dokumentation över komponenter för distribuerad styrning.&lt;/li&gt; &lt;li&gt;Referensmodeller för datorkommunikation, till exempel OSI-modellen (open systems interconnection).&lt;/li&gt; &lt;li&gt;Transmission control protocol/internet protocol (TCP/IP).&lt;/li&gt; &lt;li&gt;Fältbussar, till exempel Profibus, KNX, Lon och Modbus.&lt;/li&gt; &lt;li&gt;Informationsteknik som stöd för byggande av system med distribuerad styrning.&lt;/li&gt; &lt;li&gt;Vanligt förekommande styrda och reglerade storheter med distribuerade styrsystem, till exempel belysning, temperatur, tryck, flöde och nivå.&lt;/li&gt; &lt;li&gt;Metoder för felsökning i anläggningar med distribuerade styrsystem, till exempel verktyg för visualisering av data och jämförelser av data med mätningar av samma signal på plint.&lt;/li&gt; &lt;li&gt;Metoder för dokumentation av anläggningar med distribuerade styrsystem.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra. I arbetet läser och tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;scheman över styr- och reglertekniska komponenter och system.&lt;/p&gt;&lt;p&gt;Eleven gör &lt;strong&gt;enkla&lt;/strong&gt; mätningar av styr- och reglertekniska storheter. Dessutom felsöker eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare eventuella fel som har uppstått.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av sitt arbete med styr- och reglertekniska komponenter och system.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra. I arbetet läser och tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; scheman över styr- och reglertekniska komponenter och system.&lt;/p&gt;&lt;p&gt;Eleven gör mätningar av styr- och reglertekniska storheter. Dessutom felsöker eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare eventuella fel som har uppstått.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av sitt arbete med styr- och reglertekniska komponenter och system.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra. I arbetet läser och tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; scheman över styr- och reglertekniska komponenter och system.&lt;/p&gt;&lt;p&gt;Eleven gör &lt;strong&gt;avancerade &lt;/strong&gt;mätningar av styr- och reglertekniska storheter. Dessutom felsöker eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare eventuella fel som har uppstått.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av sitt arbete med styr- och reglertekniska komponenter och system.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Mät- och reglerteknik</name>
+    <englishName>Instrumentation and control technology</englishName>
+    <description
+    >&lt;p&gt;Kursen mät- och reglerteknik omfattar punkterna 1–5 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>MÄTMÄT0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Mät- och reglerteknik, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MÄTMÄT0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Enklare reglertekniska laborationer med inställningar av den proportionella förstärkningen och den integrerande förstärkningen samt den deriverande verkan i regulatorn.&lt;/li&gt; &lt;li&gt;Enklare mättekniska laborationer med mätning av temperatur.&lt;/li&gt; &lt;li&gt;Inkoppling, kontroll och injustering av vanligt förekommande mät- och reglertekniska komponenter med begrepp som NPN/PNP, sink/source, polaritetsskydd och kortslutningsskydd.&lt;/li&gt; &lt;li&gt;Pneumatiska eller hydrauliska ventiler samt pådrags och ställdons funktioner, beteckningar, märkningar och symboler.&lt;/li&gt; &lt;li&gt;Signalföljning och funktionsanalys av en enkel mät- och reglerteknisk anläggning med hjälp av mätinstrument, ritningar, scheman, datablad och manualer.&lt;/li&gt; &lt;li&gt;Grundläggande mät- och reglertekniska begrepp, till exempel stegsvar, rampsvar, dödtid, tidskonstant, linjäritet, hysteres, span, zero, kalibrering, onoggrannhet, repeterbarhet, reproducerbarhet, proportionellt band, proportionell förstärkning, integrerande tidskonstant och deriverande verkan.&lt;/li&gt; &lt;li&gt;Grundläggande mätosäkerhet, dess syfte och terminologi.&lt;/li&gt; &lt;li&gt;Grundläggande industriell mätteknik med vanligt förekommande metoder för att mäta temperatur, tryck, flöde och nivå.&lt;/li&gt; &lt;li&gt;Introduktion till test, kalibrering och spårbarhet för temperatur, tryck, flöde och nivå.&lt;/li&gt; &lt;li&gt;Metoder för att identifiera, förebygga och avhjälpa fel i mät- och reglertekniska anläggningar.&lt;/li&gt; &lt;li&gt;Metoder för dokumentation av mät- och reglertekniska arbeten.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra. I arbetet läser och tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;scheman över styr- och reglertekniska komponenter och system.&lt;/p&gt;&lt;p&gt;Eleven gör &lt;strong&gt;enkla&lt;/strong&gt; mätningar av styr- och reglertekniska storheter. Dessutom felsöker eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare eventuella fel som har uppstått.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av sitt arbete med styr- och reglertekniska komponenter och system.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra. I arbetet läser och tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; scheman över styr- och reglertekniska komponenter och system.&lt;/p&gt;&lt;p&gt;Eleven gör mätningar av styr- och reglertekniska storheter. Dessutom felsöker eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare eventuella fel som har uppstått.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av sitt arbete med styr- och reglertekniska komponenter och system.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra. I arbetet läser och tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; scheman över styr- och reglertekniska komponenter och system.&lt;/p&gt;&lt;p&gt;Eleven gör &lt;strong&gt;avancerade &lt;/strong&gt;mätningar av styr- och reglertekniska storheter. Dessutom felsöker eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare eventuella fel som har uppstått.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av sitt arbete med styr- och reglertekniska komponenter och system.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Mät- och styrteknik</name>
+    <englishName>Instrumentation and process technology</englishName>
+    <description
+    >&lt;p&gt;Kursen mät- och styrteknik omfattar punkterna 1–5 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>MÄTMÄO0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Mät- och styrteknik, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MÄTMÄO0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Logiska grundfunktioner för olika styrtekniska lösningar.&lt;/li&gt; &lt;li&gt;Diskreta mätgivare, till exempel induktiva givare, kapacitiva givare, optiska givare och lägesgivare.&lt;/li&gt; &lt;li&gt;Relästyrning av till exempel motorer och lampor.&lt;/li&gt; &lt;li&gt;Beteckningar, märkningar och symboler för pneumatisk och hydraulisk styrning samt dimensionering av pneumatisk och hydraulisk styrning.&lt;/li&gt; &lt;li&gt;Uppkoppling av pneumatisk eller hydraulisk styrkrets.&lt;/li&gt; &lt;li&gt;Funktionsbeskrivningar och ritnings- och schemaunderlag för styrtekniska anläggningar.&lt;/li&gt; &lt;li&gt;Vanligt förekommande styrda storheter och enheter inom mät- och styrteknik, till exempel belysning, pneumatiska och hydrauliska ventiler, reläer, kontaktorer, temperatur, tryck och nivå.&lt;/li&gt; &lt;li&gt;Vanligt förekommande begrepp och uttryck inom mät- och styrteknik, till exempel diskreta I/O (input/output), relä- och transistorutgångar, garanterad svarstid, väg-tiddiagram, flödesschema, galvanisk isolering, NPN/PNP, sink/source, polaritetsskydd och kortslutningsskydd.&lt;/li&gt; &lt;li&gt;Metoder för dokumentation av styrtekniska anläggningar, till exempel skapande av ritningar. &lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra. I arbetet läser och tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;scheman över styr- och reglertekniska komponenter och system.&lt;/p&gt;&lt;p&gt;Eleven gör &lt;strong&gt;enkla&lt;/strong&gt; mätningar av styr- och reglertekniska storheter. Dessutom felsöker eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare eventuella fel som har uppstått.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av sitt arbete med styr- och reglertekniska komponenter och system.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra. I arbetet läser och tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; scheman över styr- och reglertekniska komponenter och system.&lt;/p&gt;&lt;p&gt;Eleven gör mätningar av styr- och reglertekniska storheter. Dessutom felsöker eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare eventuella fel som har uppstått.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av sitt arbete med styr- och reglertekniska komponenter och system.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra. I arbetet läser och tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; scheman över styr- och reglertekniska komponenter och system.&lt;/p&gt;&lt;p&gt;Eleven gör &lt;strong&gt;avancerade &lt;/strong&gt;mätningar av styr- och reglertekniska storheter. Dessutom felsöker eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare eventuella fel som har uppstått.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av sitt arbete med styr- och reglertekniska komponenter och system.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <courses>
+    <name>Programmerbara styrsystem</name>
+    <englishName>Programmable control systems</englishName>
+    <description
+    >&lt;p&gt;Kursen programmerbara styrsystem omfattar punkterna 1–5 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>MÄTPRR0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Programmerbara styrsystem, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MÄTPRR0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Uppbyggnad och funktion hos olika programmerbara styrsystem, till exempel kompakta och modulära plc (programmable logic controller), distribuerade styrsystem, PAC (programmable automation controller), programmerbara reläer samt styrningar med persondatorer.&lt;/li&gt; &lt;li&gt;Grundläggande programmeringsteknik och programmering av programmerbara styrsystem.&lt;/li&gt; &lt;li&gt;Inkoppling av givare och aktuatorer till programmerbara styrsystem.&lt;/li&gt; &lt;li&gt;Specialmoduler för programmerbara styrsystem, till exempel moduler för A/D-omvandling och D/A-omvandling, samt moduler för servomotorer.&lt;/li&gt; &lt;li&gt;Användarkrav och översättning av dessa som underlag för programmering av programmerbara styrsystem.&lt;/li&gt; &lt;li&gt;Datorstöd vid programmering av programmerbara styrsystem.&lt;/li&gt; &lt;li&gt;För- och nackdelar med olika programmerbara styrsystem.&lt;/li&gt; &lt;li&gt;Aktuella standarder, till exempel plc-standard IEC 1131.&lt;/li&gt; &lt;li&gt;Metoder för felsökning och underhåll i anläggningar styrda av programmerbara styrsystem.&lt;/li&gt; &lt;li&gt;Metoder för dokumentation av arbete med programmerbara styrsystem.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra. I arbetet läser och tolkar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;scheman över styr- och reglertekniska komponenter och system.&lt;/p&gt;&lt;p&gt;Eleven gör &lt;strong&gt;enkla&lt;/strong&gt; mätningar av styr- och reglertekniska storheter. Dessutom felsöker eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare eventuella fel som har uppstått.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av sitt arbete med styr- och reglertekniska komponenter och system.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra. I arbetet läser och tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; scheman över styr- och reglertekniska komponenter och system.&lt;/p&gt;&lt;p&gt;Eleven gör mätningar av styr- och reglertekniska storheter. Dessutom felsöker eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare eventuella fel som har uppstått.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av sitt arbete med styr- och reglertekniska komponenter och system.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra. I arbetet läser och tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; scheman över styr- och reglertekniska komponenter och system.&lt;/p&gt;&lt;p&gt;Eleven gör &lt;strong&gt;avancerade &lt;/strong&gt;mätningar av styr- och reglertekniska storheter. Dessutom felsöker eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare eventuella fel som har uppstått.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av sitt arbete med styr- och reglertekniska komponenter och system.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>4</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

@@ -1,0 +1,121 @@
+{
+  "name": "Passersystem",
+  "code": "LARPAS0",
+  "focusAreas": {
+    "string": "Kursen passerkontrollsystem omfattar punkterna 1-8 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Olika typer av passersystem, deras uppbyggnad och funktion.",
+          "2. Centralutrustning i form av datorer och programvara och undercentraler som är grundläggande i ett passersystem.",
+          "3. Dörrmiljön.",
+          "4. Centralenhetens och platsutrustningens systemmässiga placering samt hur de knyts till varandra kommunikationsmässigt.",
+          "5. Olika slags koder som kan lagras i kodmedier samt olika teknik som används i olika typer av kodmedier.",
+          "6. Standarder och krav som styr en anläggnings utformning samt vilka kriterier som påverkar val och placering av system och komponenter.",
+          "7. Upprättande av ljudförbindelse i passerkontrollsystem.",
+          "8. Installation av passersystem med tillhörande komponenter.",
+          "9. Projektering av passersystem med hänsyn till gällande regelverk samt med beaktande av risken för falska larm.",
+          "10. Programmering av passersystem med hänsyn till objektstyp, användarfunktioner samt övriga krav.",
+          "11. Olika typer av verktyg, instrument och övrig utrustning.",
+          "12. Vanliga mätinstrument och hjälpmedel för felsökning.",
+          "13. Metoder för felsökning och reparationer i passersystem."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **översiktligt** för uppbyggnad av och funktion hos olika typer av passersystem.",
+        "Dessutom redogör eleven **översiktligt** för olika typer av risker när man bygger passersystem."
+      ],
+      [
+        "Eleven planerar **i samråd** med handledare installationer och service av passersystem.",
+        "Dessutom redogör eleven **översiktligt** för hur hen har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området."
+      ],
+      [
+        "Eleven utför i olika miljöer och med **visst** handlag vanligt förekommande arbeten med passersystem på ett sätt som är säkert för eleven själv och andra.",
+        "Inför arbetet väljer eleven **i samråd** med handledare material avsedda för uppgiften.",
+        "Dessutom använder eleven **i samråd** med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet.",
+        "Under arbetet väljer eleven **med viss säkerhet** verktyg, instrument och övrig utrustning samt använder dem med **visst** handlag.",
+        "Under arbetet upptäcker eleven problem som uppstår och löser dem **i samråd** med handledare.",
+        "Eleven kontrollerar säkerheten och driftsätter installationen **i samråd** med handledare.",
+        "Resultatet av elevens arbete uppfyller på ett **tillfredsställande** sätt ställda kvalitets- och miljökrav."
+      ],
+      [
+        "Efter utfört arbete gör eleven en **enkel** dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området.",
+        "Eleven utvärderar sitt arbete och resultat med **enkla** omdömen."
+      ],
+      [
+        "Eleven kontrollerar och felsöker **i samråd** med handledare anläggningar och system samt reparerar **enkla** fel som uppkommer i såväl nya som befintliga installationer."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för uppbyggnad av och funktion hos olika typer av passersystem.",
+        "Dessutom redogör eleven **utförligt** för olika typer av risker när man bygger passersystem."
+      ],
+      [
+        "Eleven planerar **efter samråd** med handledare installationer och service av passersystem.",
+        "Dessutom redogör eleven **utförligt** för hur hen har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området."
+      ],
+      [
+        "Eleven utför i olika miljöer och med **gott** handlag vanligt förekommande arbeten med passersystem på ett sätt som är säkert för eleven själv och andra.",
+        "Inför arbetet väljer eleven **efter samråd** med handledare material avsedda för uppgiften.",
+        "Dessutom använder eleven **efter samråd** med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet.",
+        "Under arbetet väljer eleven **med viss säkerhet** verktyg, instrument och övrig utrustning samt använder dem med **gott** handlag.",
+        "Under arbetet upptäcker eleven problem som uppstår och löser dem **efter samråd** med handledare.",
+        "Eleven kontrollerar säkerheten och driftsätter installationen **efter samråd** med handledare.",
+        "Resultatet av elevens arbete uppfyller på ett **tillfredsställande** sätt ställda kvalitets- och miljökrav."
+      ],
+      [
+        "Efter utfört arbete gör eleven en **noggrann** dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området.",
+        "Eleven utvärderar sitt arbete och resultat med **nyanserade** omdömen."
+      ],
+      [
+        "Eleven kontrollerar och felsöker **efter samråd** med handledare anläggningar och system samt reparerar fel som uppkommer i såväl nya som befintliga installationer."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för uppbyggnad av och funktion hos olika typer av passersystem.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för olika typer av risker när man bygger passersystem."
+      ],
+      [
+        "Eleven planerar **efter samråd** med handledare installationer och service av passersystem.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för hur hen har planerat sitt arbete och avser att registrera och dokumentera arbetet med hänsyn till lagar och andra bestämmelser samt standarder som finns inom området."
+      ],
+      [
+        "Eleven utför i olika miljöer och med **mycket gott** handlag vanligt förekommande arbeten med passersystem på ett sätt som är säkert för eleven själv och andra.",
+        "Inför arbetet väljer eleven **efter samråd** med handledare material avsedda för uppgiften.",
+        "Dessutom använder eleven **efter samråd** med handledare scheman, ritningar och övriga anvisningar för att utföra arbetet.",
+        "Under arbetet väljer eleven **med säkerhet** verktyg, instrument och övrig utrustning samt använder dem med **mycket gott** handlag.",
+        "Under arbetet upptäcker eleven problem som uppstår och löser dem **efter samråd** med handledare.",
+        "Eleven kontrollerar säkerheten och driftsätter installationen **efter samråd** med handledare.",
+        "Resultatet av elevens arbete uppfyller på ett **gott** sätt ställda kvalitets- och miljökrav."
+      ],
+      [
+        "Efter utfört arbete gör eleven en **noggrann och utförlig** dokumentation av installationen utifrån de bestämmelser och standarder som finns inom området.",
+        "Eleven utvärderar sitt arbete och resultat med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**."
+      ],
+      [
+        "Eleven kontrollerar och felsöker **efter samråd** med handledare anläggningar och system samt reparerar **avancerade** fel som uppkommer i såväl nya som befintliga installationer."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

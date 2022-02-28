@@ -1,0 +1,116 @@
+{
+  "name": "Matematik 5",
+  "code": "MATMAT05",
+  "focusAreas": {
+    "string": "Kursen matematik 5 omfattar punkterna 1-6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "entries": [
+      "1-6"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Aritmetik, algebra och funktioner",
+        "rows": [
+          "1. Begreppet differentialekvation och exempel på tillämpningar. Verifiering av lösningar till differentialekvationer.",
+          "2. Strategier för att ställa upp och tolka differentialekvationer. Digitala metoder för att lösa differentialekvationer.",
+          "3. Metoder för att lösa enklare linjära differentialekvationer av första och andra ordningen för hand."
+        ]
+      },
+      {
+        "title": "Logik och diskret matematik",
+        "rows": [
+          "1. Bevismetoder, inklusive motsägelsebevis och induktionsbevis.",
+          "2. Representation av tal i olika talbaser.",
+          "3. Kongruens hos hela tal och metoder för kongruensräkning.",
+          "4. Begreppen permutation och kombination. Motivering och hantering av metoder för att bestämma antal permutationer och kombinationer.",
+          "5. Begreppet rekursion och rekursiva talföljder.",
+          "6. Begreppet mängd. Notationer i mängdlära och hantering av operationer på mängder."
+        ]
+      },
+      {
+        "title": "Problemlösning, verktyg och tillämpningar",
+        "rows": [
+          "1. Användning av digitala verktyg, även symbolhanterande, för att effektivisera beräkningar och komplettera metoder, till exempel vid ekvationslösning, derivering, integrering och hantering av algebraiska uttryck.",
+          "2. Problemlösning som omfattar begrepp och metoder i kursen.",
+          "3. Omfångsrika problemsituationer som är relevanta för karaktärsämnena, inklusive problem som fördjupar kunskaper om integraler och derivata.",
+          "4. Användning av programmering som verktyg vid problemlösning, databearbetning eller tillämpning av numeriska metoder.",
+          "5. Tillämpning och formulering av matematiska modeller i realistiska situationer. Utvärdering av matematiska modellers egenskaper och begränsningar.",
+          "6. Matematiska problem med anknytning till matematikens kulturhistoria."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **grundläggande** begrepp och samband mellan begrepp samt använder dem med **tillfredsställande** säkerhet."
+      ],
+      [
+        "Eleven hanterar **grundläggande** procedurer och löser uppgifter av standardkaraktär med **tillfredsställande** säkerhet, både utan och med digitala verktyg.",
+        null
+      ],
+      [
+        "Eleven löser **enkla** problem inom kursens olika områden.",
+        "Eleven bedömer resultatens rimlighet."
+      ],
+      [
+        "Eleven tillämpar och formulerar matematiska modeller i **enkla** uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar."
+      ],
+      [
+        "Eleven för **delvis** underbyggda matematiska resonemang och följer **enkla** matematiska resonemang."
+      ],
+      [
+        "Eleven uttrycker sig med matematiska symboler och andra representationer på ett **i huvudsak fungerande** sätt."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **ett omfattande antal** begrepp och samband mellan begrepp samt använder dem med **god** säkerhet."
+      ],
+      [
+        "Eleven hanterar **ett omfattande antal** procedurer och löser uppgifter av standardkaraktär med **god** säkerhet, både utan och med digitala verktyg.",
+        "**Eleven hanterar avancerade uttryck med god säkerhet**."
+      ],
+      [
+        "Eleven löser **relativt komplexa** problem inom kursens olika områden.",
+        "Eleven bedömer resultatens rimlighet."
+      ],
+      [
+        "Eleven tillämpar och formulerar matematiska modeller i **relativt komplexa** uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar."
+      ],
+      [
+        "Eleven för **relativt väl** underbyggda matematiska resonemang**, genomför enkla bevis** och följer **relativt avancerade** matematiska resonemang."
+      ],
+      [
+        "Eleven uttrycker sig med matematiska symboler och andra representationer på ett **till stor del tydligt och korrekt** sätt."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **ett omfattande antal** begrepp och samband mellan begrepp samt använder dem med **mycket god** säkerhet."
+      ],
+      [
+        "Eleven hanterar **ett omfattande antal** procedurer och löser uppgifter av standardkaraktär med **mycket god** säkerhet, både utan och med digitala verktyg.",
+        "**Eleven hanterar avancerade uttryck med mycket god säkerhet**."
+      ],
+      [
+        "Eleven löser **komplexa** problem inom kursens olika områden.",
+        "Eleven bedömer resultatens rimlighet."
+      ],
+      [
+        "Eleven tillämpar och formulerar matematiska modeller i **komplexa** uppgifter, samt utvärderar matematiska modellers egenskaper och begränsningar."
+      ],
+      [
+        "Eleven för **väl** underbyggda matematiska resonemang**, genomför bevis** och följer **avancerade** matematiska resonemang."
+      ],
+      [
+        "Eleven uttrycker sig med matematiska symboler och andra representationer på ett **tydligt och korrekt** sätt."
+      ]
+    ]
+  }
+}

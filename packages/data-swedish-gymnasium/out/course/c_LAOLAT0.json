@@ -1,0 +1,101 @@
+{
+  "subject": "LAO",
+  "title": "Låsteknik",
+  "code": "LAOLAT0",
+  "points": 200,
+  "criteria": {
+    "A": [
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för egenskaper, funktioner och användningsområden hos låstekniska system både ur ett historiskt och nutida perspektiv.",
+        "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för hur låskodning, dörrstyrning och förvaringsenheter används och fungerar."
+      ],
+      [
+        "Eleven utför, <strong>efter samråd</strong> med handledare, vanligt förekommande låstekniska arbeten utifrån de säkerhetsnivåer, metoder, kod- och systemlåsningsprinciper som används i branschen.",
+        "Arbetet utförs enligt de rutiner och yrkesetiska regler som finns i branschen och på ett sätt som är säkert för eleven själv och andra.",
+        "Resultatet av elevens arbete uppfyller på ett <strong>gott</strong> sätt ställda kvalitets- och miljökrav."
+      ],
+      [
+        "Eleven tolkar och upprättar, <strong>efter samråd</strong> med handledare, låsscheman och beräkningar av låssystem."
+      ],
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för de lagar och bestämmelser som gäller inom området.",
+        "Dessutom redogör eleven <strong>utförligt</strong> för olika typer av risker och arbetsmiljökrav vid uppbyggnad och installation av lås och låsanläggningar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör <strong>utförligt</strong> för egenskaper, funktioner och användningsområden hos låstekniska system både ur ett historiskt och nutida perspektiv.",
+        "Dessutom redogör eleven <strong>utförligt</strong> för hur låskodning, dörrstyrning och förvaringsenheter används och fungerar."
+      ],
+      [
+        "Eleven utför, <strong>efter samråd</strong> med handledare, vanligt förekommande låstekniska arbeten utifrån de säkerhetsnivåer, metoder, kod- och systemlåsningsprinciper som används i branschen.",
+        "Arbetet utförs enligt de rutiner och yrkesetiska regler som finns i branschen och på ett sätt som är säkert för eleven själv och andra.",
+        "Resultatet av elevens arbete uppfyller på ett <strong>tillfredsställande</strong> sätt ställda kvalitets- och miljökrav."
+      ],
+      [
+        "Eleven tolkar och upprättar, <strong>efter samråd</strong> med handledare, låsscheman och beräkningar av låssystem."
+      ],
+      [
+        "Eleven redogör <strong>utförligt</strong> för de lagar och bestämmelser som gäller inom området.",
+        "Dessutom redogör eleven <strong>utförligt</strong> för olika typer av risker och arbetsmiljökrav vid uppbyggnad och installation av lås och låsanläggningar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven redogör <strong>översiktligt</strong> för egenskaper, funktioner och användningsområden hos låstekniska system både ur ett historiskt och nutida perspektiv.",
+        "Dessutom redogör eleven <strong>översiktligt</strong> för hur låskodning, dörrstyrning och förvaringsenheter används och fungerar."
+      ],
+      [
+        "Eleven utför, <strong>i samråd</strong> med handledare, vanligt förekommande låstekniska arbeten utifrån de säkerhetsnivåer, metoder, kod- och systemlåsningsprinciper som används i branschen.",
+        "Arbetet utförs enligt de rutiner och yrkesetiska regler som finns i branschen och på ett sätt som är säkert för eleven själv och andra.",
+        "Resultatet av elevens arbete uppfyller på ett <strong>tillfredsställande</strong> sätt ställda kvalitets- och miljökrav."
+      ],
+      [
+        "Eleven tolkar och upprättar, <strong>i samråd</strong> med handledare, låsscheman och beräkningar av låssystem."
+      ],
+      [
+        "Eleven redogör <strong>översiktligt</strong> för de lagar och bestämmelser som gäller inom området.",
+        "Dessutom redogör eleven <strong>översiktligt</strong> för olika typer av risker och arbetsmiljökrav vid uppbyggnad och installation av lås och låsanläggningar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Olika typer av mekaniska och elektromekaniska lås och beslag, deras egenskaper, funktioner och användningsområden samt deras historiska utveckling.",
+        "Mekaniska kodprinciper.",
+        "Elektroniska kodbärare.",
+        "Dörrstyrning med tillhörande utrustning, övervaknings- och styrsystem samt deras egenskaper, funktioner och användningsområden.",
+        "Olika typer av förvaringsenheter, deras användningsområden, funktion och säkerhetsnivå.",
+        "Metoder för att lägga ihop och lägga om lås enligt olika kodprinciper.",
+        "Olika systemlåsningsprinciper.",
+        "Arbete med problemlösning och uppgifter såväl självständigt som tillsammans med andra.",
+        "Låsklasser och skyddsklasser samt bestämmelser för branddörrar, tillgänglighet och utrymning.",
+        "Yrkesetiska regler.",
+        "Lagar och andra bestämmelser som gäller för arbetsplatser och arbetets utförande.",
+        "Tolkning och upprättande av låsschema samt beräkning av låssystem.",
+        "Rutiner för service och underhåll.",
+        "Arbetsmiljö och säkerhet.",
+        "Miljöval och miljöpåverkan."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen låsteknik omfattar punkterna 1-4 och 7 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    6
+  ]
+}

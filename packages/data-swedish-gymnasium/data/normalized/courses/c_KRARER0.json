@@ -1,0 +1,97 @@
+{
+  "name": "Reservkraft",
+  "code": "KRARER0",
+  "focusAreas": {
+    "string": "Kursen reservkraft omfattar punkterna 1-8 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Uppbyggnad och funktion hos dieselmotor-, gasturbin- och batterianläggningar.",
+          "2. Drift och underhåll av dieselmotoranläggningar.",
+          "3. Drift och underhåll av gasturbinanläggningar.",
+          "4. Drift och underhåll av batterianläggningar.",
+          "5. Drift och underhåll av mindre och mobila reservkraftanläggningar.",
+          "6. Planering, övervakning och provkörning.",
+          "7. Beräkningsmetoder för optimering av driften.",
+          "8. Olika typer av konsekvenser vid avbrott i produktionen.",
+          "9. Verktyg, instrument och manualer.",
+          "10. Infasning av olika system samt krav och säkerhet."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** uppbyggnad och funktion av olika enkla reservkraftanläggningar.",
+        "I beskrivningen gör eleven **enkla** kopplingar till relevanta naturvetenskapliga principer."
+      ],
+      [
+        "Eleven utför **i samråd** med handledare vanligt förekommande praktiska arbetsuppgifter i en reservkraftanläggning på ett säkert sätt."
+      ],
+      [
+        "Eleven genomför **med viss säkerhet enkla** energiberäkningar och ger utifrån dem **enkla** förslag för att optimera driften.",
+        "Eleven genomför **i samråd** med handledare provtagning, analys och dosering av olika medier.",
+        "I sitt arbete hanterar och vårdar eleven verktyg och instrument med **visst** handlag utifrån givna instruktioner och arbetsbeskrivningar.",
+        "Under arbetet upptäcker eleven problem som uppkommer och löser dem **i samråd** med handledare.",
+        "I arbetet samverkar och kommunicerar eleven **med viss säkerhet** med andra samt använder ett **enkelt** fackspråk som fungerar för arbetsuppgiften."
+      ],
+      [
+        "Eleven redogör **översiktligt** för säkerhetsföreskrifter och miljökrav."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** uppbyggnad och funktion av olika enkla reservkraftanläggningar.",
+        "I beskrivningen gör eleven **välgrundade** kopplingar till relevanta naturvetenskapliga principer."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare vanligt förekommande praktiska arbetsuppgifter i en reservkraftanläggning på ett säkert sätt."
+      ],
+      [
+        "Eleven genomför **med viss säkerhet** energiberäkningar och ger utifrån dem **välgrundade** förslag för att optimera driften.",
+        "Eleven genomför **efter samråd** med handledare provtagning, analys och dosering av olika medier.",
+        "I sitt arbete hanterar och vårdar eleven verktyg och instrument med **gott** handlag utifrån givna instruktioner och arbetsbeskrivningar.",
+        "Under arbetet upptäcker eleven problem som uppkommer och löser dem **efter samråd** med handledare.",
+        "I arbetet samverkar och kommunicerar eleven **med viss säkerhet** med andra samt använder ett fackspråk som fungerar för arbetsuppgiften."
+      ],
+      [
+        "Eleven redogör **utförligt** för säkerhetsföreskrifter och miljökrav."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** uppbyggnad och funktion av olika enkla reservkraftanläggningar.",
+        "I beskrivningen gör eleven **välgrundade och nyanserade** kopplingar till relevanta naturvetenskapliga principer."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare vanligt förekommande praktiska arbetsuppgifter i en reservkraftanläggning på ett säkert sätt."
+      ],
+      [
+        "Eleven genomför **med säkerhet avancerade** energiberäkningar och ger utifrån dem **välgrundade och nyanserade** förslag för att optimera driften.",
+        "Eleven genomför **efter samråd** med handledare provtagning, analys och dosering av olika medier.",
+        "I sitt arbete hanterar och vårdar eleven verktyg och instrument med **mycket gott** handlag utifrån givna instruktioner och arbetsbeskrivningar.",
+        "Under arbetet upptäcker eleven problem som uppkommer och löser dem **efter samråd** med handledare.",
+        "I arbetet samverkar och kommunicerar eleven **med säkerhet** med andra samt använder ett **nyanserat** fackspråk som fungerar för arbetsuppgiften."
+      ],
+      [
+        "Eleven redogör **utförligt och nyanserat** för säkerhetsföreskrifter och miljökrav."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

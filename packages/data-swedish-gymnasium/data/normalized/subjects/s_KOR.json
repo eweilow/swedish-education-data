@@ -1,0 +1,52 @@
+{
+  "name": "Konstruktionsteknik",
+  "code": "KOR",
+  "description": [
+    "Ämnet konstruktionsteknik behandlar konstruktionsprocessen och hur konstruktören använder dess olika delar för att utveckla och förbättra tekniska lösningar. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet konstruktionsteknik ska syfta till att eleverna utvecklar kunskaper om konstruktionsprocessen för att i sin roll som gymnasieingenjör kunna utföra konstruktionsarbete med hänsyn till produktionstekniska, kvalitetsmässiga, ekonomiska och miljömässiga förutsättningar. Genom undervisningen ska eleverna ges möjlighet att fördjupa sin förståelse av tekniska system och utveckla förmåga att i sitt konstruktionsarbete se samspelet mellan komponenter, delsystem och hela system för att kunna utveckla bättre konstruktioner.",
+          "Undervisningen ska leda till att eleverna självständigt planerar, genomför, dokumenterar och utvärderar konstruktionsarbeten i projektform. Genom undervisningen ska eleverna ges möjlighet att inhämta, sovra och strukturera information, välja och använda konstruktionsmetoder och verktyg samt använda relevanta matematiska och teknikvetenskapliga teorier och modeller. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper i att använda digitala konstruktionsmetoder och verktyg. Undervisningen ska även bidra till att eleverna utvecklar kunskaper om vanliga komponenter samt om svenska och internationella standarder och normer för att använda i sitt arbete.",
+          "Undervisningen ska ge eleverna möjlighet att fördjupa sina kunskaper i materialteknik för att kunna utvärdera och välja material i konstruktioner. Undervisningen ska även ge eleverna möjlighet att tolka och skapa berednings- och tillverkningsunderlag samt tekniska instruktioner. Dessutom ska undervisningen bidra till att eleverna utvecklar kunskaper inom dimensionering och provning av konstruktioner med hjälp av manuella och datorstödda mätningar, simuleringar och tester."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet konstruktionsteknik ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Kunskaper om konstruktionsprocessen och förståelse av sambanden mellan de olika delarna i den.",
+          "2. Förmåga att planera och genomföra konstruktionsarbeten genom att söka, tolka och strukturera relevant information samt genom att välja och använda metoder, modeller, teorier och verktyg. Förmåga att rimlighetsbedöma resultat och att utvärdera konstruktionsarbeten.",
+          "3. Förmåga att använda konstruktionsverktyg, komponenter, standarder och normer inom konstruktionsarbetet samt kunskaper om deras egenskaper och begränsningar.",
+          "4. Förmåga att utvärdera och välja material.",
+          "5. Förmåga att tolka och skapa berednings- och tillverkningsunderlag samt tekniska instruktioner.",
+          "6. Kunskaper om hur produktionsteknik, kvalitet, lönsamhet och hållbar utveckling samspelar med konstruktionsarbete samt förmåga att optimera konstruktioner mot dessa parametrar.",
+          "7. Kunskaper om tekniska system samt förmåga att se samspelet mellan komponenter, delsystem och hela system, och i sitt konstruktionsarbete använda detta till att skapa fungerande konstruktioner.",
+          "8. Kunskaper om provning och förmåga att utföra provning via mätningar, simuleringar och test.",
+          "9. Förmåga att dokumentera och redovisa konstruktionsarbeten med relevanta hjälpmedel."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Konstruktionsteknik, 100 poäng.",
+          "2. Mekanik och hållfasthetslära, 100 poäng.",
+          "3. Materialteknik, 100 poäng.",
+          "4. Tillämpad konstruktionsteknik, 100 poäng."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2018-08-09T08:21:02.000Z",
+  "modifiedDate": "2020-02-19T14:57:27.000Z",
+  "courseCodes": [
+    "KORKON3",
+    "KORMEK3",
+    "KORMAT3",
+    "KORTIL3"
+  ]
+}

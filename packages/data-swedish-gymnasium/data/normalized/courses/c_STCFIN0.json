@@ -1,0 +1,103 @@
+{
+  "name": "Finstyckning",
+  "code": "STCFIN0",
+  "focusAreas": {
+    "string": "Kursen finstyckning omfattar punkterna 1-8 under rubriken Ämnets syfte. I kursen behandlas grundläggande färdigheter i ämnet.",
+    "entries": [
+      "1-8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Djurens anatomi. Alla i branschen vanligt förekommande djurslag.",
+          "2. Styckningsdetaljernas utseende, kvalitet, karaktär samt användningsområde vid förädling och tillagning.",
+          "3. Pannfärdigt, dvs. förädling av styckningsdetaljer av alla djurslag.",
+          "4. Hantering och förvaring av råvaror.",
+          "5. Hur man för olika djurslag finstyckar grovstyckade styckningsdetaljer.",
+          "6. Stycknings- och förädlingskalkyler.",
+          "7. Användning av handverktyg och maskiner vid finstyckning.",
+          "8. Förpackningsmaterial, paketering och märkning.",
+          "9. Arbetsmiljö, ergonomi och säkerhet.",
+          "10. Praktisk hygien och egenkontroll."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** djurens anatomi.",
+        "Dessutom redogör eleven **översiktligt** för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras.",
+        "Vidare redogör eleven **översiktligt** för styckningsdetaljernas kött- och styckningskvalitet."
+      ],
+      [
+        "Eleven planerar och organiserar **i samråd** med handledare styckningsarbete.",
+        "Vid planeringen gör eleven **med viss säkerhet** en styckningskalkyl samt motiverar **översiktligt** sin kalkyl utifrån ekonomiska aspekter.",
+        "Eleven genomför **i samråd** med handledare styckning.",
+        "I arbetet använder eleven **med viss säkerhet** utrustning, maskiner och verktyg.",
+        "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar **med viss säkerhet** styckningsdetaljerna i enlighet med lagar och andra bestämmelser."
+      ],
+      [
+        "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar **översiktligt** arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet."
+      ],
+      [
+        "När arbetet är utfört genomför eleven **i samråd** med handledare underhåll av utrustning, maskiner och verktyg.",
+        "Dessutom utvärderar eleven med **enkla** omdömen sitt arbete och resultat."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** djurens anatomi.",
+        "Dessutom redogör eleven **utförligt** för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras.",
+        "Vidare redogör eleven **utförligt** för styckningsdetaljernas kött- och styckningskvalitet."
+      ],
+      [
+        "Eleven planerar och organiserar **efter samråd** med handledare styckningsarbete.",
+        "Vid planeringen gör eleven **med viss säkerhet** en styckningskalkyl samt motiverar **utförligt** sin kalkyl utifrån ekonomiska aspekter.",
+        "Eleven genomför **efter samråd** med handledare styckning.",
+        "I arbetet använder eleven **med viss säkerhet** utrustning, maskiner och verktyg.",
+        "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar **med viss säkerhet** styckningsdetaljerna i enlighet med lagar och andra bestämmelser."
+      ],
+      [
+        "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar **utförligt** arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet."
+      ],
+      [
+        "När arbetet är utfört genomför eleven **efter samråd** med handledare underhåll av utrustning, maskiner och verktyg.",
+        "Dessutom utvärderar eleven med **nyanserade** omdömen sitt arbete och resultat."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** djurens anatomi.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för styckningsdetaljernas och köttsorteringarnas användningsområden samt hur styckningsdetaljerna ska hanteras, förpackas och förvaras.",
+        "Vidare redogör eleven **utförligt och nyanserat** för styckningsdetaljernas kött- och styckningskvalitet."
+      ],
+      [
+        "Eleven planerar och organiserar **efter samråd** med handledare styckningsarbete.",
+        "Vid planeringen gör eleven **med säkerhet** en styckningskalkyl samt motiverar **utförligt och nyanserat** sin kalkyl utifrån ekonomiska aspekter.",
+        "Eleven genomför **efter samråd** med handledare styckning.",
+        "I arbetet använder eleven **med säkerhet** utrustning, maskiner och verktyg.",
+        "Eleven hanterar, väljer förpackningsmaterial till, förpackar, märker och förvarar **med säkerhet** styckningsdetaljerna i enlighet med lagar och andra bestämmelser."
+      ],
+      [
+        "Eleven arbetar hygieniskt, ergonomiskt och på ett sätt som är säkert för eleven själv och andra samt motiverar **utförligt och nyanserat** arbetssättet utifrån lagar och andra bestämmelser om hygien, arbetsmiljö och säkerhet."
+      ],
+      [
+        "När arbetet är utfört genomför eleven **efter samråd** med handledare underhåll av utrustning, maskiner och verktyg.",
+        "Dessutom utvärderar eleven med **nyanserade** omdömen sitt arbete och resultat **samt ger förslag på hur arbetet kan förbättras**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

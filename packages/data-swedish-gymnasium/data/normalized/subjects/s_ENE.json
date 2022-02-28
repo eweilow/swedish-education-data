@@ -1,0 +1,53 @@
+{
+  "name": "Energiteknik",
+  "code": "ENE",
+  "description": [
+    "Ämnet energiteknik behandlar energitekniska objekt samt hur system fungerar och är konstruerade. Ämnet bygger delvis på naturvetenskapliga principer som tillämpas på energitekniska anläggningar. Ett miljöperspektiv ingår i ämnet eftersom energitekniska system till stor del påverkar miljön."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet energiteknik ska syfta till att eleverna utvecklar kunskaper i att utföra drift, underhåll och service av energitekniska anläggningar samt förmåga att lösa praktiska problem inom området. Den ska även leda till att eleverna utvecklar kunskaper om grundläggande fysikaliska storheter, nödvändig matematik, grundläggande kemi. Dessutom ska eleverna få möjlighet att utveckla kunskaper om behandling, provtagning och analys av olika typer av vatten som används inom processindustrin och inom energi-, miljö- och vattenteknik. Vidare ska undervisningen leda till att eleverna utvecklar en teoretisk grund inom energiområdet.",
+          "I undervisningen ska eleverna ges möjlighet att utveckla förståelse av effektiv och hållbar energianvändning samt kretsloppstänkande. Eleverna ska också ges möjlighet att utveckla kunskaper om både konventionella och alternativa energisystem samt möjlighet att utveckla säkerhetstänkande, yrkesidentitet och ett yrkesetiskt förhållningssätt.",
+          "Genom experiment, laborationer och ett undersökande arbetssätt ska eleverna ges möjlighet att utveckla förmåga att lösa problem som gäller drift, underhåll och service av energitekniska anläggningar. Genom praktiska övningar ska eleverna ges möjlighet att utveckla tekniska kunskaper samt sköta teknisk utrustning."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet energiteknik ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Kunskaper om olika energitekniska utrustningar.",
+          "2. Kunskaper om uppbyggnad, funktion och principer hos olika energitekniska systemlösningar.",
+          "3. Kunskaper om olika energikällor och bränslen samt energibärande mediers egenskaper.",
+          "4. Förmåga att utföra arbetsuppgifter i olika energitekniska anläggningar samt arbeta med hänsyn till säkerhet, kvalitet och miljö.",
+          "5. Förmåga att optimera samt utföra kontroll- och driftrutiner och energibesparande åtgärder i olika energianläggningar.",
+          "6. Förmåga att lösa fysikaliska eller vattenkemiska problem med hjälp av laborativt arbete.",
+          "7. Förmåga att hantera material och verktyg.",
+          "8. Förmåga att dokumentera och utvärdera sitt arbete.",
+          "9. Förmåga att samverka med andra och använda fackspråk.",
+          "10. Förmåga att arbeta enligt lagar och andra bestämmelser."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Energiteknik 1, 100 poäng.",
+          "2. Energiteknik 2, 100 poäng.",
+          "3. Förnybar energi, 100 poäng.",
+          "4. Vatten- och processkemi, 100 poäng."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2010-12-02T08:25:20.000Z",
+  "modifiedDate": "2020-02-19T14:51:09.000Z",
+  "courseCodes": [
+    "ENEENE01",
+    "ENEENE02",
+    "ENEFÖR0",
+    "ENEVAE0"
+  ]
+}

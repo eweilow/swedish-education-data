@@ -1,0 +1,81 @@
+{
+  "name": "Digital kommunikationsteknik",
+  "code": "DAODIG0",
+  "focusAreas": {
+    "string": "Kursen digital kommunikationsteknik omfattar punkterna 1-4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "entries": [
+      "1-4"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Operativsystem för mobila enheter.",
+          "2. Kommunikationsnät för mobila datorutrustningar.",
+          "3. Datakommunikation via satellit.",
+          "4. Referensmodeller och standarder för datakommunikation.",
+          "5. Integritetsaspekter och säkerhet vid användning av trådlösa enheter.",
+          "6. Installation och konfigurering av trådlösa enheter och kommunikationssystem i olika miljöer.",
+          "7. Konfigurering, uppgradering och installation av applikationer i mobila enheter.",
+          "8. Antennteknik och antenner för trådlösa nät.",
+          "9. Konfigurering av trådlösa accesspunkter.",
+          "10. Inställning av trådlösa nätverkskort.",
+          "11. Installation och konfigurering av bryggor, routrar och gateways.",
+          "12. Konfigurering av säkerhetsfunktioner och kryptering.",
+          "13. Felsökning i trådlösa lokala nätverk och utrustningar.",
+          "14. Kontroll och uppmätning av överföringshastigheter och signalstyrkor.",
+          "15. Metoder för diagnostisering, spårning och felsökning."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** uppbyggnad, funktion och arbetssätt hos lokala nätverk, trådlösa nätverk och internationella kommunikationsnät samt hur driftsäkerhet uppnås.",
+        null
+      ],
+      [
+        "Eleven planerar och utför **i samråd** med handledare och med **visst** handlag installation, konfigurering, diagnostisering, spårning och enkel felsökning samt åtgärdar **enkla** fel i digitala kommunikationssystem.",
+        "Resultatet är **tillfredsställande** i fråga om funktion, säkerhet och kvalitet.",
+        "Eleven hanterar med **visst** handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven **med viss säkerhet** instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en **enkel** dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** uppbyggnad, funktion och arbetssätt hos lokala nätverk, trådlösa nätverk och internationella kommunikationsnät samt hur driftsäkerhet uppnås.",
+        null
+      ],
+      [
+        "Eleven planerar och utför **efter samråd** med handledare och med **gott** handlag installation, konfigurering, diagnostisering, spårning och enkel felsökning samt åtgärdar fel i digitala kommunikationssystem.",
+        "Resultatet är **tillfredsställande** i fråga om funktion, säkerhet och kvalitet.",
+        "Eleven hanterar med **gott** handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven **med viss säkerhet** instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en **noggrann** dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** uppbyggnad, funktion och arbetssätt hos lokala nätverk, trådlösa nätverk och internationella kommunikationsnät samt hur driftsäkerhet uppnås.",
+        "**Dessutom redogör eleven utförligt och nyanserat för sambandet mellan de olika delarna som ingår i digitala kommunikationssystem**."
+      ],
+      [
+        "Eleven planerar och utför **efter samråd** med handledare och med **mycket gott** handlag **avancerad** installation, konfigurering, diagnostisering, spårning och felsökning samt åtgärdar **avancerade** fel i digitala kommunikationssystem.",
+        "Resultatet är **gott** i fråga om funktion, säkerhet och kvalitet.",
+        "Eleven hanterar med **mycket gott** handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven **med säkerhet** instruktioner, manualer, topologier och andra dokument på både svenska och engelska samt gör en **noggrann och utförlig** dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

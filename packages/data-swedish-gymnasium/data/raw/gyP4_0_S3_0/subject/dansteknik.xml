@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Dansteknik</name>
+  <englishName>Dance techniques</englishName>
+  <description
+  >&lt;p&gt;Ämnet dansteknik är till sin karaktär konstnärligt och innefattar träning i olika genrer och stilar inom scenkonstnärlig dans. Genrerna kan vara historiska eller samtida. Ämnet innefattar även hälsoaspekter med anatomi och träningslära och den delen av ämnet är till sin karaktär delvis naturvetenskaplig.&lt;/p&gt;</description>
+  <code>DAT</code>
+  <status>PUBLISHED</status>
+  <version>5</version>
+  <createdDate>2018-11-23T07:43:00+01:00</createdDate>
+  <modifiedDate>2020-02-19T15:50:41+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Dansteknik&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet dansteknik ska syfta till att eleverna utvecklar fysiska färdigheter i och ett konstnärligt förhållningssätt till dansteknik.&lt;/p&gt;&lt;p&gt;Kontinuerlig träning är centralt i dansteknik. Eleverna ska därför ges möjlighet att utveckla danstekniska färdigheter genom att träna det kroppsliga minnet, utveckla sin förmåga att uppfatta nyanser i rörelseuttryck och utveckla sina färdigheter i att utföra dessa. Undervisningen ska ge eleverna möjlighet att närma sig ett professionellt förhållningssätt till teknikträningen och utveckla en förmåga att variera rörelsekvaliteter i formspråket inom olika dansgenrer&lt;/p&gt;&lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla förmåga att använda de begrepp och den vokabulär som är knutna till de olika genrernas. Genom undervisningen ska eleverna ges möjlighet att utveckla förståelse av hur dansteknik och träning metodiskt byggs upp samt förmåga att ta ansvar för sin tekniska utveckling.&lt;/p&gt;&lt;p&gt;Eleverna ska ges möjlighet att tillägna sig medvetenhet om kroppens fysiska möjligheter genom praktiskt arbete med anatomi och förståelse av arbetsmiljöfrågor knutna till dansteknikträning. Anatomins begrepp ska framför allt tränas genom att man praktiskt använder dem vid träningstillfällena. Den fysiska träningen medför skaderisker. För att minimera dem ska träningen ske i ändamålsenliga lokaler.&lt;/p&gt;&lt;p&gt;Genom praktiskt undersökande och reflekterande arbetsmetoder ska eleverna ges möjlighet att utveckla ett danstekniskt kunnande och ett konstnärligt förhållningssätt. Eleverna ska också ges möjlighet att reflektera över sin egen kunskapsutveckling i dansteknik.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet dansteknik ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om koder och konventioner som används vid träning i dansteknikens olika genrer.&lt;/li&gt; &lt;li&gt;Kunskaper om träningsprocessens olika delar samt förmåga att tillämpa dem för att utveckla danstekniska färdigheter. Förmåga att reflektera över sin egen kunskapsutveckling i dansteknik.&lt;/li&gt; &lt;li&gt;Kunskaper om och färdigheter i att utföra dans inom minst två dansgenrer.&lt;/li&gt; &lt;li&gt;Förståelse av hur kropp och dansrörelser måste förhålla sig till dansteknikens konventioner, riktningar i rummet, andra medverkande samt olika typer av rum och sammanhang.&lt;/li&gt; &lt;li&gt;Kunskaper om musik och relationen till dans. Förmåga att genom dansen uppfatta och använda olika förhållningssätt till tid, dynamik och rytm.&lt;/li&gt; &lt;li&gt;Kunskaper om anatomi och kompletterande träningsmetoder. Kunskaper om betydelsen av kontinuerlig träning och om hur den egna kroppen fungerar i träningssammanhang.&lt;/li&gt; &lt;li&gt;Kunskaper om hur övningar, lektioner och träning metodiskt byggs upp inom olika dansgenrer och kompletterande träningsmetoder.&lt;/li&gt; &lt;li&gt;Förmåga att använda begrepp och vokabulär inom olika dansgenrer och träningsmetoder.&lt;/li&gt; &lt;li&gt;Kunskaper om arbetsmiljöfrågor i relation till den egna miljön.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Dansteknik 1, 100 poäng. Kursen kan läsas flera gånger med olika innehåll.&lt;/li&gt; &lt;li&gt;Dansteknik 2, 100 poäng, som bygger på kursen dansteknik 1. Kursen kan läsas flera gånger med olika innehåll.&lt;/li&gt; &lt;li&gt;Dansteknik 3, 100 poäng, som bygger på kursen dansteknik 2. Kursen kan läsas flera gånger med olika innehåll.&lt;/li&gt; &lt;li&gt;Dansteknik 4, 100 poäng, som bygger på kursen dansteknik 3. Kursen kan läsas flera gånger med olika innehåll.&lt;/li&gt; &lt;li&gt;Dansteknik – specialisering, 100 poäng, som bygger på kursen dansteknik 3. Kursen kan läsas flera gånger med olika innehåll.&lt;/li&gt; &lt;li&gt;Dansträning, 100 poäng. &lt;/li&gt;&lt;/ul&gt;</purpose>
+  <skolfsId>2010:174</skolfsId>
+  <applianceDate>2018-09-13T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Dansteknik 1</name>
+    <englishName>Dance techniques 1</englishName>
+    <description
+    >&lt;p&gt;Kursen dansteknik 1 omfattar punkterna 1–6 och 8 under rubriken Ämnets syfte. I kursen behandlas grundläggande färdigheter inom valda genrer.&lt;/p&gt;</description>
+    <code>DATDAS01S</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Dansteknik 1, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DATDAS01S&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Teknikträningens koder och konventioner.&lt;/li&gt; &lt;li&gt;Träningsprocessens olika delar, dvs. memorering av rörelser, kontinuerlig träning och arbete med placering. Metoder för att memorera rörelser och övningar. Hur man kan följa sin egen kunskapsutveckling i dansteknik.&lt;/li&gt; &lt;li&gt;Grundläggande dansteknik i två eller flera genrer.&lt;/li&gt; &lt;li&gt;Rörelsevokabulär och olika genrers konventioner, stildrag och kännetecken. Grundläggande kunskaper i placering.&lt;/li&gt; &lt;li&gt;Grundläggande träning av kroppsminnet. Rörelsevokabulär i relation till tid och rum samt kvaliteter som tyngd och flöde. Dansteknikens formspråk. &lt;/li&gt; &lt;li&gt;Grundläggande träning av den spatiala förmågan i relation till den egna kroppen och andra medverkande.&lt;/li&gt; &lt;li&gt;Dansens relation till och samspel med ljud, tystnad och olika typer av musik, levande och inspelad, utifrån genrernas konventioner. Hur man följer musikens puls och taktarter.&lt;/li&gt; &lt;li&gt;Grundläggande fysiska kunskaper om hur den egna kroppen fungerar. Hur skelett och muskler samverkar.&lt;/li&gt; &lt;li&gt;Grundläggande träning i koordination, styrka och koncentration.&lt;/li&gt; &lt;li&gt;Grundläggande begrepp, till exempel placering, rörelsekvaliteter som tyngd och flöde, musikalisk puls och taktarter samt dansgenrernas vokabulär.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet &lt;/strong&gt;de koder, konventioner och instruktioner som används vid färdighetsträningen. I färdighetsträningen memorerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;rörelser samt korrektioner av placering. Dessutom gör eleven &lt;strong&gt;enkla &lt;/strong&gt;reflektioner över den egna kunskapsutvecklingen.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;med viss säkerhet&lt;/strong&gt; rörelsevokabulär som relaterar till &lt;strong&gt;någon av&lt;/strong&gt; kvaliteterna tyngd &lt;strong&gt;eller&lt;/strong&gt; flöde enligt genrernas grundläggande formspråk. I dansen förhåller eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;spatialt den egna kroppen till genrernas konventioner och andra medverkande. Dessutom följer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;musikens puls och taktarter.&lt;/p&gt;&lt;p&gt;Eleven&lt;strong&gt; &lt;/strong&gt;utforskar i färdighetsträningen med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat hur den egna kroppen fungerar. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för hur den egna kroppen fungerar. Eleven tränar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare&lt;strong&gt; &lt;/strong&gt;koordination, styrka och koncentration. Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; grundläggande begrepp och vokabulär i redogörelser och danstekniska övningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet &lt;/strong&gt;de koder, konventioner och instruktioner som används vid färdighetsträningen. I färdighetsträningen memorerar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;rörelser samt korrektioner av placering. Dessutom gör eleven &lt;strong&gt;välgrundade &lt;/strong&gt;reflektioner över den egna kunskapsutvecklingen.&lt;/p&gt;&lt;p&gt;Eleven &lt;strong&gt;undersöker &lt;/strong&gt;&lt;strong&gt;och&lt;/strong&gt; utför &lt;strong&gt;med viss säkerhet&lt;/strong&gt; rörelsevokabulär som relaterar till kvaliteterna tyngd &lt;strong&gt;och&lt;/strong&gt; flöde enligt genrernas grundläggande formspråk. I dansen förhåller eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;spatialt den egna kroppen till genrernas konventioner och andra medverkande. Dessutom &lt;strong&gt;undersöker och &lt;/strong&gt;följer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;musikens puls och taktarter.&lt;/p&gt;&lt;p&gt;Eleven utforskar i färdighetsträningen med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat hur den egna kroppen fungerar. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för hur den egna kroppen fungerar. Eleven tränar &lt;strong&gt;efter&lt;/strong&gt;&lt;strong&gt; samråd &lt;/strong&gt;med handledare koordination, styrka och koncentration. Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; grundläggande begrepp och vokabulär i redogörelser och danstekniska övningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med säkerhet &lt;/strong&gt;de koder, konventioner och instruktioner som används vid färdighetsträningen. I färdighetsträningen memorerar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;rörelser samt korrektioner av placering. Dessutom gör eleven &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;reflektioner över den egna kunskapsutvecklingen.&lt;/p&gt;&lt;p&gt;Eleven &lt;strong&gt;undersöker &lt;/strong&gt;&lt;strong&gt;och&lt;/strong&gt; utför &lt;strong&gt;med säkerhet&lt;/strong&gt; rörelsevokabulär som relaterar till kvaliteterna tyngd &lt;strong&gt;och&lt;/strong&gt; flöde &lt;strong&gt;samt anpassar dem till tid och rum&lt;/strong&gt; enligt genrernas grundläggande formspråk. I dansen förhåller eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;spatialt den egna kroppen till genrernas konventioner och andra medverkande. Dessutom &lt;strong&gt;undersöker och &lt;/strong&gt;följer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;musikens puls och taktarter.&lt;/p&gt;&lt;p&gt;Eleven utforskar i färdighetsträningen med &lt;strong&gt;gott &lt;/strong&gt;resultat hur den egna kroppen fungerar. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för hur den egna kroppen fungerar. Eleven tränar &lt;strong&gt;efter&lt;/strong&gt;&lt;strong&gt; samråd &lt;/strong&gt;med handledare koordination, styrka och koncentration. Eleven använder &lt;strong&gt;med säkerhet&lt;/strong&gt; grundläggande begrepp och vokabulär i redogörelser och danstekniska övningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Dansteknik 2</name>
+    <englishName>Dance techniques 2</englishName>
+    <description
+    >&lt;p&gt;Kursen dansteknik 2 omfattar punkterna 1–6 och 8 under rubriken Ämnets syfte, med särskild betoning på punkterna 2–6. I kursen behandlas färdigheter inom vald genre.&lt;/p&gt;</description>
+    <code>DATDAS02S</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Dansteknik 2, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DATDAS02S&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Teknikträningens koder och konventioner.&lt;/li&gt; &lt;li&gt;Träningsprocessens olika delar, dvs. memorering av rörelser, kontinuerlig träning och arbete med placering samt sambandet mellan träningsprocessen och den danstekniska utvecklingen. Hur man kan följa sin egen kunskapsutveckling i dansteknik.&lt;/li&gt; &lt;li&gt;Grundläggande dansteknik i två eller flera genrer samt fördjupat arbete med placering och hur den relaterar till dansteknik. &lt;/li&gt; &lt;li&gt;Fördjupad träning av kroppsminnet. Rörelsevokabulär i relation till stildrag och tydlighet i rörelser, tid, rum, dynamik samt kvaliteter som relaterar till tyngd, flöde och energi. Rörelsernas förhållande till musikens fraser, takter och dynamik.&lt;/li&gt; &lt;li&gt;Grundläggande träning av den spatiala förmågan i relation till den egna kroppen, andra medverkande och till användning av rummet.&lt;/li&gt; &lt;li&gt;Fördjupning om dansens relation till och samspel med ljud, tystnad och olika typer av musik, levande och inspelad, utifrån genrernas konventioner. Hur man uppfattar fraser, taktarter och musikens dynamik.&lt;/li&gt; &lt;li&gt;Fördjupade kunskaper om hur den egna kroppen fungerar.&lt;/li&gt; &lt;li&gt;Fördjupad träning i koordination, rörlighet, styrka och koncentration.&lt;/li&gt; &lt;li&gt;Sammansättning av enklare fraser och övningar enligt genrernas konventioner.&lt;/li&gt; &lt;li&gt;Begrepp, till exempel rörelsefraser och musikaliska fraser, rörelsekvaliteter som tyngd, flöde och energi samt dansgenrernas vokabulär.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven tillämpar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;de koder, konventioner och instruktioner som används vid färdighetsträningen. I färdighetsträningen memorerar och utför eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;rörelser samt korrektioner av placering. Eleven gör även &lt;strong&gt;enkla &lt;/strong&gt;reflektioner över den egna kunskapsutvecklingen, framför allt vad gäller placering och användning av rörelsekvaliteter och rörelsernas relation till musikens fraser, taktarter och dynamik. Eleven arbetar utifrån sina reflektioner &lt;strong&gt;i samråd &lt;/strong&gt;med handledare för att förbättra sin dansteknik.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;med viss säkerhet&lt;/strong&gt; rörelsevokabulär som relaterar till kvaliteterna tyngd, flöde och energi. I dansen utför eleven rörelsevokabulären med viss tydlighet i rörelser samt anpassar rörelsevokabulären till tid och rum med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat enligt genrernas grundläggande formspråk. Dessutom redogör eleven&lt;strong&gt; översiktligt &lt;/strong&gt;för skillnader mellan olika rörelsekvaliteter. I dansen förhåller eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;spatialt den egna kroppen till genrernas konventioner, andra medverkande och olika typer av rum. Dessutom följer eleven och anpassar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;dansens uttryck till musikens taktarter, fraser och dynamik.&lt;/p&gt;&lt;p&gt;Eleven utforskar i färdighetsträningen med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat hur den egna kroppen fungerar. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för hur den egna kroppen fungerar. Eleven tränar &lt;strong&gt;efter&lt;/strong&gt;&lt;strong&gt; samråd &lt;/strong&gt;med handledare koordination, rörlighet, styrka och koncentration. Dessutom sätter eleven &lt;strong&gt;i samråd&lt;/strong&gt; med handledare samman enklare fraser och övningar och använder &lt;strong&gt;med viss säkerhet &lt;/strong&gt;rörelsevokabulär, tyngd, flöde och tid.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; grundläggande begrepp och vokabulär i redogörelser och danstekniska övningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven tillämpar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;de koder, konventioner och instruktioner som används vid färdighetsträningen. I färdighetsträningen memorerar och utför eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;rörelser samt korrektioner av placering. Eleven gör även &lt;strong&gt;välgrundade &lt;/strong&gt;reflektioner över den egna kunskapsutvecklingen, framför allt vad gäller placering och användning av rörelsekvaliteter och rörelsernas relation till musikens fraser, taktarter och dynamik. Eleven arbetar utifrån sina reflektioner &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare för att förbättra sin dansteknik.&lt;/p&gt;&lt;p&gt;Eleven undersöker med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat och utför &lt;strong&gt;med viss säkerhet&lt;/strong&gt; rörelsevokabulär som relaterar till kvaliteterna tyngd, flöde och energi. I dansen utför eleven rörelsevokabulären med viss tydlighet i rörelser samt anpassar rörelsevokabulären till tid och rum med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat enligt genrernas grundläggande formspråk. Dessutom redogör eleven&lt;strong&gt; utförligt &lt;/strong&gt;för skillnader mellan olika rörelsekvaliteter. I dansen förhåller eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;spatialt den egna kroppen till genrernas konventioner, andra medverkande och olika typer av rum. Dessutom &lt;strong&gt;undersöker samt &lt;/strong&gt;följer och anpassar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;dansens uttryck till musikens taktarter, fraser och dynamik.&lt;/p&gt;&lt;p&gt;Eleven utforskar i färdighetsträningen med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat hur den egna kroppen fungerar. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för hur den egna kroppen fungerar. Eleven tränar &lt;strong&gt;efter&lt;/strong&gt;&lt;strong&gt; samråd &lt;/strong&gt;med handledare koordination, rörlighet, styrka och koncentration. Dessutom sätter eleven &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare samman enklare fraser och övningar och använder &lt;strong&gt;med viss säkerhet &lt;/strong&gt;rörelsevokabulär, tyngd, flöde och tid.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; grundläggande begrepp och vokabulär i redogörelser och danstekniska övningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven tillämpar &lt;strong&gt;med säkerhet &lt;/strong&gt;de koder, konventioner och instruktioner som används vid färdighetsträningen. I färdighetsträningen memorerar och utför eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;rörelser samt korrektioner av placering. Eleven gör även &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;reflektioner över den egna kunskapsutvecklingen, framför allt vad gäller placering och användning av rörelsekvaliteter och rörelsernas relation till musikens fraser, taktarter och dynamik. Eleven arbetar utifrån sina reflektioner &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare för att förbättra sin dansteknik.&lt;/p&gt;&lt;p&gt;Eleven undersöker med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat och utför &lt;strong&gt;med säkerhet&lt;/strong&gt; rörelsevokabulär som relaterar till kvaliteterna tyngd, flöde och energi. I dansen utför eleven rörelsevokabulären med viss tydlighet i rörelser samt anpassar rörelsevokabulären till tid och rum med &lt;strong&gt;gott &lt;/strong&gt;resultat enligt genrernas grundläggande formspråk. Dessutom redogör eleven&lt;strong&gt; utförligt och nyanserat &lt;/strong&gt;för skillnader mellan olika rörelsekvaliteter. I dansen förhåller eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;spatialt den egna kroppen till genrernas konventioner, andra medverkande och olika typer av rum. Dessutom &lt;strong&gt;undersöker och &lt;/strong&gt;följer eleven samt anpassar &lt;strong&gt;med säkerhet &lt;/strong&gt;dansens uttryck till musikens taktarter, fraser och dynamik.&lt;/p&gt;&lt;p&gt;Eleven&lt;strong&gt; &lt;/strong&gt;utforskar i färdighetsträningen med &lt;strong&gt;gott &lt;/strong&gt;resultat hur den egna kroppen fungerar. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för hur den egna kroppen fungerar. Eleven tränar &lt;strong&gt;efter&lt;/strong&gt;&lt;strong&gt; samråd &lt;/strong&gt;med handledare&lt;strong&gt; &lt;/strong&gt;koordination, rörlighet, styrka och koncentration. Dessutom sätter eleven &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare samman enklare fraser och övningar och använder &lt;strong&gt;med viss säkerhet &lt;/strong&gt;rörelsevokabulär, tyngd, flöde och tid.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; grundläggande begrepp och vokabulär i redogörelser och danstekniska övningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Dansteknik 3</name>
+    <englishName>Dance techniques 3</englishName>
+    <description
+    >&lt;p&gt;Kursen dansteknik 3 omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 2–6. I kursen behandlas fördjupade färdigheter inom vald genre.&lt;/p&gt;</description>
+    <code>DATDAS03S</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Dansteknik 3, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DATDAS03S&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Teknikträningens koder och konventioner.&lt;/li&gt; &lt;li&gt;Träningsprocessens delar, dvs. memorering av rörelser, kontinuerlig träning och arbete med placering samt sambandet mellan träningsprocessen och den danstekniska utvecklingen. Hur man kan följa sin egen kunskapsutveckling i dansteknik.&lt;/li&gt; &lt;li&gt;Fördjupad dansteknik i en eller flera genrer.&lt;/li&gt; &lt;li&gt;Utveckling av hur kunskaperna i placering ska användas i danstekniska övningar.&lt;/li&gt; &lt;li&gt;Fördjupad träning av kroppsminnet med komplexa övningar. Rörelsevokabulär i relation till stildrag och tydlighet i rörelser, dynamiska kvaliteter, spatial förmåga och rörelsernas relation till musikens dynamik och periodicitet.&lt;/li&gt; &lt;li&gt;Träning i stilkänsla och interpretation genom att omsätta de danstekniska övningarna till ett personligt rörelseuttryck.&lt;/li&gt; &lt;li&gt;Fördjupad träning av den spatiala förmågan i relation till den egna kroppen, andra medverkande och användning av rummet beroende på sammanhanget.&lt;/li&gt; &lt;li&gt;Fördjupning om dansens relation till och samspel med ljud, tystnad och olika typer av musik, levande och inspelad, utifrån genrernas konventioner. Hur man förhåller rörelseuttryckets dynamik till musikens fraser, periodicitet och dynamik.&lt;/li&gt; &lt;li&gt;Fördjupning om hur den egna kroppen fungerar.&lt;/li&gt; &lt;li&gt;Fördjupad träning i koordination, rörlighet, styrka, uthållighet och koncentration.&lt;/li&gt; &lt;li&gt;Sammansättning av fraser och övningar till musik enligt genrernas konventioner.&lt;/li&gt; &lt;li&gt;Begrepp, till exempel stildrag, tydlighet i rörelsen, interpretation, personligt rörelseuttryck, musikalisk periodicitet samt dansgenrernas vokabulär.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven tillämpar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;de koder, konventioner och instruktioner som används vid färdighetsträningen. I färdighetsträningen memorerar och utför eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;övningar samt korrektioner av placering. Eleven gör även &lt;strong&gt;enkla &lt;/strong&gt;reflektioner över den egna kunskapsutvecklingen, framför allt vad gäller användning av dynamiska kvaliteter, tydlighet i rörelser och rörelseuttryckens dynamik till musikens fraser, periodicitet och dynamik. Eleven arbetar utifrån sina reflektioner &lt;strong&gt;i samråd &lt;/strong&gt;med handledare för att förbättra sin dansteknik.&lt;/p&gt;&lt;p&gt;Eleven undersöker med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat och utför &lt;strong&gt;med viss säkerhet&lt;/strong&gt; rörelsevokabulär med dynamiska skillnader i relation till kvaliteterna tyngd, flöde och energi. I dansen utför eleven rörelsevokabulären med viss&lt;strong&gt; &lt;/strong&gt;stilkänsla och tydlighet i rörelser samt anpassar rörelsevokabulären till tid och rum enligt genrernas grundläggande formspråk. Dessutom redogör eleven &lt;strong&gt;översiktligt&lt;/strong&gt; för skillnader mellan olika rörelsekvaliteter. I dansen förhåller eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;spatialt den egna kroppen till genrernas konventioner, andra medverkande och olika typer av rum och sammanhang. Dessutom följer och anpassar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;dansen till musikens fraser, periodicitet och dynamik med ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;rörelseuttryck. &lt;/p&gt;&lt;p&gt;Eleven&lt;strong&gt; &lt;/strong&gt;utforskar i färdighetsträningen med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat hur den egna kroppen fungerar. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för hur den egna kroppen fungerar och ger förslag på kompletterande träningsmetoder som kan förbättra den egna fysiken. Eleven tränar &lt;strong&gt;i&lt;/strong&gt;&lt;strong&gt; samråd &lt;/strong&gt;med handledare koordination, rörlighet, styrka, uthållighet och koncentration. Dessutom sätter eleven &lt;strong&gt;i samråd&lt;/strong&gt; med handledare samman enklare fraser och övningar och använder &lt;strong&gt;med viss säkerhet &lt;/strong&gt;rörelsevokabulär, tyngd, flöde och tid.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; grundläggande begrepp och vokabulär i redogörelser och danstekniska övningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven tillämpar &lt;strong&gt;med säkerhet &lt;/strong&gt;de koder, konventioner och instruktioner som används vid färdighetsträningen. I färdighetsträningen memorerar och utför eleven &lt;strong&gt;med viss säkerhet komplexa &lt;/strong&gt;övningar samt korrektioner av placering. Eleven gör även &lt;strong&gt;välgrundade &lt;/strong&gt;reflektioner över den egna kunskapsutvecklingen, framför allt vad gäller användning av dynamiska kvaliteter, tydlighet i rörelser och rörelseuttryckens dynamik till musikens fraser, periodicitet och dynamik. Eleven arbetar utifrån sina reflektioner &lt;strong&gt;efter samråd &lt;/strong&gt;med handledareför att förbättra sin dansteknik.&lt;/p&gt;&lt;p&gt;Eleven undersöker med&lt;strong&gt; tillfredsställande &lt;/strong&gt;resultat och utför &lt;strong&gt;med viss säkerhet&lt;/strong&gt; rörelsevokabulär med dynamiska skillnader i relation till kvaliteterna tyngd, flöde och energi. I dansen utför eleven rörelsevokabulären med viss&lt;strong&gt; &lt;/strong&gt;stilkänsla och tydlighet i rörelser samt anpassar rörelsevokabulären till tid och rum enligt genrernas grundläggande formspråk. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för skillnader mellan olika rörelsekvaliteter. I dansen förhåller eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;spatialt den egna kroppen till genrernas konventioner, andra medverkande och olika typer av rum och sammanhang. Dessutom &lt;strong&gt;undersöker samt&lt;/strong&gt; följer och anpassar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;dansen till musikens fraser, periodicitet och dynamik med ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;rörelseuttryck. &lt;/p&gt;&lt;p&gt;Eleven&lt;strong&gt; &lt;/strong&gt;utforskar i färdighetsträningen med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat hur den egna kroppen fungerar. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för hur den egna kroppen fungerar och ger &lt;strong&gt;välgrundade &lt;/strong&gt;förslag på kompletterande träningsmetoder som kan förbättra den egna fysiken. Eleven tränar &lt;strong&gt;efter&lt;/strong&gt;&lt;strong&gt; samråd &lt;/strong&gt;med handledare&lt;strong&gt; &lt;/strong&gt;koordination, rörlighet, styrka, uthållighet och koncentration. Dessutom sätter eleven &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare samman enklare fraser och övningar i relation till rum och musik och använder &lt;strong&gt;med viss säkerhet &lt;/strong&gt;rörelsevokabulär, tyngd, flöde och tid.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; grundläggande begrepp och vokabulär i redogörelser och danstekniska övningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven tillämpar &lt;strong&gt;med säkerhet &lt;/strong&gt;de koder, konventioner och instruktioner som används vid färdighetsträningen. I färdighetsträningen memorerar och utför eleven &lt;strong&gt;med säkerhet komplexa &lt;/strong&gt;övningar samt korrektioner av placering. Eleven gör även &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; reflektioner över den egna kunskapsutvecklingen, framför allt vad gäller användning av dynamiska kvaliteter, tydlighet i rörelser och rörelseuttryckens dynamik till musikens fraser, periodicitet och dynamik. Eleven arbetar utifrån sina reflektioner &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare för att förbättra sin dansteknik.&lt;/p&gt;&lt;p&gt;Eleven undersöker med &lt;strong&gt;gott &lt;/strong&gt;resultat och utför &lt;strong&gt;med säkerhet&lt;/strong&gt; rörelsevokabulär med dynamiska skillnader i relation till kvaliteterna tyngd, flöde och energi. I dansen utför eleven rörelsevokabulären med viss stilkänsla och tydlighet i rörelser samt anpassar rörelsevokabulären till tid och rum enligt genrernas grundläggande formspråk. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för skillnader mellan olika rörelsekvaliteter. I dansen förhåller eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;spatialt den egna kroppen till genrernas konventioner, andra medverkande och olika typer av rum och sammanhang. Dessutom &lt;strong&gt;undersöker samt&lt;/strong&gt; följer och anpassar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;dansen till musikens fraser, periodicitet och dynamik med ett &lt;strong&gt;gott &lt;/strong&gt;rörelseuttryck.&lt;/p&gt;&lt;p&gt;Eleven utforskar i färdighetsträningen med &lt;strong&gt;gott &lt;/strong&gt;resultat hur den egna kroppen fungerar. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för hur den egna kroppen fungerar och ger &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; förslag på kompletterande träningsmetoder som kan förbättra den egna fysiken. Eleven tränar &lt;strong&gt;efter&lt;/strong&gt;&lt;strong&gt; samråd &lt;/strong&gt;med handledare koordination, rörlighet, styrka, uthållighet och koncentration. Dessutom sätter eleven &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare samman enklare fraser och övningar i relation till rum och musik och använder &lt;strong&gt;med säkerhet &lt;/strong&gt;rörelsevokabulär, tyngd, flöde och tid.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med säkerhet&lt;/strong&gt; grundläggande begrepp och vokabulär i redogörelser och danstekniska övningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <courses>
+    <name>Dansteknik 4</name>
+    <englishName>Dance techniques 4</englishName>
+    <description
+    >&lt;p&gt;Kursen dansteknik 4 omfattar punkterna 1–8 under rubriken Ämnets syfte, med särskild betoning på punkterna 2–5 och 7–8. I kursen behandlas avancerade färdigheter inom vald genre.&lt;/p&gt;</description>
+    <code>DATDAS04S</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Dansteknik 4, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DATDAS04S&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Teknikträningens koder och konventioner.&lt;/li&gt; &lt;li&gt;Träningsprocessens delar, dvs. memorering av rörelser, kontinuerlig träning och arbete med placering samt sambandet mellan träningsprocessen och den danstekniska utvecklingen. Hur man kan följa sin egen kunskapsutveckling i dansteknik.&lt;/li&gt; &lt;li&gt;Avancerad dansteknik i en eller flera genrer.&lt;/li&gt; &lt;li&gt;Fördjupad träning av placering och hur den relaterar till dansteknik.&lt;/li&gt; &lt;li&gt;Avancerad träning av kroppsminnet med komplexa övningar. Förfinad rörelsevokabulär, skillnader mellan dynamiska kvaliteter, spatial förmåga och anpassning av rörelserna både med och mot musikens dynamik och periodicitet.&lt;/li&gt; &lt;li&gt;Träning i stilkänsla och interpretation genom att omsätta de danstekniska övningarna till ett personligt rörelseuttryck. Träning i att med en tydlighet i rörelsen dansa dynamiskt och varierat.&lt;/li&gt; &lt;li&gt;Fördjupad träning av spatial förmåga både i relation till kroppen, andra medverkande och användning av rummet beroende på sammanhang.&lt;/li&gt; &lt;li&gt;Fördjupning om dansens relation till och samspel med ljud, tystnad och olika typer av musik, levande och inspelad, utifrån genrernas konventioner. Hur man tänjer på gränserna mellan rörelseuttrycket och musikens fraser, periodicitet och dynamik.&lt;/li&gt; &lt;li&gt;Fördjupade kunskaper om hur den egna kroppen fungerar.&lt;/li&gt; &lt;li&gt;Fördjupad träning av rörlighet, smidighet, styrka, uthållighet, koncentration och fördjupad komplexitet när det gäller träning av koordination.&lt;/li&gt; &lt;li&gt;Begrepp, till exempel stildrag, tydlighet i rörelsen, interpretation, personligt rörelseuttryck, musikalisk periodicitet samt dansgenrernas vokabulär.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven tillämpar med säkerhet de koder, konventioner och instruktioner som används vid färdighetsträningen. I färdighetsträningen memorerar och utför eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;övningar samt korrektioner av placering. Eleven gör även &lt;strong&gt;enkla &lt;/strong&gt;reflektioner över den egna kunskapsutvecklingen, framför allt vad gäller användning av dynamiska kvaliteter, tydlighet i rörelser och rörelseuttryckens dynamik till musikens fraser, periodicitet och dynamik. Eleven arbetar utifrån sina reflektioner &lt;strong&gt;i samråd &lt;/strong&gt;med handledare för att förbättra sin dansteknik.&lt;/p&gt;&lt;p&gt;Eleven undersöker och utför &lt;strong&gt;med viss säkerhet&lt;/strong&gt; rörelsevokabulär med dynamiska skillnader i relation till kvaliteterna tyngd, flöde och energi. I dansen utför eleven rörelsevokabulären med viss&lt;strong&gt; &lt;/strong&gt;stilkänsla och tydlighet i rörelser samt anpassar rörelsevokabulären till tid och rum enligt genrernas grundläggande formspråk. Dessutom redogör eleven &lt;strong&gt;översiktligt&lt;/strong&gt; för skillnader mellan olika rörelsekvaliteter. I dansen förhåller eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;spatialt den egna kroppen till genrernas konventioner, andra medverkande och olika typer av rum och sammanhang. Dessutom följer och anpassar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;dansen till musikens fraser, periodicitet och dynamik.&lt;/p&gt;&lt;p&gt;Eleven&lt;strong&gt; &lt;/strong&gt;utforskar i färdighetsträningen med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat hur den egna kroppen fungerar. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för hur den egna kroppen fungerar och ger förslag på kompletterande träningsmetoder som kan förbättra den egna fysiken. Eleven tränar &lt;strong&gt;i&lt;/strong&gt;&lt;strong&gt; samråd &lt;/strong&gt;med handledare&lt;strong&gt; &lt;/strong&gt;koordination, rörlighet, smidighet, styrka, uthållighet och koncentration.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; grundläggande begrepp och vokabulär i redogörelser och danstekniska övningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven tillämpar med säkerhet de koder, konventioner och instruktioner som används vid färdighetsträningen. I färdighetsträningen memorerar och utför eleven &lt;strong&gt;med viss säkerhet komplexa &lt;/strong&gt;övningar samt korrektioner av placering. Eleven gör även &lt;strong&gt;välgrundade &lt;/strong&gt;reflektioner över den egna kunskapsutvecklingen, framför allt vad gäller användning av dynamiska kvaliteter, tydlighet i rörelser och rörelseuttryckens dynamik till musikens fraser, periodicitet och dynamik. Eleven arbetar utifrån sina reflektioner &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare för att förbättra sin dansteknik.&lt;/p&gt;&lt;p&gt;Eleven undersöker och utför &lt;strong&gt;med viss säkerhet&lt;/strong&gt; rörelsevokabulär med dynamiska skillnader i relation till kvaliteterna tyngd, flöde och energi. I dansen utför eleven rörelsevokabulären med viss&lt;strong&gt; &lt;/strong&gt;stilkänsla och tydlighet i rörelser samt anpassar rörelsevokabulären till tid och rum enligt genrernas grundläggande formspråk. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för skillnader mellan olika rörelsekvaliteter. I dansen förhåller eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;spatialt den egna kroppen till genrernas konventioner, andra medverkande och olika typer av rum och sammanhang. Dessutom &lt;strong&gt;undersöker samt&lt;/strong&gt; följer och anpassar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;dansen till musikens fraser, periodicitet och dynamik.&lt;/p&gt;&lt;p&gt;Eleven&lt;strong&gt; &lt;/strong&gt;utforskar i färdighetsträningen med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat hur den egna kroppen fungerar. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för hur den egna kroppen fungerar och ger &lt;strong&gt;välgrundade &lt;/strong&gt;förslag på kompletterande träningsmetoder som kan förbättra den egna fysiken. Eleven tränar &lt;strong&gt;efter&lt;/strong&gt;&lt;strong&gt; samråd &lt;/strong&gt;med handledare&lt;strong&gt; &lt;/strong&gt;koordination, rörlighet, smidighet, styrka, uthållighet och koncentration.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; grundläggande begrepp och vokabulär i redogörelser och danstekniska övningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav. &lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven tillämpar med säkerhet de koder, konventioner och instruktioner som används vid färdighetsträningen. I färdighetsträningen memorerar och utför eleven &lt;strong&gt;med säkerhet komplexa &lt;/strong&gt;övningar samt korrektioner av placering. Eleven gör även &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;reflektioner över den egna kunskapsutvecklingen, framför allt vad gäller användning av dynamiska kvaliteter, tydlighet i rörelser och rörelseuttryckens dynamik till musikens fraser, periodicitet och dynamik. Eleven arbetar utifrån sina reflektioner &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare för att förbättra sin dansteknik.&lt;/p&gt;&lt;p&gt;Eleven undersöker och utför &lt;strong&gt;med säkerhet&lt;/strong&gt; rörelsevokabulär med dynamiska skillnader i relation till kvaliteterna tyngd, flöde och energi. I dansen utför eleven rörelsevokabulären med viss stilkänsla och tydlighet i rörelser samt anpassar rörelsevokabulären till tid och rum enligt genrernas grundläggande formspråk. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för skillnader mellan olika rörelsekvaliteter. I dansen förhåller eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;spatialt den egna kroppen till genrernas konventioner, andra medverkande och olika typer av rum och sammanhang. Dessutom&lt;strong&gt; undersöker samt &lt;/strong&gt;följer och anpassar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;dansen till musikens fraser, periodicitet och dynamik.&lt;/p&gt;&lt;p&gt;Eleven utforskar i färdighetsträningen med &lt;strong&gt;gott &lt;/strong&gt;resultat hur den egna kroppen fungerar. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för hur den egna kroppen fungerar och ger &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;förslag på kompletterande träningsmetoder som kan förbättra den egna fysiken. Eleven tränar &lt;strong&gt;efter&lt;/strong&gt;&lt;strong&gt; samråd &lt;/strong&gt;med handledare koordination, rörlighet, smidighet, styrka, uthållighet och koncentration.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med säkerhet&lt;/strong&gt; grundläggande begrepp och vokabulär i redogörelser och danstekniska övningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>4</sortOrder>
+  </courses>
+  <courses>
+    <name>Dansteknik – specialisering</name>
+    <englishName>Dance techniques – specialisation</englishName>
+    <description
+    >&lt;p&gt;Kursen dansteknik – specialisering omfattar punkterna 1–8 under rubriken Ämnets syfte. I kursen behandlas fördjupade färdigheter inom vald genre.&lt;/p&gt;</description>
+    <code>DATDAN00S</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Dansteknik – specialisering, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DATDAN00S&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Teknikträningens koder och konventioner.&lt;/li&gt; &lt;li&gt;Träningsprocessens delar, dvs. memorering av rörelser, kontinuerlig träning och arbete med placering samt sambandet mellan träningsprocessen och den danstekniska utvecklingen. Hur man kan följa sin egen kunskapsutveckling i dansteknik.&lt;/li&gt; &lt;li&gt;Avancerad dansteknik i en eller flera genrer med fokus på stilkänsla.&lt;/li&gt; &lt;li&gt;Fördjupad träning av placering, hur den relaterar till dansteknik och utgör en del av stilkänslan.&lt;/li&gt; &lt;li&gt;Avancerad träning av kroppsminnet med komplexa övningar. Stilkänsla, förfinad rörelsevokabulär, skillnader mellan dynamiska kvaliteter, spatial förmåga och utforskande av rörelserna både med och mot musikens dynamik och periodicitet.&lt;/li&gt; &lt;li&gt;Konstnärligt förhållande till träning med fokus på interpretation genom att omsätta de danstekniska övningarna till ett personligt rörelseuttryck med stilkänsla.&lt;/li&gt; &lt;li&gt;Träning i stilkänsla och att med tydlighet i rörelsen dansa dynamiskt och varierat.&lt;/li&gt; &lt;li&gt;Fördjupad träning av spatial förmåga både i relation till kroppen, andra medverkande och användning av rummet beroende på sammanhang med fokus på stil och stilens konvention.&lt;/li&gt; &lt;li&gt;Konstnärligt uttryck i dansteknik genom interpretation av dansens relation till och samspel med ljud, tystnad och olika typer av musik, levande och inspelad, utifrån genrernas konventioner. Hur man rörelsemässigt och musikaliskt tänjer på gränserna för att uppnå ett dynamiskt varierat uttryck.&lt;/li&gt; &lt;li&gt;Fördjupade kunskaper om hur den egna kroppen fungerar.&lt;/li&gt; &lt;li&gt;Fördjupad träning av rörlighet, smidighet, styrka, uthållighet, koncentration och fördjupad komplexitet när det gäller träning av koordination.&lt;/li&gt; &lt;li&gt;Begrepp, till exempel stilkänsla, tydlighet i rörelsen, interpretation, personligt rörelseuttryck, dynamisk variation samt dansgenrernas vokabulär.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven tillämpar med säkerhet de koder, konventioner och instruktioner som används vid färdighetsträningen. I färdighetsträningen memorerar och utför eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; övningar samt korrektioner av placering i enlighet med genrernas stil. Eleven gör även &lt;strong&gt;enkla &lt;/strong&gt;reflektioner över den egna kunskapsutvecklingen, framför allt vad gäller stilkänsla, användning av dynamiska kvaliteter, tydlighet i rörelser och rörelseuttryckens dynamik till musikens fraser, periodicitet och dynamik. Eleven arbetar utifrån sina reflektioner &lt;strong&gt;i samråd &lt;/strong&gt;med handledare för att förbättra sin dansteknik både tekniskt och stilmässigt.&lt;/p&gt;&lt;p&gt;Eleven undersöker och utför &lt;strong&gt;med viss säkerhet &lt;/strong&gt;rörelsevokabulär med dynamiska skillnader i relation till kvaliteterna tyngd, flöde och energi. I dansen utför eleven med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat rörelsevokabulären med viss stilkänsla och tydlighet i rörelser samt anpassar rörelsevokabulären till tid och rum enligt genrernas grundläggande formspråk. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för skillnader mellan olika rörelsekvaliteter och hur de påverkar stilen. I dansen förhåller eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;spatialt den egna kroppen till genrernas konventioner, andra medverkande och olika typer av rum och sammanhang. Dessutom följer och anpassar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;rörelseuttrycket i förhållande till musikens fraser, periodicitet och dynamik.&lt;/p&gt;&lt;p&gt;Eleven utforskar i färdighetsträningen med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat hur den egna kroppen fungerar. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för hur den egna kroppen fungerar och ger förslag på kompletterande träningsmetoder som kan förbättra den egna fysiken. Eleven tränar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare koordination, rörlighet, smidighet, styrka, uthållighet och koncentration.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet &lt;/strong&gt;grundläggande begrepp och vokabulär i redogörelser och danstekniska övningar. När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven tillämpar med säkerhet de koder, konventioner och instruktioner som används vid färdighetsträningen. I färdighetsträningen memorerar och utför eleven &lt;strong&gt;med viss säkerhet komplexa &lt;/strong&gt;övningar samt korrektioner av placering i enlighet med genrernas stil. Eleven gör även &lt;strong&gt;välgrundade &lt;/strong&gt;reflektioner över den egna kunskapsutvecklingen, framför allt vad gäller stilkänsla, användning av dynamiska kvaliteter, tydlighet i rörelser och rörelseuttryckens dynamik till musikens fraser, periodicitet och dynamik. Eleven arbetar utifrån sina reflektioner &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare för att förbättra sin dansteknik både tekniskt och stilmässigt.&lt;/p&gt;&lt;p&gt;Eleven undersöker och utför &lt;strong&gt;med viss säkerhet &lt;/strong&gt;rörelsevokabulär med dynamiska skillnader i relation till kvaliteterna tyngd, flöde och energi. I dansen utför eleven med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat rörelsevokabulären med stilkänsla och tydlighet i rörelser samt anpassar rörelsevokabulären till tid och rum enligt genrernas grundläggande formspråk. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för skillnader mellan olika rörelsekvaliteter och hur de påverkar stilen. I dansen förhåller eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;spatialt den egna kroppen till genrernas konventioner, andra medverkande och olika typer av rum och sammanhang. Dessutom &lt;strong&gt;undersöker &lt;/strong&gt;samt följer och anpassar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;rörelseuttrycket i förhållande till musikens fraser, periodicitet och dynamik.&lt;/p&gt;&lt;p&gt;Eleven utforskar i färdighetsträningen med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat hur den egna kroppen fungerar. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för hur den egna kroppen fungerar och ger &lt;strong&gt;välgrundade &lt;/strong&gt;förslag på kompletterande träningsmetoder som kan förbättra den egna fysiken. Eleven tränar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare koordination, rörlighet, smidighet, styrka, uthållighet och koncentration.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet &lt;/strong&gt;grundläggande begrepp och vokabulär i redogörelser och danstekniska övningar. När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven tillämpar med säkerhet de koder, konventioner och instruktioner som används vid färdighetsträningen. I färdighetsträningen memorerar och utför eleven &lt;strong&gt;med säkerhet komplexa &lt;/strong&gt;övningar samt korrektioner av placering i enlighet med genrernas stil. Eleven gör även &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;reflektioner över den egna kunskapsutvecklingen, framför allt vad gäller stilkänsla, användning av dynamiska kvaliteter, tydlighet i rörelser och rörelseuttryckens dynamik till musikens fraser, periodicitet och dynamik. Eleven arbetar utifrån sina reflektioner &lt;strong&gt;efter&lt;/strong&gt; &lt;strong&gt;samråd &lt;/strong&gt;med handledare för att förbättra sin dansteknik både tekniskt och stilmässigt.&lt;/p&gt;&lt;p&gt;Eleven undersöker och utför &lt;strong&gt;med säkerhet &lt;/strong&gt;rörelsevokabulär med dynamiska skillnader i relation till kvaliteterna tyngd, flöde och energi. I dansen utför eleven med &lt;strong&gt;gott &lt;/strong&gt;resultat rörelsevokabulären med stilkänsla och tydlighet i rörelser samt anpassar rörelsevokabulären till tid och rum enligt genrernas grundläggande formspråk. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för skillnader mellan olika rörelsekvaliteter och hur de påverkar stilen. I dansen förhåller eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;spatialt den egna kroppen till genrernas konventioner, andra medverkande och olika typer av rum och sammanhang. Dessutom &lt;strong&gt;undersöker &lt;/strong&gt;samt följer och anpassar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;rörelseuttrycket i förhållande till musikens fraser, periodicitet och dynamik.&lt;/p&gt;&lt;p&gt;Eleven utforskar i färdighetsträningen med &lt;strong&gt;gott &lt;/strong&gt;resultat hur den egna kroppen fungerar. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för hur den egna kroppen fungerar och ger &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;förslag på kompletterande träningsmetoder som kan förbättra den egna fysiken. Eleven tränar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare koordination, rörlighet, smidighet, styrka, uthållighet och koncentration.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med säkerhet &lt;/strong&gt;grundläggande begrepp och vokabulär i redogörelser och danstekniska övningar. När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>5</sortOrder>
+  </courses>
+  <courses>
+    <name>Dansträning</name>
+    <englishName>Dance training</englishName>
+    <description
+    >&lt;p&gt;Kursen dansträning omfattar punkterna 2 och 6–9 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>DATDAR0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Dansträning, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: DATDAR0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Träningsprocessens delar, dvs. memorering av rörelser, kontinuerlig träning och arbete med placering. Hur man kan följa sin egen kunskapsutveckling i dansteknik.&lt;/li&gt; &lt;li&gt;Grundläggande anatomi.&lt;/li&gt; &lt;li&gt;Skadeförebyggande träning. Dansteknikövningar med betoning på att arbeta anatomiskt och fysiskt rätt.&lt;/li&gt; &lt;li&gt;Övningar för uppvärmning, nedvarvning, stretch och vila samt hur dessa moment kan sättas samman för att förstärka danstekniska övningar.&lt;/li&gt; &lt;li&gt;Övningar för att träna kondition, smidighet, rörlighet och styrka.&lt;/li&gt; &lt;li&gt;Kostens betydelse för att stärka kroppen vid träning. Hur övningar och träningsprogram sätts samman för att stärka och optimera den egna kroppen i dansteknikträning. &lt;/li&gt; &lt;li&gt;Övningar i stresshantering och hur dessa genomförs för att hantera situationer som kan upplevas som pressade både i träningssituationer och vid sceniska framträdanden.&lt;/li&gt; &lt;li&gt;Begrepp, till exempel stretch, uppvärmning och nedvarvning.&lt;/li&gt; &lt;li&gt;Arbetsmiljöns betydelse för dansträning.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för hur den egna kroppen fungerar samt anpassar &lt;strong&gt;i samråd&lt;/strong&gt; med handledare sin färdighetsträning till anatomiska krav och kroppens fysik. Eleven utvärderar med &lt;strong&gt;enkla&lt;/strong&gt; omdömen sina danstekniska övningar ur anatomisk synvinkel.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;med viss säkerhet&lt;/strong&gt; övningar för uppvärmning, nedvarvning och stretch. Dessutom sätter eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare samman ett program för att träna detta. Eleven utvärderar sin träning med &lt;strong&gt;enkla&lt;/strong&gt; omdömen.&lt;/p&gt;&lt;p&gt;Eleven genomför även &lt;strong&gt;med viss säkerhet &lt;/strong&gt;övningar för att träna kondition, smidighet, rörlighet och styrka. Dessutom sätter eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare samman ett program för att träna detta. Eleven utvärderar sin träning med &lt;strong&gt;enkla&lt;/strong&gt; omdömen.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för kostens betydelse för att stärka kroppen vid träning.&lt;/p&gt;&lt;p&gt;Eleven genomför &lt;strong&gt;med viss säkerhet &lt;/strong&gt;övningar i stresshantering. Dessutom värderar eleven med &lt;strong&gt;enkla &lt;/strong&gt;omdömen sin egen arbetsmiljö.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; adekvata begrepp i redogörelser och värderingar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för hur den egna kroppen fungerar samt anpassar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sin färdighetsträning till anatomiska krav och kroppens fysik. Eleven utvärderar med &lt;strong&gt;nyanserade&lt;/strong&gt; omdömen sina danstekniska övningar ur anatomisk synvinkel.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;med viss säkerhet&lt;/strong&gt; övningar för uppvärmning, nedvarvning och stretch. Dessutom sätter eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare samman ett program för att träna detta. Eleven utvärderar sin träning med &lt;strong&gt;nyanserade&lt;/strong&gt; omdömen.&lt;/p&gt;&lt;p&gt;Eleven genomför även &lt;strong&gt;med viss säkerhet &lt;/strong&gt;övningar för att träna kondition, smidighet, rörlighet och styrka. Dessutom sätter eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare samman ett program för att träna detta. Eleven utvärderar sin träning med &lt;strong&gt;nyanserade&lt;/strong&gt; omdömen &lt;strong&gt;samt skapar och genomför vid behov nya övningar för att stärka kroppens svaga delar&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för kostens betydelse för att stärka kroppen vid träning.&lt;/p&gt;&lt;p&gt;Eleven genomför &lt;strong&gt;med viss säkerhet &lt;/strong&gt;övningar i stresshantering. Dessutom värderar eleven med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sin egen arbetsmiljö.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; adekvata begrepp i redogörelser och värderingar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för hur den egna kroppen fungerar samt anpassar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sin färdighetsträning till anatomiska krav och kroppens fysik. Eleven utvärderar med &lt;strong&gt;nyanserade&lt;/strong&gt; omdömen sina danstekniska övningar ur anatomisk synvinkel&lt;strong&gt; samt ger förslag på förändringar för att bättre anpassa träningen till anatomiska krav och kroppens fysik&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;med säkerhet&lt;/strong&gt; övningar för uppvärmning, nedvarvning och stretch. Dessutom sätter eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare samman ett program för att träna detta. Eleven utvärderar sin träning med &lt;strong&gt;nyanserade&lt;/strong&gt; omdömen &lt;strong&gt;samt ger förslag på hur träningen kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven genomför även &lt;strong&gt;med säkerhet &lt;/strong&gt;övningar för att träna kondition, smidighet, rörlighet och styrka. Dessutom sätter eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare samman ett program för att träna detta. Eleven utvärderar sin träning med &lt;strong&gt;nyanserade&lt;/strong&gt; omdömen &lt;strong&gt;samt skapar och genomför vid behov nya övningar för att stärka kroppens svaga delar&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för kostens betydelse för att stärka kroppen vid träning.&lt;/p&gt;&lt;p&gt;Eleven genomför &lt;strong&gt;med säkerhet &lt;/strong&gt;övningar i stresshantering. Dessutom värderar eleven med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sin egen arbetsmiljö&lt;strong&gt; samt ger förslag på hur arbetsmiljön kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven använder &lt;strong&gt;med säkerhet&lt;/strong&gt; adekvata begrepp i redogörelser och värderingar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>6</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

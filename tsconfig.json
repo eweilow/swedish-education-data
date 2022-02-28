@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "allowJs": true,
-    "target": "es2020",
+    "target": "ESNext",
     "strict": false,
     "strictNullChecks": true,
     "moduleResolution": "node",

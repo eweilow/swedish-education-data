@@ -1,0 +1,116 @@
+{
+  "subject": "REP",
+  "title": "Personbilar - system- och diagnosteknik 1",
+  "code": "REPPER01",
+  "points": 200,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> funktionsprinciper för och konstruktioner av olika personbilars och lätta transportfordons olika elektroniska nätverkssystem samt hur de kommunicerar med varandra.",
+        "Eleven beskriver även <strong>utförligt och nyanserat</strong> olika förarassistans- och säkerhetssystem samt deras funktion och komponenter.",
+        "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> olika system för telematik och mobilitet i fordon samt hur de samverkar med andra system i fordon."
+      ],
+      [
+        "Eleven utför, <strong>efter samråd</strong> med handledare, i bekanta <strong>men även nya</strong> situationer funktionskontroll, felsökning och diagnos av olika el- och elektroniska system samt deras olika komponenter.",
+        "Eleven utför även, <strong>efter samråd</strong> med handledare, i bekanta <strong>men även nya</strong> situationer funktionskontroller, felsökning och diagnos på olika motorstyrsystem."
+      ],
+      [
+        "I arbetet använder eleven <strong>med säkerhet</strong> rätt arbetsmetod och med <strong>mycket gott</strong> handlag mät- och diagnosutrustning samt specialverktyg, verktyg och utrustning.",
+        "Dessutom använder eleven <strong>med säkerhet</strong> manualer, scheman och digitala informationssystem.",
+        "Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav."
+      ],
+      [
+        "När eleven kommunicerar med kunder och arbetskamrater använder eleven <strong>med säkerhet</strong> ett yrkesmässigt språk.",
+        "I kommunikationen med kunder anpassar eleven språket efter målgruppen.",
+        "Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat.",
+        "Resultatet av elevens arbete är <strong>gott</strong>."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> funktionsprinciper för och konstruktioner av olika personbilars och lätta transportfordons olika elektroniska nätverkssystem samt hur de kommunicerar med varandra.",
+        "Eleven beskriver även <strong>utförligt</strong> olika förarassistans- och säkerhetssystem samt deras funktion och komponenter.",
+        "Dessutom beskriver eleven <strong>utförligt</strong> olika system för telematik och mobilitet i fordon samt hur de samverkar med andra system i fordon."
+      ],
+      [
+        "Eleven utför, <strong>efter samråd</strong> med handledare, i bekanta situationer funktionskontroll, felsökning och diagnos av olika el- och elektroniska system samt deras olika komponenter.",
+        "Eleven utför även, <strong>efter samråd</strong> med handledare, i bekanta situationer funktionskontroller, felsökning och diagnos på olika motorstyrsystem."
+      ],
+      [
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> rätt arbetsmetod och med <strong>gott</strong> handlag mät- och diagnosutrustning samt specialverktyg, verktyg och utrustning.",
+        "Dessutom använder eleven <strong>med viss säkerhet</strong> manualer, scheman och digitala informationssystem.",
+        "Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav."
+      ],
+      [
+        "När eleven kommunicerar med kunder och arbetskamrater använder eleven <strong>med viss säkerhet</strong> ett yrkesmässigt språk.",
+        "I kommunikationen med kunder anpassar eleven språket efter målgruppen.",
+        "Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat.",
+        "Resultatet av elevens arbete är <strong>tillfredsställande</strong>."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> funktionsprinciper för och konstruktioner av olika personbilars och lätta transportfordons olika elektroniska nätverkssystem samt hur de kommunicerar med varandra.",
+        "Eleven beskriver även <strong>översiktligt</strong> olika förarassistans- och säkerhetssystem samt deras funktion och komponenter.",
+        "Dessutom beskriver eleven <strong>översiktligt</strong> olika system för telematik och mobilitet i fordon samt hur de samverkar med andra system i fordon."
+      ],
+      [
+        "Eleven utför, <strong>i samråd</strong> med handledare, i bekanta situationer funktionskontroll, felsökning och diagnos av olika el- och elektroniska system samt deras olika komponenter.",
+        "Eleven utför även, <strong>i samråd</strong> med handledare, i bekanta situationer funktionskontroller, felsökning och diagnos på olika motorstyrsystem."
+      ],
+      [
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> rätt arbetsmetod och med <strong>visst</strong> handlag mät- och diagnosutrustning samt specialverktyg, verktyg och utrustning.",
+        "Dessutom använder eleven <strong>med viss säkerhet</strong> manualer, scheman och digitala informationssystem.",
+        "Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav."
+      ],
+      [
+        "När eleven kommunicerar med kunder och arbetskamrater använder eleven <strong>med viss säkerhet</strong> ett yrkesmässigt språk.",
+        "I kommunikationen med kunder anpassar eleven språket efter målgruppen.",
+        "Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat.",
+        "Resultatet av elevens arbete är <strong>tillfredsställande</strong>."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Personbilars och lätta transportfordons olika elektroniska nätverkssystem samt deras uppbyggnad, funktion och komponenter.",
+        "Kommunikationsteknik, bland annat CAN bus, LIN och MOST.",
+        "Elektroniska komponenter och deras funktioner, bland annat ledare, halvledare och isolatorer.",
+        "Olika förarassistans- och säkerhetssystem, deras konstruktion, funktioner och komponenter, bland annat system för start- och stoppautomatik, system för adaptiva funktioner samt system för däcktrycksövervakning och parkeringsassistans.",
+        "Olika system för telematik och mobilitet i fordon, deras funktioner och komponenter samt hur de samverkar med andra system i fordon.",
+        "Metoder för och genomförande av funktionskontroll, felsökning och diagnos av el- och elektroniska system och deras komponenter.",
+        "Metoder för och genomförande av funktionskontroller, felsökning och diagnos på motorstyrsystem med diagnosinstrument.",
+        "Digitala informationssystem och mätutrustningar samt tolkning och utvärdering av utläst mätdata i samband med felsökning och diagnos.",
+        "Användning av specialverktyg, verktyg och utrustning på ett kvalitetsmässigt sätt samt vård av dessa.",
+        "Fordonstillverkares anvisningar och krav samt scheman och övrig teknisk information på svenska och engelska.",
+        "Arbetsinstruktioner, servicelitteratur och system för reservdelsbeställning på svenska och engelska.",
+        "SRS-systemets funktion och risker vid arbete med systemet.",
+        "Säkerhet på arbetsplatsen och förebyggande av person- och egendomsskador.",
+        "Lagar och andra bestämmelser som gäller för arbetet.",
+        "Arbete med problemlösning och uppgifter såväl självständigt som tillsammans med andra.",
+        "Yrkesmässigt språk, kommunikation och målgruppsanpassning."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen personbilar - system- och diagnosteknik 1 omfattar punkterna 1-7 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ]
+}

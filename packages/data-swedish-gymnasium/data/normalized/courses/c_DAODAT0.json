@@ -1,0 +1,75 @@
+{
+  "name": "Datorsamordning och support",
+  "code": "DAODAT0",
+  "focusAreas": {
+    "string": "Kursen datorsamordning och support omfattar punkterna 2-5 under rubriken Ämnets syfte, med särskild betoning på punkt 5.",
+    "entries": [
+      "2-5"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Grundläggande felsökningsmetodik.",
+          "2. Systemintegration.",
+          "3. Teknisk dokumentation av datorsystem.",
+          "4. Kundmottagning och ärendehantering, till exempel muntlig kundmottagning, kundmottagning med e-post och andra typer av ärendehanteringssystem.",
+          "5. Analysera användarkrav och översätta dem till konkreta lösningar.",
+          "6. Pedagogisk handledning av it-system. Det pedagogiska tankesättet och kunskaper om tekniker för pedagogisk handledning, till exempel fjärrstyrning av muspekare.",
+          "7. Licenstyper och licenshantering.",
+          "8. Utvärdering och val av it-produkter på marknaden i dagsläget.",
+          "9. Manualer och annan hjälpdokumentation för användare, till exempel enkel text, hypertext, bilder, filmer, inspelade musrörelser och menyhantering."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** hur kundmottagning kan bedrivas och hur ärendehanteringssystem är uppbyggda och fungerar."
+      ],
+      [
+        "Eleven planerar och utför **i samråd** med handledare och med **visst** handlag felsökning samt åtgärdar **enkla** fel i datorer och datorsystem.",
+        "Dessutom planerar och utför eleven **i samråd** med handledare och **med viss säkerhet** pedagogisk handledning och support till kund.",
+        "Resultatet är **tillfredsställande** i fråga om funktion, säkerhet och kvalitet.",
+        "Eleven hanterar med **visst** handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven **med viss säkerhet** instruktioner, manualer och andra dokument på både svenska och engelska samt gör en **enkel** dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** hur kundmottagning kan bedrivas och hur ärendehanteringssystem är uppbyggda och fungerar."
+      ],
+      [
+        "Eleven planerar och utför **efter samråd** med handledare och med **gott** handlag felsökning samt åtgärdar fel i datorer och datorsystem.",
+        "Dessutom planerar och utför eleven **efter samråd** med handledare och **med viss säkerhet** pedagogisk handledning och support till kund.",
+        "Resultatet är **tillfredsställande** i fråga om funktion, säkerhet och kvalitet.",
+        "Eleven hanterar med **gott** handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven **med viss säkerhet** instruktioner, manualer och andra dokument på både svenska och engelska samt gör en **noggrann** dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** hur kundmottagning kan bedrivas och hur ärendehanteringssystem är uppbyggda och fungerar."
+      ],
+      [
+        "Eleven planerar och utför **efter samråd** med handledare och med **mycket gott** handlag felsökning samt åtgärdar **avancerade** fel i datorer och datorsystem.",
+        "Dessutom planerar och utför eleven **efter samråd** med handledare och **med säkerhet** pedagogisk handledning och support till kund.",
+        "Resultatet är **gott** i fråga om funktion, säkerhet och kvalitet.",
+        "Eleven hanterar med **mycket gott** handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven **med säkerhet** instruktioner, manualer och andra dokument på både svenska och engelska samt gör en **noggrann och utförlig** dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

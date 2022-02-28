@@ -1,0 +1,78 @@
+{
+  "name": "Distribuerade styrsystem",
+  "code": "MÄTDIS0",
+  "focusAreas": {
+    "string": "Kursen distribuerade styrsystem omfattar punkterna 1-5 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-5"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Planering och byggande av styr- och reglertekniska anläggningar med distribuerade kontrollenheter eller I/O (input/output) beroende på anläggningens karaktär.",
+          "2. Scheman, ritningar och övrig dokumentation över komponenter för distribuerad styrning.",
+          "3. Referensmodeller för datorkommunikation, till exempel OSI-modellen (open systems interconnection).",
+          "4. Transmission control protocol/internet protocol (TCP/IP).",
+          "5. Fältbussar, till exempel Profibus, KNX, Lon och Modbus.",
+          "6. Informationsteknik som stöd för byggande av system med distribuerad styrning.",
+          "7. Vanligt förekommande styrda och reglerade storheter med distribuerade styrsystem, till exempel belysning, temperatur, tryck, flöde och nivå.",
+          "8. Metoder för felsökning i anläggningar med distribuerade styrsystem, till exempel verktyg för visualisering av data och jämförelser av data med mätningar av samma signal på plint.",
+          "9. Metoder för dokumentation av anläggningar med distribuerade styrsystem."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven planerar och utför **i samråd** med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra.",
+        "I arbetet läser och tolkar eleven **med viss säkerhet** scheman över styr- och reglertekniska komponenter och system."
+      ],
+      [
+        "Eleven gör **enkla** mätningar av styr- och reglertekniska storheter.",
+        "Dessutom felsöker eleven **i samråd** med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar **i samråd** med handledare eventuella fel som har uppstått."
+      ],
+      [
+        "När arbetet är utfört gör eleven en **enkel** dokumentation av sitt arbete med styr- och reglertekniska komponenter och system."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven planerar och utför **efter samråd** med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra.",
+        "I arbetet läser och tolkar eleven **med viss säkerhet** scheman över styr- och reglertekniska komponenter och system."
+      ],
+      [
+        "Eleven gör mätningar av styr- och reglertekniska storheter.",
+        "Dessutom felsöker eleven **efter samråd** med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar **efter samråd** med handledare eventuella fel som har uppstått."
+      ],
+      [
+        "När arbetet är utfört gör eleven en **noggrann** dokumentation av sitt arbete med styr- och reglertekniska komponenter och system."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven planerar och utför **efter samråd** med handledare installation, konfiguration, driftsättning och underhåll av styr- och reglertekniska system på ett sätt som är säkert både för eleven själv och andra.",
+        "I arbetet läser och tolkar eleven **med säkerhet** scheman över styr- och reglertekniska komponenter och system."
+      ],
+      [
+        "Eleven gör **avancerade** mätningar av styr- och reglertekniska storheter.",
+        "Dessutom felsöker eleven **efter samråd** med handledare styr- och reglertekniska komponenter och system samt reparerar och åtgärdar **efter samråd** med handledare eventuella fel som har uppstått."
+      ],
+      [
+        "När arbetet är utfört gör eleven en **noggrann och utförlig** dokumentation av sitt arbete med styr- och reglertekniska komponenter och system."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

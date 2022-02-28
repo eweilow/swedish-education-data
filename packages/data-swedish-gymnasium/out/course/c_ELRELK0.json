@@ -1,0 +1,75 @@
+{
+  "subject": "ELR",
+  "title": "Elektromekanik",
+  "code": "ELRELK0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven utför med <strong>mycket gott</strong> handlag enkelt, <strong>men även mer avancerat</strong>, elarbete, verkstadsarbete, mekaniskt arbete och sammanfogningsteknik inom området.",
+        "Eleven gör en <strong>genomarbetad</strong> planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften.",
+        "Inför arbetet väljer eleven <strong>efter samråd</strong> med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med <strong>mycket gott</strong> handlag och på ett miljömässigt sätt."
+      ],
+      [
+        "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik.",
+        "Eleven gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven utför med <strong>gott</strong> handlag enkelt elarbete, verkstadsarbete, mekaniskt arbete och sammanfogningsteknik inom området.",
+        "Eleven gör en <strong>genomarbetad</strong> planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften.",
+        "Inför arbetet väljer eleven <strong>efter samråd</strong> med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med <strong>gott</strong> handlag och på ett miljömässigt sätt."
+      ],
+      [
+        "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik.",
+        "Eleven gör en <strong>noggrann</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven utför med <strong>visst</strong> handlag enkelt elarbete, verkstadsarbete, mekaniskt arbete och sammanfogningsteknik inom området.",
+        "Eleven gör en <strong>enkel</strong> planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften.",
+        "Inför arbetet väljer eleven <strong>i samråd</strong> med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med <strong>visst</strong> handlag och på ett miljömässigt sätt."
+      ],
+      [
+        "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik.",
+        "Eleven gör en <strong>enkel</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Elarbete, till exempel losskoppling och anslutning av apparater samt funktionsprovning.",
+        "Enklare verkstadsarbete, till exempel mjuklödning, skruvförband och popnitning.",
+        "Ritningsläsning inom verkstadstekniken.",
+        "Pressverktyg för olika kontakttyper som används inom yrkesområdet.",
+        "Fästteknik, materialkunskap och mekanisk mätning.",
+        "Handverktyg som används inom de olika yrkesområdena.",
+        "Elsäkerhet för personer och egendom.",
+        "Egenkontroll, ergonomi, elsäkert arbete, kvalitetskrav, arbetsmiljö och säkerhet.",
+        "Säkerhet i heta arbeten, ställningsbyggande och arbete från stege."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen elektromekanik omfattar punkterna 1-4 och 6-7 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    5,
+    6
+  ]
+}

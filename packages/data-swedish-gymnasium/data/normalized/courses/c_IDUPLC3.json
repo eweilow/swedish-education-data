@@ -1,0 +1,91 @@
+{
+  "name": "Industriell PLC-teknik",
+  "code": "IDUPLC3",
+  "focusAreas": {
+    "string": "Kursen industriell PLC-teknik omfattar punkterna 1-8 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Uppbyggnad och funktion av programmerbara styrsystem, PLC-system, samt de risker som finns vid arbete med dessa.",
+          "2. Standarder och begrepp som används inom området.",
+          "3. Mät- och reglertekniska begrepp.",
+          "4. Vanligt förekommande styrda och reglerade storheter med distribuerade styrsystem.",
+          "5. Användning av olika program för simulering av PLC-system i automatiserade processer.",
+          "6. PLC-systemens påverkan på miljö, ekonomi och samhälle.",
+          "7. Programmering och driftsättning av PLC-system.",
+          "8. Planering och utförande av arbete i styr- och reglertekniska anläggningar med distribuerade kontrollenheter eller I/O (input/output).",
+          "9. Reglertekniska laborationer med inställning av olika parametrar i regulatorn.",
+          "10. Analys av befintlig automatiserad process och förslag på förbättring och optimering.",
+          "11. Metoder för felsökning i anläggningar med distribuerade styrsystem.",
+          "12. Tolkning och framställning av scheman, ritningar och annan dokumentation av distribuerade styrsystem.",
+          "13. Metoder för felsökning på PLC-system med hjälp av scheman, manualer och annan dokumentation."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **övergripande** för PLC-systems uppbyggnad, användningsområde och funktion samt betydelse för automatiserade processer.",
+        "Vidare redogör eleven **övergripande** för standarder inom informationsteknik och säkerhet.",
+        "Eleven använder **med säkerhet** programverktyg för simulering av PLC-system kopplade till en automatiserad process och för **övergripande** resonemang kring hur PLC-system kan påverka social, ekonomisk och ekologisk hållbarhet."
+      ],
+      [
+        "Eleven genomför **efter samråd** med handledare planering och programskrivning för PLC-system samt utför ändring och definition av variabler och systemparametrar.",
+        "Eleven strukturerar **efter samråd** med handledare kommunikation och konfiguration mellan PLC-systemet och andra enheter, internt och externt.",
+        "Eleven genomför även kontroll före drifttagning och provkörning av program samt utför arbete i PLC-system **med säkerhet** gällande både person och utrustning.",
+        "Vidare planerar eleven och utför **efter samråd** med handledare konfiguration och driftsättning av styr- och reglertekniska system."
+      ],
+      [
+        "Eleven analyserar, förbättrar och optimerar befintliga PLC-system och ger välgrundade förslag på åtgärder.",
+        "Eleven felsöker **efter samråd** med handledare med hjälp av program, manualer och dokument i PLC-system.",
+        "Vidare dokumenterar eleven **övergripande** industriella automatiserade system med muntliga, skriftliga och digitala metoder.",
+        "Eleven bedömer, ersätter och konfigurerar **efter samråd** med handledare defekta komponenter."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för PLC-systems uppbyggnad, användningsområde och funktion samt betydelse för automatiserade processer.",
+        "Vidare redogör eleven **utförligt** för standarder inom informationsteknik och säkerhet.",
+        "Eleven använder **med god säkerhet** programverktyg för simulering av PLC-system kopplade till en automatiserad process och för **utförliga** resonemang kring hur PLC-system kan påverka social, ekonomisk och ekologisk hållbarhet."
+      ],
+      [
+        "Eleven genomför **självständigt efter samråd** med handledare planering och programskrivning för PLC-system samt utför ändring och definition av variabler och systemparametrar.",
+        "Eleven strukturerar **självständigt efter samråd** med handledare kommunikation och konfiguration mellan PLC-systemet och andra enheter, internt och externt.",
+        "Eleven genomför även kontroll före drifttagning och provkörning av program samt utför arbete i PLC **med god säkerhet** gällande både person och utrustning.",
+        "Vidare planerar eleven och utför **självständigt efter samråd** med handledare konfiguration och driftsättning av styr- och reglertekniska system."
+      ],
+      [
+        "Eleven analyserar, förbättrar och optimerar befintliga PLC-system och ger **välgrundade och nyanserade** förslag på åtgärder.",
+        "Eleven felsöker **självständigt efter samråd** med handledare med hjälp av program, manualer och dokument i PLC-system.",
+        "Vidare dokumenterar eleven **utförligt** industriella automatiserade system med muntliga, skriftliga och digitala metoder.",
+        "Eleven bedömer, ersätter och konfigurerar **självständigt efter samråd** med handledare defekta komponenter."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för PLC-systems uppbyggnad, användningsområde och funktion samt betydelse för automatiserade processer.",
+        "Vidare redogör eleven **utförligt och nyanserat** för standarder inom informationsteknik och säkerhet.",
+        "Eleven använder **med mycket god säkerhet** programverktyg för simulering av PLC-system kopplade till en automatiserad process och för **utförliga och nyanserade** resonemang kring hur PLC-system kan påverka social, ekonomisk och ekologisk hållbarhet."
+      ],
+      [
+        "Eleven genomför **självständigt** planering och programskrivning för PLC-system samt utför ändring och definition av variabler och systemparametrar.",
+        "Eleven strukturerar **självständigt** kommunikation och konfiguration mellan PLC-systemet och andra enheter, internt och externt.",
+        "Eleven genomför även kontroll före drifttagning och provkörning av program samt utför arbete i PLC-system **med mycket god säkerhet** gällande både person och utrustning.",
+        "Vidare planerar eleven och utför **självständigt** konfiguration och driftsättning av styr- och reglertekniska system."
+      ],
+      [
+        "Eleven analyserar, förbättrar och optimerar befintliga PLC-system och ger **välgrundade och nyanserade** förslag på åtgärder.",
+        "Eleven felsöker **självständigt** med hjälp av program, manualer och dokument i PLC-system.",
+        "Vidare dokumenterar eleven **utförligt och nyanserat** industriella automatiserade system med muntliga, skriftliga och digitala metoder.",
+        "Eleven bedömer, ersätter och konfigurerar **självständigt** defekta komponenter."
+      ]
+    ]
+  }
+}

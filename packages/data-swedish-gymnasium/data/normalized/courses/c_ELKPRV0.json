@@ -1,0 +1,87 @@
+{
+  "name": "Provning och kontrollarbete",
+  "code": "ELKPRV0",
+  "focusAreas": {
+    "string": "Kursen provning och kontrollarbete omfattar punkterna 3-8 under rubriken Ämnets syfte, med särskild betoning på punkterna 3 och 5. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "entries": [
+      "3-8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Praktiskt provningsarbete med automatisk teststation.",
+          "2. Montering av enklare testutrustningar.",
+          "3. Underhåll och funktionsprov av testutrustningar.",
+          "4. Testmetoder och verifieringsmetoder för elektronikproduktion.",
+          "5. Testutrustningar i produktionen.",
+          "6. Mätteknik och mätinstrument.",
+          "7. Felsökningsmetoder.",
+          "8. Granskning och bedömning av monterade mönsterkort.",
+          "9. Reparationsteknik vid lödfel.",
+          "10. Reparationsmetoder vid komponentfel.",
+          "11. Kvalitetsarbete.",
+          "12. Arbetsplatsens arbetsorganisation samt arbetsmiljökrav vid elektronikproduktion."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven planerar **i samråd** med handledare vanligt förekommande provning och kontroll av elektronik och elektronikapparater.",
+        "I planeringen tolkar eleven **med viss säkerhet** arbetsinstruktioner, manualer, elektronikscheman och andra dokument.",
+        "Eleven utför **i samråd** med handledare provningen och kontrollen utifrån fastställda kvalitetskrav.",
+        "Dessutom felsöker och reparerar eleven **i samråd** med handledare enklare fel som har uppkommit under tillverkningsprocessen av elektronik och elektronikapparater.",
+        "I arbetet använder eleven **med viss säkerhet** metoder, verktyg och övrig utrustning.",
+        "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem **i samråd** med handledare.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra, och resultatet är **tillfredsställande**."
+      ],
+      [
+        "När arbetet är utfört utvärderar eleven med **enkla** omdömen sitt arbete och resultat.",
+        "Dessutom för eleven **enkla** resonemang om vikten av kvalitetsbedömning, kvalitetsarbete och en god arbetsmiljö."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven planerar **efter samråd** med handledare vanligt förekommande provning och kontroll av elektronik och elektronikapparater.",
+        "I planeringen tolkar eleven **med viss säkerhet** arbetsinstruktioner, manualer, elektronikscheman och andra dokument.",
+        "Eleven utför **efter samråd** med handledare provningen och kontrollen utifrån fastställda kvalitetskrav.",
+        "Dessutom felsöker och reparerar eleven **efter samråd** med handledare enklare fel som har uppkommit under tillverkningsprocessen av elektronik och elektronikapparater.",
+        "I arbetet använder eleven **med viss säkerhet** metoder, verktyg och övrig utrustning.",
+        "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem **efter samråd** med handledare.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra, och resultatet är **tillfredsställande**."
+      ],
+      [
+        "När arbetet är utfört utvärderar eleven med **nyanserade** omdömen sitt arbete och resultat.",
+        "Dessutom för eleven **välgrundade** resonemang om vikten av kvalitetsbedömning, kvalitetsarbete och en god arbetsmiljö."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven planerar **efter samråd** med handledare vanligt förekommande provning och kontroll av elektronik och elektronikapparater.",
+        "I planeringen tolkar eleven **med säkerhet** arbetsinstruktioner, manualer, elektronikscheman och andra dokument.",
+        "Eleven utför **efter samråd** med handledare provningen och kontrollen utifrån fastställda kvalitetskrav.",
+        "Dessutom felsöker och reparerar eleven **efter samråd** med handledare enklare fel som har uppkommit under tillverkningsprocessen av elektronik och elektronikapparater.",
+        "I arbetet använder eleven **med säkerhet** metoder, verktyg och övrig utrustning.",
+        "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem **efter samråd** med handledare.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra, och resultatet är **gott**."
+      ],
+      [
+        "När arbetet är utfört utvärderar eleven med **nyanserade** omdömen sitt arbete och resultat **samt ger förslag på hur arbetet kan förbättras**.",
+        "Dessutom för eleven **välgrundade och nyanserade** resonemang om vikten av kvalitetsbedömning, kvalitetsarbete och en god arbetsmiljö."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Ellära 2",
+  "code": "ELLELL02",
+  "focusAreas": {
+    "string": "Kursen ellära 2 omfattar punkterna 3-4 och 6-7 under rubriken Ämnets syfte.",
+    "entries": [
+      "3-4",
+      "6-7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Trefassystemets uppbyggnad och funktion från transformator till belastning.",
+          "2. Resistiva, induktiva och kapacitiva kretsar i trefasnät.",
+          "3. Skillnader mellan symmetrisk och osymmetrisk belastning.",
+          "4. Trefasmotorers och trefastransformatorers funktion och påverkan i trefassystemet.",
+          "5. Olika spänningssystems funktion inom distribution och industri.",
+          "6. TN-C-systemets samt TN-S-systemets uppbyggnad, funktion och användning.",
+          "7. Elektriska och magnetiska fälts uppkomst och verkan.",
+          "8. Vagabonderande strömmars uppkomst och utbredning.",
+          "9. Skyddsledarens funktion och verkan.",
+          "10. Linjära och olinjära lasters verkan på uppkomsten av övertoner.",
+          "11. Kraftelektroniska utrustningars användning och funktion.",
+          "12. Filtrering, stabilisering och andra åtgärder för att minska ledningsburna störningar."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **översiktligt** för trefassystemets uppbyggnad och funktion samt för olika belastningars inverkan på elsystemet.",
+        "Dessutom redogör eleven **översiktligt** för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet."
+      ],
+      [
+        "Eleven utför **i samråd** med handledare elektriska mätningar på trefassystem.",
+        "Inför arbetet väljer eleven **med viss säkerhet** lämpliga mätmetoder och mätinstrument.",
+        "Dessutom gör eleven en **enkel** riskbedömning och anpassar vid behov mätningen efter den.",
+        "Eleven utför **i samråd** med handledare **enkla** beräkningar.",
+        "Utifrån resultaten av mätningarna och beräkningarna föreslår eleven **med viss säkerhet** lämpliga åtgärder för att avhjälpa fel i elsystemet.",
+        "Eleven utför **i samråd** med handledare dessa åtgärder.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för trefassystemets uppbyggnad och funktion samt för olika belastningars inverkan på elsystemet.",
+        "Dessutom redogör eleven **utförligt** för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare elektriska mätningar på trefassystem.",
+        "Inför arbetet väljer eleven **med viss säkerhet** lämpliga mätmetoder och mätinstrument.",
+        "Dessutom gör eleven en riskbedömning och anpassar vid behov mätningen efter den.",
+        "Eleven utför **efter samråd** med handledare beräkningar.",
+        "Utifrån resultaten av mätningarna och beräkningarna föreslår eleven **med viss säkerhet** lämpliga åtgärder för att avhjälpa fel i elsystemet.",
+        "Eleven utför **efter samråd** med handledare dessa åtgärder.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för trefassystemets uppbyggnad och funktion samt för olika belastningars inverkan på elsystemet.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare elektriska mätningar på trefassystem.",
+        "Inför arbetet väljer eleven **med säkerhet** lämpliga mätmetoder och mätinstrument.",
+        "Dessutom gör eleven en **välgrundad** riskbedömning och anpassar vid behov mätningen efter den.",
+        "Eleven utför **efter samråd** med handledare **avancerade** beräkningar.",
+        "Utifrån resultaten av mätningarna och beräkningarna föreslår eleven **med säkerhet** lämpliga åtgärder för att avhjälpa fel i elsystemet.",
+        "Eleven utför **efter samråd** med handledare dessa åtgärder.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

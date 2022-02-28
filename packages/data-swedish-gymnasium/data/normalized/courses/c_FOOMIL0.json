@@ -1,0 +1,130 @@
+{
+  "name": "Miljöer och utrustning för fordonstest",
+  "code": "FOOMIL0",
+  "focusAreas": {
+    "string": "Kursen miljöer och utrustning för fordonstest omfattar punkterna 2-4 och 6-10 under rubriken Ämnets syfte.",
+    "entries": [
+      "2-4",
+      "6-10"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Historiskt perspektiv på fordonstestbranschens utveckling i Sverige och internationellt.",
+          "2. Olika testmiljöer, tekniker och utrustning för fordonstester.",
+          "3. Olika simuleringsmiljöer för utveckling och tester.",
+          "4. Utformning och användningsområden för olika typer av land- och isbanor.",
+          "5. Olika delar i processen från problemställning eller önskvärt utvecklingsområde till färdig produkt, till exempel fordonskomponent.",
+          "6. Tekniken och dess begränsningar inom aktuella utvecklingsområden.",
+          "7. Aktuell forskning och aktuella utvecklingsområden inom fordons- och transportbranschen.",
+          "8. Parametrar som påverkar utsläpp, prestanda och mekanisk påfrestning för olika typer av motorer samt hur detta kan mätas under körning.",
+          "9. Installation, användning och felsökning av mätsystem och annan utrustning.",
+          "10. Service, underhåll och reparation av mätutrustning.",
+          "11. Olika underlag och konstruktion för test av friktion, hållfasthet, ljud och vibrationer.",
+          "12. Systematisering av testdata och utvärdering av resultat.",
+          "13. Nätverk, kommunikation och diagnos.",
+          "14. Diagnos av bil med byte av sensorer.",
+          "15. Metoder för att dokumentera arbetet på det sätt yrkesområdet kräver.",
+          "16. Informationsmaterial och manualer.",
+          "17. Lagar och andra bestämmelser som reglerar arbetsområdet.",
+          "18. Arbetsmiljö- och säkerhetsfrågor för verksamheten. Riskbedömning och säkerhet i samband med olika arbetsuppgifter. Förebyggande av person- och egendomsskador.",
+          "19. Företagandets villkor samt sekretessfrågor vid arbete med fordonstestverksamhet.",
+          "20. Kundbemötande och kundens behov. Faktorer som påverkar kommunikation och samarbete på arbetsplatsen och med kunder.",
+          "21. Uttryck och begrepp som är relevanta för yrkesområdet."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **översiktligt** för och ger exempel på teknik som används och dess begränsningar inom aktuella utvecklingsområden inom fordonstestbranschen.",
+        "Dessutom redogör eleven **översiktligt** för fordonstestbranschens utveckling i Sverige och internationellt.",
+        "Eleven beskriver **översiktligt** användning och utveckling av olika simuleringsmiljöer för utveckling och tester och ger exempel på utformning och användningsområden för olika typer av land- och isbanor.",
+        "Eleven redogör **översiktligt** för och ger exempel på olika parametrar som påverkar bilens egenskaper och hur detta kan mätas under körning."
+      ],
+      [
+        "Eleven planerar, organiserar och utför **i samråd** med handledare olika arbetsuppgifter i processen från problemställning till färdig produkt.",
+        "I arbetet utgår eleven **med viss säkerhet** från befintlig forskning och beställarens krav.",
+        "Dessutom planerar, organiserar och utför eleven tester **i samråd** med handledare.",
+        "I arbetet väljer eleven **i samråd** med handledare samt använder **med viss säkerhet** arbetsmetod och utrustning.",
+        "Eleven använder **med viss säkerhet** svenska och engelska manualer samt digitala informationssystem."
+      ],
+      [
+        "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "Dessutom tar eleven ansvar för sin egen och andras säkerhet samt håller god ordning på arbetsplatsen.",
+        "Eleven arbetar efter de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+        "I arbetet redogör eleven **översiktligt** för lagar och andra bestämmelser som styr arbetet.",
+        "Resultatet av arbetet är **tillfredsställande**."
+      ],
+      [
+        "Eleven samarbetar och löser **i samråd** med handledare problem som uppkommer för att nå planerade resultat.",
+        "I sin kommunikation använder eleven **med viss säkerhet** begrepp och uttryck som är relevanta för ämnesområdet."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för och ger exempel på teknik som används och dess begränsningar inom aktuella utvecklingsområden inom fordonstestbranschen.",
+        "Dessutom redogör eleven **utförligt** för fordonstestbranschens utveckling i Sverige och internationellt.",
+        "Eleven beskriver **utförligt** användning och utveckling av olika simuleringsmiljöer för utveckling och tester och ger exempel på utformning och användningsområden för olika typer av land- och isbanor.",
+        "Eleven redogör **utförligt** för och ger exempel på olika parametrar som påverkar bilens egenskaper och hur detta kan mätas under körning."
+      ],
+      [
+        "Eleven planerar, organiserar och utför **efter samråd** med handledare olika arbetsuppgifter i processen från problemställning till färdig produkt.",
+        "I arbetet utgår eleven **med viss säkerhet** från befintlig forskning och beställarens krav.",
+        "Dessutom planerar, organiserar och utför eleven tester **efter samråd** med handledare.",
+        "I arbetet väljer eleven **efter samråd** med handledare samt använder **med viss säkerhet** arbetsmetod och utrustning.",
+        "Eleven använder **med viss säkerhet** svenska och engelska manualer samt digitala informationssystem."
+      ],
+      [
+        "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "Dessutom tar eleven ansvar för sin egen och andras säkerhet samt håller god ordning på arbetsplatsen.",
+        "Eleven arbetar efter de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+        "I arbetet redogör eleven **utförligt** för lagar och andra bestämmelser som styr arbetet.",
+        "Resultatet av arbetet är **tillfredsställande**."
+      ],
+      [
+        "Eleven samarbetar och löser **efter samråd** med handledare problem som uppkommer för att nå planerade resultat.",
+        "I sin kommunikation använder eleven **med viss säkerhet** begrepp och uttryck som är relevanta för ämnesområdet."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för och ger exempel på teknik som används och dess begränsningar inom aktuella utvecklingsområden inom fordonstestbranschen.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för fordonstestbranschens utveckling i Sverige och internationellt.",
+        "Eleven beskriver **utförligt och nyanserat** användning och utveckling av olika simuleringsmiljöer för utveckling och tester och ger exempel på utformning och användningsområden för olika typer av land- och isbanor.",
+        "Eleven redogör **utförligt och nyanserat** för och ger exempel på olika parametrar som påverkar bilens egenskaper och hur detta kan mätas under körning."
+      ],
+      [
+        "Eleven planerar, organiserar och utför **efter samråd** med handledare olika arbetsuppgifter i processen från problemställning till färdig produkt.",
+        "I arbetet utgår eleven **med säkerhet** från befintlig forskning och beställarens krav.",
+        "Dessutom planerar, organiserar och utför eleven tester **efter samråd** med handledare.",
+        "I arbetet väljer eleven **efter samråd** med handledare samt använder **med säkerhet** arbetsmetod och utrustning.",
+        "Eleven använder **med säkerhet** svenska och engelska manualer samt digitala informationssystem."
+      ],
+      [
+        "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "Dessutom tar eleven ansvar för sin egen och andras säkerhet samt håller god ordning på arbetsplatsen.",
+        "Eleven arbetar efter de krav på säkerhet, kvalitet och miljö som reglerar arbetet.",
+        "I arbetet redogör eleven **utförligt** för lagar och andra bestämmelser som styr arbetet.",
+        "Resultatet av arbetet är **gott**."
+      ],
+      [
+        "Eleven samarbetar och löser **efter samråd** med handledare problem som uppkommer för att nå planerade resultat.",
+        "I sin kommunikation använder eleven **med säkerhet** begrepp och uttryck som är relevanta för ämnesområdet."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

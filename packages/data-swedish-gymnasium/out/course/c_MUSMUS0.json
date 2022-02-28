@@ -1,0 +1,105 @@
+{
+  "subject": "MUS",
+  "title": "Musik",
+  "code": "MUSMUS0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven musicerar efter enkel ackordanalys och på gehör.",
+        "I sitt musicerande följer eleven <strong>med säkerhet</strong> genrespecifika krav och uppvisar ett <strong>gott</strong> konstnärligt uttryck.",
+        "Det musikaliska resultatet av elevens bidrag till den musikaliska gestaltningen är <strong>gott</strong>.",
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för grundläggande instrumental och vokal repertoar i olika stilar."
+      ],
+      [
+        "Eleven tar ansvar för instuderingen av enkla sånger, alternativt låtar och danser, både i grupp <strong>och självständigt</strong> och kan framföra dem inom gruppen.",
+        "Dessutom ger eleven <strong>välgrundade och nyanserade</strong> förslag på hur arbetet kan förbättras.",
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för de vanligaste musikinstrumenten och för grundläggande röstvård."
+      ],
+      [
+        "Tillsammans med andra kan eleven med tillfredsställande resultat anpassa en sång, alternativt en låt, till den egna gruppens särdrag."
+      ],
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för programvara för musikbearbetning och kan <strong>efter samråd</strong> med handledare koppla upp en ljudanläggning.",
+        "Eleven redogör <strong>utförligt</strong> för några arbetsmiljöfrågor som rör musicerande."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven musicerar efter enkel ackordanalys och på gehör.",
+        "I sitt musicerande följer eleven <strong>med viss säkerhet</strong> genrespecifika krav och uppvisar ett konstnärligt uttryck.",
+        "Det musikaliska resultatet av elevens bidrag till den musikaliska gestaltningen är <strong>tillfredsställande</strong>.",
+        "Eleven redogör <strong>utförligt</strong> för grundläggande instrumental och vokal repertoar i olika stilar."
+      ],
+      [
+        "Eleven tar ansvar för instuderingen av enkla sånger, alternativt låtar och danser, både i grupp <strong>och självständigt</strong> och kan framföra dem inom gruppen.",
+        "Dessutom ger eleven <strong>välgrundade</strong> förslag på hur arbetet kan förbättras.",
+        "Eleven redogör <strong>utförligt</strong> för de vanligaste musikinstrumenten och för grundläggande röstvård."
+      ],
+      [
+        "Tillsammans med andra kan eleven med tillfredsställande resultat anpassa en sång, alternativt en låt, till den egna gruppens särdrag."
+      ],
+      [
+        "Eleven redogör <strong>utförligt</strong> för programvara för musikbearbetning och kan <strong>efter samråd</strong> med handledare koppla upp en ljudanläggning.",
+        "Eleven redogör <strong>utförligt</strong> för några arbetsmiljöfrågor som rör musicerande."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven musicerar efter enkel ackordanalys och på gehör.",
+        "I sitt musicerande följer eleven <strong>med viss säkerhet</strong> genrespecifika krav och uppvisar ett <strong>visst</strong> konstnärligt uttryck.",
+        "Det musikaliska resultatet av elevens bidrag till den musikaliska gestaltningen är <strong>tillfredsställande</strong>.",
+        "Eleven redogör <strong>översiktligt</strong> för grundläggande instrumental och vokal repertoar i olika stilar."
+      ],
+      [
+        "Eleven tar ansvar för instuderingen av enkla sånger, alternativt låtar och danser, i grupp och kan framföra dem inom gruppen.",
+        "Dessutom ger eleven <strong>enkla</strong> förslag på hur arbetet kan förbättras.",
+        "Eleven redogör <strong>översiktligt</strong> för de vanligaste musikinstrumenten och för grundläggande röstvård."
+      ],
+      [
+        "Tillsammans med andra kan eleven med tillfredsställande resultat anpassa en sång, alternativt en låt, till den egna gruppens särdrag."
+      ],
+      [
+        "Eleven redogör <strong>översiktligt</strong> för programvara för musikbearbetning och kan <strong>i samråd</strong> med handledare koppla upp en ljudanläggning.",
+        "Eleven redogör <strong>översiktligt</strong> för några arbetsmiljöfrågor som rör musicerande."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Musicerande i gehörsbaserad och noterad musik med röst eller instrument.",
+        "Musikalisk kommunikation med röst och rörelse i musik och danser från olika tider eller kulturer. Stildrag och kännetecken.",
+        "Sånger, alternativt låtar och danser, från olika tider eller kulturer.",
+        "Instudering i grupp.",
+        "Instrument och deras grundläggande egenskaper, kvaliteter och inbördes relationer. Grundläggande röstvård och metoder för det.",
+        "Grundläggande musikskapande och bearbetning av musikaliskt material, till exempel att göra en andrastämma, välja instrumentering, kompstil, musikalisk form och disposition.",
+        "Grundläggande musikalisk gestaltning och kommunikation vid framträdande inför publik och i samarbete med andra.",
+        "Programvaror för musikbearbetning och grundläggande hantering av musikteknisk utrustning och digital bearbetning av musikaliskt material.",
+        "Grundläggande arbetsmiljö vid musikutövning, till exempel elsäkerhet, ergonomi och hörselvård."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen musik omfattar punkterna 1-9 under rubriken Ämnets syfte, med särskild betoning på 1-2 och röstvård. Kursen behandlar grundläggande färdigheter i ämnet.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ]
+}

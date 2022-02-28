@@ -1,0 +1,113 @@
+{
+  "name": "Teknik 1",
+  "code": "TEKTEK01",
+  "focusAreas": {
+    "string": "Kursen teknik 1 omfattar punkterna 1-9 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-9"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Teknikutvecklingsprocessens alla delar från idé och modell, produkt eller tjänst till användning och återvinning med praktisk tillämpning av teknik och teknikutveckling inom ett eller flera teknikområden.",
+          "2. Entreprenörskap och entreprenörskapets villkor med utgångspunkt i innovativa och kreativa processer.",
+          "3. Materials tekniska egenskaper, till exempel termiska, elektriska, mekaniska och kemiska samt materialens möjligheter och begränsningar utifrån olika användningsområden.",
+          "4. Teknikens och teknikerns roll med fokus på framtidens teknik och ett hållbart samhälle, till exempel med utgångspunkt i energieffektivisering.",
+          "5. Kvalitetsarbete, till exempel kvalitetssäkring, miljösäkring, arbetsmiljö och riskanalys.",
+          "6. Ritningsläsning och skiss- och ritteknik med introduktion i hur man hanterar cad-program.",
+          "7. Projektarbets-, kommunikations-, presentations- och modellteknik, till exempel digitala medier och programvaror, manualer och instruktioner, muntliga och skriftliga framställningar samt digitala och manuella tekniker för att skapa modeller.",
+          "8. Tekniska begrepp, teorier och modeller innefattande beräkningar och rimlighetsbedömningar.",
+          "9. Teknikens historia och teknikutvecklingens betydelse för samhället samt introduktion i aktuella utvecklingsområden inom teknik.",
+          "10. Grundläggande teknikfilosofi: etiska värderingar och genusstrukturer samt hur de har påverkat och påverkar tekniken, dess användning och tillgänglighet. Hur teknik och teknikens attribut könsmärks.",
+          "11. Kommunikations-, dator- och nätverksteknik för lärande och förmedling av teknik och information."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** hur teknik utvecklas och redogör **översiktligt** för sambanden mellan de olika delarna i teknikutvecklingsprocessen."
+      ],
+      [
+        "Eleven redogör **översiktligt** för tekniska egenskaper hos olika material samt för hur och när de kan användas.",
+        "Dessutom analyserar och värderar eleven med **enkla** omdömen tekniska lösningar utifrån kvalitet, säkerhet och hållbart samhälle."
+      ],
+      [
+        "Eleven löser **enkla** tekniska problem, använder **i samråd** med handledare lämpliga arbetsmetoder samt dokumenterar arbetet och resultatet.",
+        "I sitt arbete läser eleven ritningar och tekniska instruktioner samt skissar och ritar **med viss säkerhet** både manuellt och med relevanta cad-program.",
+        "Eleven använder **med viss säkerhet** tekniska begrepp och teorier, utför **med viss säkerhet** tekniska beräkningar och bedömer rimligheten i sina resultat."
+      ],
+      [
+        "Eleven redogör **översiktligt** för några historiskt viktiga tekniska framsteg, befintlig teknik och aktuell teknikutveckling samt beskriver **översiktligt** hur samhälle och teknik samspelar.",
+        "Dessutom värderar eleven, med **enkla** omdömen och utifrån ett etiskt förhållningssätt, teknikens funktion, användning och tillgänglighet i samhället.",
+        "Vidare beskriver eleven **översiktligt** hur föreställningar och traditioner inom teknikområdet styr uppfattningar om vad som är manligt och kvinnligt och hur det har påverkat och påverkar teknik och teknikutveckling.",
+        "Eleven ger **enkla** förslag på hur teknikområdet kan göras lika tillgängligt för män och kvinnor."
+      ],
+      [
+        "Eleven använder **med viss säkerhet** datorn som verktyg för kommunikation, dokumentation och information.",
+        "Dessutom använder eleven **med viss säkerhet** olika relevanta medier och programvaror för att förmedla och presentera teknik."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** hur teknik utvecklas och redogör **utförligt** för sambanden mellan de olika delarna i teknikutvecklingsprocessen."
+      ],
+      [
+        "Eleven redogör **utförligt** för tekniska egenskaper hos olika material samt för hur och när de kan användas.",
+        "Dessutom analyserar och värderar eleven med **enkla** omdömen tekniska lösningar utifrån kvalitet, säkerhet och hållbart samhälle."
+      ],
+      [
+        "Eleven löser **enkla** tekniska problem, **väljer och** använder **efter samråd** med handledare lämpliga arbetsmetoder samt dokumenterar arbetet och resultatet.",
+        "I sitt arbete läser eleven ritningar och tekniska instruktioner samt skissar och ritar **med viss säkerhet** både manuellt och med relevanta cad-program.",
+        "Eleven använder **med viss säkerhet** tekniska begrepp och teorier, utför **med viss säkerhet** tekniska beräkningar och bedömer rimligheten i sina resultat."
+      ],
+      [
+        "Eleven redogör **utförligt** för några historiskt viktiga tekniska framsteg, befintlig teknik och aktuell teknikutveckling samt beskriver **utförligt** hur samhälle och teknik samspelar.",
+        "Dessutom värderar eleven, med **enkla** omdömen och utifrån ett etiskt förhållningssätt, teknikens funktion, användning och tillgänglighet i samhället.",
+        "Vidare beskriver eleven **utförligt** hur föreställningar och traditioner inom teknikområdet styr uppfattningar om vad som är manligt och kvinnligt och hur det har påverkat och påverkar teknik och teknikutveckling.",
+        "Eleven ger **välgrundade** förslag på hur teknikområdet kan göras lika tillgängligt för män och kvinnor."
+      ],
+      [
+        "Eleven använder **med viss säkerhet** datorn som verktyg för kommunikation, dokumentation och information.",
+        "Dessutom använder eleven **med viss säkerhet** olika relevanta medier och programvaror för att förmedla och presentera teknik **samt anpassar kommunikationen till mottagaren**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** hur teknik utvecklas och redogör **utförligt och nyanserat** för sambanden mellan de olika delarna i teknikutvecklingsprocessen."
+      ],
+      [
+        "Eleven redogör **utförligt och nyanserat** för tekniska egenskaper hos olika material samt för hur och när de kan användas.",
+        "Dessutom analyserar och värderar eleven med **nyanserade** omdömen tekniska lösningar utifrån kvalitet, säkerhet och hållbart samhälle."
+      ],
+      [
+        "Eleven löser tekniska problem, **väljer och** använder **efter samråd** med handledare lämpliga arbetsmetoder samt dokumenterar arbetet och resultatet.",
+        "I sitt arbete läser eleven ritningar och tekniska instruktioner samt skissar och ritar **med säkerhet** både manuellt och med relevanta cad-program.",
+        "Eleven använder **med säkerhet** tekniska begrepp och teorier, utför **med säkerhet** tekniska beräkningar och bedömer rimligheten i sina resultat."
+      ],
+      [
+        "Eleven redogör **utförligt och nyanserat** för några historiskt viktiga tekniska framsteg, befintlig teknik och aktuell teknikutveckling samt beskriver **utförligt och nyanserat** hur samhälle och teknik samspelar.",
+        "Dessutom värderar eleven, med **nyanserade** omdömen och utifrån ett etiskt förhållningssätt, teknikens funktion, användning och tillgänglighet i samhället.",
+        "Vidare beskriver eleven **utförligt och nyanserat** hur föreställningar och traditioner inom teknikområdet styr uppfattningar om vad som är manligt och kvinnligt och hur det har påverkat och påverkar teknik och teknikutveckling.",
+        "Eleven ger **välgrundade och nyanserade** förslag på hur teknikområdet kan göras lika tillgängligt för män och kvinnor."
+      ],
+      [
+        "Eleven använder **med säkerhet** datorn som verktyg för kommunikation, dokumentation och information.",
+        "Dessutom använder eleven **med säkerhet** olika relevanta medier och programvaror för att förmedla och presentera teknik **samt anpassar kommunikationen till mottagaren**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

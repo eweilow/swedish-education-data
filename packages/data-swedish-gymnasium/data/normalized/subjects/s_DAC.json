@@ -1,0 +1,49 @@
+{
+  "name": "Däckstjänst",
+  "code": "DAC",
+  "description": [
+    "Ämnet däckstjänst handlar om fartygs säkra framförande. I detta ingår kunskaper i navigation och sjömanskap. Ämnet behandlar den teknik och de metoder som används för drift och underhåll inom däcksavdelningen på handelsfartyg."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet däckstjänst ska syfta till att eleverna utvecklar kunskaper om drift och vakthållning på fartyg samt förmåga att utföra driftsarbete inom däcksavdelningen och arbetsuppgifter som vaktgående däckspersonal. Den ska vidare leda till att eleverna utvecklar kunskaper i navigation och sjömanskap samt förmåga att sjömansmässigt handha fartyg och däcksutrustning. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om fartygs underhåll samt förmåga att utföra underhållsarbete inom däcksavdelningen. Dessa kunskaper är enligt nationella och internationella regler nödvändiga för tjänstgöring ombord på fartyg.",
+          "I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som är konstruerade så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Dessa arbetsuppgifter ska utgå från ett problemlösande arbetssätt."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet däckstjänst ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Förmåga att utföra arbetsuppgifter som vaktgående däckspersonal eller fartygsbefäl.",
+          "2. Förmåga att utföra driftsarbete inom däcksavdelningen på ett fartyg.",
+          "3. Förmåga att utföra underhållsarbete inom däcksavdelningen på ett fartyg.",
+          "4. Förmåga att arbeta miljö-, säkerhets- och kvalitetsmedvetet på ett sjömansmässigt sätt.",
+          "5. Förmåga att samarbeta och kommunicera med ett för yrket relevant fackspråk.",
+          "6. Kunskaper om de tekniska konstruktioner och den tekniska utrustning som finns inom däcksavdelningen på ett fartyg.",
+          "7. Kunskaper om lagar och andra bestämmelser som reglerar området."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Däckstjänst 1, 300 poäng.",
+          "2. Däckstjänst 2, 300 poäng.",
+          "3. Fartygsbefäl, 100 poäng.",
+          "4. Radiokommunikation till sjöss, 50 poäng."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2011-10-11T16:21:00.000Z",
+  "modifiedDate": "2020-02-19T14:50:16.000Z",
+  "courseCodes": [
+    "DACDAC01",
+    "DACDAC02",
+    "DACFAR0",
+    "DACRAD0"
+  ]
+}

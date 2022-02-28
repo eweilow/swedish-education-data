@@ -1,0 +1,108 @@
+{
+  "name": "Bussteknik",
+  "code": "BUSBUS0",
+  "focusAreas": {
+    "string": "Kursen bussteknik omfattar punkterna 1-7 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Olika bussar, deras konstruktion, funktion, system och komponenter samt användningsområden, bland annat linjebussar, turistbussar samt bussar inrättade för färdtjänst och sjukresor.",
+          "2. Olika tilläggsutrustningar, deras konstruktion, funktion, system och komponenter, till exempel utrustning för rörelsehindrade samt nätverks- och mediautrustning.",
+          "3. Metoder för och genomförande av service och underhåll av bussar och tilläggsutrustningar.",
+          "4. Konsekvenser av eftersatt underhåll beträffande ekonomi, driftstörningar och trafiksäkerhet.",
+          "5. Metoder för och genomförande av enklare felsökning, diagnostisering och reparationer av bussars och tilläggsutrustningars system och komponenter.",
+          "6. Metoder för och genomförande av demontering, montering och justering av komponenter i samband med reparationer.",
+          "7. Metoder för användning av specialverktyg på ett kvalitetsmässigt sätt samt vård av dessa.",
+          "8. Fordonstillverkares anvisningar och teknisk information på svenska och engelska.",
+          "9. Arbetsinstruktioner, servicelitteratur och system för reservdelsbeställning på svenska och engelska.",
+          "10. Risker i samband med service och reparationsarbete på eller i närheten av högvoltssystem och gassystem avsedda för framdrivning.",
+          "11. Säkerhet på arbetsplatsen och förebyggande av person- och egendomsskador.",
+          "12. Brandförebyggande åtgärder och åtgärder vid brand.",
+          "13. Lagar och andra bestämmelser som gäller för arbetet.",
+          "14. Arbete med problemlösning och uppgifter såväl självständigt som tillsammans med andra.",
+          "15. Yrkesmässigt språk, kommunikation och målgruppsanpassning."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** funktionsprinciper för och konstruktioner av olika bussar och tilläggsutrustning, deras system och komponenter samt hur de samverkar."
+      ],
+      [
+        "Eleven utför, **i samråd** med handledare, service och underhåll av bussar och deras tilläggsutrustning.",
+        "Dessutom utför eleven, **i samråd** med handledare, i bekanta situationer felsökning och reparationer av bussar och deras tilläggsutrustning.",
+        "Vid reparationer utför eleven, **i samråd** med handledare, i bekanta situationer den demontering, montering samt justering av komponenter som arbetet kräver."
+      ],
+      [
+        "I arbetet använder eleven **med viss säkerhet** rätt arbetsmetod och med **visst** handlag specialverktyg, verktyg och utrustning.",
+        "Dessutom använder eleven **med viss säkerhet** manualer, scheman och digitala informationssystem.",
+        "Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav."
+      ],
+      [
+        "När eleven kommunicerar med kunder och arbetskamrater använder eleven **med viss säkerhet** ett yrkesmässigt språk.",
+        "I kommunikationen med kunder anpassar eleven språket efter målgruppen.",
+        "Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat.",
+        "Resultatet av elevens arbete är **tillfredsställande**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** funktionsprinciper för och konstruktioner av olika bussar och tilläggsutrustning, deras system och komponenter samt hur de samverkar."
+      ],
+      [
+        "Eleven utför, **efter samråd** med handledare, service och underhåll av bussar och deras tilläggsutrustning.",
+        "Dessutom utför eleven, **efter samråd** med handledare, i bekanta situationer felsökning och reparationer av bussar och deras tilläggsutrustning.",
+        "Vid reparationer utför eleven, **efter samråd** med handledare, i bekanta situationer den demontering, montering samt justering av komponenter som arbetet kräver."
+      ],
+      [
+        "I arbetet använder eleven **med viss säkerhet** rätt arbetsmetod och med **gott** handlag specialverktyg, verktyg och utrustning.",
+        "Dessutom använder eleven **med viss säkerhet** manualer, scheman och digitala informationssystem.",
+        "Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav."
+      ],
+      [
+        "När eleven kommunicerar med kunder och arbetskamrater använder eleven **med viss säkerhet** ett yrkesmässigt språk.",
+        "I kommunikationen med kunder anpassar eleven språket efter målgruppen.",
+        "Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat.",
+        "Resultatet av elevens arbete är **tillfredsställande**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** funktionsprinciper för och konstruktioner av olika bussar och tilläggsutrustning, deras system och komponenter samt hur de samverkar."
+      ],
+      [
+        "Eleven utför, **efter samråd** med handledare, service och underhåll av bussar och deras tilläggsutrustning.",
+        "Dessutom utför eleven, **efter samråd** med handledare, i bekanta **men även nya** situationer felsökning och reparationer av bussar och deras tilläggsutrustning.",
+        "Vid reparationer utför eleven, **efter samråd** med handledare, i bekanta **men även nya** situationer den demontering, montering samt justering av komponenter som arbetet kräver."
+      ],
+      [
+        "I arbetet använder eleven **med säkerhet** rätt arbetsmetod och med **mycket gott** handlag specialverktyg, verktyg och utrustning.",
+        "Dessutom använder eleven **med säkerhet** manualer, scheman och digitala informationssystem.",
+        "Eleven arbetar på ett säkert, miljö- och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser samt fordons- eller utrustningstillverkarens krav."
+      ],
+      [
+        "När eleven kommunicerar med kunder och arbetskamrater använder eleven **med säkerhet** ett yrkesmässigt språk.",
+        "I kommunikationen med kunder anpassar eleven språket efter målgruppen.",
+        "Dessutom arbetar eleven såväl självständigt som tillsammans med andra för att nå planerade resultat.",
+        "Resultatet av elevens arbete är **gott**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

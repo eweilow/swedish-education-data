@@ -1,0 +1,104 @@
+{
+  "subject": "BAO",
+  "title": "Barn- och ungdomssjukvård",
+  "code": "BAOBAN0",
+  "points": 200,
+  "criteria": {
+    "A": [
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för vanliga sjukdomar och skador hos barn och ungdomar samt hur de kan förebyggas.",
+        "Dessutom planerar och utför eleven, <strong>efter samråd</strong> med handledare, vård- och omsorgsuppgifter och medicintekniska uppgifter för sjuka, skadade eller för tidigt födda barn.",
+        "I arbetet uppmärksammar, rapporterar och dokumenterar eleven, <strong>efter samråd</strong> med handledare, symtom och förändringar i barns och ungdomars hälsotillstånd.",
+        "Arbetet utförs med ett <strong>gott</strong> resultat."
+      ],
+      [
+        "Eleven diskuterar <strong>utförligt och nyanserat</strong> etiska frågeställningar av betydelse för barn och ungdomar som är drabbade av sjukdomar.",
+        "Eleven bemöter, kommunicerar och samarbetar <strong>med säkerhet</strong> med barn, ungdomar och vårdnadshavare."
+      ],
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för barns och ungdomars reaktioner vid ohälsa och i krissituationer."
+      ],
+      [
+        "Eleven använder, <strong>efter samråd</strong> med handledare, olika former av teknisk utrustning utifrån gällande säkerhetsföreskrifter."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör <strong>utförligt</strong> för vanliga sjukdomar och skador hos barn och ungdomar samt hur de kan förebyggas.",
+        "Dessutom planerar och utför eleven, <strong>efter samråd</strong> med handledare, vård- och omsorgsuppgifter och medicintekniska uppgifter för sjuka, skadade eller för tidigt födda barn.",
+        "I arbetet uppmärksammar, rapporterar och dokumenterar eleven, <strong>efter samråd</strong> med handledare, symtom och förändringar i barns och ungdomars hälsotillstånd.",
+        "Arbetet utförs med ett <strong>tillfredsställande</strong> resultat."
+      ],
+      [
+        "Eleven diskuterar <strong>utförligt</strong> etiska frågeställningar av betydelse för barn och ungdomar som är drabbade av sjukdomar.",
+        "Eleven bemöter, kommunicerar och samarbetar <strong>med viss säkerhet</strong> med barn, ungdomar och vårdnadshavare."
+      ],
+      [
+        "Eleven redogör <strong>utförligt</strong> för barns och ungdomars reaktioner vid ohälsa och i krissituationer."
+      ],
+      [
+        "Eleven använder, <strong>efter samråd</strong> med handledare, olika former av teknisk utrustning utifrån gällande säkerhetsföreskrifter."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven redogör <strong>översiktligt</strong> för vanliga sjukdomar och skador hos barn och ungdomar samt hur de kan förebyggas.",
+        "Dessutom planerar och utför eleven, <strong>i samråd</strong> med handledare, vård- och omsorgsuppgifter och medicintekniska uppgifter för sjuka, skadade eller för tidigt födda barn.",
+        "I arbetet uppmärksammar, rapporterar och dokumenterar eleven, <strong>i samråd</strong> med handledare, symtom och förändringar i barns och ungdomars hälsotillstånd.",
+        "Arbetet utförs med ett <strong>tillfredsställande</strong> resultat."
+      ],
+      [
+        "Eleven diskuterar <strong>översiktligt</strong> etiska frågeställningar av betydelse för barn och ungdomar som är drabbade av sjukdomar.",
+        "Eleven bemöter, kommunicerar och samarbetar <strong>med viss säkerhet</strong> med barn, ungdomar och vårdnadshavare."
+      ],
+      [
+        "Eleven redogör <strong>översiktligt</strong> för barns och ungdomars reaktioner vid ohälsa och i krissituationer."
+      ],
+      [
+        "Eleven använder, <strong>i samråd</strong> med handledare, olika former av teknisk utrustning utifrån gällande säkerhetsföreskrifter."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Vanliga sjukdomar och skador hos barn och ungdomar och hur de kan förebyggas.",
+        "Omhändertagande vid olycksfall.",
+        "S-HLR Barn.",
+        "Vård- och omsorgsåtgärder samt medicinska åtgärder vid sjukdomar hos barn och ungdomar.",
+        "Vård av friska nyfödda.",
+        "Amningens betydelse.",
+        "Omhändertagande av prematura barn.",
+        "Smärta och smärtbehandling hos barn.",
+        "Rehabilitering och habilitering.",
+        "System och rutiner för rapportering och dokumentation av symtom och gjorda åtgärder med och utan hjälp av välfärdsteknik.",
+        "Etiska frågeställningar i samband med barns och ungdomars sjukdomar, däribland otillräcklig smärtlindring.",
+        "Barns och ungdomars samt närståendes behov i anslutning till hälso- och sjukvård, däribland behov av information och delaktighet.",
+        "Hantera balansen mellan barns och ungdomars behov och vårdnadshavares och närståendes behov.",
+        "Betydelse av lek och andra skapande aktiviteter för barns välbefinnande.",
+        "Barns och ungdomars reaktioner i kris och hur dessa kan hanteras inom vården.",
+        "Medicinteknisk och annan utrustning.",
+        "Gällande säkerhetsföreskrifter för medicinteknisk och annan utrustning."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen barn- och ungdomssjukvård omfattar punkterna 3-8 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]
+}

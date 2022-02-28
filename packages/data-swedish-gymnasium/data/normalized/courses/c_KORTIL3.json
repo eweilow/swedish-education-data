@@ -1,0 +1,110 @@
+{
+  "name": "Tillämpad konstruktionsteknik",
+  "code": "KORTIL3",
+  "focusAreas": {
+    "string": "Kursen tillämpad konstruktionsteknik omfattar punkterna 2-3 och 5-9 under rubriken Ämnets syfte.",
+    "entries": [
+      "2-3",
+      "5-9"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Formulering, strukturering och lösning av konstruktionstekniska problem som saknar en entydig lösning samt utvärdering av konstruktionsarbetet och resultatet.",
+          "2. Inhämtning, tolkning och strukturering av relevant information som en del av konstruktionsarbetet.",
+          "3. Antaganden för att kunna utföra konstruktionsarbete och motivering av dessa antaganden.",
+          "4. Tillämpning av relevanta metoder, teorier, modeller, material och verktyg i konstruktionsarbetet.",
+          "5. Fördjupning i relevanta komponenters egenskaper och begränsningar samt dimensionering och användning av dessa i olika tekniska sammanhang.",
+          "6. Dimensionering med och utan datorbaserade verktyg.",
+          "7. Fördjupning i standarder och normer inom valda teknikområden.",
+          "8. Skapande av berednings- och tillverkningsunderlag och, om relevant för teknikområdet, toleranser och ritteknik i samband med detta.",
+          "9. Utformning av tekniska instruktioner, om relevant för teknikområdet.",
+          "10. Fördjupning i metoder för att underlätta samspelet mellan konstruktion, tillverkning, kvalitet, lönsamhet och hållbar utveckling, till exempel livscykelanalys.",
+          "11. Fördjupning i tekniska system och deras inverkan vid konstruktion av komponenter och delsystem.",
+          "12. Fördjupning i manuella och datorstödda provningsmetoder.",
+          "13. Dokumentation och redovisning av konstruktionsarbete och resultat med relevanta tekniska hjälpmedel."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven formulerar och strukturerar **bekanta** konstruktionstekniska problem **efter samråd** med handledare, löser problemen med **tillfredsställande** resultat samt utvärderar arbetet och resultatet med **nyanserade** omdömen."
+      ],
+      [
+        "I sitt arbete inhämtar, tolkar och strukturerar eleven **med säkerhet** relevant information.",
+        "Dessutom gör eleven **med säkerhet** relevanta antaganden och ger **nyanserade** motiveringar.",
+        "I konstruktionsarbetet väljer eleven **efter samråd** med handledare relevanta metoder, teorier, modeller, material och verktyg och använder **med säkerhet** dessa till att lösa problem."
+      ],
+      [
+        "Eleven redogör **övergripande** för relevanta komponenters egenskaper och begränsningar samt använder dessa **med säkerhet** i olika tekniska sammanhang.",
+        "Dessutom utför eleven **med säkerhet** dimensioneringar med och utan datorstödda verktyg.",
+        "Eleven tar i sitt arbete hänsyn till standarder och normer.",
+        null,
+        "Eleven skapar berednings- och tillverkningsunderlag med **tillfredställande** resultat."
+      ],
+      [
+        "Eleven redogör **övergripande** för metoder som underlättar samspel mellan konstruktion och tillverkning, kvalitet, lönsamhet och hållbar utveckling samt använder dessa metoder **med säkerhet** i konstruktionsarbetet för att optimera sin konstruktion.",
+        "Dessutom tar eleven i sitt arbete **med säkerhet** hänsyn till omgivande system.",
+        "Eleven utför **med säkerhet** provning av konstruktionens funktion både manuellt och med hjälp av datorer."
+      ],
+      [
+        "Eleven dokumenterar och redovisar konstruktionsarbetet och resultatet **med säkerhet** och med relevanta tekniska hjälpmedel."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven formulerar och strukturerar **i huvudsak bekanta, men även obekanta,** konstruktionstekniska problem **självständigt efter samråd** med handledare, löser problemen med **tillfredsställande** resultat samt utvärderar arbetet och resultatet med **nyanserade** omdömen."
+      ],
+      [
+        "I sitt arbete inhämtar, tolkar och strukturerar eleven **med god säkerhet** relevant information.",
+        "Dessutom gör eleven **med god säkerhet** relevanta antaganden och ger **nyanserade** motiveringar.",
+        "I konstruktionsarbetet väljer eleven **självständigt efter samråd** med handledare relevanta metoder, teorier, modeller, material och verktyg och använder **med god säkerhet** dessa till att lösa problem."
+      ],
+      [
+        "Eleven redogör **utförligt** för relevanta komponenters egenskaper och begränsningar samt använder dessa **med god säkerhet** i olika tekniska sammanhang.",
+        "Dessutom utför eleven **med god säkerhet** dimensioneringar med och utan datorstödda verktyg.",
+        "Eleven tar i sitt arbete hänsyn till standarder och normer.",
+        null,
+        "Eleven skapar berednings- och tillverkningsunderlag med **tillfredställande** resultat."
+      ],
+      [
+        "Eleven redogör **utförligt** för metoder som underlättar samspel mellan konstruktion och tillverkning, kvalitet, lönsamhet och hållbar utveckling samt använder dessa metoder **med god säkerhet** i konstruktionsarbetet till att optimera sin konstruktion.",
+        "Dessutom tar eleven i sitt arbete **med god säkerhet** hänsyn till omgivande system.",
+        "Eleven utför **med god säkerhet** provning av konstruktionens funktion både manuellt och med hjälp av datorer."
+      ],
+      [
+        "Eleven dokumenterar och redovisar konstruktionsarbetet och resultatet **med god säkerhet** och med relevanta tekniska hjälpmedel."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven formulerar och strukturerar **både bekanta och obekanta** konstruktionstekniska problem **självständigt**, löser problemen med **gott** resultat samt utvärderar arbetet och resultatet med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**."
+      ],
+      [
+        "I sitt arbete inhämtar, tolkar och strukturerar eleven **med mycket god säkerhet** relevant information.",
+        "Dessutom gör eleven **med mycket god säkerhet** relevanta antaganden och ger **nyanserade** motiveringar.",
+        "I konstruktionsarbetet väljer eleven **självständigt** relevanta metoder, teorier, modeller, material och verktyg och använder **med mycket god säkerhet** dessa till att lösa problem."
+      ],
+      [
+        "Eleven redogör **utförligt och nyanserat** för relevanta komponenters egenskaper och begränsningar samt använder dessa **med mycket god säkerhet** i olika tekniska sammanhang.",
+        "Dessutom utför eleven **med god säkerhet avancerade** dimensioneringar med och utan datorstödda verktyg.",
+        "Eleven tar i sitt arbete hänsyn till standarder och normer.",
+        "**Eleven resonerar även utförligt om alternativa sätt att lösa problem och konstruktionsuppgifter**.",
+        "Eleven skapar berednings- och tillverkningsunderlag med **gott** resultat."
+      ],
+      [
+        "Eleven redogör **utförligt och nyanserat** för metoder som underlättar samspel mellan konstruktion och tillverkning, kvalitet, lönsamhet och hållbar utveckling samt använder dessa metoder **med mycket god säkerhet** i konstruktionsarbetet till att optimera sin konstruktion.",
+        "Dessutom tar eleven i sitt arbete **med mycket god säkerhet** hänsyn till omgivande system.",
+        "Eleven utför **med mycket god säkerhet** provning av konstruktionens funktion både manuellt och med hjälp av datorer **samt använder resultatet till att förbättra sin konstruktion**."
+      ],
+      [
+        "Eleven dokumenterar och redovisar konstruktionsarbetet och resultatet **med mycket god säkerhet** och med relevanta tekniska hjälpmedel."
+      ]
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "subject": "FAI",
+  "title": "Fastighetsautomation 1",
+  "code": "FAIFAS01",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom fastighetsautomation.",
+        "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för begrepp och standarder som styr arbetet med automatiserade system i fastigheter."
+      ],
+      [
+        "Eleven planerar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>gott</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+        "Eleven arbetar på ett sätt som är säkert för eleven själv och andra.",
+        "I arbetet använder eleven <strong>med säkerhet</strong> manualer, scheman och ritningar.",
+        "Vidare driftsätter och kontrollerar eleven <strong>efter samråd</strong> med handledare anläggningen, upptäcker och åtgärdar <strong>efter samråd</strong> med handledare de fel som uppstår samt genomför en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete.",
+        "Eleven strukturerar uppgiften <strong>med säkerhet</strong> och programmerar eller konfigurerar med <strong>mycket gott</strong> handlag styrsystemet för anläggningens funktioner.",
+        "Vidare förebygger eleven <strong>efter samråd</strong> med handledare fel och optimerar med <strong>mycket gott</strong> handlag anläggningen utifrån användarens funktionsbeskrivning.",
+        "I arbetet beskriver eleven <strong>utförligt och nyanserat</strong> hur de olika delarna fungerar och samverkar <strong>samt ger välgrundade förslag på förbättringar av anläggningen</strong>."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör <strong>utförligt</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom fastighetsautomation.",
+        "Dessutom redogör eleven <strong>utförligt</strong> för begrepp och standarder som styr arbetet med automatiserade system i fastigheter."
+      ],
+      [
+        "Eleven planerar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+        "Eleven arbetar på ett sätt som är säkert för eleven själv och andra.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> manualer, scheman och ritningar.",
+        "Vidare driftsätter och kontrollerar eleven <strong>efter samråd</strong> med handledare anläggningen, upptäcker och åtgärdar <strong>efter samråd</strong> med handledare de fel som uppstår samt genomför en <strong>noggrann</strong> dokumentation av sitt arbete.",
+        "Eleven strukturerar uppgiften <strong>med viss säkerhet</strong> och programmerar eller konfigurerar med <strong>gott</strong> handlag styrsystemet för anläggningens funktioner utifrån användarens funktionsbeskrivning.",
+        "Vidare förebygger eleven <strong>efter samråd</strong> med handledare fel och optimerar med <strong>gott</strong> handlag anläggningen.",
+        "I arbetet beskriver eleven <strong>utförligt</strong> hur de olika delarna fungerar och samverkar <strong>samt ger enkla förslag på förbättringar av anläggningen</strong>."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven redogör <strong>översiktligt</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter inom fastighetsautomation.",
+        "Dessutom redogör eleven <strong>översiktligt</strong> för begrepp och standarder som styr arbetet med automatiserade system i fastigheter."
+      ],
+      [
+        "Eleven planerar och utför <strong>i samråd</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+        "Eleven arbetar på ett sätt som är säkert för eleven själv och andra.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> manualer, scheman och ritningar.",
+        "Vidare driftsätter och kontrollerar eleven <strong>i samråd</strong> med handledare anläggningen, upptäcker och åtgärdar <strong>i samråd</strong> med handledare de fel som uppstår samt genomför en <strong>enkel</strong> dokumentation av sitt arbete.",
+        "Eleven strukturerar uppgiften <strong>med viss säkerhet</strong> och programmerar eller konfigurerar med <strong>visst</strong> handlag styrsystemet för anläggningens funktioner utifrån användarens funktionsbeskrivning.",
+        "Vidare förebygger eleven <strong>i samråd</strong> med handledare fel och optimerar med <strong>visst</strong> handlag anläggningen.",
+        "I arbetet beskriver eleven <strong>översiktligt</strong> hur de olika delarna fungerar och samverkar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Grundläggande systemfunktioner, tekniska begrepp, beteckningar, symboler och enheter inom området värme och ventilation, till exempel luftbehandling, värmeväxlare, panna, varmvattenberedare, spjällmotor, radiatorslinga, tidkanal, fjärrvärme, varmvattencirkulation, shuntventil, expansionskärl, säkerhetsventil, närvarostyrning, koldioxidstyrning, datorhuvudcentral och datorundercentral.",
+        "Grundläggande systemfunktioner, tekniska begrepp, beteckningar, symboler och enheter inom området fastighetsstyrning, till exempel konstantljusreglering, kopplingsur, tidkanal, närvarostyrning, skymningsrelä, ljusrelä och ljussensor.",
+        "Vanligt förekommande informationstekniska standarder inom fastighetsautomation.",
+        "Vanligt förekommande automationsenheter och drifttekniskt övergripande system inom fastighetsautomation.",
+        "Vanligt förekommande systemlösningar för olika funktioner inom fastighetsautomation samt hur de kan integreras och samverka.",
+        "Utveckling och framtid inom fastighetsautomation.",
+        "Planering, installation, konfigurering, programmering och driftsättning av vanligt förekommande automatiseringar långt ut i fastigheter, till exempel belysning eller solavskärmning.",
+        "Behörigheter och sociala aspekter vid arbete i fastigheter, till exempel vilka arbeten som kräver vilken behörighet samt tolkning av kundkrav och översättning av dessa till en teknisk lösning.",
+        "Metoder för att mäta ljusstyrka och vindstyrka samt funktioner hos regnsensorer.",
+        "Vanligt förekommande spänningar och standardiserade analoga signaler i fastigheter.",
+        "Risker och säkerhet vid arbeten i fastigheter, till exempel brandrisker och risken att lösa ut brandlarm eller inbrottslarm.",
+        "Tolkning av kravspecifikationer och dokumentation.",
+        "Dokumentation av arbeten i fastigheter.",
+        "Förebyggande och avhjälpande underhåll inom fastighetsautomation."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen fastighetsautomation 1 omfattar punkterna 1-7 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ]
+}

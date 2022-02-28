@@ -1,0 +1,91 @@
+{
+  "name": "Signalteknik",
+  "code": "JÄNSIG0",
+  "focusAreas": {
+    "string": "Kursen signalteknik omfattar punkterna 3-7 under rubriken Ämnets syfte.",
+    "entries": [
+      "3-7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Automatic train control-systemets uppbyggnad och konstruktion.",
+          "2. Grundläggande trafikeringsregler och signalering.",
+          "3. Signaltekniska grundbegrepp samt deras definitioner.",
+          "4. Regler om signalarbete samt begreppet signalsäkerhetskontrollant.",
+          "5. Föreskrifter om arbete med spänning.",
+          "6. Montering och underhåll av de vanligast förekommande signalsäkerhetsobjekten på bangårdar.",
+          "7. Montering, injustering och skarvning av spårledningskretsar.",
+          "8. Skarvning och terminering av förekommande kabeltyper.",
+          "9. Funktion och felavhjälpning av vägskydd på linjen.",
+          "10. Jordning i signalanläggningar."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **översiktligt** för signalsystemets uppbyggnad och konstruktion."
+      ],
+      [
+        "Eleven planerar **i samråd** med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området.",
+        "Eleven utför **i samråd** med handledare **enkel** montering, felsökning och reparation av signalanläggningar.",
+        "I arbetet väljer eleven **med viss säkerhet** material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem med **visst** handlag.",
+        "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem **i samråd** med handledare."
+      ],
+      [
+        "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs."
+      ],
+      [
+        "När arbetet är utfört gör eleven en **enkel** dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för signalsystemets uppbyggnad och konstruktion."
+      ],
+      [
+        "Eleven planerar **efter samråd** med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området.",
+        "Eleven utför **efter samråd** med handledare montering, felsökning och reparation av signalanläggningar.",
+        "I arbetet väljer eleven **med viss säkerhet** material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem med **gott** handlag.",
+        "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem **efter samråd** med handledare."
+      ],
+      [
+        "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs."
+      ],
+      [
+        "När arbetet är utfört gör eleven en **noggrann** dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för signalsystemets uppbyggnad och konstruktion."
+      ],
+      [
+        "Eleven planerar **efter samråd** med handledare sitt arbete utifrån de begrepp, föreskrifter, standarder och andra bestämmelser som finns inom området.",
+        "Eleven utför **efter samråd** med handledare **avancerad** montering, felsökning och reparation av signalanläggningar.",
+        "I arbetet väljer eleven **med säkerhet** material, verktyg, instrument och övrig utrustning avsedd för uppgiften samt använder dem med **mycket gott** handlag.",
+        "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem **efter samråd** med handledare."
+      ],
+      [
+        "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt så att skador på personer och egendom förebyggs."
+      ],
+      [
+        "När arbetet är utfört gör eleven en **noggrann och utförlig** dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

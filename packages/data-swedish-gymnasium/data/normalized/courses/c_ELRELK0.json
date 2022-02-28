@@ -1,0 +1,73 @@
+{
+  "name": "Elektromekanik",
+  "code": "ELRELK0",
+  "focusAreas": {
+    "string": "Kursen elektromekanik omfattar punkterna 1-4 och 6-7 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "entries": [
+      "1-4",
+      "6-7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Elarbete, till exempel losskoppling och anslutning av apparater samt funktionsprovning.",
+          "2. Enklare verkstadsarbete, till exempel mjuklödning, skruvförband och popnitning.",
+          "3. Ritningsläsning inom verkstadstekniken.",
+          "4. Pressverktyg för olika kontakttyper som används inom yrkesområdet.",
+          "5. Fästteknik, materialkunskap och mekanisk mätning.",
+          "6. Handverktyg som används inom de olika yrkesområdena.",
+          "7. Elsäkerhet för personer och egendom.",
+          "8. Egenkontroll, ergonomi, elsäkert arbete, kvalitetskrav, arbetsmiljö och säkerhet.",
+          "9. Säkerhet i heta arbeten, ställningsbyggande och arbete från stege."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven utför med **visst** handlag enkelt elarbete, verkstadsarbete, mekaniskt arbete och sammanfogningsteknik inom området.",
+        "Eleven gör en **enkel** planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften.",
+        "Inför arbetet väljer eleven **i samråd** med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med **visst** handlag och på ett miljömässigt sätt."
+      ],
+      [
+        "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik.",
+        "Eleven gör en **enkel** dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven utför med **gott** handlag enkelt elarbete, verkstadsarbete, mekaniskt arbete och sammanfogningsteknik inom området.",
+        "Eleven gör en **genomarbetad** planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften.",
+        "Inför arbetet väljer eleven **efter samråd** med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med **gott** handlag och på ett miljömässigt sätt."
+      ],
+      [
+        "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik.",
+        "Eleven gör en **noggrann** dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven utför med **mycket gott** handlag enkelt, **men även mer avancerat**, elarbete, verkstadsarbete, mekaniskt arbete och sammanfogningsteknik inom området.",
+        "Eleven gör en **genomarbetad** planering av arbetet utifrån de ritningar, scheman, standarder och föreskrifter som är relevanta för uppgiften.",
+        "Inför arbetet väljer eleven **efter samråd** med handledare verktyg, instrument, material och övrig utrustning avsedd för uppgiften samt använder den med **mycket gott** handlag och på ett miljömässigt sätt."
+      ],
+      [
+        "Eleven utför arbetet på ett sätt som är säkert för eleven själv och andra samt med hänsyn till arbetsmiljö, ergonomi och estetik.",
+        "Eleven gör en **noggrann och utförlig** dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Virkesmätning",
+  "code": "SKGVIK0",
+  "focusAreas": {
+    "string": "Kursen virkesmätning omfattar punkterna 1-2 och 5-8 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-2",
+      "5-8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Virkets byggnad.",
+          "2. Identifiering av virkesskador. Skadornas orsaker samt bedömning av skadornas inverkan på slutprodukten.",
+          "3. Timmerklassning.",
+          "4. Virkesmätning vid terminal och skogsarbetsplats.",
+          "5. Arbetsorganisation vid en mätstation.",
+          "6. Användning och skötsel av teknisk utrustning och andra hjälpmedel för mätning och redovisning.",
+          "7. Statistiska beräkningsmetoder som används i samband med virkesmätning.",
+          "8. Ergonomi, arbetsmiljö och säkerhet i samband med virkesmätning.",
+          "9. Virkesmätningsföreningens uppgift och organisation samt föreningens förhållande till virkesmarknadens parter.",
+          "10. Branschens bestämmelser och instruktioner för virkesmätning.",
+          "11. Redovisningsbestämmelser som används i samband med virkesmätning."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **översiktligt** för virkets byggnad.",
+        "Dessutom identifierar eleven **med viss säkerhet** vanliga skadegörare på virke, redogör **översiktligt** för skadornas inverkan på slutprodukten samt ger **enkla** förslag på motåtgärder för att skydda virket."
+      ],
+      [
+        "Eleven utför **i samråd** med handledare timmerklassning och virkesmätning.",
+        "Eleven använder och sköter också **i samråd** med handledare teknisk utrustning för mätning och redovisning.",
+        "I arbetet löser eleven **i samråd** med handledare de problem som uppstår.",
+        "Resultatet av arbetet är **tillfredsställande**.",
+        "Dessutom gör eleven **enkla** statistiska beräkningar samt värderar sitt resultat med **enkla** omdömen."
+      ],
+      [
+        "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter.",
+        "Dessutom redogör eleven **översiktligt** för och arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som rör virkeshantering."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för virkets byggnad.",
+        "Dessutom identifierar eleven **med viss säkerhet** vanliga skadegörare på virke, redogör **utförligt** för skadornas inverkan på slutprodukten samt ger **välgrundade** förslag på motåtgärder för att skydda virket."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare timmerklassning och virkesmätning.",
+        "Eleven använder och sköter också **efter samråd** med handledare teknisk utrustning för mätning och redovisning.",
+        "I arbetet löser eleven **efter samråd** med handledare de problem som uppstår.",
+        "Resultatet av arbetet är **tillfredsställande**.",
+        "Dessutom gör eleven statistiska beräkningar samt värderar sitt resultat med **enkla** omdömen."
+      ],
+      [
+        "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter.",
+        "Dessutom redogör eleven **utförligt** för och arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som rör virkeshantering."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för virkets byggnad.",
+        "Dessutom identifierar eleven **med säkerhet** vanliga skadegörare på virke, redogör **utförligt och nyanserat** för skadornas inverkan på slutprodukten samt ger **välgrundade och nyanserade** förslag på motåtgärder för att skydda virket."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare timmerklassning och virkesmätning.",
+        "Eleven använder och sköter också **efter samråd** med handledare teknisk utrustning för mätning och redovisning.",
+        "I arbetet löser eleven **efter samråd** med handledare de problem som uppstår.",
+        "Resultatet av arbetet är **gott**.",
+        "Dessutom gör eleven **avancerade** statistiska beräkningar samt värderar sitt resultat med **nyanserade** omdömen."
+      ],
+      [
+        "Eleven arbetar säkert och ergonomiskt, använder personlig skyddsutrustning samt tillämpar gällande skyddsföreskrifter.",
+        "Dessutom redogör eleven **utförligt** för och arbetar i enlighet med certifieringssystem, lagar och andra bestämmelser som rör virkeshantering."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

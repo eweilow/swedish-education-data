@@ -1,0 +1,101 @@
+{
+  "name": "Aktivitetsledarskap",
+  "code": "PEDAKI00S",
+  "focusAreas": {
+    "string": "Kursen aktivitetsledarskap omfattar punkterna 1 och 4-6 under rubriken Ämnets syfte, med särskild betoning på pedagogiska sammanhang och ledarskap inom dessa.",
+    "entries": [
+      "1",
+      "4-6"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Pedagogiskt ledarskap inom specifika aktiviteter i samverkan med verksamheter.",
+          "2. Verksamhetens organisation, målsättning, verksamhetsform, ledarutbildning och centrala begrepp för aktiviteten.",
+          "3. Människors interaktion, gruppens och det sociala sammanhangets betydelse för lärande och det pedagogiska ledarskapet.",
+          "4. Planering, genomförande, dokumentation och utvärdering av aktiviteter på ett sätt som är i enlighet med målen för verksamheten."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** det pedagogiska ledarskapet och verksamhetens organisation och innehåll inom en specifik aktivitet.",
+        "Eleven ger också exempel på vad som påverkar ledarskapet och organisationen.",
+        "I beskrivningarna använder eleven **med viss säkerhet** centrala begrepp samt förklarar **enkla** samband och drar **enkla** slutsatser."
+      ],
+      [
+        "Eleven planerar, såväl självständigt som i samarbete med andra, uppgifter och aktiviteter utifrån syfte och mål.",
+        null,
+        "Utifrån planeringen genomför eleven uppgifterna och aktiviteterna **i samråd** med handledare.",
+        null,
+        "I arbetet interagerar eleven, samt kommunicerar **med viss säkerhet**, i samarbete och möten med människor.",
+        "Dessutom gör eleven en **enkel** dokumentation av utförda uppgifter och aktiviteter.",
+        "I dokumentationen använder eleven **med viss säkerhet** relevanta begrepp.",
+        "När arbetet är utfört utvärderar eleven uppgifterna och aktiviteterna med **enkla** omdömen utifrån uppsatta mål.",
+        "I utvärderingen diskuterar eleven **översiktligt** möjliga alternativa lösningar och föreslår vid behov förbättringar."
+      ],
+      [
+        "Eleven diskuterar **översiktligt** egna och andras attityder, värderingar och handlingar i relation till uppgifterna och aktiviteterna.",
+        "I diskussionen framför eleven **enkla** argument för sina åsikter samt visar respekt för andras åsikter."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** det pedagogiska ledarskapet och verksamhetens organisation och innehåll inom en specifik aktivitet.",
+        "Eleven ger också exempel på vad som påverkar ledarskapet och organisationen.",
+        "I beskrivningarna använder eleven **med viss säkerhet** centrala begrepp samt förklarar samband och drar **välgrundade** slutsatser."
+      ],
+      [
+        "Eleven planerar, såväl självständigt som i samarbete med andra, uppgifter och aktiviteter utifrån syfte och mål.",
+        null,
+        "Utifrån planeringen genomför eleven uppgifterna och aktiviteterna **efter samråd** med handledare.",
+        "**Eleven diskuterar utförligt sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande**.",
+        "I arbetet interagerar eleven, samt kommunicerar **med viss säkerhet**, i samarbete och möten med människor.",
+        "Dessutom gör eleven en **noggrann** dokumentation av utförda uppgifter och aktiviteter.",
+        "I dokumentationen använder eleven **med viss säkerhet** relevanta begrepp.",
+        "När arbetet är utfört utvärderar eleven uppgifterna och aktiviteterna med **nyanserade** omdömen utifrån uppsatta mål.",
+        "I utvärderingen diskuterar eleven **utförligt** möjliga alternativa lösningar och föreslår vid behov förbättringar."
+      ],
+      [
+        "Eleven diskuterar **utförligt** egna och andras attityder, värderingar och handlingar i relation till uppgifterna och aktiviteterna.",
+        "I diskussionen framför eleven **välgrundade** argument för sina åsikter samt visar respekt för andras åsikter."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** det pedagogiska ledarskapet och verksamhetens organisation och innehåll inom en specifik aktivitet.",
+        "Eleven ger också exempel på vad som påverkar ledarskapet och organisationen.",
+        "I beskrivningarna använder eleven **med säkerhet** centrala begrepp samt förklarar **komplexa** samband och drar **välgrundade och nyanserade** slutsatser."
+      ],
+      [
+        "Eleven planerar, såväl självständigt som i samarbete med andra, uppgifter och aktiviteter utifrån syfte och mål.",
+        "**I planeringen identifierar eleven kritiska moment och förebygger hinder som kan uppstå under genomförandet**.",
+        "Utifrån planeringen genomför eleven uppgifterna och aktiviteterna **efter samråd** med handledare **samt anpassar vid behov genomförandet till ändrade förutsättningar**.",
+        "**Eleven diskuterar utförligt och nyanserat sin egen och andras roll och betydelse samt tar utgångspunkt i det vid sitt eget handlande**.",
+        "I arbetet interagerar eleven, samt kommunicerar **med säkerhet**, i samarbete och möten med människor.",
+        "Dessutom gör eleven en **noggrann och utförlig** dokumentation av utförda uppgifter och aktiviteter.",
+        "I dokumentationen använder eleven **med säkerhet** relevanta begrepp.",
+        "När arbetet är utfört utvärderar eleven uppgifterna och aktiviteterna med **nyanserade** omdömen utifrån uppsatta mål **och deltagarnas respons**.",
+        "I utvärderingen diskuterar eleven **utförligt och nyanserat** möjliga alternativa lösningar och föreslår vid behov förbättringar."
+      ],
+      [
+        "Eleven diskuterar **utförligt och nyanserat** egna och andras attityder, värderingar och handlingar i relation till uppgifterna och aktiviteterna.",
+        "I diskussionen framför eleven **välgrundade och nyanserade** argument för sina åsikter samt visar respekt för andras åsikter."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

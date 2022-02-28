@@ -1,0 +1,50 @@
+{
+  "name": "Cad",
+  "code": "CAD",
+  "description": [
+    "Ämnet cad (computer aided design) behandlar hur man använder olika programvaror för att konstruera och designa verkliga och virtuella objekt. I ämnet är geometri grunden för att, via skiss och ritteknik, kunna realisera en idé till styrinformation för att tillverka produkten."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet cad ska syfta till att eleverna utvecklar kunskaper i skiss- och ritteknik samt i att använda något eller några cad-system. Undervisningen ska även leda till att eleverna utvecklar kunskaper i hur cad-system byggs upp. Eftersom cad bland annat handlar om att konstruera och designa nya objekt ska undervisningen ge eleverna möjlighet att utveckla handlingsförmåga, nyfikenhet, uppfinningsrikedom och problemlösningsförmåga. Undervisningen ska introducera begrepp som är relevanta för valt teknikområde. Vidare ska undervisningen bidra till att eleverna utvecklar kunskaper om ergonomiska förutsättningar för en cad-arbetsplats.",
+          "Undervisningen ska utgå från ett valt teknikområde, där cad är ett verktyg, ett språk och en metod för att skapa information om produkten. Vidare ska undervisningen behandla hur cad-programmets information kan överföras till och från andra datorprogram samt till och från maskinell kringutrustning. Undervisningen ska ge eleverna möjlighet att utföra och förstå de olika delarna i produktutvecklingsprocessen."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet cad ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Förmåga att använda cad i förhållande till andra datorprogram och i förekommande fall maskiner.",
+          "2. Förmåga att göra skisser och ritningar enligt gällande standarder och normer.",
+          "3. Förmåga att modellera tredimensionella detaljer.",
+          "4. Förmåga att utföra tredimensionella sammanställningar.",
+          "5. Förmåga att använda applikationsprogram.",
+          "6. Kunskaper om kopplingar mellan cad och produktion.",
+          "7. Förmåga att utvärdera sitt arbete och resultat.",
+          "8. Förståelse av ergonomiska förutsättningar som skapar en bra cad-arbetsplats."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Cad 1, 50 poäng.",
+          "2. Cad 2, 50 poäng.",
+          "3. Cad 3, 50 poäng.",
+          "4. Cad - specialisering, 100 poäng."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2015-05-27T11:31:01.000Z",
+  "modifiedDate": "2020-02-19T14:50:10.000Z",
+  "courseCodes": [
+    "CADCAD01",
+    "CADCAD02",
+    "CADCAD03",
+    "CADCAD00S"
+  ]
+}

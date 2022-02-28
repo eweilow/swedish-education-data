@@ -1,0 +1,98 @@
+{
+  "name": "Nätverksadministration",
+  "code": "NAINAV0",
+  "focusAreas": {
+    "string": "Kursen nätverksadministration omfattar punkterna 1-9 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-9"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Applikationsprogram samt installation, administration och styrning av rättigheter för nätverksbaserad installation av olika typer av applikationer.",
+          "2. Analys, optimering och felsökning av en servers prestanda.",
+          "3. Konfigurering av flerdisksystem samt uppsättning av spegling av hårddiskar eller motsvarande teknologier.",
+          "4. Hantering av texteditorer.",
+          "5. Skriptning.",
+          "6. Filservrar och webbservrar.",
+          "7. Uppgradering av klienter, servrar och nätverksutrustning.",
+          "8. Klient- och serverhantering samt inloggning av klienter mot flera servrar genom en central kontohantering.",
+          "9. Skydd av användardata samt säkerhetslagring av användarnas information lokalt och på en server.",
+          "10. Driftsäkerhet, övervakning och hur driftstopp undviks samt underhåll av servrar.",
+          "11. Partitionering och replikering av katalogtjänster samt säkerställande av säkerhet mellan servrar och åtkomst mellan dessa.",
+          "12. Design av och säkerhet i katalogtjänst och filsystem.",
+          "13. Licenshantering samt lagar om upphovsrätt.",
+          "14. Användarmiljöer samt anpassning av serverlösningar till olika användarmiljöer och verksamhetsbehov."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** hur nätverks olika delar och komponenter är uppbyggda och fungerar."
+      ],
+      [
+        "Eleven planerar **i samråd** med handledare sitt arbete.",
+        "I planeringen läser och tolkar eleven **med viss säkerhet** instruktioner, manualer och andra dokument.",
+        "Eleven utför **i samråd** med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+        "Eleven bygger också **i samråd** med handledare upp nätverk och anläggningar samt skapar **med viss säkerhet** systemlösningar.",
+        "Dessutom utför eleven **i samråd** med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar **i samråd** med handledare fel i utrustning i nätverksmiljöer.",
+        "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+        "Resultatet av arbetet är **tillfredsställande** med avseende på funktion, säkerhet och kvalitet.",
+        "När arbetet är utfört gör eleven en **enkel** dokumentation av sitt arbete."
+      ],
+      [
+        "Eleven ger **i samråd** med handledare **enkla** råd till användare vid val av nätverkssystem och datorteknisk utrustning."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** hur nätverks olika delar och komponenter är uppbyggda och fungerar."
+      ],
+      [
+        "Eleven planerar **efter samråd** med handledare sitt arbete.",
+        "I planeringen läser och tolkar eleven **med viss säkerhet** instruktioner, manualer och andra dokument.",
+        "Eleven utför **efter samråd** med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+        "Eleven bygger också **efter samråd** med handledare upp nätverk och anläggningar samt skapar **med viss säkerhet** systemlösningar.",
+        "Dessutom utför eleven **efter samråd** med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar **efter samråd** med handledare fel i utrustning i nätverksmiljöer.",
+        "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+        "Resultatet av arbetet är **tillfredsställande** med avseende på funktion, säkerhet och kvalitet.",
+        "När arbetet är utfört gör eleven en **noggrann** dokumentation av sitt arbete."
+      ],
+      [
+        "Eleven ger **efter samråd** med handledare råd till användare vid val av nätverkssystem och datorteknisk utrustning."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** hur nätverks olika delar och komponenter är uppbyggda och fungerar."
+      ],
+      [
+        "Eleven planerar **efter samråd** med handledare sitt arbete.",
+        "I planeringen läser och tolkar eleven **med säkerhet** instruktioner, manualer och andra dokument.",
+        "Eleven utför **efter samråd** med handledare hårdvaru- och mjukvaruinstallation samt konfigurering, optimering, analys och administration av nätverksmiljöer.",
+        "Eleven bygger också **efter samråd** med handledare upp nätverk och anläggningar samt skapar **med säkerhet** systemlösningar.",
+        "Dessutom utför eleven **efter samråd** med handledare övervakning, underhåll och felsökning av samt identifierar och åtgärdar **efter samråd** med handledare fel i utrustning i nätverksmiljöer.",
+        "Arbetet utförs i enlighet med lagar och andra bestämmelser på ett sätt som är miljömässigt och säkert både för eleven själv och andra.",
+        "Resultatet av arbetet är **gott** med avseende på funktion, säkerhet och kvalitet.",
+        "När arbetet är utfört gör eleven en **noggrann och utförlig** dokumentation av sitt arbete."
+      ],
+      [
+        "Eleven ger **efter samråd** med handledare **avancerade** råd till användare vid val av nätverkssystem och datorteknisk utrustning."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

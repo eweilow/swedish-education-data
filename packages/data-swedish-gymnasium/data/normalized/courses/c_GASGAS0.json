@@ -1,0 +1,113 @@
+{
+  "name": "Gasturbinmotorer",
+  "code": "GASGAS0",
+  "focusAreas": {
+    "string": "Kursen gasturbinmotorer omfattar punkterna 1-5 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-5"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Grundprinciper för energiomvandlingsprocesser i gasturbinmotorer.",
+          "2. Gasturbinmotorers uppbyggnad samt deras olika huvudkomponenter och system.",
+          "3. Gasturbinmotorers smörjmedel, smörjsystem, bränslen och bränslesystem.",
+          "4. Turbopropmotorers uppbyggnad samt deras olika huvudkomponenter och system.",
+          "5. Turboaxelmotorers uppbyggnad samt deras olika huvudkomponenter och system.",
+          "6. Hjälpkraftaggregatets konstruktion och arbetssätt.",
+          "7. Service och underhållsåtgärder av gasturbinmotorer.",
+          "8. Felsökning och reparation av gasturbinmotorer.",
+          "9. Motorinstallation och brandskyddssystem, till exempel utformning av motorupphängning och brandvägg.",
+          "10. Motorövervakning och markdrift, till exempel motorkörning och trendövervakning.",
+          "11. Dokumentation.",
+          "12. Fackspråk på svenska och engelska för att förstå och följa instruktioner samt för att kommunicera kring arbetets utförande.",
+          "13. Faktorer som påverkar arbetsresultat och arbetsmiljö, till exempel struktur, ordning, trivsel, yrkesroll och den mänskliga faktorn.",
+          "14. Säkerhet på arbetsplatsen, förebyggande av person- och egendomsskador samt lagar och andra bestämmelser som gäller för arbetet."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** med stöd av informationsmaterial konstruktion av, funktion hos och påfrestningar på gasturbinmotorer och deras olika system.",
+        "Dessutom beskriver eleven **översiktligt** med stöd av informationsmaterial hur gasturbinmotorns olika system är integrerade och samverkar med varandra."
+      ],
+      [
+        "Eleven utför **i samråd** med handledare och i bekanta situationer **enkel** service och **enkelt** underhåll av gasturbinmotorer.",
+        "Dessutom utför eleven **i samråd** med handledare felsökning och åtgärdar **enkla** fel på gasturbinmotorns olika system enligt regelverk och kvalitetskrav.",
+        "Eleven arbetar i bekanta situationer utifrån de instruktioner och det regelverk som uppgiften kräver.",
+        "När arbetet är utfört utvärderar eleven med **enkla** omdömen sina arbetsprocesser och sitt resultat.",
+        "Dessutom gör eleven en **enkel** dokumentation av sitt arbete."
+      ],
+      [
+        "Eleven utför **i samråd** med handledare arbetet på ett ergonomiskt riktigt, säkert och miljömedvetet sätt och håller en god ordning och struktur på arbetsplatsen.",
+        "Eleven redogör **översiktligt** för skydds- och arbetsmiljöbestämmelser.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom området."
+      ],
+      [
+        "När eleven kommunicerar med andra använder hen **med viss säkerhet** relevant fackspråk på svenska och engelska.",
+        "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "Resultatet av elevens arbete är **tillfredsställande**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** med stöd av informationsmaterial konstruktion av, funktion hos och påfrestningar på gasturbinmotorer och deras olika system.",
+        "Dessutom beskriver eleven **utförligt** med stöd av informationsmaterial hur gasturbinmotorns olika system är integrerade och samverkar med varandra."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare och i bekanta **och delvis nya** situationer service och underhåll av gasturbinmotorer.",
+        "Dessutom utför eleven **efter samråd** med handledare felsökning och åtgärdar fel på gasturbinmotorns olika system enligt regelverk och kvalitetskrav.",
+        "Eleven arbetar i bekanta **och delvis nya** situationer utifrån de instruktioner och det regelverk som uppgiften kräver.",
+        "När arbetet är utfört utvärderar eleven med **nyanserade** omdömen sina arbetsprocesser och sitt resultat.",
+        "Dessutom gör eleven en **noggrann** dokumentation av sitt arbete."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare arbetet på ett ergonomiskt riktigt, säkert och miljömedvetet sätt och håller en god ordning och struktur på arbetsplatsen.",
+        "Eleven redogör **utförligt** för skydds- och arbetsmiljöbestämmelser.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom området."
+      ],
+      [
+        "När eleven kommunicerar med andra använder hen **med viss säkerhet** relevant fackspråk på svenska och engelska.",
+        "Dessutom samarbetar eleven **och medverkar till att upprätthålla samarbetet** för att nå planerade resultat.",
+        "Resultatet av elevens arbete är **tillfredsställande**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** med stöd av informationsmaterial konstruktion av, funktion hos och påfrestningar på gasturbinmotorer och deras olika system.",
+        "Dessutom beskriver eleven **utförligt och nyanserat** med stöd av informationsmaterial hur gasturbinmotorns olika system är integrerade och samverkar med varandra."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare och i bekanta **men även nya** situationer **avancerad** service och **avancerat** underhåll av gasturbinmotorer.",
+        "Dessutom utför eleven **efter samråd** med handledare felsökning och åtgärdar **komplexa** fel på gasturbinmotorns olika system enligt regelverk och kvalitetskrav.",
+        "Eleven arbetar i bekanta **men även nya** situationer utifrån de instruktioner och det regelverk som uppgiften kräver.",
+        "När arbetet är utfört utvärderar eleven med **nyanserade** omdömen sina arbetsprocesser och sitt resultat **samt ger förslag på hur arbetet kan förbättras**.",
+        "Dessutom gör eleven en **noggrann och utförlig** dokumentation av sitt arbete."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare arbetet på ett ergonomiskt riktigt, säkert och miljömedvetet sätt och håller en god ordning och struktur på arbetsplatsen.",
+        "Eleven redogör **utförligt och nyanserat** för skydds- och arbetsmiljöbestämmelser.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom området."
+      ],
+      [
+        "När eleven kommunicerar med andra använder hen **med säkerhet** relevant fackspråk på svenska och engelska.",
+        "Dessutom samarbetar eleven **och medverkar till att upprätthålla och utveckla samarbetet** för att nå planerade resultat.",
+        "Resultatet av elevens arbete är **gott**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

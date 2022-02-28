@@ -1,0 +1,95 @@
+{
+  "subject": "ELE",
+  "title": "Mikrodatortillämpningar",
+  "code": "ELEMIK0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> funktion, egenskaper och arbetssätt hos vanligt förekommande mikrodatorer och programmerbara logikkretsar.",
+        "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> deras användningsområden."
+      ],
+      [
+        "Eleven planerar och löser <strong>efter samråd</strong> med handledare <strong>avancerade</strong> styr- och mättekniska problem med hjälp av mikrodatorkretsar och programmerbara logikkretsar.",
+        "Eleven programmerar kretsarna så att de på ett <strong>gott</strong> sätt uppfyller kraven på funktion och säkerhet.",
+        "I arbetet använder och tolkar eleven <strong>med säkerhet</strong> begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument."
+      ],
+      [
+        "Eleven utför <strong>med säkerhet</strong> felsökning i hård- och mjukvara.",
+        "Dessutom utför eleven <strong>avancerade</strong> kretsmätningar samt datorsimuleringar av elektronikuppkopplingar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> funktion, egenskaper och arbetssätt hos vanligt förekommande mikrodatorer och programmerbara logikkretsar.",
+        "Dessutom beskriver eleven <strong>utförligt</strong> deras användningsområden."
+      ],
+      [
+        "Eleven planerar och löser <strong>efter samråd</strong> med handledare styr- och mättekniska problem med hjälp av mikrodatorkretsar och programmerbara logikkretsar.",
+        "Eleven programmerar kretsarna så att de på ett <strong>tillfredsställande</strong> sätt uppfyller kraven på funktion och säkerhet.",
+        "I arbetet använder och tolkar eleven <strong>med viss säkerhet</strong> begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument."
+      ],
+      [
+        "Eleven utför <strong>med viss säkerhet</strong> felsökning i hård- och mjukvara.",
+        "Dessutom utför eleven kretsmätningar samt datorsimuleringar av elektronikuppkopplingar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> funktion, egenskaper och arbetssätt hos vanligt förekommande mikrodatorer och programmerbara logikkretsar.",
+        "Dessutom beskriver eleven <strong>översiktligt</strong> deras användningsområden."
+      ],
+      [
+        "Eleven planerar och löser <strong>i samråd</strong> med handledare styr- och mättekniska problem med hjälp av mikrodatorkretsar och programmerbara logikkretsar.",
+        "Eleven programmerar kretsarna så att de på ett <strong>tillfredsställande</strong> sätt uppfyller kraven på funktion och säkerhet.",
+        "I arbetet använder och tolkar eleven <strong>med viss säkerhet</strong> begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument."
+      ],
+      [
+        "Eleven utför <strong>med viss säkerhet</strong> felsökning i hård- och mjukvara.",
+        "Dessutom utför eleven <strong>enkla</strong> kretsmätningar samt datorsimuleringar av elektronikuppkopplingar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Egenskaper hos olika typer av mikrodatorkretsar.",
+        "Mikrodatorns dataminne och programminne.",
+        "Integrerade funktioner, till exempel timer, serie-interface, AD- och DA-omvandlare, watchdog och displaydrivare.",
+        "Användningsområden för mikrodatorer.",
+        "Fältprogrammerbara logikkretsar och deras användningsområden.",
+        "Interface-kopplingar.",
+        "Seriella bussar och deras anslutning.",
+        "Presentationsenheter och displayer.",
+        "Utvecklingsverktyg och utvecklingsmiljöer.",
+        "Vanligt förekommande programmeringsspråk.",
+        "Programmering med datorhjälp.",
+        "Programutveckling och avlusning av program.",
+        "Användning av flödesdiagram.",
+        "Begreppen mikrocontroller och mikroprocessor.",
+        "Begreppet inbyggda system.",
+        "Felsökning i hård- och mjukvara."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen mikrodatortillämpningar omfattar punkterna 1-5 och 7-8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    6,
+    7
+  ]
+}

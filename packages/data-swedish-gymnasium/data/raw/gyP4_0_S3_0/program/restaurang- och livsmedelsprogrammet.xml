@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<program xmlns="http://syllabus2011program.types.skolverket.se/v4_0">
+  <name>Restaurang- och livsmedelsprogrammet</name>
+  <code>RL001</code>
+  <codeExternal>RL</codeExternal>
+  <skolfsId>0000:00</skolfsId>
+  <applianceDate>2021-07-01T00:00:00+02:00</applianceDate>
+  <version>14</version>
+  <status>PUBLISHED</status>
+  <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+  <typeOfProgram>VOCATIONAL_PROGRAM</typeOfProgram>
+  <commonMandatory>
+    <subject>
+      <optional>false</optional>
+      <name>Engelska</name>
+      <code>ENG</code>
+      <point>100</point>
+      <course>
+        <name>Engelska 5</name>
+        <code>ENGENG05</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Historia</name>
+      <code>HIS</code>
+      <point>50</point>
+      <course>
+        <name>Historia 1a1</name>
+        <code>HISHIS01a1</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Idrott och hälsa</name>
+      <code>IDR</code>
+      <point>100</point>
+      <course>
+        <name>Idrott och hälsa 1</name>
+        <code>IDRIDR01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Matematik</name>
+      <code>MAT</code>
+      <point>100</point>
+      <course>
+        <name>Matematik 1a</name>
+        <code>MATMAT01a</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Naturkunskap</name>
+      <code>NAK</code>
+      <point>50</point>
+      <course>
+        <name>Naturkunskap 1a1</name>
+        <code>NAKNAK01a1</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Religionskunskap</name>
+      <code>REL</code>
+      <point>50</point>
+      <course>
+        <name>Religionskunskap 1</name>
+        <code>RELREL01</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Samhällskunskap</name>
+      <code>SAM</code>
+      <point>50</point>
+      <course>
+        <name>Samhällskunskap 1a1</name>
+        <code>SAMSAM01a1</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska</name>
+      <code>SVE</code>
+      <point>100</point>
+      <course>
+        <name>Svenska 1</name>
+        <code>SVESVE01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska som andraspråk</name>
+      <code>SVA</code>
+      <point>100</point>
+      <course>
+        <name>Svenska som andraspråk 1</name>
+        <code>SVASVA01</code>
+        <point>100</point>
+      </course>
+    </subject>
+  </commonMandatory>
+  <commonProgram>
+    <subject>
+      <optional>false</optional>
+      <name>Hygienkunskap</name>
+      <code>HYG</code>
+      <point>100</point>
+      <course>
+        <name>Hygien</name>
+        <code>HYGHYG0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Livsmedels- och näringskunskap</name>
+      <code>LIV</code>
+      <point>100</point>
+      <course>
+        <name>Livsmedels- och näringskunskap 1</name>
+        <code>LIVLIV01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Måltids- och branschkunskap</name>
+      <code>MÅT</code>
+      <point>100</point>
+      <course>
+        <name>Branschkunskap inom restaurang och livsmedel</name>
+        <code>MÅTBRC0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Service och bemötande</name>
+      <code>SEV</code>
+      <point>100</point>
+      <course>
+        <name>Service och bemötande 1</name>
+        <code>SEVSEV01</code>
+        <point>100</point>
+      </course>
+    </subject>
+  </commonProgram>
+  <programOrientations>
+    <programOrientation>
+      <subject>
+        <optional>false</optional>
+        <name>Bageri- och konditorikunskap</name>
+        <code>BAG</code>
+        <point>100</point>
+        <course>
+          <name>Bageri 1</name>
+          <code>BAGBAG01</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Choklad och konfektyr</name>
+          <code>BAGCHO0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Konditori 1</name>
+          <code>BAGKON01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <name>Bageri och konditori</name>
+      <code>RLBAG</code>
+      <codeExternal>RLBAG</codeExternal>
+      <point>300</point>
+      <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+    </programOrientation>
+    <programOrientation>
+      <subject>
+        <optional>false</optional>
+        <name>Mat och dryck i kombination</name>
+        <code>MAC</code>
+        <point>100</point>
+        <course>
+          <name>Mat och dryck i kombination</name>
+          <code>MACMAT0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Matlagningskunskap</name>
+        <code>MAL</code>
+        <point>100</point>
+        <course>
+          <name>Matlagning 1</name>
+          <code>MALMAL01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Serveringskunskap</name>
+        <code>SER</code>
+        <point>100</point>
+        <course>
+          <name>Servering 1</name>
+          <code>SERSER01</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <name>Kök och servering</name>
+      <code>RLKOK</code>
+      <codeExternal>RLKOK</codeExternal>
+      <point>300</point>
+      <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+    </programOrientation>
+  </programOrientations>
+  <profiles />
+  <specialization>
+    <subject>
+      <optional>false</optional>
+      <name>Aktiviteter och värdskap</name>
+      <code>AKT</code>
+      <point>100</point>
+      <course>
+        <name>Besöksnäringen</name>
+        <code>AKTBEO0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Aktiviteter och upplevelser</name>
+        <code>AKTAKT0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Bageri- och konditorikunskap</name>
+      <code>BAG</code>
+      <point>100</point>
+      <course>
+        <name>Bageri 1</name>
+        <code>BAGBAG01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Bageri 2</name>
+        <code>BAGBAG02</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Bageri 3</name>
+        <code>BAGBAG03</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Bageri 4</name>
+        <code>BAGBAG04</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Bageri – specialisering</name>
+        <code>BAGBAG00S</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Choklad och konfektyr</name>
+        <code>BAGCHO0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Konditori 1</name>
+        <code>BAGKON01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Konditori 2</name>
+        <code>BAGKON02</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Konditori 3</name>
+        <code>BAGKON03</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Konditori 4</name>
+        <code>BAGKON04</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Konditori – specialisering</name>
+        <code>BAGKON00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Charkuterikunskap</name>
+      <code>CHA</code>
+      <point>100</point>
+      <course>
+        <name>Charkuteri 1</name>
+        <code>CHACHA01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Charkuteri 2</name>
+        <code>CHACHA02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Charkuteri 3</name>
+        <code>CHACHA03</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Charkuteri 4</name>
+        <code>CHACHA04</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Charkuteri – specialisering</name>
+        <code>CHACHA00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Dryckeskunskap</name>
+      <code>DRY</code>
+      <point>100</point>
+      <course>
+        <name>Drycker och ansvarsfull alkoholservering</name>
+        <code>DRYDRC0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Barteknik</name>
+        <code>DRYBAT0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Drycker</name>
+        <code>DRYDRY0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Drycker – specialisering</name>
+        <code>DRYDRY00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Engelska</name>
+      <code>ENG</code>
+      <point>100</point>
+      <course>
+        <name>Engelska 6</name>
+        <code>ENGENG06</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Entreprenörskap</name>
+      <code>ENT</code>
+      <point>100</point>
+      <course>
+        <name>Entreprenörskap</name>
+        <code>ENTENR0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Företagsekonomi</name>
+      <code>FÖR</code>
+      <point>100</point>
+      <course>
+        <name>Företagsekonomi 1</name>
+        <code>FÖRFÖR01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Företagsekonomi 2</name>
+        <code>FÖRFÖR02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Entreprenörskap och företagande</name>
+        <code>FÖRENT0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Försäljning och kundservice</name>
+      <code>FÖS</code>
+      <point>100</point>
+      <course>
+        <name>Personlig försäljning 1</name>
+        <code>FÖSPER01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Personlig försäljning 2</name>
+        <code>FÖSPER02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Handel</name>
+      <code>HAN</code>
+      <point>100</point>
+      <course>
+        <name>Affärsutveckling och ledarskap</name>
+        <code>HANAFR0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Praktisk marknadsföring 1</name>
+        <code>HANPRA01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Praktisk marknadsföring 2</name>
+        <code>HANPRA02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Konferens och evenemang</name>
+      <code>KON</code>
+      <point>100</point>
+      <course>
+        <name>Konferens och evenemang</name>
+        <code>KONKOF0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Ledarskap och organisation</name>
+      <code>LED</code>
+      <point>100</point>
+      <course>
+        <name>Ledarskap och organisation</name>
+        <code>LEDLED0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Livsmedels- och näringskunskap</name>
+      <code>LIV</code>
+      <point>100</point>
+      <course>
+        <name>Livsmedels- och näringskunskap 2</name>
+        <code>LIVLIV02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Mat och butik</name>
+      <code>MAO</code>
+      <point>100</point>
+      <course>
+        <name>Mat och butik 1</name>
+        <code>MAOMAT01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Mat och butik 2</name>
+        <code>MAOMAT02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Mat och butik – specialisering</name>
+        <code>MAOMAT00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Mat och dryck i kombination</name>
+      <code>MAC</code>
+      <point>100</point>
+      <course>
+        <name>Mat och dryck i kombination</name>
+        <code>MACMAT0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Matlagningskunskap</name>
+      <code>MAL</code>
+      <point>100</point>
+      <course>
+        <name>Matlagning 1</name>
+        <code>MALMAL01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Matlagning 2</name>
+        <code>MALMAL02</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Matlagning 3</name>
+        <code>MALMAL03</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Matlagning 4</name>
+        <code>MALMAL04</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Matlagning – specialisering</name>
+        <code>MALMAL00S</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Specialkoster</name>
+        <code>MALSPE0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Moderna språk</name>
+      <code>MOD</code>
+      <point>100</point>
+      <course>
+        <name>Moderna språk 1</name>
+        <code>MODXXX01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Moderna språk 2</name>
+        <code>MODXXX02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Moderna språk 3</name>
+        <code>MODXXX03</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Moderna språk 4</name>
+        <code>MODXXX04</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Moderna språk 5</name>
+        <code>MODXXX05</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Moderna språk 6</name>
+        <code>MODXXX06</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Moderna språk 7</name>
+        <code>MODXXX07</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Kinesiska 1</name>
+        <code>MODZHO01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Kinesiska 2</name>
+        <code>MODZHO02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Kinesiska 3</name>
+        <code>MODZHO03</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Kinesiska 4</name>
+        <code>MODZHO04</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Kinesiska 5</name>
+        <code>MODZHO05</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Kinesiska 6</name>
+        <code>MODZHO06</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Kinesiska 7</name>
+        <code>MODZHO07</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Programmering</name>
+      <code>PRR</code>
+      <point>100</point>
+      <course>
+        <name>Programmering 1</name>
+        <code>PRRPRR01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Reception</name>
+      <code>REC</code>
+      <point>100</point>
+      <course>
+        <name>Logi</name>
+        <code>RECLOG0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Serveringskunskap</name>
+      <code>SER</code>
+      <point>100</point>
+      <course>
+        <name>Frukost och bufféservering</name>
+        <code>SERFRU0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Servering 1</name>
+        <code>SERSER01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Servering 2</name>
+        <code>SERSER02</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Arrangemang</name>
+        <code>SERARR0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Matsalshantverk</name>
+        <code>SERMAF0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Servering – specialisering</name>
+        <code>SERSER00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Service och bemötande</name>
+      <code>SEV</code>
+      <point>100</point>
+      <course>
+        <name>Service och bemötande 2</name>
+        <code>SEVSEV02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Styckningskunskap</name>
+      <code>STC</code>
+      <point>100</point>
+      <course>
+        <name>Finstyckning</name>
+        <code>STCFIN0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Styckning 1</name>
+        <code>STCSTY01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Styckning 2</name>
+        <code>STCSTY02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Styckning 3</name>
+        <code>STCSTY03</code>
+        <point>200</point>
+      </course>
+      <course>
+        <name>Styckning 4</name>
+        <code>STCSTY04</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Styckning – specialisering</name>
+        <code>STCSTY00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Tillämpad programmering</name>
+      <code>TIA</code>
+      <point>100</point>
+      <course>
+        <name>Tillämpad programmering</name>
+        <code>TIATIL00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+  </specialization>
+  <individualChoice />
+  <projectAssignment />
+  <professionalDegrees>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Bageri- och konditorikunskap</name>
+        <code>BAG</code>
+        <point>100</point>
+        <course>
+          <name>Bageri 2</name>
+          <code>BAGBAG02</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Bageri 3</name>
+          <code>BAGBAG03</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Bageri 4</name>
+          <code>BAGBAG04</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Konditori 2</name>
+          <code>BAGKON02</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Konditori 3</name>
+          <code>BAGKON03</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>RLBAG</programOrientationCode>
+      <name>Bageri- och konditorikunskap – B</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Bageri- och konditorikunskap</name>
+        <code>BAG</code>
+        <point>200</point>
+        <course>
+          <name>Bageri 2</name>
+          <code>BAGBAG02</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Bageri 3</name>
+          <code>BAGBAG03</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Konditori 2</name>
+          <code>BAGKON02</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Konditori 3</name>
+          <code>BAGKON03</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Konditori 4</name>
+          <code>BAGKON04</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>RLBAG</programOrientationCode>
+      <name>Bageri- och konditorikunskap – K</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Matlagningskunskap</name>
+        <code>MAL</code>
+        <point>200</point>
+        <course>
+          <name>Matlagning 2</name>
+          <code>MALMAL02</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Matlagning 3</name>
+          <code>MALMAL03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Matlagning 4</name>
+          <code>MALMAL04</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Specialkoster</name>
+          <code>MALSPE0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>RLKOK</programOrientationCode>
+      <name>Kock</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Dryckeskunskap</name>
+        <code>DRY</code>
+        <point>100</point>
+        <course>
+          <name>Drycker och ansvarsfull alkoholservering</name>
+          <code>DRYDRC0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Drycker</name>
+          <code>DRYDRY0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Serveringskunskap</name>
+        <code>SER</code>
+        <point>200</point>
+        <course>
+          <name>Servering 2</name>
+          <code>SERSER02</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Arrangemang</name>
+          <code>SERARR0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Matsalshantverk</name>
+          <code>SERMAF0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Servering – specialisering</name>
+          <code>SERSER00S</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <programOrientationCode>RLKOK</programOrientationCode>
+      <name>Servitris eller servitör</name>
+      <profSpecialization />
+    </professionalDegree>
+  </professionalDegrees>
+  <category>VOCATIONAL_PROGRAM</category>
+  <modifiedDate>2021-06-08T00:00:00+02:00</modifiedDate>
+  <createdDate>2020-02-04T14:11:18+01:00</createdDate>
+  <typeOfStudyPath>PROGRAM</typeOfStudyPath>
+</program>

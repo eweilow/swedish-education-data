@@ -1,0 +1,90 @@
+{
+  "subject": "ELE",
+  "title": "Låg- och högfrekvenskretsar",
+  "code": "ELELÅG0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> funktion och egenskaper hos vanligt förekommande elektronikkomponenter och moduler för låg- och högfrekvenskretsar.",
+        "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> hur dessa komponenter och moduler används i elektronikapparater och elektroniksystem."
+      ],
+      [
+        "Eleven planerar och utför <strong>efter samråd</strong> med handledare montering, provning och felsökning av apparater med vanligt förekommande elektronikkomponenter och moduler för låg- och högfrekvenskretsar.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt är miljövänligt.",
+        "I arbetet använder och tolkar eleven <strong>med säkerhet</strong> begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument."
+      ],
+      [
+        "Eleven utför <strong>avancerade</strong> komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar.",
+        "Arbetet utförs med <strong>gott</strong> resultat."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> funktion och egenskaper hos vanligt förekommande elektronikkomponenter och moduler för låg- och högfrekvenskretsar.",
+        "Dessutom beskriver eleven <strong>utförligt</strong> hur dessa komponenter och moduler används i elektronikapparater och elektroniksystem."
+      ],
+      [
+        "Eleven planerar och utför <strong>efter samråd</strong> med handledare montering, provning och felsökning av apparater med vanligt förekommande elektronikkomponenter och moduler för låg- och högfrekvenskretsar.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt är miljövänligt.",
+        "I arbetet använder och tolkar eleven <strong>med viss säkerhet</strong> begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument."
+      ],
+      [
+        "Eleven utför komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar.",
+        "Arbetet utförs med <strong>tillfredsställande</strong> resultat."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> funktion och egenskaper hos vanligt förekommande elektronikkomponenter och moduler för låg- och högfrekvenskretsar.",
+        "Dessutom beskriver eleven <strong>översiktligt</strong> hur dessa komponenter och moduler används i elektronikapparater och elektroniksystem."
+      ],
+      [
+        "Eleven planerar och utför <strong>i samråd</strong> med handledare montering, provning och felsökning av apparater med vanligt förekommande elektronikkomponenter och moduler för låg- och högfrekvenskretsar.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt är miljövänligt.",
+        "I arbetet använder och tolkar eleven <strong>med viss säkerhet</strong> begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument."
+      ],
+      [
+        "Eleven utför <strong>enkla</strong> komponent- och kretsmätningar samt datorsimulering av elektronikuppkopplingar.",
+        "Arbetet utförs med <strong>tillfredsställande</strong> resultat."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Specialtransistorer för låg- och högfrekvens.",
+        "Integrerade specialkretsar för låg- och högfrekvens.",
+        "Låg- och högfrekvensmoduler.",
+        "Mikrodatorer i låg- och högfrekvenskretsar.",
+        "Enklare felsökning och reparationer i ljudanläggningar.",
+        "Begreppen effekt, frekvensomfång, distorsion och decibel.",
+        "Begreppen frekvens, frekvensspektrum, modulering och demodulering.",
+        "Symboler, standarder och normer för låg- och högfrekvensområdet.",
+        "Elektronik- och blockscheman för ljudanläggningar och förstärkare.",
+        "Elektronik- och blockscheman för tv- och satellitmottagningsutrustning.",
+        "Elektronik- och blockscheman för kommunikationsradiosystem.",
+        "Enklare komponent- och kretsmätningar.",
+        "Datorsimulering av enklare låg- och högfrekvenskretsar."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen låg- och högfrekvenskretsar omfattar punkterna 1, 3, 5 och 7-8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+  "applicableSubjectPurposes": [
+    0,
+    2,
+    4,
+    6,
+    7
+  ]
+}

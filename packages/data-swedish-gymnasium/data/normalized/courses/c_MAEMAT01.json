@@ -1,0 +1,127 @@
+{
+  "name": "Materialkunskap 1",
+  "code": "MAEMAT01",
+  "focusAreas": {
+    "string": "Kursen materialkunskap 1 omfattar punkterna 1-8 under rubriken Ämnets syfte i ämnet materialkunskap. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "entries": [
+      "1-8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Relevanta metoder för bearbetning fram till produktframställning. Enklare mät- och handverktyg.",
+          "2. Bearbetning, formning, sammanfogning och delning med hand- och maskindriven utrustning.",
+          "3. Beteckningar och standarder för hantering och kvalitetskontroll.",
+          "4. Berednings- och tillverkningsunderlag.",
+          "5. Materialberäkningar samt planering av optimerande användning.",
+          "6. Regler för arbetsmiljö och säkerhet samt exempel på olyckor i samband med hantering av materialet.",
+          "7. Korrigering för fel vid bearbetningen samt, genom laborativa inslag, lösningar av andra typer av problem som kan uppstå.",
+          "8. Materialets historia, nuvarande användningsområden och utvecklingspotential inför framtiden.",
+          "9. För materialet relevant färg- och formlära.",
+          "10. Materialets tekniska, fysiska och kemiska egenskaper och samverkan med omgivning och andra material. Fysiskt och kemiskt inre och yttre slitage samt åldrande.",
+          "11. Materialets förändrade egenskaper vid bearbetning.",
+          "12. Råvaruproduktion, förädling till olika materialvariationer, metoder för produkttillverkning, ytbehandling och annan efterbearbetning samt destruktion eller återvinning.",
+          "13. Materialets påverkan på verktyg och annan utrustning."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven planerar och organiserar materialbearbetning **i samråd** med handledare.",
+        "I planeringen tolkar eleven **med viss säkerhet** instruktioner och tillverkningsunderlag samt gör **med viss säkerhet** beräkningar för att optimera materialanvändningen.",
+        null,
+        "Vidare väljer eleven **i samråd** med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften."
+      ],
+      [
+        "Eleven utför med noggrannhet och **i samråd** med handledare materialbearbetning i enlighet med säkerhetsföreskrifter, givna instruktioner och kravspecifikationer.",
+        "Resultatet av arbetet är **tillfredsställande** utifrån givna kvalitetskrav.",
+        "I arbetet använder eleven **med viss säkerhet** instruktioner och tillverkningsunderlag.",
+        "Eleven hanterar verktyg, utrustning, maskiner och material med **visst** handlag och håller god ordning på arbetsplatsen.",
+        "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+        "Dessutom följer eleven lagar och andra bestämmelser om arbetsmiljö och hälsa.",
+        "Under arbetet upptäcker eleven eventuella problem som uppkommer samt åtgärdar dem **i samråd** med handledare.",
+        "När arbetsuppgiften är utförd gör eleven en **enkel** dokumentation av arbetsprocessen och resultatet."
+      ],
+      [
+        "Eleven redogör **översiktligt** för materialets egenskaper och hur det samverkar med teknik, metoder och verktyg som använts för arbetsuppgiften.",
+        "Dessutom redogör eleven **översiktligt** för hur materialets egenskaper och tillämpade arbetsmetoder påverkar kvalitet och slutresultat.",
+        "Eleven redogör även **översiktligt** för materialets användningsområden och för hur materialet interagerar med omgivande miljö.",
+        "Eleven redogör **översiktligt** för genomförda arbetsmoment, resultatet, eventuella avvikelser från specifikationer samt den egna arbetsinsatsen.",
+        "Dessutom utvärderar eleven sitt arbete och resultat med **enkla** omdömen."
+      ],
+      [
+        "Eleven använder **med viss säkerhet** korrekt fackspråk."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven planerar och organiserar materialbearbetning **efter samråd** med handledare.",
+        "I planeringen tolkar eleven **med viss säkerhet** instruktioner och tillverkningsunderlag samt gör **med viss säkerhet** beräkningar för att optimera materialanvändningen.",
+        null,
+        "Vidare väljer eleven **efter samråd** med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften."
+      ],
+      [
+        "Eleven utför med noggrannhet och **efter samråd** med handledare materialbearbetning i enlighet med säkerhetsföreskrifter, givna instruktioner och kravspecifikationer.",
+        "Resultatet av arbetet är **tillfredsställande** utifrån givna kvalitetskrav.",
+        "I arbetet använder eleven **med viss säkerhet** arbetsbeskrivningar och tillverkningsunderlag.",
+        "Eleven hanterar verktyg, utrustning, maskiner och material med **gott** handlag och håller god ordning på arbetsplatsen.",
+        "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+        "Dessutom följer eleven lagar och andra bestämmelser om arbetsmiljö och hälsa.",
+        "Under arbetet upptäcker eleven eventuella problem som uppkommer samt åtgärdar dem **efter samråd** med handledare.",
+        "När arbetsuppgiften är utförd gör eleven en **noggrann** dokumentation av arbetsprocessen och resultatet."
+      ],
+      [
+        "Eleven redogör **utförligt** för materialets egenskaper och hur det samverkar med teknik, metoder och verktyg som använts för arbetsuppgiften.",
+        "Dessutom redogör eleven **utförligt** för hur materialets egenskaper och tillämpade arbetsmetoder påverkar kvalitet och slutresultat.",
+        "Eleven redogör även **utförligt** för materialets användningsområden och för hur materialet interagerar med omgivande miljö.",
+        "Eleven redogör **utförligt** för genomförda arbetsmoment, resultatet, eventuella avvikelser från specifikationer samt den egna arbetsinsatsen.",
+        "Dessutom utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen."
+      ],
+      [
+        "Eleven använder **med viss säkerhet** korrekt fackspråk."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven planerar och organiserar materialbearbetning **efter samråd** med handledare.",
+        "I planeringen tolkar eleven **med säkerhet** instruktioner och tillverkningsunderlag samt gör **med säkerhet** beräkningar för att optimera materialanvändningen.",
+        "**Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det**.",
+        "Vidare väljer eleven **efter samråd** med handledare arbetsmetoder, verktyg, utrustning och material som passar för uppgiften."
+      ],
+      [
+        "Eleven utför med noggrannhet och **efter samråd** med handledare materialbearbetning i enlighet med säkerhetsföreskrifter, givna instruktioner och kravspecifikationer.",
+        "Resultatet av arbetet är **gott** utifrån givna kvalitetskrav.",
+        "I arbetet använder eleven **med säkerhet** arbetsbeskrivningar och tillverkningsunderlag.",
+        "Eleven hanterar verktyg, utrustning, maskiner och material med **mycket gott** handlag och håller god ordning på arbetsplatsen.",
+        "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+        "Dessutom följer eleven lagar och andra bestämmelser om arbetsmiljö och hälsa.",
+        "Under arbetet upptäcker eleven eventuella problem som uppkommer samt åtgärdar dem **efter samråd** med handledare.",
+        "När arbetsuppgiften är utförd gör eleven en **noggrann och utförlig** dokumentation av arbetsprocessen och resultatet."
+      ],
+      [
+        "Eleven redogör **utförligt och nyanserat** för materialets egenskaper och hur det samverkar med teknik, metoder och verktyg som använts för arbetsuppgiften.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för hur materialets egenskaper och tillämpade arbetsmetoder påverkar kvalitet och slutresultat.",
+        "Eleven redogör även **utförligt och nyanserat** för materialets användningsområden och för hur materialet interagerar med omgivande miljö.",
+        "Eleven redogör **utförligt** för genomförda arbetsmoment, resultatet, eventuella avvikelser från specifikationer samt den egna arbetsinsatsen.",
+        "Dessutom utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**."
+      ],
+      [
+        "Eleven använder **med säkerhet** korrekt fackspråk."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

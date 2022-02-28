@@ -1,0 +1,72 @@
+{
+  "name": "Mekatronik 1",
+  "code": "MEKMEK01",
+  "focusAreas": {
+    "string": "Kursen mekatronik 1 omfattar punkterna 1-2 och 4-5 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet utifrån en produktmekatronisk utgångspunkt.",
+    "entries": [
+      "1-2",
+      "4-5"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Elarbete, mekaniskt arbete och enklare programmering av styrenheter.",
+          "2. Tolkning av ritningar och manualer.",
+          "3. Uppbyggnad av mekatroniska system från sensor, via styrenhet, till aktuator.",
+          "4. Hur logiska grundfunktioner kan användas för olika styrtekniska lösningar.",
+          "5. Tekniska lösningar i vardagen för omvandling av energi, materia eller information.",
+          "6. Grundläggande mekaniska begrepp, till exempel hävstång, block, lutande planet, fackverk och balk.",
+          "7. Grundläggande elektriska storheter och begrepp, till exempel laddning, ström, spänning, resistans och sluten krets.",
+          "8. Mätning av olika mekaniska och elektriska storheter."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven planerar och bygger **i samråd** med handledare **ett eller** flera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik.",
+        "I arbetet använder eleven **med viss säkerhet** ritningar och manualer samt samarbetar **med viss säkerhet** med andra.",
+        "Eleven gör en **enkel** dokumentation av sitt arbete."
+      ],
+      [
+        "Med exempel från både industri och vardagsliv beskriver eleven **översiktligt** hur ett **enkelt** mekatroniskt system är uppbyggt.",
+        "Med hjälp av matematiska och fysikaliska begrepp beskriver eleven **översiktligt** fysikaliska principer vid olika mekatroniska tillämpningar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven planerar och bygger **efter samråd** med handledare **ett eller** flera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik.",
+        "I arbetet använder eleven **med viss säkerhet** ritningar och manualer samt samarbetar **med viss säkerhet** med andra.",
+        "Eleven gör en **noggrann** dokumentation av sitt arbete."
+      ],
+      [
+        "Med exempel från både industri och vardagsliv beskriver eleven **utförligt** hur ett mekatroniskt system är uppbyggt.",
+        "Med hjälp av matematiska och fysikaliska begrepp beskriver eleven **utförligt** fysikaliska principer vid olika mekatroniska tillämpningar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven planerar och bygger **efter samråd** med handledare flera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik.",
+        "I arbetet använder eleven **med säkerhet** ritningar och manualer samt samarbetar **med säkerhet** med andra.",
+        "Eleven gör en **noggrann och utförlig** dokumentation av sitt arbete."
+      ],
+      [
+        "Med exempel från både industri och vardagsliv beskriver eleven **utförligt och nyanserat** hur ett **komplext** mekatroniskt system är uppbyggt.",
+        "Med hjälp av matematiska och fysikaliska begrepp beskriver eleven **utförligt och nyanserat** fysikaliska principer vid olika mekatroniska tillämpningar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

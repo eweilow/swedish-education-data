@@ -1,0 +1,122 @@
+{
+  "subject": "MAT",
+  "title": "Matematik 1a",
+  "code": "MATMAT01a",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>ett omfattande antal</strong> begrepp och samband mellan begrepp samt använder dem med <strong>mycket god</strong> säkerhet."
+      ],
+      [
+        "Eleven hanterar <strong>ett omfattande antal</strong> procedurer och löser uppgifter av standardkaraktär med <strong>mycket god</strong> säkerhet, både utan och med digitala verktyg."
+      ],
+      [
+        "Eleven löser <strong>komplexa</strong> problem inom kursens olika områden.",
+        "Eleven bedömer resultatens rimlighet."
+      ],
+      [
+        "Eleven tillämpar och formulerar matematiska modeller i <strong>komplexa</strong> uppgifter."
+      ],
+      [
+        "Eleven för <strong>väl</strong> underbyggda matematiska resonemang och följer <strong>avancerade</strong> matematiska resonemang."
+      ],
+      [
+        "Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>tydligt och korrekt</strong> sätt."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>ett omfattande antal</strong> begrepp och samband mellan begrepp samt använder dem med <strong>god</strong> säkerhet."
+      ],
+      [
+        "Eleven hanterar <strong>ett omfattande antal</strong> procedurer och löser uppgifter av standardkaraktär med <strong>god</strong> säkerhet, både utan och med digitala verktyg."
+      ],
+      [
+        "Eleven löser <strong>relativt komplexa</strong> problem inom kursens olika områden.",
+        "Eleven bedömer resultatens rimlighet."
+      ],
+      [
+        "Eleven tillämpar och formulerar matematiska modeller i <strong>relativt komplexa</strong> uppgifter."
+      ],
+      [
+        "Eleven för <strong>relativt väl</strong> underbyggda matematiska resonemang och följer <strong>relativt avancerade</strong> matematiska resonemang."
+      ],
+      [
+        "Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>till stor del tydligt och korrekt</strong> sätt."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>grundläggande</strong> begrepp och samband mellan begrepp samt använder dem med <strong>tillfredsställande</strong> säkerhet."
+      ],
+      [
+        "Eleven hanterar <strong>grundläggande</strong> procedurer och löser uppgifter av standardkaraktär med <strong>tillfredsställande</strong> säkerhet, både utan och med digitala verktyg."
+      ],
+      [
+        "Eleven löser <strong>enkla</strong> problem inom kursens olika områden.",
+        "Eleven bedömer resultatens rimlighet."
+      ],
+      [
+        "Eleven tillämpar och formulerar matematiska modeller i <strong>enkla</strong> uppgifter."
+      ],
+      [
+        "Eleven för <strong>delvis</strong> underbyggda matematiska resonemang och följer <strong>enkla</strong> matematiska resonemang."
+      ],
+      [
+        "Eleven uttrycker sig med matematiska symboler och andra representationer på ett <strong>i huvudsak fungerande</strong> sätt."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      "Matematik inom karaktärsämnen och yrkesliv",
+      [
+        "Matematiska begrepp som är relevanta för karaktärsämnen och yrkesliv, till exempel proportionalitet, skala, Pythagoras sats, procent och andelar, indexmått, vinstmarginal, jämvikt, felmarginaler, symmetrier, vektorer, trigonometriska funktioner och matematiska begrepp som utvecklas under förskoleåldern.",
+        "Beräkningsmetoder som är relevanta för karaktärsämnen och yrkesliv, till exempel uppskattningar, beräkningar på störningar eller mätfel, spill- och svinnberäkningar, överslagsräkning, avrundning, användning av kalkylprogram och metoder för kontrollberäkning.",
+        "Hantering av formler som är relevanta för karaktärsämnen och yrkesliv.",
+        "Mätning och hantering av storheter och enheter som är relevanta för karaktärsämnen och yrkesliv, till exempel enhetsbyten, avrundningsprinciper, tidsuppskattningar, beräkning av förbrukningsmaterial, kostnadsberäkningar, säkerhetsmarginaler, hantering av mätverktyg och hantering av mätosäkerheter.",
+        "Hjälpmedel och verktyg som är relevanta för att hantera matematik inom karaktärsämnen och yrkesliv, till exempel formulär, mallar, tumregler, föreskrifter, manualer, referensverk och handböcker."
+      ]
+    ],
+    [
+      "Aritmetik, algebra och funktioner",
+      [
+        "Hantering av algebraiska uttryck, inklusive att faktorisera och multiplicera uttryck.",
+        "Begreppet funktion. Representationer av funktioner i form av ord, funktionsuttryck, tabeller och grafer. Digitala metoder för att skapa funktionsgrafer.",
+        "Metoder för att bestämma funktionsvärden. Grafiska metoder för att lösa ekvationer av typen f(x) = a.",
+        "Begreppet linjär funktion och egenskaper hos linjära funktioner.",
+        "Metoder för att lösa linjära ekvationer.",
+        "Begreppet exponentialfunktion och egenskaper hos exponentialfunktioner, inklusive skillnader och likheter med linjära funktioner.",
+        "Begreppet förändringsfaktor och beräkning av förändringar i flera steg."
+      ]
+    ],
+    [
+      "Sannolikhet och statistik",
+      [
+        "Begreppen oberoende och beroende händelse samt komplementhändelse. Metoder för att beräkna sannolikheter i flera steg, inklusive exempel från spel, risk- och säkerhetsbedömningar.",
+        "Exempel på hur några statistiska begrepp används i samhälle och yrkesliv, inklusive signifikans, korrelation, kausalitet, urvalsmetoder och felkällor."
+      ]
+    ],
+    [
+      "Problemlösning, verktyg och tillämpningar",
+      [
+        "Användning av kalkylprogram för beräkning av ränta och amortering.",
+        "Användning av digitala verktyg för att effektivisera beräkningar och komplettera metoder, till exempel vid ekvationslösning.",
+        "Problemlösning som omfattar att upptäcka och uttrycka generella samband.",
+        "Problemlösning som omfattar begrepp och metoder i kursen, med särskild utgångspunkt i yrkesliv, privatekonomi och samhällsliv.",
+        "Tillämpning och formulering av matematiska modeller i realistiska situationer. Utvärdering av matematiska modellers egenskaper och begränsningar.",
+        "Matematiska problem med anknytning till matematikens kulturhistoria."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen matematik 1a omfattar punkterna 1-6 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ]
+}

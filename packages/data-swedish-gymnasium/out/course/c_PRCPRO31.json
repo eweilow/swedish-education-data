@@ -1,0 +1,90 @@
+{
+  "subject": "PRC",
+  "title": "Processteknik - energi 1",
+  "code": "PRCPRO31",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för funktionen hos processtekniska komponenter och kopplar dessa till de fysikaliska och kemiska samband som förekommer inom processindustrin.",
+        "Eleven förhåller sig till de säkerhetsföreskrifter och miljökrav som finns inom området.",
+        "Vidare utgår eleven <strong>med mycket god säkerhet</strong> från standarder och föreskrifter i val av utrustning och arbetssätt."
+      ],
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för vad det innebär att arbeta enligt ett hållbart förhållningssätt och enligt de lagar och förordningar som styr verksamheten."
+      ],
+      [
+        "Eleven genomför <strong>med mycket god säkerhet</strong> provtagningar och tolkar <strong>med mycket god säkerhet</strong> resultatet.",
+        "Dessutom utför eleven <strong>självständigt</strong> konfigureringar och optimeringar samt genomför <strong>med mycket god säkerhet</strong> styrning och avläsning av processteknisk utrustning."
+      ],
+      [
+        "Eleven läser och tolkar <strong>med mycket god säkerhet</strong> scheman över instrument och processer samt tolkar och upprättar <strong>med mycket god säkerhet</strong> anläggningsteknisk dokumentation på ett systematiskt och kvalitetssäkert sätt."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör <strong>utförligt</strong> för funktionen hos processtekniska komponenter och kopplar dessa till de fysikaliska och kemiska samband som förekommer inom processindustrin.",
+        "Eleven förhåller sig till de säkerhetsföreskrifter och miljökrav som finns inom området.",
+        "Vidare utgår eleven <strong>med god säkerhet</strong> från standarder och föreskrifter i val av utrustning och arbetssätt."
+      ],
+      [
+        "Eleven redogör <strong>utförligt</strong> för vad det innebär att arbeta enligt ett hållbart förhållningssätt och enligt de lagar och förordningar som styr verksamheten."
+      ],
+      [
+        "Eleven genomför <strong>med god säkerhet</strong> provtagningar och tolkar <strong>med god säkerhet</strong> resultatet.",
+        "Dessutom utför eleven <strong>självständigt efter samråd</strong> med handledare vanligt förekommande konfigureringar och optimeringar samt genomför <strong>med god säkerhet</strong> styrning och avläsning av tekniska komponenter på processteknisk utrustning."
+      ],
+      [
+        "Eleven läser och tolkar <strong>med god säkerhet</strong> scheman över instrument och processer samt tolkar och upprättar <strong>med god säkerhet</strong> anläggningsteknisk dokumentation på ett systematiskt och kvalitetssäkert sätt."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven redogör <strong>övergripande</strong> för funktionen hos processtekniska komponenter och kopplar dessa till de fysikaliska och kemiska samband som förekommer inom processindustrin.",
+        "Eleven förhåller sig till de säkerhetsföreskrifter och miljökrav som finns inom området.",
+        "Vidare utgår eleven <strong>med säkerhet</strong> från standarder och föreskrifter i val av utrustning och arbetssätt."
+      ],
+      [
+        "Eleven redogör <strong>övergripande</strong> för vad det innebär att arbeta enligt ett hållbart förhållningssätt och enligt de lagar och förordningar som styr verksamheten."
+      ],
+      [
+        "Eleven genomför <strong>med säkerhet</strong> provtagningar och tolkar <strong>med säkerhet</strong> resultatet.",
+        "Dessutom utför eleven <strong>efter samråd</strong> med handledare vanligt förekommande konfigureringar och optimeringar samt genomför <strong>med säkerhet</strong> styrning och avläsning av tekniska komponenter på processteknisk utrustning."
+      ],
+      [
+        "Eleven läser och tolkar <strong>med säkerhet</strong> scheman över instrument och processer samt tolkar och upprättar <strong>med säkerhet</strong> anläggningsteknisk dokumentation på ett systematiskt och kvalitetssäkert sätt."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Metoder och utrustning för att testa och kalibrera mätning av till exempel temperatur, tryck, nivå, flöde och joniserande strålning.",
+        "Metoder för mätning av varvtal och krafter.",
+        "Reglerteknik, specifikt reglerprocesser inom energiproduktion.",
+        "Funktion och konstruktion hos olika komponenter inom valt processtekniskt område.",
+        "Arbetsmiljöfrågor och säkerhetsföreskrifter.",
+        "Utvärdering av mätningar genom analys av metodval, arbetsprocess och felkällor.",
+        "Hållbart förhållningssätt med avseende på miljöaspekter vid processreglering och drift inklusive riskanalys och energioptimering.",
+        "Energiproduktion och distribution nationellt och internationellt.",
+        "Laborativa mätövningar med givare och omvandlare som bygger på digital och analog teknik.",
+        "Övervakning, styrning och reglering av processer med stöd av process- och anläggningsteknisk dokumentation.",
+        "Tolkning av anläggningsteknisk dokumentation, till exempel process- och instrumentscheman och manualer.",
+        "Systematiserade dokumentationsmetoder och kvalitetsteknik."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen processteknik - energi 1 omfattar punkterna 1-9 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ]
+}

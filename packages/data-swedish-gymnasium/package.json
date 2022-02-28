@@ -4,25 +4,31 @@
     "access": "public"
   },
   "scripts": {
-    "clean": "del-cli ./data/**/* && del-cli ./out/**/*",
-    "build": "ts-node index.ts",
-    "dev": "ts-node-dev --cls --respawn --transpileOnly index.ts",
-    "test": "jest"
+    "fetch": "del-cli 'data/raw/**/*' && ts-node fetch.ts",
+    "normalize": "del-cli 'data/normalized/**/*' && ts-node normalize.ts",
+    "parse": "del-cli 'out/**/*' && ts-node parse.ts",
+    "build": "yarn fetch && yarn normalize && yarn parse"
   },
   "main": "./out",
-  "version": "0.0.1-alpha.9",
+  "version": "0.0.1-alpha.12",
   "description": "",
   "repository": "https://github.com/eweilow/swedish-education-data",
   "author": "eweilow",
   "license": "GPL-3.0",
   "devDependencies": {
-    "@education-data/fetcher": "^0.0.1-alpha.9",
-    "@education-data/parser": "^0.0.1-alpha.9",
+    "@education-data/fetcher": "^0.0.1-alpha.10",
+    "@education-data/normalizer": "^0.0.1-alpha.12",
+    "@education-data/parser": "^0.0.1-alpha.10",
+    "@prettier/plugin-xml": "^1.1.0",
+    "@types/glob": "^7.1.1",
+    "@types/prettier": "^2.4.1",
     "date-fns": "^2.2.1",
     "del-cli": "^3.0.0",
+    "glob": "^7.1.4",
     "jest": "^24.9.0",
-    "ts-node": "^8.4.1",
-    "ts-node-dev": "^1.0.0-pre.42",
-    "typescript": "^3.6.3"
+    "prettier": "^2.4.1",
+    "ts-node": "^10.4.0",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.4.4"
   }
 }

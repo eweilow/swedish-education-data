@@ -1,0 +1,34 @@
+{
+  "title": "Programmering",
+  "code": "PRR",
+  "developmentPurposes": [
+    "Kunskaper om programmerbara system.",
+    "Förmåga att formulera och planera programmeringsuppgifter med pseudokod och diagramteknik.",
+    "Förståelse av och färdigheter i att använda datavetenskapliga begrepp och principer.",
+    "Kunskaper om programspråk och programmeringsparadigm.",
+    "Förmåga att skriva, läsa, strukturera, analysera, dokumentera och kommentera programkod.",
+    "Färdigheter i att skapa program med ett givet syfte och för en avsedd användare.",
+    "Kunskaper om gränssnitt mot filer, filsystem, databashanterare och internet.",
+    "Kunskaper om och färdigheter i objektorienterad programmering.",
+    "Förmåga att finna, analysera, åtgärda och förhindra syntaxfel, programkörningsfel och programmeringslogiska fel.",
+    "Kunskaper om samspelet mellan program, exekveringsmiljö, operativsystem och hårdvara."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet programmering ska syfta till att eleverna utvecklar kunskaper om programmeringens grunder, färdigheter i att tillämpa relevanta metoder för programutveckling och förmåga att lösa programmeringstekniska problem. Undervisningen ska även bidra till att eleverna utvecklar förmåga att analysera, designa och vidareutveckla program. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om några vanligt förekommande programspråk samt traditioner och nya trender i utvecklingen av programspråk. Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper om datorns användning i samhället och datorns möjligheter och begränsningar.",
+    "I undervisningen ska eleverna ges möjlighet att arbeta i projekt och att enskilt eller i grupp utföra programmeringsuppgifter av varierande komplexitet och inom olika tillämpningsområden."
+  ],
+  "courseInfo": {
+    "PRRPRR01": "Programmering 1, 100 poäng.",
+    "PRRPRR02": "Programmering 2, 100 poäng.",
+    "PRRPRR33": "Programmering 3, 100 poäng."
+  },
+  "description": "Ämnet programmering behandlar hur mjukvaror skapas, anpassas och utvecklas samt programmeringens roll i informationstekniska sammanhang som datorsimulering och praktisk datoriserad problemlösning.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "applicableFrom": "2017-07-07T08:01:55.000Z",
+  "modifiedDate": "2020-02-19T14:59:53.000Z",
+  "courses": [
+    "PRRPRR01",
+    "PRRPRR02",
+    "PRRPRR33"
+  ]
+}

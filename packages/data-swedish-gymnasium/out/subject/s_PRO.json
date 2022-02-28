@@ -1,0 +1,38 @@
+{
+  "title": "Processautomation",
+  "code": "PRO",
+  "developmentPurposes": [
+    "Kunskaper om informationstekniska system i automatiserade processer.",
+    "Kunskaper om reglermetoder för svårare processer.",
+    "Kunskaper om mätmetoder för fysikaliska storheter och kemiska egenskaper.",
+    "Förmåga att planera, genomföra och utvärdera underhållsarbete i en automatiserad processanläggning med hänsyn till säkerhet, kvalitet, miljö, ergonomi och estetik.",
+    "Förmåga att reglera och optimera enkla processer.",
+    "Förmåga att arbeta med processdatorsystem.",
+    "Förmåga att mäta fysikaliska storheter och kemiska egenskaper.",
+    "Förmåga att tolka och upprätta anläggningsteknisk dokumentation.",
+    "Förmåga att välja och använda olika verktyg, instrument, material och övrig utrustning som används inom området.",
+    "Kunskaper om standarder och föreskrifter inom området."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet processautomation ska syfta till att eleverna utvecklar kunskaper om komponenter och automatiserade processanläggningar samt förståelse av den yrkesteori som krävs för olika automatiserade processer. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att såväl identifiera och avhjälpa reglertekniska och lokala datatekniska problem på anläggningsnivå som att felsöka och kalibrera mät- och reglerteknisk utrustning. Undervisningen ska även leda till att eleverna utvecklar kunskaper om hur övergripande processdatorsystem används för datainsamling, larmhantering och övervakning av processen samt hur informationsteknik kan användas i olika nivåer av automatiserade processanläggningar.",
+    "Genom undervisningen ska eleverna ges möjlighet att utveckla insikt om hur säkerheten på en processindustri är beroende av med vilken uppmärksamhet, noggrannhet och systematik som underhållspersonalen arbetar. Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper om lämpliga mät- och kalibreringsmetoder som medför ett säkert arbetssätt beroende av processmiljö.",
+    "Undervisningen ska bidra till att eleverna utvecklar matematiska kunskaper för arbete i automatiserade processanläggningar samt förmåga att tolka och upprätta anläggningsteknisk dokumentation och att uttrycka sig både skriftligt och muntligt.",
+    "I undervisningen ska laborativa moment och ett undersökande arbetssätt förekomma. I praktiska övningar ska eleverna ges möjlighet att utveckla kunskaper i problemlösning som krävs för automatiserade arbeten."
+  ],
+  "courseInfo": {
+    "PROPRC01": "Processmätteknik 1, 100 poäng.",
+    "PROPRC02": "Processmätteknik 2, 100 poäng.",
+    "PROPRE0": "Processreglering, 100 poäng.",
+    "PROPRO0": "Processdatorsystem, 100 poäng."
+  },
+  "description": "Ämnet processautomation behandlar metoder och arbetssätt för mätning, insamling av mätdata, datahantering, datorkommunikation och reglering i automatiserade processanläggningar.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "applicableFrom": "2013-06-20T22:10:14.000Z",
+  "modifiedDate": "2020-02-19T14:59:51.000Z",
+  "courses": [
+    "PROPRC01",
+    "PROPRC02",
+    "PROPRE0",
+    "PROPRO0"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Webbutveckling",
+  "code": "WEU",
+  "developmentPurposes": [
+    "Kunskaper om webbens historia, betydelse och funktionalitet.",
+    "Förmåga att planera, genomföra, testa, dokumentera och utvärdera utvecklingsprojekt för webbplatser samt applikationer som bygger på klientbaserade webbtekniker.",
+    "Kunskaper om de tekniker som används för att bygga webbplatser och webbapplikationer.",
+    "Förmåga att använda externa webbtjänster för informationsutbyte mellan webbplatser.",
+    "Förmåga att utveckla dynamisk presentationslogik.",
+    "Förmåga att bygga webbplatser och webbapplikationer enligt standarder och riktlinjer för god praxis samt med god tillgänglighet.",
+    "Kunskaper om lagar och andra bestämmelser inom området samt förmåga att göra etiska överväganden och reflektera över integritetsfrågor.",
+    "Kunskaper om säkerhet och förmåga att identifiera och motarbeta attacker.",
+    "Förmåga att använda terminologi inom området."
+  ],
+  "purposes": [
+    "Ämnet webbutveckling ska syfta till att eleverna utvecklar färdigheter i att skapa produkter med hjälp av olika webbtekniker. Eleverna ska ges möjlighet att utveckla kunskaper om olika webbteknikers konstruktion och funktionalitet samt kunskaper om samspelet mellan beställare, användare, formgivare och utvecklare. Genom undervisningen ska eleverna ges möjlighet att utveckla produkter som följer standarder, riktlinjer för god praxis, användbarhet och tillgänglighet även för användare med funktionsnedsättning. Undervisningen ska leda till att eleverna utvecklar kunskaper om relevanta lagar och andra bestämmelser samt förmåga att göra webbrelaterade etiska överväganden.",
+    "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om och färdigheter i att använda verktyg för att producera och kontrollera den kod på en webbplats som exekveras av webbklienten.",
+    "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om projekt som arbetsmetod och tillfälle till arbete i projektform."
+  ],
+  "courseInfo": {
+    "WEUWEB01": "Webbutveckling 1, 100 poäng.",
+    "WEUWEB02": "Webbutveckling 2, 100 poäng.",
+    "WEUWEB33": "Webbutveckling 3, 100 poäng."
+  },
+  "description": "Ämnet webbutveckling behandlar de tekniker som används för att presentera och bearbeta information i webbläsaren samt utifrån dessa tekniker skapa och vidareutveckla statiska och dynamiska webbsidor, webbplatser eller webbapplikationer.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "applicableFrom": "2017-07-07T08:01:32.000Z",
+  "modifiedDate": "2020-02-19T15:03:18.000Z",
+  "courses": [
+    "WEUWEB01",
+    "WEUWEB02",
+    "WEUWEB33"
+  ]
+}

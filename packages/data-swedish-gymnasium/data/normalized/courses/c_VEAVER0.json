@@ -1,0 +1,100 @@
+{
+  "name": "Verkstad - spårfordon",
+  "code": "VEAVER0",
+  "focusAreas": {
+    "string": "Kursen verkstad - spårfordon omfattar punkterna 1-5 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-5"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Elarbeten såsom losskoppling och anslutning av apparater samt funktionsprovning.",
+          "2. Mekaniska arbeten, till exempel sammanfogning.",
+          "3. Demontering och montering av elektriska och mekaniska installationer.",
+          "4. Pressverktyg för olika kontakttyper som används inom yrkesområdet.",
+          "5. Handverktyg och utrustning som används i verkstadsarbete och tillhörande instruktioner och manualer.",
+          "6. Enklare ritningar med måttsättning och scheman.",
+          "7. Effektiv arbetsmiljö med exempel på metoder som tillämpas för struktur och ordning på arbetsplatser.",
+          "8. Riskbedömning och elsäkerhet för personer och egendom.",
+          "9. Ergonomiskt arbetssätt för att förebygga ohälsa och olycksfall.",
+          "10. Arbeta efter instruktioner och kommunicera med relevanta uttryck och begrepp."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven utför **i samråd** med handledare mindre omfattande verkstadsarbete inom elarbete och mekanik.",
+        "I arbetet väljer eleven **med viss säkerhet** och använder **med visst** handlag den utrustning och de verktyg som är lämpliga för arbetsuppgiften i bekanta situationer.",
+        "Resultatet av elevens arbete är **tillfredsställande** utifrån givna kvalitets- och funktionskrav.",
+        "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar dem **i samråd** med handledare.",
+        "Dessutom vårdar eleven **med viss säkerhet** utrustning, maskiner och verktyg enligt instruktioner."
+      ],
+      [
+        "Eleven gör inför arbetet en **enkel** planering utifrån de ritningar, scheman, standarder och instruktioner som är relevanta för uppgiften.",
+        "Eleven redogör **översiktligt** för material, teknik, metoder och verktyg som använts för arbetsuppgiften och hur dessa påverkat kvalitet och resultat.",
+        "Eleven redogör dessutom **översiktligt** för eventuella svårigheter under arbetet samt utvärderar med **enkla** omdömen den egna arbetsinsatsen.",
+        "Dessutom gör eleven **enkla** reflektioner över individens, gruppens och den samlade insatsens betydelse för arbetet."
+      ],
+      [
+        "Eleven utför **i samråd** med handledare arbetet på ett ergonomiskt riktigt, säkert och miljömedvetet sätt och håller en god ordning och struktur på arbetsplatsen.",
+        "Eleven redogör på ett **tillfredsställande** sätt för skydds- och arbetsmiljöbestämmelser och redogör översiktligt för ämnesinnehållets betydelse för ett optimalt verkstadsarbete.",
+        "Eleven använder **med viss säkerhet** termer och begrepp som är relevanta för området."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven utför **efter samråd** med handledare mindre omfattande verkstadsarbete inom elarbete och mekanik.",
+        "I arbetet väljer eleven **med viss säkerhet** samt använder med **gott** handlag den utrustning och de verktyg som är lämpliga för arbetsuppgiften i bekanta **och delvis nya** situationer.",
+        "Resultatet av elevens arbete är **tillfredsställande** utifrån givna kvalitets- och funktionskrav.",
+        "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar **efter samråd** med handledare.",
+        "Dessutom vårdar eleven **med viss säkerhet** utrustning, maskiner och verktyg enligt instruktioner."
+      ],
+      [
+        "Eleven gör inför arbetet en **noggrann** planering utifrån de ritningar, scheman, standarder och instruktioner som är relevanta för uppgiften.",
+        "Eleven redogör **utförligt** för material, teknik, metoder och verktyg som använts för arbetsuppgiften och hur dessa påverkat kvalitet och resultat.",
+        "Eleven redogör dessutom **utförligt** för eventuella svårigheter under arbetet samt utvärderar med **nyanserade** omdömen den egna arbetsinsatsen.",
+        "Dessutom gör eleven **välgrundade** reflektioner över individens, gruppens och den samlade insatsens betydelse för arbetet."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare arbetet på ett ergonomiskt riktigt, säkert och miljömedvetet sätt och håller en god ordning och struktur på arbetsplatsen.",
+        "Eleven redogör på ett **tillfredsställande** sätt för skydds- och arbetsmiljöbestämmelser och redogör **utförligt** för ämnesinnehållets betydelse för ett optimalt verkstadsarbete.",
+        "Eleven använder **med viss säkerhet** termer och begrepp som är relevanta för området."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven utför **efter samråd** med handledare mindre omfattande verkstadsarbete inom elarbete och mekanik.",
+        "I arbetet väljer eleven **med säkerhet** samt använder med **mycket gott** handlag den utrustning och de verktyg som är lämpliga för arbetsuppgiften i bekanta **men även nya** situationer.",
+        "Resultatet av elevens arbete är **gott** utifrån givna kvalitets- och funktionskrav.",
+        "Under arbetet upptäcker eleven eventuella problem som uppkommer och åtgärdar **efter samråd** med handledare.",
+        "Dessutom vårdar eleven **med säkerhet** utrustning, maskiner och verktyg enligt instruktioner."
+      ],
+      [
+        "Eleven gör inför arbetet en **noggrann och utförlig** planering utifrån de ritningar, scheman, standarder och instruktioner som är relevanta för uppgiften.",
+        "Eleven redogör **utförligt och nyanserat** för material, teknik, metoder och verktyg som använts för arbetsuppgiften och hur dessa påverkat kvalitet och resultat.",
+        "Eleven redogör dessutom **utförligt och nyanserat** för eventuella svårigheter under arbetet samt utvärderar med **nyanserade** omdömen den egna arbetsinsatsen samt **ger förslag på hur arbetet kan förbättras**.",
+        "Dessutom gör eleven **välgrundade och nyanserade** reflektioner över individens, gruppens och den samlade insatsens betydelse för arbetet."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare arbetet på ett ergonomiskt riktigt, säkert och miljömedvetet sätt och håller en god ordning och struktur på arbetsplatsen.",
+        "Eleven redogör på ett **gott** sätt för skydds- och arbetsmiljöbestämmelser och redogör **utförligt och nyanserat** för ämnesinnehållets betydelse för ett optimalt verkstadsarbete.",
+        "Eleven använder **med säkerhet** termer och begrepp som är relevanta för området."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

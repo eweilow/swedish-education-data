@@ -1,0 +1,103 @@
+{
+  "name": "Körning 2",
+  "code": "RINKOR02",
+  "focusAreas": {
+    "string": "Kursen körning 2 omfattar punkterna 1-5 och 7-10 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-5",
+      "7-10"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Hästars rörelsemekanik och avvikelser från normalt rörelsemönster.",
+          "2. Observation av hästars hälsa och kondition.",
+          "3. Observation för att förutse vanligt förekommande träningsrelaterade skador.",
+          "4. Arbetsplaner och träningsprogram inom olika arbetsområden för körhästar.",
+          "5. Träning av hästar för arbetskörning.",
+          "6. Utbildning av körhästar i olika åldrar och utvecklingsstadier.",
+          "7. Hantering av hästar i samband med träning och tävling.",
+          "8. Tömkörning av skolade hästar efter deras individuella förutsättningar med betoning på hästarnas avspänning, rakriktning, takt och balans.",
+          "9. Grunderna i parkörning.",
+          "10. Utrustning av hästar för olika arbete och anspänningar.",
+          "11. Skötsel och vård av utrustning, vagnar och redskap.",
+          "12. Ergonomi, arbetsmiljö och säkerhet i samband med arbete med hästar.",
+          "13. Lagar och andra bestämmelser som rör arbete med hästar.",
+          "14. Bestämmelser om körning på väg samt i skog och mark.",
+          "15. Etik i samband med träning och tävling."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **översiktligt** för hästars rörelsemekanik och eventuella avvikelser från normalt rörelsemönster.",
+        "Eleven redogör också **översiktligt** för hästars utveckling och eventuella avvikelser från en normal utveckling samt för faktorer som påverkar hästars hälsa och kondition.",
+        "Dessutom redogör eleven **översiktligt** för träningsrelaterade skador på körhästar samt hur skadorna kan förebyggas.",
+        "Eleven upprättar en **enkel** arbetsplan med träningsprogram för körhästar samt för **med viss säkerhet** journal över arbete med och skötsel av hästar."
+      ],
+      [
+        "Eleven organiserar, planerar och utför **i samråd** med handledare arbetsuppgifter med ett **tillfredsställande** resultat.",
+        "Dessutom visiterar, utrustar och kör eleven **i samråd** med handledare olika typer av hästar.",
+        "Elevens körning är **tillfredsställande**.",
+        "Eleven anpassar **i samråd** med handledare utrustning för aktuell körning.",
+        "I arbetet och körningen hanterar eleven hästarna och utrustningen på ett **tillfredsställande** sätt.",
+        "Eleven genomför **i samråd** med handledare tömkörning av skolade hästar.",
+        "Eleven sköter och vårdar **i samråd** med handledare aktuell utrustning.",
+        "Eleven arbetar säkert och ergonomiskt i samband med körning.",
+        "Dessutom redogör eleven **översiktligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för hästars rörelsemekanik och eventuella avvikelser från normalt rörelsemönster.",
+        "Eleven redogör också **utförligt** för hästars utveckling och eventuella avvikelser från en normal utveckling samt för faktorer som påverkar hästars hälsa och kondition.",
+        "Dessutom redogör eleven **utförligt** för träningsrelaterade skador på körhästar samt hur skadorna kan förebyggas.",
+        "Eleven upprättar en **genomarbetad** arbetsplan med träningsprogram för körhästar samt för **med viss säkerhet** journal över arbete med och skötsel av hästar."
+      ],
+      [
+        "Eleven organiserar, planerar och utför **efter samråd** med handledare arbetsuppgifter med ett **tillfredsställande** resultat.",
+        "Dessutom visiterar, utrustar och kör eleven **efter samråd** med handledare olika typer av hästar.",
+        "Elevens körning är **tillfredsställande**.",
+        "Eleven anpassar **efter samråd** med handledare utrustning för aktuell körning.",
+        "I arbetet och körningen hanterar eleven hästarna och utrustningen på ett **tillfredsställande** sätt.",
+        "Eleven genomför **efter samråd** med handledare tömkörning av skolade hästar.",
+        "Eleven sköter och vårdar **efter samråd** med handledare aktuell utrustning.",
+        "Eleven arbetar säkert och ergonomiskt i samband med körning.",
+        "Dessutom redogör eleven **utförligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för hästars rörelsemekanik och eventuella avvikelser från normalt rörelsemönster.",
+        "Eleven redogör också **utförligt och nyanserat** för hästars utveckling och eventuella avvikelser från en normal utveckling samt för faktorer som påverkar hästars hälsa och kondition.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för träningsrelaterade skador på körhästar samt hur skadorna kan förebyggas.",
+        "Eleven upprättar en **genomarbetad** arbetsplan med träningsprogram för körhästar samt för **med säkerhet** journal över arbete med och skötsel av hästar."
+      ],
+      [
+        "Eleven organiserar, planerar och utför **efter samråd** med handledare arbetsuppgifter med ett **gott** resultat.",
+        "Dessutom visiterar, utrustar och kör eleven **efter samråd** med handledare olika typer av hästar.",
+        "Elevens körning är **god**.",
+        "Eleven anpassar **efter samråd** med handledare utrustning för aktuell körning.",
+        "I arbetet och körningen hanterar eleven hästarna och utrustningen på ett **gott** sätt.",
+        "Eleven genomför **efter samråd** med handledare tömkörning av skolade hästar.",
+        "Eleven sköter och vårdar **efter samråd** med handledare aktuell utrustning.",
+        "Eleven arbetar säkert och ergonomiskt i samband med körning.",
+        "Dessutom redogör eleven **utförligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

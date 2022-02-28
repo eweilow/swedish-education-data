@@ -1,0 +1,45 @@
+{
+  "name": "Elmätteknik",
+  "code": "ELÄ",
+  "description": [
+    "Ämnet elmätteknik handlar om hur olika instrument för att mäta elektriska storheter används. Även mätning av icke-elektriska storheter behandlas efter att de omvandlats med mätomvandlare till elektriska storheter."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet elmätteknik ska syfta till att eleverna utvecklar kunskaper om mätning av elektriska storheter. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om vanligt förekommande mätgivare och om metoder för att samla in mätvärden. Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper om analys av mätresultat och av de fel och störningar som kan kan påverka mätresultatet.",
+          "Genom experiment, ett undersökande arbetssätt och praktiska övningar ska eleverna ges möjlighet att utveckla sådana kunskaper i praktisk problemlösning som krävs vid arbete med mätgivare och mätinstrument."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet elmätteknik ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Kunskaper om begrepp inom mätteknik.",
+          "2. Färdigheter i att använda oscilloskop och multimeter.",
+          "3. Färdigheter i att använda spektrumanalysator.",
+          "4. Förmåga att välja och använda mätgivare.",
+          "5. Kunskaper om elektriska störningar.",
+          "6. Förmåga att analysera mätresultat.",
+          "7. Förmåga att dokumentara mätresultat."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Elmätteknik 1, 100 poäng.",
+          "2. Elmätteknik 2, 100 poäng."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2010-12-02T08:25:27.000Z",
+  "modifiedDate": "2020-02-19T14:51:09.000Z",
+  "courseCodes": [
+    "ELÄELM01",
+    "ELÄELM02"
+  ]
+}

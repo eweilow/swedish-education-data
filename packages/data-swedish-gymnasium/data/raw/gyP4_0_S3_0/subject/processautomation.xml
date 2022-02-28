@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Processautomation</name>
+  <englishName>Process automation</englishName>
+  <description
+  >&lt;p&gt;Ämnet processautomation behandlar metoder och arbetssätt för mätning, insamling av mätdata, datahantering, datorkommunikation och reglering i automatiserade processanläggningar.&lt;/p&gt;</description>
+  <code>PRO</code>
+  <status>PUBLISHED</status>
+  <version>3</version>
+  <createdDate>2013-06-21T00:10:14+02:00</createdDate>
+  <modifiedDate>2020-02-19T15:59:51+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Processautomation&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet processautomation ska syfta till att eleverna utvecklar kunskaper om komponenter och automatiserade processanläggningar samt förståelse av den yrkesteori som krävs för olika automatiserade processer. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att såväl identifiera och avhjälpa reglertekniska och lokala datatekniska problem på anläggningsnivå som att felsöka och kalibrera mät- och reglerteknisk utrustning. Undervisningen ska även leda till att eleverna utvecklar kunskaper om hur övergripande processdatorsystem används för datainsamling, larmhantering och övervakning av processen samt hur informationsteknik kan användas i olika nivåer av automatiserade processanläggningar.&lt;/p&gt;&lt;p&gt;Genom undervisningen ska eleverna ges möjlighet att utveckla insikt om hur säkerheten på en processindustri är beroende av med vilken uppmärksamhet, noggrannhet och systematik som underhållspersonalen arbetar. Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper om lämpliga mät- och kalibreringsmetoder som medför ett säkert arbetssätt beroende av processmiljö.&lt;/p&gt;&lt;p&gt;Undervisningen ska bidra till att eleverna utvecklar matematiska kunskaper för arbete i automatiserade processanläggningar samt förmåga att tolka och upprätta anläggningsteknisk dokumentation och att uttrycka sig både skriftligt och muntligt.&lt;/p&gt;&lt;p&gt;I undervisningen ska laborativa moment och ett undersökande arbetssätt förekomma. I praktiska övningar ska eleverna ges möjlighet att utveckla kunskaper i problemlösning som krävs för automatiserade arbeten.&lt;br&gt;&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet processautomation ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om informationstekniska system i automatiserade processer.&lt;/li&gt; &lt;li&gt;Kunskaper om reglermetoder för svårare processer.&lt;/li&gt; &lt;li&gt;Kunskaper om mätmetoder för fysikaliska storheter och kemiska egenskaper.&lt;/li&gt; &lt;li&gt;Förmåga att planera, genomföra och utvärdera underhållsarbete i en automatiserad processanläggning med hänsyn till säkerhet, kvalitet, miljö, ergonomi och estetik.&lt;/li&gt; &lt;li&gt;Förmåga att reglera och optimera enkla processer.&lt;/li&gt; &lt;li&gt;Förmåga att arbeta med processdatorsystem.&lt;/li&gt; &lt;li&gt;Förmåga att mäta fysikaliska storheter och kemiska egenskaper. &lt;/li&gt; &lt;li&gt;Förmåga att tolka och upprätta anläggningsteknisk dokumentation.&lt;/li&gt; &lt;li&gt;Förmåga att välja och använda olika verktyg, instrument, material och övrig utrustning som används inom området.&lt;/li&gt; &lt;li&gt;Kunskaper om standarder och föreskrifter inom området.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Processmätteknik 1, 100 poäng, som bygger på kursen mät- och reglerteknik.&lt;/li&gt; &lt;li&gt;Processmätteknik 2, 100 poäng, som bygger på kursen processmätteknik 1.&lt;/li&gt; &lt;li&gt;Processreglering, 100 poäng, som bygger på kursen mät- och reglerteknik.&lt;/li&gt; &lt;li&gt;Processdatorsystem, 100 poäng, som bygger på kursen industriell informationsteknik. Dessutom bygger den på kursen processmätteknik 1 eller kursen processreglering.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2010:164</skolfsId>
+  <applianceDate>2013-04-25T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Processmätteknik 1</name>
+    <description
+    >&lt;p&gt;Kursen processmätteknik 1 omfattar punkterna 1, 3–4 och 7–10 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>PROPRC01</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Processmätteknik 1, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: PROPRC01&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Metoder för analoga och digitala signalöverföringar. Metoder för att bekämpa störningar.&lt;/li&gt; &lt;li&gt;Metoder för mätning av temperatur, tryck, nivå och flöde.&lt;/li&gt; &lt;li&gt;Metoder och utrustning för att testa och kalibrera mätningar av till exempel temperatur, tryck, nivå och flöde.&lt;/li&gt; &lt;li&gt;Metoder för mätning av varvtal och krafter.&lt;/li&gt; &lt;li&gt;Signalmätmetoder på automatiserade processanläggningar i drift.&lt;/li&gt; &lt;li&gt;Funktion och konstruktion hos olika pumpar, ventiler och filter.&lt;/li&gt; &lt;li&gt;Planering och genomförande av enklare underhållsarbete i en processanläggning, till exempel montering och inkoppling av mätdon.&lt;/li&gt; &lt;li&gt;Laborativa mätövningar med givare, omvandlare, signalomvandlare och smartgivare.&lt;/li&gt; &lt;li&gt;Systematiserade dokumentationsmetoder.&lt;/li&gt; &lt;li&gt;Standarder och föreskrifter inom området, till exempel ATEX-direktiven.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för uppbyggnad, funktion och principer hos olika mättekniska system. Dessutom redogör eleven &lt;strong&gt;översiktligt&lt;/strong&gt; för beteckningar och några mätmetoder för olika fysiska storheter och kemiska egenskaper.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare&lt;strong&gt; &lt;/strong&gt;någon vanlig underhållsteknisk arbetsuppgift i en automatiserad processanläggning med ett resultat som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller fastställda kvalitets- och miljökrav. Dessutom utför eleven i enkla automatiserade processanläggningar &lt;strong&gt;enkla&lt;/strong&gt; mätningar av fysikaliska storheter och kemiska egenskaper.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett sätt som är säkert både för eleven själv och andra. I arbetet beskriver eleven&lt;strong&gt; översiktligt &lt;/strong&gt;processens mättekniska funktioner samt löser &lt;strong&gt;enkla&lt;/strong&gt; mättekniska problem med hjälp av dokumentation, beräkningar, konfigureringar, mätinstrument och datorer. I arbetet hanterar och vårdar eleven med &lt;strong&gt;visst &lt;/strong&gt;handlag material, verktyg och övrig utrustning. Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; hur standarder och föreskrifter styr val av utrustning och arbetssätt.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utfört arbete. Eleven utvärderar sitt arbete med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för uppbyggnad, funktion och principer hos olika mättekniska system. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för beteckningar och några mätmetoder för olika fysiska storheter och kemiska egenskaper.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare&lt;strong&gt; &lt;/strong&gt;någon vanlig underhållsteknisk arbetsuppgift i en automatiserad processanläggning med ett resultat som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller fastställda kvalitets- och miljökrav. Dessutom utför eleven i enkla automatiserade processanläggningar mätningar av fysikaliska storheter och kemiska egenskaper.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett sätt som är säkert både för eleven själv och andra. I arbetet beskriver eleven&lt;strong&gt; utförligt &lt;/strong&gt;processens mättekniska funktioner samt löser mättekniska problem med hjälp av dokumentation, beräkningar, konfigureringar, mätinstrument och datorer. I arbetet hanterar och vårdar eleven med&lt;strong&gt; gott &lt;/strong&gt;handlag material, verktyg och övrig utrustning. Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; hur standarder och föreskrifter styr val av utrustning och arbetssätt.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utfört arbete. Eleven utvärderar sitt arbete med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för uppbyggnad, funktion och principer hos olika mättekniska system. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för beteckningar och några mätmetoder för olika fysiska storheter och kemiska egenskaper.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare&lt;strong&gt; &lt;/strong&gt;någon vanlig underhållsteknisk arbetsuppgift i en automatiserad processanläggning med ett resultat som på ett &lt;strong&gt;gott &lt;/strong&gt;sätt uppfyller fastställda kvalitets- och miljökrav. Dessutom utför eleven i enkla automatiserade processanläggningar &lt;strong&gt;avancerade &lt;/strong&gt;mätningar av fysikaliska storheter och kemiska egenskaper.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett sätt som är säkert både för eleven själv och andra. I arbetet beskriver eleven&lt;strong&gt; utförligt och nyanserat &lt;/strong&gt;processens mättekniska funktioner samt löser &lt;strong&gt;avancerade &lt;/strong&gt;mättekniska problem med hjälp av dokumentation, beräkningar, konfigureringar, mätinstrument och datorer. I arbetet hanterar och vårdar eleven med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag material, verktyg och övrig utrustning. Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; hur standarder och föreskrifter styr val av utrustning och arbetssätt.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utfört arbete. Eleven utvärderar sitt arbete med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Processmätteknik 2</name>
+    <description
+    >&lt;p&gt;Kursen processmätteknik omfattar punkterna 1, 3–4 och 7–10 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>PROPRC02</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Processmätteknik 2, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: PROPRC02&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Persondatorer, plc eller liknande styrsystem som mätverktyg med omvandling av analoga signaler till digitala värden, upplösning och signalhantering.&lt;/li&gt; &lt;li&gt;Metoder för mätning av viskositet, koncentration, pH, syre och konduktivitet.&lt;/li&gt; &lt;li&gt;Metoder för gasanalys och mätning av partikelhalter.&lt;/li&gt; &lt;li&gt;Metoder och utrustning för att testa och kalibrera mätningar av fysiska storheter och kemiska egenskaper.&lt;/li&gt; &lt;li&gt;Planering och genomförande av underhållsarbete i en processanläggning.&lt;/li&gt; &lt;li&gt;Laborativa mätövningar med givare, omvandlare, signalomvandlare och smartgivare.&lt;/li&gt; &lt;li&gt;Systematiserade dokumentationsmetoder.&lt;/li&gt; &lt;li&gt;Standarder och föreskrifter inom området.&lt;/li&gt; &lt;li&gt;Processäkerhet och funktionssäkerhet enligt SIL-standard IEC 61508.&lt;/li&gt; &lt;li&gt;Mätosäkerhetens grunder med tillämpning och beräkning enligt ISO-GUM-standard (guide to the expression of uncertainty in measurement).&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för uppbyggnad, funktion och principer hos olika mättekniska system. Dessutom redogör eleven &lt;strong&gt;översiktligt&lt;/strong&gt; för beteckningar och några mätmetoder för olika fysiska storheter och kemiska egenskaper.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare&lt;strong&gt; &lt;/strong&gt;någon vanlig underhållsteknisk arbetsuppgift i en automatiserad processanläggning med ett resultat som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller fastställda kvalitets- och miljökrav. Dessutom utför eleven i enkla automatiserade processanläggningar &lt;strong&gt;enkla&lt;/strong&gt; mätningar av fysikaliska storheter och kemiska egenskaper.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett sätt som är säkert både för eleven själv och andra. I arbetet beskriver eleven&lt;strong&gt; översiktligt &lt;/strong&gt;processens mättekniska funktioner samt löser &lt;strong&gt;enkla&lt;/strong&gt; mättekniska problem med hjälp av dokumentation, beräkningar, konfigureringar, mätinstrument och datorer. I arbetet hanterar och vårdar eleven med&lt;strong&gt; visst&lt;/strong&gt; handlag material, verktyg och övrig utrustning. Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; hur standarder och föreskrifter styr val av utrustning och arbetssätt.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av arbetet. Eleven utvärderar sitt arbete med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för uppbyggnad, funktion och principer hos olika mättekniska system. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för beteckningar och några mätmetoder för olika fysiska storheter och kemiska egenskaper.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare&lt;strong&gt; &lt;/strong&gt;någon vanlig underhållsteknisk arbetsuppgift i en automatiserad processanläggning med ett resultat som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller fastställda kvalitets- och miljökrav. Dessutom utför eleven i enkla automatiserade processanläggningar mätningar av fysikaliska storheter och kemiska egenskaper.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett sätt som är säkert både för eleven själv och andra. I arbetet beskriver eleven&lt;strong&gt; utförligt &lt;/strong&gt;processens mättekniska funktioner samt löser mättekniska problem med hjälp av dokumentation, beräkningar, konfigureringar, mätinstrument och datorer. I arbetet hanterar och vårdar eleven med &lt;strong&gt;gott&lt;/strong&gt; handlag material, verktyg och övrig utrustning. Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; hur standarder och föreskrifter styr val av utrustning och arbetssätt.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av arbetet. Eleven utvärderar sitt arbete med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för uppbyggnad, funktion och principer hos olika mättekniska system. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för beteckningar och några mätmetoder för olika fysiska storheter och kemiska egenskaper.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare någon vanlig underhållsteknisk arbetsuppgift i en automatiserad processanläggning med ett resultat som på ett &lt;strong&gt;gott &lt;/strong&gt;sätt uppfyller fastställda kvalitets- och miljökrav. Dessutom utför eleven i enkla automatiserade processanläggningar &lt;strong&gt;avancerade &lt;/strong&gt;mätningar av fysikaliska storheter och kemiska egenskaper.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett sätt som är säkert både för eleven själv och andra. I arbetet beskriver eleven&lt;strong&gt; utförligt och nyanserat &lt;/strong&gt;processens mättekniska funktioner samt löser &lt;strong&gt;avancerade &lt;/strong&gt;mättekniska problem med hjälp av dokumentation, beräkningar, konfigureringar, mätinstrument och datorer. I arbetet hanterar och vårdar eleven med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag material, verktyg och övrig utrustning. Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; hur standarder och föreskrifter styr val av utrustning och arbetssätt.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av arbetet. Eleven utvärderar sitt arbete med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Processreglering</name>
+    <englishName>Process regulation</englishName>
+    <description
+    >&lt;p&gt;Kursen processreglering omfattar punkterna 1–2, 5 och 8–10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2 och 5.&lt;/p&gt;</description>
+    <code>PROPRE0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Processreglering, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: PROPRE0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Processreglering med distribuerade styrsystem.&lt;/li&gt; &lt;li&gt;Kontinuerlig och diskontinuerlig reglering med tidsproportionell utgång.&lt;/li&gt; &lt;li&gt;Reglering av flerkapacitiva processer.&lt;/li&gt; &lt;li&gt;Sammansatta reglersystem med framkoppling, internt och externt börvärde samt kvot- och kaskadreglering.&lt;/li&gt; &lt;li&gt;Multivariabla regleringar.&lt;/li&gt; &lt;li&gt;Parameterstyrning och adaptiv parameteruppdatering.&lt;/li&gt; &lt;li&gt;Reglering med oskarp logik (fuzzy logic).&lt;/li&gt; &lt;li&gt;Störningar i reglerprocessen, innefattande störtendenskompensering.&lt;/li&gt; &lt;li&gt;Laborativa konfigureringar av kontrollerande enheter och processanläggningar med optimeringsmetoder för process och parametrar.&lt;/li&gt; &lt;li&gt;Tolkning av anläggningsteknisk dokumentation, till exempel processcheman, plintscheman, tabeller, datablad, manualer och certifikat.&lt;/li&gt; &lt;li&gt;Dokumentation, till exempel regulatorinställningar.&lt;/li&gt; &lt;li&gt;Signalmätmetoder på automatiserade processanläggningar i drift.&lt;/li&gt; &lt;li&gt;Säkerhets-, energiförbruknings- och miljöaspekter vid processreglering, inklusive riskanalys, energioptimering och minimering av kemiska föroreningar.&lt;/li&gt; &lt;li&gt;Standarder och föreskrifter inom området, till exempel ATEX-direktiven.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för uppbyggnad, funktion och principer för distribuerade styrsystem och olika reglertekniska systemlösningar.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;i samråd&lt;/strong&gt; med handledare vanligt förekommande konfigureringar och optimeringar i olika reglertekniska processer med ett resultat som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller fastställda kvalitets- och miljökrav.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett sätt som är säkert både för eleven själv och andra. I arbetet hanterar och vårdar eleven med &lt;strong&gt;visst &lt;/strong&gt;handlag material, verktyg och övrig utrustning. Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; hur standarder och föreskrifter styr val av utrustning och arbetssätt.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utfört arbete. Eleven utvärderar sitt arbete med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för uppbyggnad, funktion och principer för distribuerade styrsystem och olika reglertekniska systemlösningar.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare&lt;strong&gt; &lt;/strong&gt;vanligt förekommande konfigureringar och optimeringar i olika reglertekniska processer med ett resultat som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller fastställda kvalitets- och miljökrav.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett sätt som är säkert både för eleven själv och andra. I arbetet hanterar och vårdar eleven med&lt;strong&gt; gott &lt;/strong&gt;handlag material, verktyg och övrig utrustning. Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; hur standarder och föreskrifter styr val av utrustning och arbetssätt.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utfört arbete. Eleven utvärderar sitt arbete med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för uppbyggnad, funktion och principer för distribuerade styrsystem och olika reglertekniska systemlösningar.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare&lt;strong&gt; &lt;/strong&gt;vanligt förekommande konfigureringar och optimeringar i olika reglertekniska processer med ett resultat som på ett &lt;strong&gt;gott &lt;/strong&gt;sätt uppfyller fastställda kvalitets- och miljökrav.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett sätt som är säkert både för eleven själv och andra. I arbetet hanterar och vårdar eleven med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag material, verktyg och övrig utrustning. Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; hur standarder och föreskrifter styr val av utrustning och arbetssätt.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utfört arbete. Eleven utvärderar sitt arbete med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <courses>
+    <name>Processdatorsystem</name>
+    <englishName>Process computer systems</englishName>
+    <description
+    >&lt;p&gt;Kursen processdatorsystem omfattar punkterna 1, 4 och 6–9 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 6.&lt;/p&gt;</description>
+    <code>PROPRO0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Processdatorsystem, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: PROPRO0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;HMI, dvs. användning av programvara för visualisering av en process med trender, historik och larmhantering.&lt;/li&gt; &lt;li&gt;Informationstekniska strukturer och nivåer i processindustrin samt hur olika fältbussar används i dessa nivåer med koppling till administrativa kontorsnät. &lt;/li&gt; &lt;li&gt;Distribuerade styrsystem med konfigurering av processkontrollerande enheter och programvaror för insamling av processdata.&lt;/li&gt; &lt;li&gt;Informationsteknik i processdatorsystem med upprättande av kommunikation mot processen med OPC-server (open connectivity), fältbuss eller ethernet.&lt;/li&gt; &lt;li&gt;Metoder för omvandling av analoga signaler till digitala värden och vice versa med upplösning, noggrannhet, ingenjörsstorhet, signalhantering och signalkonditionering.&lt;/li&gt; &lt;li&gt;Systematisk dokumentation i nätverk.&lt;/li&gt; &lt;li&gt;Säkerhet i processdatorsystem med skanntider, behörighetsinloggning, spårbarhet, redundans, realtidsoperativsystem (rtos), reglerfunktioner långt ut i anläggningen samt riskanalyser för informationsbortfall.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för uppbyggnad, funktion och principer hos olika informationstekniska system och enheter.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare vanligt förekommande inkopplingar och konfigureringar för insamling av data i en automatiserad processanläggning med ett resultat som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller fastställda kvalitets- och miljökrav. Dessutom visualiserar eleven med &lt;strong&gt;tillfredsställande&lt;/strong&gt; resultat processen i realtid med ett gränssnitt.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett sätt som är säkert både för eleven själv och andra. I arbetet beskriver eleven&lt;strong&gt; översiktligt &lt;/strong&gt;informationens väg från process till gränssnitt samt löser &lt;strong&gt;enkla&lt;/strong&gt; datortekniska och informationstekniska problem med hjälp av mätningar, manualer och laborativt arbete. I arbetet hanterar och vårdar eleven med &lt;strong&gt;visst &lt;/strong&gt;handlag material, verktyg och övrig utrustning. Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; hur standarder och föreskrifter styr val av utrustning och arbetssätt.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation i nätverk. Eleven utvärderar sitt arbete med &lt;strong&gt;enkla &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för uppbyggnad, funktion och principer hos olika informationstekniska system och enheter.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare&lt;strong&gt; &lt;/strong&gt;vanligt förekommande inkopplingar och konfigureringar för insamling av data i en automatiserad processanläggning med ett resultat som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller fastställda kvalitets- och miljökrav. Dessutom visualiserar eleven med &lt;strong&gt;tillfredsställande&lt;/strong&gt; resultat processen i realtid med ett gränssnitt.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett sätt som är säkert både för eleven själv och andra. I arbetet beskriver eleven&lt;strong&gt; utförligt &lt;/strong&gt;informationens väg från process till gränssnitt samt löser datortekniska och informationstekniska problem med hjälp av mätningar, manualer och laborativt arbete. I arbetet hanterar och vårdar eleven med &lt;strong&gt;gott &lt;/strong&gt;handlag material, verktyg och övrig utrustning. Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; hur standarder och föreskrifter styr val av utrustning och arbetssätt.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation i nätverk. Eleven utvärderar sitt arbete med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för uppbyggnad, funktion och principer hos olika informationstekniska system och enheter.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare vanligt förekommande inkopplingar och konfigureringar för insamling av data i en automatiserad processanläggning med ett resultat som på ett &lt;strong&gt;gott &lt;/strong&gt;sätt uppfyller fastställda kvalitets- och miljökrav. Dessutom visualiserar eleven med &lt;strong&gt;gott&lt;/strong&gt; resultat processen i realtid med ett gränssnitt.&lt;/p&gt;&lt;p&gt;Eleven arbetar på ett sätt som är säkert både för eleven själv och andra. I arbetet beskriver eleven&lt;strong&gt; utförligt och nyanserat &lt;/strong&gt;informationens väg från process till gränssnitt samt löser &lt;strong&gt;avancerade&lt;/strong&gt; datortekniska och informationstekniska problem med hjälp av mätningar, manualer och laborativt arbete. I arbetet hanterar och vårdar eleven med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag material, verktyg och övrig utrustning. Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; hur standarder och föreskrifter styr val av utrustning och arbetssätt.&lt;/p&gt;&lt;p&gt;Efter utfört arbete gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation i nätverk. Eleven utvärderar sitt arbete med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>4</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

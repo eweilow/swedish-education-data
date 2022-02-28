@@ -1,0 +1,73 @@
+{
+  "subject": "INN",
+  "title": "Industriella produktionsmetoder 3",
+  "code": "INNIND33",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven använder <strong>med mycket god säkerhet</strong> produktionsunderlag för att planera, bereda och organisera ett producerande arbete i vald industriell produktionsmetod.",
+        "Dessutom programmerar, simulerar, testar och optimerar eleven <strong>med mycket god säkerhet</strong> datorstyrd produktionsutrustning."
+      ],
+      [
+        "Eleven använder <strong>självständigt</strong> sina kunskaper om olika metoder och arbetssätt, löser <strong>med mycket god säkerhet</strong> produktionstekniska problem och föreslår <strong>självständigt</strong> förbättringar inom vald produktionsmetod.",
+        "I planering och genomförande använder sig eleven av arbetsmiljölagar och säkerhetsföreskrifter."
+      ],
+      [
+        "Eleven genomför <strong>självständigt</strong> olika typer av tester och prov för materialval.",
+        "Eleven dokumenterar <strong>med mycket god säkerhet</strong> såväl tester som resultat och ger förslag på förbättringar."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven använder <strong>med god säkerhet</strong> produktionsunderlag för att planera, bereda och organisera ett producerande arbete i vald industriell produktionsmetod.",
+        "Dessutom programmerar, simulerar, testar och optimerar eleven <strong>med god säkerhet</strong> datorstyrd produktionsutrustning."
+      ],
+      [
+        "Eleven använder <strong>självständigt efter samråd</strong> med handledare sina kunskaper om olika metoder och arbetssätt, löser <strong>med god säkerhet</strong> produktionstekniska problem och föreslår <strong>självständigt efter samråd</strong> med handledare förbättringar inom vald produktionsmetod.",
+        "I planering och genomförande använder sig eleven av arbetsmiljölagar och säkerhetsföreskrifter."
+      ],
+      [
+        "Eleven genomför <strong>självständig</strong>t <strong>efter samråd</strong> med handledare olika typer av tester och prov för materialval.",
+        "Eleven dokumenterar <strong>med god säkerhet</strong> såväl tester som resultat och ger förslag på förbättringar."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven använder <strong>med säkerhet</strong> produktionsunderlag för att planera, bereda och organisera ett producerande arbete i vald industriell produktionsmetod.",
+        "Dessutom programmerar, simulerar, testar och optimerar eleven <strong>med säkerhet</strong> datorstyrd produktionsutrustning."
+      ],
+      [
+        "Eleven använder <strong>efter samråd</strong> med handledare sina kunskaper om olika metoder och arbetssätt, löser <strong>med säkerhet</strong> produktionstekniska problem och föreslår <strong>efter samråd</strong> med handledare förbättringar inom vald produktionsmetod.",
+        "I planeringen och genomförandet använder eleven arbetsmiljölagar och säkerhetsföreskrifter."
+      ],
+      [
+        "Eleven genomför <strong>efter samråd</strong> med handledare olika typer av tester och prov för materialval.",
+        "Eleven dokumenterar <strong>med säkerhet</strong> såväl tester som resultat och ger förslag på förbättringar."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Produktionsunderlag och komplexa program.",
+        "Begrepp, metoder och tekniker för produktionsutrustning och kringutrustning samt specialiserad teknisk beskrivning av produktionsutrustning och kringutrustning.",
+        "Automatiska metoder för optimering med modern mätutrustning.",
+        "Dimensionering av material samt tekniska och ekonomiska beräkningar.",
+        "Produktionstekniska åtgärder för förbättrad produktionsekonomi med koppling till val av utrustning, verktyg och teknik.",
+        "Materialtekniska egenskaper och introduktion till aktuell forskning och utveckling inom material- och produktionsmetodområdet.",
+        "Laborativa materialförsök, förstörande och icke förstörande provning och eventuella alternativa material i produktionen.",
+        "Lagar och andra bestämmelser om arbetsmiljö, systematiskt arbetsmiljöarbete samt säkerhetsföreskrifter och deras betydelse för organisation och arbetets genomförande."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen industriella produktionsmetoder 3 omfattar punkterna 2-3 och 6-8 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    1,
+    2,
+    5,
+    6,
+    7
+  ]
+}

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Juridik</name>
+  <englishName>Law</englishName>
+  <description
+  >&lt;p&gt;Ämnet juridik behandlar huvudsakligen civilrätt och offentlig rätt. Civilrätt omfattar rättsområden som är av betydelse för enskilda personer och företag. Offentlig rätt behandlar hur den offentliga makten är fördelad och hur den utövas. Ämnet omfattar även internationell rätt, som belyser Sveriges förhållande till omvärlden och där tonvikten är lagd på Europarätt med EU-rätt.&lt;/p&gt;</description>
+  <code>JUR</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2010-11-03T07:45:41+01:00</createdDate>
+  <modifiedDate>2020-02-19T15:57:19+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Juridik&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet juridik ska syfta till att eleverna utvecklar kunskaper om det svenska rättssystemet och förståelse av hur gällande lagar styr privatlivet, yrkeslivet och affärslivet. Den ska bidra till att eleverna utvecklar förståelse av dagens samhällsliv samt stimulera dem till att verka för ett rättssystem som värnar alla människors lika värde.&lt;/p&gt;&lt;p&gt;Undervisningen ska leda till att eleverna utvecklar förmåga att tillämpa ett vetenskapligt förhållningssätt i arbetet med rättsliga problem. Eleverna ska också ges möjlighet att utveckla förmåga att formulera sig korrekt och precist eftersom det juridiska språket ställer stora krav på exakthet, precision, saklighet och logisk skärpa. Genom att läsa juridisk litteratur och olika rättsfall samt genom att skriva och tala ska eleverna ges möjlighet att använda det juridiska språket. I undervisningen ska eleverna ges möjlighet att arbeta praktiskt med juridiska fallbeskrivningar för att utveckla förmåga att formulera frågeställningar, strukturera och analysera lösningsförslag samt hänvisa till och tolka relevanta rättskällor.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet juridik ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om centrala rättsområden.&lt;/li&gt; &lt;li&gt;Kunskaper om juridiska begrepp samt förmåga att använda dessa.&lt;/li&gt; &lt;li&gt;Kunskaper om enkla och vanligt förekommande juridiska dokument samt förmåga att upprätta sådana.&lt;/li&gt; &lt;li&gt;Förmåga att identifiera, analysera och lösa juridiska problem utifrån fallbeskrivningar samt att tolka och använda relevanta rättsregler.&lt;/li&gt; &lt;li&gt;Förmåga att identifiera och diskutera juridiska frågor i samhället ur rättsfilosofisk och etisk synvinkel.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Affärsjuridik, 100 poäng.&lt;/li&gt; &lt;li&gt;Privatjuridik, 100 poäng.&lt;/li&gt; &lt;li&gt;Rätten och samhället, 100 poäng.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2010:90</skolfsId>
+  <applianceDate>2011-07-01T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Affärsjuridik</name>
+    <englishName>Business law</englishName>
+    <description
+    >&lt;p&gt;Kursen affärsjuridik omfattar punkterna 1–5 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>JURAFF0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Affärsjuridik, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: JURAFF0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Associationsrätt: företagsformens betydelse för verksamheten och intressenterna.&lt;/li&gt; &lt;li&gt;Avtalsrätt: företagsavtal och deras rättsverkan.&lt;/li&gt; &lt;li&gt;Hyresrätt: företagens rättigheter och skyldigheter som hyresgäster.&lt;/li&gt; &lt;li&gt;Arbetsrätt: arbetsgivarens rättigheter och skyldigheter mot arbetstagaren.&lt;/li&gt; &lt;li&gt;Marknadsrätt: marknadsrättsliga och konkurrensrättsliga regler som rör företagens verksamhet.&lt;/li&gt; &lt;li&gt;Köprätt: regler som rör handel mellan näringsidkare.&lt;/li&gt; &lt;li&gt;Immaterialrätt: skyddet för varumärken, patent och andra upphovsrätter.&lt;/li&gt; &lt;li&gt;Kredit- och panträtt samt obeståndsrätt: regler som rör företagens finansiering samt skulder, utmätning och konkurs.&lt;/li&gt; &lt;li&gt;Tvistlösning: olika sätt att lösa affärstvister.&lt;/li&gt; &lt;li&gt;Juridiska begrepp och problemlösning i rättsliga sammanhang.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för &lt;strong&gt;begränsade&lt;/strong&gt; delar av de juridiska områden som rör företag. Eleven redogör också &lt;strong&gt;översiktligt &lt;/strong&gt;för innebörden av juridiska begrepp och använder dessa &lt;strong&gt;med&lt;/strong&gt; &lt;strong&gt;viss säkerhet &lt;/strong&gt;i relevanta sammanhang. Dessutom förklarar eleven &lt;strong&gt;översiktligt&lt;/strong&gt; innebörden av vanligt förekommande affärsjuridiska dokument och upprättar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare och med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat något sådant dokument.&lt;/p&gt;&lt;p&gt;Utifrån &lt;strong&gt;enkla&lt;/strong&gt; fallbeskrivningar löser eleven med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat &lt;strong&gt;givna &lt;/strong&gt;problem inom olika affärsjuridiska områden &lt;strong&gt;med hjälp av given&lt;/strong&gt; rättskälla. Dessutom för eleven &lt;strong&gt;enkla &lt;/strong&gt;resonemang om lagstiftningens effekter och drar &lt;strong&gt;enkla &lt;/strong&gt;slutsatser.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; affärsjuridiska frågor i samhället och för &lt;strong&gt;enkla &lt;/strong&gt;resonemang om dessa frågor ur rättsfilosofisk och etisk synvinkel.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för delar av de juridiska områden som rör företag. Eleven redogör också &lt;strong&gt;utförligt &lt;/strong&gt;för innebörden av juridiska begrepp och använder dessa &lt;strong&gt;med viss säkerhet &lt;/strong&gt;i relevanta sammanhang. Dessutom förklarar eleven &lt;strong&gt;utförligt&lt;/strong&gt; innebörden av vanligt förekommande affärsjuridiska dokument och upprättar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare och med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat något sådant dokument.&lt;/p&gt;&lt;p&gt;Utifrån fallbeskrivningar &lt;strong&gt;identifierar och beskriver eleven&lt;/strong&gt; &lt;strong&gt;utförligt &lt;/strong&gt;problem inom olika affärsjuridiska områden och löser dessa med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat &lt;strong&gt;genom att välja, tolka och tillämpa relevant&lt;/strong&gt; rättskälla. Dessutom &lt;strong&gt;motiverar &lt;/strong&gt;eleven&lt;strong&gt; sitt lösningsförslag med välgrundade argument&lt;/strong&gt;, för &lt;strong&gt;välgrundade &lt;/strong&gt;resonemang om lagstiftningens effekter och drar &lt;strong&gt;välgrundade &lt;/strong&gt;slutsatser.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; affärsjuridiska frågor i samhället och för &lt;strong&gt;välgrundade &lt;/strong&gt;resonemang om dessa frågor ur rättsfilosofisk och etisk synvinkel.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för &lt;strong&gt;omfattande&lt;/strong&gt; delar av de juridiska områden som rör företag. Eleven redogör också &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för innebörden av juridiska begrepp och använder dessa &lt;strong&gt;med säkerhet &lt;/strong&gt;i relevanta sammanhang. Dessutom förklarar eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; innebörden av vanligt förekommande affärsjuridiska dokument och upprättar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare och med &lt;strong&gt;gott &lt;/strong&gt;resultat något sådant dokument.&lt;/p&gt;&lt;p&gt;Utifrån &lt;strong&gt;komplexa&lt;/strong&gt; fallbeskrivningar &lt;strong&gt;identifierar och beskriver eleven&lt;/strong&gt; &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;problem inom olika affärsjuridiska områden och löser dessa med &lt;strong&gt;gott &lt;/strong&gt;resultat &lt;strong&gt;genom att&lt;/strong&gt; &lt;strong&gt;välja, tolka och tillämpa relevant &lt;/strong&gt;rättskälla. Dessutom &lt;strong&gt;motiverar &lt;/strong&gt;eleven&lt;strong&gt; sitt lösningsförslag med välgrundade och nyanserade argument&lt;/strong&gt;, för &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;resonemang om lagstiftningens effekter och drar &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;slutsatser.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; &lt;strong&gt;och nyanserat &lt;/strong&gt;affärsjuridiska frågor i samhället och för &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;resonemang om dessa frågor ur rättsfilosofisk och etisk synvinkel.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Privatjuridik</name>
+    <englishName>Civil law</englishName>
+    <description
+    >&lt;p&gt;Kursen privatjuridik omfattar punkterna 1–5 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.&lt;/p&gt;</description>
+    <code>JURPRI0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Privatjuridik, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: JURPRI0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Konstitutionell rätt samt straffrätt och processrätt. En översikt över de svenska grundlagarna och deras förhållande till EU-rätt och internationell rätt. En översikt över regler som rör brott och straff samt det svenska rättegångsväsendet.&lt;/li&gt; &lt;li&gt;Familjerätt och arvsrätt: regler som rör par- och familjerelationer samt arv, testamente och bodelning.&lt;/li&gt; &lt;li&gt;Avtalsrätt: hur avtal sluts samt deras rättsverkan.&lt;/li&gt; &lt;li&gt;Konsumenträtt och köprätt: regler som rör köp mellan konsument och näringsidkare, konsumentkrediter samt köp mellan privatpersoner.&lt;/li&gt; &lt;li&gt;Fastighetsrätt: regler som rör köp av fast egendom samt hyra och andra nyttjanderätter.&lt;/li&gt; &lt;li&gt;Arbetsrätt: arbetstagarens rättigheter och skyldigheter.&lt;/li&gt; &lt;li&gt;Skadeståndsrätt: regler som rör ersättningsskyldighet för den som orsakat en skada.&lt;/li&gt; &lt;li&gt;Försäkringsrätt: regler som rör försäkringar och hur de kan täcka uppkomna skador.&lt;/li&gt; &lt;li&gt;Obeståndsrätt för fysiska personer: regler som gäller när privatpersoner inte kan betala sina skulder.&lt;/li&gt; &lt;li&gt;Juridiska begrepp och problemlösning i rättsliga sammanhang.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för &lt;strong&gt;begränsade&lt;/strong&gt; delar av de juridiska områden som rör privatpersoner. Eleven redogör också &lt;strong&gt;översiktligt &lt;/strong&gt;för innebörden av juridiska begrepp och använder dem med &lt;strong&gt;viss säkerhet &lt;/strong&gt;i relevanta sammanhang. Dessutom förklarar eleven &lt;strong&gt;översiktligt&lt;/strong&gt; innebörden av vanligt förekommande privatjuridiska dokument och upprättar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare och med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat &lt;strong&gt;något&lt;/strong&gt; sådant dokument.&lt;/p&gt;&lt;p&gt;Utifrån &lt;strong&gt;enkla&lt;/strong&gt; fallbeskrivningar löser eleven med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat &lt;strong&gt;givna &lt;/strong&gt;problem inom olika privatjuridiska områden &lt;strong&gt;med hjälp av&lt;/strong&gt; &lt;strong&gt;given&lt;/strong&gt; rättskälla. Dessutom för eleven &lt;strong&gt;enkla &lt;/strong&gt;resonemang om lagstiftningens effekter och drar &lt;strong&gt;enkla &lt;/strong&gt;slutsatser.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; privatjuridiska frågor i samhället och för &lt;strong&gt;enkla &lt;/strong&gt;resonemang om dessa frågor ur rättsfilosofisk och etisk synvinkel.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för delar av de juridiska områden som rör privatpersoner. Eleven redogör också &lt;strong&gt;utförligt &lt;/strong&gt;för innebörden av juridiska begrepp och använder dem &lt;strong&gt;med viss säkerhet &lt;/strong&gt;i relevanta sammanhang. Dessutom förklarar eleven &lt;strong&gt;utförligt&lt;/strong&gt; innebörden av vanligt förekommande privatjuridiska dokument och upprättar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare och med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat &lt;strong&gt;några&lt;/strong&gt; sådana dokument.&lt;/p&gt;&lt;p&gt;Utifrån fallbeskrivningar &lt;strong&gt;identifierar och beskriver eleven&lt;/strong&gt; &lt;strong&gt;utförligt &lt;/strong&gt;problem inom olika privatjuridiska områden och löser dem med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat &lt;strong&gt;genom att&lt;/strong&gt; &lt;strong&gt;välja, tolka och tillämpa relevant &lt;/strong&gt;rättskälla. Dessutom &lt;strong&gt;motiverar &lt;/strong&gt;eleven&lt;strong&gt; sitt lösningsförslag med välgrundade argument&lt;/strong&gt;, för &lt;strong&gt;välgrundade &lt;/strong&gt;resonemang om lagstiftningens effekter och drar &lt;strong&gt;välgrundade &lt;/strong&gt;slutsatser.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; privatjuridiska frågor i samhället och för &lt;strong&gt;välgrundade &lt;/strong&gt;resonemang om dessa frågor ur rättsfilosofisk och etisk synvinkel.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för &lt;strong&gt;omfattande&lt;/strong&gt; delar av de juridiska områden som rör privatpersoner. Eleven redogör också &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för innebörden av juridiska begrepp och använder dem &lt;strong&gt;med säkerhet &lt;/strong&gt;i relevanta sammanhang. Dessutom förklarar eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; innebörden av vanligt förekommande privatjuridiska dokument och upprättar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare och med &lt;strong&gt;gott &lt;/strong&gt;resultat &lt;strong&gt;några&lt;/strong&gt; sådana dokument.&lt;/p&gt;&lt;p&gt;Utifrån &lt;strong&gt;komplexa&lt;/strong&gt; fallbeskrivningar &lt;strong&gt;identifierar och beskriver eleven&lt;/strong&gt; &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;problem inom olika privatjuridiska områden och löser dem med &lt;strong&gt;gott &lt;/strong&gt;resultat &lt;strong&gt;genom att &lt;/strong&gt;&lt;strong&gt;välja, tolka och tillämpa relevant &lt;/strong&gt;rättskälla. Dessutom &lt;strong&gt;motiverar &lt;/strong&gt;eleven&lt;strong&gt; sitt lösningsförslag med välgrundade och nyanserade argument&lt;/strong&gt;, för &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;resonemang om lagstiftningens effekter och drar &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;slutsatser.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; &lt;strong&gt;och nyanserat &lt;/strong&gt;privatjuridiska frågor i samhället och för &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;resonemang om dessa frågor ur rättsfilosofisk och etisk synvinkel.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Rätten och samhället</name>
+    <englishName>Law and society</englishName>
+    <description
+    >&lt;p&gt; Kursen rätten och samhället omfattar punkterna 1–5 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet. &lt;/p&gt;</description>
+    <code>JURRÄT0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Rätten och samhället, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: JURRÄT0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Konstitutionell rätt: Sveriges grundlagar med särskild betoning på offentlighetsprincipen och skyddet för mänskliga fri- och rättigheter.&lt;/li&gt; &lt;li&gt;Internationell rätt: Europarätt inklusive EU-rätt samt det internationella skyddet för mänskliga rättigheter.&lt;/li&gt; &lt;li&gt;Straffrätt: regler som rör brott och straff samt straffrättsliga ideologier.&lt;/li&gt; &lt;li&gt;Processrätt: regler som rör det svenska rättegångsväsendet och praktiskt processförfarande.&lt;/li&gt; &lt;li&gt;Juridiska begrepp och problemlösning i rättsliga sammanhang.&lt;/li&gt; &lt;li&gt;Sambandet mellan etik och moral i samhället, lagstiftning och tolkning av lagar.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för &lt;strong&gt;begränsade&lt;/strong&gt; delar av konstitutionell rätt, internationell rätt samt straff- och processrätt. Eleven redogör också &lt;strong&gt;översiktligt &lt;/strong&gt;för innebörden av juridiska begrepp och använder dem &lt;strong&gt;med&lt;/strong&gt; &lt;strong&gt;viss säkerhet &lt;/strong&gt;i relevanta sammanhang. Dessutom förklarar eleven &lt;strong&gt;översiktligt&lt;/strong&gt; innebörden av vanligt förekommande processrättsliga dokument och upprättar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare och med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat &lt;strong&gt;något&lt;/strong&gt; sådant dokument.&lt;/p&gt;&lt;p&gt;Inom konstitutionell rätt och internationell rätt samt utifrån &lt;strong&gt;enkla &lt;/strong&gt;fallbeskrivningar inom straff- och processrätt löser eleven med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat &lt;strong&gt;givna &lt;/strong&gt;problem &lt;strong&gt;med hjälp av&lt;/strong&gt; &lt;strong&gt;given&lt;/strong&gt; rättskälla. Dessutom för eleven &lt;strong&gt;enkla &lt;/strong&gt;resonemang om lagstiftningens effekter och drar &lt;strong&gt;enkla &lt;/strong&gt;slutsatser.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; frågor i samhället som rör konstitutionell rätt, internationell rätt eller straff- och processrätt samt för &lt;strong&gt;enkla &lt;/strong&gt;resonemang om dessa frågor ur rättsfilosofisk och etisk synvinkel.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för delar av konstitutionell rätt, internationell rätt samt straff- och processrätt. Eleven redogör också &lt;strong&gt;utförligt &lt;/strong&gt;för innebörden av juridiska begrepp och använder dem &lt;strong&gt;med&lt;/strong&gt;&lt;strong&gt; viss säkerhet &lt;/strong&gt;i relevanta sammanhang. Dessutom förklarar eleven &lt;strong&gt;utförligt &lt;/strong&gt;innebörden av vanligt förekommande processrättsliga dokument och upprättar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare och med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat &lt;strong&gt;några&lt;/strong&gt; sådana dokument.&lt;/p&gt;&lt;p&gt;Inom konstitutionell rätt och internationell rätt samt utifrån fallbeskrivningar inom straff- och processrätt &lt;strong&gt;identifierar och beskriver eleven utförligt &lt;/strong&gt;problem och löser dem med &lt;strong&gt;tillfredsställande &lt;/strong&gt;resultat &lt;strong&gt;genom att&lt;/strong&gt; &lt;strong&gt;välja, tolka och tillämpa relevant&lt;/strong&gt; rättskälla. Dessutom &lt;strong&gt;motiverar &lt;/strong&gt;eleven&lt;strong&gt; sitt lösningsförslag med välgrundade argument&lt;/strong&gt;, för &lt;strong&gt;välgrundade &lt;/strong&gt;resonemang om lagstiftningens effekter och drar &lt;strong&gt;välgrundade &lt;/strong&gt;slutsatser.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt &lt;/strong&gt;frågor i samhället som rör konstitutionell rätt, internationell rätt eller straff- och processrätt samt för &lt;strong&gt;välgrundade &lt;/strong&gt;resonemang om dessa frågor ur rättsfilosofisk och etisk synvinkel.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för &lt;strong&gt;omfattande&lt;/strong&gt; delar av konstitutionell rätt, internationell rätt samt straff- och processrätt. Eleven redogör också &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för innebörden av juridiska begrepp och använder dem &lt;strong&gt;med&lt;/strong&gt;&lt;strong&gt; säkerhet &lt;/strong&gt;i relevanta sammanhang. Dessutom förklarar eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;innebörden av vanligt förekommande processrättsliga dokument och upprättar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare och med &lt;strong&gt;gott &lt;/strong&gt;resultat &lt;strong&gt;några&lt;/strong&gt; sådana dokument.&lt;/p&gt;&lt;p&gt;Inom konstitutionell rätt och internationell rätt samt utifrån &lt;strong&gt;komplexa &lt;/strong&gt;fallbeskrivningar inom straff- och processrätt &lt;strong&gt;identifierar och beskriver eleven utförligt och nyanserat &lt;/strong&gt;problem och löser dem med &lt;strong&gt;gott &lt;/strong&gt;resultat &lt;strong&gt;genom att&lt;/strong&gt; &lt;strong&gt;välja, tolka och tillämpa relevant&lt;/strong&gt; rättskälla. Dessutom &lt;strong&gt;motiverar &lt;/strong&gt;eleven&lt;strong&gt; sitt lösningsförslag med välgrundade och nyanserade argument&lt;/strong&gt;, för &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;resonemang om lagstiftningens effekter och drar &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;slutsatser.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;frågor i samhället som rör konstitutionell rätt, internationell rätt eller straff- och processrätt samt för &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;resonemang om dessa frågor ur rättsfilosofisk och etisk synvinkel.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

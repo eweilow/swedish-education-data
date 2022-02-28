@@ -1,0 +1,85 @@
+{
+  "name": "Trafikövervakning och signalsystem - spårfordon",
+  "code": "TRFTRA0",
+  "focusAreas": {
+    "string": "Kursen omfattar punkterna 1-7 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Uppbyggnad och syftet med trafikövervakningssystem.",
+          "2. Förekommande övervakning och kontrollsystem, till exempel ERTMS och ATC.",
+          "3. Övervakningssystemens komponenter och dess uppbyggnads roll och funktion inom fordon och infrastruktur.",
+          "4. Kommunikationsplattformen hos trafikövervakningssystem.",
+          "5. Loggningssystem för trafikhändelser.",
+          "6. Övervakning och säkerhetssystemens funktion, effektivitet och tillförlitlighet.",
+          "7. Övervakningssystemets betydelse för systemtester och kalibrering av givare.",
+          "8. Applikationsprogram och kretsscheman.",
+          "9. Verktyg och arbetsutrustning.",
+          "10. Scheman, ritningar och övrig dokumentation över komponenter och system."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **översiktligt** för uppbyggnad och funktion hos trafikövervakningssystem för spårfordon, spår och signalsystem samt för den kommunikationsplattform som förvaltar och kontrollerar informationsflöden.",
+        "Vidare redogör eleven **översiktligt** för övervakningssystemets delar och komponenter, applikationsprogram, hur data överförs samt systemets säkerhet och tillförlitlighet.",
+        "Dessutom redogör eleven **översiktligt** för de system som övervakar trafikrörelser."
+      ],
+      [
+        "Eleven planerar och utför **i samråd** med handledare och med **tillfredsställande** resultat underhåll på övervakningssystemets ingående delar i enlighet med instruktioner och säkerhetsföreskrifter.",
+        "Eleven hanterar också **i samråd** med handledare övervakningssystemet **tillfredsställande** enligt regler för in- och utpassage till depå."
+      ],
+      [
+        "I arbetet hanterar eleven **med viss säkerhet** verktyg och teknisk utrustning samt vårdar **med viss säkerhet** dessa i enlighet med instruktioner.",
+        "Eleven gör en **enkel** dokumentation över utfört arbete enligt regler och branschstandard."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för uppbyggnad och funktion hos trafikövervakningssystem för spårfordon, spår och signalsystem samt för den kommunikationsplattform som förvaltar och kontrollerar informationsflöden.",
+        "Vidare redogör eleven **utförligt** för övervakningssystemets delar och komponenter, applikationsprogram, hur data överförs samt systemets säkerhet och tillförlitlighet.",
+        "Dessutom redogör eleven **utförligt** för de system som övervakar trafikrörelser."
+      ],
+      [
+        "Eleven planerar och utför **efter samråd** med handledare underhåll med **tillfredsställande** resultat på övervakningssystemets ingående delar i enlighet med instruktioner och säkerhetsföreskrifter.",
+        "Eleven hanterar också **efter samråd** med handledare övervakningssystemet **tillfredsställande** enligt regler för in- och utpassage till depå."
+      ],
+      [
+        "I arbetet hanterar eleven **med säkerhet** verktyg och teknisk utrustning samt vårdar **med säkerhet** dessa i enlighet med instruktioner.",
+        "Eleven gör en **noggrann** dokumentation över utfört arbete enligt regler och branschstandard."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för uppbyggnad och funktion hos trafikövervakningssystem för spårfordon, spår och signalsystem samt för den kommunikationsplattform som förvaltar och kontrollerar informationsflöden.",
+        "Vidare redogör eleven **utförligt och nyanserat** för övervakningssystemets delar och komponenter, applikationsprogram, hur data överförs samt systemets säkerhet och tillförlitlighet.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för de system som övervakar trafikrörelser."
+      ],
+      [
+        "Eleven planerar och utför **efter samråd** med handledare underhåll med **gott** resultat på övervakningssystemets ingående delar i enlighet med instruktioner och säkerhetsföreskrifter.",
+        "Eleven hanterar också **efter samråd** med handledare övervakningssystemet på ett **gott** sätt enligt regler för in- och utpassage till depå."
+      ],
+      [
+        "I arbetet hanterar eleven **med säkerhet** verktyg och teknisk utrustning samt vårdar **med säkerhet** dessa i enlighet med instruktioner.",
+        "Eleven gör en **noggrann och utförlig** dokumentation över utfört arbete enligt regler och branschstandard."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

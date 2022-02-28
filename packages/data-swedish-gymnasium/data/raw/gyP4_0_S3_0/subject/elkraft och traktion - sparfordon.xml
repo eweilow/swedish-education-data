@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Elkraft och traktion – spårfordon</name>
+  <englishName>Electrical power and traction – rail vehicles</englishName>
+  <description
+  >&lt;p&gt;Ämnet elkraft och traktion – spårfordon behandlar olika typer av elmotorer och deras egenskaper samt olika kraft- och drivsystem i spårfordon. Ämnet behandlar också principer för styrning och utrustning för kraftförsörjning av spårfordons hjälpkraftsystem och traktion.&lt;/p&gt;</description>
+  <code>ELF</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2017-06-27T13:35:40+02:00</createdDate>
+  <modifiedDate>2020-02-19T15:50:59+01:00</modifiedDate>
+  <nameHeading
+  >&lt;h2&gt;Elkraft och traktion – spårfordon&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet elkraft och traktion – spårfordon ska syfta till att eleverna utvecklar kunskaper om funktionen hos systemen för elkraftsförsörjning och elmotordrivsystem.&lt;/p&gt;&lt;p&gt;Undervisningen ska leda till att eleverna utvecklar förståelse av och kunskap om principerna för funktion och uppbyggnad hos huvudtransformatorer i rullande material samt kunskap om hjälpkraftförsörjning och varvtalsstyrning av traktionsmotorer. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga i att hantera verktyg och utrustning för att enligt standarder kunna genomföra förebyggande och avhjälpande arbeten på de ingående systemen. Undervisningen ska dessutom ge eleverna möjlighet att utveckla förståelse för vikten av kommunikation och samarbete som krävs inom yrkesområdet.&lt;/p&gt;&lt;p&gt;I undervisningen ska eleverna ges möjlighet att utveckla färdighet i att arbeta i grupp, kommunicera med etablerat fackspråk samt arbeta i enlighet med säkerhetsbestämmelser för utrustning och arbetsmiljö.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet elkraft och traktion – spårfordon ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om uppbyggnad, funktion och styrning av högspänningssystem för elkraft och elmotordrivsystem i spårfordon.&lt;/li&gt; &lt;li&gt;Kunskaper om principer för överföring av kraft och signaler inom högspänningssystem och elmotordrivsystem i spårfordon.&lt;/li&gt; &lt;li&gt;Förmåga att läsa system-, komponent- och verktygsdokumentation samt att dokumentera utfört arbete.&lt;/li&gt; &lt;li&gt;Förmåga att enligt instruktioner och nycklingssystem planera och genomföra förebyggande och enklare avhjälpande underhåll i högspänningssystem för elkraft och elmotordrivsystem i spårfordon.&lt;/li&gt; &lt;li&gt;Förmåga att installera och driftsätta trefasmotorer.&lt;/li&gt; &lt;li&gt;Kunskaper om utrustning och manualer avsedda för funktionstester, samt förmåga att använda och vårda verktyg och utrustning korrekt samt förståelse av betydelsen av god ordning på arbetsplatsen.&lt;/li&gt; &lt;li&gt;Kunskap om och förmåga att arbeta ergonomiskt, tillämpa säkerhetsföreskrifter samt göra riskbedömning för att genomföra arbete tryggt för sig själv och andra.&lt;/li&gt; &lt;li&gt;Förmåga att samarbeta och kommunicera med andra och färdigheter i att använda fackspråk.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Elkraft och traktion – spårfordon, 150 poäng, som bygger på kursen spårfordonselektronik.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2017:39</skolfsId>
+  <applianceDate>2017-06-08T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Elkraft och traktion – spårfordon</name>
+    <englishName>Electrical power and traction – rail vehicles</englishName>
+    <description
+    >&lt;p&gt;Kursen elkraft och traktion – spårfordon omfattar punkterna 1–8 under rubriken ämnets syfte. &lt;/p&gt;</description>
+    <code>ELFELK0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Elkraft och traktion – spårfordon, 150 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: ELFELK0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;ul&gt; &lt;li&gt;Högspänningssystem och huvudtransformatorers uppbyggnad.&lt;/li&gt; &lt;li&gt;Olika elmotorers uppbyggnad och egenskaper.&lt;/li&gt; &lt;li&gt;Asynkronmotorer och generatordrift vid översynkrona varvtal (fyrkvadrantsdrifter).&lt;/li&gt; &lt;li&gt;Återledningsdon och sugtransformatorer.&lt;/li&gt; &lt;li&gt;Sexpunktslikriktning.&lt;/li&gt; &lt;li&gt;Kommutering.&lt;/li&gt; &lt;li&gt;Traktionsomriktare och dynamisk broms.&lt;/li&gt; &lt;li&gt;Batteri- och hjälpkraftssystem.&lt;/li&gt; &lt;li&gt;Fiberoptisk signalöverföring vid kommutering.&lt;/li&gt; &lt;li&gt;Systemdokumentation, till exempel ritningar, scheman, manualer och dokumentation av genomfört arbete.&lt;/li&gt; &lt;li&gt;Installation och driftsättning av trefasmotorer.&lt;/li&gt; &lt;li&gt;Mätmetoder och effektberäkning på hjälpkraftssystem, traktionsomriktare och traktionsmotor.&lt;/li&gt; &lt;li&gt;Funktionsprovning av omriktare, hög- och lågspänningstester.&lt;/li&gt; &lt;li&gt;Ström- och spänningsmätning i högspänningssystem.&lt;/li&gt; &lt;li&gt;Nycklingssystem för elkraftsystem, fordon och verkstad.&lt;/li&gt; &lt;li&gt;Underhåll av högspänningssystem.&lt;/li&gt; &lt;li&gt;Enklare felsökning och felavhjälpning, samt driftsättning och funktionstester.&lt;/li&gt; &lt;li&gt;Specialverktyg och verkstadsfaciliteter.&lt;/li&gt; &lt;li&gt;Användning och skötsel av verktyg.&lt;/li&gt; &lt;li&gt;Säkerhetsföreskrifter och riskanalys.&lt;/li&gt; &lt;li&gt;Arbetslagets styrka och svagheter.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>150</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för uppbyggnad och funktion hos samt styrning av elkraft och elmotordrivsystem. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för principer för överföring av kraft och signaler inom högspänningssystem och elmotordrivsystem. Eleven planerar och utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare alla ingående arbetsuppgifter &lt;strong&gt;med viss säkerhet &lt;/strong&gt;och med ett resultat som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller fastställda kvalitets- och miljökrav.&lt;/p&gt;&lt;p&gt;I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;system-, komponent- och verktygsdokumentation. Eleven dokumenterar &lt;strong&gt;tillfredsställande&lt;/strong&gt; genomfört arbete enligt branschens standarder. Vidare redogör eleven &lt;strong&gt;översiktligt&lt;/strong&gt; för utrustning och manualer avsedda för funktionstester. Eleven hanterar och vårdar material, utrustning, verktyg och maskiner med &lt;strong&gt;visst &lt;/strong&gt;&lt;strong&gt;handlag&lt;/strong&gt; enligt instruktioner och håller &lt;strong&gt;tillfredsställande&lt;/strong&gt; ordning på arbetsplatsen och motiverar behovet av ordning &lt;strong&gt;tillfredsställande&lt;/strong&gt;. Dessutom vårdar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;utrustning, maskiner och verktyg enligt instruktioner.&lt;/p&gt;&lt;p&gt;Eleven arbetar ergonomiskt, utför en &lt;strong&gt;tillfredsställande&lt;/strong&gt; riskanalys samt genomför arbetet på ett &lt;strong&gt;tillfredsställande&lt;/strong&gt; sätt, säkert för sig själv och andra. Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt;, utifrån exempel, för vikten av samarbete för en fungerande och funktionell verksamhet. Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för standarder och begrepp inom området och använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk i sina redogörelser och resonemang.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för uppbyggnad och funktion hos samt styrning av elkraft och elmotordrivsystem. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för principer för överföring av kraft och signaler inom högspänningssystem och elmotordrivsystem. Eleven planerar och utför&lt;strong&gt; efter samråd &lt;/strong&gt;med handledare alla ingående arbetsuppgifter &lt;strong&gt;med säkerhet&lt;/strong&gt; och med ett resultat som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller fastställda kvalitets- och miljökrav.&lt;/p&gt;&lt;p&gt;I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;system-, komponent- och verktygsdokumentation. Eleven dokumenterar &lt;strong&gt;tillfredsställande&lt;/strong&gt; genomfört arbete enligt branschens standarder. Vidare redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för utrustning och manualer avsedda för funktionstester. Eleven hanterar och vårdar material, utrustning, verktyg och maskiner med &lt;strong&gt;gott &lt;/strong&gt;handlag enligt instruktioner och håller &lt;strong&gt;tillfredsställande&lt;/strong&gt; ordning på arbetsplatsen och motiverar behovet av ordning &lt;strong&gt;tillfredsställande&lt;/strong&gt;. Dessutom vårdar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;utrustning, maskiner och verktyg enligt instruktioner.&lt;/p&gt;&lt;p&gt;Eleven arbetar ergonomiskt, utför en &lt;strong&gt;tillfredsställande&lt;/strong&gt; riskanalys samt genomför arbetet på ett &lt;strong&gt;tillfredsställande&lt;/strong&gt; sätt, säkert för sig själv och andra. Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt;, utifrån exempel, för vikten av samarbete för en fungerande och funktionell verksamhet. Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för standarder och begrepp inom området och använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; korrekt fackspråk i sina redogörelser och resonemang.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för uppbyggnad och funktion hos samt styrning av elkraft och elmotordrivsystem. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för principer för överföring av kraft och signaler inom högspänningssystem och elmotordrivsystem. Eleven planerar och utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare alla ingående arbetsuppgifter &lt;strong&gt;med säkerhet&lt;/strong&gt; och med ett resultat som på ett &lt;strong&gt;gott &lt;/strong&gt;sätt uppfyller fastställda kvalitets- och miljökrav.&lt;/p&gt;&lt;p&gt;I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;system-, komponent- och verktygsdokumentation. Eleven dokumenterar &lt;strong&gt;noggrant och utförligt&lt;/strong&gt; genomfört arbete enligt branschens standarder. Vidare redogör eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för utrustning och manualer avsedda för funktionstester. Eleven hanterar och vårdar material, utrustning, verktyg och maskiner med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag enligt instruktioner och håller &lt;strong&gt;god &lt;/strong&gt;ordning på arbetsplatsen och motiverar behovet av ordning &lt;strong&gt;noggrant och utförligt&lt;/strong&gt;. Dessutom vårdar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;utrustning, maskiner och verktyg enligt instruktioner.&lt;/p&gt;&lt;p&gt;Eleven arbetar ergonomiskt, utför en &lt;strong&gt;god &lt;/strong&gt;riskanalys samt genomför arbetet på ett &lt;strong&gt;gott&lt;/strong&gt; sätt, säkert för sig själv och andra. Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt;, utifrån exempel, för vikten av samarbete för en fungerande och funktionell verksamhet. Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för standarder och begrepp inom området och använder &lt;strong&gt;med säkerhet&lt;/strong&gt; korrekt fackspråk i sina redogörelser och resonemang.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

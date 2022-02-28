@@ -1,0 +1,102 @@
+{
+  "name": "Programmering 2",
+  "code": "PRRPRR02",
+  "focusAreas": {
+    "string": "Kursen programmering 2 omfattar punkterna 2-10 under rubriken Ämnets syfte, med särskild betoning på punkt 8.",
+    "entries": [
+      "2-10"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Grunderna för klasserna, objekt, egenskaper och metoder.",
+          "2. Arv, inkapsling och polymorfism.",
+          "3. Skapande av klasser och objekt i ett objektorienterat programspråk utifrån tidigare analys och design.",
+          "4. Användning av klasser och att genom arv förändra beteende hos klasser som ingår i egna och andras klasshierarkier och standardbibliotek.",
+          "5. Generiska klasser och metoder.",
+          "6. Variablers och metoders synlighet och livslängd.",
+          "7. Stark och svag samt statisk och dynamisk typning.",
+          "8. Identifierares synlighet och livslängd.",
+          "9. Det valda programspråkets kontrollstrukturer.",
+          "10. Undantagshantering.",
+          "11. Analys, nedbrytning och modellering av programmeringstekniska problem med lämpligt analysverktyg, till exempel användningsfall.",
+          "12. Design av lämplig lösning ur föregående analys med lämpligt verktyg och metoder som klassdiagram.",
+          "13. Skapande av användarvänliga gränssnitt.",
+          "14. Skrivning och läsning av lagrad data.",
+          "15. Utveckling av program som nyttjar kommunikation över internet."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven formulerar och planerar **i samråd** med handledare programmeringsuppgifter och väljer **med viss säkerhet** lämpliga programspråk."
+      ],
+      [
+        "Eleven analyserar och modellerar **enklare** uppgifter **i samråd** med handledare.",
+        "Eleven designar **med viss säkerhet** utifrån den analyserade uppgiften en **enkel** lösning och dokumenterar denna med ett **enkelt** klassdiagram.",
+        "Eleven väljer **med viss säkerhet** ett uttryckssätt och ett gränssnitt som är anpassat för att på ett **tillfredsställande** sätt interagera med den avsedda användaren.",
+        "Eleven skapar någon **enkel** lösning där programmet kommunicerar över internet."
+      ],
+      [
+        "Eleven skapar **med viss säkerhet** enklare program med klasser där arv används i **begränsad** utsträckning.",
+        "I sin programmering skriver eleven med konsekvent kodningsstil och tydlig namngivning en korrekt, strukturerad och **enkelt** kommenterad källkod med **tillfredsställande** resultat.",
+        "Eleven använder **med viss säkerhet någon** generisk klass.",
+        "Produkten är av **tillfredsställande** kvalitet i ett eller flera programspråk och innehåller objektorienterad programmering som är stabil och robust i program av **enkel** karaktär."
+      ],
+      [
+        "Eleven anpassar **med viss säkerhet** sin planering av programutvecklingsprocessen och utför felsökning av **enkla** syntaxfel.",
+        "Innan programutvecklingen avslutas utvärderar eleven med **enkla** omdömen programmets prestanda och ändamålsenlighet i **någon** situation och i **något** sammanhang.",
+        "Eleven kommunicerar om programutvecklingen och dess utvärdering och använder då **med viss säkerhet** datavetenskapliga begrepp."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven formulerar och planerar **efter samråd** med handledare programmeringsuppgifter och väljer **med viss säkerhet** lämpliga programspråk."
+      ],
+      [
+        "Eleven analyserar och modellerar uppgifter **efter samråd** med handledare.",
+        "Eleven designar **med viss säkerhet** utifrån den analyserade uppgiften en lösning och dokumenterar denna med ett klassdiagram.",
+        "Eleven väljer **med viss säkerhet** ett uttryckssätt och ett gränssnitt som är anpassat för att på ett **tillfredsställande** sätt interagera med den avsedda användaren.",
+        "Eleven skapar någon lösning där programmet kommunicerar över internet."
+      ],
+      [
+        "Eleven skapar **med viss säkerhet** enklare program med klasser där arv används.",
+        "I sin programmering skriver eleven med konsekvent kodningsstil och tydlig namngivning en korrekt, strukturerad och **noggrant** kommenterad källkod med **tillfredsställande** resultat.",
+        "Eleven använder **med viss säkerhet några** generiska klasser.",
+        "Produkten är av **tillfredsställande** kvalitet i ett eller flera programspråk och innehåller objektorienterad programmering som är stabil och robust."
+      ],
+      [
+        "Eleven anpassar **med viss säkerhet** sin planering av programutvecklingsprocessen och utför **på ett systematiskt sätt** felsökning av syntaxfel, **körtidsfel och programmeringslogiska fel**.",
+        "Innan programutvecklingen avslutas utvärderar eleven med **nyanserade** omdömen programmets prestanda och ändamålsenlighet i **några** situationer och sammanhang.",
+        "Eleven kommunicerar om programutvecklingen och dess utvärdering och använder då **med viss säkerhet** datavetenskapliga begrepp."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven formulerar och planerar **efter samråd** med handledare programmeringsuppgifter och väljer **med säkerhet** lämpliga programspråk."
+      ],
+      [
+        "Eleven analyserar och modellerar **komplexa** uppgifter **efter samråd** med handledare.",
+        "Eleven designar **med säkerhet** utifrån den analyserade uppgiften en **komplex** lösning och dokumenterar denna med ett **avancerat** klassdiagram.",
+        "Eleven väljer **med säkerhet** ett uttryckssätt och ett gränssnitt som är anpassat för att på ett **gott** sätt interagera med den avsedda användaren.",
+        "Eleven skapar någon **genomarbetad** lösning där programmet kommunicerar över internet."
+      ],
+      [
+        "Eleven skapar **med säkerhet** enklare program med klasser där arv används i **omfattande** utsträckning.",
+        "I sin programmering skriver eleven med konsekvent kodningsstil och tydlig namngivning en korrekt, strukturerad och **noggrant och utförligt** kommenterad källkod med **gott** resultat.",
+        "Eleven använder **med säkerhet flera** generiska klasser.",
+        "Produkten är av **god** kvalitet i ett eller flera programspråk och innehåller objektorienterad programmering som är stabil och robust i program av **komplex** karaktär."
+      ],
+      [
+        "Eleven anpassar **med säkerhet** sin planering av programutvecklingsprocessen, **anpassar polymorfi** och utför **på ett systematiskt och effektivt sätt** felsökning av syntaxfel, **körtidsfel och programmeringslogiska fel**.",
+        "Innan programutvecklingen avslutas utvärderar eleven med **nyanserade** omdömen **och ger förslag på förbättringar** av programmets prestanda och ändamålsenlighet i **flera** situationer och sammanhang.",
+        "Eleven kommunicerar om programutvecklingen och dess utvärdering och använder då **med säkerhet** datavetenskapliga begrepp."
+      ]
+    ]
+  }
+}

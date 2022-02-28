@@ -1,0 +1,90 @@
+{
+  "name": "Processteknik - energi 2",
+  "code": "PRCPRO32",
+  "focusAreas": {
+    "string": "Kursen Processteknik - energi 2 omfattar punkterna 1-9 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-9"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Huvudprocessen i tryckvattenreaktorer (PWR), kokarreaktorer (BWR) och värmekraftverk.",
+          "2. Reaktorfysik eller förbränningsteknik.",
+          "3. Processreglering med tillämpning av kretsprocesser på kraft- och värmealstrande maskiner.",
+          "4. Manuella och automatiska åtgärder vid normal och störd drift inom vald process.",
+          "5. Drift och underhåll av kraft- och värmeverk, till exempel rondering, kontrollrums- och revisionsarbete.",
+          "6. Standarder och föreskrifter inom området kärnkraft eller värmekraft.",
+          "7. Processens påverkan på miljön. Bränslets cykel från råvara till avfall.",
+          "8. Åtgärder för att minimera miljöpåverkan.",
+          "9. Laborativa övningar med huvudprocessen och reglerteknik.",
+          "10. Termodynamik, hydrodynamik och kretsprocesser.",
+          "11. Beräkning av verkningsgrad.",
+          "12. Användning av Mollier-, pV- och T-s-diagram inom vald kraftprocess samt jämförelse med carnotprocessen.",
+          "13. Bas- och reglerkraftens roll i elnätet under normala driftförhållanden och störningar.",
+          "14. Tolkning av anläggningsteknisk dokumentation, till exempel process- och instrumentscheman och manualer.",
+          "15. Systematiserade dokumentationsmetoder och kvalitetsteknik."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **övergripande** för uppbyggnad och funktion av reaktorer eller värmekraftverk samt gör kopplingar till naturvetenskapliga principer.",
+        "Eleven resonerar **övergripande** kring processtekniska begrepp, modeller, teorier och arbetsmetoder samt för olika processers inverkan på miljön."
+      ],
+      [
+        "Eleven planerar **efter samråd** med handledare vanligt förekommande arbetsuppgifter i en anläggning utifrån gällande säkerhetsföreskrifter.",
+        "Eleven genomför **med säkerhet** vanligt förekommande kraftprocessberäkningar och ger utifrån dem **välgrundade** förslag för att optimera driften samt genomför **efter samråd** med handledare laborationer och simulatorövningar.",
+        "I arbetet samverkar och kommunicerar eleven **med säkerhet** åtaganden och lösningar med andra utifrån de säkerhetsföreskrifter och miljökrav som finns inom området."
+      ],
+      [
+        "Eleven genomför **med säkerhet** provtagningar och tolkar resultatet.",
+        "Dessutom utför eleven **efter samråd** med handledare vanligt förekommande konfigureringar och optimeringar samt genomför **med säkerhet** styrning och avläsning av tekniska komponenter på processteknisk utrustning."
+      ],
+      [
+        "Eleven läser och tolkar **med säkerhet** scheman över instrument och processer samt tolkar och upprättar **med säkerhet** anläggningsteknisk dokumentation på ett systematiskt och kvalitetssäkert sätt."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för uppbyggnad och funktion av reaktorer eller värmekraftverk samt gör kopplingar till naturvetenskapliga principer.",
+        "Eleven resonerar **utförligt** kring processtekniska begrepp, modeller, teorier och arbetsmetoder och för olika processers inverkan på miljön."
+      ],
+      [
+        "Eleven planerar **självständigt efter samråd** med handledare vanligt förekommande arbetsuppgifter i en anläggning utifrån gällande säkerhetsföreskrifter.",
+        "Eleven genomför **med god säkerhet** vanligt förekommande kraftprocessberäkningar och ger utifrån dem **välgrundade och nyanserade** förslag för att optimera driften samt genomför **självständigt efter samråd** med handledare laborationer och simulatorövningar.",
+        "I arbetet samverkar och kommunicerar eleven **med god säkerhet** åtaganden och lösningar med andra utifrån de säkerhetsföreskrifter och miljökrav som finns inom området."
+      ],
+      [
+        "Eleven genomför **med god säkerhet** provtagningar och tolkar resultatet.",
+        "Dessutom utför eleven **självständigt efter samråd** med handledare vanligt förekommande konfigureringar och optimeringar samt genomför **med god säkerhet** styrning och avläsning av tekniska komponenter på processteknisk utrustning."
+      ],
+      [
+        "Eleven läser och tolkar **med god säkerhet** scheman över instrument och processer samt tolkar och upprättar **med god säkerhet** anläggningsteknisk dokumentation på ett systematiskt och kvalitetssäkert sätt."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för uppbyggnad och funktion av reaktorer eller värmekraftverk samt gör kopplingar till naturvetenskapliga principer.",
+        "Eleven resonerar **utförligt och nyanserat** kring processtekniska begrepp, modeller, teorier och arbetsmetoder och för olika processers inverkan på miljön."
+      ],
+      [
+        "Eleven planerar **självständigt** vanligt förekommande arbetsuppgifter i en anläggning utifrån gällande säkerhetsföreskrifter.",
+        "Eleven genomför **med mycket god säkerhet** vanligt förekommande kraftprocessberäkningar och ger utifrån dem **välgrundade och nyanserade** förslag för att optimera driften samt genomför **självständigt** laborationer och simulatorövningar.",
+        "I arbetet samverkar och kommunicerar eleven **med mycket god säkerhet** åtaganden och lösningar med andra utifrån de säkerhetsföreskrifter och miljökrav som finns inom området."
+      ],
+      [
+        "Eleven genomför **med mycket god säkerhet** provtagningar och tolkar resultatet.",
+        "Dessutom utför eleven **självständigt** vanligt förekommande konfigureringar och optimeringar samt genomför **med mycket god säkerhet** styrning och avläsning av tekniska komponenter på processteknisk utrustning."
+      ],
+      [
+        "Eleven läser och tolkar **med mycket god säkerhet** scheman över instrument och processer samt tolkar och upprättar **med mycket god säkerhet** anläggningsteknisk dokumentation på ett systematiskt och kvalitetssäkert sätt."
+      ]
+    ]
+  }
+}

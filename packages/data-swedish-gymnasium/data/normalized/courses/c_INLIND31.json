@@ -1,0 +1,85 @@
+{
+  "name": "Industriell design 1",
+  "code": "INLIND31",
+  "focusAreas": {
+    "string": "Kursen industriell design 1 omfattar punkterna 1-5 och 8 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-5",
+      "8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Industriell designs roll - historiskt, samhälleligt, tekniskt och ekonomiskt.",
+          "2. Den industriella designprocessens olika delar från problemformulering, funktionsanalys, kravspecifikation, faktainsamling, idégenerering, skiss, modellarbete och analys till presentation och utvärdering.",
+          "3. Planering, strukturering och genomförande av designprojekt.",
+          "4. Professionell projektarbetsmetodik, till exempel projektplan, loggbok, val av metod och redovisningsform.",
+          "5. Designens påverkan på konstruktion av produkter, till exempel estetik, hållfasthet, funktion och kvalitetskrav.",
+          "6. Normer, standarder och bestämmelser som gäller konstruktion, till exempel miljöhänsyn, ergonomi och säkerhet.",
+          "7. Analoga och virtuella gestaltningssätt för två- och tredimensionell visualisering av idéer, till exempel ritning, skiss och modeller.",
+          "8. Metoder för beredning av tillverkningsritningar.",
+          "9. Dokumentation, redovisning och presentation av eget arbete och resultat med termer och begrepp som är relevanta.",
+          "10. Tekniker för framtagande av modeller och prototyper.",
+          "11. Grundläggande materialegenskaper samt materialets betydelse för produkters kvalitet, tillverkning och destruktion, alternativt återvinning och för materialet relevant färg- och formlära.",
+          "12. Introduktion i produktionstekniska förutsättningar och industriella produktionsmetoder."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **övergripande** för industriell designs betydelse ur flera perspektiv såväl historiskt som i nutid.",
+        "Eleven resonerar **övergripande** om den industriella designprocessen och de kriterier som industriell design ska ta hänsyn till."
+      ],
+      [
+        "Eleven genomför **efter samråd** en industriell designprocess, arbetar **med säkerhet** teambaserat i industriella projekt med kreativa och problemlösande arbetsmetoder samt utvärderar **med säkerhet** den egna processen och hur den påverkar projektets slutresultat."
+      ],
+      [
+        "Eleven formulerar **efter samråd** med handledare designkriterier och föreslår **välgrundade** lösningar och industriellt anpassade designförslag på **bekanta** problemställningar som eleven därefter analyserar, värderar och prioriterar med **välgrundade** omdömen."
+      ],
+      [
+        "Eleven skapar och visualiserar **med säkerhet** några förslag manuellt och digitalt samt presenterar dem **med säkerhet** muntligt och skriftligt för olika målgrupper.",
+        null,
+        "Eleven väljer **efter samråd** med handledare material och industriell produktionsmetod för den produkt som ska tillverkas."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för industriell designs betydelse ur flera perspektiv såväl historiskt som i nutid.",
+        "Eleven resonerar **övergripande** om den industriella designprocessen och de kriterier som industriell design ska ta hänsyn till."
+      ],
+      [
+        "Eleven genomför **självständigt efter samråd** en industriell designprocess, arbetar **med god säkerhet** teambaserat i industriella projekt med kreativa och problemlösande arbetsmetoder och utvärderar **med god säkerhet** den egna processen och hur den påverkar projektets slutresultat."
+      ],
+      [
+        "Eleven formulerar **självständigt efter samråd** med handledare designkriterier och föreslår **välgrundade och nyanserade** lösningar och industriellt anpassade designförslag på **i huvudsak bekanta, men även obekanta**, problemställningar som eleven därefter analyserar, värderar och prioriterar med **välgrundade** omdömen."
+      ],
+      [
+        "Eleven skapar och visualiserar **med god säkerhet** några förslag manuellt och digitalt samt presenterar dem **med god säkerhet** muntligt och skriftligt för olika målgrupper.",
+        null,
+        "Eleven väljer **självständigt efter samråd** med handledare material och industriell produktionsmetod för den produkt som ska tillverkas."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för industriell designs betydelse ur flera perspektiv såväl historiskt som i nutid.",
+        "Eleven resonerar **utförligt och nyanserat** om den industriella designprocessen och de kriterier som industriell design ska ta hänsyn."
+      ],
+      [
+        "Eleven genomför **självständigt** en industriell designprocess, arbetar **med mycket god säkerhet** teambaserat i industriella projekt med kreativa och problemlösande arbetsmetoder och utvärderar **med mycket god säkerhet** den egna processen och hur den påverkar projektets slutresultat."
+      ],
+      [
+        "Eleven formulerar **självständigt** designkriterier och föreslår **välgrundade och nyanserade** lösningar och industriellt anpassade designförslag på **både bekanta och obekanta** problemställningar som eleven därefter analyserar, värderar och prioriterar med **välgrundade och nyanserade** omdömen."
+      ],
+      [
+        "Eleven skapar och visualiserar **med mycket god säkerhet** några förslag manuellt och digitalt samt presenterar dem **med mycket god säkerhet** muntligt och skriftligt för olika målgrupper.",
+        "**Eleven ger även förslag på hur arbetet kan förbättras**.",
+        "Eleven väljer **självständigt** material och industriell produktionsmetod för den produkt som ska tillverkas."
+      ]
+    ]
+  }
+}

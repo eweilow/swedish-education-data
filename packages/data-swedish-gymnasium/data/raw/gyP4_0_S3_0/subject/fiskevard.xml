@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Fiskevård</name>
+  <englishName>Fishery conservation</englishName>
+  <description
+  >&lt;p&gt;Ämnet fiskevård behandlar bevarandet av skyddsvärda fiskarter samt strävan efter att få så hög och jämn avkastning av våra fiskresurser som möjligt på ett långsiktigt hållbart sätt. I ämnet behandlas hur olika typer av vatten fungerar kemiskt, biologiskt, hydrologiskt och fysikaliskt samt hur olika verksamheter påverkar vattenmiljön. Ämnet behandlar också de åtgärder som kan genomföras för att förbättra vattenmiljön och därmed fiskens livsmiljö. Fiskeribiologiska undersökningsmetoder samt tolkning och utvärdering av biologiska, kemiska, hydrologiska och fysikaliska data ingår också i ämnet.&lt;/p&gt;</description>
+  <code>FIK</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2011-06-16T10:39:12+02:00</createdDate>
+  <modifiedDate>2020-02-19T15:51:22+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Fiskevård&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet fiskevård ska syfta till att eleverna utvecklar kunskaper för yrkesarbete inom fiskevård. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att utföra fiskeribiologiska undersökningar och inventering av sjöar och vattendrag. Undervisningen ska bidra till att eleverna utvecklar förmåga att göra kemiska, fysikaliska och biologiska undersökningar samt att tolka och utvärdera insamlade data. Eleverna ska också ges möjlighet att planera, genomföra och utvärdera fiskevårdande åtgärder. Undervisningen ska bidra till att eleverna utvecklar förståelse av hur fisk fungerar i ett ekosystem samt av hur olika mänskliga verksamheter påverkar förutsättningar för olika fiskpopulationer.&lt;/p&gt;&lt;p&gt;Praktiskt arbete, fältstudier och ett undersökande arbetssätt ska ingå i undervisningen. Eleverna ska ges möjlighet att genomföra undersökningar i fält samt att sammanställa och utvärdera insamlade data. Genom praktiskt arbete med fiskevård ska eleverna ges möjlighet att utveckla förmåga att lösa problem och att arbeta med teknisk utrustning på ett ergonomiskt och säkert sätt.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet fiskevård ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om svenska fiskarter samt om olika fiskarters miljökrav, naturliga dynamik och utbredning.&lt;/li&gt; &lt;li&gt;Kunskaper om fiskevårdande metoder för att bevara och utnyttja våra fiskpopulationer på ett långsiktigt hållbart sätt.&lt;/li&gt; &lt;li&gt;Kunskaper om verksamheter som har en negativ påverkan på våra fiskbestånd.&lt;/li&gt; &lt;li&gt;Förmåga att utföra fiskevårdande arbetsuppgifter samt att planera, genomföra och utvärdera fiskevårdande åtgärder.&lt;/li&gt; &lt;li&gt;Kunskaper om lagar och andra bestämmelser som styr utnyttjandet och bevarandet av våra fiskresurser.&lt;/li&gt; &lt;li&gt;Förmåga att planera, genomföra och utvärdera fiskeribiologiska, vattenkemiska, hydrologiska och fysikaliska undersökningar.&lt;/li&gt; &lt;li&gt;Förmåga att bedöma ett vatten utifrån fysikaliska, kemiska och biologiska data.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Fiskevård 1, 100 poäng, som bygger på biologi i vattenmiljöer 1.&lt;/li&gt; &lt;li&gt;Fiskevård 2, 200 poäng, som bygger på fiskevård 1.&lt;/li&gt; &lt;li&gt;Fiskevård 3, 100 poäng, som bygger på fiskevård 2.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2011:51</skolfsId>
+  <applianceDate>2011-05-06T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Fiskevård 1</name>
+    <englishName>Fishery conservation 1</englishName>
+    <description
+    >&lt;p&gt;Kursen fiskevård 1 omfattar punkterna 1–7 under rubriken Ämnets syfte, med särskild betoning på punkterna 1 och 5.&lt;/p&gt;</description>
+    <code>FIKFIS01</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Fiskevård 1, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: FIKFIS01&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Identifiering, beskrivning och namngivning av vanliga svenska fiskarter.&lt;/li&gt; &lt;li&gt;Fiskars miljökrav, naturliga dynamik och utbredning.&lt;/li&gt; &lt;li&gt;Fiskevårdande metoder, till exempel utsättning av fisk, fiske, biotopförbättringar samt restaurering av fiskvägar, kantzoner och vattenkvaliteten.&lt;/li&gt; &lt;li&gt;Verksamheter som påverkar fiskbestånden negativt.&lt;/li&gt; &lt;li&gt;Intressemotsättningar i samband med fiskevård, till exempel vattenkraft, kulturminnen och naturvård.&lt;/li&gt; &lt;li&gt;Handhavande och skötsel av utrustning.&lt;/li&gt; &lt;li&gt;Ergonomi, arbetsmiljö och säkerhet.&lt;/li&gt; &lt;li&gt;Lagar och andra bestämmelser, till exempel fiske- och fiskevårdslagstiftning och miljölagstiftning.&lt;/li&gt; &lt;li&gt;Fiskeribiologiska undersökningar i fält.&lt;/li&gt; &lt;li&gt;Provtagning samt analys av biologiska, fysikaliska, hydrologiska och kemiska parametrar.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven identifierar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;och namnger &lt;strong&gt;några&lt;/strong&gt; vanliga svenska fiskarter. Eleven redogör också&lt;strong&gt; översiktligt &lt;/strong&gt;för &lt;strong&gt;några&lt;/strong&gt; svenska fiskarters miljökrav, dynamik och utbredning samt för olika fiskevårdande metoder och hur de påverkar fiskbeståndet. Dessutom redogör eleven &lt;strong&gt;översiktligt&lt;/strong&gt; för verksamheter som kan påverka fiskbestånden negativt. I redogörelsen förklarar eleven &lt;strong&gt;enkla &lt;/strong&gt;samband mellan fiskevårdande metoder och fiskbeståndens utveckling. &lt;/p&gt;&lt;p&gt;Eleven läser och tolkar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare planer för fiskevårdande åtgärder. Dessutom följer eleven instruktioner och utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare fiskevårdande arbetsuppgifter. I arbetet väljer och använder eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare relevant teknisk utrustning. Dessutom löser eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare de problem som uppstår. Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön. Eleven redogör också &lt;strong&gt;översiktligt&lt;/strong&gt; för och arbetar i enlighet med lagar och andra bestämmelser inom fiske och fiskevård.&lt;/p&gt;&lt;p&gt;I samband med fältstudier, provtagningar och analyser värderar eleven vatten med&lt;strong&gt; enkla &lt;/strong&gt;omdömen utifrån insamlade data. Eleven redogör också &lt;strong&gt;översiktligt&lt;/strong&gt; för hur analys av biologiska, fysikaliska, hydrologiska och kemiska undersökningar används inom fiskevård.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven identifierar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;och namnger &lt;strong&gt;några&lt;/strong&gt; vanliga svenska fiskarter. Eleven redogör också&lt;strong&gt; utförligt &lt;/strong&gt;för &lt;strong&gt;några&lt;/strong&gt; svenska fiskarters miljökrav, dynamik och utbredning samt för olika fiskevårdande metoder och hur de påverkar fiskbeståndet. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för verksamheter som kan påverka fiskbestånden negativt. I redogörelsen förklarar eleven samband mellan fiskevårdande metoder och fiskbeståndens utveckling. &lt;/p&gt;&lt;p&gt;Eleven läser och tolkar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare planer för fiskevårdande åtgärder. Dessutom följer eleven instruktioner och utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare fiskevårdande arbetsuppgifter. I arbetet väljer och använder eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare relevant teknisk utrustning. Dessutom löser eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare de problem som uppstår. Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön. Eleven redogör också &lt;strong&gt;utförligt &lt;/strong&gt;för och arbetar i enlighet med lagar och andra bestämmelser inom fiske och fiskevård.&lt;/p&gt;&lt;p&gt;I samband med fältstudier, provtagningar och analyser värderar eleven vatten med &lt;strong&gt;enkla &lt;/strong&gt;omdömen utifrån insamlade data. Eleven redogör också &lt;strong&gt;utförligt &lt;/strong&gt;för hur analys av biologiska, fysikaliska, hydrologiska och kemiska undersökningar används inom fiskevård.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven identifierar &lt;strong&gt;med säkerhet &lt;/strong&gt;och namnger &lt;strong&gt;flera&lt;/strong&gt; vanliga svenska fiskarter. Eleven redogör också&lt;strong&gt; utförligt och nyanserat &lt;/strong&gt;för &lt;strong&gt;flera&lt;/strong&gt; svenska fiskarters miljökrav, dynamik och utbredning samt för olika fiskevårdande metoder och hur de påverkar fiskbeståndet. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för verksamheter som kan påverka fiskbestånden negativt. I redogörelsen förklarar eleven &lt;strong&gt;komplexa &lt;/strong&gt;samband mellan fiskevårdande metoder och fiskbeståndens utveckling. &lt;/p&gt;&lt;p&gt;Eleven läser och tolkar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare planer för fiskevårdande åtgärder. Dessutom följer eleven instruktioner och utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare fiskevårdande arbetsuppgifter. I arbetet väljer och använder eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare relevant teknisk utrustning. Dessutom löser eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare de problem som uppstår. Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön. Eleven redogör också &lt;strong&gt;utförligt &lt;/strong&gt;för och arbetar i enlighet med lagar och andra bestämmelser inom fiske och fiskevård.&lt;/p&gt;&lt;p&gt;I samband med fältstudier, provtagningar och analyser värderar eleven vatten med&lt;strong&gt; nyanserade &lt;/strong&gt;omdömen utifrån insamlade data. Eleven redogör också &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för hur analys av biologiska, fysikaliska, hydrologiska och kemiska undersökningar används inom fiskevård.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Fiskevård 2</name>
+    <englishName>Fishery conservation 2</englishName>
+    <description
+    >&lt;p&gt;Kursen fiskevård 2 omfattar punkterna 1–7 under rubriken Ämnets syfte, med särskild betoning på förmåga att planera, genomföra och utvärdera fiskevårdande åtgärder.&lt;/p&gt;</description>
+    <code>FIKFIS02</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Fiskevård 2, 200 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: FIKFIS02&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Inventering av fiskarter i sjöar och vattendrag.&lt;/li&gt; &lt;li&gt;Olika arters miljökrav, dynamik och utbredning.&lt;/li&gt; &lt;li&gt;Planering, genomförande och uppföljning av fiskevårdande åtgärder.&lt;/li&gt; &lt;li&gt;Fiskevårdande system och metoder samt deras påverkan på fiskbeståndens utveckling.&lt;/li&gt; &lt;li&gt;Återskapande och bevarande av naturliga miljöer för fiskbestånd.&lt;/li&gt; &lt;li&gt;Användning och skötsel av teknisk utrustning.&lt;/li&gt; &lt;li&gt;Ergonomi, arbetsmiljö och säkerhet.&lt;/li&gt; &lt;li&gt;Lagar och andra bestämmelser, till exempel fiske- och fiskevårdslagstiftning och miljölagstiftning.&lt;/li&gt; &lt;li&gt;Planering, genomförande och uppföljning av biologiska, vattenkemiska, hydrologiska och fysikaliska undersökningar.&lt;/li&gt; &lt;li&gt;Sammanställning av biologiska, kemiska, hydrologiska och fysikaliska data.&lt;/li&gt; &lt;li&gt;Dokumentation och redovisning av genomförda undersökningar.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>200</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven identifierar &lt;strong&gt;med viss säkerhet&lt;/strong&gt;, i samband med inventering av sjöar och vattendrag, samt namnger svenska fiskarter. Eleven redogör också&lt;strong&gt; översiktligt &lt;/strong&gt;för svenska fiskarters miljökrav, dynamik och utbredning samt för olika fiskevårdande metoder och hur de påverkar fiskbeståndet. Dessutom redogör eleven &lt;strong&gt;översiktligt&lt;/strong&gt; för verksamheter som kan påverka fiskbestånden negativt. I redogörelsen förklarar eleven &lt;strong&gt;enkla &lt;/strong&gt;samband mellan fiskevårdande metoder och fiskbeståndens utveckling. &lt;/p&gt;&lt;p&gt;Eleven planerar, genomför och utvärderar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare fiskevårdande åtgärder. I arbetet väljer och använder eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare relevant teknisk utrustning. Dessutom löser eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare de problem som uppstår. Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön. Eleven redogör också &lt;strong&gt;översiktligt&lt;/strong&gt; för och arbetar i enlighet med lagar och andra bestämmelser inom fiske och fiskevård.&lt;/p&gt;&lt;p&gt;Eleven planerar, genomför och utvärderar &lt;strong&gt;i samråd&lt;/strong&gt; med handledare fiskeribiologiska undersökningar. I samband med undersökningarna värderar eleven vatten med&lt;strong&gt; enkla &lt;/strong&gt;omdömen utifrån insamlade data. Eleven gör också&lt;strong&gt; enkla&lt;/strong&gt; sammanställningar och dokumentationer med utgångspunkt från insamlat material och insamlade data. &lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven identifierar &lt;strong&gt;med viss säkerhet&lt;/strong&gt;, i samband med inventering av sjöar och vattendrag, samt namnger svenska fiskarter. Eleven redogör också&lt;strong&gt; utförligt &lt;/strong&gt;för svenska fiskarters miljökrav, dynamik och utbredning samt för olika fiskevårdande metoder och hur de påverkar fiskbeståndet. Dessutom redogör eleven &lt;strong&gt;utförligt &lt;/strong&gt;för verksamheter som kan påverka fiskbestånden negativt. I redogörelsen förklarar eleven samband mellan fiskevårdande metoder och fiskbeståndens utveckling. &lt;/p&gt;&lt;p&gt;Eleven planerar, genomför och utvärderar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare fiskevårdande åtgärder. I arbetet väljer och använder eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare relevant teknisk utrustning. Dessutom löser eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare de problem som uppstår. Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön. Eleven redogör också &lt;strong&gt;utförligt &lt;/strong&gt;för och arbetar i enlighet med lagar och andra bestämmelser inom fiske och fiskevård.&lt;/p&gt;&lt;p&gt;Eleven planerar, genomför och utvärderar &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare fiskeribiologiska undersökningar. I samband med undersökningarna värderar eleven vatten med&lt;strong&gt; enkla &lt;/strong&gt;omdömen utifrån insamlade data. Eleven gör också&lt;strong&gt; noggranna&lt;/strong&gt; sammanställningar och dokumentationer med utgångspunkt från insamlat material och insamlade data. &lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven identifierar &lt;strong&gt;med säkerhet&lt;/strong&gt;, i samband med inventering av sjöar och vattendrag, samt namnger svenska fiskarter. Eleven redogör också&lt;strong&gt; utförligt och nyanserat &lt;/strong&gt;för svenska fiskarters miljökrav, dynamik och utbredning samt för olika fiskevårdande metoder och hur de påverkar fiskbeståndet. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för verksamheter som kan påverka fiskbestånden negativt. I redogörelsen förklarar eleven &lt;strong&gt;komplexa &lt;/strong&gt;samband mellan fiskevårdande metoder och fiskbeståndens utveckling. &lt;/p&gt;&lt;p&gt;Eleven planerar, genomför och utvärderar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare fiskevårdande åtgärder. I arbetet väljer och använder eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare relevant teknisk utrustning. Dessutom löser eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare de problem som uppstår. Eleven arbetar säkert och ergonomiskt samt tar hänsyn till miljön. Eleven redogör också &lt;strong&gt;utförligt &lt;/strong&gt;för och arbetar i enlighet med lagar och andra bestämmelser inom fiske och fiskevård.&lt;/p&gt;&lt;p&gt;Eleven planerar, genomför och utvärderar &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare fiskeribiologiska undersökningar. I samband med undersökningarna värderar eleven vatten med&lt;strong&gt; nyanserade &lt;/strong&gt;omdömen utifrån insamlade data. Eleven gör också&lt;strong&gt; noggranna och utförliga&lt;/strong&gt; sammanställningar och dokumentationer med utgångspunkt från insamlat material och insamlade data. &lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Fiskevård 3</name>
+    <englishName>Fishery conservation 3</englishName>
+    <description
+    >&lt;p&gt;Kursen fiskevård 3 omfattar punkterna 1–7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>FIKFIS03</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Fiskevård 3, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: FIKFIS03&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Planering, organisation, genomförande och utvärdering av ett mindre fiskevårdsprojekt.&lt;/li&gt; &lt;li&gt;Informationssökning och upprättande av en projektplan.&lt;/li&gt; &lt;li&gt;Etiska frågeställningar i samband med fiskevård.&lt;/li&gt; &lt;li&gt;Ekonomiska beräkningar och kalkyler.&lt;/li&gt; &lt;li&gt;Ergonomi, arbetsmiljö och säkerhet.&lt;/li&gt; &lt;li&gt;Lagar och andra bestämmelser som rör till exempel försöksdjur, kulturminnen, dammar och fiskerätt.&lt;/li&gt; &lt;li&gt;Val, användning och skötsel av teknisk utrustning.&lt;/li&gt; &lt;li&gt;Utförande av praktiska arbetsuppgifter inom ett fiskevårdsprojekt.&lt;/li&gt; &lt;li&gt;Tolkning och utvärdering av biologiska, kemiska, hydrologiska och fysikaliska data.&lt;/li&gt; &lt;li&gt;Dokumentation och redovisning av genomfört projekt.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven upprättar &lt;strong&gt;i samråd&lt;/strong&gt; med handledare en plan för ett mindre fiskevårdsprojekt. Planen innehåller en &lt;strong&gt;enkel&lt;/strong&gt; ekonomisk kalkyl med utgångspunkt i fältstudier och inventeringar. Eleven bedömer &lt;strong&gt;i samråd &lt;/strong&gt;med handledare när och hur arbetsuppgifterna ska genomföras med tanke på förväntat resultat och miljöhänsyn. Eleven organiserar, planerar och genomför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare sitt fiskevårdsprojekt. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt;. I arbetet löser eleven &lt;strong&gt;i samråd&lt;/strong&gt; med handledare de problem som uppstår.&lt;/p&gt;&lt;p&gt;Eleven arbetar säkert, ergonomiskt och etiskt samt tar hänsyn till miljön. Eleven redogör också &lt;strong&gt;översiktligt &lt;/strong&gt;för och arbetar i enlighet med lagar och andra bestämmelser som rör försöksdjur, kulturminnen, dammar och fiskerätt.&lt;/p&gt;&lt;p&gt;I samband med fältstudier tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; och värderar med &lt;strong&gt;enkla&lt;/strong&gt; omdömen data från biologiska, kemiska, hydrologiska och fysikaliska undersökningar. Eleven redogör också &lt;strong&gt;översiktligt&lt;/strong&gt; för hur resultatet från undersökningarna kan användas i fiskevårdsprojektet.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven upprättar &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare en plan för ett mindre fiskevårdsprojekt. Planen innehåller en ekonomisk kalkyl med utgångspunkt i fältstudier och inventeringar. Eleven bedömer &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare när och hur arbetsuppgifterna ska genomföras med tanke på förväntat resultat och miljöhänsyn. Eleven organiserar, planerar och genomför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt fiskevårdsprojekt. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt;. I arbetet löser eleven &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare de problem som uppstår.&lt;/p&gt;&lt;p&gt;Eleven arbetar säkert, ergonomiskt och etiskt samt tar hänsyn till miljön. Eleven redogör också &lt;strong&gt;utförligt &lt;/strong&gt;för och arbetar i enlighet med lagar och andra bestämmelser som rör försöksdjur, kulturminnen, dammar och fiskerätt.&lt;/p&gt;&lt;p&gt;I samband med fältstudier tolkar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; och värderar med &lt;strong&gt;enkla&lt;/strong&gt; omdömen data från biologiska, kemiska, hydrologiska och fysikaliska undersökningar. Eleven redogör också &lt;strong&gt;utförligt &lt;/strong&gt;för hur resultatet från undersökningarna kan användas i fiskevårdsprojektet.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven upprättar &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare en plan för ett mindre fiskevårdsprojekt. Planen innehåller en &lt;strong&gt;avancerad &lt;/strong&gt;ekonomisk kalkyl med utgångspunkt i fältstudier och inventeringar. Eleven bedömer &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare när och hur arbetsuppgifterna ska genomföras med tanke på förväntat resultat och miljöhänsyn. Eleven organiserar, planerar och genomför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt fiskevårdsprojekt. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt;. I arbetet löser eleven &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare de problem som uppstår.&lt;/p&gt;&lt;p&gt;Eleven arbetar säkert, ergonomiskt och etiskt samt tar hänsyn till miljön. Eleven redogör också &lt;strong&gt;utförligt &lt;/strong&gt;för och arbetar i enlighet med lagar och andra bestämmelser som rör försöksdjur, kulturminnen, dammar och fiskerätt.&lt;/p&gt;&lt;p&gt;I samband med fältstudier tolkar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; och värderar med &lt;strong&gt;nyanserade&lt;/strong&gt; omdömen data från biologiska, kemiska, hydrologiska och fysikaliska undersökningar. Eleven redogör också &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för hur resultatet från undersökningarna kan användas i fiskevårdsprojektet.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

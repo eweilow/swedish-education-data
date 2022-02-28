@@ -1,0 +1,78 @@
+{
+  "subject": "DAC",
+  "title": "Radiokommunikation till sjöss",
+  "code": "DACRAD0",
+  "points": 50,
+  "criteria": {
+    "A": [
+      [
+        "Eleven utför <strong>efter samråd</strong> med handledare uppgifter i samband med radiokommunikation och använder <strong>med säkerhet</strong> radioutrustning.",
+        "Resultatet av elevens arbete är <strong>gott</strong>."
+      ],
+      [
+        "Eleven kommunicerar och använder <strong>med säkerhet</strong> termer och begrepp som är relevanta för området."
+      ],
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> regler och metoder för radioteknik till sjöss samt den radio- och kommunikationsutrustning som används på fartyg.",
+        "Dessutom beskriver eleven <strong>utförligt och nyanserat</strong> GMDSS-systemet samt sjöräddningens organisation."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven utför <strong>efter samråd</strong> med handledare uppgifter i samband med radiokommunikation och använder <strong>med viss säkerhet</strong> radioutrustning.",
+        "Resultatet av elevens arbete är <strong>tillfredsställande</strong>."
+      ],
+      [
+        "Eleven kommunicerar och använder <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området."
+      ],
+      [
+        "Eleven beskriver <strong>utförligt</strong> regler och metoder för radioteknik till sjöss samt den radio- och kommunikationsutrustning som används på fartyg.",
+        "Dessutom beskriver eleven <strong>utförligt</strong> GMDSS-systemet samt sjöräddningens organisation."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven utför <strong>i samråd</strong> med handledare uppgifter i samband med radiokommunikation och använder <strong>med viss säkerhet</strong> radioutrustning.",
+        "Resultatet av elevens arbete är <strong>tillfredsställande</strong>."
+      ],
+      [
+        "Eleven kommunicerar och använder <strong>med viss säkerhet</strong> termer och begrepp som är relevanta för området."
+      ],
+      [
+        "Eleven beskriver <strong>översiktligt</strong> regler och metoder för radioteknik till sjöss samt den radio- och kommunikationsutrustning som används på fartyg.",
+        "Dessutom beskriver eleven <strong>översiktligt</strong> GMDSS-systemet samt sjöräddningens organisation."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Globalt marint nöd- och säkerhetssystem (GMDSS).",
+        "Radioteknik.",
+        "Grundläggande regler och metoder för radiotrafik: avgifter, digital selective calling (DSC), nöd-, il- och varningstrafik, navigational text messages(NAVTEX), emergency position indicating radio beacon (EPIRB) och search and rescue transponder (SART) samt handburna VHF-stationer.",
+        "Strömförsörjning.",
+        "Falsklarm i GMDSS.",
+        "Sjöräddning.",
+        "Satellitkommunikation.",
+        "Automatic Identification System (AIS)."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen radiokommunikation till sjöss omfattar punkterna 1 och 5-7 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    4,
+    5,
+    6
+  ]
+}

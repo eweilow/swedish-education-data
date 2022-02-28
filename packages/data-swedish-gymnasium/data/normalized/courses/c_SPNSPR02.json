@@ -1,0 +1,102 @@
+{
+  "name": "Sprinklerteknik 2",
+  "code": "SPNSPR02",
+  "focusAreas": {
+    "string": "Kursen sprinklerteknik 2 omfattar punkterna 1-7 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Vattenförsörjning för sprinkleranläggningar.",
+          "2. El och larmfunktioner i sprinkleranläggningar.",
+          "3. Gränsdragning mot andra teknikområden.",
+          "4. Regelverk som styr installation av sprinkler, till exempel BBR och Europanormer.",
+          "5. Ritningar och dokumentation av installation och genomförda arbeten.",
+          "6. Montering och placering vid installation av vanligt förekommande sprinklerutrustning.",
+          "7. Felsökning, service- och underhållsarbete.",
+          "8. Kontroll och provning.",
+          "9. Täthetsprovning.",
+          "10. Dokumentation enligt arbetsbeskrivning.",
+          "11. Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen.",
+          "12. Ergonomiskt riktigt arbetssätt."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** uppbyggnad och funktion av olika sprinklersystem.",
+        "Dessutom redogör eleven **översiktligt** för de miljö- och säkerhetskrav samt de brandskyddsregler som gäller sprinkleranläggningar.",
+        "Eleven beskriver **översiktligt** vilka komponenter, material och metoder som används vid sammanfogning, samt vilka standarder och myndighetskrav som gäller.",
+        "Eleven redogör **översiktligt** för olika medier i sprinklersystem samt för deras användningsområden, miljöpåverkan och driftegenskaper."
+      ],
+      [
+        "Eleven planerar och organiserar **i samråd** med handledare arbetsplatsen och sitt arbete.",
+        "I planeringen och utförandet väljer eleven **med viss säkerhet** någon vanligt förekommande arbetsmetod och teknik, utifrån lagar, andra bestämmelser och fastställda kvalitetskrav.",
+        "Dessutom använder eleven **med viss säkerhet** verktyg och maskiner samt följer föreskrifter och anvisningar för dem.",
+        "Eleven utför **i samråd** med handledare arbetet utifrån ritningar och andra gällande handlingar.",
+        "Eleven utför **i samråd** med handledare enklare reparationer, service och underhåll på både äldre och nyare system och installationer."
+      ],
+      [
+        "Eleven värderar också med **enkla** omdömen om arbetet uppfyller fastställda kvalitetskrav.",
+        "Dessutom gör eleven en **enkel** dokumentation av utförda åtgärder.",
+        "Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** uppbyggnad och funktion av olika sprinklersystem.",
+        "Dessutom redogör eleven **utförligt** för de miljö- och säkerhetskrav samt de brandskyddsregler som gäller sprinkleranläggningar.",
+        "Eleven beskriver **utförligt** vilka komponenter, material och metoder som används vid sammanfogning, samt vilka standarder och myndighetskrav som gäller.",
+        "Eleven redogör **utförligt** för olika medier i sprinklersystem samt för deras användningsområden, miljöpåverkan och driftegenskaper."
+      ],
+      [
+        "Eleven planerar och organiserar **efter samråd** med handledare arbetsplatsen och sitt arbete.",
+        "I planeringen och utförandet väljer eleven **med viss säkerhet** någon vanligt förekommande arbetsmetod och teknik, utifrån lagar, andra bestämmelser och fastställda kvalitetskrav.",
+        "Dessutom använder eleven **med viss säkerhet** verktyg och maskiner samt följer föreskrifter och anvisningar för dem.",
+        "Eleven utför **efter samråd** med handledare arbetet utifrån ritningar och andra gällande handlingar.",
+        "Eleven utför **efter samråd** med handledare enklare reparationer, service och underhåll på både äldre och nyare system och installationer."
+      ],
+      [
+        "Eleven värderar också med **välgrundade** omdömen om arbetet uppfyller fastställda kvalitetskrav.",
+        "Dessutom gör eleven en **noggrann** dokumentation av utförda åtgärder.",
+        "Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** uppbyggnad och funktion av olika sprinklersystem.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för de miljö- och säkerhetskrav samt de brandskyddsregler som gäller sprinkleranläggningar.",
+        "Eleven beskriver **utförligt och nyanserat** vilka komponenter, material och metoder som används vid sammanfogning, samt vilka standarder och myndighetskrav som gäller.",
+        "Eleven redogör **utförligt och nyanserat** för olika medier i sprinklersystem samt för deras användningsområden, miljöpåverkan och driftegenskaper."
+      ],
+      [
+        "Eleven planerar och organiserar **efter samråd** med handledare arbetsplatsen och sitt arbete.",
+        "I planeringen och utförandet väljer eleven **med säkerhet** någon vanligt förekommande arbetsmetod och teknik, utifrån lagar, andra bestämmelser och fastställda kvalitetskrav.",
+        "Dessutom använder eleven **med säkerhet** verktyg och maskiner samt följer föreskrifter och anvisningar för dem.",
+        "Eleven utför **efter samråd** med handledare arbetet utifrån ritningar och andra gällande handlingar.",
+        "Eleven utför **efter samråd** med handledare enklare reparationer, service och underhåll på både äldre och nyare system och installationer."
+      ],
+      [
+        "Eleven värderar också med **nyanserade** omdömen om arbetet uppfyller fastställda kvalitetskrav **samt ger förslag på hur arbetet kan förbättras**.",
+        "Dessutom gör eleven en **noggrann och utförlig** dokumentation av utförda åtgärder.",
+        "Eleven använder skyddsutrustning, följer skyddsföreskrifter för sin egen och andras säkerhet samt arbetar ergonomiskt."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

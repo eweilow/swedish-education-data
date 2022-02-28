@@ -1,0 +1,113 @@
+{
+  "name": "Akutsjukvård",
+  "code": "SJUAKU0",
+  "focusAreas": {
+    "string": "Kursen akutsjukvård omfattar punkterna 1 och 3-9 under rubriken Ämnets syfte.",
+    "entries": [
+      "1",
+      "3-9"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Vård- och omsorgsåtgärder samt medicinska åtgärder vid akuta och andra sjukdomar.",
+          "2. Vård och omsorg före, under och efter operation.",
+          "3. Smärta samt farmakologisk och annan smärtbehandling.",
+          "4. Människors reaktioner i kris och hur de kan hanteras inom vården.",
+          "5. Etiska frågeställningar i samband med akuta och andra sjukdomar, till exempel prioritering av patienter.",
+          "6. Medicintekniska uppgifter som, enligt lagar och andra bestämmelser, inte kräver formell kompetens, till exempel blodprovtagning och sårvård.",
+          "7. Medicinteknisk och annan utrustning.",
+          "8. Betydelsen av bemötande av, samt kommunikation och samarbete med, människor i krissituationer.",
+          "9. Rehabilitering, habilitering och egenvård.",
+          "10. System och rutiner för rapportering och dokumentation av gjorda åtgärder."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** vård- och omsorgsåtgärder samt medicinska åtgärder vid akuta och andra sjukdomar.",
+        "Eleven redogör också **översiktligt** för människans reaktioner vid ohälsa och i krissituationer.",
+        "Dessutom diskuterar eleven **översiktligt** etiska frågeställningar av betydelse för människor som är drabbade av akuta och andra sjukdomar samt hur sjukvården hanterar sådana frågeställningar."
+      ],
+      [
+        "Eleven planerar och utför **i samråd** med handledare egna arbetsinsatser.",
+        "Dessutom utför eleven **i samråd med handledare** vård- och omsorgsuppgifter och medicintekniska uppgifter vid akuta och andra sjukdomar.",
+        "Arbetet utförs med ett **tillfredsställande** resultat.",
+        null,
+        "I arbetet uppmärksammar och rapporterar eleven **i samråd** med handledare symtom och förändringar i människors hälsotillstånd.",
+        "Eleven utför arbetet utifrån lagar och andra bestämmelser.",
+        "Dessutom använder eleven **i samråd** med handledare teknisk utrustning utifrån säkerhetsföreskrifter."
+      ],
+      [
+        "Eleven bemöter, kommunicerar och samarbetar **med viss säkerhet** med andra i **bekanta** situationer.",
+        "Dessutom inspirerar och motiverar eleven **med viss säkerhet** patienter till rehabilitering eller habilitering samt egenvård."
+      ],
+      [
+        "När arbetet är utfört utvärderar eleven med **enkla** omdömen sitt arbete och resultat.",
+        "Dessutom rapporterar och dokumenterar eleven **i samråd** med handledaresitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** vård- och omsorgsåtgärder samt medicinska åtgärder vid akuta och andra sjukdomar.",
+        "Eleven redogör också **utförligt** för människans reaktioner vid ohälsa och i krissituationer.",
+        "Dessutom diskuterar eleven **utförligt** etiska frågeställningar av betydelse för människor som är drabbade av akuta och andra sjukdomar samt hur sjukvården hanterar sådana frågeställningar."
+      ],
+      [
+        "Eleven planerar och utför **efter samråd** med handledare egna arbetsinsatser.",
+        "Dessutom utför eleven **efter samråd** med handledare vård- och omsorgsuppgifter och medicintekniska uppgifter vid akuta och andra sjukdomar.",
+        "Arbetet utförs med ett **tillfredsställande** resultat.",
+        null,
+        "I arbetet uppmärksammar och rapporterar eleven **efter samråd** med handledare symtom och förändringar i människors hälsotillstånd.",
+        "Eleven utför arbetet utifrån lagar och andra bestämmelser.",
+        "Dessutom använder eleven **efter samråd** med handledare teknisk utrustning utifrån säkerhetsföreskrifter."
+      ],
+      [
+        "Eleven bemöter, kommunicerar och samarbetar **med viss säkerhet** med andra i **nya** situationer.",
+        "Dessutom inspirerar och motiverar eleven **med viss säkerhet** patienter till rehabilitering eller habilitering samt egenvård."
+      ],
+      [
+        "När arbetet är utfört utvärderar eleven med **nyanserade** omdömen sitt arbete och resultat.",
+        "Dessutom rapporterar och dokumenterar eleven **efter samråd** med handledare sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** vård- och omsorgsåtgärder samt medicinska åtgärder vid akuta och andra sjukdomar.",
+        "Eleven redogör också **utförligt och nyanserat** för människans reaktioner vid ohälsa och i krissituationer.",
+        "Dessutom diskuterar eleven **utförligt och nyanserat** etiska frågeställningar av betydelse för människor som är drabbade av akuta och andra sjukdomar samt hur sjukvården hanterar sådana frågeställningar."
+      ],
+      [
+        "Eleven planerar och utför **efter samråd** med handledare egna arbetsinsatser.",
+        "Dessutom utför eleven **efter samråd** med handledare vård- och omsorgsuppgifter och medicintekniska uppgifter vid akuta och andra sjukdomar.",
+        "Arbetet utförs med ett **gott** resultat.",
+        "**Vid behov anpassar eleven sitt arbete till ändrade förutsättningar**.",
+        "I arbetet uppmärksammar och rapporterar eleven **efter samråd** med handledare symtom och förändringar i människors hälsotillstånd.",
+        "Eleven utför arbetet utifrån lagar och andra bestämmelser.",
+        "Dessutom använder eleven **efter samråd** med handledare teknisk utrustning utifrån säkerhetsföreskrifter."
+      ],
+      [
+        "Eleven bemöter, kommunicerar och samarbetar **med säkerhet** med andra i **nya** situationer **samt anpassar vid behov sitt bemötande, sin kommunikation och sitt samarbete till ändrade förutsättningar**.",
+        "Dessutom inspirerar och motiverar eleven **med säkerhet** patienter till rehabilitering eller habilitering samt egenvård."
+      ],
+      [
+        "När arbetet är utfört utvärderar eleven med **nyanserade** omdömen sitt arbete och resultat **samt ger förslag på hur arbetet kan förbättras**.",
+        "Dessutom rapporterar och dokumenterar eleven **efter samråd** med handledare sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

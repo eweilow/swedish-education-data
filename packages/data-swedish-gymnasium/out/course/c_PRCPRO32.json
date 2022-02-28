@@ -1,0 +1,96 @@
+{
+  "subject": "PRC",
+  "title": "Processteknik - energi 2",
+  "code": "PRCPRO32",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad och funktion av reaktorer eller värmekraftverk samt gör kopplingar till naturvetenskapliga principer.",
+        "Eleven resonerar <strong>utförligt och nyanserat</strong> kring processtekniska begrepp, modeller, teorier och arbetsmetoder och för olika processers inverkan på miljön."
+      ],
+      [
+        "Eleven planerar <strong>självständigt</strong> vanligt förekommande arbetsuppgifter i en anläggning utifrån gällande säkerhetsföreskrifter.",
+        "Eleven genomför <strong>med mycket god säkerhet</strong> vanligt förekommande kraftprocessberäkningar och ger utifrån dem <strong>välgrundade och nyanserade</strong> förslag för att optimera driften samt genomför <strong>självständigt</strong> laborationer och simulatorövningar.",
+        "I arbetet samverkar och kommunicerar eleven <strong>med mycket god säkerhet</strong> åtaganden och lösningar med andra utifrån de säkerhetsföreskrifter och miljökrav som finns inom området."
+      ],
+      [
+        "Eleven genomför <strong>med mycket god säkerhet</strong> provtagningar och tolkar resultatet.",
+        "Dessutom utför eleven <strong>självständigt</strong> vanligt förekommande konfigureringar och optimeringar samt genomför <strong>med mycket god säkerhet</strong> styrning och avläsning av tekniska komponenter på processteknisk utrustning."
+      ],
+      [
+        "Eleven läser och tolkar <strong>med mycket god säkerhet</strong> scheman över instrument och processer samt tolkar och upprättar <strong>med mycket god säkerhet</strong> anläggningsteknisk dokumentation på ett systematiskt och kvalitetssäkert sätt."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör <strong>utförligt</strong> för uppbyggnad och funktion av reaktorer eller värmekraftverk samt gör kopplingar till naturvetenskapliga principer.",
+        "Eleven resonerar <strong>utförligt</strong> kring processtekniska begrepp, modeller, teorier och arbetsmetoder och för olika processers inverkan på miljön."
+      ],
+      [
+        "Eleven planerar <strong>självständigt efter samråd</strong> med handledare vanligt förekommande arbetsuppgifter i en anläggning utifrån gällande säkerhetsföreskrifter.",
+        "Eleven genomför <strong>med god säkerhet</strong> vanligt förekommande kraftprocessberäkningar och ger utifrån dem <strong>välgrundade och nyanserade</strong> förslag för att optimera driften samt genomför <strong>självständigt efter samråd</strong> med handledare laborationer och simulatorövningar.",
+        "I arbetet samverkar och kommunicerar eleven <strong>med god säkerhet</strong> åtaganden och lösningar med andra utifrån de säkerhetsföreskrifter och miljökrav som finns inom området."
+      ],
+      [
+        "Eleven genomför <strong>med god säkerhet</strong> provtagningar och tolkar resultatet.",
+        "Dessutom utför eleven <strong>självständigt efter samråd</strong> med handledare vanligt förekommande konfigureringar och optimeringar samt genomför <strong>med god säkerhet</strong> styrning och avläsning av tekniska komponenter på processteknisk utrustning."
+      ],
+      [
+        "Eleven läser och tolkar <strong>med god säkerhet</strong> scheman över instrument och processer samt tolkar och upprättar <strong>med god säkerhet</strong> anläggningsteknisk dokumentation på ett systematiskt och kvalitetssäkert sätt."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven redogör <strong>övergripande</strong> för uppbyggnad och funktion av reaktorer eller värmekraftverk samt gör kopplingar till naturvetenskapliga principer.",
+        "Eleven resonerar <strong>övergripande</strong> kring processtekniska begrepp, modeller, teorier och arbetsmetoder samt för olika processers inverkan på miljön."
+      ],
+      [
+        "Eleven planerar <strong>efter samråd</strong> med handledare vanligt förekommande arbetsuppgifter i en anläggning utifrån gällande säkerhetsföreskrifter.",
+        "Eleven genomför <strong>med säkerhet</strong> vanligt förekommande kraftprocessberäkningar och ger utifrån dem <strong>välgrundade</strong> förslag för att optimera driften samt genomför <strong>efter samråd</strong> med handledare laborationer och simulatorövningar.",
+        "I arbetet samverkar och kommunicerar eleven <strong>med säkerhet</strong> åtaganden och lösningar med andra utifrån de säkerhetsföreskrifter och miljökrav som finns inom området."
+      ],
+      [
+        "Eleven genomför <strong>med säkerhet</strong> provtagningar och tolkar resultatet.",
+        "Dessutom utför eleven <strong>efter samråd</strong> med handledare vanligt förekommande konfigureringar och optimeringar samt genomför <strong>med säkerhet</strong> styrning och avläsning av tekniska komponenter på processteknisk utrustning."
+      ],
+      [
+        "Eleven läser och tolkar <strong>med säkerhet</strong> scheman över instrument och processer samt tolkar och upprättar <strong>med säkerhet</strong> anläggningsteknisk dokumentation på ett systematiskt och kvalitetssäkert sätt."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Huvudprocessen i tryckvattenreaktorer (PWR), kokarreaktorer (BWR) och värmekraftverk.",
+        "Reaktorfysik eller förbränningsteknik.",
+        "Processreglering med tillämpning av kretsprocesser på kraft- och värmealstrande maskiner.",
+        "Manuella och automatiska åtgärder vid normal och störd drift inom vald process.",
+        "Drift och underhåll av kraft- och värmeverk, till exempel rondering, kontrollrums- och revisionsarbete.",
+        "Standarder och föreskrifter inom området kärnkraft eller värmekraft.",
+        "Processens påverkan på miljön. Bränslets cykel från råvara till avfall.",
+        "Åtgärder för att minimera miljöpåverkan.",
+        "Laborativa övningar med huvudprocessen och reglerteknik.",
+        "Termodynamik, hydrodynamik och kretsprocesser.",
+        "Beräkning av verkningsgrad.",
+        "Användning av Mollier-, pV- och T-s-diagram inom vald kraftprocess samt jämförelse med carnotprocessen.",
+        "Bas- och reglerkraftens roll i elnätet under normala driftförhållanden och störningar.",
+        "Tolkning av anläggningsteknisk dokumentation, till exempel process- och instrumentscheman och manualer.",
+        "Systematiserade dokumentationsmetoder och kvalitetsteknik."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen Processteknik - energi 2 omfattar punkterna 1-9 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "name": "Fysik 3",
+  "code": "FYSFYS03",
+  "focusAreas": {
+    "string": "Kursen fysik 3 omfattar punkterna 1-5 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-5"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Rörelse och krafter",
+        "rows": [
+          "1. Fördjupad behandling av kraft och rörelse, till exempel rörelse med luft- och vätskemotstånd, stötar i två dimensioner, rörelsemängdsmoment och rotationsrörelse.",
+          "2. Fördjupad behandling av harmonisk svängning med tillämpning inom till exempel dämpad svängningsrörelse, elektriska växelspänningskretsar eller radiokommunikation.",
+          "3. Fördjupad behandling av vågrörelse med tillämpning inom till exempel akustik, rörelser i jordskorpan, vattenvågor och elektromagnetiska vågor.",
+          "4. Den speciella relativitetsteorin och orientering om den allmänna relativitetsteorin."
+        ]
+      },
+      {
+        "title": "Materia och material",
+        "rows": [
+          "1. Fortsatt behandling av våg-partikeldualismen, till exempel partikel i låda, tunneleffekten, Heisenbergs obestämdhetsrelation, endimensionella tidsoberoende Schrödingerekvationen, kvanttal och Pauliprincipen.",
+          "2. Fasta materials optiska och elektriska egenskaper som konsekvens av elektronernas energistruktur.",
+          "3. Tillämpningar av kvantfysik och fasta tillståndets fysik inom till exempel laser, halvledarelektronik och modern materialteknik.",
+          "4. Partikelmodell för ideala gaser och samband mellan mikroskopiska och makroskopiska egenskaper hos dessa."
+        ]
+      },
+      {
+        "title": "Modellering och simulering",
+        "rows": [
+          "1. Undersökande mindre projekt där datorbaserad numerisk simulering används för att fördjupa och tillämpa valfritt område på en problemställning med anknytning till fysik."
+        ]
+      },
+      {
+        "title": "Fysikens arbetssätt och matematiska metoder",
+        "rows": [
+          "1. Betydelsen av experimentellt arbete, matematik och simuleringar för att testa, omvärdera och revidera hypoteser, teorier och modeller.",
+          "2. Avgränsning och studier av problem med hjälp av fysikaliska resonemang och matematisk modellering.",
+          "3. Planering och genomförande av experimentella och numeriska undersökningar samt formulering och prövning av hypoteser i samband med dessa.",
+          "4. Bearbetning och utvärdering av data och resultat.",
+          "5. Utvärdering av resultat och slutsatser genom analys av metodval, arbetsprocess och felkällor."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **översiktligt** för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+        "Eleven använder dessa **med viss säkerhet** för att söka svar på frågor samt för att beskriva och **exemplifiera** fysikaliska fenomen och samband.",
+        "Utifrån **något** exempel redogör eleven **översiktligt** för hur fysikens modeller och teorier utvecklas.",
+        "Eleven värderar också modellers giltighet och begränsningar med **enkla** omdömen."
+      ],
+      [
+        "Eleven identifierar, analyserar och löser **enkla** problem i **bekanta situationer** med **tillfredsställande** resultat.",
+        "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+        "I arbetet formulerar eleven relevanta hypoteser och formulerar **med viss säkerhet enkla** egna frågor.",
+        "Eleven planerar och genomför **i samråd** med handledare experiment, observationer och numerisk simulering på ett tillfredsställande sätt.",
+        "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+        "Vidare tolkar eleven sina resultat, utvärderar sina metoder med **enkla** omdömen och motiverar sina slutsatser med **enkla** resonemang.",
+        null
+      ],
+      [
+        "Eleven diskuterar **översiktligt** frågor som rör fysikens betydelse för individ och samhälle.",
+        "I diskussionerna för eleven fram **enkla** argument och redogör **översiktligt** för konsekvenser av **något** tänkbart ställningstagande.",
+        null
+      ],
+      [
+        "Eleven använder **med viss säkerhet** ett naturvetenskapligt språk och anpassar **till viss del** sin kommunikation till syfte och sammanhang.",
+        "Dessutom använder eleven olika typer av källor och gör **enkla** bedömningar av informationens och källornas trovärdighet och relevans."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+        "Eleven använder dessa **med viss säkerhet** för att söka svar på frågor samt för att beskriva och **exemplifiera** fysikaliska fenomen och samband.",
+        "Utifrån **några** exempel redogör eleven **utförligt** för hur fysikens modeller och teorier utvecklas.",
+        "Eleven värderar också modellers giltighet och begränsningar med **enkla** omdömen."
+      ],
+      [
+        "Eleven identifierar, analyserar och löser **komplexa** problem i **bekanta situationer** med **tillfredsställande** resultat.",
+        "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+        "I arbetet formulerar eleven relevanta hypoteser och formulerar **med viss säkerhet** egna frågor.",
+        "Eleven planerar och genomför **efter samråd** med handledare experiment, observationer och numerisk simulering på ett tillfredsställande sätt.",
+        "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+        "Vidare tolkar eleven sina resultat, utvärderar sina metoder med **enkla** omdömen och motiverar sina slutsatser med **välgrundade** resonemang.",
+        null
+      ],
+      [
+        "Eleven diskuterar **utförligt** frågor som rör fysikens betydelse för individ och samhälle.",
+        "I diskussionerna för eleven fram **välgrundade** argument och redogör **utförligt** för konsekvenser av **något** tänkbart ställningstagande.",
+        null
+      ],
+      [
+        "Eleven använder **med viss säkerhet** ett naturvetenskapligt språk och anpassar **till stor del** sin kommunikation till syfte och sammanhang.",
+        "Dessutom använder eleven olika typer av källor och gör **välgrundade** bedömningar av informationens och källornas trovärdighet och relevans."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för innebörden av begrepp, modeller, teorier och arbetsmetoder från vart och ett av kursens olika områden.",
+        "Eleven använder dessa **med säkerhet** för att söka svar på frågor samt för att beskriva och **generalisera kring** fysikaliska fenomen och samband.",
+        "Utifrån **några** exempel redogör eleven **utförligt och nyanserat** för hur fysikens modeller och teorier utvecklas.",
+        "Eleven värderar också modellers giltighet och begränsningar med **nyanserade** omdömen."
+      ],
+      [
+        "Eleven identifierar, analyserar och löser **komplexa** problem i **bekanta och nya situationer** med **gott** resultat.",
+        "Detta gäller såväl i det teoretiska som i det praktiska arbetet.",
+        "I arbetet formulerar eleven relevanta hypoteser och formulerar **med säkerhet komplexa** egna frågor.",
+        "Eleven planerar och genomför **efter samråd** med handledare experiment, observationer och numerisk simulering på ett tillfredsställande sätt.",
+        "Dessutom hanterar eleven material och utrustning på ett säkert sätt.",
+        "Vidare tolkar eleven sina resultat, utvärderar sina metoder med **nyanserade** omdömen och motiverar sina slutsatser med **välgrundade och nyanserade** resonemang.",
+        "**Vid behov föreslår eleven också förändringar**."
+      ],
+      [
+        "Eleven diskuterar **utförligt och nyanserat komplexa** frågor som rör fysikens betydelse för individ och samhälle.",
+        "I diskussionerna för eleven fram **välgrundade och nyanserade** argument och redogör **utförligt och nyanserat** för konsekvenser av **flera** tänkbara ställningstaganden.",
+        "**Eleven föreslår också nya frågeställningar att diskutera**."
+      ],
+      [
+        "Eleven använder **med säkerhet** ett naturvetenskapligt språk och anpassar **till stor del** sin kommunikation till syfte och sammanhang.",
+        "Dessutom använder eleven olika typer av källor och gör **välgrundade och nyanserade** bedömningar av informationens och källornas trovärdighet och relevans."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

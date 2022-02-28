@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Mekatronik</name>
+  <englishName>Mechatronics</englishName>
+  <description
+  >&lt;p&gt;Mekatronik är en sammanslagning av mekanik och elektronik. De två teknikområdena slås ihop för att man ska kunna studera sådan teknisk utrustning i vardagen som integrerar elektriska och mekaniska funktioner. I ämnet mekatronik behandlas samverkan mellan olika teknikområden inom produkter och processer. Ämnet kan delas upp i två delar – produktmekatronik och processmekatronik. Produktmekatronik behandlar produkters uppbyggnad, och processmekatronik behandlar uppbyggnaden av de processer som bygger dessa produkter.&lt;/p&gt;</description>
+  <code>MEK</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2010-12-02T09:25:20+01:00</createdDate>
+  <modifiedDate>2020-02-19T15:58:29+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Mekatronik&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet mekatronik ska syfta till att eleverna utvecklar förmåga att bygga mekatroniska system samt kunskaper om hur mekanisk struktur, elektroteknik samt styr- och reglerteknik samverkar i människors vardag i tekniska system. Vidare ska undervisningen leda till att eleverna utvecklar kunskaper om hur naturvetenskapliga principer kan beskrivas med hjälp av matematiska formler. I undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om hur tekniska system kan brytas ned i delsystem.&lt;/p&gt;&lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla förståelse av tekniken i vardagen. I undervisningen ska eleverna ges möjlighet att arbeta både praktiskt och teoretiskt med olika arbetsuppgifter. Dessutom ska undervisningen ge eleverna möjlighet att träna sin förmåga att planera dessa arbetsuppgifter.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet mekatronik ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Förmåga att planera, bygga och dokumentera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik.&lt;/li&gt; &lt;li&gt;Förmåga att använda ritningar och manualer samt samarbeta med andra.&lt;/li&gt; &lt;li&gt;Färdigheter i att använda informationsteknik som stöd vid byggnation och programmering av mekatroniska system.&lt;/li&gt; &lt;li&gt;Kunskaper om hur mekanisk struktur, elektroteknik samt styr- och reglerteknik kan sammanföras till ett system.&lt;/li&gt; &lt;li&gt;Förståelse av hur matematik och fysik kan användas för att beskriva principer inom ellära och mekanik.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Mekatronik 1, 100 poäng.&lt;/li&gt; &lt;li&gt;Mekatronik 2, 100 poäng, som bygger på kursen mekatronik 1.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2010:161</skolfsId>
+  <applianceDate>2011-07-01T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Mekatronik 1</name>
+    <englishName>Mechatronics 1</englishName>
+    <description
+    >&lt;p&gt;Kursen mekatronik 1 omfattar punkterna 1–2 och 4–5 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet utifrån en produktmekatronisk utgångspunkt.&lt;/p&gt;</description>
+    <code>MEKMEK01</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Mekatronik 1, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MEKMEK01&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Elarbete, mekaniskt arbete och enklare programmering av styrenheter.&lt;/li&gt; &lt;li&gt;Tolkning av ritningar och manualer.&lt;/li&gt; &lt;li&gt;Uppbyggnad av mekatroniska system från sensor, via styrenhet, till aktuator.&lt;/li&gt; &lt;li&gt;Hur logiska grundfunktioner kan användas för olika styrtekniska lösningar.&lt;/li&gt; &lt;li&gt;Tekniska lösningar i vardagen för omvandling av energi, materia eller information.&lt;/li&gt; &lt;li&gt;Grundläggande mekaniska begrepp, till exempel hävstång, block, lutande planet, fackverk och balk.&lt;/li&gt; &lt;li&gt;Grundläggande elektriska storheter och begrepp, till exempel laddning, ström, spänning, resistans och sluten krets.&lt;/li&gt; &lt;li&gt;Mätning av olika mekaniska och elektriska storheter.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och bygger &lt;strong&gt;i samråd&lt;/strong&gt; med handledare &lt;strong&gt;ett&lt;/strong&gt; &lt;strong&gt;eller&lt;/strong&gt; flera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik. I arbetet använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; ritningar och manualer samt samarbetar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra. Eleven gör en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av sitt arbete.&lt;/p&gt;&lt;p&gt;Med exempel från både industri och vardagsliv beskriver eleven &lt;strong&gt;översiktligt&lt;/strong&gt; hur ett &lt;strong&gt;enkelt &lt;/strong&gt;mekatroniskt system är uppbyggt. Med hjälp av matematiska och fysikaliska begrepp beskriver eleven &lt;strong&gt;översiktligt &lt;/strong&gt;fysikaliska principer vid olika mekatroniska tillämpningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och bygger &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare &lt;strong&gt;ett eller&lt;/strong&gt; flera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik. I arbetet använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; ritningar och manualer samt samarbetar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra. Eleven gör en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av sitt arbete.&lt;/p&gt;&lt;p&gt;Med exempel från både industri och vardagsliv beskriver eleven &lt;strong&gt;utförligt&lt;/strong&gt; hur ett mekatroniskt system är uppbyggt. Med hjälp av matematiska och fysikaliska begrepp beskriver eleven &lt;strong&gt;utförligt &lt;/strong&gt;fysikaliska principer vid olika mekatroniska tillämpningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och bygger &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare flera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik. I arbetet använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; ritningar och manualer samt samarbetar &lt;strong&gt;med säkerhet &lt;/strong&gt;med andra. Eleven gör en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av sitt arbete.&lt;/p&gt;&lt;p&gt;Med exempel från både industri och vardagsliv beskriver eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; hur ett &lt;strong&gt;komplext &lt;/strong&gt;mekatroniskt system är uppbyggt. Med hjälp av matematiska och fysikaliska begrepp beskriver eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;fysikaliska principer vid olika mekatroniska tillämpningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Mekatronik 2</name>
+    <englishName>Mechatronics 2</englishName>
+    <description
+    >&lt;p&gt;Kursen mekatronik 2 omfattar punkterna 1–5 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet utifrån både en produktmekatronisk och en processmekatronisk utgångspunkt.&lt;/p&gt;</description>
+    <code>MEKMEK02</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Mekatronik 2, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: MEKMEK02&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Mekatroniska system och mekatroniska processer.&lt;/li&gt; &lt;li&gt;Fördjupad tolkning av ritningar och manualer.&lt;/li&gt; &lt;li&gt;Informationsteknik som stöd vid uppbyggnad och programmering av mekatroniska system, till exempel cad-programvara med stöd för hållfasthetsprövning vid olika belastningar och programmeringsverktyg för aktuellt styrsystem.&lt;/li&gt; &lt;li&gt;Metoder för integration av mekanisk struktur, elektroteknik och styrteknik vid byggandet av mekatroniska system i form av såväl produkter som tillverkningssystem.&lt;/li&gt; &lt;li&gt;Begreppen process och system.&lt;/li&gt; &lt;li&gt;Modularisering och demodularisering av tillverkningssystem och tekniska system i vardagen.&lt;/li&gt; &lt;li&gt;Matematiska och fysikaliska begrepp vid arbete med mekatroniska system, till exempel hävarm, moment, kraft, tröghet, uthållning, styvhet och jämvikt.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven planerar och bygger &lt;strong&gt;i samråd &lt;/strong&gt;med handledare &lt;strong&gt;ett eller&lt;/strong&gt; flera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik. I arbetet använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; ritningar, manualer och informationsteknik. Dessutom samarbetar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra. Eleven gör en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av sitt arbete samt utvärderar det med &lt;strong&gt;enkla&lt;/strong&gt; omdömen.&lt;/p&gt;&lt;p&gt;Med exempel från både industri och vardagsliv beskriver eleven &lt;strong&gt;översiktligt&lt;/strong&gt; hur ett &lt;strong&gt;enkelt &lt;/strong&gt;mekatroniskt system är uppbyggt. Med hjälp av matematiska och fysikaliska begrepp beskriver eleven &lt;strong&gt;översiktligt &lt;/strong&gt;fysikaliska principer vid olika mekatroniska tillämpningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven planerar och bygger &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare &lt;strong&gt;ett eller&lt;/strong&gt; flera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik. I arbetet använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; ritningar, manualer och informationsteknik. Dessutom samarbetar eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med andra. Eleven gör en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av sitt arbete samt utvärderar det med &lt;strong&gt;nyanserade&lt;/strong&gt; omdömen.&lt;/p&gt;&lt;p&gt;Med exempel från både industri och vardagsliv beskriver eleven &lt;strong&gt;utförligt&lt;/strong&gt; hur ett mekatroniskt system är uppbyggt. Med hjälp av matematiska och fysikaliska begrepp beskriver eleven &lt;strong&gt;utförligt &lt;/strong&gt;fysikaliska principer vid olika mekatroniska tillämpningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven planerar och bygger &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare flera mekatroniska system som sammanför mekanisk struktur, elektroteknik och styrteknik. I arbetet använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; ritningar, manualer och informationsteknik. Dessutom samarbetar eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;med andra. Eleven gör en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av sitt arbete samt utvärderar det med &lt;strong&gt;nyanserade&lt;/strong&gt; omdömen. &lt;strong&gt;Dessutom ger eleven förslag på hur systemet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Med exempel från både industri och vardagsliv beskriver eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; hur ett mekatroniskt &lt;strong&gt;komplext &lt;/strong&gt;system är uppbyggt. Med hjälp av matematiska och fysikaliska begrepp beskriver eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;fysikaliska principer vid olika mekatroniska tillämpningar.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

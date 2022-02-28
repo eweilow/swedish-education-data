@@ -1,0 +1,36 @@
+{
+  "title": "Installationsteknik",
+  "code": "INS",
+  "developmentPurposes": [
+    "Kunskaper om olika elinstallationer.",
+    "Färdigheter i att planera och genomföra arbetet utifrån lagar och andra bestämmelser samt standarder inom området.",
+    "Förmåga att arbeta på ett säkert sätt samt använda verktyg och andra hjälpmedel på ett säkert sätt.",
+    "Förmåga att kontrollera och driftsätta elinstallationer på ett säkert och yrkesmässigt sätt.",
+    "Förmåga att dokumentera och utvärdera arbetet.",
+    "Färdigheter i att felsöka och reparera elinstallationer."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet installationsteknik ska syfta till att eleverna utvecklar kunskaper i att installera, underhålla och reparera elanläggningar. För att installera elanläggningar krävs förmåga att bilda sig en uppfattning om hur installationen kommer att se ut och fungera. Därför ska undervisningen ge eleverna möjlighet att utveckla förmåga att läsa och tolka ritningar och arbetsbeskrivningar. Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper om olika materials egenskaper och om hur verktyg ska användas.",
+    "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om säkerhet, föreskrifter, standarder och bestämmelser samt att söka information om installationer i befintlig dokumentation. Undervisningen ska också leda till att eleverna utvecklar förmåga att lösa problem som uppkommer under arbetets gång samt att dokumentera sitt arbete. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att kommunicera både i tal och i skrift, för att kunna upprätthålla elsäkerheten."
+  ],
+  "courseInfo": {
+    "INSBES0": "Belysningsteknik, 100 poäng.",
+    "INSELI0": "Elinstallationer, 200 poäng.",
+    "INSELS0": "Elmotorstyrning, 100 poäng.",
+    "INSKOM01": "Kommunikationsnät 1, 100 poäng.",
+    "INSKOM02": "Kommunikationsnät 2, 100 poäng.",
+    "INSKOM03": "Kommunikationsnät 3, 100 poäng."
+  },
+  "description": "Ämnet installationsteknik handlar om hur man bygger nya elinstallationer samt hur man bygger om och utökar befintliga elanläggningar. Ämnet behandlar också felsökning och hur man avhjälper fel i befintliga elanläggningar. I ämnet betonas elsäkerhet eftersom misstag kan orsaka stora skador både på personer och på egendom.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "applicableFrom": "2015-12-15T16:42:44.000Z",
+  "modifiedDate": "2020-02-19T14:57:14.000Z",
+  "courses": [
+    "INSBES0",
+    "INSELI0",
+    "INSELS0",
+    "INSKOM01",
+    "INSKOM02",
+    "INSKOM03"
+  ]
+}

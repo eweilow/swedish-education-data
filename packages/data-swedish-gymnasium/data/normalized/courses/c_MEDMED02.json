@@ -1,0 +1,86 @@
+{
+  "name": "Medicin 2",
+  "code": "MEDMED02",
+  "focusAreas": {
+    "string": "Kursen medicin 2 omfattar punkterna 1-4 och 6 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "entries": [
+      "1-4",
+      "6"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Människokroppens uppbyggnad med fördjupning i dess förmåga till ämnesomsättning, rörelse, retbarhet, skydd, försvar och fortplantning.",
+          "2. Fysiologiska processer med utgångspunkt i hälsa.",
+          "3. Sjukdomar och deras orsaker, symtom och diagnoser. Undersökningar, medicinska behandlingar, vård och omsorg vid dessa sjukdomar.",
+          "4. Vatten-, elektrolyt-, syrabas- och näringsbalans.",
+          "5. Farmakologi inklusive specifika läkemedel, deras verkningssätt, användningsområden och biverkningar.",
+          "6. Mikroorganismer och kroppens försvarssystem.",
+          "7. Medicinsk terminologi."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** människokroppens uppbyggnad och funktion.",
+        "Eleven beskriver också **översiktligt** olika sjukdomar och deras specifika fysiska och psykiska symtom.",
+        "Dessutom ger eleven exempel på relevanta undersökningsmetoder, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar.",
+        "Eleven beskriver **översiktligt** kroppens vätske- och näringsbalans samt ger exempel på sjukdomar där balansen kan rubbas."
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "Eleven beskriver **översiktligt** specifika läkemedel, deras verkningssätt, användningsområden och biverkningar.",
+        "Eleven ger också exempel på mikroorganismer och beskriver **översiktligt** hur de kan spridas samt beskriver **översiktligt** kroppens försvarssystem."
+      ],
+      [
+        "I beskrivningarna använder eleven **med viss säkerhet enkel** medicinsk terminologi."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** människokroppens uppbyggnad och funktion.",
+        "Eleven beskriver också **utförligt** olika sjukdomar och deras specifika fysiska och psykiska symtom.",
+        "Dessutom ger eleven exempel på, **och förklarar sambanden mellan**, relevanta undersökningsmetoder, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar.",
+        "Eleven beskriver **utförligt** kroppens vätske- och näringsbalans, ger exempel på sjukdomar där balansen kan rubbas **samt beskriver symtom som uppkommer när balansen är rubbad**."
+      ],
+      [
+        null,
+        "**Eleven förklarar utförligt några samband mellan människa, miljö, livsstil och specifika sjukdomar**."
+      ],
+      [
+        "Eleven beskriver **utförligt** specifika läkemedel, deras verkningssätt, användningsområden och biverkningar.",
+        "Eleven ger också exempel på mikroorganismer och beskriver **utförligt** hur de kan spridas samt beskriver **utförligt** kroppens försvarssystem."
+      ],
+      [
+        "I beskrivningarna använder eleven **med viss säkerhet** medicinsk terminologi."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** människokroppens uppbyggnad och funktion.",
+        "Eleven beskriver också **utförligt och nyanserat** olika sjukdomar och deras specifika fysiska och psykiska symtom.",
+        "Dessutom ger eleven exempel på, **och förklarar nyanserat sambanden mellan**, relevanta undersökningsmetoder, medicinska behandlingar samt vård och omsorg vid dessa sjukdomar.",
+        "Eleven beskriver **utförligt och nyanserat** kroppens vätske- och näringsbalans, ger exempel på sjukdomar där balansen kan rubbas **samt beskriver symtom som uppkommer när balansen är rubbad och motiverar varför de uppkommer**."
+      ],
+      [
+        "**Eleven förklarar utförligt och nyanserat några samband mellan människa, miljö, livsstil och specifika sjukdomar.",
+        "Dessutom värderar eleven med enkla omdömen olika förklaringar till samband mellan sjukdom och människans fysiska, psykiska och sociala förutsättningar**."
+      ],
+      [
+        "Eleven beskriver **utförligt och nyanserat** specifika läkemedel, deras verkningssätt, användningsområden och biverkningar.",
+        "Eleven ger också exempel på mikroorganismer och beskriver **utförligt och nyanserat** hur de kan spridas samt beskriver **utförligt och nyanserat** kroppens försvarssystem."
+      ],
+      [
+        "I beskrivningarna använder eleven **med säkerhet** medicinsk terminologi."
+      ]
+    ]
+  }
+}

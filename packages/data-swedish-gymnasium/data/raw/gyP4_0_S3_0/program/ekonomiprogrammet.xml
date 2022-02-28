@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<program xmlns="http://syllabus2011program.types.skolverket.se/v4_0">
+  <name>Ekonomiprogrammet</name>
+  <code>EK001</code>
+  <codeExternal>EK</codeExternal>
+  <skolfsId>0000:00</skolfsId>
+  <applianceDate>2018-08-01T00:00:00+02:00</applianceDate>
+  <version>5</version>
+  <status>PUBLISHED</status>
+  <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+  <typeOfProgram>PRELIMINARY_PROGRAM_FOR_HIGHER_EDUCATION</typeOfProgram>
+  <commonMandatory>
+    <subject>
+      <optional>false</optional>
+      <name>Engelska</name>
+      <code>ENG</code>
+      <point>100</point>
+      <course>
+        <name>Engelska 5</name>
+        <code>ENGENG05</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Engelska 6</name>
+        <code>ENGENG06</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Historia</name>
+      <code>HIS</code>
+      <point>100</point>
+      <course>
+        <name>Historia 1b</name>
+        <code>HISHIS01b</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Idrott och hälsa</name>
+      <code>IDR</code>
+      <point>100</point>
+      <course>
+        <name>Idrott och hälsa 1</name>
+        <code>IDRIDR01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Matematik</name>
+      <code>MAT</code>
+      <point>100</point>
+      <course>
+        <name>Matematik 1b</name>
+        <code>MATMAT01b</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Matematik 2b</name>
+        <code>MATMAT02b</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Naturkunskap</name>
+      <code>NAK</code>
+      <point>100</point>
+      <course>
+        <name>Naturkunskap 1b</name>
+        <code>NAKNAK01b</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Religionskunskap</name>
+      <code>REL</code>
+      <point>50</point>
+      <course>
+        <name>Religionskunskap 1</name>
+        <code>RELREL01</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Samhällskunskap</name>
+      <code>SAM</code>
+      <point>100</point>
+      <course>
+        <name>Samhällskunskap 1b</name>
+        <code>SAMSAM01b</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Samhällskunskap 2</name>
+        <code>SAMSAM02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska</name>
+      <code>SVE</code>
+      <point>100</point>
+      <course>
+        <name>Svenska 1</name>
+        <code>SVESVE01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Svenska 2</name>
+        <code>SVESVE02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Svenska 3</name>
+        <code>SVESVE03</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>true</optional>
+      <name>Svenska som andraspråk</name>
+      <code>SVA</code>
+      <point>100</point>
+      <course>
+        <name>Svenska som andraspråk 1</name>
+        <code>SVASVA01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Svenska som andraspråk 2</name>
+        <code>SVASVA02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Svenska som andraspråk 3</name>
+        <code>SVASVA03</code>
+        <point>100</point>
+      </course>
+    </subject>
+  </commonMandatory>
+  <commonProgram>
+    <subject>
+      <optional>false</optional>
+      <name>Företagsekonomi</name>
+      <code>FÖR</code>
+      <point>100</point>
+      <course>
+        <name>Företagsekonomi 1</name>
+        <code>FÖRFÖR01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Juridik</name>
+      <code>JUR</code>
+      <point>100</point>
+      <course>
+        <name>Privatjuridik</name>
+        <code>JURPRI0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Moderna språk</name>
+      <code>MOD</code>
+      <point>100</point>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Psykologi</name>
+      <code>PSK</code>
+      <point>50</point>
+      <course>
+        <name>Psykologi 1</name>
+        <code>PSKPSY01</code>
+        <point>50</point>
+      </course>
+    </subject>
+  </commonProgram>
+  <programOrientations>
+    <programOrientation>
+      <subject>
+        <optional>false</optional>
+        <name>Företagsekonomi</name>
+        <code>FÖR</code>
+        <point>100</point>
+        <course>
+          <name>Företagsekonomi 2</name>
+          <code>FÖRFÖR02</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Entreprenörskap och företagande</name>
+          <code>FÖRENT0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Matematik</name>
+        <code>MAT</code>
+        <point>100</point>
+        <course>
+          <name>Matematik 3b</name>
+          <code>MATMAT03b</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <name>Ekonomi</name>
+      <code>EKEKO</code>
+      <codeExternal>EKEKO</codeExternal>
+      <point>300</point>
+      <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+    </programOrientation>
+    <programOrientation>
+      <subject>
+        <optional>false</optional>
+        <name>Filosofi</name>
+        <code>FIO</code>
+        <point>50</point>
+        <course>
+          <name>Filosofi 1</name>
+          <code>FIOFIO01</code>
+          <point>50</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Juridik</name>
+        <code>JUR</code>
+        <point>100</point>
+        <course>
+          <name>Affärsjuridik</name>
+          <code>JURAFF0</code>
+          <point>100</point>
+        </course>
+        <course>
+          <name>Rätten och samhället</name>
+          <code>JURRÄT0</code>
+          <point>100</point>
+        </course>
+      </subject>
+      <subject>
+        <optional>false</optional>
+        <name>Psykologi</name>
+        <code>PSK</code>
+        <point>50</point>
+        <course>
+          <name>Psykologi 2a</name>
+          <code>PSKPSY02a</code>
+          <point>50</point>
+        </course>
+      </subject>
+      <name>Juridik</name>
+      <code>EKJUR</code>
+      <codeExternal>EKJUR</codeExternal>
+      <point>300</point>
+      <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
+    </programOrientation>
+  </programOrientations>
+  <profiles />
+  <specialization>
+    <subject>
+      <optional>false</optional>
+      <name>Engelska</name>
+      <code>ENG</code>
+      <point>100</point>
+      <course>
+        <name>Engelska 7</name>
+        <code>ENGENG07</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Entreprenörskap</name>
+      <code>ENT</code>
+      <point>100</point>
+      <course>
+        <name>Entreprenörskap</name>
+        <code>ENTENR0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Filosofi</name>
+      <code>FIO</code>
+      <point>50</point>
+      <course>
+        <name>Filosofi 1</name>
+        <code>FIOFIO01</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Filosofi 2</name>
+        <code>FIOFIO02</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Företagsekonomi</name>
+      <code>FÖR</code>
+      <point>100</point>
+      <course>
+        <name>Företagsekonomi 2</name>
+        <code>FÖRFÖR02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Företagsekonomi – specialisering</name>
+        <code>FÖRFÖR00S</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Entreprenörskap och företagande</name>
+        <code>FÖRENT0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Marknadsföring</name>
+        <code>FÖRMAD0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Redovisning 2</name>
+        <code>FÖRRED02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Geografi</name>
+      <code>GEO</code>
+      <point>100</point>
+      <course>
+        <name>Geografi 1</name>
+        <code>GEOGEO01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Geografi 2</name>
+        <code>GEOGEO02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Grafisk kommunikation</name>
+      <code>GRA</code>
+      <point>100</point>
+      <course>
+        <name>Grafisk kommunikation 1</name>
+        <code>GRAGRA01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Historia</name>
+      <code>HIS</code>
+      <point>100</point>
+      <course>
+        <name>Historia 2a</name>
+        <code>HISHIS02a</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Historia 3</name>
+        <code>HISHIS03</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Humanistisk och samhällsvetenskaplig specialisering</name>
+      <code>HUM</code>
+      <point>100</point>
+      <course>
+        <name>Humanistisk och samhällsvetenskaplig specialisering</name>
+        <code>HUMHUM00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Hållbart samhälle</name>
+      <code>HÅL</code>
+      <point>100</point>
+      <course>
+        <name>Politik och hållbar utveckling</name>
+        <code>HÅLPOL0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Juridik</name>
+      <code>JUR</code>
+      <point>100</point>
+      <course>
+        <name>Affärsjuridik</name>
+        <code>JURAFF0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Rätten och samhället</name>
+        <code>JURRÄT0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Ledarskap och organisation</name>
+      <code>LED</code>
+      <point>100</point>
+      <course>
+        <name>Ledarskap och organisation</name>
+        <code>LEDLED0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Matematik</name>
+      <code>MAT</code>
+      <point>100</point>
+      <course>
+        <name>Matematik 3b</name>
+        <code>MATMAT03b</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Matematik 4</name>
+        <code>MATMAT04</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Mediekommunikation</name>
+      <code>MEE</code>
+      <point>100</point>
+      <course>
+        <name>Textkommunikation</name>
+        <code>MEETET0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Medier, samhälle och kommunikation</name>
+      <code>MER</code>
+      <point>100</point>
+      <course>
+        <name>Medier, samhälle och kommunikation 1</name>
+        <code>MERMEE01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Moderna språk</name>
+      <code>MOD</code>
+      <point>100</point>
+      <course>
+        <name>Moderna språk 1</name>
+        <code>MODXXX01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Moderna språk 2</name>
+        <code>MODXXX02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Moderna språk 3</name>
+        <code>MODXXX03</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Moderna språk 4</name>
+        <code>MODXXX04</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Moderna språk 5</name>
+        <code>MODXXX05</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Moderna språk 6</name>
+        <code>MODXXX06</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Moderna språk 7</name>
+        <code>MODXXX07</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Kinesiska 1</name>
+        <code>MODZHO01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Kinesiska 2</name>
+        <code>MODZHO02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Kinesiska 3</name>
+        <code>MODZHO03</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Kinesiska 4</name>
+        <code>MODZHO04</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Kinesiska 5</name>
+        <code>MODZHO05</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Kinesiska 6</name>
+        <code>MODZHO06</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Kinesiska 7</name>
+        <code>MODZHO07</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Naturkunskap</name>
+      <code>NAK</code>
+      <point>100</point>
+      <course>
+        <name>Naturkunskap 2</name>
+        <code>NAKNAK02</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Programmering</name>
+      <code>PRR</code>
+      <point>100</point>
+      <course>
+        <name>Programmering 1</name>
+        <code>PRRPRR01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Psykologi</name>
+      <code>PSK</code>
+      <point>50</point>
+      <course>
+        <name>Psykologi 2a</name>
+        <code>PSKPSY02a</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Psykologi 2b</name>
+        <code>PSKPSY02b</code>
+        <point>50</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Religionskunskap</name>
+      <code>REL</code>
+      <point>100</point>
+      <course>
+        <name>Religionskunskap 2</name>
+        <code>RELREL02</code>
+        <point>50</point>
+      </course>
+      <course>
+        <name>Religionskunskap – specialisering</name>
+        <code>RELREL0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Samhällskunskap</name>
+      <code>SAM</code>
+      <point>100</point>
+      <course>
+        <name>Samhällskunskap 3</name>
+        <code>SAMSAM03</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Internationell ekonomi</name>
+        <code>SAMINE0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Internationella relationer</name>
+        <code>SAMINR0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Sociologi</name>
+      <code>SOI</code>
+      <point>100</point>
+      <course>
+        <name>Etnicitet och kulturmöten</name>
+        <code>SOIETN0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Sociologi</name>
+        <code>SOISOO0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Svenska</name>
+      <code>SVE</code>
+      <point>100</point>
+      <course>
+        <name>Litteratur</name>
+        <code>SVELIT0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Retorik</name>
+        <code>SVERET0</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Skrivande</name>
+        <code>SVESKR0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Tillämpad programmering</name>
+      <code>TIA</code>
+      <point>100</point>
+      <course>
+        <name>Tillämpad programmering</name>
+        <code>TIATIL00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+  </specialization>
+  <individualChoice />
+  <projectAssignment />
+  <professionalDegrees />
+  <category>PRELIMINARY_PROGRAM_FOR_HIGHER_EDUCATION</category>
+  <modifiedDate>2018-12-20T16:18:57+01:00</modifiedDate>
+  <createdDate>2018-12-20T16:17:51+01:00</createdDate>
+  <typeOfStudyPath>PROGRAM</typeOfStudyPath>
+</program>

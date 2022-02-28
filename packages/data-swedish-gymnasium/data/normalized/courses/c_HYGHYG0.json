@@ -1,0 +1,77 @@
+{
+  "name": "Hygien",
+  "code": "HYGHYG0",
+  "focusAreas": {
+    "string": "Kursen hygien omfattar punkterna 1-7 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Mikroorganismers förekomst, egenskaper, livsbetingelser och betydelse.",
+          "2. Smittvägar, livsmedelsburna infektioner och matförgiftningar.",
+          "3. God hygienpraxis i samband med livsmedelshantering.",
+          "4. Metoder för hantering av råvaror samt för tillagning, varmhållning, nedkylning, uppvärmning och förvaring av livsmedel.",
+          "5. Provtagning och andra kontroller.",
+          "6. Rengöring av utrustning och lokaler.",
+          "7. Lagar och andra bestämmelser inom livsmedelsområdet.",
+          "8. Kontrollprogram för livsmedelshygien."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven identifierar **med viss säkerhet** förekomster av mikroorganismer samt beskriver **översiktligt** deras betydelse i samband med livsmedelshantering.",
+        "Dessutom beskriver eleven **översiktligt** livsmedelsburna smittor och förgiftningar."
+      ],
+      [
+        "I sitt arbete hanterar eleven livsmedel på ett hygieniskt sätt samt redogör **översiktligt** för risker i hanteringen och arbetet.",
+        "Dessutom utför eleven **i samråd** med handledare provtagningar på råvaror och färdiga livsmedelsprodukter.",
+        "Efter genomfört arbete rengör eleven noggrant utrustning och lokaler enligt krav för säker livsmedelshantering."
+      ],
+      [
+        "Eleven följer lagar och andra bestämmelser, följer system för kontroll av livsmedelshygien samt utför **i samråd** med handledare egenkontroll.",
+        "Eleven motiverar **översiktligt** sitt handlande utifrån god hygienpraxis, lagar och andra bestämmelser.",
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven identifierar **med viss säkerhet** förekomster av mikroorganismer samt beskriver **utförligt** deras betydelse i samband med livsmedelshantering.",
+        "Dessutom beskriver eleven **utförligt** livsmedelsburna smittor och förgiftningar."
+      ],
+      [
+        "I sitt arbete hanterar eleven livsmedel på ett hygieniskt sätt samt redogör **utförligt** för risker i hanteringen och arbetet.",
+        "Dessutom utför eleven **efter samråd** med handledare provtagningar på råvaror och färdiga livsmedelsprodukter.",
+        "Efter genomfört arbete rengör eleven noggrant utrustning och lokaler enligt krav för säker livsmedelshantering."
+      ],
+      [
+        "Eleven följer lagar och andra bestämmelser, följer system för kontroll av livsmedelshygien samt utför **efter samråd** med handledare egenkontroll.",
+        "Eleven motiverar **utförligt** sitt handlande utifrån god hygienpraxis, lagar och andra bestämmelser.",
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven identifierar **med säkerhet** förekomster av mikroorganismer samt beskriver **utförligt och nyanserat** deras betydelse i samband med livsmedelshantering.",
+        "Dessutom beskriver eleven **utförligt och nyanserat** livsmedelsburna smittor och förgiftningar."
+      ],
+      [
+        "I sitt arbete hanterar eleven livsmedel på ett hygieniskt sätt samt redogör **utförligt och nyanserat** för risker i hanteringen och arbetet.",
+        "Dessutom utför eleven **efter samråd** med handledare provtagningar på råvaror och färdiga livsmedelsprodukter.",
+        "Efter genomfört arbete rengör eleven noggrant **och metodiskt** utrustning och lokaler enligt krav för säker livsmedelshantering."
+      ],
+      [
+        "Eleven följer lagar och andra bestämmelser, följer system för kontroll av livsmedelshygien samt utför **efter samråd** med handledare egenkontoll.",
+        "Eleven motiverar **utförligt och nyanserat** sitt handlande utifrån god hygienpraxis, lagar och andra bestämmelser.",
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

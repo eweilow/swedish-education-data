@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Support och servicearbete</name>
+  <englishName>Support and service</englishName>
+  <description
+  >&lt;p&gt;Arbete med support och service av elektronik och datautrustningar kräver förmåga att planera arbetet och arbeta systematiskt. Arbete hos kunder kräver lyhördhet för kundens önskemål samt förmåga att uppträda korrekt och serviceinriktat. Ämnet support och servicearbete ger en praktisk och teoretisk grund för detta arbete.&lt;/p&gt;</description>
+  <code>SUP</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2010-12-02T09:25:21+01:00</createdDate>
+  <modifiedDate>2020-02-19T16:01:48+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Support och servicearbete&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet support och servicearbete ska syfta till att eleverna utvecklar förmåga att planera och utföra support och servicearbete av elektronik- och datorutrustningar. Undervisningen ska även bidra till att eleverna utvecklar förmåga att vara lyhörd och flexibel för att kunna agera i olika support- och servicesituationer och att tänka resultatinriktat i dessa. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att kommunicera i tal och skrift med beställare och användare.&lt;/p&gt;&lt;p&gt;Undervisningen ska leda till att eleverna utvecklar kunskaper om den tekniska utvecklingen i branschen. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om konsumenttjänstlagen och de miljö- och återvinningskrav som gäller i branschen.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet support och servicearbete ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Förmåga att planera och utföra support och servicearbete på elektronik- eller datorutrustningar.&lt;/li&gt; &lt;li&gt;Förmåga att kommunicera med beställare och användare på ett korrekt och serviceinriktat sätt samt att instruera användare i handhavande av apparater och utrustningar.&lt;/li&gt; &lt;li&gt;Förmåga att arbeta systematiskt med hjälp av servicedokumentationen.&lt;/li&gt; &lt;li&gt;Kunskaper om branschens kvalitetskrav och säkerhetskrav.&lt;/li&gt; &lt;li&gt;Kunskaper om lagar och andra bestämmelser samt om miljökrav på återvinning av elektronik och datorutrustningar.&lt;/li&gt; &lt;li&gt;Kunskaper om hur arbetsplatser ska organiseras för att möta kraven på säkerhet och god arbetsmiljö.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Kundmottagning och reservdelshantering, 100 poäng.&lt;/li&gt; &lt;li&gt;Support och hemservice, 100 poäng.&lt;/li&gt; &lt;li&gt;Service och reparationsarbete, 100 poäng.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2010:165</skolfsId>
+  <applianceDate>2011-07-01T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Kundmottagning och reservdelshantering</name>
+    <englishName>Customer service and spare part handling</englishName>
+    <description
+    >&lt;p&gt;Kursen kundmottagning och reservdelshantering omfattar punkterna 1–6 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>SUPKUN0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Kundmottagning och reservdelshantering, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: SUPKUN0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Rutiner och logistik vid hantering av olika serviceobjekt.&lt;/li&gt; &lt;li&gt;Logistik och särskilda krav för transporter till och från större märkesverkstäder i Sverige och Europa.&lt;/li&gt; &lt;li&gt;Besiktning och registrering av skador vid inlämning och utlämning av serviceobjekt.&lt;/li&gt; &lt;li&gt;Serviceinriktat uppträdande och kommunikation.&lt;/li&gt; &lt;li&gt;Kroppsspråkets betydelse. Verbal och icke-verbal kommunikation samt olika kulturella kommunikationsmönster. Attityder, värderingar och förhållningssätt.&lt;/li&gt; &lt;li&gt;Information till kunder via sms.&lt;/li&gt; &lt;li&gt;Instruktion till användare i hur man handhar apparater.&lt;/li&gt; &lt;li&gt;Kundmottagning och registrering av serviceobjekt. Datorregistrering av serviceobjekt. Registrering av kundens felbeskrivning.&lt;/li&gt; &lt;li&gt;Serviceblanketter och dokument.&lt;/li&gt; &lt;li&gt;Beställning och hantering av reservdelar.&lt;/li&gt; &lt;li&gt;Rutiner för utbytesapparater.&lt;/li&gt; &lt;li&gt;Hantering av reklamationer.&lt;/li&gt; &lt;li&gt;Prisinformationslagens krav vid kostnadsförslag och fakturering.&lt;/li&gt; &lt;li&gt;Branschkraven kring mottagning av objekt för återvinning.&lt;/li&gt; &lt;li&gt;Konsumentlagstiftningens krav. Miljölagstiftning som är relevant för verksamheten.&lt;/li&gt; &lt;li&gt;Miljökrav på arbetsplatsens dagliga rutiner och organisation.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för rutiner, kvalitetskrav och logistik kring hantering av olika serviceobjekt. Dessutom beskriver eleven &lt;strong&gt;översiktligt&lt;/strong&gt; logistik och administration för transporter av serviceobjekt till och från större märkesverkstäder.&lt;/p&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare kundmottagning och registrering av serviceobjekt som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller kraven på säkerhet och kvalitet. Eleven uppträder korrekt och serviceinriktat samt kommunicerar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med kunder på ett för situationen anpassat sätt. I kommunikationen ger eleven en &lt;strong&gt;översiktlig&lt;/strong&gt; information om hanteringen av inlämnade serviceobjekt. Eleven arbetar systematiskt, använder servicedokument &lt;strong&gt;med viss säkerhet&lt;/strong&gt; samt hanterar och vårdar på ett säkert sätt och med&lt;strong&gt; visst &lt;/strong&gt;handlag apparater och andra serviceobjekt.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för hur lagar och andra bestämmelser samt miljökrav på återvinning påverkar arbetet och arbetsplatsen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för rutiner, kvalitetskrav och logistik kring hantering av olika serviceobjekt. Dessutom beskriver eleven &lt;strong&gt;utförligt&lt;/strong&gt; logistik och administration för transporter av serviceobjekt till och från större märkesverkstäder.&lt;/p&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kundmottagning och registrering av serviceobjekt som på ett &lt;strong&gt;tillfredsställande&lt;/strong&gt; sätt uppfyller kraven på säkerhet och kvalitet. Eleven uppträder korrekt och serviceinriktat samt kommunicerar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med kunder på ett för situationen anpassat sätt. I kommunikationen ger eleven en &lt;strong&gt;utförlig&lt;/strong&gt; information om hanteringen av inlämnade serviceobjekt. Eleven arbetar systematiskt, använder servicedokument &lt;strong&gt;med viss säkerhet&lt;/strong&gt; samt hanterar och vårdar på ett säkert sätt och med&lt;strong&gt; gott &lt;/strong&gt;handlag apparater och andra serviceobjekt.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för hur lagar och andra bestämmelser samt miljökrav på återvinning påverkar arbetet och arbetsplatsen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för rutiner, kvalitetskrav och logistik kring hantering av olika serviceobjekt. Dessutom beskriver eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; logistik och administration för transporter av serviceobjekt till och från större märkesverkstäder.&lt;/p&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kundmottagning och registrering av serviceobjekt som på ett &lt;strong&gt;gott &lt;/strong&gt;sätt uppfyller kraven på säkerhet och kvalitet. Eleven uppträder korrekt och serviceinriktat samt kommunicerar &lt;strong&gt;med säkerhet &lt;/strong&gt;med kunder på ett för situationen anpassat sätt. I kommunikationen ger eleven en &lt;strong&gt;utförlig och nyanserad&lt;/strong&gt; information om hanteringen av inlämnade serviceobjekt. Eleven arbetar systematiskt, använder servicedokument &lt;strong&gt;med säkerhet&lt;/strong&gt; samt hanterar och vårdar på ett säkert sätt och med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag apparater och andra serviceobjekt.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för hur lagar och andra bestämmelser samt miljökrav på återvinning påverkar arbetet och arbetsplatsen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Support och hemservice</name>
+    <englishName>Support and home service</englishName>
+    <description
+    >&lt;p&gt;Kursen support och hemservice omfattar punkterna 1–6 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>SUPSUP0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Support och hemservice, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: SUPSUP0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Organisation av support och hemservice.&lt;/li&gt; &lt;li&gt;Servicebilarnas utrustning.&lt;/li&gt; &lt;li&gt;Serviceinriktat uppträdande och kommunikation.&lt;/li&gt; &lt;li&gt;Kroppsspråkets betydelse. Verbal och icke-verbal kommunikation samt olika kulturella kommunikationsmönster. Attityder, värderingar och förhållningssätt.&lt;/li&gt; &lt;li&gt;Support och hemservice i olika miljöer.&lt;/li&gt; &lt;li&gt;Instruktion till användare i hur man handhar apparater.&lt;/li&gt; &lt;li&gt;Serviceblanketter och riktprislistor.&lt;/li&gt; &lt;li&gt;Programmering och inställningar av apparater.&lt;/li&gt; &lt;li&gt;Sammankoppling av enheter till fungerande system.&lt;/li&gt; &lt;li&gt;Enklare systematisk felsökning och reparation.&lt;/li&gt; &lt;li&gt;Reservdelshantering och beställningsrutiner.&lt;/li&gt; &lt;li&gt;Kostnadsförslag och faktureringsrutiner.&lt;/li&gt; &lt;li&gt;Branschens kvalitetskrav och säkerhetskrav.&lt;/li&gt; &lt;li&gt;Miljölagstiftning som är relevant för verksamheten.&lt;/li&gt; &lt;li&gt;Konsumenttjänstlagens regler och krav.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för hur hemservice organiseras samt för rutiner och logistik kring hantering av olika serviceobjekt.&lt;/p&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare support och hemservice som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller kraven på säkerhet och kvalitet. I kontakter med kunder uppträder eleven korrekt och serviceinriktat samt kommunicerar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med kunder på ett för situationen anpassat sätt. I kommunikationen ger eleven en &lt;strong&gt;översiktlig&lt;/strong&gt; information om hanteringen av inlämnade serviceobjekt. Eleven arbetar systematiskt, använder apparaternas servicedokumentation &lt;strong&gt;med viss säkerhet&lt;/strong&gt; för att sammanfoga olika delar till fungerande system samt hanterar och vårdar på ett säkert sätt och med&lt;strong&gt; visst &lt;/strong&gt;handlag apparater och andra serviceobjekt. Under arbetet upptäcker eleven problem som uppkommer och löser dem &lt;strong&gt;i samråd &lt;/strong&gt;med handledare. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av sitt arbete.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för hur lagar och andra bestämmelser samt miljökrav på återvinning påverkar arbetet, arbetets organisation och arbetsplatsen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för hur hemservice organiseras samt för rutiner och logistik kring hantering av olika serviceobjekt.&lt;/p&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare support och hemservice som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller kraven på säkerhet och kvalitet. I kontakter med kunder uppträder eleven korrekt och serviceinriktat samt kommunicerar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med kunder på ett för situationen anpassat sätt. I kommunikationen ger eleven en &lt;strong&gt;utförlig&lt;/strong&gt; information om hanteringen av inlämnade serviceobjekt. Eleven arbetar systematiskt, använder apparaternas servicedokumentation &lt;strong&gt;med viss säkerhet&lt;/strong&gt; för att sammanfoga olika delar till fungerande system samt hanterar och vårdar på ett säkert sätt och med&lt;strong&gt; gott &lt;/strong&gt;handlag apparater och andra serviceobjekt. Under arbetet upptäcker eleven problem som uppkommer och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Dessutom gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av sitt arbete.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för hur lagar och andra bestämmelser samt miljökrav på återvinning påverkar arbetet, arbetets organisation och arbetsplatsen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för hur hemservice organiseras samt för rutiner och logistik kring hantering av olika serviceobjekt.&lt;/p&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare support och hemservice som på ett &lt;strong&gt;gott &lt;/strong&gt;sätt uppfyller kraven på säkerhet och kvalitet. I kontakter med kunder uppträder eleven korrekt och serviceinriktat samt kommunicerar &lt;strong&gt;med säkerhet &lt;/strong&gt;med kunder på ett för situationen anpassat sätt. I kommunikationen ger eleven en &lt;strong&gt;utförlig och nyanserad&lt;/strong&gt; information om hanteringen av inlämnade serviceobjekt. Eleven arbetar systematiskt, använder apparaternas servicedokumentation &lt;strong&gt;med säkerhet&lt;/strong&gt; för att sammanfoga olika delar till fungerande system samt hanterar och vårdar på ett säkert sätt och med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag apparater och andra serviceobjekt. Under arbetet upptäcker eleven problem som uppkommer och löser dem &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare. Dessutom gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av sitt arbete.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för hur lagar och andra bestämmelser samt miljökrav på återvinning påverkar arbetet, arbetets organisation och arbetsplatsen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Service och reparationsarbete</name>
+    <englishName>Service and repairs</englishName>
+    <description
+    >&lt;p&gt;Kursen service och reparationsarbete omfattar punkterna 1–6 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>SUPSER0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Service och reparationsarbete, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: SUPSER0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Arbetsplatsens dagliga rutiner och organisation.&lt;/li&gt; &lt;li&gt;Service och reparation på mobiltelefoner, elektroniska apparater och datorsystem.&lt;/li&gt; &lt;li&gt;Serviceinriktat uppträdande och kommunikation vid kundkontakter.&lt;/li&gt; &lt;li&gt;Instruktion till användare i hur man handhar apparater.&lt;/li&gt; &lt;li&gt;Serviceblanketter och dokument.&lt;/li&gt; &lt;li&gt;Datorprogram för servicearbete.&lt;/li&gt; &lt;li&gt;Tolkning av elektronikscheman och servicemanualer både på svenska och på engelska.&lt;/li&gt; &lt;li&gt;Systematisk felsökning och reparation.&lt;/li&gt; &lt;li&gt;Reservdelshantering och beställningsrutiner.&lt;/li&gt; &lt;li&gt;Företagandets villkor och möjligheter.&lt;/li&gt; &lt;li&gt;Prisinformationslagens krav vid kostnadsförslag och fakturering.&lt;/li&gt; &lt;li&gt;Branschkrav och metoder för återvinning.&lt;/li&gt; &lt;li&gt;Konsumentlagstiftningens och miljölagstiftningens betydelse för arbetet.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för arbetsplatsens organisation samt för rutiner och logistik kring hantering av olika serviceobjekt.&lt;/p&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare service och reparationer som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller kraven på säkerhet och kvalitet. I kontakter med kunder uppträder eleven korrekt och serviceinriktat samt kommunicerar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med kunder på ett för situationen anpassat sätt. I kommunikationen ger eleven en &lt;strong&gt;översiktlig&lt;/strong&gt; information om hanteringen av inlämnade serviceobjekt. Eleven arbetar systematiskt, använder apparaternas servicedokumentation &lt;strong&gt;med viss säkerhet&lt;/strong&gt; samt hanterar och vårdar på ett säkert sätt och med&lt;strong&gt; visst &lt;/strong&gt;handlag apparater och andra serviceobjekt. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av sitt arbete.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för hur lagar och andra bestämmelser samt miljökrav på återvinning påverkar arbetet och arbetsplatsen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för arbetsplatsens organisation samt för rutiner och logistik kring hantering av olika serviceobjekt.&lt;/p&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare service och reparationer som på ett &lt;strong&gt;tillfredsställande &lt;/strong&gt;sätt uppfyller kraven på säkerhet och kvalitet. I kontakter med kunder uppträder eleven korrekt och serviceinriktat samt kommunicerar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;med kunder på ett för situationen anpassat sätt. I kommunikationen ger eleven en &lt;strong&gt;utförlig&lt;/strong&gt; information om hanteringen av inlämnade serviceobjekt. Eleven arbetar systematiskt, använder apparaternas servicedokumentation &lt;strong&gt;med viss säkerhet&lt;/strong&gt; samt hanterar och vårdar på ett säkert sätt och med&lt;strong&gt; gott &lt;/strong&gt;handlag apparater och andra serviceobjekt. Dessutom gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av sitt arbete.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för hur lagar och andra bestämmelser samt miljökrav på återvinning påverkar arbetet och arbetsplatsen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för arbetsplatsens organisation samt för rutiner och logistik kring hantering av olika serviceobjekt.&lt;/p&gt;&lt;p&gt;Eleven planerar och utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare service och reparationer som på ett &lt;strong&gt;gott &lt;/strong&gt;sätt uppfyller kraven på säkerhet och kvalitet. I kontakter med kunder uppträder eleven korrekt och serviceinriktat samt kommunicerar &lt;strong&gt;med säkerhet &lt;/strong&gt;med kunder på ett för situationen anpassat sätt. I kommunikationen ger eleven en &lt;strong&gt;utförlig och nyanserad&lt;/strong&gt; information om hanteringen av inlämnade serviceobjekt. Eleven arbetar systematiskt, använder apparaternas servicedokumentation &lt;strong&gt;med säkerhet&lt;/strong&gt; samt hanterar och vårdar på ett säkert sätt och med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag apparater och andra serviceobjekt. Dessutom gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av sitt arbete.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för hur lagar och andra bestämmelser samt miljökrav på återvinning påverkar arbetet och arbetsplatsen.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

@@ -1,0 +1,82 @@
+{
+  "subject": "AUO",
+  "title": "Avhjälpande och förebyggande underhåll",
+  "code": "AUOAVH0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter."
+      ],
+      [
+        "Eleven planerar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>gott</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+        "Eleven arbetar på ett sätt som är säkert för eleven själv och andra.",
+        "I arbetet använder eleven <strong>med säkerhet</strong> manualer, scheman och ritningar.",
+        "Vidare åtgärdar eleven <strong>efter samråd</strong> med handledare de fel som uppstår samt genomför en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete.",
+        "Dessutom förebygger eleven <strong>efter samråd</strong> med handledare fel och optimerar med <strong>gott</strong> handlag anläggningen.",
+        "I arbetet använder eleven <strong>med säkerhet</strong> informationsteknik samt beskriver <strong>utförligt och nyanserat</strong> hur anläggningens olika delar fungerar och samverkar <strong>och ger välgrundade förslag på förbättringar av anläggningen</strong>."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör <strong>utförligt</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter."
+      ],
+      [
+        "Eleven planerar och utför <strong>efter samråd</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+        "Eleven arbetar på ett sätt som är säkert för eleven själv och andra.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> manualer, scheman och ritningar.",
+        "Vidare åtgärdar eleven <strong>efter samråd</strong> med handledare de fel som uppstår samt genomför en <strong>noggrann</strong> dokumentation av sitt arbete.",
+        "Dessutom förebygger eleven <strong>efter samråd</strong> med handledare fel och optimerar med <strong>gott</strong> handlag anläggningen.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> informationsteknik samt beskriver <strong>utförligt</strong> hur anläggningens olika delar fungerar och samverkar <strong>och ger enkla förslag på förbättringar av anläggningen</strong>."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven redogör <strong>översiktligt</strong> för uppbyggnad av, funktion och principer för samt risker med olika mätsystem, styrsystem, reglersystem, informationstekniska system och enheter."
+      ],
+      [
+        "Eleven planerar och utför <strong>i samråd</strong> med handledare arbetsuppgifter i en anläggning för att åstadkomma automatiska funktioner, med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+        "Eleven arbetar på ett sätt som är säkert för eleven själv och andra.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> manualer, scheman och ritningar.",
+        "Vidare åtgärdar eleven <strong>i samråd</strong> med handledare de fel som uppstår samt genomför en <strong>enkel</strong> dokumentation av sitt arbete.",
+        "Dessutom förebygger eleven <strong>i samråd</strong> med handledare fel och optimerar med <strong>visst</strong> handlag anläggningen.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> informationsteknik samt beskriver <strong>översiktligt</strong> hur anläggningens olika delar fungerar och samverkar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Uppbyggnad av samt funktion och principer för olika typer av automatiserade system.",
+        "Olika typer av risker i automatiserade system.",
+        "Metoder för underhållsplanering i automatiserade anläggningar.",
+        "Beräkning av utrustningseffektivitet, operationseffektivitet och total tillgänglighet.",
+        "Operatörsunderhåll, till exempel rengöring och inspektion av utrustning.",
+        "Metoder för kontinuerlig uppföljning av driftstörningar och anpassade åtgärder för att utveckla ett företags produktionsprocess och höja den totala utrustningseffektiviteten.",
+        "Mätning och analys av tillståndet i en produktionsprocess, till exempel med KJ-analys eller manuellt förd underhållslogg.",
+        "Olika typer av planerade förluster, till exempel planerade produktionsstopp.",
+        "Olika typer av oplanerade förluster, till exempel väntan vid haveri, rörelseförluster eller balanseringsförluster.",
+        "Visualiseringsmetoder för tillstånd i en produktionsprocess, till exempel med sambandsdiagram eller styrdiagram.",
+        "Metoder för metodisk felsökning."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen avhjälpande och förebyggande underhåll omfattar punkterna 1, 3-4 och 6-7 under rubriken Ämnets syfte, med särskild betoning på punkt 7.",
+  "applicableSubjectPurposes": [
+    0,
+    2,
+    3,
+    5,
+    6
+  ]
+}

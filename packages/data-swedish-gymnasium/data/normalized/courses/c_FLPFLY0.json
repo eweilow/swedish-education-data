@@ -1,0 +1,131 @@
+{
+  "name": "Flygplansteknik",
+  "code": "FLPFLY0",
+  "focusAreas": {
+    "string": "Kursen flygplansteknik omfattar punkterna 1-6 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-6"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Flygplans aerodynamik och styrorgan samt flygning i hög hastighet.",
+          "2. Skrovstrukturer och flygkropp.",
+          "3. Vingar, stabilisatorer och roderytor.",
+          "4. Gondoler och pyloner.",
+          "5. Luftförsörjning, luftkonditionering och trycksättning av kabin samt säkerhets- och varningsanordningar.",
+          "6. Instrument- och avioniksystem.",
+          "7. Elkraft.",
+          "8. Utrustning och inventarier.",
+          "9. Brandskydd.",
+          "10. Styrorgan.",
+          "11. Bränslesystem.",
+          "12. Hydraulisk kraft.",
+          "13. Is- och regnskydd.",
+          "14. Landställ.",
+          "15. Ljus, strålkastare och belysning.",
+          "16. Syrgas.",
+          "17. Pneumatik och vakuum.",
+          "18. Vatten och avlopp.",
+          "19. Flygburna underhållssystem.",
+          "20. Integrerad modulär avionik.",
+          "21. Kabinsystem.",
+          "22. Informationssystem.",
+          "23. Grundprinciper för propeller.",
+          "24. Propellerkonstruktion.",
+          "25. Reglering av propellerbladvinkel.",
+          "26. Isskydd för propeller.",
+          "27. Propellerunderhåll, förvaring och konservering.",
+          "28. Service och underhållsåtgärder av flygplan.",
+          "29. Dokumentation.",
+          "30. Fackspråk på svenska och engelska för att förstå och följa instruktioner samt för att kommunicera kring arbetets utförande.",
+          "31. Faktorer som påverkar arbetsresultat och arbetsmiljö, till exempel struktur, ordning, trivsel, yrkesroll och den mänskliga faktorn.",
+          "32. Säkerhet på arbetsplatsen, förebyggande av person- och egendomsskador samt lagar och andra bestämmelser som gäller för arbetet."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** med stöd av informationsmaterial konstruktion av, funktion hos och påfrestningar på flygplan och deras olika system.",
+        "Dessutom beskriver eleven **översiktligt** med stöd av informationsmaterial hur flygplanets olika system är integrerade och samverkar med varandra."
+      ],
+      [
+        "Eleven utför **i samråd** med handledare och i bekanta situationer **enkel** service och **enkla** underhållsåtgärder av flygplan och propellrar.",
+        "Dessutom utför eleven **i samråd** med handledare felsökning och åtgärdar **enkla** fel på flygplanets olika system enligt regelverk och kvalitetskrav.",
+        "Eleven arbetar i bekanta situationer utifrån de instruktioner och det regelverk som uppgiften kräver.",
+        "När arbetet är utfört utvärderar eleven med **enkla** omdömen sina arbetsprocesser och sitt resultat.",
+        "Dessutom gör eleven en **enkel** dokumentation av sitt arbete."
+      ],
+      [
+        "Eleven utför **i samråd** med handledare arbetet på ett ergonomiskt riktigt, säkert och miljömedvetet sätt och håller en god ordning och struktur på arbetsplatsen.",
+        "Eleven redogör **översiktligt** för skydds- och arbetsmiljöbestämmelser.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom området."
+      ],
+      [
+        "När eleven kommunicerar med andra använder hen **med viss säkerhet** relevant fackspråk på svenska och engelska.",
+        "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "Resultatet av elevens arbete är **tillfredsställande**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** med stöd av informationsmaterial konstruktion av, funktion hos och påfrestningar på flygplan och deras olika system.",
+        "Dessutom beskriver eleven **utförligt** med stöd av informationsmaterial hur flygplanets olika system är integrerade och samverkar med varandra."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare och i bekanta **och delvis nya** situationer service och underhållsåtgärder av flygplan och propellrar.",
+        "Dessutom utför eleven **efter samråd** med handledare felsökning och åtgärdar fel på flygplanets olika system enligt regelverk och kvalitetskrav.",
+        "Eleven arbetar i bekanta **och delvis nya** situationer utifrån de instruktioner och det regelverk som uppgiften kräver.",
+        "När arbetet är utfört utvärderar eleven med **nyanserade** omdömen sina arbetsprocesser och sitt resultat.",
+        "Dessutom gör eleven en **noggrann** dokumentation av sitt arbete."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare arbetet på ett ergonomiskt riktigt, säkert och miljömedvetet sätt och håller en god ordning och struktur på arbetsplatsen.",
+        "Eleven redogör **utförligt** för skydds- och arbetsmiljöbestämmelser.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom området."
+      ],
+      [
+        "När eleven kommunicerar med andra använder hen **med viss säkerhet** relevant fackspråk på svenska och engelska.",
+        "Dessutom samarbetar eleven **och medverkar till att upprätthålla samarbetet** för att nå planerade resultat.",
+        "Resultatet av elevens arbete är **tillfredsställande**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** med stöd av informationsmaterial konstruktion av, funktion hos och påfrestningar på flygplan och deras olika system.",
+        "Dessutom beskriver eleven **utförligt och nyanserat** med stöd av informationsmaterial hur flygplanets olika system är integrerade och samverkar med varandra."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare och i bekanta **men även nya** situationer service och **avancerade** underhållsåtgärder av flygplan och propellrar.",
+        "Dessutom utför eleven **efter samråd** med handledare felsökning och åtgärdar **komplexa** fel på flygplanets olika system enligt regelverk och kvalitetskrav.",
+        "Eleven arbetar i bekanta **men även nya** situationer utifrån de instruktioner och det regelverk som uppgiften kräver.",
+        "När arbetet är utfört utvärderar eleven med **nyanserade** omdömen sina arbetsprocesser och sitt resultat **samt ger förslag på hur arbetet kan förbättras**.",
+        "Dessutom gör eleven en **noggrann och utförlig** dokumentation av sitt arbete."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare arbetet på ett ergonomiskt riktigt, säkert och miljömedvetet sätt och håller en god ordning och struktur på arbetsplatsen.",
+        "Eleven redogör **utförligt och nyanserat** för skydds- och arbetsmiljöbestämmelser.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom området."
+      ],
+      [
+        "När eleven kommunicerar med andra använder hen **med säkerhet** relevant fackspråk på svenska och engelska.",
+        "Dessutom samarbetar eleven **och medverkar till att upprätthålla och utveckla samarbetet** för att nå planerade resultat.",
+        "Resultatet av elevens arbete är **gott**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

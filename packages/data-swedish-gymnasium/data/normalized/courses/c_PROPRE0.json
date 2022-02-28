@@ -1,0 +1,97 @@
+{
+  "name": "Processreglering",
+  "code": "PROPRE0",
+  "focusAreas": {
+    "string": "Kursen processreglering omfattar punkterna 1-2, 5 och 8-10 under rubriken Ämnets syfte, med särskild betoning på punkterna 2 och 5.",
+    "entries": [
+      "1-2",
+      "5",
+      "8-10"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Processreglering med distribuerade styrsystem.",
+          "2. Kontinuerlig och diskontinuerlig reglering med tidsproportionell utgång.",
+          "3. Reglering av flerkapacitiva processer.",
+          "4. Sammansatta reglersystem med framkoppling, internt och externt börvärde samt kvot- och kaskadreglering.",
+          "5. Multivariabla regleringar.",
+          "6. Parameterstyrning och adaptiv parameteruppdatering.",
+          "7. Reglering med oskarp logik (fuzzy logic).",
+          "8. Störningar i reglerprocessen, innefattande störtendenskompensering.",
+          "9. Laborativa konfigureringar av kontrollerande enheter och processanläggningar med optimeringsmetoder för process och parametrar.",
+          "10. Tolkning av anläggningsteknisk dokumentation, till exempel processcheman, plintscheman, tabeller, datablad, manualer och certifikat.",
+          "11. Dokumentation, till exempel regulatorinställningar.",
+          "12. Signalmätmetoder på automatiserade processanläggningar i drift.",
+          "13. Säkerhets-, energiförbruknings- och miljöaspekter vid processreglering, inklusive riskanalys, energioptimering och minimering av kemiska föroreningar.",
+          "14. Standarder och föreskrifter inom området, till exempel ATEX-direktiven."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **översiktligt** för uppbyggnad, funktion och principer för distribuerade styrsystem och olika reglertekniska systemlösningar."
+      ],
+      [
+        "Eleven utför **i samråd** med handledare vanligt förekommande konfigureringar och optimeringar i olika reglertekniska processer med ett resultat som på ett **tillfredsställande** sätt uppfyller fastställda kvalitets- och miljökrav."
+      ],
+      [
+        "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra.",
+        "I arbetet hanterar och vårdar eleven med **visst** handlag material, verktyg och övrig utrustning.",
+        "Eleven beskriver **översiktligt** hur standarder och föreskrifter styr val av utrustning och arbetssätt."
+      ],
+      [
+        "Efter utfört arbete gör eleven en **enkel** dokumentation av utfört arbete.",
+        "Eleven utvärderar sitt arbete med **enkla** omdömen."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för uppbyggnad, funktion och principer för distribuerade styrsystem och olika reglertekniska systemlösningar."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledarevanligt förekommande konfigureringar och optimeringar i olika reglertekniska processer med ett resultat som på ett **tillfredsställande** sätt uppfyller fastställda kvalitets- och miljökrav."
+      ],
+      [
+        "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra.",
+        "I arbetet hanterar och vårdar eleven med **gott** handlag material, verktyg och övrig utrustning.",
+        "Eleven beskriver **utförligt** hur standarder och föreskrifter styr val av utrustning och arbetssätt."
+      ],
+      [
+        "Efter utfört arbete gör eleven en **noggrann** dokumentation av utfört arbete.",
+        "Eleven utvärderar sitt arbete med **nyanserade** omdömen."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för uppbyggnad, funktion och principer för distribuerade styrsystem och olika reglertekniska systemlösningar."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledarevanligt förekommande konfigureringar och optimeringar i olika reglertekniska processer med ett resultat som på ett **gott** sätt uppfyller fastställda kvalitets- och miljökrav."
+      ],
+      [
+        "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra.",
+        "I arbetet hanterar och vårdar eleven med **mycket gott** handlag material, verktyg och övrig utrustning.",
+        "Eleven beskriver **utförligt och nyanserat** hur standarder och föreskrifter styr val av utrustning och arbetssätt."
+      ],
+      [
+        "Efter utfört arbete gör eleven en **noggrann och utförlig** dokumentation av utfört arbete.",
+        "Eleven utvärderar sitt arbete med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Informationsteknisk arkitektur och infrastruktur",
+  "code": "INA",
+  "developmentPurposes": [
+    "Kunskaper om hur kommunikation sker i informationstekniska system samt kunskaper om olika principer för informationssäkerhet.",
+    "Kunskaper om olika nätverks- och informationstjänster och hur dessa används och integreras i olika informationstekniska system för god tillgänglighet och informationssäkerhet.",
+    "Kunskaper om informationstekniska systems livscykel och olika sätt att styra informationstekniska system.",
+    "Förmåga att använda såväl svenskspråkiga som engelskspråkiga manualer och instruktioner i arbetet med informationstekniska system.",
+    "Förmåga att analysera befintliga informationstekniska system och bryta ned dessa i delsystem och processer. Förmåga att dokumentera nya och befintliga system och processer.",
+    "Förmåga att installera, konfigurera och implementera olika nätverks- och informationstjänster för god tillgänglighet, informationssäkerhet och resurseffektivitet.",
+    "Förmåga att dokumentera informationstekniska projekt.",
+    "Förmåga att identifiera kunders behov och föreslå förbättringar och tillägg i befintliga system och integrera dessa i nya eller förbättrade system.",
+    "Förmåga att kommunicera i tal, skrift och med visuella hjälpmedel."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet informationsteknisk arkitektur och infrastruktur ska syfta till att eleverna utvecklar kunskaper om olika informationstekniska system, hur dessa används och bryts ned i olika delsystem och processer. Den ska ge eleverna möjlighet att utveckla kunskaper om den informationstekniska livscykeln. Det innebär att utifrån en uppdragsgivare identifiera behov och välja lämpliga system eller processer samt att designa, testa, implementera och följa upp systemen. Undervisningen ska också leda till att eleverna utvecklar förståelse av hur de olika delsystemen och processerna sätts samman med hög kvalitet och resurseffektivitet till en fungerande helhet utifrån uppdragsgivares behov av informationstekniska tjänster och system.",
+    "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om hur datakommunikation och informationssäkerhet fungerar och hur vanligt förekommande informationstekniska tjänster fungerar och implementeras. Eleverna ska också ges möjlighet att utveckla kunskaper om olika metoder för styrning av informationstekniska system.",
+    "Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om någon projektmetod. I undervisningen ska eleverna ges möjlighet att utveckla sin förmåga att kommunicera i tal, skrift och med visuella hjälpmedel."
+  ],
+  "courseInfo": {
+    "INADAT3": "Datakommunikation och informationssäkerhet, 200 poäng.",
+    "INAINF3": "Informationsteknisk arkitektur, 100 poäng.",
+    "INANAT3": "Nätverks- och kommunikationstjänster, 100 poäng."
+  },
+  "description": "Ämnet informationsteknisk arkitektur och infrastruktur behandlar de grundläggande processerna, komponenterna och gränssnitten i ett sammanhängande informationstekniskt system. Det behandlar även hur man med hjälp av olika informationstekniska system kan uppfylla och underlätta människors behov av informationsutbyte. Ämnet informationsteknisk arkitektur och infrastruktur får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "applicableFrom": "2021-02-12T12:17:19.000Z",
+  "modifiedDate": "2021-05-18T10:02:36.000Z",
+  "courses": [
+    "INADAT3",
+    "INAINF3",
+    "INANAT3"
+  ]
+}

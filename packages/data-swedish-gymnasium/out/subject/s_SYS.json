@@ -1,0 +1,33 @@
+{
+  "title": "Systemkunskap",
+  "code": "SYS",
+  "developmentPurposes": [
+    "Kunskaper om energitekniska systems funktion och konstruktion samt energibärande mediers egenskaper.",
+    "Kunskaper om termodynamik samt färdigheter i att göra beräkningar och bedömningar som rör värme-, sanitets-, ventilations-, kyl- och värmepumpssystem.",
+    "Kunskaper om effektiv och miljövänlig energianvändning.",
+    "Förståelse av ritningar, driftkort, användarmanualer och instruktioner samt färdigheter i att göra ritningar.",
+    "Förmåga att utföra driftkontroller.",
+    "Kunskaper om lagar och andra bestämmelser inom området.",
+    "Kunskaper om olika yrken samt erfarenheter av praktiska arbetsuppgifter inom VVS- och fastighetsområdet.",
+    "Förmåga att arbeta säkert och ergonomiskt."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet systemkunskap ska syfta till att eleverna utvecklar kunskaper om VVS-, ventilations-, kyl- och värmepumpssystem samt deras funktion och konstruktion. Eleverna ska ges möjlighet att utveckla kunskaper om systemen var för sig och i samverkan. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om byggnaders konstruktion samt förståelse av hur klimatskalet och verksamheten påverkar dimensioneringen av systemen. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om arbetsprinciper, miljöpåverkan och produktionsförutsättningar.",
+    "Undervisningen ska leda till att eleverna utvecklar färdigheter i att beräkna och bedöma effektbehov i värme- och kylprocesser samt kunskaper om hur energianvändning påverkar hälsa, miljö och hållbar utveckling. Den ska också bidra till att eleverna utvecklar förmåga att arbeta ergonomiskt och arbetsmiljöriktigt. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om termer och begrepp som används inom installations- och fastighetsområdet.",
+    "Undervisningen ska bedrivas så att eleverna ges möjlighet att omsätta teoretiska lösningar i praktiken, och att utveckla teoretisk kunskap utifrån praktiska övningar."
+  ],
+  "courseInfo": {
+    "SYSINJ0": "Injusteringsteknik, 100 poäng.",
+    "SYSSYT0": "Systemuppbyggnad, 100 poäng.",
+    "SYSVÄM0": "Värmelära, 100 poäng."
+  },
+  "description": "Ämnet systemkunskap behandlar hur VVS-, ventilations-, kyl- och värmepumpssystem fungerar och är uppbyggda. Det behandlar också betydelsen av underhåll av systemen. I ämnet behandlas dessutom byggnaders energieffektivitet, vilka medier som förekommer i systemen, deras fysikaliska egenskaper och hur energiomvandling sker. Ämnet behandlar även VVS- och fastighetsbranschens olika yrken och praktiska arbetsuppgifter.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "applicableFrom": "2020-05-08T11:18:25.000Z",
+  "modifiedDate": "2021-06-08T13:59:35.000Z",
+  "courses": [
+    "SYSINJ0",
+    "SYSSYT0",
+    "SYSVÄM0"
+  ]
+}

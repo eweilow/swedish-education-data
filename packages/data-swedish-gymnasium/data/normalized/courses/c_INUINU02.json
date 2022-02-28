@@ -1,0 +1,138 @@
+{
+  "name": "Industritekniska processer 2",
+  "code": "INUINU02",
+  "focusAreas": {
+    "string": "Kursen industritekniska processer 2 omfattar punkterna 1-8 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Övervakning, styrning och reglering av industritekniska processer samt tolkning av processcheman.",
+          "2. Driftsäkerhet samt enklare förebyggande och avhjälpande underhåll av industritekniska processer.",
+          "3. Arbetsmiljöfrågor och säkerhetsföreskrifter.",
+          "4. Definition av kvalitet och dess innebörd för industritekniska processer och produktionsresultat.",
+          "5. Var i den industritekniska processen som provtagningar görs samt tillvägagångssätt vid provtagningar. Faktorer som påverkar val och användning av lämpliga mätmetoder. Olika analysmetoder.",
+          "6. Metoder för korrigering vid eventuella fel i produktionen.",
+          "7. Råvarors eller materialets väg till färdig produkt genom olika förädlingssteg i den industritekniska processen.",
+          "8. Uppbyggnad av, egenskaper hos, hantering av och hälsorisker med råvaror, färdiga produkter och restprodukter.",
+          "9. Sammankoppling av produktionsutrustning till produktionslinjer, vilka de olika enheterna är, vad som händer i dem, varför de olika enheterna behövs och varför de kommer i en viss ordning.",
+          "10. Industritekniska processers påverkan på miljön. Åtgärder för att minimera miljöpåverkan.",
+          "11. Kommunikation och samarbete mellan olika målgrupper inom den industritekniska processen, till exempel personalgrupper, leverantörer och kunder.",
+          "12. Begrepp inom ämnesområdet."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven planerar och organiserar **i samråd** med handledare övervakning, styrning och reglering av industritekniska processer.",
+        "Dessutom planerar och organiserar eleven **i samråd** med handledare förebyggande och avhjälpande underhåll.",
+        "I planeringen tolkar eleven **med viss säkerhet** processcheman, kravspecifikationer, instruktioner och säkerhetsföreskrifter.",
+        null,
+        "Vidare väljer eleven **i samråd** med handledare metoder, verktyg, utrustningar och material med hänsyn till önskat resultat, hälsoaspekter, miljöhänsyn och säkerhet.",
+        null
+      ],
+      [
+        "Eleven utför med noggrannhet och **i samråd** med handledare övervakning, styrning och reglering av industritekniska processer i enlighet med processcheman, säkerhetsföreskrifter, givna instruktioner och kravspecifikationer.",
+        "Dessutom genomför eleven **i samråd** med handledare förebyggande och avhjälpande underhåll.",
+        "Resultatet av arbetet är **tillfredsställande** utifrån givna kvalitetskrav.",
+        "I arbetet använder eleven **med viss säkerhet** instruktioner, processcheman och kravspecifikationer.",
+        "Dessutom genomför eleven **med viss säkerhet** provtagningar samt tolkar **med viss säkerhet** resultatet.",
+        "Eleven hanterar material, utrustning, verktyg och maskiner med **visst** handlag och håller god ordning på arbetsplatsen.",
+        "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+        "Under arbetet genomför eleven vid behov korrigeringar i produktionen utifrån processcheman och kravspecifikationer.",
+        "Dessutom upptäcker eleven eventuella problem som uppkommer och åtgärdar dem **i samråd** med handledare.",
+        "När arbetsuppgiften är utförd dokumenterar eleven **med viss säkerhet** arbetsprocessen och resultatet enligt givna instruktioner."
+      ],
+      [
+        "Eleven redogör **översiktligt** för hur råvaror eller material förädlas i den industritekniska processen och för teknik, metoder och verktyg som använts för arbetsuppgiften samt för **enkla** samband mellan produktionsutrustning och produktionslinjer.",
+        "Dessutom redogör eleven **översiktligt**, utifrån exempel, för underhållets betydelse för driftsäkerheten.",
+        "Eleven redogör även **översiktligt** för hur material, teknik, metoder och produktionsutrustning påverkar arbetsprocess, kvalitet, slutresultat och miljö.",
+        "Eleven redogör **översiktligt** för eventuella avvikelser från specifikationen."
+      ],
+      [
+        "Eleven samarbetar i sitt arbete med andra samt redogör **översiktligt** för betydelsen av samarbete.",
+        "Dessutom använder eleven **med viss säkerhet** terminologi och fackspråk."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven planerar och organiserar **efter samråd** med handledare övervakning, styrning och reglering av industritekniska processer.",
+        "Dessutom planerar och organiserar eleven **efter samråd** med handledare förebyggande och avhjälpande underhåll.",
+        "I planeringen tolkar eleven **med viss säkerhet** processcheman, kravspecifikationer, instruktioner och säkerhetsföreskrifter.",
+        null,
+        "Vidare väljer eleven **efter samråd** med handledare metoder, verktyg, utrustningar och material med hänsyn till önskat resultat, hälsoaspekter, miljöhänsyn och säkerhet.",
+        "**Dessutom motiverar eleven utförligt sina val**."
+      ],
+      [
+        "Eleven utför med noggrannhet och **efter samråd** med handledare övervakning, styrning och reglering av industritekniska processer i enlighet med processcheman, säkerhetsföreskrifter, givna instruktioner och kravspecifikationer.",
+        "Dessutom genomför eleven **efter samråd** med handledare förebyggande och avhjälpande underhåll.",
+        "Resultatet av arbetet är **tillfredsställande** utifrån givna kvalitetskrav.",
+        "I arbetet använder eleven **med viss säkerhet** instruktioner, processcheman och kravspecifikationer.",
+        "Dessutom genomför eleven **med viss säkerhet** provtagningar samt tolkar **med viss säkerhet** resultatet.",
+        "Eleven hanterar material, utrustning, verktyg och maskiner med **gott** handlag och håller god ordning på arbetsplatsen.",
+        "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+        "Under arbetet genomför eleven vid behov korrigeringar i produktionen utifrån processcheman och kravspecifikationer.",
+        "Dessutom upptäcker eleven eventuella problem som uppkommer och åtgärdar dem **efter samråd** med handledare.",
+        "När arbetsuppgiften är utförd dokumenterar eleven **med viss säkerhet** arbetsprocessen och resultatet enligt givna instruktioner."
+      ],
+      [
+        "Eleven redogör **utförligt** för hur råvaror eller material förädlas i den industritekniska processen och för teknik, metoder och verktyg som använts för arbetsuppgiften samt för samband mellan produktionsutrustning och produktionslinjer.",
+        "Dessutom redogör eleven **utförligt**, utifrån exempel, för underhållets betydelse för driftsäkerheten.",
+        "Eleven redogör även **utförligt** för hur material, teknik, metoder och produktionsutrustning påverkar **effektiviteten i arbetet**, arbetsprocess, kvalitet slutresultat och miljö.",
+        "Eleven redogör **utförligt** för eventuella avvikelser från specifikationen."
+      ],
+      [
+        "Eleven samarbetar i sitt arbete med andra samt redogör **utförligt** för betydelsen av samarbete.",
+        "Dessutom använder eleven **med viss säkerhet** terminologi och fackspråk."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven planerar och organiserar **efter samråd** med handledare övervakning, styrning och reglering av industritekniska processer.",
+        "Dessutom planerar och organiserar eleven **efter samråd** med handledare förebyggande och avhjälpande underhåll.",
+        "I planeringen tolkar eleven **med säkerhet** processcheman, kravspecifikationer, instruktioner och säkerhetsföreskrifter.",
+        "**Eleven förutser också svårigheter som kan uppstå och anpassar planering och organisation efter det**.",
+        "Vidare väljer eleven **efter samråd** med handledare metoder, verktyg, utrustningar och material med hänsyn till önskat resultat, hälsoaspekter, miljöhänsyn och säkerhet.",
+        "**Dessutom motiverar eleven utförligt och nyanserat sina val**."
+      ],
+      [
+        "Eleven utför med noggrannhet och **efter samråd** med handledare övervakning, styrning och reglering av industritekniska processer i enlighet med processcheman, säkerhetsföreskrifter, givna instruktioner och kravspecifikationer.",
+        "Dessutom genomför eleven **efter samråd** med handledare förebyggande och avhjälpande underhåll.",
+        "Resultatet av arbetet är **gott** utifrån givna kvalitetskrav.",
+        "I arbetet använder eleven **med säkerhet** instruktioner, processcheman och kravspecifikationer.",
+        "Dessutom genomför eleven **med säkerhet** provtagningar samt tolkar **med säkerhet** resultatet.",
+        "Eleven hanterar material, utrustning, verktyg och maskiner med **mycket gott** handlag och håller god ordning på arbetsplatsen.",
+        "Eleven arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra, samt med hänsyn till miljön.",
+        "Under arbetet genomför eleven vid behov korrigeringar i produktionen utifrån processcheman och kravspecifikationer.",
+        "Dessutom upptäcker eleven eventuella problem som uppkommer och åtgärdar dem **efter samråd** med handledare.",
+        "När arbetsuppgiften är utförd dokumenterar eleven **med säkerhet** arbetsprocessen och resultatet enligt givna instruktioner."
+      ],
+      [
+        "Eleven redogör **utförligt och nyanserat** för hur råvaror eller material förädlas i den industritekniska processen och för teknik, metoder och verktyg som använts för arbetsuppgiften samt för **komplexa** samband mellan produktionsutrustning och produktionslinjer.",
+        "Dessutom redogör eleven **utförligt och nyanserat**, utifrån exempel, för underhållets betydelse för driftsäkerheten.",
+        "Eleven redogör även **utförligt och nyanserat** för hur material, teknik, metoder och produktionsutrustning påverkar **effektiviteten i arbetet**, arbetsprocess, kvalitet, slutresultat och miljö **samt ger förslag på hur arbetet kan förbättras**.",
+        "Eleven redogör **utförligt och nyanserat** för eventuella avvikelser från specifikationen."
+      ],
+      [
+        "Eleven samarbetar i sitt arbete med andra samt redogör **utförligt och nyanserat** för betydelsen av samarbete.",
+        "Dessutom använder eleven **med säkerhet** terminologi och fackspråk."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

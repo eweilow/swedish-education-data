@@ -1,0 +1,107 @@
+{
+  "subject": "BIG",
+  "title": "Djurens biologi",
+  "code": "BIGDJE0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver, i samband med studier av djurs beteende i olika miljöer, <strong>utförligt och nyanserat</strong> de olika djurarternas naturliga beteende.",
+        "Dessutom noterar eleven <strong>med säkerhet</strong> avvikelser i djurens beteende och förklarar <strong>utförligt och nyanserat</strong> orsakerna till det avvikande beteendet."
+      ],
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för djurens näringsbehov, matsmältning och energiomsättning.",
+        "I samband med olika arbetsuppgifter med djur redogör eleven <strong>utförligt och nyanserat</strong> för djurens anatomi och fysiologi."
+      ],
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för mikroorganismer och mikrobiologiska processer av betydelse för djurhälsa och djursjukdomar."
+      ],
+      [
+        "I samband med fältstudier identifierar eleven <strong>med säkerhet</strong> vanliga vilda djur och grupperar dem <strong>med säkerhet</strong> efter det vetenskapliga system som används för att gruppera djur."
+      ],
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för biologins betydelse inom naturbruket samt söker <strong>med säkerhet</strong> information om djur.",
+        "I sina beskrivningar och redogörelser använder eleven <strong>med säkerhet</strong> begrepp, teorier och modeller."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver, i samband med studier av djurs beteende i olika miljöer, <strong>utförligt</strong> de olika djurarternas naturliga beteende.",
+        "Dessutom noterar eleven <strong>med viss säkerhet</strong> avvikelser i djurens beteende och förklarar <strong>utförligt</strong> orsakerna till det avvikande beteendet."
+      ],
+      [
+        "Eleven redogör <strong>utförligt</strong> för djurens näringsbehov, matsmältning och energiomsättning.",
+        "I samband med olika arbetsuppgifter med djur redogör eleven <strong>utförligt</strong> för djurens anatomi och fysiologi."
+      ],
+      [
+        "Eleven redogör <strong>utförligt</strong> för mikroorganismer och mikrobiologiska processer av betydelse för djurhälsa och djursjukdomar."
+      ],
+      [
+        "I samband med fältstudier identifierar eleven <strong>med viss säkerhet</strong> vanliga vilda djur och grupperar dem <strong>med viss säkerhet</strong> efter det vetenskapliga system som används för att gruppera djur."
+      ],
+      [
+        "Eleven redogör <strong>utförligt</strong> för biologins betydelse inom naturbruket samt söker <strong>med viss säkerhet</strong> information om djur.",
+        "I sina beskrivningar och redogörelser använder eleven <strong>med viss säkerhet</strong> begrepp, teorier och modeller."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver, i samband med studier av djurs beteende i olika miljöer, <strong>översiktligt</strong> de olika djurarternas naturliga beteende.",
+        "Dessutom noterar eleven <strong>med viss säkerhet</strong> avvikelser i djurens beteende och förklarar <strong>översiktligt</strong> orsakerna till det avvikande beteendet."
+      ],
+      [
+        "Eleven redogör <strong>översiktligt</strong> för djurens näringsbehov, matsmältning och energiomsättning.",
+        "I samband med olika arbetsuppgifter med djur redogör eleven <strong>översiktligt</strong> för djurens anatomi och fysiologi."
+      ],
+      [
+        "Eleven redogör <strong>översiktligt</strong> för mikroorganismer och mikrobiologiska processer av betydelse för djurhälsa och djursjukdomar."
+      ],
+      [
+        "I samband med fältstudier identifierar eleven <strong>med viss säkerhet</strong> vanliga vilda djur och grupperar dem <strong>med viss säkerhet</strong> efter det vetenskapliga system som används för att gruppera djur."
+      ],
+      [
+        "Eleven redogör <strong>översiktligt</strong> för biologins betydelse inom naturbruket samt söker <strong>med viss säkerhet</strong> information om djur.",
+        "I sina beskrivningar och redogörelser använder eleven <strong>med viss säkerhet</strong> begrepp, teorier och modeller."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      "Etologi",
+      [
+        "Olika djurslags naturliga miljö och naturliga beteende.",
+        "Beteendestudier på djur av olika arter i olika miljöer och med olika ålder.",
+        "Etologiska grundbegrepp, till exempel stimuli, rangordning, flockbeteende, tomgångshandlingar, överslagshandlingar och omriktat beteende.",
+        "Domesticeringens inverkan på olika djurslag."
+      ]
+    ],
+    [
+      "Systematik, anatomi och fysiologi",
+      [
+        "De huvudsakliga indelningarna som används inom djurriket för att kategorisera djur.",
+        "Artbegreppet och artkännedom.",
+        "Djurcellens byggnad och livsprocesser.",
+        "Djurens byggnad innefattande hudens, skelettets och muskulaturens uppbyggnad, nervsystemet med sinnesorganen, hjärt-kärlsystemet, matsmältningsapparaten samt fortplantningsorganen.",
+        "Livsprocesser innefattande andning, fodersmältning, energiomvandling, näringsbehov, blodcirkulation, temperaturkontroll och reproduktionsbiologi samt djurens rörelse.",
+        "Samband mellan evolutionen och djurens funktionella byggnad och livsprocesser."
+      ]
+    ],
+    [
+      "Mikrobiologi",
+      [
+        "Mikroorganismer och deras betydelse för djurhälsa och djursjukdomar.",
+        "Virus byggnad, funktion och betydelse för djurhälsa och djursjukdomar.",
+        "Smittämnen, smittspridning och immunförsvar, antibiotika och resistens mot antibiotika.",
+        "Laborationer och undersökningar med aktuell utrustning och aktuellt material från naturbrukets olika verksamhetsområden."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen djurens biologi omfattar punkterna 3-6 och 8 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    2,
+    3,
+    4,
+    5,
+    7
+  ]
+}

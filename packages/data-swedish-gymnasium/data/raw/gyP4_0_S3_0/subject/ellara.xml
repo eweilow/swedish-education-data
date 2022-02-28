@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Ellära</name>
+  <englishName>Electricity theory</englishName>
+  <description
+  >&lt;p&gt;Ämnet ellära behandlar lik- och enfasväxelströmskretsar samt trefassystem med belastningar av olika slag. Det behandlar också ledningsburna störningar och säkerhetsfrågor.&lt;/p&gt;</description>
+  <code>ELL</code>
+  <status>PUBLISHED</status>
+  <version>2</version>
+  <createdDate>2018-05-30T10:48:49+02:00</createdDate>
+  <modifiedDate>2020-02-19T15:51:01+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Ellära&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet ellära ska syfta till att eleverna utvecklar färdigheter i att mäta och beräkna elektriska storheter i lik- och enfasväxelströmskretsar samt i trefassystem med belastningar av olika slag. Den ska också bidra till att eleverna utvecklar förmåga att söka och avhjälpa fel i lik- och enfasväxelströmskretsar samt i trefassystem. Dessutom ska undervisningen leda till att eleverna utvecklar förståelse av hur ledningsbundna störningar uppkommer samt deras verkan på elsystemet.&lt;/p&gt; &lt;p&gt;Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om säkerhetsfrågor och om bestämmelser och standarder inom elområdet.&lt;/p&gt; &lt;p&gt;Undervisningen ska ge eleverna möjlighet att praktiskt utföra mätning och beräkning av elektriska storheter i lik- och enfasväxelströmskretsar samt i trefassystem. Den ska också bidra till att eleverna ges möjlighet att praktiskt söka och avhjälpa fel med hjälp av scheman, ritningar, mätinstrument och övrig utrustning.&lt;/p&gt; &lt;h4&gt;Undervisningen i ämnet ellära ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om elsystemets uppbyggnad och funktion.&lt;/li&gt; &lt;li&gt;Kunskaper om lik- och enfasväxelströmskretsars uppbyggnad och funktion samt färdigheter i att mäta och beräkna elektriska storheter i dessa med belastningar av olika slag.&lt;/li&gt; &lt;li&gt;Kunskaper om trefassystems uppbyggnad och funktion samt färdigheter i att mäta och beräkna elektriska storheter i dessa med belastningar av olika slag.&lt;/li&gt; &lt;li&gt;Kunskaper om uppkomsten av störningar och om deras verkan på elsystemet.&lt;/li&gt; &lt;li&gt;Förmåga att söka och avhjälpa fel i lik- och enfasväxelströmskretsar.&lt;/li&gt; &lt;li&gt;Förmåga att söka och avhjälpa fel i trefassystem.&lt;/li&gt; &lt;li&gt;Kunskaper om säkerhetsfrågor och om bestämmelser och standarder inom elområdet.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Ellära 1, 100 poäng. &lt;/li&gt; &lt;li&gt;Ellära 2, 100 poäng, som bygger på kursen ellära 1.&lt;/li&gt; &lt;li&gt;Praktisk ellära, 100 poäng. &lt;/li&gt;&lt;/ul&gt;</purpose>
+  <skolfsId>2010:154</skolfsId>
+  <applianceDate>2018-08-01T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Ellära 1</name>
+    <englishName>Electricity theory 1</englishName>
+    <description
+    >&lt;p&gt;Kursen ellära 1 omfattar punkterna 2, 4–5 och 7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>ELLELL01</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Ellära 1, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: ELLELL01&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Ledare, halvledare och isolatorer.&lt;/li&gt; &lt;li&gt;Elektriska storheter i lik- och enfasväxelströmskretsar.&lt;/li&gt; &lt;li&gt;Grundläggande principer för motorer, generatorer och transformatorer samt för överföring av elenergi.&lt;/li&gt; &lt;li&gt;Elektrisk serie och parallell koppling.&lt;/li&gt; &lt;li&gt;Lik- och enfasväxelström.&lt;/li&gt; &lt;li&gt;Elektriska och magnetiska fält.&lt;/li&gt; &lt;li&gt;Elektromagnetisk kompabilitet (EMC), övertoner och faskompensering.&lt;/li&gt; &lt;li&gt;Resistiva, induktiva och kapacitiva kretsar.&lt;/li&gt; &lt;li&gt;Olika mättekniker samt metoder för att analysera mätvärden och utföra felsökning och felavhjälpning.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för lik- och enfasväxelströmskretsars uppbyggnad och funktion samt för olika belastningars inverkan på kretsar och elsystem. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare elektriska mätningar på lik- och enfasväxelströmskretsar. Inför arbetet väljer eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; lämpliga mätmetoder och mätinstrument. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;riskbedömning och anpassar vid behov mätningen efter den. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare &lt;strong&gt;enkla&lt;/strong&gt; beräkningar. Utifrån resultaten av mätningarna och beräkningarna föreslår eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämpliga åtgärder för att avhjälpa fel i elsystemet. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare dessa åtgärder. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för lik- och enfasväxelströmskretsars uppbyggnad och funktion samt för olika belastningars inverkan på kretsar och elsystem. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare elektriska mätningar på lik- och enfasväxelströmskretsar. Inför arbetet väljer eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; lämpliga mätmetoder och mätinstrument. Dessutom gör eleven en riskbedömning och anpassar vid behov mätningen efter den. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare beräkningar. Utifrån resultaten av mätningarna och beräkningarna föreslår eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämpliga åtgärder för att avhjälpa fel i elsystemet. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare dessa åtgärder. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för lik- och enfasväxelströmskretsars uppbyggnad och funktion samt för olika belastningars inverkan på kretsar och elsystem. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare elektriska mätningar på lik- och enfasväxelströmskretsar. Inför arbetet väljer eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; lämpliga mätmetoder och mätinstrument. Dessutom gör eleven en &lt;strong&gt;välgrundad &lt;/strong&gt;riskbedömning och anpassar vid behov mätningen efter den. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare &lt;strong&gt;avancerade&lt;/strong&gt; beräkningar. Utifrån resultaten av mätningarna och beräkningarna föreslår eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;lämpliga åtgärder för att avhjälpa fel i elsystemet. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare dessa åtgärder. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Ellära 2</name>
+    <englishName>Electricity theory 2</englishName>
+    <description
+    >&lt;p&gt;Kursen ellära 2 omfattar punkterna 3–4 och 6–7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>ELLELL02</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Ellära 2, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: ELLELL02&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Trefassystemets uppbyggnad och funktion från transformator till belastning.&lt;/li&gt; &lt;li&gt;Resistiva, induktiva och kapacitiva kretsar i trefasnät.&lt;/li&gt; &lt;li&gt;Skillnader mellan symmetrisk och osymmetrisk belastning.&lt;/li&gt; &lt;li&gt;Trefasmotorers och trefastransformatorers funktion och påverkan i trefassystemet.&lt;/li&gt; &lt;li&gt;Olika spänningssystems funktion inom distribution och industri.&lt;/li&gt; &lt;li&gt;TN-C-systemets samt TN-S-systemets uppbyggnad, funktion och användning. &lt;/li&gt; &lt;li&gt;Elektriska och magnetiska fälts uppkomst och verkan.&lt;/li&gt; &lt;li&gt;Vagabonderande strömmars uppkomst och utbredning.&lt;/li&gt; &lt;li&gt;Skyddsledarens funktion och verkan.&lt;/li&gt; &lt;li&gt;Linjära och olinjära lasters verkan på uppkomsten av övertoner.&lt;/li&gt; &lt;li&gt;Kraftelektroniska utrustningars användning och funktion.&lt;/li&gt; &lt;li&gt;Filtrering, stabilisering och andra åtgärder för att minska ledningsburna störningar.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för trefassystemets uppbyggnad och funktion samt för olika belastningars inverkan på elsystemet. Dessutom redogör eleven &lt;strong&gt;översiktligt &lt;/strong&gt;för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare elektriska mätningar på trefassystem. Inför arbetet väljer eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; lämpliga mätmetoder och mätinstrument. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;riskbedömning och anpassar vid behov mätningen efter den. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare &lt;strong&gt;enkla&lt;/strong&gt; beräkningar. Utifrån resultaten av mätningarna och beräkningarna föreslår eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämpliga åtgärder för att avhjälpa fel i elsystemet. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare dessa åtgärder. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för trefassystemets uppbyggnad och funktion samt för olika belastningars inverkan på elsystemet. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare elektriska mätningar på trefassystem. Inför arbetet väljer eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; lämpliga mätmetoder och mätinstrument. Dessutom gör eleven en riskbedömning och anpassar vid behov mätningen efter den. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare beräkningar. Utifrån resultaten av mätningarna och beräkningarna föreslår eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämpliga åtgärder för att avhjälpa fel i elsystemet. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare dessa åtgärder. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för trefassystemets uppbyggnad och funktion samt för olika belastningars inverkan på elsystemet. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för hur störningar i elsystemet uppstår och vilken verkan de har på elsystemet.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare elektriska mätningar på trefassystem. Inför arbetet väljer eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; lämpliga mätmetoder och mätinstrument. Dessutom gör eleven en &lt;strong&gt;välgrundad &lt;/strong&gt;riskbedömning och anpassar vid behov mätningen efter den. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare &lt;strong&gt;avancerade&lt;/strong&gt; beräkningar. Utifrån resultaten av mätningarna och beräkningarna föreslår eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;lämpliga åtgärder för att avhjälpa fel i elsystemet. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare dessa åtgärder. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Praktisk ellära</name>
+    <englishName>Practical electricity</englishName>
+    <description
+    >&lt;p&gt;Kursen praktisk ellära omfattar punkterna 1–7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>ELLPRA0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Praktisk ellära, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: ELLPRA0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Elsystemets uppbyggnad och funktion från transformator till belastning.&lt;/li&gt; &lt;li&gt;Elektriskt material, till exempel ledare, halvledare och isolatorer.&lt;/li&gt; &lt;li&gt;Elektriska storheter och samband.&lt;/li&gt; &lt;li&gt;Mätinstrument och metoder för att mäta elektriska storheter.&lt;/li&gt; &lt;li&gt;Likströmskretsars och enfasväxelströmskretsars funktion.&lt;/li&gt; &lt;li&gt;Skillnader mellan symmetrisk och osymmetrisk belastning.&lt;/li&gt; &lt;li&gt;TN-C-systemets och TN-S-systemets uppbyggnad, funktion och användning.&lt;/li&gt; &lt;li&gt;Elektriska och magnetiska fälts uppkomst och verkan.&lt;/li&gt; &lt;li&gt;Skyddsledarens funktion och verkan.&lt;/li&gt; &lt;li&gt;Säkerhetsfrågor, bestämmelser och standarder inom elområdet.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för elsystemets, lik- och enfasväxelströmskretsars och trefassystems uppbyggnad och funktion samt för olika belastningars inverkan på elsystemet.&lt;/p&gt; &lt;p&gt;Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare elektriska mätningar på elsystemet. Inför arbetet väljer eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; lämpliga mätmetoder och mätinstrument. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;riskbedömning och anpassar vid behov mätningen efter den. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare &lt;strong&gt;enkla&lt;/strong&gt; beräkningar. Utifrån resultaten av mätningarna och beräkningarna föreslår eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämpliga åtgärder för att avhjälpa fel i elsystemet. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare dessa åtgärder. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.&lt;/p&gt; &lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för elsystemets, lik- och enfasväxelströmskretsars och trefassystems uppbyggnad och funktion samt för olika belastningars inverkan på elsystemet.&lt;/p&gt; &lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare elektriska mätningar på elsystemet. Inför arbetet väljer eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; lämpliga mätmetoder och mätinstrument. Dessutom gör eleven en riskbedömning och anpassar vid behov mätningen efter den. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare beräkningar. Utifrån resultaten av mätningarna och beräkningarna föreslår eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;lämpliga åtgärder för att avhjälpa fel i elsystemet. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare dessa åtgärder. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.&lt;/p&gt; &lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för elsystemets, lik- och enfasväxelströmskretsars och trefassystems uppbyggnad och funktion samt för olika belastningars inverkan på elsystemet. &lt;/p&gt; &lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare elektriska mätningar på elsystemet. Inför arbetet väljer eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; lämpliga mätmetoder och mätinstrument &lt;strong&gt;samt motiverar sina val&lt;/strong&gt;. Dessutom gör eleven en &lt;strong&gt;välgrundad &lt;/strong&gt;riskbedömning och anpassar vid behov mätningen efter den. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare &lt;strong&gt;avancerade&lt;/strong&gt; beräkningar. Utifrån resultaten av mätningarna och beräkningarna föreslår eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;lämpliga åtgärder för att avhjälpa fel i elsystemet. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare dessa åtgärder. Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet.&lt;/p&gt; &lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

@@ -1,0 +1,88 @@
+{
+  "name": "Logistik 1",
+  "code": "INKLOG01",
+  "focusAreas": {
+    "string": "Kursen logistik 1 omfattar punkterna 1-2, 4-6 och 9-10 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "entries": [
+      "1-2",
+      "4-6",
+      "9-10"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Logistikens roll i företaget.",
+          "2. Praktiskt logistik-, lager- och inköpsarbete samt organisering av lager, struktur, utrustning, plockmetoder och arbetsorganisation.",
+          "3. Lagerfunktioner, lagerhållning och lagrets olika avdelningar och arbetsuppgifter.",
+          "4. Logistikens utveckling.",
+          "5. Varans väg från producent till konsument.",
+          "6. Varudistribution och distributionssystem.",
+          "7. Leveransprocessen, leveransbevakning och kvalitet.",
+          "8. Värdeskapande i försörjningskedjan.",
+          "9. Lagar och andra bestämmelser.",
+          "10. Arbetsmiljö och ergonomi.",
+          "11. Miljö- och resurshushållningsfrågor."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **översiktligt** för hur grundläggande logistikarbete planeras och utförs samt värderar med **enkla** omdömen olika logistikstrategier.",
+        "Dessutom beskriver eleven **översiktligt** logistikens utveckling samt redogör **översiktligt** för hur försörjningskedjan fungerar från tillverkare till konsument."
+      ],
+      [
+        "Eleven planerar, organiserar och utför **i samråd** med handledare grundläggande arbetsuppgifter inom logistikområdet enligt gällande lagar och andra bestämmelser.",
+        null,
+        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med **enkla** omdömen."
+      ],
+      [
+        "Eleven redogör **översiktligt** för arbetsmiljöfrågor.",
+        "Dessutom diskuterar eleven **översiktligt** logistikfrågor utifrån miljö- och resurshushållning."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för hur grundläggande logistikarbete planeras och utförs samt värderar med **enkla** omdömen olika logistikstrategier.",
+        "Dessutom beskriver eleven **utförligt** logistikens utveckling samt redogör **utförligt** för hur försörjningskedjan fungerar från tillverkare till konsument."
+      ],
+      [
+        "Eleven planerar, organiserar och utför **efter samråd** med handledare grundläggande arbetsuppgifter inom logistikområdet enligt gällande lagar och andra bestämmelser.",
+        "**Eleven genomför arbetet på ett välorganiserat sätt**.",
+        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen."
+      ],
+      [
+        "Eleven redogör **utförligt** för arbetsmiljöfrågor.",
+        "Dessutom diskuterar eleven **utförligt** logistikfrågor utifrån miljö- och resurshushållning."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för hur grundläggande logistikarbete planeras och utförs samt värderar med **nyanserade** omdömen olika logistikstrategier.",
+        "Dessutom beskriver eleven **utförligt och nyanserat** logistikens utveckling samt redogör **utförligt och nyanserat** för hur försörjningskedjan fungerar från tillverkare till konsument."
+      ],
+      [
+        "Eleven planerar, organiserar och utför **efter samråd** med handledare grundläggande arbetsuppgifter inom logistikområdet enligt gällande lagar och andra bestämmelser.",
+        "**Eleven genomför arbetet på ett välorganiserat sätt samt tar egna initiativ i arbetet**.",
+        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**."
+      ],
+      [
+        "Eleven redogör **utförligt och nyanserat** för arbetsmiljöfrågor.",
+        "Dessutom diskuterar eleven **utförligt och nyanserat** logistikfrågor utifrån miljö- och resurshushållning."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

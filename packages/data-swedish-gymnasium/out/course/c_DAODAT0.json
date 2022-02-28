@@ -1,0 +1,76 @@
+{
+  "subject": "DAO",
+  "title": "Datorsamordning och support",
+  "code": "DAODAT0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> hur kundmottagning kan bedrivas och hur ärendehanteringssystem är uppbyggda och fungerar."
+      ],
+      [
+        "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>mycket gott</strong> handlag felsökning samt åtgärdar <strong>avancerade</strong> fel i datorer och datorsystem.",
+        "Dessutom planerar och utför eleven <strong>efter samråd</strong> med handledare och <strong>med säkerhet</strong> pedagogisk handledning och support till kund.",
+        "Resultatet är <strong>gott</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "Eleven hanterar med <strong>mycket gott</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven <strong>med säkerhet</strong> instruktioner, manualer och andra dokument på både svenska och engelska samt gör en <strong>noggrann och utförlig</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> hur kundmottagning kan bedrivas och hur ärendehanteringssystem är uppbyggda och fungerar."
+      ],
+      [
+        "Eleven planerar och utför <strong>efter samråd</strong> med handledare och med <strong>gott</strong> handlag felsökning samt åtgärdar fel i datorer och datorsystem.",
+        "Dessutom planerar och utför eleven <strong>efter samråd</strong> med handledare och <strong>med viss säkerhet</strong> pedagogisk handledning och support till kund.",
+        "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "Eleven hanterar med <strong>gott</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument på både svenska och engelska samt gör en <strong>noggrann</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> hur kundmottagning kan bedrivas och hur ärendehanteringssystem är uppbyggda och fungerar."
+      ],
+      [
+        "Eleven planerar och utför <strong>i samråd</strong> med handledare och med <strong>visst</strong> handlag felsökning samt åtgärdar <strong>enkla</strong> fel i datorer och datorsystem.",
+        "Dessutom planerar och utför eleven <strong>i samråd</strong> med handledare och <strong>med viss säkerhet</strong> pedagogisk handledning och support till kund.",
+        "Resultatet är <strong>tillfredsställande</strong> i fråga om funktion, säkerhet och kvalitet.",
+        "Eleven hanterar med <strong>visst</strong> handlag utrustning och verktyg samt utför arbetet på ett säkert sätt.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> instruktioner, manualer och andra dokument på både svenska och engelska samt gör en <strong>enkel</strong> dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Grundläggande felsökningsmetodik.",
+        "Systemintegration.",
+        "Teknisk dokumentation av datorsystem.",
+        "Kundmottagning och ärendehantering, till exempel muntlig kundmottagning, kundmottagning med e-post och andra typer av ärendehanteringssystem.",
+        "Analysera användarkrav och översätta dem till konkreta lösningar.",
+        "Pedagogisk handledning av it-system. Det pedagogiska tankesättet och kunskaper om tekniker för pedagogisk handledning, till exempel fjärrstyrning av muspekare.",
+        "Licenstyper och licenshantering.",
+        "Utvärdering och val av it-produkter på marknaden i dagsläget.",
+        "Manualer och annan hjälpdokumentation för användare, till exempel enkel text, hypertext, bilder, filmer, inspelade musrörelser och menyhantering."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen datorsamordning och support omfattar punkterna 2-5 under rubriken Ämnets syfte, med särskild betoning på punkt 5.",
+  "applicableSubjectPurposes": [
+    1,
+    2,
+    3,
+    4
+  ]
+}

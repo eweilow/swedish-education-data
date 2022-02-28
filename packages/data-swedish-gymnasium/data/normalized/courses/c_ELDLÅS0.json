@@ -1,0 +1,102 @@
+{
+  "name": "Lågspänningsnät",
+  "code": "ELDLÅS0",
+  "focusAreas": {
+    "string": "Kursen lågspänningsnät omfattar punkterna 1-8 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "entries": [
+      "1-8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Nätstationer och stolpstationer.",
+          "2. Konstruktioner, kablar och komponenter.",
+          "3. Nybyggnad och ombyggnad, driftsättning, underhåll samt reparation av lågspänningsnät.",
+          "4. Luftledningsnät och jordkabelnät.",
+          "5. Kabelarbete samt tillverkning av skarvar och avslut.",
+          "6. Montering och inkoppling av kabelskåp.",
+          "7. Krafter, stagning och förankring.",
+          "8. Underhåll och besiktning.",
+          "9. Byggnadssätt, föreskrifter och standarder, till exempel elbyggnadsrationalisering (EBR).",
+          "10. Säkerhetsföreskrifter och arbetsmiljöföreskrifter.",
+          "11. Elsäkerhetsanvisningarna (ESA).",
+          "12. Linjescheman och kartor.",
+          "13. Dokument för bevisväxling.",
+          "14. Verktyg, maskiner och annan utrustning.",
+          "15. Säkerhet och ergonomi. Driftsäkerhet. Skyddskläder och säkerhetsutrustningar.",
+          "16. Nedtagning av nödställd.",
+          "17. Kommunikation med arbetsledning och medarbetare.",
+          "18. Spänningsprovning och arbetsjordning."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** hur lågspänningsnäts och lågspänningsanläggningars komponenter, utrustningar och stationer fungerar och arbetar."
+      ],
+      [
+        "Eleven planerar **i samråd** med handledare vanligt förekommande arbete i lågspänningsnät och lågspänningsanläggningar utifrån föreskrifter och standarder inom området.",
+        "I planeringen läser och tolkar eleven **med viss säkerhet** elscheman och andra dokument.",
+        "Dessutom väljer eleven **med viss säkerhet** lämpliga metoder och lämplig utrustning för arbetet.",
+        "Inför arbetet gör eleven en **enkel** riskbedömning och anpassar vid behov sin planering utifrån den.",
+        "Eleven utför **i samråd** med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra.",
+        "I arbetet använder eleven **med viss säkerhet** metoderna och utrustningen.",
+        "Under arbetets gång upptäcker eleven **enkla** problem som uppkommer och löser dem **i samråd** med handledare.",
+        "I arbetet kommunicerar eleven **med viss säkerhet** med andra."
+      ],
+      [
+        "Eleven kontrollerar **i samråd** med handledare säkerheten i anläggningar samt söker och reparerar **i samråd** med handledare **enkla** fel som uppkommer i såväl nya som befintliga anläggningar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** hur lågspänningsnäts och lågspänningsanläggningars komponenter, utrustningar och stationer fungerar och arbetar."
+      ],
+      [
+        "Eleven planerar **efter samråd** med handledare vanligt förekommande arbete i lågspänningsnät och lågspänningsanläggningar utifrån föreskrifter och standarder inom området.",
+        "I planeringen läser och tolkar eleven **med viss säkerhet** elscheman och andra dokument.",
+        "Dessutom väljer eleven **med viss säkerhet** lämpliga metoder och lämplig utrustning för arbetet.",
+        "Inför arbetet gör eleven en riskbedömning och anpassar vid behov sin planering utifrån den.",
+        "Eleven utför **efter samråd** med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra.",
+        "I arbetet använder eleven **med viss säkerhet** metoderna och utrustningen.",
+        "Under arbetets gång upptäcker eleven problem som uppkommer och löser dem **efter samråd** med handledare.",
+        "I arbetet kommunicerar eleven **med viss säkerhet** med andra."
+      ],
+      [
+        "Eleven kontrollerar **efter samråd** med handledare säkerheten i anläggningar samt söker och reparerar **efter samråd** med handledare fel som uppkommer i såväl nya som befintliga anläggningar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** hur lågspänningsnäts och lågspänningsanläggningars komponenter, utrustningar och stationer fungerar och arbetar."
+      ],
+      [
+        "Eleven planerar **efter samråd** med handledare vanligt förekommande arbete i lågspänningsnät och lågspänningsanläggningar utifrån föreskrifter och standarder inom området.",
+        "I planeringen läser och tolkar eleven **med säkerhet** elscheman och andra dokument.",
+        "Dessutom väljer eleven **med säkerhet** lämpliga metoder och lämplig utrustning för arbetet.",
+        "Inför arbetet gör eleven en **välgrundad** riskbedömning och anpassar vid behov sin planering utifrån den.",
+        "Eleven utför **efter samråd** med handledare arbetet på ett sätt som är säkert och ergonomiskt för eleven själv och andra.",
+        "I arbetet använder eleven **med säkerhet** metoderna och utrustningen.",
+        "Under arbetets gång upptäcker eleven **avancerade** problem som uppkommer och löser dem **efter samråd** med handledare.",
+        "I arbetet kommunicerar eleven **med säkerhet** med andra."
+      ],
+      [
+        "Eleven kontrollerar **efter samråd** med handledare säkerheten i anläggningar samt söker och reparerar **efter samråd** med handledare **avancerade** fel som uppkommer i såväl nya som befintliga anläggningar."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "subject": "ELL",
+  "title": "Praktisk ellära",
+  "code": "ELLPRA0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för elsystemets, lik- och enfasväxelströmskretsars och trefassystems uppbyggnad och funktion samt för olika belastningars inverkan på elsystemet."
+      ],
+      [
+        "Eleven utför <strong>efter samråd</strong> med handledare elektriska mätningar på elsystemet.",
+        "Inför arbetet väljer eleven <strong>med säkerhet</strong> lämpliga mätmetoder och mätinstrument <strong>samt motiverar sina val</strong>.",
+        "Dessutom gör eleven en <strong>välgrundad</strong> riskbedömning och anpassar vid behov mätningen efter den.",
+        "Eleven utför <strong>efter samråd</strong> med handledare <strong>avancerade</strong> beräkningar.",
+        "Utifrån resultaten av mätningarna och beräkningarna föreslår eleven <strong>med säkerhet</strong> lämpliga åtgärder för att avhjälpa fel i elsystemet.",
+        "Eleven utför <strong>efter samråd</strong> med handledare dessa åtgärder.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör <strong>utförligt</strong> för elsystemets, lik- och enfasväxelströmskretsars och trefassystems uppbyggnad och funktion samt för olika belastningars inverkan på elsystemet."
+      ],
+      [
+        "Eleven utför <strong>efter samråd</strong> med handledare elektriska mätningar på elsystemet.",
+        "Inför arbetet väljer eleven <strong>med viss säkerhet</strong> lämpliga mätmetoder och mätinstrument.",
+        "Dessutom gör eleven en riskbedömning och anpassar vid behov mätningen efter den.",
+        "Eleven utför <strong>efter samråd</strong> med handledare beräkningar.",
+        "Utifrån resultaten av mätningarna och beräkningarna föreslår eleven <strong>med viss säkerhet</strong> lämpliga åtgärder för att avhjälpa fel i elsystemet.",
+        "Eleven utför <strong>efter samråd</strong> med handledare dessa åtgärder.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven redogör <strong>översiktligt</strong> för elsystemets, lik- och enfasväxelströmskretsars och trefassystems uppbyggnad och funktion samt för olika belastningars inverkan på elsystemet."
+      ],
+      [
+        "Eleven utför <strong>i samråd</strong> med handledare elektriska mätningar på elsystemet.",
+        "Inför arbetet väljer eleven <strong>med viss säkerhet</strong> lämpliga mätmetoder och mätinstrument.",
+        "Dessutom gör eleven en <strong>enkel</strong> riskbedömning och anpassar vid behov mätningen efter den.",
+        "Eleven utför <strong>i samråd</strong> med handledare <strong>enkla</strong> beräkningar.",
+        "Utifrån resultaten av mätningarna och beräkningarna föreslår eleven <strong>med viss säkerhet</strong> lämpliga åtgärder för att avhjälpa fel i elsystemet.",
+        "Eleven utför <strong>i samråd</strong> med handledare dessa åtgärder.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra samt utifrån bestämmelser och standarder inom elområdet."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Elsystemets uppbyggnad och funktion från transformator till belastning.",
+        "Elektriskt material, till exempel ledare, halvledare och isolatorer.",
+        "Elektriska storheter och samband.",
+        "Mätinstrument och metoder för att mäta elektriska storheter.",
+        "Likströmskretsars och enfasväxelströmskretsars funktion.",
+        "Skillnader mellan symmetrisk och osymmetrisk belastning.",
+        "TN-C-systemets och TN-S-systemets uppbyggnad, funktion och användning.",
+        "Elektriska och magnetiska fälts uppkomst och verkan.",
+        "Skyddsledarens funktion och verkan.",
+        "Säkerhetsfrågor, bestämmelser och standarder inom elområdet."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen praktisk ellära omfattar punkterna 1-7 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ]
+}

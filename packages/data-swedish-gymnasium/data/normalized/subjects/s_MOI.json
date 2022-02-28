@@ -1,0 +1,42 @@
+{
+  "name": "Mobila applikationer",
+  "code": "MOI",
+  "description": [
+    "Ämnet mobila applikationer behandlar olika tekniker för att utveckla programvara riktad mot mobila enheter samt processen från idé till färdigt program. Ämnet mobila applikationer får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet mobila applikationer ska syfta till att eleverna utvecklar färdigheter i att skapa applikationer anpassade för mobila enheter med hjälp av en eller flera tekniker. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om olika mobila enheters konstruktion och funktionalitet samt samspelet mellan olika sorters applikationslogik. Genom undervisningen ska eleverna även ges möjlighet att utveckla förmågan att utforma produkter som följer standarder samt riktlinjer för god praxis, användbarhet, tillgänglighet och säkerhet. Undervisningen ska dessutom leda till att eleverna utvecklar kunskaper om mobila enheters möjligheter och begränsningar.",
+          "I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om och färdigheter i att använda utvecklingsverktyg för att producera och kontrollera framställning av den kod som ligger till grund för applikationen. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om projektarbete och dess olika faser, enskilt eller i grupp."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet mobila applikationer ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Kunskaper om olika tekniker som kan användas för att bygga mobila applikationer.",
+          "2. Förmåga att planera, genomföra, dokumentera och utvärdera utvecklingsprojekt för mobila applikationer.",
+          "3. Kunskaper om gränssnitt mot användare, datalagring och mobilspecifik kringutrustning.",
+          "4. Kunskaper om applikationsarkitektur inklusive separation av olika slags logik.",
+          "5. Kunskaper om lagar och andra bestämmelser inom området samt förmåga att göra etiska överväganden och reflektera över integritetsfrågor.",
+          "6. Förmåga att samarbeta och kommunicera med andra och färdigheter i att använda fackspråk."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Mobila applikationer, 100 poäng."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2017-07-07T08:01:09.000Z",
+  "modifiedDate": "2020-02-19T14:58:46.000Z",
+  "courseCodes": [
+    "MOIMOB3"
+  ]
+}

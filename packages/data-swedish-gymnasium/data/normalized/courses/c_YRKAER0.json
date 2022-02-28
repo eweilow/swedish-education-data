@@ -1,0 +1,60 @@
+{
+  "name": "Aerodynamik",
+  "code": "YRKAER0",
+  "focusAreas": {
+    "string": "Kursen aerodynamik omfattar punkterna 1 och 5 under rubriken Ämnets syfte.",
+    "entries": [
+      "1",
+      "5"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Atmosfärens fysik med tillämpning på aerodynamik.",
+          "2. Aerodynamiska termer och begrepp relaterade till luftfartyg.",
+          "3. Flygteori som berör samband mellan krafter och faktorer som inverkar på lyftkraft och motstånd.",
+          "4. Flygstabilitet och dynamik.",
+          "5. Fackspråk på svenska och engelska."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** atmosfärens betydelse, hur lyftkraft skapas vid olika förhållanden och hur atmosfäriska omständigheter påverkar luftfartyg.",
+        "Eleven använder **med viss säkerhet** för området relevanta begrepp.",
+        "När eleven kommunicerar med andra använder hen **med viss säkerhet** relevant fackspråk på svenska och engelska.",
+        "Resultatet av elevens arbete är **tillfredsställande**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** atmosfärens betydelse, hur lyftkraft skapas vid olika förhållanden och hur atmosfäriska omständigheter påverkar luftfartyg.",
+        "Eleven använder **med viss säkerhet** för området relevanta begrepp.",
+        "När eleven kommunicerar med andra använder hen **med viss säkerhet** relevant fackspråk på svenska och engelska.",
+        "Resultatet av elevens arbete är **tillfredsställande**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** atmosfärens betydelse, hur lyftkraft skapas vid olika förhållanden och hur atmosfäriska omständigheter påverkar luftfartyg.",
+        "Eleven använder **med säkerhet** för området relevanta begrepp.",
+        "När eleven kommunicerar med andra använder hen **med säkerhet** relevant fackspråk på svenska och engelska.",
+        "Resultatet av elevens arbete är **gott**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

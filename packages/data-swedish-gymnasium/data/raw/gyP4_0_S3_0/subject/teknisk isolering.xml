@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Teknisk isolering</name>
+  <englishName>Technical insulation</englishName>
+  <description
+  >&lt;p&gt;Den tekniska utvecklingen i samhället ställer allt större krav på inomhusmiljö och minskad energiförbrukning. Ämnet teknisk isolering behandlar isolering av tekniska installationer samt lagar och andra bestämmelser inom området.&lt;/p&gt;</description>
+  <code>TEI</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2010-10-28T14:27:53+02:00</createdDate>
+  <modifiedDate>2020-02-19T16:02:20+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Teknisk isolering&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet teknisk isolering ska syfta till att eleverna utvecklar färdigheter i att utföra isolering av varma och kalla installationer och av luftbehandlingssystem samt isolering för att dämpa ljud. Den ska också leda till att eleverna utvecklar kunskaper om skydd mot brand- och brandgasspridning. Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om material för isolering och ytbeklädnad samt om arbetsmetoder vid isolering av VVS-installationer. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att använda ritningar och beskrivningar.&lt;/p&gt;&lt;p&gt;Undervisningen ska leda till att eleverna utvecklar kunskaper om arbetsmiljö, bygglagstiftning och övriga bestämmelser som styr verksamheten. Eleverna ska också utveckla kunskaper i att förebygga och hantera brand i den egna arbetsmiljön. Dessutom ska undervisningen ge eleverna möjlighet att utveckla servicekänsla och kunskaper i entreprenörskap. Eleverna ska ges möjlighet att utveckla kunskaper om yrkesetik. Undervisningen ska också bidra till att eleverna utvecklar ett hantverkskunnande vid hantering av de verktyg, maskiner och material som förekommer inom isoleringsbranschen.&lt;/p&gt;&lt;p&gt;Genom ett problemlösande arbetssätt och praktiskt laborativa övningar i undervisningen ska eleverna ges möjlighet att utveckla förmåga att arbeta ansvarsfullt, individuellt och i samarbete med andra. Undervisningen ska genomföras så att de praktiska och teoretiska kunskaperna kopplas samman.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet teknisk isolering ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om isoleringsmaterial, hur dessa är konstruerade samt vilka egenskaper och användningsområden de har.&lt;/li&gt; &lt;li&gt;Kunskaper om material för ytbeklädnad, hur dessa är konstruerade samt vilka egenskaper och användningsområden de har.&lt;/li&gt; &lt;li&gt;Förmåga att planera och utföra isolering av tekniska installationer inom bygg- och industrisektorn samt att tillverka och montera material för ytbeklädnad utifrån hantverksmässiga och estetiska krav.&lt;/li&gt; &lt;li&gt;Färdigheter i att använda ritningar och beskrivningar samt kunskaper om lagar och andra bestämmelser som styr verksamheten.&lt;/li&gt; &lt;li&gt;Förmåga att använda verktyg, maskiner och andra hjälpmedel som förekommer inom teknisk isolering.&lt;/li&gt; &lt;li&gt;Kunskaper om systematiskt arbetsmiljöarbete enligt gällande skyddsföreskrifter.&lt;/li&gt; &lt;li&gt;Förmåga att utföra kontroller samt att värdera och dokumentera sitt arbete.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Industriisolering, 200 poäng.&lt;/li&gt; &lt;li&gt;VVS-isolering, 100 poäng.&lt;/li&gt; &lt;li&gt;Ytbeklädnad – grund, 200 poäng.&lt;/li&gt; &lt;li&gt;Brand- och ljudisolering, 200 poäng, som bygger på kursen VVS-isolering.&lt;/li&gt; &lt;li&gt;Kondensisolering, 100 poäng, som bygger på kursen VVS-isolering och kursen ytbeklädnad – grund.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2010:80</skolfsId>
+  <applianceDate>2011-07-01T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Industriisolering</name>
+    <englishName>Industrial insulation</englishName>
+    <description
+    >&lt;p&gt;Kursen industriisolering omfattar punkterna 1–7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>TEIINT0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Industriisolering, 200 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: TEIINT0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Olika typer av isoleringsmaterial och material för ytbeklädnad för industriisolering. Materialens konstruktion, egenskaper och användningsområden.&lt;/li&gt; &lt;li&gt;Planering och organisering av arbetsplatser och arbetsuppgifter vid isolering av industriobjekt.&lt;/li&gt; &lt;li&gt;Isoleringsteori, ritningar, arbetsbeskrivningar och monteringsanvisningar.&lt;/li&gt; &lt;li&gt;Isoleringsteknik inom industrisektorn, till exempel kyl- och värmebärande installationer, cisterner och pannor.&lt;/li&gt; &lt;li&gt;Problem som kan uppstå med expansion i rörledningar och produkter samt hur de förebyggs.&lt;/li&gt; &lt;li&gt;Metoder för isolering av cisternsidor och av kupade och koniska domgavlar med lämpligt isoleringsmaterial samt med ytbeklädnad av slät och korrugerad plåt.&lt;/li&gt; &lt;li&gt;Metoder för isolering och ytbeklädnad av fläktar.&lt;/li&gt; &lt;li&gt;Metoder för infällningar i rörsvep och böjar.&lt;/li&gt; &lt;li&gt;Metoder för tillverkning av kåpor vid flänskopplingar och ventiler.&lt;/li&gt; &lt;li&gt;Metoder för tillverkning av dimensionsförändringar och paketisolering.&lt;/li&gt; &lt;li&gt;Arbetsmetoder vid falsning av olika plåtkvaliteter.&lt;/li&gt; &lt;li&gt;Material och sammanfogningsmetoder vid taktäckning av cisterner.&lt;/li&gt; &lt;li&gt;Material och arbetsmetoder för specialisolering, till exempel eldfast fiber, cellglas, spegelisolering och madrasser för svåråtkomliga detaljer och oregelbundna ytor.&lt;/li&gt; &lt;li&gt;Verktyg, maskiner och andra hjälpmedel.&lt;/li&gt; &lt;li&gt;Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen. Ergonomiskt riktigt arbetssätt.&lt;/li&gt; &lt;li&gt;Kontroll och dokumentation av utförda åtgärder.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>200</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver&lt;strong&gt; översiktligt&lt;/strong&gt; olika typer av isoleringsmaterial och material för ytbeklädnad för industriisolering. Dessutom beskriver eleven &lt;strong&gt;översiktligt &lt;/strong&gt;hur dessa är konstruerade samt vilka egenskaper och användningsområden de har.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;någon vanligt förekommande metod. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven med &lt;strong&gt;visst &lt;/strong&gt;handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;enkla &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver&lt;strong&gt; utförligt&lt;/strong&gt; olika typer av isoleringsmaterial och material för ytbeklädnad för industriisolering. Dessutom beskriver eleven &lt;strong&gt;utförligt &lt;/strong&gt;hur dessa är konstruerade samt vilka egenskaper och användningsområden de har.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;någon vanligt förekommande metod. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven med &lt;strong&gt;gott &lt;/strong&gt;handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem. Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver&lt;strong&gt; utförligt och nyanserat&lt;/strong&gt; olika typer av isoleringsmaterial och material för ytbeklädnad för industriisolering. Dessutom beskriver eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;hur dessa är konstruerade samt vilka egenskaper och användningsområden de har.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;någon vanligt förekommande metod. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem. Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. Dessutom gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>VVS-isolering</name>
+    <englishName>HVS-insulation</englishName>
+    <description
+    >&lt;p&gt;Kursen VVS-isolering omfattar punkterna 1–7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>TEIVVS0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;VVS-isolering, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: TEIVVS0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Olika typer av isoleringsmaterial samt deras konstruktion, egenskaper och användningsområden. Historik över äldre isoleringsmaterial och arbetsmetoder.&lt;/li&gt; &lt;li&gt;Material för ytbeklädnad av VVS-installationer samt materialens användningsområden.&lt;/li&gt; &lt;li&gt;Planering och organisering av arbetsplatser och arbetsuppgifter vid isolering av VVS-installtioner.&lt;/li&gt; &lt;li&gt;Isoleringsteori, ritningar, arbetsbeskrivningar och monteringsanvisningar.&lt;/li&gt; &lt;li&gt;Isoleringsteknik med metoder och utrustning för VVS-installationer.&lt;/li&gt; &lt;li&gt;Montering av rörskålar med spirallindning och bandning samt av olika ytbeklädnader, till exempel plastplåt och tunn mönsterpräglad aluminiumplåt.&lt;/li&gt; &lt;li&gt;Utbredning av plastplåt och tunn mönsterpräglad aluminiumplåt.&lt;/li&gt; &lt;li&gt;Verktyg, maskiner och andra hjälpmedel.&lt;/li&gt; &lt;li&gt;Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen. &lt;/li&gt; &lt;li&gt;Ergonomiskt riktigt arbetssätt.&lt;/li&gt; &lt;li&gt;Kontroll och dokumentation av utförda åtgärder.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver&lt;strong&gt; översiktligt&lt;/strong&gt; olika typer av isoleringsmaterial, hur de är konstruerade samt vilka egenskaper och användningsområden de har. Eleven redogör också &lt;strong&gt;översiktligt &lt;/strong&gt;för äldre isoleringsmaterial och arbetsmetoder. Dessutom beskriver eleven &lt;strong&gt;översiktligt &lt;/strong&gt;material för ytbeklädnad av VVS-installationer.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;någon vanligt förekommande metod. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven med &lt;strong&gt;visst &lt;/strong&gt;handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;enkla &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver&lt;strong&gt; utförligt&lt;/strong&gt; olika typer av isoleringsmaterial, hur de är konstruerade samt vilka egenskaper och användningsområden de har. Eleven redogör också &lt;strong&gt;utförligt&lt;/strong&gt; för äldre isoleringsmaterial och arbetsmetoder. Dessutom beskriver eleven &lt;strong&gt;utförligt&lt;/strong&gt; material för ytbeklädnad av VVS-installationer.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;någon vanligt förekommande metod. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven med &lt;strong&gt;gott &lt;/strong&gt;handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem. Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver&lt;strong&gt; utförligt och nyanserat&lt;/strong&gt; olika typer av isoleringsmaterial, hur de är konstruerade samt vilka egenskaper och användningsområden de har. Eleven redogör också &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för äldre isoleringsmaterial och arbetsmetoder. Dessutom beskriver eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; material för ytbeklädnad av VVS-installationer.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;någon vanligt förekommande metod. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem. Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. Dessutom gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Ytbeklädnad – grund</name>
+    <englishName>Facing – foundation</englishName>
+    <description
+    >&lt;p&gt;Kursen ytbeklädnad – grund omfattar punkterna 2–7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>TEIYTB0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Ytbeklädnad – grund, 200 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: TEIYTB0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Olika typer av material för ytbeklädnad samt deras konstruktion, egenskaper och användningsområden. Historik över äldre ytbeklädningsmaterial och arbetsmetoder.&lt;/li&gt; &lt;li&gt;Planering och organisering av arbetsplatser och arbetsuppgifter vid isolering och utbredning av ytbeklädnad.&lt;/li&gt; &lt;li&gt;Isoleringsteori, ritningar, arbetsbeskrivningar och monteringsanvisningar.&lt;/li&gt; &lt;li&gt;Tillverkning av böjar, påstick, förgreningar och ändavslut i olika plåtkvaliteter.&lt;/li&gt; &lt;li&gt;Isolering av rörinstallationer och ventilationskanaler med nätmatta och lamellmatta med hopfästning genom fästmetoder som syförfarande och kramling.&lt;/li&gt; &lt;li&gt;Montering av ytbeklädnader på rörledningar, rörsvep och böjsegment.&lt;/li&gt; &lt;li&gt;Konstruktion av och metoder för vanligt förekommande ytbeklädnadsdelar.&lt;/li&gt; &lt;li&gt;Grundläggande arbetsmetoder för plåtbearbetning.&lt;/li&gt; &lt;li&gt;Plåtutbredning med olika falstekniker.&lt;/li&gt; &lt;li&gt;Sammanfogningsmetoder för sickning, falsning, nitning och skruvning.&lt;/li&gt; &lt;li&gt;Måttsättning och beräkning av längd, diameter och omkrets för raka konstruktioner.&lt;/li&gt; &lt;li&gt;Måttsättning och beräkning av radien på böjar samt metoder för uppdelning i segment.&lt;/li&gt; &lt;li&gt;Måttsättning och beräkning av skärningshöjd.&lt;/li&gt; &lt;li&gt;Anpassning av ytbeklädnad vid expansionsrörelser.&lt;/li&gt; &lt;li&gt;Verktyg, maskiner och andra hjälpmedel.&lt;/li&gt; &lt;li&gt;Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen. &lt;/li&gt; &lt;li&gt;Ergonomiskt riktigt arbetssätt.&lt;/li&gt; &lt;li&gt;Kontroll och dokumentation av utförda åtgärder.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>200</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver&lt;strong&gt; översiktligt&lt;/strong&gt; olika typer av material för ytbeklädnad, hur de är konstruerade samt vilka egenskaper och användningsområden de har. Eleven redogör också &lt;strong&gt;översiktligt &lt;/strong&gt;för äldre ytbeklädningsmaterial och arbetsmetoder.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;någon vanligt förekommande metod. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven med &lt;strong&gt;visst &lt;/strong&gt;handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;enkla &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver&lt;strong&gt; utförligt&lt;/strong&gt; olika typer av material för ytbeklädnad, hur de är konstruerade samt vilka egenskaper och användningsområden de har. Eleven redogör också &lt;strong&gt;utförligt &lt;/strong&gt;för äldre ytbeklädningsmaterial och arbetsmetoder.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;någon vanligt förekommande metod. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven med &lt;strong&gt;gott &lt;/strong&gt;handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem. Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver&lt;strong&gt; utförligt och nyanserat&lt;/strong&gt; olika typer av material för ytbeklädnad, hur de är konstruerade samt vilka egenskaper och användningsområden de har. Eleven redogör också &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för äldre ytbeklädningsmaterial och arbetsmetoder.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;någon vanligt förekommande metod. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem. Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. Dessutom gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <courses>
+    <name>Brand- och ljudisolering</name>
+    <englishName>Fire and soundproofing</englishName>
+    <description
+    >&lt;p&gt;Kursen brand- och ljudisolering omfattar punkterna 1–7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>TEIBRA0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Brand- och ljudisolering, 200 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: TEIBRA0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Olika typer av isoleringsmaterial och material för ytbeklädnad för brand- och ljudisolering. Materialens konstruktion, egenskaper och användningsområden.&lt;/li&gt; &lt;li&gt;Planering och organisering av arbetsplatser och arbetsuppgifter vid brand- och ljudisolering av installationer och byggnadsdelar.&lt;/li&gt; &lt;li&gt;Isoleringsteori, ritningar, arbetsbeskrivningar och monteringsanvisningar.&lt;/li&gt; &lt;li&gt;Bygglagstiftningens krav på brandskydd och brandbelastning i byggmaterial samt skydd mot uppkomst av brand.&lt;/li&gt; &lt;li&gt;Regler för bullernivå i byggnadsdelar.&lt;/li&gt; &lt;li&gt;Brandceller och brandtekniska byggnadsklasser samt klassificering av byggnadsdelar.&lt;/li&gt; &lt;li&gt;Montering av brandskyddsisolering av installationer.&lt;/li&gt; &lt;li&gt;Montering av brandskiva och aluminiumplåt på ventilationsrigg.&lt;/li&gt; &lt;li&gt;Isolering vid genomdragningar av rörledningar samt cirkulära och rektangulära ventilationskanaler.&lt;/li&gt; &lt;li&gt;Ljudisolering samt hur uppkomst och transport av ljud i byggnadsdelar dämpas.&lt;/li&gt; &lt;li&gt;Verktyg, maskiner och andra hjälpmedel.&lt;/li&gt; &lt;li&gt;Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen. &lt;/li&gt; &lt;li&gt;Ergonomiskt riktigt arbetssätt.&lt;/li&gt; &lt;li&gt;Kontroll och dokumentation av utförda åtgärder.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>200</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver&lt;strong&gt; översiktligt&lt;/strong&gt; olika typer av isoleringsmaterial och material för ytbeklädnad för brand- och ljudisolering. Dessutom beskriver eleven &lt;strong&gt;översiktligt &lt;/strong&gt;hur dessa är konstruerade samt vilka egenskaper och användningsområden de har.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;någon vanligt förekommande metod. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven med &lt;strong&gt;visst &lt;/strong&gt;handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;enkla &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver&lt;strong&gt; utförligt&lt;/strong&gt; olika typer av isoleringsmaterial och material för ytbeklädnad för brand- och ljudisolering. Dessutom beskriver eleven &lt;strong&gt;utförligt &lt;/strong&gt;hur dessa är konstruerade samt vilka egenskaper och användningsområden de har.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;någon vanligt förekommande metod. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven med &lt;strong&gt;gott &lt;/strong&gt;handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dessa. Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver&lt;strong&gt; utförligt och nyanserat&lt;/strong&gt; olika typer av isoleringsmaterial och material för ytbeklädnad för brand- och ljudisolering. Dessutom beskriver eleven &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;hur dessa är konstruerade samt vilka egenskaper och användningsområden de har.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;någon vanligt förekommande metod. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem. Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. Dessutom gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>4</sortOrder>
+  </courses>
+  <courses>
+    <name>Kondensisolering</name>
+    <englishName>Condensation insulation</englishName>
+    <description
+    >&lt;p&gt;Kursen kondensisolering omfattar punkterna 1 och 3–7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>TEIKOD0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Kondensisolering, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: TEIKOD0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Olika typer av isoleringsmaterial samt deras konstruktion, egenskaper och användningsområden.&lt;/li&gt; &lt;li&gt;Planering och organisering av arbetsplatser och arbetsuppgifter vid kondensisolering av kalla installationer.&lt;/li&gt; &lt;li&gt;Montering av termisk isolering av kalla installationer.&lt;/li&gt; &lt;li&gt;Isoleringsteori, ritningar, arbetsbeskrivningar och monteringsanvisningar.&lt;/li&gt; &lt;li&gt;Problem som kan uppstå med kondens samt med värme- och fuktflöden vid kalla installationer.&lt;/li&gt; &lt;li&gt;Brandkrav när cellgummi används.&lt;/li&gt; &lt;li&gt;Montering av cellgummiisolering på rörinstallationer.&lt;/li&gt; &lt;li&gt;Montering av kondensisolering med folierörskål.&lt;/li&gt; &lt;li&gt;Montering av cellgummiisolering på apparater och komponenter.&lt;/li&gt; &lt;li&gt;Isolering med polyuretanskumning av rörledningar vid högt ställda krav på funktionen i temperaturhållningen.&lt;/li&gt; &lt;li&gt;Montering av ångbromsar.&lt;/li&gt; &lt;li&gt;Verktyg, maskiner och andra hjälpmedel.&lt;/li&gt; &lt;li&gt;Arbetsmiljö, hälsa och säkerhet enligt skyddsföreskrifter. Hur man arbetar säkert såväl för egen del som för den som använder installationen. Arbetsmiljön vid användning av limprodukter vid försegling av cellgummiisolering.&lt;/li&gt; &lt;li&gt;Ergonomiskt riktigt arbetssätt.&lt;/li&gt; &lt;li&gt;Kontroll och dokumentation av utförda åtgärder.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver&lt;strong&gt; översiktligt&lt;/strong&gt; olika typer av isoleringsmaterial, hur de är konstruerade samt vilka egenskaper och användningsområden de har.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;någon vanligt förekommande metod. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven med &lt;strong&gt;visst &lt;/strong&gt;handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;enkla &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver&lt;strong&gt; utförligt&lt;/strong&gt; olika typer av isoleringsmaterial, hur de är konstruerade samt vilka egenskaper och användningsområden de har.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;någon vanligt förekommande metod. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven med &lt;strong&gt;gott &lt;/strong&gt;handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem. Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav. Dessutom gör eleven en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver&lt;strong&gt; utförligt och nyanserat&lt;/strong&gt; olika typer av isoleringsmaterial, hur de är konstruerade samt vilka egenskaper och användningsområden de har.&lt;/p&gt;&lt;p&gt;Eleven planerar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare sitt arbete. I planeringen väljer eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;någon vanligt förekommande metod. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare arbetet utifrån kravspecifikation, ritningar, beskrivningar samt lagar och andra bestämmelser, med ett resultat som uppfyller fastställda kvalitetskrav. I arbetet använder eleven med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag verktyg, maskiner och andra hjälpmedel samt följer föreskrifter och anvisningar för dem. Dessutom gör eleven en riskbedömning av arbetsprocessen, följer skyddsföreskrifter samt arbetar ergonomiskt och på ett sätt som är säkert för eleven själv och andra.&lt;/p&gt;&lt;p&gt;När arbetet är utfört gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare kontroller. Eleven värderar också med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen om arbetet uppfyller fastställda kvalitetskrav &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;. Dessutom gör eleven en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av utförda åtgärder.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet &lt;/strong&gt;den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>5</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

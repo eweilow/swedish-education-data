@@ -1,0 +1,93 @@
+{
+  "name": "Webbserverprogrammering 1",
+  "code": "WESWEB01",
+  "focusAreas": {
+    "string": "Kursen webbserverprogrammering 1 omfattar punkterna 1-8 under rubriken Ämnets syfte, med särskild betoning på punkt 1.",
+    "entries": [
+      "1-8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Webbserverns och dynamiska webbplatsers funktionalitet.",
+          "2. Utvecklingsprocessen för ett webbtekniskt projekt med målsättningar, krav, begränsningar, planering och uppföljning. Specifikation av struktur och design, kodning, testning samt driftsättning.",
+          "3. Dokumentation av utvecklingsprocess och färdig produkt.",
+          "4. En översikt över olika lösningar eller språk som finns för att skapa dynamiska webbplatser.",
+          "5. Grundfunktionen i ett programspråk för dynamiska webbplatser.",
+          "6. Teknisk orientering om webbens protokoll, adresser, säkerhet samt samspelet mellan klient och server.",
+          "7. Datalagring i relationsdatabas eller med annan teknik.",
+          "8. Teckenkodning. Begrepp, standarder och handhavande.",
+          "9. Kodning och dokumentation enligt vedertagen praxis för vald teknik.",
+          "10. Applikationsarkitektur och separation av olika slags logik.",
+          "11. Kvalitetssäkring av dynamiska webbapplikationers funktionalitet, säkerhet och kodkvalitet.",
+          "12. Grundläggande säkerhet och sätt att identifiera hot och sårbarheter samt hur attacker kan motverkas genom effektiva åtgärder."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** tekniken bakom dynamiska webbplatser och hur de samspelar med olika tekniker på webben."
+      ],
+      [
+        "Eleven gör en **enkel** projektplan för en tänkt webbapplikation.",
+        null,
+        "I projektplanen beskriver eleven **översiktligt** applikationens funktion.",
+        "Utifrån projektplanen utvecklar eleven **i samråd** med handledare applikationen där presentationslogiken **i begränsad utsträckning** är skild från applikationens övriga logik.",
+        "I arbetet utvecklar eleven kod som **i begränsad utsträckning** är **läsbar** och **översiktligt** kommenterad.",
+        "Applikationen uppvisar **enkel** funktionalitet med ett språk för webbserverprogrammering och tillhandahåller en **enkel** lösning för **datapersistens mellan sidvisningar**.",
+        "Produkten är av **tillfredsställande** kvalitet och följer etablerad god praxis.",
+        null
+      ],
+      [
+        "När arbetet är utfört gör eleven en **enkel** dokumentation av de moment som har utförts samt utvärderar med **enkla** omdömen sitt arbete och resultat.",
+        "Eleven identifierar ett **fåtal** sårbarheter eller hot och vidtar **enkla** åtgärder för att förhindra att produkten utnyttjas.",
+        "När eleven kommunicerar med andra använder hen **med viss säkerhet enkel** terminologi."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** tekniken bakom dynamiska webbplatser och hur de samspelar med olika tekniker på webben."
+      ],
+      [
+        "Eleven gör en **genomarbetad** projektplan för en tänkt webbapplikation.",
+        null,
+        "I projektplanen beskriver eleven **utförligt** applikationens funktion **och arkitektur**.",
+        "Utifrån projektplanen utvecklar eleven **efter samråd** med handledare applikationen där presentationslogiken är skild från applikationens övriga logik.",
+        "I arbetet utvecklar eleven kod som **följer en given kodningsstandard** och är **översiktligt** kommenterad.",
+        "Applikationen uppvisar funktionalitet med ett språk för webbserverprogrammering och tillhandahåller en **enkel** lösning för **permanent datalagring**.",
+        "Produkten är av **tillfredsställande** kvalitet och följer etablerad god praxis.",
+        "**Detta kontrollerar eleven med hjälp av några tester**."
+      ],
+      [
+        "När arbetet är utfört gör eleven en **noggrann** dokumentation av de moment som har utförts samt utvärderar med **nyanserade** omdömen sitt arbete och resultat.",
+        "Eleven identifierar sårbarheter eller hot och vidtar åtgärder för att förhindra att produkten utnyttjas.",
+        "När eleven kommunicerar med andra använder hen **med viss säkerhet** terminologi."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** tekniken bakom dynamiska webbplatser och hur de samspelar med olika tekniker på webben."
+      ],
+      [
+        "Eleven gör en **genomarbetad** projektplan för en tänkt webbapplikation.",
+        "**Vid behov reviderar eleven planen**.",
+        "I projektplanen beskriver eleven **utförligt och nyanserat** applikationens funktion, **arkitektur och mjukvarugränssnitt**.",
+        "Utifrån projektplanen utvecklar eleven **efter samråd** med handledare applikationen där presentationslogiken är skild från applikationens övriga logik.",
+        "I arbetet utvecklar eleven kod som **följer en given kodningsstandard** och är **utförligt** kommenterad.",
+        "Applikationen uppvisar funktionalitet med ett språk för webbserverprogrammering **för att driva en helt databaserad webbplats eller en jämförbart avancerad produkt** och tillhandahåller en lösning **med viss komplexitet** för **permanent datalagring**.",
+        "Produkten är av **god** kvalitet och följer etablerad god praxis.",
+        "**Detta kontrollerar eleven med hjälp av flera tester, även manuella**."
+      ],
+      [
+        "När arbetet är utfört gör eleven en **noggrann och utförlig** dokumentation av de moment som har utförts samt utvärderar med **nyanserade** omdömen sitt arbete och resultat **samt ger förslag på hur arbetet kan förbättras**.",
+        "Eleven identifierar **flera** sårbarheter eller hot och vidtar **avancerade** åtgärder för att förhindra att produkten utnyttjas.",
+        "När eleven kommunicerar med andra använder hen **med säkerhet** terminologi."
+      ]
+    ]
+  }
+}

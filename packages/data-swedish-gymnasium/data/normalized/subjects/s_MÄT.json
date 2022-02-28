@@ -1,0 +1,47 @@
+{
+  "name": "Mät-, styr- och reglerteknik",
+  "code": "MÄT",
+  "description": [
+    "Ämnet mät-, styr- och reglerteknik behandlar metoder och arbetssätt för att styra och reglera tekniska komponenter, till exempel regulatorer och styrsystem. Arbete med styr- och reglerteknik har sin grund i industriell mätteknik och aktuatorer. I ämnet behandlas även säkerhetsfrågor som har en central roll i arbete med styr- och reglerteknik, eftersom misstag kan orsaka stora skador både på person och på egendom."
+  ],
+  "purpose": {
+    "sections": [
+      {
+        "title": null,
+        "rows": [
+          "Undervisningen i ämnet mät-, styr- och reglerteknik ska syfta till att eleverna utvecklar färdigheter i att planera och utföra arbeten med styr- och reglerteknisk utrustning. Den ska också leda till att eleverna utvecklar förmåga att använda scheman, ritningar, manualer och föreskrifter. Eleverna ska ges möjlighet att utveckla förmåga att upptäcka och avhjälpa fel i styr- och reglerteknisk utrustning. Vidare ska undervisningen leda till att eleverna utvecklar ett säkert och miljömässigt arbetssätt samt förmåga att dokumentera sitt arbete.",
+          "Undervisningen ska ge eleverna möjlighet att planera arbetsuppgifter och arbeta praktiskt med styr- och reglerteknisk utrustning. I undervisningen ska såväl praktiska som teoretiska uppgifter ingå så att eleverna ges möjlighet att förstå sambandet mellan praktiskt arbete och yrkesteori."
+        ]
+      },
+      {
+        "title": "Undervisningen i ämnet mät-, styr- och reglerteknik ska ge eleverna förutsättningar att utveckla följande:",
+        "rows": [
+          "1. Förmåga att planera sitt arbete samt att installera, konfigurera, driftsätta och underhålla styr- och reglertekniska komponenter och system på ett säkert sätt.",
+          "2. Förmåga att läsa och tolka scheman över styr- och reglertekniska komponenter och system.",
+          "3. Färdigheter i att mäta styr- och reglertekniska storheter.",
+          "4. Förmåga att felsöka, reparera och åtgärda fel i styr- och reglertekniska komponenter och system.",
+          "5. Förmåga att dokumentera sitt arbete med styr- och reglertekniska komponenter och system."
+        ]
+      },
+      {
+        "title": "Kurser i ämnet",
+        "rows": [
+          "1. Distribuerade styrsystem, 100 poäng.",
+          "2. Mät- och reglerteknik, 100 poäng.",
+          "3. Mät- och styrteknik, 100 poäng.",
+          "4. Programmerbara styrsystem, 100 poäng."
+        ]
+      }
+    ]
+  },
+  "isPublished": "PUBLISHED",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "createdDate": "2010-12-02T08:25:21.000Z",
+  "modifiedDate": "2020-02-19T14:59:07.000Z",
+  "courseCodes": [
+    "MÄTDIS0",
+    "MÄTMÄT0",
+    "MÄTMÄO0",
+    "MÄTPRR0"
+  ]
+}

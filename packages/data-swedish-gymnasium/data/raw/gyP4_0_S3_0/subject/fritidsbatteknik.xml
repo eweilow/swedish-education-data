@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Fritidsbåtteknik</name>
+  <englishName>Recreational boats</englishName>
+  <description
+  >&lt;p&gt;Ämnet fritidsbåtteknik behandlar fritidsbåtars byggnation, användningsområden och utrustning. Det behandlar även hantering och underhållsarbete av fritidsbåtar. &lt;/p&gt;</description>
+  <code>FRD</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2011-10-11T18:21:01+02:00</createdDate>
+  <modifiedDate>2020-02-19T15:51:38+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Fritidsbåtteknik&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet fritidsbåtteknik ska syfta till att eleverna utvecklar färdigheter i att hantera de olika momenten vid tillverkning av fritidsbåtar samt vid installation, reparation, underhåll och service av konstruktioner och system som förekommer i fritidsbåtar. Undervisningen ska leda till att eleverna utvecklar kunskaper om hantering av fritidsbåtar. Eleverna ska även ges möjlighet att utveckla kunskaper om olika materials egenskaper och funktion samt förmåga att hantera de kemiska ämnen, maskiner och verktyg som används inom yrket. Dessutom ska undervisningen ge eleverna möjlighet att utveckla kunskaper om arbetslivets villkor där kvalitet, kvalitetssäkring, service och kostnad är styrande faktorer. Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.&lt;/p&gt;&lt;p&gt;I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Dessa arbetsuppgifter ska utgå från ett problemlösande arbetssätt.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet fritidsbåtteknik ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om material och om fritidsbåtars byggnation, utrustning och användningsområden.&lt;/li&gt; &lt;li&gt;Förmåga att utföra byggnation av samt underhåll, service och reparationer på fritidsbåtar. Förmåga att utföra installation och underhåll av system ombord.&lt;/li&gt; &lt;li&gt;Förmåga att planera inför en arbetsuppgift och att välja den arbetsmetod och det material som passar för uppgiften.&lt;/li&gt; &lt;li&gt;Förmåga att använda verktyg och utrustning.&lt;/li&gt; &lt;li&gt;Förmåga att hantera fritidsbåtar i vatten och på land.&lt;/li&gt; &lt;li&gt;Förmåga att använda de digitala tekniker och informationssystem som används för att lösa arbetsuppgifterna.&lt;/li&gt; &lt;li&gt;Förmåga att samarbeta och kommunicera med andra samt att använda begrepp och uttryck som är relevanta för ämnesområdet, både på svenska och engelska.&lt;/li&gt; &lt;li&gt;Förmåga att utföra olika typer av arbeten på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån de lagar och andra bestämmelser som reglerar verksamheten.&lt;/li&gt; &lt;li&gt;Förmåga att arbeta på ett kundanpassat och kvalitets- och kostnadsmedvetet sätt, samt att utvärdera arbetsprocess och resultat.&lt;/li&gt; &lt;li&gt;Kunskaper om branschens roll i samhället och yrkets förutsättningar.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Båthantering och underhåll, 100 poäng.&lt;/li&gt; &lt;li&gt;Båtsystem, 200 poäng.&lt;/li&gt; &lt;li&gt;Konstruktion och reparation 1, 200 poäng.&lt;/li&gt; &lt;li&gt;Konstruktion och reparation 2, 200 poäng, som bygger på kursen konstruktion och reparation 1.&lt;/li&gt; &lt;li&gt;Plast- och lamineringsteknik, 100 poäng.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2011:130</skolfsId>
+  <applianceDate>2011-09-15T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Båthantering och underhåll</name>
+    <englishName>Boat handling and maintenance</englishName>
+    <description
+    >&lt;p&gt;Kursen båthantering och underhåll omfattar punkterna 1–10 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>FRDBAT0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Båthantering och underhåll, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: FRDBAT0 &lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Olika båttyper och deras användningsområden.&lt;/li&gt; &lt;li&gt;Olika båttypers konstruktion. Huvudkomponenter och uppbyggnad.&lt;/li&gt; &lt;li&gt;Material som används vid underhållsarbeten och deras egenskaper.&lt;/li&gt; &lt;li&gt;Utförande av periodiska arbeten, till exempel bottenbehandling, rekonditionering och frostsäkring.&lt;/li&gt; &lt;li&gt;Användning av underhållsmaterial, utrustning och verktyg.&lt;/li&gt; &lt;li&gt;Arbetsbeskrivningar samt enklare planeringar för att lösa arbetsuppgifter.&lt;/li&gt; &lt;li&gt;Arbetsinstruktioner, servicelitteratur och informationsmaterial på svenska och engelska, inklusive digitala informationssystem.&lt;/li&gt; &lt;li&gt;Yrkets fackspråk, termer och begrepp.&lt;/li&gt; &lt;li&gt;Arbetsmiljö, hälsa, ergonomi och säkerhet samt riskbedömningar för arbetsuppgifterna.&lt;/li&gt; &lt;li&gt;Hantering när det gäller transport, torrsättning, pallning, förvaring och sjösättning.&lt;/li&gt; &lt;li&gt;Lyfthantering, regler gällande säkra lyft.&lt;/li&gt; &lt;li&gt;Hantering av och regler för användande av miljöfarliga produkter.&lt;/li&gt; &lt;li&gt;Metoder för att dokumentera och presentera utförda arbeten.&lt;/li&gt; &lt;li&gt;Branschens utveckling och yrkets förutsättningar. Lagar och andra bestämmelser som reglerar arbetet.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; fritidsbåtars huvudkomponenter, uppbyggnad och användningsområden. Dessutom beskriver eleven &lt;strong&gt;översiktligt&lt;/strong&gt; huvudkomponenternas funktion, underhåll och hur de samverkar. Vidare beskriver eleven &lt;strong&gt;översiktligt&lt;/strong&gt; olika underhållsmaterials egenskaper och funktion.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare underhåll och service på fritidsbåtar. Eleven gör en &lt;strong&gt;enkel &lt;/strong&gt;planering inför sin arbetsuppgift. Dessutom använder eleven &lt;strong&gt;den&lt;/strong&gt; arbetsmetod och med &lt;strong&gt;visst &lt;/strong&gt;handlag &lt;strong&gt;de&lt;/strong&gt; verktyg och &lt;strong&gt;den&lt;/strong&gt; utrustning som passar för uppgiften &lt;strong&gt;utifrån givna instruktioner&lt;/strong&gt;. Under arbetet hanterar eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare fritidsbåtar i vatten och på land på ett säkert och miljömedvetet sätt. I arbetet använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den digitala teknik och de informationssystem uppgiften kräver. I arbetet samarbetar och kommunicerar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; med andra på ett för yrket relevant språk.&lt;/p&gt;&lt;p&gt;I samband med arbetet gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;riskbedömning. Eleven arbetar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.&lt;/p&gt;&lt;p&gt;Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven gör en &lt;strong&gt;enkel&lt;/strong&gt; dokumentation av sitt arbete samt presenterar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;sitt arbete.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; yrkets förutsättningar och de lagar och andra bestämmelser som reglerar arbetet.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; fritidsbåtars huvudkomponenter, uppbyggnad och användningsområden. Dessutom beskriver eleven &lt;strong&gt;utförligt&lt;/strong&gt; huvudkomponenternas funktion, underhåll och hur de samverkar. Vidare beskriver eleven &lt;strong&gt;utförligt&lt;/strong&gt; olika underhållsmaterials egenskaper och funktion.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare underhåll och service på fritidsbåtar. Eleven gör en &lt;strong&gt;enkel &lt;/strong&gt;planering inför sin arbetsuppgift, &lt;strong&gt;samt väljer arbetsmetod, verktyg och utrustning&lt;/strong&gt;. Dessutom använder eleven arbetsmetod och med &lt;strong&gt;gott &lt;/strong&gt;handlag verktyg och utrustning som passar för uppgiften. Under arbetet hanterar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare fritidsbåtar i vatten och på land på ett säkert och miljömedvetet sätt. I arbetet använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den digitala teknik och de informationssystem uppgiften kräver. I arbetet samarbetar och kommunicerar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; med andra på ett för yrket relevant språk.&lt;/p&gt;&lt;p&gt;I samband med arbetet gör eleven en riskbedömning. Eleven arbetar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.&lt;/p&gt;&lt;p&gt;Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven gör en &lt;strong&gt;noggrann&lt;/strong&gt; dokumentation av sitt arbete samt presenterar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;sitt arbete.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; yrkets förutsättningar och de lagar och andra bestämmelser som reglerar arbetet.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; fritidsbåtars huvudkomponenter, uppbyggnad och användningsområden. Dessutom beskriver eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; huvudkomponenternas funktion, underhåll och hur de samverkar. Vidare beskriver eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; olika underhållsmaterials egenskaper och funktion.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare underhåll och service på fritidsbåtar. Eleven gör en &lt;strong&gt;genomarbetad &lt;/strong&gt;planering inför sin arbetsuppgift,&lt;strong&gt; samt väljer arbetsmetod, verktyg och utrustning och motiverar sina val&lt;/strong&gt;. Dessutom använder eleven arbetsmetod och med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag verktyg och utrustning som passar för uppgiften. Under arbetet hanterar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare fritidsbåtar i vatten och på land på ett säkert och miljömedvetet sätt. I arbetet använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; den digitala teknik och de informationssystem uppgiften kräver. I arbetet samarbetar och kommunicerar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; med andra på ett för yrket relevant språk.&lt;/p&gt;&lt;p&gt;I samband med arbetet gör eleven en &lt;strong&gt;välgrundad &lt;/strong&gt;riskbedömning. Eleven arbetar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.&lt;/p&gt;&lt;p&gt;Resultatet av elevens arbete är &lt;strong&gt;gott&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven gör en &lt;strong&gt;noggrann och utförlig&lt;/strong&gt; dokumentation av sitt arbete samt presenterar &lt;strong&gt;med säkerhet &lt;/strong&gt;sitt arbete.&lt;/p&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; yrkets förutsättningar och de lagar och andra bestämmelser som reglerar arbetet.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <courses>
+    <name>Båtsystem</name>
+    <englishName>Boat systems</englishName>
+    <description
+    >&lt;p&gt;Kursen båtsystem omfattar punkterna 1–4 och 6–9 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>FRDBAS0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading>&lt;h2&gt;Båtsystem, 200 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: FRDBAS0 &lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Använda materials och produkters olika egenskaper.&lt;/li&gt; &lt;li&gt;Funktion hos olika system, till exempel hydrauliska system, värme-, kyl- och VVS-system.&lt;/li&gt; &lt;li&gt;Installationer efter ritning, systembeskrivning, installationshandledning samt instruktion.&lt;/li&gt; &lt;li&gt;Installation, felsökning och service på hydrauliska installationer, till exempel trimplan.&lt;/li&gt; &lt;li&gt;Installation, felsökning och service på förekommande system, till exempel manöver-, värme-, kyl- och VVS-system.&lt;/li&gt; &lt;li&gt;Enklare elinstallationer.&lt;/li&gt; &lt;li&gt;Funktionskontroller.&lt;/li&gt; &lt;li&gt;Egna skisser och ritningar på installationer.&lt;/li&gt; &lt;li&gt;Arbetsinstruktioner, servicelitteratur och informationsmaterial på svenska och engelska, inklusive digitala informationssystem. &lt;/li&gt; &lt;li&gt;Yrkets fackspråk, termer och begrepp.&lt;/li&gt; &lt;li&gt;Hantering av miljöfarliga produkter.&lt;/li&gt; &lt;li&gt;Dokumentation och presentation samt metoder för utvärdering av arbete.&lt;/li&gt; &lt;li&gt;Beräkning av kostnader, material- och tidsåtgång. Offert och efterkalkyl.&lt;/li&gt; &lt;li&gt;Sambandet mellan kvalitet och ekonomi vid val av metod och material.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>200</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; olika materials och produkters egenskaper och funktion. Dessutom redogör eleven &lt;strong&gt;översiktligt&lt;/strong&gt; för de konstruktions- och installationsmetoder som används vid montering av utrustning i fritidsbåtars olika system.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;i&lt;/strong&gt; &lt;strong&gt;samråd &lt;/strong&gt;med handledare installation, felsökning och service på fritidsbåtars olika system. Eleven gör en &lt;strong&gt;enkel &lt;/strong&gt;planering inför sin arbetsuppgift. Dessutom använder eleven &lt;strong&gt;den&lt;/strong&gt; arbetsmetod samt med &lt;strong&gt;visst &lt;/strong&gt;handlag &lt;strong&gt;de&lt;/strong&gt; verktyg och &lt;strong&gt;den&lt;/strong&gt; utrustning som passar för uppgiften &lt;strong&gt;utifrån givna instruktioner&lt;/strong&gt;. Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare funktionskontroller. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;olika typer av ritningar, handledningar och systembeskrivningar. Dessutom gör eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare&lt;strong&gt; enkla&lt;/strong&gt; skisser och ritningar för installationer. Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den digitala teknik och de informationssystem uppgiften kräver. I arbetet samarbetar och kommunicerar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; med andra på ett för yrket relevant språk.&lt;/p&gt;&lt;p&gt;I samband med arbetet gör eleven en &lt;strong&gt;enkel &lt;/strong&gt;riskbedömning. Eleven arbetar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.&lt;/p&gt;&lt;p&gt;Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;. &lt;/p&gt;&lt;p&gt;Eleven gör en &lt;strong&gt;enkel&lt;/strong&gt; dokumentation av sitt arbete samt presenterar &lt;strong&gt;med viss säkerhet sitt &lt;/strong&gt;arbete. Dessutom gör eleven &lt;strong&gt;enkla&lt;/strong&gt; beräkningar av material- och tidsåtgång samt av kostnad. Eleven drar &lt;strong&gt;enkla&lt;/strong&gt; slutsatser om sambandet mellan ekonomi och kvalitet. Eleven utvärderar med &lt;strong&gt;enkla &lt;/strong&gt;omdömen sitt arbete och resultatet.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; olika materials och produkters egenskaper och funktion. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för de konstruktions- och installationsmetoder som används vid montering av utrustning i fritidsbåtars olika system.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter&lt;/strong&gt; &lt;strong&gt;samråd &lt;/strong&gt;med handledare installation, felsökning och service på fritidsbåtars olika system. Eleven gör en &lt;strong&gt;enkel &lt;/strong&gt;planering inför sin arbetsuppgift,&lt;strong&gt; samt väljer arbetsmetod, verktyg och utrustning&lt;/strong&gt;. Dessutom använder eleven arbetsmetod och med &lt;strong&gt;gott &lt;/strong&gt;handlag verktyg och utrustning som passar för uppgiften. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare funktionskontroller. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;olika typer av ritningar, handledningar och systembeskrivningar. Dessutom gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare&lt;strong&gt; enkla&lt;/strong&gt; skisser och ritningar för installationer. Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den digitala teknik och de informationssystem uppgiften kräver. I arbetet samarbetar och kommunicerar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; med andra på ett för yrket relevant språk.&lt;/p&gt;&lt;p&gt;I samband med arbetet gör eleven en riskbedömning. Eleven arbetar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.&lt;/p&gt;&lt;p&gt;Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;. &lt;/p&gt;&lt;p&gt;Eleven gör en &lt;strong&gt;noggrann &lt;/strong&gt;dokumentation av sitt arbete samt presenterar &lt;strong&gt;med viss säkerhet sitt &lt;/strong&gt;arbete. Dessutom gör eleven beräkningar av material- och tidsåtgång samt av kostnad. Eleven drar &lt;strong&gt;välgrundade&lt;/strong&gt; slutsatser om sambandet mellan ekonomi och kvalitet. Eleven utvärderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sitt arbete och resultatet.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; olika materials och produkters egenskaper och funktion. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för de konstruktions- och installationsmetoder som används vid montering av utrustning i fritidsbåtars olika system.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter&lt;/strong&gt; &lt;strong&gt;samråd &lt;/strong&gt;med handledare installation, felsökning och service på fritidsbåtars olika system. Eleven gör en &lt;strong&gt;genomarbetad &lt;/strong&gt;planering inför sin arbetsuppgift,&lt;strong&gt; samt väljer arbetsmetod, verktyg och utrustning och motiverar sina val&lt;/strong&gt;. Dessutom använder eleven arbetsmetod och med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag verktyg och utrustning som passar för uppgiften. Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare funktionskontroller. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;olika typer av ritningar, handledningar och systembeskrivningar. Dessutom gör eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare&lt;strong&gt; genomarbetade&lt;/strong&gt; skisser och ritningar för installationer. Eleven använder &lt;strong&gt;med säkerhet&lt;/strong&gt; den digitala teknik och de informationssystem uppgiften kräver. I arbetet samarbetar och kommunicerar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; med andra på ett för yrket relevant språk.&lt;/p&gt;&lt;p&gt;I samband med arbetet gör eleven en &lt;strong&gt;välgrundad &lt;/strong&gt;riskbedömning. Eleven arbetar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet.&lt;/p&gt;&lt;p&gt;Resultatet av elevens arbete är &lt;strong&gt;gott&lt;/strong&gt;. &lt;/p&gt;&lt;p&gt;Eleven gör en &lt;strong&gt;noggrann och utförlig &lt;/strong&gt;dokumentation av sitt arbete samt presenterar &lt;strong&gt;med säkerhet &lt;/strong&gt;sitt arbete. Dessutom gör eleven &lt;strong&gt;komplexa&lt;/strong&gt; beräkningar av material- och tidsåtgång samt av kostnad. Eleven drar &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; slutsatser om sambandet mellan ekonomi och kvalitet. Eleven utvärderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sitt arbete och resultatet &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>2</sortOrder>
+  </courses>
+  <courses>
+    <name>Konstruktion och reparation 1</name>
+    <englishName>Construction and repairs 1</englishName>
+    <description
+    >&lt;p&gt;Kursen konstruktion och reparation 1 omfattar punkterna 1–4 och 6–9 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>FRDKON01</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Konstruktion och reparation 1, 200 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: FRDKON01&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Principer för fritidsbåtars uppbyggnad och konstruktion.&lt;/li&gt; &lt;li&gt;Egenskaper och användningsområden för olika båtbyggnads-, installations- och reparationsmaterial.&lt;/li&gt; &lt;li&gt;Reparationer och ytbehandling på plast, trä och metall.&lt;/li&gt; &lt;li&gt;Hantering och skötsel av verktyg och maskiner.&lt;/li&gt; &lt;li&gt;Läsning av konstruktionsritningar, beskrivningar samt anvisningar.&lt;/li&gt; &lt;li&gt;Olika materials egenskaper, användningsområden, miljöpåverkan samt säkerhetsinformation via digitala medier.&lt;/li&gt; &lt;li&gt;Arbetsinstruktioner, servicelitteratur och informationsmaterial på svenska och engelska, inklusive information med digital teknik. &lt;/li&gt; &lt;li&gt;Yrkets fackspråk, termer och begrepp.&lt;/li&gt; &lt;li&gt;Grundläggande om brandrisker, brandskydd och brandfarliga varor samt elsäkerhet.&lt;/li&gt; &lt;li&gt;Arbetsmiljölagen och båtbranschens regler gällande säkerhet och arbetsmiljö.&lt;/li&gt; &lt;li&gt;Presentation, dokumentation och utvärdering av arbete.&lt;/li&gt; &lt;li&gt;Beräkning av kostnader, material och tidsåtgång. Offert och orderhantering.&lt;/li&gt; &lt;li&gt;Sambandet mellan kvalitet och ekonomi.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>200</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för båtbyggnadsprinciper och olika materials egenskaper och funktion.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;i&lt;/strong&gt; &lt;strong&gt;samråd &lt;/strong&gt;med handledare reparationer av fritidsbåtar. Eleven gör en &lt;strong&gt;enkel &lt;/strong&gt;planering inför en arbetsuppgift. Dessutom använder eleven &lt;strong&gt;den&lt;/strong&gt; arbetsmetod och med &lt;strong&gt;visst &lt;/strong&gt;handlag &lt;strong&gt;de&lt;/strong&gt; verktyg och &lt;strong&gt;den&lt;/strong&gt; utrustning som passar för uppgiften &lt;strong&gt;utifrån givna instruktioner&lt;/strong&gt;. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;konstruktionsritningar, beskrivningar och anvisningar. Dessutom använder eleven&lt;strong&gt; med viss säkerhet&lt;/strong&gt; den digitala teknik och de informationssystem uppgiften kräver. I arbetet samarbetar och kommunicerar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; med andra på ett för yrket relevant språk. &lt;/p&gt;&lt;p&gt;I samband med arbetet gör eleven en &lt;strong&gt;enkel&lt;/strong&gt; riskbedömning. Dessutom redogör eleven &lt;strong&gt;översiktligt&lt;/strong&gt; för brandrisker och ger &lt;strong&gt;enkla&lt;/strong&gt; exempel på åtgärder för brandskydd och elsäkerhet. Eleven arbetar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet. Dessutom beskriver eleven &lt;strong&gt;översiktligt&lt;/strong&gt; lagar och andra bestämmelser som reglerar arbetet inom branschen.&lt;/p&gt;&lt;p&gt;Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven gör en &lt;strong&gt;enkel&lt;/strong&gt; dokumentation av sitt arbete samt presenterar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;sitt arbete. Dessutom gör eleven &lt;strong&gt;enkla&lt;/strong&gt; beräkningar av material- och tidsåtgång samt av kostnad. Eleven drar &lt;strong&gt;enkla&lt;/strong&gt; slutsatser om sambandet mellan ekonomi och kvalitet. Eleven utvärderar med &lt;strong&gt;enkla &lt;/strong&gt;omdömen sitt arbete och resultatet.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för båtbyggnadsprinciper och olika materials egenskaper och funktion.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare reparationer av fritidsbåtar. Eleven gör en &lt;strong&gt;enkel &lt;/strong&gt;planering inför en arbetsuppgift, &lt;strong&gt;samt väljer arbetsmetod, verktyg och utrustning&lt;/strong&gt;. Dessutom använder eleven arbetsmetod och med &lt;strong&gt;gott &lt;/strong&gt;handlag verktyg och utrustning som passar för uppgiften. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;konstruktionsritningar, beskrivningar och anvisningar. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den digitala teknik och de informationssystem uppgiften kräver. I arbetet samarbetar och kommunicerar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; med andra på ett för yrket relevant språk. &lt;/p&gt;&lt;p&gt;I samband med arbetet gör eleven en riskbedömning. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för brandrisker och ger &lt;strong&gt;välgrundade&lt;/strong&gt; exempel på åtgärder för brandskydd och elsäkerhet. Eleven arbetar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet. Dessutom beskriver eleven &lt;strong&gt;utförligt&lt;/strong&gt; lagar och andra bestämmelser som reglerar arbetet inom branschen.&lt;/p&gt;&lt;p&gt;Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven gör en &lt;strong&gt;noggrann&lt;/strong&gt; dokumentation av sitt arbete samt presenterar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;sitt arbete. Dessutom gör eleven beräkningar av material- och tidsåtgång samt av kostnad. Eleven drar &lt;strong&gt;välgrundade&lt;/strong&gt; slutsatser om sambandet mellan ekonomi och kvalitet. Eleven utvärderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sitt arbete och resultatet.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för båtbyggnadsprinciper och olika materials egenskaper och funktion.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare reparationer av fritidsbåtar. Eleven gör en &lt;strong&gt;genomarbetad &lt;/strong&gt;planering inför en arbetsuppgift,&lt;strong&gt; samt väljer arbetsmetod, verktyg och utrustning och motiverar sina val&lt;/strong&gt;. Dessutom använder eleven arbetsmetod och med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag verktyg och utrustning som passar för uppgiften. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;konstruktionsritningar, beskrivningar och anvisningar. Dessutom använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; den digitala teknik och de informationssystem uppgiften kräver. I arbetet samarbetar och kommunicerar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; med andra på ett för yrket relevant språk. &lt;/p&gt;&lt;p&gt;I samband med arbetet gör eleven en &lt;strong&gt;välgrundad&lt;/strong&gt; riskbedömning. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för brandrisker och ger &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; exempel på åtgärder för brandskydd och elsäkerhet. Eleven arbetar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet. Dessutom beskriver eleven &lt;strong&gt;utförligt &lt;/strong&gt;lagar och andra bestämmelser som reglerar arbetet inom branschen.&lt;/p&gt;&lt;p&gt;Resultatet av elevens arbete är &lt;strong&gt;gott&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven gör en &lt;strong&gt;noggrann och utförlig&lt;/strong&gt; dokumentation av sitt arbete samt presenterar &lt;strong&gt;med säkerhet &lt;/strong&gt;sitt arbete. Dessutom gör eleven &lt;strong&gt;komplexa &lt;/strong&gt;beräkningar av material- och tidsåtgång samt av kostnad. Eleven drar &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; slutsatser om sambandet mellan ekonomi och kvalitet. Eleven utvärderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sitt arbete och resultatet &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>3</sortOrder>
+  </courses>
+  <courses>
+    <name>Konstruktion och reparation 2</name>
+    <englishName>Construction and repairs 2</englishName>
+    <description
+    >&lt;p&gt;Kursen konstruktion och reparation 2 omfattar punkterna 1–4 och 6–9 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>FRDKON02</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Konstruktion och reparation 2, 200 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: FRDKON02&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Principer för fritidsbåtars uppbyggnad och konstruktion.&lt;/li&gt; &lt;li&gt;Egenskaper och användningsområden för olika båtbyggnads-, konstruktions- och reparationsmaterial.&lt;/li&gt; &lt;li&gt;Material och arbetsmetoder för nybyggnation.&lt;/li&gt; &lt;li&gt;Byggnation av båt.&lt;/li&gt; &lt;li&gt;Konstruktion och tillverkningsmetoder för industriell tillverkning, serietillverkning eller hantverkstillverkning.&lt;/li&gt; &lt;li&gt;Konstruktionshandlingar och tillverkningsinstruktioner.&lt;/li&gt; &lt;li&gt;Tillverkande av skisser och ritningsunderlag.&lt;/li&gt; &lt;li&gt;Sammanfogningstekniker för plast och metall.&lt;/li&gt; &lt;li&gt;Arbetsinstruktioner, servicelitteratur och informationsmaterial på svenska och engelska, inklusive information med digital teknik. &lt;/li&gt; &lt;li&gt;Yrkets fackspråk, termer och begrepp.&lt;/li&gt; &lt;li&gt;Tillstånd för hantering av miljöfarliga produkter i tillverkningsindustrin.&lt;/li&gt; &lt;li&gt;Materialberäkningar och efterdokumentation av utförda arbeten.&lt;/li&gt; &lt;li&gt;Dokumentation av arbetsmetoder och material.&lt;/li&gt; &lt;li&gt;Sambandet mellan kvalitet och ekonomi.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>200</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för de konstruktions- och tillverkningsmetoder som används vid byggnation av fritidsbåtar. Dessutom beskriver eleven &lt;strong&gt;översiktligt&lt;/strong&gt; olika egenskaper och funktion hos material som används vid byggnation.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare konstruktioner på samt byggnation av fritidsbåtar. Eleven gör en &lt;strong&gt;enkel &lt;/strong&gt;planering inför en arbetsuppgift. Dessutom använder eleven &lt;strong&gt;den&lt;/strong&gt; arbetsmetod och med &lt;strong&gt;visst &lt;/strong&gt;handlag &lt;strong&gt;de&lt;/strong&gt; verktyg och &lt;strong&gt;den&lt;/strong&gt; utrustning som passar för uppgiften &lt;strong&gt;utifrån givna instruktioner&lt;/strong&gt;. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;konstruktionsritningar, beskrivningar och anvisningar. Dessutom tillverkar eleven &lt;strong&gt;i samråd &lt;/strong&gt;med handledare skisser och ritningsunderlag. Eleven använder med&lt;strong&gt; visst &lt;/strong&gt;handlag olika typer av sammanfogningstekniker. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den digitala teknik och de informationssystem uppgiften kräver. I arbetet samarbetar och kommunicerar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; med andra på ett för yrket relevant språk.&lt;/p&gt;&lt;p&gt;I samband med arbetet gör eleven en &lt;strong&gt;enkel&lt;/strong&gt; riskbedömning. Eleven arbetar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet. Dessutom beskriver eleven &lt;strong&gt;översiktligt&lt;/strong&gt; lagar och andra bestämmelser som reglerar arbetet inom branschen.&lt;/p&gt;&lt;p&gt;Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven gör en &lt;strong&gt;enkel&lt;/strong&gt; dokumentation av sitt arbete samt presenterar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;sitt arbete. Dessutom gör eleven &lt;strong&gt;enkla&lt;/strong&gt; beräkningar av material- och tidsåtgång samt av kostnad. Eleven drar &lt;strong&gt;enkla&lt;/strong&gt; slutsatser om sambandet mellan ekonomi och kvalitet. Eleven utvärderar med &lt;strong&gt;enkla &lt;/strong&gt;omdömen sitt arbete och resultatet.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för de konstruktions- och tillverkningsmetoder som används vid byggnation av fritidsbåtar. Dessutom beskriver eleven &lt;strong&gt;utförligt&lt;/strong&gt; olika egenskaper och funktion hos material som används vid byggnation.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare konstruktioner på samt byggnation av fritidsbåtar. Eleven gör en &lt;strong&gt;enkel &lt;/strong&gt;planering inför en arbetsuppgift &lt;strong&gt;samt väljer arbetsmetod, verktyg och utrustning&lt;/strong&gt;. Dessutom använder eleven arbetsmetod och med &lt;strong&gt;gott &lt;/strong&gt;handlag verktyg och utrustning som passar för uppgiften. I arbetet använder eleven &lt;strong&gt;med viss säkerhet &lt;/strong&gt;konstruktionsritningar, beskrivningar och anvisningar. Dessutom tillverkar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare skisser och ritningsunderlag. Eleven använder med&lt;strong&gt; gott &lt;/strong&gt;handlag olika typer av sammanfogningstekniker. Dessutom använder eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den digitala teknik och de informationssystem uppgiften kräver. I arbetet samarbetar och kommunicerar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; med andra på ett för yrket relevant språk.&lt;/p&gt;&lt;p&gt;I samband med arbetet gör eleven en riskbedömning. Eleven arbetar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet. Dessutom beskriver eleven &lt;strong&gt;utförligt&lt;/strong&gt; lagar och andra bestämmelser som reglerar arbetet inom branschen.&lt;/p&gt;&lt;p&gt;Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven gör en &lt;strong&gt;noggrann&lt;/strong&gt; dokumentation av sitt arbete samt presenterar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;sitt arbete. Dessutom gör eleven beräkningar av material- och tidsåtgång samt av kostnad. Eleven drar &lt;strong&gt;välgrundade&lt;/strong&gt; slutsatser om sambandet mellan ekonomi och kvalitet. Eleven utvärderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sitt arbete och resultatet.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för de konstruktions- och tillverkningsmetoder som används vid byggnation av fritidsbåtar. Dessutom beskriver eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; olika egenskaper och funktion hos material som används vid byggnation.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare konstruktioner på samt byggnation av fritidsbåtar. Eleven gör en &lt;strong&gt;genomarbetad &lt;/strong&gt;planering inför en arbetsuppgift &lt;strong&gt;samt väljer arbetsmetod, verktyg och utrustning och motiverar sina val&lt;/strong&gt;. Dessutom använder eleven arbetsmetod och med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag verktyg och utrustning som passar för uppgiften. I arbetet använder eleven &lt;strong&gt;med säkerhet &lt;/strong&gt;konstruktionsritningar, beskrivningar och anvisningar. Dessutom tillverkar eleven &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare skisser och ritningsunderlag. Eleven använder med&lt;strong&gt; mycket gott &lt;/strong&gt;handlag olika typer av sammanfogningstekniker. Dessutom använder eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; den digitala teknik och de informationssystem uppgiften kräver. I arbetet samarbetar och kommunicerar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; med andra på ett för yrket relevant språk.&lt;/p&gt;&lt;p&gt;I samband med arbetet gör eleven en &lt;strong&gt;välgrundad &lt;/strong&gt;riskbedömning. Eleven arbetar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet. Dessutom beskriver eleven &lt;strong&gt;utförligt &lt;/strong&gt;de lagar och andra bestämmelser som reglerar arbetet inom branschen.&lt;/p&gt;&lt;p&gt;Resultatet av elevens arbete är &lt;strong&gt;gott&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Eleven gör en &lt;strong&gt;noggrann och utförlig&lt;/strong&gt; dokumentation av sitt arbete samt presenterar &lt;strong&gt;med säkerhet &lt;/strong&gt;sitt arbete. Dessutom gör eleven &lt;strong&gt;komplexa &lt;/strong&gt;beräkningar av material- och tidsåtgång samt av kostnad. Eleven drar &lt;strong&gt;välgrundade och nyanserade&lt;/strong&gt; slutsatser om sambandet mellan ekonomi och kvalitet. Eleven utvärderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sitt arbete och resultatet &lt;strong&gt;samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>4</sortOrder>
+  </courses>
+  <courses>
+    <name>Plast- och lamineringsteknik</name>
+    <englishName>Plastic and lamination techniques</englishName>
+    <description
+    >&lt;p&gt;Kursen plast- och lamineringsteknik omfattar punkterna 1–4 och 6–9 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>FRDPLA0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Plast- och lamineringsteknik, 100 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: FRDPLA0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Plast- och armeringsmaterialens egenskaper.&lt;/li&gt; &lt;li&gt;Egenskaper och risker hos de kemiska material som används vid plast- och lamineringsarbeten.&lt;/li&gt; &lt;li&gt;Underhåll och skötsel av maskiner och verktyg, samt de arbetsmetoder som används.&lt;/li&gt; &lt;li&gt;Plastningstekniker, till exempel handläggning, sprutläggning och vakuuminjicering.&lt;/li&gt; &lt;li&gt;Formvård och förberedande arbeten.&lt;/li&gt; &lt;li&gt;Laminering och efterarbeten.&lt;/li&gt; &lt;li&gt;Digitala informationssystem.&lt;/li&gt; &lt;li&gt;Risker när det gäller miljö, arbetsmiljö, brand och personlig säkerhet.&lt;/li&gt; &lt;li&gt;Yrkets fackspråk, termer och begrepp.&lt;/li&gt; &lt;li&gt;Beräkning av kostnader, material- och tidsåtgång. Sambandet mellan kvalitet och ekonomi.&lt;/li&gt; &lt;li&gt;Dokumentation, presentation och utvärdering av arbete.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>100</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;översiktligt&lt;/strong&gt; de olika material som används vid plast- och lamineringsarbeten samt ger &lt;strong&gt;något&lt;/strong&gt; exempel på risker med dem. Dessutom beskriver eleven &lt;strong&gt;översiktligt&lt;/strong&gt; olika plast- och armeringsmaterials egenskaper och funktion.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;i samråd &lt;/strong&gt;med handledare förarbeten, lamineringsarbeten samt efterbearbetning. Eleven gör en &lt;strong&gt;enkel &lt;/strong&gt;planering inför en arbetsuppgift. Dessutom använder eleven &lt;strong&gt;den&lt;/strong&gt; arbetsmetod och med &lt;strong&gt;visst &lt;/strong&gt;handlag &lt;strong&gt;de&lt;/strong&gt; verktyg och &lt;strong&gt;den&lt;/strong&gt; utrustning som passar för uppgiften &lt;strong&gt;utifrån givna instruktioner&lt;/strong&gt;. Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den tillverkningsdokumentation, digitala teknik och de informationssystem uppgiften kräver. I arbetet samarbetar och kommunicerar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; med andra på ett för yrket relevant språk.&lt;/p&gt;&lt;p&gt;I samband med arbetet gör eleven en &lt;strong&gt;enkel&lt;/strong&gt; riskbedömning. Eleven arbetar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet. Dessutom beskriver eleven &lt;strong&gt;översiktligt&lt;/strong&gt; lagar och andra bestämmelser som reglerar arbetet inom branschen.&lt;/p&gt;&lt;p&gt;Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;. &lt;/p&gt;&lt;p&gt;Eleven gör en &lt;strong&gt;enkel&lt;/strong&gt; dokumentation av sitt arbete samt presenterar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;sitt arbete. Dessutom gör eleven &lt;strong&gt;enkla&lt;/strong&gt; beräkningar av material- och tidsåtgång samt av kostnad. Eleven drar &lt;strong&gt;enkla &lt;/strong&gt;slutsatser utifrån sambandet mellan kvalitet och ekonomi. Eleven utvärderar med &lt;strong&gt;enkla &lt;/strong&gt;omdömen sitt arbete och resultat.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt&lt;/strong&gt; de olika material som används vid plast- och lamineringsarbeten samt ger &lt;strong&gt;några&lt;/strong&gt; exempel på risker med dem. Dessutom beskriver eleven &lt;strong&gt;utförligt&lt;/strong&gt; olika plast- och armeringsmaterials egenskaper och funktion.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare förarbeten, lamineringsarbeten samt efterbearbetning. Eleven gör en &lt;strong&gt;enkel &lt;/strong&gt;planering inför en arbetsuppgift &lt;strong&gt;samt väljer arbetsmetod, verktyg och utrustning&lt;/strong&gt;. Dessutom använder eleven arbetsmetod och med &lt;strong&gt;gott &lt;/strong&gt;handlag verktyg och utrustning som passar för uppgiften. Eleven använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den tillverkningsdokumentation, digitala teknik och de informationssystem uppgiften kräver. I arbetet samarbetar och kommunicerar eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; med andra på ett för yrket relevant språk.&lt;/p&gt;&lt;p&gt;I samband med arbetet gör eleven en riskbedömning. Eleven arbetar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet. Dessutom beskriver eleven &lt;strong&gt;utförligt&lt;/strong&gt; lagar och andra bestämmelser som reglerar arbetet inom branschen.&lt;/p&gt;&lt;p&gt;Resultatet av elevens arbete är &lt;strong&gt;tillfredsställande&lt;/strong&gt;. &lt;/p&gt;&lt;p&gt;Eleven gör en &lt;strong&gt;noggrann&lt;/strong&gt; dokumentation av sitt arbete samt presenterar &lt;strong&gt;med viss säkerhet &lt;/strong&gt;sitt arbete. Dessutom gör eleven beräkningar av material- och tidsåtgång samt av kostnad. Eleven drar &lt;strong&gt;välgrundade &lt;/strong&gt;slutsatser utifrån sambandet mellan kvalitet och ekonomi. Eleven utvärderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sitt arbete och resultat.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven beskriver &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; de olika material som används vid plast- och lamineringsarbeten samt ger &lt;strong&gt;flera&lt;/strong&gt; exempel på risker med dem. Dessutom beskriver eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; olika plast- och armeringsmaterials egenskaper och funktion.&lt;/p&gt;&lt;p&gt;Eleven utför &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare förarbeten, lamineringsarbeten samt efterbearbetning. Eleven gör en &lt;strong&gt;genomarbetad &lt;/strong&gt;planering inför en arbetsuppgift&lt;strong&gt; samt väljer arbetsmetod, verktyg och utrustning och motiverar sina val&lt;/strong&gt;. Dessutom använder eleven arbetsmetod och med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag verktyg och utrustning som passar för uppgiften. Eleven använder &lt;strong&gt;med säkerhet&lt;/strong&gt; den tillverkningsdokumentation, digitala teknik och de informationssystem uppgiften kräver. I arbetet samarbetar och kommunicerar eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; med andra på ett för yrket relevant språk.&lt;/p&gt;&lt;p&gt;I samband med arbetet gör eleven en &lt;strong&gt;välgrundad &lt;/strong&gt;riskbedömning. Eleven arbetar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare utifrån de krav på säkerhet, kvalitet och miljö som reglerar arbetet. Dessutom beskriver eleven &lt;strong&gt;utförligt &lt;/strong&gt;lagar och andra bestämmelser som reglerar arbetet inom branschen.&lt;/p&gt;&lt;p&gt;Resultatet av elevens arbete är &lt;strong&gt;gott&lt;/strong&gt;. &lt;/p&gt;&lt;p&gt;Eleven gör en &lt;strong&gt;noggrann och utförlig&lt;/strong&gt; dokumentation av sitt arbete samt presenterar &lt;strong&gt;med säkerhet &lt;/strong&gt;sitt arbete. Dessutom gör eleven &lt;strong&gt;komplexa&lt;/strong&gt; beräkningar av material- och tidsåtgång samt av kostnad. Eleven drar &lt;strong&gt;välgrundade och nyanserade &lt;/strong&gt;slutsatser utifrån sambandet mellan kvalitet och ekonomi. Eleven utvärderar med &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen sitt arbete och resultat&lt;strong&gt; samt ger förslag på hur arbetet kan förbättras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>5</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

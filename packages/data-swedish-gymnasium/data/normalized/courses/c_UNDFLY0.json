@@ -1,0 +1,112 @@
+{
+  "name": "Flygunderhåll",
+  "code": "UNDFLY0",
+  "focusAreas": {
+    "string": "Kursen flygunderhåll omfattar punkterna 1-6 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-6"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Säkerhetsåtgärder för luftfartyg och verkstad.",
+          "2. Verkstadsrutiner.",
+          "3. Verktyg.",
+          "4. Maskinritningar, diagram och standarder.",
+          "5. Passningar och spel.",
+          "6. Elkablar och kontaktdon.",
+          "7. Nitning.",
+          "8. Rör och slangar för luftfartyg.",
+          "9. Fjädrar.",
+          "10. Komposit och lödning.",
+          "11. Lager.",
+          "12. Transmissioner.",
+          "13. Roderlinor.",
+          "14. Luftfartygs handhavande och förvaring.",
+          "15. Typer av fel och tekniker för visuell inspektion samt reparation.",
+          "16. Avlägsnande och bedömning av korrosion samt nytt korrosionsskydd.",
+          "17. Demonterings- och monteringstekniker.",
+          "18. Onormala händelser.",
+          "19. Underhållsförfaranden.",
+          "20. Dokumentation.",
+          "21. Fackspråk på svenska och engelska för att förstå och följa instruktioner samt för att kommunicera kring arbetets utförande.",
+          "22. Säkerhet på arbetsplatsen, förebyggande av person- och egendomsskador samt lagar och andra bestämmelser som gäller för arbetet."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** med stöd av informationsmaterial vanligt förekommande flygmaterial och verktyg samt deras funktion.",
+        "Dessutom beskriver eleven **översiktligt** olika metoder vid reparation och underhåll."
+      ],
+      [
+        "Eleven utför **i samråd** med handledare och med hjälp av skrivna instruktioner **enkla** reparationer och **enkelt** underhåll.",
+        "Dessutom utför eleven **i samråd** med handledare **enkla** sammanfogningar av detaljer och komponenter i luftfartyg utifrån ställda kvalitetskrav.",
+        "Eleven arbetar i bekanta situationer utifrån bestämmelser och standarder inom området.",
+        "Eleven redogör **översiktligt** för skydds- och arbetsmiljöbestämmelser.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra.",
+        "När arbetet är utfört utvärderar eleven med **enkla** omdömen sina arbetsprocesser och sitt resultat.",
+        "Dessutom gör eleven en **enkel** dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven kommunicerar med andra använder hen **med viss säkerhet** relevant fackspråk på svenska och engelska.",
+        "Dessutom samarbetar eleven för att nå planerade resultat.",
+        "Resultatet av elevens arbete är **tillfredsställande**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** med stöd av informationsmaterial vanligt förekommande flygmaterial och verktyg samt deras funktion.",
+        "Dessutom beskriver eleven **utförligt** olika metoder vid reparation och underhåll."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare och med hjälp av skrivna instruktioner reparationer och underhåll.",
+        "Dessutom utför eleven **efter samråd** med handledare sammanfogningar av detaljer och komponenter i luftfartyg utifrån bestämmelser och standarder inom området.",
+        "Eleven arbetar i bekanta **och delvis nya** situationer utifrån det regelverk som uppgiften kräver.",
+        "Eleven redogör **utförligt** för skydds- och arbetsmiljöbestämmelser.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra.",
+        "När arbetet är utfört utvärderar eleven med **nyanserade** omdömen sina arbetsprocesser och sitt resultat.",
+        "Dessutom gör eleven en **noggrann** dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven kommunicerar med andra använder hen **med viss säkerhet** relevant fackspråk på svenska och engelska.",
+        "Dessutom samarbetar eleven **och medverkar till att upprätthålla samarbetet** för att nå planerade resultat.",
+        "Resultatet av elevens arbete är **tillfredsställande**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** med stöd av informationsmaterial vanligt förekommande flygmaterial och verktyg samt deras funktion.",
+        "Dessutom beskriver eleven **utförligt och nyanserat** olika metoder vid reparation och underhåll."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare och med hjälp av skrivna instruktioner **avancerade** reparationer och **avancerat** underhåll.",
+        "Dessutom utför eleven **efter samråd** med handledare **avancerade** sammanfogningar av detaljer och komponenter i luftfartyg utifrån ställda kvalitetskrav.",
+        "Eleven arbetar i bekanta **men även nya** situationer utifrån bestämmelser och standarder inom området.",
+        "Eleven redogör **utförligt och nyanserat** för skydds- och arbetsmiljöbestämmelser.",
+        "Arbetet utförs på ett sätt som är säkert för eleven själv och andra.",
+        "När arbetet är utfört utvärderar eleven med **nyanserade** omdömen sina arbetsprocesser och sitt resultat **samt ger förslag på hur arbetet kan förbättras**.",
+        "Dessutom gör eleven en **noggrann och utförlig** dokumentation av sitt arbete."
+      ],
+      [
+        "När eleven kommunicerar med andra använder hen **med säkerhet** relevant fackspråk på svenska och engelska.",
+        "Dessutom samarbetar eleven **och medverkar till att upprätthålla och utveckla samarbetet** för att nå planerade resultat.",
+        "Resultatet av elevens arbete är **gott**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

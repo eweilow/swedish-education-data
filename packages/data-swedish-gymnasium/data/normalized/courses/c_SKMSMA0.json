@@ -1,0 +1,122 @@
+{
+  "name": "Småskalig skogsteknik",
+  "code": "SKMSMA0",
+  "focusAreas": {
+    "string": "Kursen småskalig skogsteknik omfattar punkterna 1-2 och 4-9 under rubriken Ämnets syfte, med särskild betoning på punkterna 2, 4 och 6.",
+    "entries": [
+      "1-2",
+      "4-9"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Teknisk grund",
+        "rows": [
+          "1. Konstruktions- och funktionsbeskrivningar samt användningsområden för maskiner och teknisk utrustning.",
+          "2. Inställningar av teknisk utrustning.",
+          "3. Tillsyn, underhåll och service enligt instruktionsböcker."
+        ]
+      },
+      {
+        "title": "Arbete med småskalig skogsteknik",
+        "rows": [
+          "1. Arbete med småskalig skogsteknik, till exempel griplastarvagnar, miniprocessorer, minilunnare och småskalig sågning.",
+          "2. Användning av tilläggsutrustning.",
+          "3. Bedömning av kvalitet på utfört arbete och ekonomiskt resultat."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Ergonomiskt lämplig arbetsteknik.",
+          "2. Risker i arbetet vid arbete med småskalig skogsteknik.",
+          "3. Användning av skyddsutrustning.",
+          "4. Brandförebyggande åtgärder.",
+          "5. Miljö- och säkerhetsföreskrifter."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** konstruktion och funktion av samt användningsområden för maskiner och teknisk utrustning."
+      ],
+      [
+        "Eleven följer arbetsinstruktioner samt kör och manövrerar **i samråd** med handledare maskiner för att utföra arbetsuppgifter inom småskalig skogsteknik.",
+        "Eleven gör också en **enkel** ekonomisk kalkyl för användning av småskalig teknik inom skogsbruk och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö.",
+        "Dessutom beskriver eleven **översiktligt** kalkylens olika delar."
+      ],
+      [
+        "Eleven använder med **visst** handlag teknisk utrustning samt utför **i samråd** med handledare service och underhåll av maskinerna och den tekniska utrustningen.",
+        "Dessutom ställer eleven **i samråd** med handledare in maskinerna och den tekniska utrustningen samt utför **i samråd** med handledare funktionskontroller.",
+        "I arbetet använder eleven **i samråd** med handledare instruktions- och handböcker.",
+        "Dessutom löser eleven **i samråd** med handledare de problem som uppstår.",
+        "Resultatet av arbetet är **tillfredsställande**."
+      ],
+      [
+        "Eleven arbetar säkert och ergonomiskt med maskinerna och den tekniska utrustningen.",
+        "Dessutom redogör eleven **översiktligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+        "När arbetet är utfört gör eleven en **enkel** bedömning av arbetsresultatet och rapporterar det."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** konstruktion och funktion av samt användningsområden för maskiner och teknisk utrustning."
+      ],
+      [
+        "Eleven följer arbetsinstruktioner samt kör och manövrerar **efter samråd** med handledare maskiner för att utföra arbetsuppgifter inom småskalig skogsteknik.",
+        "Eleven gör också en ekonomisk kalkyl för användning av småskalig teknik inom skogsbruk och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö.",
+        "Dessutom beskriver eleven **utförligt** kalkylens olika delar."
+      ],
+      [
+        "Eleven använder med **gott** handlag teknisk utrustning samt utför **efter samråd** med handledare service och underhåll av maskinerna och den tekniska utrustningen.",
+        "Dessutom ställer eleven **efter samråd** med handledare in maskinerna och den tekniska utrustningen samt utför **efter samråd** med handledare funktionskontroller.",
+        "I arbetet använder eleven **efter samråd** med handledare instruktions- och handböcker.",
+        "Dessutom löser eleven **efter samråd** med handledare de problem som uppstår.",
+        "Resultatet av arbetet är **tillfredsställande**."
+      ],
+      [
+        "Eleven arbetar säkert och ergonomiskt med maskinerna och den tekniska utrustningen.",
+        "Dessutom redogör eleven **utförligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+        "När arbetet är utfört gör eleven en **välgrundad** bedömning av arbetsresultatet och rapporterar det."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** konstruktion och funktion av samt användningsområden för maskiner och teknisk utrustning."
+      ],
+      [
+        "Eleven följer arbetsinstruktioner samt kör och manövrerar **efter samråd** med handledare maskiner för att utföra arbetsuppgifter inom småskalig skogsteknik.",
+        "Eleven gör också en **avancerad** ekonomisk kalkyl för användning av småskalig teknik inom skogsbruk och tar i kalkylen hänsyn till kvalitet, säkerhet och miljö.",
+        "Dessutom beskriver eleven **utförligt och nyanserat** kalkylens olika delar."
+      ],
+      [
+        "Eleven använder med **mycket gott** handlag teknisk utrustning samt utför **efter samråd** med handledare service och underhåll av maskinerna och den tekniska utrustningen.",
+        "Dessutom ställer eleven **efter samråd** med handledare in maskinerna och den tekniska utrustningen samt utför **efter samråd** med handledare funktionskontroller.",
+        "I arbetet använder eleven **efter samråd** med handledare instruktions- och handböcker.",
+        "Dessutom löser eleven **efter samråd** med handledare de problem som uppstår.",
+        "Resultatet av arbetet är **gott**."
+      ],
+      [
+        "Eleven arbetar säkert och ergonomiskt med maskinerna och den tekniska utrustningen.",
+        "Dessutom redogör eleven **utförligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer.",
+        "När arbetet är utfört gör eleven en **välgrundad och nyanserad** bedömning av arbetsresultatet och rapporterar det."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

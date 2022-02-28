@@ -1,0 +1,134 @@
+{
+  "name": "Planering före byggstart",
+  "code": "BYPPLA0",
+  "focusAreas": {
+    "string": "Kursen planering före byggstart omfattar punkterna 3-4 och 6-7 under rubriken Ämnets syfte.",
+    "entries": [
+      "3-4",
+      "6-7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Anbudskalkyl och anbudsprocess: förfrågan, anbudsberäkning, offertförfrågan, anbud, förhandling, beställning och entreprenadkontrakt.",
+          "2. Produktionsplanering, produktionsbudget och produktionstidplan.",
+          "3. APD-planer (arbetsplatsdisposition), planering av byggarbetsplatsens utformning, till exempel vad gäller byggnadsställningar, transportvägar, transportanordningar, arbetsmiljö, restprodukter och tillfälliga installationer.",
+          "4. Logistik och materialadministration för byggarbetsplatsen.",
+          "5. Hantering av restprodukter, energiförbrukning i produktionsskedet.",
+          "6. Arbetsmiljöarbete i byggprojekt.",
+          "7. Begrepp som används inom kunskapsområdet, till exempel upphandling, anbudskalkyl, entreprenadkontrakt, produktionstidplan, produktionsbudget, bygglogistik, byggarbetsmiljö, BIM (Building Information Modelling) och Lean Construction.",
+          "8. Tidplan, CPM (Critical Path Method) och strukturplan.",
+          "9. Elsäkerhet. Elolycksfall, ljusbågs- och strömgenomgångsrisker, arbete utan och med nära spänning, elarbetesansvarigs arbetsuppgifter, entreprenörsarbete med el och ansvarsfrågor.",
+          "10. Kunskaper om och planering av el på en byggarbetsplats."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven planerar, organiserar och genomför **i samråd** med handledare en byggentreprenörs anbudsprocess.",
+        "Dessutom planerar eleven **i samråd** med handledare ett byggprojekt inför byggstart.",
+        "I arbetet upprättar eleven **med viss säkerhet** en arbetsplatsdisposition.",
+        "Eleven anpassar **efter samråd** med handledare sin process till eventuella nya förutsättningar.",
+        "Resultatet är **tillfredsställande** avseende funktion, teknik, ekonomi, miljö och arbetsmiljö."
+      ],
+      [
+        "Eleven upprättar **i samråd med handledare** en tidplan enligt CPM-strukturplan."
+      ],
+      [
+        "Eleven redogör **tillfredsställande** för hur el kan ordnas på en byggarbetsplats då det gäller belysnings- och fördelningsutrustning samt drift och underhåll.",
+        "Eleven redogör även **tillfredsställande** för vilka faror det finns med el på en byggarbetsplats samt vad som krävs för en hög elsäkerhet."
+      ],
+      [
+        "Eleven planerar i **samråd** med handledare en enklare tillfällig elanläggning på byggarbetsplatsen.",
+        "I arbetet använder eleven **med viss säkerhet** ritningar och scheman.",
+        "Elevens planering utgör ett **tillfredsställande** underlag för att upprätta en elanläggning."
+      ],
+      [
+        "När arbetet är utfört utvärderar eleven sitt arbete och resultat med **enkla** omdömen.",
+        "Dessutom gör eleven en **enkel** jämförelse av sitt eget resultat med andras, när det gäller funktion, teknik, ekonomi, miljö och arbetsmiljö."
+      ],
+      [
+        "Eleven redogör **översiktligt** för strategier och system för produktionsskedet i ett byggprojekt."
+      ],
+      [
+        "Eleven använder **med viss säkerhet** begrepp och uttryckssätt som används inom kunskapsområdet för att åskådliggöra sina tankar och idéer."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven planerar, organiserar och genomför **efter samråd** med handledare en byggentreprenörs anbudsprocess.",
+        "Dessutom planerar eleven **efter samråd** med handledare ett byggprojekt inför byggstart.",
+        "I arbetet upprättar eleven **med viss säkerhet** en arbetsplatsdisposition.",
+        "Eleven anpassar **efter samråd** med handledare sin process till eventuella nya förutsättningar.",
+        "Resultatet är **gott** avseende funktion, teknik, ekonomi, miljö och arbetsmiljö."
+      ],
+      [
+        "Eleven upprättar **med viss säkerhet** en tidplan enligt CPM-strukturplan."
+      ],
+      [
+        "Eleven redogör **utförligt** för hur el kan ordnas på en byggarbetsplats då det gäller belysnings- och fördelningsutrustning samt drift och underhåll.",
+        "Eleven redogör även **utförligt och nyanserat** för vilka faror det finns med el på en byggarbetsplats samt vad som krävs för en hög elsäkerhet."
+      ],
+      [
+        "Eleven planerar **i samråd** med handledare en enklare tillfällig elanläggning på byggarbetsplatsen.",
+        "I arbetet använder eleven **med viss säkerhet** ritningar och scheman.",
+        "Elevens planering utgör ett underlag för att upprätta en elanläggning."
+      ],
+      [
+        "När arbetet är utfört utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen.",
+        "Dessutom gör eleven en **välgrundad** jämförelse av sitt eget resultat med andras, när det gäller funktion, teknik, ekonomi, miljö och arbetsmiljö."
+      ],
+      [
+        "Eleven redogör **med viss säkerhet** för strategier och system för produktionsskedet i ett byggprojekt."
+      ],
+      [
+        "Eleven använder **med viss säkerhet** begrepp och uttryckssätt som används inom kunskapsområdet för att åskådliggöra sina tankar och idéer."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven planerar, organiserar och genomför **efter samråd** med handledare en byggentreprenörs anbudsprocess.",
+        "Dessutom planerar eleven **efter samråd** med handledare ett byggprojekt inför byggstart.",
+        "I arbetet upprättar eleven **med säkerhet** en arbetsplatsdisposition.",
+        "Eleven anpassar **efter samråd** med handledare sin process till eventuella nya förutsättningar.",
+        "Resultatet är **gott** avseende funktion, teknik, ekonomi, miljö och arbetsmiljö."
+      ],
+      [
+        "Eleven upprättar **med säkerhet** en tidplan enligt CPM-strukturplan."
+      ],
+      [
+        "Eleven redogör **utförligt och nyanserat** för hur el kan ordnas på en byggarbetsplats då det gäller belysnings- och fördelningsutrustning samt drift och underhåll.",
+        "Eleven redogör även **utförligt och nyanserat** för vilka faror det finns med el på en byggarbetsplats samt vad som krävs för en hög elsäkerhet."
+      ],
+      [
+        "Eleven planerar **efter samråd** med handledare en enklare tillfällig elanläggning på byggarbetsplatsen.",
+        "I arbetet använder eleven **med säkerhet** ritningar och scheman.",
+        "Elevens planering utgör ett **gott** underlag för att upprätta en elanläggning."
+      ],
+      [
+        "När arbetet är utfört utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**.",
+        "Dessutom gör eleven en **välgrundad och nyanserad** jämförelse av sitt eget resultat med andras, när det gäller funktion, teknik, ekonomi, miljö och arbetsmiljö."
+      ],
+      [
+        "Eleven redogör **med säkerhet** för strategier och system för produktionsskedet i ett byggprojekt."
+      ],
+      [
+        "Eleven använder **med säkerhet** begrepp och uttryckssätt som används inom kunskapsområdet för att åskådliggöra sina tankar och idéer."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

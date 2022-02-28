@@ -1,0 +1,104 @@
+{
+  "subject": "PRO",
+  "title": "Processmätteknik 1",
+  "code": "PROPRC01",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för uppbyggnad, funktion och principer hos olika mättekniska system.",
+        "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för beteckningar och några mätmetoder för olika fysiska storheter och kemiska egenskaper."
+      ],
+      [
+        "Eleven utför <strong>efter samråd</strong> med handledarenågon vanlig underhållsteknisk arbetsuppgift i en automatiserad processanläggning med ett resultat som på ett <strong>gott</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+        "Dessutom utför eleven i enkla automatiserade processanläggningar <strong>avancerade</strong> mätningar av fysikaliska storheter och kemiska egenskaper."
+      ],
+      [
+        "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra.",
+        "I arbetet beskriver eleven <strong>utförligt och nyanserat</strong> processens mättekniska funktioner samt löser <strong>avancerade</strong> mättekniska problem med hjälp av dokumentation, beräkningar, konfigureringar, mätinstrument och datorer.",
+        "I arbetet hanterar och vårdar eleven med <strong>mycket gott</strong> handlag material, verktyg och övrig utrustning.",
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> hur standarder och föreskrifter styr val av utrustning och arbetssätt."
+      ],
+      [
+        "Efter utfört arbete gör eleven en <strong>noggrann och utförlig</strong> dokumentation av utfört arbete.",
+        "Eleven utvärderar sitt arbete med <strong>nyanserade</strong> omdömen <strong>samt ger förslag på hur arbetet kan förbättras</strong>."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör <strong>utförligt</strong> för uppbyggnad, funktion och principer hos olika mättekniska system.",
+        "Dessutom redogör eleven <strong>utförligt</strong> för beteckningar och några mätmetoder för olika fysiska storheter och kemiska egenskaper."
+      ],
+      [
+        "Eleven utför <strong>efter samråd</strong> med handledarenågon vanlig underhållsteknisk arbetsuppgift i en automatiserad processanläggning med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+        "Dessutom utför eleven i enkla automatiserade processanläggningar mätningar av fysikaliska storheter och kemiska egenskaper."
+      ],
+      [
+        "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra.",
+        "I arbetet beskriver eleven <strong>utförligt</strong> processens mättekniska funktioner samt löser mättekniska problem med hjälp av dokumentation, beräkningar, konfigureringar, mätinstrument och datorer.",
+        "I arbetet hanterar och vårdar eleven med <strong>gott</strong> handlag material, verktyg och övrig utrustning.",
+        "Eleven beskriver <strong>utförligt</strong> hur standarder och föreskrifter styr val av utrustning och arbetssätt."
+      ],
+      [
+        "Efter utfört arbete gör eleven en <strong>noggrann</strong> dokumentation av utfört arbete.",
+        "Eleven utvärderar sitt arbete med <strong>nyanserade</strong> omdömen."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven redogör <strong>översiktligt</strong> för uppbyggnad, funktion och principer hos olika mättekniska system.",
+        "Dessutom redogör eleven <strong>översiktligt</strong> för beteckningar och några mätmetoder för olika fysiska storheter och kemiska egenskaper."
+      ],
+      [
+        "Eleven utför <strong>i samråd</strong> med handledarenågon vanlig underhållsteknisk arbetsuppgift i en automatiserad processanläggning med ett resultat som på ett <strong>tillfredsställande</strong> sätt uppfyller fastställda kvalitets- och miljökrav.",
+        "Dessutom utför eleven i enkla automatiserade processanläggningar <strong>enkla</strong> mätningar av fysikaliska storheter och kemiska egenskaper."
+      ],
+      [
+        "Eleven arbetar på ett sätt som är säkert både för eleven själv och andra.",
+        "I arbetet beskriver eleven <strong>översiktligt</strong> processens mättekniska funktioner samt löser <strong>enkla</strong> mättekniska problem med hjälp av dokumentation, beräkningar, konfigureringar, mätinstrument och datorer.",
+        "I arbetet hanterar och vårdar eleven med <strong>visst</strong> handlag material, verktyg och övrig utrustning.",
+        "Eleven beskriver <strong>översiktligt</strong> hur standarder och föreskrifter styr val av utrustning och arbetssätt."
+      ],
+      [
+        "Efter utfört arbete gör eleven en <strong>enkel</strong> dokumentation av utfört arbete.",
+        "Eleven utvärderar sitt arbete med <strong>enkla</strong> omdömen."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Metoder för analoga och digitala signalöverföringar. Metoder för att bekämpa störningar.",
+        "Metoder för mätning av temperatur, tryck, nivå och flöde.",
+        "Metoder och utrustning för att testa och kalibrera mätningar av till exempel temperatur, tryck, nivå och flöde.",
+        "Metoder för mätning av varvtal och krafter.",
+        "Signalmätmetoder på automatiserade processanläggningar i drift.",
+        "Funktion och konstruktion hos olika pumpar, ventiler och filter.",
+        "Planering och genomförande av enklare underhållsarbete i en processanläggning, till exempel montering och inkoppling av mätdon.",
+        "Laborativa mätövningar med givare, omvandlare, signalomvandlare och smartgivare.",
+        "Systematiserade dokumentationsmetoder.",
+        "Standarder och föreskrifter inom området, till exempel ATEX-direktiven."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen processmätteknik 1 omfattar punkterna 1, 3-4 och 7-10 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    2,
+    3,
+    6,
+    7,
+    8,
+    9
+  ]
+}

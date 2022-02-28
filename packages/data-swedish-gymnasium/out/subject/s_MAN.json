@@ -1,0 +1,33 @@
+{
+  "title": "Marinmotorteknik",
+  "code": "MAN",
+  "developmentPurposes": [
+    "Kunskaper om marina motorers och deras drivlinors huvudkomponenter, uppbyggnad och användningsområden. Kunskaper om huvudkomponenternas funktion och hur de samverkar.",
+    "Förmåga att utföra arbete på marina motorer och drivlinor.",
+    "Förmåga att välja arbetsmetod, verktyg och utrustning.",
+    "Förmåga att använda svenska och engelska manualer och informationssystem.",
+    "Förmåga att utföra olika typer av arbeten på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.",
+    "Förmåga att kommunicera samt att använda begrepp och uttryck som är relevanta för ämnesområdet.",
+    "Kunskaper om branschens villkor, roll i samhället och yrkets förutsättningar."
+  ],
+  "purposes": [
+    "Undervisningen i ämnet marinmotorteknik ska syfta till att eleverna utvecklar tekniskt kunnande och intresse för teknik. Eleverna ska ges möjlighet att utveckla förmåga att genomföra underhåll, diagnostisering och reparationer av marina motorer och deras framdriftssystem. Dessutom ska undervisningen leda till att eleverna utvecklar förmåga att hantera verktyg och utrustning. Undervisningen ska leda till att eleverna utvecklar kunskaper om marina motorers huvudkomponenter, kunskaper i monterings- och demonteringsarbete samt förmåga att hantera de informationssystem som används för att lösa arbetsuppgifterna.",
+    "I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Dessa arbetsuppgifter ska utgå från ett problemlösande arbetssätt."
+  ],
+  "courseInfo": {
+    "MANDIA0": "Diagnos och reparation, 100 poäng.",
+    "MANINT0": "Intervallservice, 100 poäng.",
+    "MANMAR0": "Marinmotor - introduktion, 100 poäng.",
+    "MANNYI0": "Nyinstallation, 100 poäng."
+  },
+  "description": "Ämnet marinmotorteknik behandlar marina motorers uppbyggnad och funktion samt bakomliggande principer för deras mekanik. Det behandlar också materiallära, arbetsmetoder, verktyg och andra hjälpmedel relaterat till marinmotorteknik.",
+  "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
+  "applicableFrom": "2011-10-11T16:21:01.000Z",
+  "modifiedDate": "2020-02-19T14:57:55.000Z",
+  "courses": [
+    "MANDIA0",
+    "MANINT0",
+    "MANMAR0",
+    "MANNYI0"
+  ]
+}

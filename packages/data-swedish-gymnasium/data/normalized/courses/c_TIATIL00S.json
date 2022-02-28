@@ -1,0 +1,65 @@
+{
+  "name": "Tillämpad programmering",
+  "code": "TIATIL00S",
+  "focusAreas": {
+    "string": "Kursen tillämpad programmering omfattar punkterna 1-4 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper inom valt kunskapsområde.",
+    "entries": [
+      "1-4"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Begrepp, teorier, modeller och metoder inom programmering.",
+          "2. Förmåga att lösa problem i en datavetenskaplig kontext.",
+          "3. Tillämpningar inom valt kunskapsområde, till exempel industriell programmering, spelprogrammering, utveckling av administrativa system eller pedagogiska program, applikationsutveckling eller som hjälpmedel för att skapa eller bearbeta bild, ljud och film.",
+          "4. Hur tillämpad programmering kan användas som verktyg i behandlingen av omfångsrika problemsituationer. Programmeringens möjligheter och begränsningar i dessa situationer.",
+          "5. Konsekvenser av tillämpad programmering för det valda kunskapsområdet."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "I sitt arbete använder eleven **med viss säkerhet** grundläggande datavetenskapliga begrepp, teorier och modeller inom valt kunskapsområde."
+      ],
+      [
+        "Eleven identifierar och formulerar **i samråd** med handledare ett **enkelt** problem inom valt kunskapsområde.",
+        "Eleven väljer och använder **i samråd** med handledare lämpliga algoritmer och lösningsmetoder samt dokumenterar arbetet och resultatet.",
+        "Dessutom löser eleven med hjälp av programmering problemet inom valt område med ett **tillfredsställande** resultat."
+      ],
+      [
+        "Eleven för ett **enkelt** resonemang utifrån en analys av tillämpningens konsekvenser för sitt valda kunskapsområde."
+      ]
+    ],
+    "C": [
+      [
+        "I sitt arbete använder eleven **med viss säkerhet** grundläggande datavetenskapliga begrepp, teorier och modeller inom valt kunskapsområde."
+      ],
+      [
+        "Eleven identifierar och formulerar **efter samråd** med handledare ett problem inom valt kunskapsområde.",
+        "Eleven väljer och använder **efter samråd** med handledare lämpliga algoritmer och lösningsmetoder samt dokumenterar arbetet och resultatet.",
+        "Dessutom löser eleven med hjälp av programmering problemet inom valt område med ett **tillfredsställande** resultat."
+      ],
+      [
+        "Eleven för ett **välgrundat** resonemang utifrån en analys av tillämpningens konsekvenser för sitt valda kunskapsområde."
+      ]
+    ],
+    "A": [
+      [
+        "I sitt arbete använder eleven **med säkerhet** grundläggande datavetenskapliga begrepp, teorier och modeller inom valt kunskapsområde."
+      ],
+      [
+        "Eleven identifierar och formulerar **efter samråd** med handledare ett **avancerat** problem inom valt kunskapsområde.",
+        "Eleven väljer och använder **efter samråd** med handledare lämpliga algoritmer och lösningsmetoder samt dokumenterar arbetet och resultatet.",
+        "Dessutom löser eleven med hjälp av programmering problemet inom valt område med ett **gott** resultat."
+      ],
+      [
+        "Eleven för ett **välgrundat och nyanserat** resonemang utifrån en analys av tillämpningens konsekvenser för sitt valda kunskapsområde."
+      ]
+    ]
+  }
+}

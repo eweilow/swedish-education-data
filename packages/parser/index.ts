@@ -1,3 +1,3 @@
-export { parseProgrammes } from "./programmes";
-export { parseSubjects } from "./subjects";
-export { parseCourses } from "./courses";
+// export { parseProgrammes } from "./programmes";
+export { parseSubjects } from "./subject";
+export { parseCourses } from "./course";

@@ -1,0 +1,95 @@
+{
+  "subject": "IDU",
+  "title": "Tillämpad automationsteknik",
+  "code": "IDUTIL3",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för digitaliserade systems uppbyggnad, användningsområde, funktion och betydelse för automatiserade processer.",
+        "Vidare redogör eleven <strong>utförligt och nyanserat</strong> för uppbyggnad och funktion av smarta givare.",
+        "Eleven resonerar <strong>utförligt och nyanserat</strong> för användningsområden för samarbetande robotar.",
+        "Eleven förhåller sig till de säkerhetsföreskrifter som finns inom området.",
+        "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för vanligt förekommande standarder, tekniska begrepp, definitioner och utrustning som används inom digitaliserade processer."
+      ],
+      [
+        "Eleven använder <strong>med mycket god säkerhet</strong> programverktyg för simulering och modellering av digitaliserade system.",
+        "Eleven för <strong>med mycket god säkerhet</strong> resonemang om hur digitalisering kan påverka social, ekonomisk och ekologisk hållbarhet."
+      ],
+      [
+        "Eleven strukturerar och utför programskrivning <strong>självständigt</strong> för kommunikation och konfiguration mellan olika system och andra enheter, internt och externt.",
+        "Vidare genomför eleven <strong>med mycket god säkerhet</strong> kontroll före drifttagning och provkörning av program.",
+        "Eleven analyserar, förbättrar och optimerar befintliga digitaliserade system och ger <strong>välgrundade och nyanserade</strong> förslag på åtgärder.",
+        "Eleven bedömer komponenter, ersätter och konfigurerar <strong>självständigt</strong> defekta delar."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör <strong>utförligt</strong> för digitaliserade systems uppbyggnad, användningsområde, funktion och betydelse för automatiserade processer.",
+        "Vidare redogör eleven <strong>utförligt</strong> för uppbyggnad och funktion av smarta givare.",
+        "Eleven resonerar <strong>utförligt</strong> kring användningsområden för samarbetande robotar.",
+        "Eleven förhåller sig till de säkerhetsföreskrifter som finns inom området.",
+        "Dessutom redogör eleven <strong>utförligt</strong> för vanligt förekommande standarder, tekniska begrepp, definitioner och utrustning som används inom digitaliserade processer."
+      ],
+      [
+        "Eleven använder <strong>med god säkerhet</strong> programverktyg för simulering och modellering av digitaliserade system.",
+        "Eleven för <strong>med god säkerhet</strong> resonemang om hur digitalisering kan påverka social, ekonomisk och ekologisk hållbarhet."
+      ],
+      [
+        "Eleven strukturerar och utför programskrivning <strong>självständigt efter samråd</strong> med handledare för kommunikation och konfiguration mellan olika system och andra enheter, internt och externt.",
+        "Vidare genomför eleven <strong>med god säkerhet</strong> kontroll före drifttagning och provkörning av program.",
+        "Eleven analyserar, förbättrar och optimerar befintliga digitaliserade system och ger <strong>välgrundade och nyanserade</strong> förslag på åtgärder.",
+        "Eleven bedömer komponenter, ersätter och konfigurerar <strong>självständigt efter samråd</strong> med handledare defekta delar."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven redogör <strong>övergripande</strong> för digitaliserade systems uppbyggnad, användningsområde, funktion och betydelse för automatiserade processer.",
+        "Vidare redogör eleven <strong>övergripande</strong> för uppbyggnad och funktion av smarta givare.",
+        "Eleven resonerar <strong>övergripande</strong> kring användningsområden för samarbetande robotar.",
+        "Eleven förhåller sig till de säkerhetsföreskrifter som finns inom området.",
+        "Dessutom redogör eleven <strong>övergripande</strong> för vanligt förekommande standarder, tekniska begrepp, definitioner och utrustning som används inom digitaliserade processer."
+      ],
+      [
+        "Eleven använder <strong>med säkerhet</strong> programverktyg för simulering och modellering av digitaliserade system.",
+        "Eleven för <strong>med säkerhet</strong> resonemang om hur digitalisering kan påverka social, ekonomisk och ekologisk hållbarhet."
+      ],
+      [
+        "Eleven strukturerar och utför programskrivning <strong>efter samråd</strong> med handledare för kommunikation och konfiguration mellan olika system och andra enheter, internt och externt.",
+        "Vidare genomför eleven <strong>med säkerhet</strong> kontroll före drifttagning och provkörning av program.",
+        "Eleven analyserar, förbättrar och optimerar befintliga digitaliserade system och ger <strong>välgrundade</strong> förslag på åtgärder.",
+        "Eleven bedömer komponenter, ersätter och konfigurerar <strong>efter samråd</strong> med handledare defekta delar."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Strategier för digitalisering av automatiserade processer.",
+        "Uppbyggnad och funktion av smarta sensorer som kontinuerligt registrerar och mäter aktiviteter, utfall, prestanda och miljöfaktorer.",
+        "Användningsområde för samarbetande robotar.",
+        "Tolkning av standarder, begrepp, definitioner och utrustning som används vid arbete med digitalisering av automatiserade processer.",
+        "Hantering av avancerade simulerings- och modelleringsprogram för digitaliserade automatiserade processer.",
+        "Hantering och användning av system som hjälp för att skapa förstärkt verklighet (AR).",
+        "Digitaliseringen ur ett livscykelperspektiv, till exempel råvarutillgång och återvinning.",
+        "Framtida perspektiv på hållbar utveckling, arbetsmiljö och teknikens roll.",
+        "Konfiguration för digitala gränssnitt anpassade till automatiserade processer.",
+        "Programmering och konfiguration av autonoma och lärande system som en kombination av traditionella automationsteknologier och artificiell intelligens (AI).",
+        "Programmering och konfiguration av molnbaserade lösningar för olika applikationer i en automatiserad process.",
+        "Hantering, utvärdering och analys av den datamängd som genereras i digitaliserade system med avancerade analysmetoder och program."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen tillämpad automationsteknik omfattar punkterna 1-8 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ]
+}

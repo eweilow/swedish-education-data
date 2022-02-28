@@ -1,0 +1,106 @@
+{
+  "name": "Företagsekonomi 1",
+  "code": "FÖRFÖR01",
+  "focusAreas": {
+    "string": "Kursen företagsekonomi 1 omfattar punkterna 1-4 och 6-7 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "entries": [
+      "1-4",
+      "6-7"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Företagens roll och villkor i samhället i fråga om samhällsnytta och samhällsansvar, i nutiden och ur ett historiskt perspektiv.",
+          "2. Olika typer av företag och företagsformer. I samband med det behandlas hur man startar ett företag samt affärsidéns utformning och betydelse.",
+          "3. Grundläggande företagsekonomiska begrepp och modeller samt kalkylering.",
+          "4. Grundläggande budgeteringsformer, bokföring och bokslut.",
+          "5. Grundläggande metoder i marknadsföring. I samband med det behandlas företagens etiska ansvar samt lagar och andra bestämmelser som styr företagens marknadsföring.",
+          "6. Grundläggande projektmetodik i samband med enkla företagsekonomiska projekt."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** företagens roll i samhället med hjälp av några exempel.",
+        "Eleven diskuterar **översiktligt** sambandet mellan företagens ekonomiska beslutsfattande och deras samhällsansvar.",
+        "Med hjälp av några exempel beskriver eleven **översiktligt** företagens villkor med utgångspunkt i grundläggande lagar och andra bestämmelser."
+      ],
+      [
+        "Eleven beskriver **översiktligt** olika funktioner i ett företag samt redogör **översiktligt** för hur man startar och driver ett företag.",
+        "Dessutom redogör eleven **översiktligt** för affärsidéns utformning samt dess betydelse för företagets verksamhet.",
+        "Eleven redogör **översiktligt** för innebörden av företagsekonomiska begrepp.",
+        "Vidare använder eleven **med viss säkerhet enkla** företagsekonomiska metoder.",
+        "Med hjälp av **enkla** modeller förklarar eleven företagsekonomiska företeelser och sammanhang.",
+        null
+      ],
+      [
+        "Eleven upprättar **i samråd** med handledare en **enkel** projektplan inom det företagsekonomiska kunskapsområdet.",
+        "Eleven tar eget ansvar samt genomför projektet **i samråd** med handledare och med **tillfredsställande** resultat.",
+        "Dessutom utvärderar eleven arbetsprocessen och resultatet med **enkla** omdömen."
+      ],
+      [
+        "Eleven använder **i samråd** med handledare relevant teknik för kommunikation, beräkningar, informationssökning, presentation och dokumentation."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** företagens roll i samhället med hjälp av några exempel.",
+        "Eleven diskuterar **utförligt** sambandet mellan företagens ekonomiska beslutsfattande och deras samhällsansvar.",
+        "Med hjälp av några exempel beskriver eleven **utförligt** företagens villkor med utgångspunkt i grundläggande lagar och andra bestämmelser."
+      ],
+      [
+        "Eleven beskriver **utförligt** olika funktioner i ett företag samt redogör **utförligt** för hur man startar och driver ett företag.",
+        "Dessutom redogör eleven **utförligt** för affärsidéns utformning samt dess betydelse för företagets verksamhet.",
+        "Eleven redogör **utförligt** för innebörden av företagsekonomiska begrepp.",
+        "Vidare använder eleven **med viss säkerhet** företagsekonomiska metoder.",
+        "Med hjälp av modeller förklarar eleven företagsekonomiska företeelser och sammanhang.",
+        "**Eleven värderar med enkla omdömen modellernas användbarhet**."
+      ],
+      [
+        "Eleven upprättar **efter samråd** med handledare en projektplan inom det företagsekonomiska kunskapsområdet.",
+        "Eleven tar eget ansvar samt genomför projektet **efter samråd** med handledare, **inom givna tidsramar** och med **tillfredsställande** resultat.",
+        "Dessutom utvärderar eleven arbetsprocessen och resultatet med **nyanserade** omdömen."
+      ],
+      [
+        "Eleven använder **efter samråd** med handledare relevant teknik för kommunikation, beräkningar, informationssökning, presentation och dokumentation."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** företagens roll i samhället med hjälp av några exempel.",
+        "Eleven diskuterar **utförligt och nyanserat** sambandet mellan företagens ekonomiska beslutsfattande och deras samhällsansvar.",
+        "Med hjälp av några exempel beskriver eleven **utförligt och nyanserat** företagens villkor, med utgångspunkt i grundläggande lagar och andra bestämmelser **samt utifrån politiska och samhällsekonomiska förutsättningar**."
+      ],
+      [
+        "Eleven beskriver **utförligt och nyanserat** olika funktioner i ett företag **och hur de samordnas för att man ska nå uppställda mål** samt redogör **utförligt och nyanserat** för hur man startar och driver ett företag.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för affärsidéns utformning samt dess betydelse för företagets verksamhet.",
+        "Eleven redogör **utförligt och nyanserat** för innebörden av företagsekonomiska begrepp.",
+        "Vidare **väljer och** använder eleven **med säkerhet** företagsekonomiska metoder.",
+        "Med hjälp avmodeller förklarar eleven företagsekonomiska företeelser och sammanhang.",
+        "**Eleven värderar med nyanserade omdömen modellernas användbarhet**."
+      ],
+      [
+        "Eleven upprättar **efter samråd** med handledare en **genomarbetad** projektplan inom det företagsekonomiska kunskapsområdet.",
+        "Eleven tar eget ansvar samt genomför projektet **efter samråd** med handledare, **inom givna tidsramar** och med **gott** resultat.",
+        "Dessutom utvärderar eleven arbetsprocessen och resultatet med **nyanserade** omdömen **samt ger förslag på hur arbetsprocessen kan förbättras**."
+      ],
+      [
+        "Eleven använder **efter samråd** med handledare relevant teknik för kommunikation, beräkningar, informationssökning, presentation och dokumentation."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

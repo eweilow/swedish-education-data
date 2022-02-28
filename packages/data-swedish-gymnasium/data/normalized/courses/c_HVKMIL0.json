@@ -1,0 +1,51 @@
+{
+  "name": "Miljö",
+  "code": "HVKMIL0",
+  "focusAreas": {
+    "string": "Kursen miljö omfattar punkterna 4 och 5 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper om materials och produkters påverkan av miljön samt alternativa material- och produktval.",
+    "entries": [
+      "4",
+      "5"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Materials och produkters beståndsdelar och egenskaper.",
+          "2. Materials och produkters hantering, funktion och användningsområden.",
+          "3. Återanvändning och återvinning av material och produkter.",
+          "4. Materials och produkters påverkan på människor och miljö vid användning, framställning och hantering.",
+          "5. Material- och produktjämförelse. Hur material och produkter kan ersättas med mer miljövänliga alternativ utifrån användningsområde, egenskaper och önskat resultat."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** materials och produkters beståndsdelar och egenskaper samt redogör **översiktligt** för hur framställning och hantering av material och produkter påverkar miljön.",
+        "Eleven ger **några** exempel på lämpliga material och produkter utifrån deras beståndsdelar och egenskaper samt redogör **översiktligt** för hur man väljer material och produkter med hänsyn till materialens och produkternas olika beståndsdelar och egenskaper och avsett användningsområde och funktion.",
+        "Dessutom redogör eleven **översiktligt** för hur hen visar miljöhänsyn i sina val.",
+        "Eleven beskriver **översiktligt** hur man kan återanvända och återvinna material och produkter, utifrån samband mellan ekonomiska och miljömässiga faktorer."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** materials och produkters beståndsdelar och egenskaper samt redogör **utförligt** för hur framställning och hantering av material och produkter påverkar miljön.",
+        "Eleven ger **några** exempel på lämpliga material och produkter utifrån deras beståndsdelar och egenskaper samt redogör **utförligt** för hur man väljer material och produkter med hänsyn till materialens och produkternas olika beståndsdelar och egenskaper och avsett användningsområde och funktion.",
+        "Dessutom **ger** eleven **exempel på några alternativa val av material och produkter samt** redogör **utförligt** för hur hen visar miljöhänsyn i sina val.",
+        "Eleven beskriver **utförligt** hur man kan återanvända och återvinna material och produkter, utifrån samband mellan ekonomiska och miljömässiga faktorer."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** materials och produkters beståndsdelar och egenskaper samt redogör **utförligt och nyanserat** för hur framställning och hantering av material och produkter påverkar miljön.",
+        "Eleven ger **flera** exempel på lämpliga material och produkter utifrån deras beståndsdelar och egenskaper samt redogör **utförligt och nyanserat** för hur man väljer material och produkter med hänsyn till materialens och produkternas olika beståndsdelar och egenskaper och avsett användningsområde och funktion.",
+        "Dessutom **motiverar** eleven **sina val**, **ger exempel på några alternativa val av material och produkter samt** redogör **utförligt och nyanserat** för hur hen visar miljöhänsyn i sina val.",
+        "Eleven beskriver **utförligt och nyanserat** hur man kan återanvända och återvinna material och produkter, utifrån samband mellan ekonomiska och miljömässiga faktorer."
+      ]
+    ]
+  }
+}

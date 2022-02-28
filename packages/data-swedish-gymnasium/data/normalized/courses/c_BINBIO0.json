@@ -1,0 +1,151 @@
+{
+  "name": "Biodling",
+  "code": "BINBIO0",
+  "focusAreas": {
+    "string": "Kursen biodling omfattar punkterna 1-9 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-9"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": []
+      },
+      {
+        "title": "Biologisk och ekonomisk grund",
+        "rows": [
+          "1. Bins fysiologi och utveckling från ägg till fullbildade insekter.",
+          "2. Avel med raser och raskombinationer av bin samt drottningodling.",
+          "3. Bisjukdomar och parasiter.",
+          "4. Bins ekologiska betydelse och deras roll som pollinatörer.",
+          "5. Bins beteende i olika miljöer och situationer samt bisamhällets individer och uppbyggnad.",
+          "6. Bins näringsbehov och vanliga biväxter.",
+          "7. Biodlingens produkter, till exempel honung, vax, pollen och drottninggelé.",
+          "8. Biodlingens ekonomiska förutsättningar. Ekonomiska kalkyler för biodling."
+        ]
+      },
+      {
+        "title": "Arbetsuppgifter",
+        "rows": [
+          "1. Vanligt förekommande arbetsuppgifter i en bigård, till exempel tillsyn och hantering av bin, utfodring.",
+          "2. Bitillsyn och förebyggande åtgärder mot sjukdomar.",
+          "3. Tillverkning av utrustning för biodling.",
+          "4. Hantering av honung efter skörd.",
+          "5. Dokumentation av åtgärder i en bigård.",
+          "6. Hygien och hygienrutiner, till exempel rengöring av lokaler och utrustning."
+        ]
+      },
+      {
+        "title": "Arbetsmiljö, säkerhetsfrågor och bestämmelser",
+        "rows": [
+          "1. Ergonomi, arbetsmiljö och säkerhet i samband med biodling.",
+          "2. Hygienpraxis och egenkontroll.",
+          "3. Lagar och andra bestämmelser som rör biodling och livsmedelshantering."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **översiktligt** för bins fysiologi och utveckling samt för bisamhällets individer och uppbyggnad.",
+        "Dessutom redogör eleven **översiktligt** för bins näringsbehov och vanliga biväxter.",
+        "Eleven redogör även **översiktligt** för vanliga sjukdomar och parasiter hos bin."
+      ],
+      [
+        "Eleven redogör **översiktligt** för avel och drottningodling av bin.",
+        "I samband med arbete i bigård observerar eleven bin samt redogör **översiktligt** för bins beteende i olika miljöer och situationer.",
+        "Dessutom beskriver eleven **översiktligt** bins ekologiska betydelse och roll som pollinatörer."
+      ],
+      [
+        "Eleven följer arbetsinstruktioner, sköter och hanterar **i samråd** med handledare bin på ett ansvarsfullt, etiskt och säkert sätt.",
+        "Dessutom tillverkar, sköter och hanterar eleven **i samråd** med handledare utrustning.",
+        "Eleven hanterar även **med viss säkerhet** produkter från bin med hänsyn till produktkvalitet och livsmedelssäkerhet.",
+        "Dessutom gör eleven **enkla** ekonomiska beräkningar av kostnader och intäkter för en bigård.",
+        "Eleven gör **enkla** reflektioner över produktkvalitetens betydelse för det ekonomiska resultatet och försäljningen."
+      ],
+      [
+        "I arbetet löser eleven **i samråd** med handledare de problem som uppstår.",
+        "Dessutom gör eleven en **enkel** dokumentation av vidtagna åtgärder i en bigård.",
+        "Resultatet av arbetet är **tillfredsställande**.",
+        "När arbetet är utfört värderar eleven sitt resultat med **enkla** omdömen."
+      ],
+      [
+        "Eleven arbetar ergonomiskt.",
+        "När eleven arbetar med bin och biodlingens produkter följer hen aktuella hygienrutiner samt redogör **översiktligt** för hygien och smittskydd.",
+        "Dessutom redogör eleven **översiktligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för bins fysiologi och utveckling samt för bisamhällets individer och uppbyggnad.",
+        "Dessutom redogör eleven **utförligt** för bins näringsbehov och vanliga biväxter.",
+        "Eleven redogör även **utförligt** för vanliga sjukdomar och parasiter hos bin."
+      ],
+      [
+        "Eleven redogör **utförligt** för avel och drottningodling av bin.",
+        "I samband med arbete i bigård observerar eleven bin samt redogör **utförligt** för bins beteende i olika miljöer och situationer.",
+        "Dessutom beskriver eleven **utförligt** bins ekologiska betydelse och roll som pollinatörer."
+      ],
+      [
+        "Eleven följer arbetsinstruktioner, sköter och hanterar **efter samråd** med handledare bin på ett ansvarsfullt, etiskt och säkert sätt.",
+        "Dessutom tillverkar, sköter och hanterar eleven **efter samråd** med handledare utrustning.",
+        "Eleven hanterar även **med viss säkerhet** produkter från bin med hänsyn till produktkvalitet och livsmedelssäkerhet.",
+        "Dessutom gör eleven ekonomiska beräkningar av kostnader och intäkter för en bigård.",
+        "Eleven gör **välgrundade** reflektioner över produktkvalitetens betydelse för det ekonomiska resultatet och försäljningen."
+      ],
+      [
+        "I arbetet löser eleven **efter samråd** med handledare de problem som uppstår.",
+        "Dessutom gör eleven en **noggrann** dokumentation av vidtagna åtgärder i en bigård.",
+        "Resultatet av arbetet är **tillfredsställande**.",
+        "När arbetet är utfört värderar eleven sitt resultat med **nyanserade** omdömen."
+      ],
+      [
+        "Eleven arbetar ergonomiskt.",
+        "När eleven arbetar med bin och biodlingens produkter följer hen aktuella hygienrutiner samt redogör **utförligt** för hygien och smittskydd.",
+        "Dessutom redogör eleven **utförligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för bins fysiologi och utveckling samt för bisamhällets individer och uppbyggnad.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för bins näringsbehov och vanliga biväxter.",
+        "Eleven redogör även **utförligt och nyanserat** för vanliga sjukdomar och parasiter hos bin."
+      ],
+      [
+        "Eleven redogör **utförligt och nyanserat** för avel och drottningodling av bin.",
+        "I samband med arbete i bigård observerar eleven bin samt redogör **utförligt och nyanserat** för bins beteende i olika miljöer och situationer.",
+        "Dessutom beskriver eleven **utförligt och nyanserat** bins ekologiska betydelse och roll som pollinatörer."
+      ],
+      [
+        "Eleven följer arbetsinstruktioner, sköter och hanterar **efter samråd** med handledare bin på ett ansvarsfullt, etiskt och säkert sätt.",
+        "Dessutom tillverkar, sköter och hanterar eleven **efter samråd** med handledare utrustning.",
+        "Eleven hanterar även **med säkerhet** produkter från bin med hänsyn till produktkvalitet och livsmedelssäkerhet.",
+        "Dessutom gör eleven **avancerade** ekonomiska beräkningar av kostnader och intäkter för en bigård.",
+        "Eleven gör **välgrundade och nyanserade** reflektioner över produktkvalitetens betydelse för det ekonomiska resultatet och försäljningen."
+      ],
+      [
+        "I arbetet löser eleven **efter samråd** med handledare de problem som uppstår.",
+        "Dessutom gör eleven en **noggrann och utförlig** dokumentation av vidtagna åtgärder i en bigård.",
+        "Resultatet av arbetet är **gott**.",
+        "När arbetet är utfört värderar eleven sitt resultat med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**."
+      ],
+      [
+        "Eleven arbetar ergonomiskt.",
+        "När eleven arbetar med bin och biodlingens produkter följer hen aktuella hygienrutiner samt redogör **utförligt** för hygien och smittskydd.",
+        "Dessutom redogör eleven **utförligt** för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

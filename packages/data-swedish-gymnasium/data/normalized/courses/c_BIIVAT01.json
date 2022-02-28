@@ -1,0 +1,75 @@
+{
+  "name": "Biologi i vattenmiljöer 1",
+  "code": "BIIVAT01",
+  "focusAreas": {
+    "string": "Kursen biologi i vattenmiljöer 1 omfattar punkterna 1-3, 5-6 och 8 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-3",
+      "5-6",
+      "8"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Laborationer och undersökningar om biologiska samband i olika vattenmiljöer.",
+          "2. Provtagning och provtagningsmetoder för vattenanalyser.",
+          "3. De huvudsakliga indelningar som används inom växt- och djurriket för att kategorisera vattenlevande organismer.",
+          "4. Artbegreppet och artkännedom.",
+          "5. Vattenlevande djurs byggnad och livsprocesser samt deras anpassning till olika vattenmiljöer.",
+          "6. Vattenlevande växters byggnad och livsprocesser samt deras anpassning till olika vattenmiljöer.",
+          "7. Olika vattenlevande organismers naturliga miljö, naturliga beteende och utbredning.",
+          "8. Vattnets fysikaliska och kemiska egenskaper och vatten som livsavgörande resurs för växter, djur och människor.",
+          "9. Kretslopp i mark, vatten och luft.",
+          "10. Grundläggande ekologi i havsmiljöer, sjöar och vattendrag.",
+          "11. Miljöpåverkan i havsmiljöer, sjöar och vattendrag samt hållbar utveckling i dessa miljöer.",
+          "12. Vattnets rörelser, strömmar, omblandning och syresättning.",
+          "13. Klimat och väderlek och hur detta påverkar olika vattenmiljöer."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven identifierar **med viss säkerhet**, i samband med fältstudier, några vanliga vattenlevande organismer samt grupperar dem **med viss säkerhet** efter det vetenskapliga system som används.",
+        "Eleven beskriver också **översiktligt** vattenlevande organismers byggnad, livsprocesser och anpassning till olika vattenmiljöer.",
+        "Dessutom redogör eleven **översiktligt** för de vattenlevande organismernas naturliga miljöer och naturliga beteende.",
+        "I samband med fältstudier beskriver eleven **översiktligt** några ekologiska samband i olika vattenmiljöer och olika organismers betydelse i ekosystemet."
+      ],
+      [
+        "Eleven redogör **översiktligt** för biologins betydelse inom naturbruket.",
+        "Dessutom söker eleven **med viss säkerhet** information om vattenlevande organismer.",
+        "I sina beskrivningar och redogörelser använder eleven **med viss säkerhet** vetenskapliga begrepp, teorier och modeller."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven identifierar **med viss säkerhet**, i samband med fältstudier, några vanliga vattenlevande organismer samt grupperar dem **med viss säkerhet** efter det vetenskapliga system som används.",
+        "Eleven beskriver också **utförligt** vattenlevande organismers byggnad, livsprocesser och anpassning till olika vattenmiljöer.",
+        "Dessutom redogör eleven **utförligt** för de vattenlevande organismernas naturliga miljöer och naturliga beteende.",
+        "I samband med fältstudier beskriver eleven **utförligt** några ekologiska samband i olika vattenmiljöer och olika organismers betydelse i ekosystemet."
+      ],
+      [
+        "Eleven redogör **utförligt** för biologins betydelse inom naturbruket.",
+        "Dessutom söker eleven **med viss säkerhet** information om vattenlevande organismer.",
+        "I sina beskrivningar och redogörelser använder eleven **med viss säkerhet** vetenskapliga begrepp, teorier och modeller."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven identifierar **med säkerhet**, i samband med fältstudier, några vanliga vattenlevande organismer samt grupperar dem **med säkerhet** efter det vetenskapliga system som används.",
+        "Eleven beskriver också **utförligt och nyanserat** vattenlevande organismers byggnad, livsprocesser och anpassning till olika vattenmiljöer.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för de vattenlevande organismernas naturliga miljöer och naturliga beteende.",
+        "I samband med fältstudier beskriver eleven **utförligt och nyanserat** några ekologiska samband i olika vattenmiljöer och olika organismers betydelse i ekosystemet."
+      ],
+      [
+        "Eleven redogör **utförligt och nyanserat** för biologins betydelse inom naturbruket.",
+        "Dessutom söker eleven **med säkerhet** information om vattenlevande organismer.",
+        "I sina beskrivningar och redogörelser använder eleven **med säkerhet** vetenskapliga begrepp, teorier och modeller."
+      ]
+    ]
+  }
+}

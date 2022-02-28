@@ -1,0 +1,124 @@
+{
+  "name": "Industriell lackering",
+  "code": "LACINS0",
+  "focusAreas": {
+    "string": "Kursen industriell lackering omfattar punkterna 2-3, 5-6 och 8-10 under rubriken Ämnets syfte.",
+    "entries": [
+      "2-3",
+      "5-6",
+      "8-10"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Olika branscher och marknader inom industriell lackering samt deras olika processer.",
+          "2. Industriell lackering för vald bransch.",
+          "3. Materialkännedom.",
+          "4. Uppbyggnad av en produktionslina som är anpassad till produktionsvillkoren.",
+          "5. Ventilation och luftföring för den aktuella processen.",
+          "6. Kemiska produkters miljöpåverkan.",
+          "7. Appliceringstekniker anpassade till vald produktion.",
+          "8. Utrustning för applicering av färg för den valda processen.",
+          "9. Metoder för att söka information som är viktig för arbetet. Tillgänglighet till informationssystem för bedömning av produkter enligt substitutionsregeln.",
+          "10. Skyddsutrustning som är anpassad till verkstadens produktion och de produkter som används.",
+          "11. Produktion och produktionsflöden för det aktuella arbetet samt värdering av kvalitet och kostnad."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** de olika lackeringssystem, produkter och appliceringstekniker som används för arbetets utförande.",
+        "Eleven beskriver också **översiktligt** verkstadens layout och ventilation samt behovet av luftföring i lokaler avsedda för målningsarbeten.",
+        "Dessutom beskriver eleven **översiktligt** de kemiska produkter som ingår i produktionen och den miljöpåverkan de har."
+      ],
+      [
+        "Eleven utför **i samråd** med handledare **enkla** underarbeten och **enkel** lackering av nya och tidigare lackerade ytor.",
+        "I arbetet använder eleven olika tekniker för applicering av färg samt föreslår i bekanta situationer utrustning för den valda produktionen.",
+        "Eleven utför **i samråd** med handledare **enkla** beräkningar av tids- och materialåtgång för den aktuella produktionen.",
+        "I arbetet använder eleven **med viss säkerhet** verktyg och utrustning enligt praxis."
+      ],
+      [
+        "Eleven hittar och använder **med viss säkerhet** det informationsmaterial som arbetet kräver.",
+        "Eleven använder **med viss säkerhet** både svenska och engelska manualer samt digitala informationssystem."
+      ],
+      [
+        "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "Eleven utför arbetet med hänsyn till miljö och säkerhet samt använder skyddsutrustning enligt praxis och underhåller sin personliga skyddsutrustning.",
+        "Dessutom tar eleven **viss** hänsyn till kostnader vid åtgärd och stillestånd."
+      ],
+      [
+        "Eleven samarbetar för att nå planerade resultat samt kommunicerar **med viss säkerhet** med medarbetare och kunder.",
+        "I kommunikationen använder eleven **med viss säkerhet** tekniska begrepp.",
+        "Resultatet av elevens arbete är **tillfredsställande**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** de olika lackeringssystem, produkter och appliceringstekniker som används för arbetets utförande.",
+        "Eleven beskriver också **utförligt** verkstadens layout och ventilation samt behovet av luftföring i lokaler avsedda för målningsarbeten.",
+        "Dessutom beskriver eleven **utförligt** de kemiska produkter som ingår i produktionen och den miljöpåverkan de har."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare underarbeten och lackering av nya och tidigare lackerade ytor.",
+        "I arbetet använder eleven olika tekniker för applicering av färg samt föreslår i bekanta **och delvis nya** situationer utrustning för den valda produktionen.",
+        "Eleven utför **efter samråd** med handledare beräkningar av tids- och materialåtgång för den aktuella produktionen.",
+        "I arbetet använder eleven **med viss säkerhet** verktyg och utrustning enligt praxis."
+      ],
+      [
+        "Eleven hittar och använder **med viss säkerhet** det informationsmaterial som arbetet kräver.",
+        "Eleven använder **med viss säkerhet** både svenska och engelska manualer samt digitala informationssystem."
+      ],
+      [
+        "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "Eleven utför arbetet med hänsyn till miljö och säkerhet samt använder skyddsutrustning enligt praxis och underhåller sin personliga skyddsutrustning.",
+        "Dessutom tar eleven hänsyn till kostnader vid åtgärd och stillestånd."
+      ],
+      [
+        "Eleven samarbetar, **medverkar till att upprätthålla samarbetet** för att nå planerade resultat samt kommunicerar **med viss säkerhet** med medarbetare och kunder.",
+        "I kommunikationen använder eleven **med viss säkerhet** tekniska begrepp.",
+        "Resultatet av elevens arbete är **tillfredsställande**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** de olika lackeringssystem, produkter och appliceringstekniker som används för arbetets utförande.",
+        "Eleven beskriver också **utförligt och nyanserat** verkstadens layout och ventilation samt behovet av luftföring i lokaler avsedda för målningsarbeten.",
+        "Dessutom beskriver eleven **utförligt och nyanserat** de kemiska produkter som ingår i produktionen och den miljöpåverkan de har."
+      ],
+      [
+        "Eleven utför **efter samråd** med handledare **avancerade** underarbeten och **avancerad** lackering av nya och tidigare lackerade ytor.",
+        "I arbetet använder eleven olika tekniker för applicering av färg samt föreslår i bekanta **och nya** situationer utrustning för den valda produktionen.",
+        "Eleven utför **efter samråd** med handledare **avancerade** beräkningar av tids- och materialåtgång för den aktuella produktionen.",
+        "I arbetet använder eleven **med säkerhet** verktyg och utrustning enligt praxis."
+      ],
+      [
+        "Eleven hittar och använder **med säkerhet** det informationsmaterial som arbetet kräver.",
+        "Eleven använder **med säkerhet** både svenska och engelska manualer samt digitala informationssystem."
+      ],
+      [
+        "Eleven tar ansvar för kundens egendom samt för lokaler och verkstadsutrustning.",
+        "Eleven utför arbetet med hänsyn till miljö och säkerhet samt använder skyddsutrustning enligt praxis och underhåller sin personliga skyddsutrustning.",
+        "Dessutom tar eleven hänsyn till kostnader vid åtgärd och stillestånd."
+      ],
+      [
+        "Eleven samarbetar, **medverkar till att upprätthålla och utveckla samarbetet** för att nå planerade resultat samt kommunicerar **med säkerhet** med medarbetare och kunder.",
+        "I kommunikationen använder eleven **med säkerhet** tekniska begrepp.",
+        "Resultatet av elevens arbete är **gott**."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

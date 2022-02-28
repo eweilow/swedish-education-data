@@ -1,0 +1,95 @@
+{
+  "name": "Geografi 1",
+  "code": "GEOGEO01",
+  "focusAreas": {
+    "string": "Kursen geografi 1 omfattar punkterna 1-5 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "entries": [
+      "1-5"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Jordens naturgeografiska och geologiska byggnad, utveckling och förändring över tid och rum. Processer i mark, vatten och luft, hur de samverkar och ger upphov till varierande naturlandskap på jorden samt hur och varför de förändras över tid. Människans användning och omvandling av naturlandskapet och utveckling av olika kulturlandskap över tid. Analys av naturliga hot, risker och samhällets sårbarhet.",
+          "2. Människans behov av naturresurser över tid. Resurstillgångar och resursernas ojämna fördelning samt konsekvenser av samhällets resursanvändning. Samband mellan odlingsbar mark, livsmedelsproduktion, politisk ekologi och lokal utveckling. Energiomställning, förnybara energitillgångar och ny teknik samt lokal, regional och global samhällsutveckling.",
+          "3. Befolkningsutveckling, befolkningsfördelning och rumslig förändring. Urbanisering samt städers framväxt, funktion, struktur och miljöpåverkan. Betydelsen av migration, utbildning, miljöförändring, försörjningsstrategier, reproduktiv hälsa och familjeplanering sett ur olika perspektiv, till exempel kön, sexualitet, etnicitet och socioekonomiska förhållanden.",
+          "4. Globaliseringens drivkrafter och konsekvenser avseende ekonomiska verksamheter och lokal och regional utveckling samt intressen och mönster i en global värld. Geografisk arbetsdelning, transnationella företag, industriella distrikt, transporter och kommunikation.",
+          "5. Den globala spelplanen och lokal utveckling. Samband mellan befolkningsutveckling, resurstillgång, resursanvändning och intressekonflikter. Etiska frågor kopplade till konkurrensen om jordens resurser, alternativa och möjliga vägar till social rättvisa och hållbar utveckling.",
+          "6. En klimatförändrad värld. Jordens klimat samt klimatets variation och föränderlighet över olika tidsperspektiv. Klimatklassificering. Klimatförändringens konsekvenser för naturlandskapet, samhällsutvecklingen och människans livsvillkor, lokalt och globalt. Vattenresurser och utvecklingsfrågor.",
+          "7. Geografiska källor och rumslig information. Hur data samlas in, till exempel genom kartor, satellit- och flygbilder, fältstudier och laborationer. Hur geografisk information värderas, bearbetas och presenteras. Hur man framställer kartor.",
+          "8. Kartografins grunder, till exempel jordmodeller, kartprojektioner, positionering och kartan som modell av verkligheten. Skala och generalisering. Kartframställning. Grunderna i geografiska informationssystem (GIS) och visualisering av geografisk information i karta."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **översiktligt** för hur och varför geografiska processer har skapat och förändrat natur- och kulturlandskapet över tid och rum samt hur natur- och kulturlandskapet omformas av människan.",
+        "Dessutom redogör eleven **översiktligt** för processernas konsekvenser för människors livsvillkor lokalt, regionalt och globalt samt deras betydelse för framtiden.",
+        "Eleven använder **några** geografiska begrepp, samt använder **med viss säkerhet** någon geografisk teori eller modell, för att underbygga sina redogörelser och analyser."
+      ],
+      [
+        "Eleven redogör **översiktligt** för **enkla** samband mellan människa, samhälle och miljö samt hur människor, platser och regioner påverkas av konsekvenser av intressekonflikter.",
+        "Eleven gör en **enkel** analys av frågor om resursförbrukning och resursfördelning.",
+        "Dessutom diskuterar eleven **översiktligt** hur människors egna resurser kan tas till vara och utvecklas för en hållbar utveckling."
+      ],
+      [
+        "Eleven diskuterar **översiktligt** hur någon företeelse i närmiljön kan ha betydelse för andra platser och regioner på jorden."
+      ],
+      [
+        "Eleven beskriver **översiktligt** grunderna i kartografi samt identifierar, besvarar och presenterar, **med viss säkerhet** och med hjälp av **en** lämplig **enkel** metod och lämplig teknik, geografiska frågor.",
+        "I arbetet använder eleven **med viss säkerhet** det omgivande landskapet som informationskälla för geografiska data.",
+        "Eleven samlar in och bearbetar **med viss säkerhet** data samt värderar dem med **enkla** omdömen.",
+        null,
+        "Dessutom presenterar eleven **med viss säkerhet** och på ett strukturerat sätt sitt resultat."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för hur och varför geografiska processer har skapat och förändrat natur- och kulturlandskapet över tid och rum samt hur natur- och kulturlandskapet omformas av människan.",
+        "Dessutom redogör eleven **utförligt** för processernas konsekvenser för människors livsvillkor lokalt, regionalt och globalt samt deras betydelse för framtiden.",
+        "Eleven använder **några** geografiska begrepp, samt använder **med viss säkerhet** någon geografisk teori eller modell, för att underbygga sina redogörelser och analyser."
+      ],
+      [
+        "Eleven redogör **utförligt** för samband mellan människa, samhälle och miljö samt hur människor, platser och regioner påverkas av konsekvenser av intressekonflikter.",
+        "Eleven gör en analys av frågor om resursförbrukning och resursfördelning.",
+        "Dessutom diskuterar eleven **utförligt** hur människors egna resurser kan tas till vara och utvecklas för en hållbar utveckling."
+      ],
+      [
+        "Eleven diskuterar **utförligt** hur någon företeelse i närmiljön kan ha betydelse för andra platser och regioner på jorden."
+      ],
+      [
+        "Eleven beskriver **utförligt** grunderna i kartografi samt identifierar, besvarar och presenterar, **med viss säkerhet** och med hjälp av lämpliga metoder och lämplig teknik, geografiska frågor.",
+        "I arbetet använder eleven **med viss säkerhet** det omgivande landskapet som informationskälla för geografiska data.",
+        "Eleven samlar in och bearbetar **med viss säkerhet** data samt värderar dem med **enkla** omdömen.",
+        "**I värderingen drar eleven enkla slutsatser om hur resultatet kan leda till fördjupning inom området**.",
+        "Dessutom presenterar eleven **med viss säkerhet** och på ett strukturerat sätt sitt resultat."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för hur och varför geografiska processer har skapat och förändrat natur- och kulturlandskapet över tid och rum samt hur natur- och kulturlandskapet omformas av människan.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för processernas konsekvenser för människors livsvillkor lokalt, regionalt och globalt samt deras betydelse för framtiden.",
+        "Eleven använder **flera** geografiska begrepp, samt använder **med säkerhet** någon geografisk teori eller modell, för att underbygga sina redogörelser och analyser."
+      ],
+      [
+        "Eleven redogör **utförligt och nyanserat** för **komplexa** samband mellan människa, samhälle och miljö samt hur människor, platser och regioner påverkas av konsekvenser av intressekonflikter.",
+        "Eleven gör en **komplex** analys av frågor om resursförbrukning och resursfördelning.",
+        "Dessutom diskuterar eleven **utförligt och nyanserat** hur människors egna resurser kan tas till vara och utvecklas för en hållbar utveckling."
+      ],
+      [
+        "Eleven diskuterar **utförligt och nyanserat** hur någon företeelse i närmiljön kan ha betydelse för andra platser och regioner på jorden."
+      ],
+      [
+        "Eleven redogör utförligt för grunderna i kartografi samt identifierar, besvarar och presenterar, **med säkerhet** och med hjälp av lämpliga metoder och lämplig teknik, geografiska frågor.",
+        "I arbetet använder eleven **med säkerhet** det omgivande landskapet som informationskälla för geografiska data.",
+        "Eleven samlar in och bearbetar **med säkerhet** data samt värderar dem med **nyanserade** omdömen.",
+        "**I värderingen drar eleven välgrundade slutsatser om hur resultatet kan leda till fördjupning inom området**.",
+        "Dessutom presenterar eleven **med säkerhet** och på ett strukturerat sätt sitt resultat."
+      ]
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<subject
+  xmlns="http://syllabus2011subject.types.skolverket.se/v3_0"
+  xmlns:ns2="http://syllabus2011.common.types.skolverket.se/v1_0"
+>
+  <name>Systemteknik – spårfordon</name>
+  <englishName>Systems technology – rail vehicles</englishName>
+  <description
+  >&lt;p&gt;Ämnet systemteknik – spårfordon behandlar de delsystem spårfordon är uppbyggda av och hur dessa fungerar och samverkar samt underhåll av dessa system.&lt;/p&gt;</description>
+  <code>SYT</code>
+  <status>PUBLISHED</status>
+  <version>1</version>
+  <createdDate>2017-06-27T13:36:00+02:00</createdDate>
+  <modifiedDate>2020-02-19T16:02:12+01:00</modifiedDate>
+  <nameHeading>&lt;h2&gt;Systemteknik – spårfordon&lt;/h2&gt;</nameHeading>
+  <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
+  <gradeScale
+    xsi:nil="true"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  />
+  <purpose
+  >&lt;p&gt;Undervisningen i ämnet systemteknik – spårfordon ska syfta till att eleverna utvecklar kunskaper om komponenter och den teknik som spårfordonssystem är uppbyggda av och hur dessa system samverkar. Eleverna ska också ges möjlighet att utveckla förmåga att välja och använda verktyg och instrument vid förebyggande och avhjälpande underhåll av de ingående systemen. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att arbeta utifrån givna instruktioner och att dokumentera utfört arbete. I undervisningen ska eleverna även ges möjlighet att arbeta med komponenter och system som används i spårfordon. Undervisningen ska leda till att eleverna utvecklar en förståelse för vikten av kommunikation och en förmåga att arbeta såväl självständigt som tillsammans med andra.&lt;/p&gt;&lt;p&gt;Undervisningen ska bidra till att eleverna utvecklar förmåga att arbeta på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.&lt;/p&gt;&lt;p&gt;Genom undervisningen ska eleverna ges möjlighet utveckla ett undersökande, problemlösande och laborativt arbetssätt.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet systemteknik – spårfordon ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om komponenter, konstruktion och funktion hos de system som spårfordon är uppbyggda av.&lt;/li&gt; &lt;li&gt;Förmåga att välja och använda arbetsmetoder, verktyg och stödsystem.&lt;/li&gt; &lt;li&gt;Förmåga att utifrån instruktioner och scheman planera och genomföra förebyggande och enklare avhjälpande underhåll av de olika delsystemen.&lt;/li&gt; &lt;li&gt;Förmåga att genomföra funktions- och säkerhetskontroller.&lt;/li&gt; &lt;li&gt;Förmåga att dokumentera utfört arbete enligt gällande regelverk och branschstandarder.&lt;/li&gt; &lt;li&gt;Förmåga att samarbeta och kommunicera med andra samt att använda fackspråk på såväl svenska som engelska.&lt;/li&gt; &lt;li&gt;Förmåga att arbeta på ett ergonomiskt, säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Systemteknik – spårfordon, 150 poäng, som bygger på kursen spårfordon – grund.&lt;/li&gt; &lt;/ol&gt;</purpose>
+  <skolfsId>2017:40</skolfsId>
+  <applianceDate>2017-05-29T00:00:00+02:00</applianceDate>
+  <courses>
+    <name>Systemteknik – spårfordon</name>
+    <englishName>Systems technology – rail vehicles</englishName>
+    <description
+    >&lt;p&gt;Kursen systemteknik – spårfordon omfattar punkterna 1–7 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    <code>SYTSYS0</code>
+    <centralCntHeading
+    >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
+    <knowledgeReqsHeading
+    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    <nameHeading
+    >&lt;h2&gt;Systemteknik – spårfordon, 150 poäng&lt;/h2&gt;</nameHeading>
+    <codeHeading>&lt;h3&gt;Kurskod: SYTSYS0&lt;/h3&gt;</codeHeading>
+    <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
+    <centralContent>
+      <guid
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <text
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Korg, koppel och boggi.&lt;/li&gt; &lt;li&gt;Tryckluftssystem.&lt;/li&gt; &lt;li&gt;Pantograf (strömavtagare).&lt;/li&gt; &lt;li&gt;Mekaniska bromssystem.&lt;/li&gt; &lt;li&gt;Högspänningssystem.&lt;/li&gt; &lt;li&gt;Hytt och lokförarmiljö.&lt;/li&gt; &lt;li&gt;Externa och interna passagerardörrar.&lt;/li&gt; &lt;li&gt;HVAC och luftkonditioneringssystem.&lt;/li&gt; &lt;li&gt;Toaletter och komfortsystem.&lt;/li&gt; &lt;li&gt;Traktion och dynamisk broms.&lt;/li&gt; &lt;li&gt;Spårfordonsdatorn.&lt;/li&gt; &lt;li&gt;Ritningsläsning.&lt;/li&gt; &lt;li&gt;Elektrisk installation.&lt;/li&gt; &lt;li&gt;Arbetsmetoder, verktyg och utrustning.&lt;/li&gt; &lt;li&gt;Dokumentation och arbetsbeskrivningar.&lt;/li&gt; &lt;li&gt;Fackspråk på svenska och engelska för att förstå och följa instruktioner.&lt;/li&gt; &lt;li&gt;Faktorer som påverkar arbetsresultat och arbetsmiljö, till exempel regelverk, struktur, ordning, trivsel, yrkesroll och den mänskliga faktorn.&lt;/li&gt; &lt;/ul&gt;</text>
+      <year
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+      <typeOfCentralContent
+        xsi:nil="true"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      />
+    </centralContent>
+    <point>150</point>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för komponenter, konstruktion och funktion hos de system som spårfordon är uppbyggda av. Inför arbetsuppgifter i bekanta situationer väljer eleven &lt;strong&gt;med viss säkerhet&lt;/strong&gt; verktyg, arbetsmetod och stödsystem och redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för hur dessa påverkar kvalitet och slutresultat. &lt;strong&gt;I samråd&lt;/strong&gt; med handledare planerar och genomför eleven utifrån instruktioner och scheman förebyggande och enklare avhjälpande underhåll samt ombyggnad av de olika delsystemen. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitets- och funktionskrav. Eleven genomför &lt;strong&gt;i samråd&lt;/strong&gt; med handledare tillfredsställande funktions- och säkerhetskontroller.&lt;/p&gt;&lt;p&gt;Eleven arbetar ergonomiskt och hanterar verktyg och stödsystem med &lt;strong&gt;visst &lt;/strong&gt;handlag samt vårdar dessa &lt;strong&gt;med viss säkerhet&lt;/strong&gt; enligt givna instruktioner samt håller &lt;strong&gt;tillfredsställande&lt;/strong&gt; ordning på arbetsplatsen. Eleven dokumenterar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; arbetet enligt branschstandarder och gällande regelverk. Eleven redogör dessutom &lt;strong&gt;översiktligt &lt;/strong&gt;för eventuella svårigheter under arbetet samt utvärderar med &lt;strong&gt;enkla &lt;/strong&gt;omdömen den egna arbetsinsatsen. Dessutom redogör eleven &lt;strong&gt;översiktligt&lt;/strong&gt; för faktorer i arbetsmiljön och i samarbetet som påverkar resultat och arbetsklimat.&lt;/p&gt;&lt;p&gt;Eleven samarbetar &lt;strong&gt;med&lt;/strong&gt; &lt;strong&gt;viss säkerhet&lt;/strong&gt; med andra och använder &lt;strong&gt;med viss säkerhet&lt;/strong&gt; facktermer på svenska och engelska. Eleven utför &lt;strong&gt;i samråd&lt;/strong&gt; med handledare arbetsuppgifter på ett &lt;strong&gt;tillfredsställande&lt;/strong&gt; sätt enligt säkerhets- och miljöbestämmelser och andra lagar och regler som gäller för verksamheten.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med&lt;/strong&gt; &lt;strong&gt;viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>E</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>D</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för komponenter, konstruktion och funktion hos de system som spårfordon är uppbyggda av. Inför arbetsuppgifter i bekanta &lt;strong&gt;och&lt;/strong&gt; &lt;strong&gt;delvis &lt;strong&gt;nya&lt;/strong&gt;&lt;/strong&gt; situationer väljer eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; verktyg, arbetsmetod och stödsystem och redogör &lt;strong&gt;med&lt;/strong&gt; &lt;strong&gt;säkerhet &lt;/strong&gt;för hur dessa påverkar kvalitet och slutresultat. &lt;strong&gt;Efter samråd&lt;/strong&gt; med handledare planerar och genomför eleven utifrån instruktioner och scheman förebyggande och enklare avhjälpande underhåll samt ombyggnad av de olika delsystemen. Resultatet av arbetet är &lt;strong&gt;tillfredsställande&lt;/strong&gt; utifrån givna kvalitets- och funktionskrav. Eleven genomför &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare tillfredsställande funktions- och säkerhetskontroller.&lt;/p&gt;&lt;p&gt;Eleven arbetar ergonomiskt och hanterar verktyg och stödsystem med &lt;strong&gt;gott &lt;/strong&gt;handlag samt vårdar dessa &lt;strong&gt;med viss säkerhet&lt;/strong&gt; enligt givna instruktioner samt håller &lt;strong&gt;tillfredsställande&lt;/strong&gt; ordning på arbetsplatsen. Eleven dokumenterar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; arbetet enligt branschstandarder och gällande regelverk. Eleven redogör dessutom &lt;strong&gt;utförligt &lt;/strong&gt;för eventuella svårigheter under arbetet samt utvärderar med &lt;strong&gt;välgrundade &lt;/strong&gt;omdömen den egna arbetsinsatsen. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för faktorer i arbetsmiljön och i samarbetet som påverkar resultat och arbetsklimat.&lt;/p&gt;&lt;p&gt;Eleven samarbetar &lt;strong&gt;med viss säkerhet&lt;/strong&gt; med andra och använder &lt;strong&gt;med viss säkerhet &lt;/strong&gt;facktermer på svenska och engelska. Eleven utför &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare arbetsuppgifter på ett &lt;strong&gt;tillfredsställande&lt;/strong&gt; sätt enligt säkerhets- och miljöbestämmelser och andra lagar och regler som gäller för verksamheten.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med&lt;/strong&gt; &lt;strong&gt;viss&lt;/strong&gt; &lt;strong&gt;säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>C</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      <gradeStep>B</gradeStep>
+    </knowledgeRequirement>
+    <knowledgeRequirement>
+      <text
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för komponenter, konstruktion och funktion hos de system som spårfordon är uppbyggda av. Inför arbetsuppgifter i bekanta &lt;strong&gt;men även&lt;/strong&gt; &lt;strong&gt;nya&lt;/strong&gt; situationer väljer eleven &lt;strong&gt;med säkerhet&lt;/strong&gt; verktyg, arbetsmetod och stödsystem och redogör &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för hur dessa påverkar kvalitet och slutresultat. &lt;strong&gt;Efter samråd&lt;/strong&gt; med handledare planerar och genomför eleven utifrån instruktioner och scheman förebyggande och enklare avhjälpande underhåll samt ombyggnad av de olika delsystemen. Resultatet av arbetet är &lt;strong&gt;gott&lt;/strong&gt; utifrån givna kvalitets- och funktionskrav. Eleven genomför &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare tillfredsställande funktions- och säkerhetskontroller.&lt;/p&gt;&lt;p&gt;Eleven arbetar ergonomiskt och hanterar verktyg och stödsystem med &lt;strong&gt;mycket gott &lt;/strong&gt;handlag samt vårdar dessa &lt;strong&gt;med säkerhet&lt;/strong&gt; enligt givna instruktioner samt håller &lt;strong&gt;god&lt;/strong&gt; ordning på arbetsplatsen. Eleven dokumenterar &lt;strong&gt;med säkerhet&lt;/strong&gt; arbetet enligt branschstandarder och gällande regelverk. Eleven redogör dessutom &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för eventuella svårigheter under arbetet samt utvärderar med &lt;strong&gt;välgrundade och&lt;/strong&gt; &lt;strong&gt;nyanserade &lt;/strong&gt;omdömen den egna arbetsinsatsen. Dessutom redogör eleven &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för faktorer i arbetsmiljön och i samarbetet som påverkar resultat och arbetsklimat.&lt;/p&gt;&lt;p&gt;Eleven samarbetar &lt;strong&gt;med säkerhet&lt;/strong&gt; med andra och använder &lt;strong&gt;med säkerhet&lt;/strong&gt; facktermer på svenska och engelska. Eleven utför &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare arbetsuppgifter på ett &lt;strong&gt;gott&lt;/strong&gt; sätt enligt säkerhets- och miljöbestämmelser och andra lagar och regler som gäller för verksamheten.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      <gradeStep>A</gradeStep>
+    </knowledgeRequirement>
+    <alternativeCourseCode
+      xsi:nil="true"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    />
+    <sortOrder>1</sortOrder>
+  </courses>
+  <originatorTypeOfSchooling>
+    UPPER_SECONDARY_EDUCATION
+  </originatorTypeOfSchooling>
+  <purposeHeading>&lt;h3&gt;Ämnets syfte&lt;/h3&gt;</purposeHeading>
+</subject>

@@ -1,0 +1,93 @@
+{
+  "name": "Inköp 1",
+  "code": "INKINK01",
+  "focusAreas": {
+    "string": "Kursen inköp 1 omfattar punkterna 1, 4-7 och 9-10 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "entries": [
+      "1",
+      "4-7",
+      "9-10"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Inköpsarbete och inköpsteknik, betydelsen av en inköpsprocess.",
+          "2. Inköpsarbete i olika typer av företag, till exempel i små och stora företag och i import- och exportföretag.",
+          "3. Leverantörsrelationer och metoder för att finna och bedöma olika leverantörer nationellt.",
+          "4. Import och internationell handel samt internationella handelsregler, till exempel incoterms.",
+          "5. Sortimentsfrågor, hur ett sortiment sätts samman och bedöms.",
+          "6. Varuhantering, lagerkontroll och inventering.",
+          "7. Lagar och andra bestämmelser inom området.",
+          "8. Prissättnings- och lönsamhetskalkyler inom olika led, till exempel prissättning och kalkyler i butiksledet.",
+          "9. Arbetsmiljö och ergonomi.",
+          "10. Socialt ansvarstagande och rättvis handel samt betydelsen av verksamhetens roll inom hållbar utveckling och global rättvisa."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven redogör **översiktligt** för hur grundläggande inköpsarbete planeras och utförs samt värderar med **enkla** omdömen olika inköpstekniker.",
+        "Eleven redogör också **översiktligt** för import och internationell handel samt hur ett sortiment planeras och sätts samman.",
+        "Dessutom redogör eleven **översiktligt** för logistikarbete och varuhanteringens betydelse för försörjningskedjan."
+      ],
+      [
+        "Eleven planerar, organiserar och utför **i samråd** med handledare grundläggande arbetsuppgifter inom inköpsområdet enligt gällande lagar och andra bestämmelser.",
+        null,
+        "Dessutom gör eleven **i samråd** med handledare enkla prissättningskalkyler och ekonomiska beräkningar.",
+        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med **enkla** omdömen."
+      ],
+      [
+        "Eleven redogör **översiktligt** för arbetsmiljöfrågor.",
+        "Dessutom diskuterar eleven **översiktligt** inköpsfrågor utifrån socialt ansvarstagande, rättvis handel och hållbar utveckling."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven redogör **utförligt** för hur grundläggande inköpsarbete planeras och utförs samt värderar med **enkla** omdömen olika inköpstekniker.",
+        "Eleven redogör också **utförligt** för import och internationell handel samt hur ett sortiment planeras och sätts samman.",
+        "Dessutom redogör eleven **utförligt** för logistikarbete och varuhanteringens betydelse för försörjningskedjan."
+      ],
+      [
+        "Eleven planerar, organiserar och utför **efter samråd** med handledare grundläggande arbetsuppgifter inom inköpsområdet enligt gällande lagar och andra bestämmelser.",
+        "**Eleven genomför arbetet på ett välorganiserat sätt**.",
+        "Dessutom gör eleven **efter samråd** med handledare enkla prissättningskalkyler och ekonomiska beräkningar.",
+        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen."
+      ],
+      [
+        "Eleven redogör **utförligt** för arbetsmiljöfrågor.",
+        "Dessutom diskuterar eleven **utförligt** inköpsfrågor utifrån socialt ansvarstagande, rättvis handel och hållbar utveckling."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven redogör **utförligt och nyanserat** för hur grundläggande inköpsarbete planeras och utförs samt värderar med **nyanserade** omdömen olika inköpstekniker.",
+        "Eleven redogör också **utförligt och nyanserat** för import och internationell handel samt hur ett sortiment planeras och sätts samman.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för logistikarbete och varuhanteringens betydelse för försörjningskedjan."
+      ],
+      [
+        "Eleven planerar, organiserar och utför **efter samråd** med handledare grundläggande arbetsuppgifter inom inköpsområdet enligt gällande lagar och andra bestämmelser.",
+        "**Eleven genomför arbetet på ett välorganiserat sätt samt tar egna initiativ i arbetet**.",
+        "Dessutom gör eleven **efter samråd** med handledare enkla prissättningskalkyler och ekonomiska beräkningar.",
+        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**."
+      ],
+      [
+        "Eleven redogör **utförligt och nyanserat** för arbetsmiljöfrågor.",
+        "Dessutom diskuterar eleven **utförligt och nyanserat** inköpsfrågor."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}

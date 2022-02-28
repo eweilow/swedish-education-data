@@ -1,0 +1,97 @@
+{
+  "subject": "BAN",
+  "title": "Banskötsel för hästsport",
+  "code": "BANBAN0",
+  "points": 100,
+  "criteria": {
+    "A": [
+      [
+        "Eleven beskriver <strong>utförligt och nyanserat</strong> olika material och deras användning inom banskötsel.",
+        "Eleven redogör <strong>utförligt och nyanserat</strong> för olika skötselåtgärder med hänsyn till egenskaper, funktion och klimat.",
+        "Dessutom upprättar eleven en <strong>avancerad</strong> skötselplan och motiverar <strong>utförligt och nyanserat</strong> sina förslag i den.",
+        "I skötselplanen gör eleven också en <strong>välgrundad och nyanserad</strong> kostnadskalkyl."
+      ],
+      [
+        "Eleven organiserar och genomför <strong>komplexa</strong> arbetsuppgifter inom banskötsel.",
+        "Dessutom löser eleven <strong>efter samråd</strong> med handledare de problem som uppkommer.",
+        "Resultatet av arbetet är <strong>gott</strong> vad gäller utförande och estetik.",
+        "I arbetet använder eleven <strong>med säkerhet</strong> material, teknisk utrustning och handredskap."
+      ],
+      [
+        "Eleven arbetar säkert och ergonomiskt riktigt med den tekniska utrustningen och de handredskap som används inom banskötseln samt beskriver <strong>utförligt och nyanserat</strong> säkerhetsrisker i arbetet.",
+        "Dessutom redogör eleven <strong>utförligt och nyanserat</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver <strong>utförligt</strong> olika material och deras användning inom banskötsel.",
+        "Eleven redogör <strong>utförligt</strong> för olika skötselåtgärder med hänsyn till egenskaper, funktion och klimat.",
+        "Dessutom upprättar eleven en skötselplan och motiverar <strong>utförligt</strong> sina förslag i den.",
+        "I skötselplanen gör eleven också en <strong>välgrundad</strong> kostnadskalkyl."
+      ],
+      [
+        "Eleven organiserar och genomför arbetsuppgifter inom banskötsel.",
+        "Dessutom löser eleven <strong>efter samråd</strong> med handledare de problem som uppkommer.",
+        "Resultatet av arbetet är <strong>tillfredsställande</strong> vad gäller utförande och estetik.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> material, teknisk utrustning och handredskap."
+      ],
+      [
+        "Eleven arbetar säkert och ergonomiskt riktigt med den tekniska utrustningen och de handredskap som används inom banskötseln samt beskriver <strong>utförligt</strong> säkerhetsrisker i arbetet.",
+        "Dessutom redogör eleven <strong>utförligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ],
+    "E": [
+      [
+        "Eleven beskriver <strong>översiktligt</strong> olika material och deras användning inom banskötsel.",
+        "Eleven redogör <strong>översiktligt</strong> för olika skötselåtgärder med hänsyn till egenskaper, funktion och klimat.",
+        "Dessutom upprättar eleven en <strong>enkel</strong> skötselplan och motiverar <strong>översiktligt</strong> sina förslag i den.",
+        "I skötselplanen gör eleven också en <strong>enkel</strong> kostnadskalkyl."
+      ],
+      [
+        "Eleven organiserar och genomför <strong>enkla</strong> arbetsuppgifter inom banskötsel.",
+        "Dessutom löser eleven <strong>i samråd</strong> med handledare de problem som uppkommer.",
+        "Resultatet av arbetet är <strong>tillfredsställande</strong> vad gäller utförande och estetik.",
+        "I arbetet använder eleven <strong>med viss säkerhet</strong> material, teknisk utrustning och handredskap."
+      ],
+      [
+        "Eleven arbetar säkert och ergonomiskt riktigt med den tekniska utrustningen och de handredskap som används inom banskötseln samt beskriver <strong>översiktligt</strong> säkerhetsrisker i arbetet.",
+        "Dessutom redogör eleven <strong>översiktligt</strong> för och arbetar i enlighet med lagar och andra bestämmelser som gäller i aktuella situationer."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen <strong>med viss säkerhet</strong> den egna förmågan och situationens krav."
+      ]
+    ]
+  },
+  "centralContent": [
+    [
+      null,
+      [
+        "Olika anläggningsmaterials egenskaper, däribland hållfasthet, packningsförmåga och dräneringsegenskaper.",
+        "Metoder för att planera arbetet samt beräkningar för att lösa arbetsuppgifter inom banskötsel.",
+        "För banan specifika arbetsuppgifter utifrån banans konstruktion, användningsområde och funktion.",
+        "Organisering, planering och genomförande av arbetsuppgifter i samband med banskötsel.",
+        "Skötselplaner och kostnader kopplat till banskötsel.",
+        "Arbete med handredskap och med relevant och modern teknisk utrustning.",
+        "Ergonomi, arbetsmiljö och säkerhet i samband med banskötsel.",
+        "Lagar och andra bestämmelser med koppling till hästsport och banskötsel, till exempel miljölagstiftning och djurskyddslagstiftning.",
+        "Bedömning av resultatet, både funktionellt och estetiskt."
+      ]
+    ]
+  ],
+  "UNSAFE_description": "Kursen banskötsel för hästsport omfattar punkterna 1-7 under rubriken Ämnets syfte.",
+  "applicableSubjectPurposes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ]
+}
