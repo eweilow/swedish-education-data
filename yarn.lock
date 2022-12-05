@@ -234,7 +234,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@education-data/fetcher@^0.0.1-alpha.10, @education-data/fetcher@workspace:packages/fetcher":
+"@education-data/fetcher@^0.0.1-alpha.13, @education-data/fetcher@workspace:packages/fetcher":
   version: 0.0.0-use.local
   resolution: "@education-data/fetcher@workspace:packages/fetcher"
   dependencies:
@@ -251,7 +251,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@education-data/normalizer@^0.0.1-alpha.12, @education-data/normalizer@workspace:packages/normalizer":
+"@education-data/normalizer@^0.0.1-alpha.13, @education-data/normalizer@workspace:packages/normalizer":
   version: 0.0.0-use.local
   resolution: "@education-data/normalizer@workspace:packages/normalizer"
   dependencies:
@@ -272,7 +272,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@education-data/parser@^0.0.1-alpha.10, @education-data/parser@workspace:packages/parser":
+"@education-data/parser@^0.0.1-alpha.13, @education-data/parser@workspace:packages/parser":
   version: 0.0.0-use.local
   resolution: "@education-data/parser@workspace:packages/parser"
   dependencies:
@@ -301,9 +301,9 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@education-data/swedish-gymnasium@workspace:packages/data-swedish-gymnasium"
   dependencies:
-    "@education-data/fetcher": ^0.0.1-alpha.10
-    "@education-data/normalizer": ^0.0.1-alpha.12
-    "@education-data/parser": ^0.0.1-alpha.10
+    "@education-data/fetcher": ^0.0.1-alpha.13
+    "@education-data/normalizer": ^0.0.1-alpha.13
+    "@education-data/parser": ^0.0.1-alpha.13
     "@prettier/plugin-xml": ^1.1.0
     "@types/glob": ^7.1.1
     "@types/prettier": ^2.4.1
@@ -3605,9 +3605,9 @@ __metadata:
   linkType: hard
 
 "decode-uri-component@npm:^0.2.0":
-  version: 0.2.0
-  resolution: "decode-uri-component@npm:0.2.0"
-  checksum: f3749344ab9305ffcfe4bfe300e2dbb61fc6359e2b736812100a3b1b6db0a5668cba31a05e4b45d4d63dbf1a18dfa354cd3ca5bb3ededddabb8cd293f4404f94
+  version: 0.2.2
+  resolution: "decode-uri-component@npm:0.2.2"
+  checksum: 95476a7d28f267292ce745eac3524a9079058bbb35767b76e3ee87d42e34cd0275d2eb19d9d08c3e167f97556e8a2872747f5e65cbebcac8b0c98d83e285f139
   languageName: node
   linkType: hard
 
