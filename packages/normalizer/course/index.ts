@@ -65,7 +65,9 @@ function parseCentralContent(centralContent: string | null) {
 function getFocusAreas(description: string | null, name: string, code: string) {
   const markdownRows = getMarkdownFromHtml(pickOnlyIf.string(description) ?? "")
     ?.split("\n")
-    ?.map((el) => el.trim());
+    ?.map((el) => el.trim())
+    ?.filter((el) => !!el)
+    ?.filter((el) => !el.includes("Ämnet har upphört men kan tillämpas"));
 
   if (markdownRows == null) {
     return null;
@@ -330,6 +332,11 @@ export async function normalizeCourses(
     cwd: inputDirectory,
     absolute: true,
   })) {
+    if (file.includes("parallell version")) {
+      console.info(`Ignoring '${file}' due to parallell version`);
+      continue;
+    }
+
     const contents = readFileSync(file, "utf-8")
       .replaceAll("–", "-")
       .replaceAll("—", "-")
@@ -340,6 +347,7 @@ export async function normalizeCourses(
     const appliesFrom = new Date(subject.appliancedate[0]);
 
     if (Date.now() < +appliesFrom) {
+      console.info(`Ignoring '${file}' due to not yet applicable`);
       continue; // Ignore if not yet applicable
     }
 

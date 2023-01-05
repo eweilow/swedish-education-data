@@ -2,9 +2,9 @@
   "name": "Information och kommunikation 2",
   "code": "INFINF02",
   "focusAreas": {
-    "string": "Kursen information och kommunikation 2 omfattar punkterna 1-9 under rubriken Ämnets syfte, med särskild betoning på punkt 1 och 2. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "string": "Kursen information och kommunikation 2 omfattar punkterna 1-7 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
     "entries": [
-      "1-9"
+      "1-7"
     ]
   },
   "centralContent": {
@@ -12,15 +12,21 @@
       {
         "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
         "rows": [
-          "1. Sociala medier, till exempel hur forum för kommunikation med andra användare upprättas genom text, bild eller ljud.",
-          "2. Konstruktion och utformning, med text och design, av en enkel webbplats.",
-          "3. It-verktyg och applikationer som kan laddas ner för användning till särskilda ändamål, till exempel program för mobila enheter.",
-          "4. Databaser, till exempel hur de upprättas, används och underhålls.",
-          "5. Formulär, till exempel för enkäter och undersökningar.",
-          "6. Standardprogram för kommunikation, text- och bildbehandling, registerhantering, kalkylering, layout, informationssökning och sociala medier för yrkesmässig användning.",
-          "7. Datalagring och datasäkerhet.",
-          "8. Muntliga och skriftliga presentationer för yrkesmässiga sammanhang.",
-          "9. Miljö- och säkerhetsaspekter, ergonomi och etik inom verksamhetsområdet."
+          "1. Olika mediers funktion och uppbyggnad samt hur olika medier används för information och kommunikation i olika sammanhang och situationer.",
+          "2. Digitala plattformar för kommunikation mellan olika användare samt hur dessa kan användas för att kommunicera med hjälp av text, bild, film eller ljud.",
+          "3. Digitala programvaror och verktyg för att söka, presentera och hantera information, däribland affärssystem för styrning och administration samt kalkyl-, logistik-, redovisnings-, och faktureringsprogram.",
+          "4. Databaser: hur de upprättas, används och underhålls.",
+          "5. Datalagring och datasäkerhet: risker för personlig integritet, risker för dataintrång till exempel hackerattacker och virus samt risker för företag och organisationer om datasäkerhetsregler inte följs till exempel avseende lösenordshantering och användning av molntjänster.",
+          "6. Elektroniska portföljer och hur de kan användas, däribland elektronisk dagbok eller loggbok.",
+          "7. Vanliga digitala program, verktyg och applikationer som används för bland annat kommunikation, text- och bildbehandling, registerhantering, kalkylering och layout.",
+          "8. Informationssökning till exempel via olika digitala söktjänster samt kritisk granskning av information.",
+          "9. Planering, organisering och genomförande av informationsinsatser med anpassning till målgrupp, kommunikationskanal och kommunikationens syfte.",
+          "10. Layout, framställning och distribution av dokument, till exempel reklamblad och instruktioner.",
+          "11. Webbaserade marknadsundersökningar inom försäljning och service.",
+          "12. Lagar och andra bestämmelser som gäller information och kommunikation.",
+          "13. Ergonomiska och miljömedvetna arbetssätt i samband med arbetsuppgifter inom information och kommunikation.",
+          "14. Metoder för att utvärdera arbetsuppgifter inom information och kommunikation.",
+          "15. Kundorienterad och serviceinriktad interaktion och kommunikation."
         ]
       }
     ]
@@ -28,24 +34,26 @@
   "knowledgeRequirements": {
     "E": [
       [
-        "Eleven beskriver **översiktligt** hur människor kommunicerar verbalt och ickeverbalt i yrkessammanhang.",
-        "Dessutom beskriver eleven **översiktligt** sociala medier och hur de används för att sprida och dela information."
+        "Eleven beskriver **översiktligt** hur medier och digitala plattformar kan användas som kommunikationsmedel i olika situationer samt hur digitala programvaror och verktyg kan användas för att söka, presentera och hantera information.",
+        "Eleven beskriver **översiktligt** hur databaser upprättas, används och underhålls samt redogör **översiktligt** för risker med datalagring och digitala tjänster."
       ],
       [
-        "Eleven planerar, organiserar och utför **i samråd** med handledare informations- och kommunikationsuppgifter med hjälp av relevanta programvaror.",
-        "Resultatet är **tillfredsställande**.",
-        "I arbetet använder eleven **med viss säkerhet** modern teknik, material, redskap och arbetsmetoder.",
-        "Under arbetets gång löser eleven **i samråd** med handledare problem som uppkommer.",
-        "Eleven söker information **med viss säkerhet** samt värderar och granskar informationen kritiskt med **enkla** omdömen.",
-        "Dessutom gör eleven muntliga och skriftliga presentationer av sina uppgifter."
+        "Eleven söker information **med viss säkerhet** samt värderar och granskar informationen kritiskt och avger en **enkel** bedömning av informationens tillförlitlighet."
       ],
       [
-        "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+        "Eleven planerar, organiserar och utför, **i samråd** med handledare, arbetsuppgifter inom information och kommunikation med hjälp av relevanta programvaror, verktyg och applikationer.",
+        "Vidare genomför eleven enkla webbaserade marknadsundersökningar inom försäljning och service.",
+        "Resultatet av arbetet är **tillfredsställande**."
+      ],
+      [
+        "Eleven utför arbetet utifrån givna instruktioner samt utifrån relevanta lagar och andra bestämmelser inom området.",
         "Vidare arbetar eleven ergonomiskt, säkert och miljöanpassat."
       ],
       [
-        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med **enkla** omdömen.",
-        "Eleven samverkar med andra och kommunicerar **med viss säkerhet** både internt och externt och med korrekt fackspråk."
+        "Eleven utvärderar, med hjälp av relevanta metoder, resultatet av arbetet med **enkla** omdömen."
+      ],
+      [
+        "Eleven samverkar med andra och kommunicerar **med viss säkerhet** både internt och externt."
       ],
       [
         "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
@@ -53,24 +61,26 @@
     ],
     "C": [
       [
-        "Eleven beskriver **utförligt** hur människor kommunicerar verbalt och ickeverbalt i yrkessammanhang.",
-        "Dessutom beskriver eleven **utförligt** sociala medier och hur de används för att sprida och dela information."
+        "Eleven beskriver **utförligt** hur medier och digitala plattformar kan användas som kommunikationsmedel i olika situationer samt hur digitala programvaror och verktyg kan användas för att söka, presentera och hantera information.",
+        "Eleven beskriver **utförligt** hur databaser upprättas, används och underhålls samt redogör **utförligt** för risker med datalagring och digitala tjänster."
       ],
       [
-        "Eleven planerar, organiserar och utför **efter samråd** med handledare informations- och kommunikationsuppgifter med hjälp av relevanta programvaror.",
-        "Resultatet är **tillfredsställande**.",
-        "I arbetet använder eleven **med viss säkerhet** modern teknik, material, redskap och arbetsmetoder.",
-        "Under arbetets gång löser eleven **efter samråd** med handledare problem som uppkommer.",
-        "Eleven söker information **med viss säkerhet** samt värderar och granskar informationen kritiskt med **nyanserade** omdömen.",
-        "Dessutom gör eleven muntliga och skriftliga presentationer av sina uppgifter."
+        "Eleven söker information **med viss säkerhet** samt värderar och granskar informationen kritiskt och avger en **välgrundad** bedömning av informationens tillförlitlighet."
       ],
       [
-        "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+        "Eleven planerar, organiserar och utför, **efter samråd** med handledare, arbetsuppgifter inom information och kommunikation med hjälp av relevanta programvaror, verktyg och applikationer.",
+        "Vidare genomför eleven enkla webbaserade marknadsundersökningar inom försäljning och service.",
+        "Resultatet av arbetet är **tillfredsställande**."
+      ],
+      [
+        "Eleven utför arbetet utifrån givna instruktioner samt utifrån relevanta lagar och andra bestämmelser inom området.",
         "Vidare arbetar eleven ergonomiskt, säkert och miljöanpassat."
       ],
       [
-        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen.",
-        "Eleven samverkar med andra och kommunicerar **med viss säkerhet** både internt och externt och med korrekt fackspråk."
+        "Eleven utvärderar, med hjälp av relevanta metoder, arbetsuppgifter inom information och kommunikation och resultatet av arbetet med **nyanserade** omdömen."
+      ],
+      [
+        "Eleven samverkar med andra och kommunicerar **med viss säkerhet** både internt och externt."
       ],
       [
         "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
@@ -78,24 +88,26 @@
     ],
     "A": [
       [
-        "Eleven beskriver **utförligt och nyanserat** hur människor kommunicerar verbalt och ickeverbalt i yrkessammanhang.",
-        "Dessutom beskriver eleven **utförligt och nyanserat** sociala medier och hur de används för att sprida och dela information."
+        "Eleven beskriver **utförligt och nyanserat** hur medier och digitala plattformar kan användas som kommunikationsmedel i olika situationer samt hur digitala programvaror och verktyg kan användas för att söka, presentera och hantera information.",
+        "Eleven beskriver **utförligt och nyanserat** hur databaser upprättas, används och underhålls samt redogör **utförligt och nyanserat** för risker med datalagring och digitala tjänster."
       ],
       [
-        "Eleven planerar, organiserar och utför **efter samråd** med handledare informations- och kommunikationsuppgifter med hjälp av relevanta programvaror.",
-        "Resultatet är **gott**.",
-        "I arbetet använder eleven **med säkerhet** modern teknik, material, redskap och arbetsmetoder.",
-        "Under arbetets gång löser eleven **efter samråd** med handledare problem som uppkommer.",
-        "Eleven söker information **med säkerhet** samt värderar och granskar informationen kritiskt med **nyanserade** omdömen.",
-        "Dessutom gör eleven muntliga och skriftliga presentationer av sina uppgifter."
+        "Eleven söker information **med säkerhet** samt värderar och granskar informationen kritiskt och avger en **välgrundad och nyanserad** bedömning av informationens tillförlitlighet."
       ],
       [
-        "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+        "Eleven planerar, organiserar och utför**, efter samråd** med handledare, arbetsuppgifter inom information och kommunikation med hjälp av relevanta programvaror, verktyg och applikationer.",
+        "Vidare genomför eleven enkla webbaserade marknadsundersökningar inom försäljning och service.",
+        "Resultatet av arbetet är **gott**."
+      ],
+      [
+        "Eleven utför arbetet utifrån givna instruktioner samt utifrån relevanta lagar och andra bestämmelser inom området.",
         "Vidare arbetar eleven ergonomiskt, säkert och miljöanpassat."
       ],
       [
-        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**.",
-        "Eleven samverkar med andra och kommunicerar **med säkerhet** både internt och externt och med korrekt fackspråk."
+        "Eleven utvärderar, med hjälp av relevanta metoder, resultatet av arbetet med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**."
+      ],
+      [
+        "Eleven samverkar med andra och kommunicerar **med säkerhet** både internt och externt."
       ],
       [
         "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."

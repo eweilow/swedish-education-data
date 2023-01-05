@@ -2,9 +2,9 @@
   "name": "Information och kommunikation 1",
   "code": "INFINF01",
   "focusAreas": {
-    "string": "Kursen information och kommunikation 1 omfattar punkterna 1-9 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "string": "Kursen information och kommunikation 1 omfattar punkterna 1-7 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
     "entries": [
-      "1-9"
+      "1-7"
     ]
   },
   "centralContent": {
@@ -12,15 +12,19 @@
       {
         "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
         "rows": [
-          "1. Verbal och icke verbal kommunikation i yrkessammanhang med koppling till olika teorier om kommunikation.",
-          "2. Sociala medier och hur de används för att sprida och dela information samt skapa innehåll som andra kan delta i.",
-          "3. Mötesteknik och sammanträdesdokument, till exempel kallelser, dagordningar och protokoll.",
-          "4. Utformning av dokumentmallar enligt gällande standard.",
-          "5. Standardprogram för kommunikation, text- och bildbehandling, registerhantering, kalkylering, layout, informationssökning och sociala medier.",
-          "6. Metoder och tekniker för att utveckla och underlätta informationssökning, till exempel hur man tar till sig innehåll i dokument, instruktioner och andra texter samt hur man organiserar information.",
-          "7. Muntliga och skriftliga presentationer, till exempel en bransch-, produkt-, eller företagspresentation.",
-          "8. Lagar och andra bestämmelser som gäller information och kommunikation, till exempel personuppgiftslagen, lagen om upphovsrätt och etiska regler inom området.",
-          "9. Ergonomi och arbetsmiljö, till exempel hur man skriver effektivt, arbetsplatsens utformning samt fysiska och psykosociala arbetsmiljöfrågor."
+          "1. Grundläggande kommunikationsvetenskapliga metoder och teorier om hur människor interagerar och kommunicerar i olika sammanhang, däribland envägskommunikation, tvåvägskommunikation och intermedialitet.",
+          "2. Hur sociala och kulturella förhållanden påverkar människors interaktion och kommunikation.",
+          "3. Sociala medier och hur de används för att sprida och kommunicera information.",
+          "4. Strategier för att skapa effektiv kommunikation med anpassning till olika målgruppers behov och beteenden, till olika mål och syften med kommunikationen samt till olika kommunikationskanaler.",
+          "5. Analys av budskapsinnehåll, språk och gestaltning i kommunikation som är riktad mot en viss målgrupp.",
+          "6. Metoder och tekniker för att underlätta och utveckla informationssökning, däribland digitala söktjänster samt kritisk granskning av information.",
+          "7. Planering, organisering och genomförande av enkla informationsinsatser med anpassning till målgrupp, kommunikationskanal och kommunikationens syfte.",
+          "8. Metoder och tekniker för att göra muntliga och skriftliga presentationer i yrkessammanhang anpassade till målgrupp, syfte och sammanhang, till exempel bransch-, produkt- eller företagspresentationer.",
+          "9. Vanliga program för kommunikation, informationssökning, text- och bildbehandling, kalkylering och layout.",
+          "10. Lagar och andra bestämmelser som gäller information och kommunikation.",
+          "11. Ergonomi och arbetsmiljö, vikten av arbetsplatsens utformning samt fysiska och psykosociala arbetsmiljöfrågor inom området.",
+          "12. Metoder för att utvärdera hur effektiv en kommunikationsinsats har varit i relation till målet med insatsen.",
+          "13. Interaktion och kommunikation i olika kund- och servicesituationer."
         ]
       }
     ]
@@ -28,23 +32,22 @@
   "knowledgeRequirements": {
     "E": [
       [
-        "Eleven beskriver **översiktligt** hur människor kommunicerar verbalt och ickeverbalt i yrkessammanhang.",
-        "Dessutom beskriver eleven **översiktligt** sociala medier och hur de används för att sprida och dela information."
+        "Eleven redogör **översiktligt** för faktorer som påverkar kommunikation mellan människor samt beskriver **översiktligt** vad som kännetecknar effektiv och målgruppsanpassad kommunikation i yrkessammanhang."
       ],
       [
-        "Eleven planerar, organiserar och utför **i samråd** med handledare informations- och kommunikationsuppgifter med hjälp av relevanta programvaror.",
-        "Resultatet är **tillfredsställande**.",
-        "I arbetet använder eleven **med viss säkerhet** modern teknik, material, redskap och arbetsmetoder.",
-        "Under arbetets gång löser eleven **i samråd** med handledare problem som uppkommer.",
-        "Eleven söker information **med viss säkerhet** samt värderar och granskar informationen kritiskt med **enkla** omdömen.",
-        "Dessutom gör eleven enkla muntliga och skriftliga presentationer av sina uppgifter."
+        "Eleven söker information **med viss säkerhet** samt värderar och granskar informationen kritiskt och gör en **enkel** bedömning av informationens tillförlitlighet."
       ],
       [
-        "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+        "Eleven planerar, organiserar och utför, **i samråd** med handledare, arbetsuppgifter inom information och kommunikation med hjälp av relevanta programvaror och adekvat teknik samt med anpassning till målgrupp och syfte.",
+        "Dessutom gör eleven **med viss säkerhet** målgruppsanpassade presentationer.",
+        "Resultatet av arbetet är **tillfredsställande**."
+      ],
+      [
+        "Eleven utför arbetet utifrån givna instruktioner samt utifrån relevanta lagar och andra bestämmelser inom området.",
         "Vidare arbetar eleven ergonomiskt, säkert och miljöanpassat."
       ],
       [
-        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med **enkla** omdömen.",
+        "Eleven utvärderar, med hjälp av relevanta metoder, resultatet av sitt arbete med **enkla** omdömen.",
         "Eleven samverkar med andra och kommunicerar **med viss säkerhet** både internt och externt."
       ],
       [
@@ -53,24 +56,23 @@
     ],
     "C": [
       [
-        "Eleven beskriver **utförligt** hur människor kommunicerar verbalt och ickeverbalt i yrkessammanhang.",
-        "Dessutom beskriver eleven **utförligt** sociala medier och hur de används för att sprida och dela information."
+        "Eleven redogör **utförligt** för faktorer som påverkar kommunikation mellan människor samt beskriver **utförligt** vad som kännetecknar effektiv och målgruppsanpassad kommunikation i yrkessammanhang."
       ],
       [
-        "Eleven planerar, organiserar och utför **efter samråd** med handledare informations- och kommunikationsuppgifter med hjälp av relevanta programvaror.",
-        "Resultatet är **tillfredsställande**.",
-        "I arbetet använder eleven **med viss säkerhet** modern teknik, material, redskap och arbetsmetoder.",
-        "Under arbetets gång löser eleven **efter samråd** med handledare problem som uppkommer.",
-        "Eleven söker information **med viss säkerhet** samt värderar och granskar informationen kritiskt med **nyanserade** omdömen.",
-        "Dessutom gör eleven enkla muntliga och skriftliga presentationer av sina uppgifter."
+        "Eleven söker information **med viss säkerhet** samt värderar och granskar informationen kritiskt och gör en **välgrundad** bedömning av informationens tillförlitlighet."
       ],
       [
-        "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+        "Eleven planerar, organiserar och utför, **efter samråd** med handledare, arbetsuppgifter inom information och kommunikation med hjälp av relevanta programvaror samt med anpassning till målgrupp och syfte.",
+        "Dessutom gör eleven målgruppsanpassade muntliga och skriftliga presentationer.",
+        "Resultatet av arbetet är **tillfredsställande**."
+      ],
+      [
+        "Eleven utför arbetet utifrån givna instruktioner samt utifrån relevanta lagar och andra bestämmelser inom området.",
         "Vidare arbetar eleven ergonomiskt, säkert och miljöanpassat."
       ],
       [
-        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen.",
-        "Eleven samverkar med andra och kommunicerar **med viss säkerhet** både internt och externt **och med korrekt fackspråk**."
+        "Eleven utvärderar, med hjälp av relevanta metoder, resultatet av sitt arbete med **nyanserade** omdömen.",
+        "Eleven samverkar med andra och kommunicerar **med viss säkerhet** både internt och externt."
       ],
       [
         "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
@@ -78,24 +80,23 @@
     ],
     "A": [
       [
-        "Eleven beskriver **utförligt och nyanserat** hur människor kommunicerar verbalt och ickeverbalt i yrkessammanhang.",
-        "Dessutom beskriver eleven **utförligt och nyanserat** sociala medier och hur de används för att sprida och dela information."
+        "Eleven redogör **utförligt och nyanserat** för faktorer som påverkar kommunikation mellan människor samt beskriver **utförligt och nyanserat** vad som kännetecknar effektiv och målgruppsanpassad kommunikation i yrkessammanhang."
       ],
       [
-        "Eleven planerar, organiserar och utför **efter samråd** med handledare informations- och kommunikationsuppgifter med hjälp av relevanta programvaror.",
-        "Resultatet är **gott**.",
-        "I arbetet använder eleven **med säkerhet** modern teknik, material, redskap och arbetsmetoder.",
-        "Under arbetets gång löser eleven **efter samråd** med handledare problem som uppkommer.",
-        "Eleven söker information **med säkerhet** samt värderar och granskar informationen kritiskt med **nyanserade** omdömen.",
-        "Dessutom gör eleven enkla muntliga och skriftliga presentationer av sina uppgifter."
+        "Eleven söker information **med säkerhet** samt värderar och granskar informationen kritiskt och gör en **välgrundad och nyanserad** bedömning av informationens tillförlitlighet."
       ],
       [
-        "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+        "Eleven planerar, organiserar och utför, **efter samråd** med handledare, arbetsuppgifter inom information och kommunikation med hjälp av relevanta programvaror samt med anpassning till målgrupp och syfte.",
+        "Dessutom gör eleven målgruppsanpassade muntliga och skriftliga presentationer.",
+        "Resultatet av arbetet är **gott**."
+      ],
+      [
+        "Eleven utför arbetet utifrån givna instruktioner samt utifrån relevanta lagar och andra bestämmelser inom området.",
         "Vidare arbetar eleven ergonomiskt, säkert och miljöanpassat."
       ],
       [
-        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**.",
-        "Eleven samverkar med andra och kommunicerar **med säkerhet** både internt och externt **och med korrekt fackspråk**."
+        "Eleven utvärderar, med hjälp av relevanta metoder, resultatet av sitt arbete med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**.",
+        "Eleven samverkar med andra och kommunicerar **med säkerhet** både internt och externt."
       ],
       [
         "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."

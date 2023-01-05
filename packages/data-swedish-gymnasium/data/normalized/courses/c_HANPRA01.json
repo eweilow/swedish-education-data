@@ -2,9 +2,10 @@
   "name": "Praktisk marknadsföring 1",
   "code": "HANPRA01",
   "focusAreas": {
-    "string": "Kursen praktisk marknadsföring 1 omfattar punkterna 3-10 under rubriken Ämnets syfte, med särskild betoning på punkterna 4, 7 och 10. I kursen behandlas grundläggande kunskaper i ämnet.",
+    "string": "Kursen praktisk marknadsföring 1 omfattar punkterna 1 och 4-9 under rubriken Ämnets syfte. I kursen behandlas grundläggande kunskaper i ämnet.",
     "entries": [
-      "3-10"
+      "1",
+      "4-9"
     ]
   },
   "centralContent": {
@@ -12,17 +13,21 @@
       {
         "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
         "rows": [
-          "1. Affärsidé, marknads- och säljplan.",
-          "2. Marknadsföring och säljkampanjer och andra säljfrämjande åtgärder.",
-          "3. Sortiment, butiksprofil och kundens uppfattning och butiksupplevelse.",
-          "4. Snabbtextning och säljstödsmaterial.",
-          "5. Datorstöd i exponeringsarbetet.",
-          "6. Konsument- och marknadslagar.",
-          "7. Etiska regler.",
-          "8. Butiksmatematik, till exempel beställningspunkt och omräkningstal, marginal och pålägg, samt riskbedömningar.",
-          "9. Metoder för utvärdering av marknadsföring.",
-          "10. Butikskommunikation och hur butiksmiljön påverkar och vägleder kunders köpbeteende i butiken.",
-          "11. Butikskommunikatörens uppgifter i olika slags butiker, till exempel dagligvarubutiker och fackhandelsbutiker."
+          "1. Mediernas påverkan på våra konsumtionsval, reklamens metoder och syfte och hur man kan analysera och kritiskt värdera reklambudskap.",
+          "2. Faktorer bakom kundmönster och kundbeteenden. Hur en analys av dessa faktorer kan ligga till grund för beslut inom marknadsföring, däribland val av marknadsföringskanaler och utformning av marknadsföringsinsatser.",
+          "3. Marknadskommunikation: hur ett företag kan kommunicera med sin marknad och sina kunder, till exempel genom annonsering, varumärkesannonsering, direktreklam, sponsring och PR.",
+          "4. Vanligt förekommande kanaler för digital marknadsföring samt grundläggande begrepp inom digital marknadsföring, däribland sökmotormarknadsföring (SEM), sökmotoroptimering (SEO) och inbound marketing.",
+          "5. Metoder för att utforma affärsidéer, marknads- och säljplaner utifrån en analys av marknadssegment och målgrupp.",
+          "6. Metoder för att välja sortiment och ta fram en butiksprofil.",
+          "7. Metoder för att exponera varor samt tekniker för att utforma säljstödsmaterial.",
+          "8. Arbete med marknadsföring i olika kanaler och till olika målgrupper.",
+          "9. Arbete med varuexponering och utformning av säljstödsmaterial.",
+          "10. Introduktion till lagar som är relevanta för yrkesområdet, inklusive konsumentköplagen, marknadsföringslagen, prisinformationslagen, produktsäkerhetslagen och avtalsvillkorslagen.",
+          "11. Etiska regler vid försäljning och marknadsföring, till exempel vid telefonförsäljning och marknadsföring via telefon och e-post samt vid direktreklam och oadresserad reklam.",
+          "12. Butiksekonomi, däribland prissättning, marginal och pålägg.",
+          "13. Ergonomiska och miljömedvetna arbetssätt inom yrkesområdet.",
+          "14. Metoder för att utvärdera marknadsföringsinsatser och säljfrämjande åtgärder.",
+          "15. Interaktion och kommunikation inom praktisk marknadsföring."
         ]
       }
     ]
@@ -30,20 +35,24 @@
   "knowledgeRequirements": {
     "E": [
       [
-        "Eleven planerar och organiserar **i samråd** med handledare arbetsuppgifter inom praktisk marknadsföring.",
-        "Eleven utför dem med **tillfredsställande** resultat.",
-        "Dessutom utformar eleven **i samråd** med handledare enkla säljstödsmaterial och varuexponeringar som är av **tillfredsställande** kvalitet.",
-        "I arbetet använder eleven **med viss säkerhet** vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder."
+        "Eleven beskriver **översiktligt** faktorer bakom kundmönster och kundbeteenden.",
+        "Dessutom redogör eleven **översiktligt** för ett företags konkurrensmedel samt faktorer som påverkar företags lönsamhet och förmåga att konkurrera.",
+        "Eleven beskriver även **översiktligt** olika kanaler för marknadsföring.",
+        "Eleven beskriver **översiktligt** hur ett företags affärsidé, marknadsplan och säljplan kan utformas utifrån en analys av marknadssegment och målgrupp."
       ],
       [
-        "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
-        "Under arbetets gång utför eleven **med viss säkerhet** ekonomiska beräkningar, gör grundläggande riskbedömningar och löser, **i samråd** med handledare, problem som uppkommer.",
-        "Beräkningarna är riktigt utförda.",
-        "Vidare arbetar eleven miljöanpassat samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
+        "Eleven planerar och organiserar, **i samråd** med handledare, arbetsuppgifter inom praktisk marknadsföring.",
+        "Eleven utför arbetsuppgifterna med **tillfredsställande** resultat.",
+        "Dessutom utformar eleven, **i samråd** med handledare, enkla säljstödsmaterial och varuexponeringar som är av **tillfredsställande** kvalitet."
+      ],
+      [
+        "Eleven utför arbetet utifrån givna instruktioner samt utifrån relevanta lagar och andra bestämmelser inom området.",
+        "Under arbetets gång utför eleven **med viss säkerhet** ekonomiska beräkningar och löser, **i samråd** med handledare, problem som uppkommer när arbetsuppgifterna ska utföras.",
+        "Vidare arbetar eleven miljöanpassat och ergonomiskt.",
         "Detta gör eleven **i samråd** med handledare."
       ],
       [
-        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med **enkla** omdömen.",
+        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultatet av arbetet med **enkla** omdömen.",
         "Eleven samverkar med andra och kommunicerar **med viss säkerhet** på ett kundanpassat sätt."
       ],
       [
@@ -52,21 +61,25 @@
     ],
     "C": [
       [
-        "Eleven planerar och organiserar **efter samråd** med handledare arbetsuppgifter inom praktisk marknadsföring.",
-        "Eleven utför dem med **tillfredsställande** resultat.",
-        "Dessutom utformar eleven **efter samråd** med handledare enkla säljstödsmaterial och varuexponeringar som är av **tillfredsställande** kvalitet **och uppfyller estetiska krav**.",
-        "I arbetet använder eleven **med viss säkerhet** vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder."
+        "Eleven beskriver **utförligt** faktorer bakom kundmönster och kundbeteenden.",
+        "Dessutom redogör eleven **utförligt** för ett företags konkurrensmedel samt faktorer som påverkar företags lönsamhet och förmåga att konkurrera.",
+        "Eleven beskriver även **utförligt** olika kanaler för marknadsföring.",
+        "Eleven beskriver **utförligt** hur ett företags affärsidé, marknadsplan och säljplan kan utformas utifrån analys av marknadssegment och målgrupp."
       ],
       [
-        "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
-        "Under arbetets gång utför eleven **med viss säkerhet** ekonomiska beräkningar, gör grundläggande riskbedömningar och löser, **efter samråd** med handledare, problem som uppkommer.",
-        "Beräkningarna är riktigt utförda.",
-        "Vidare arbetar eleven miljöanpassat, ergonomiskt samt på ett sätt som är säkert både för eleven själv och andra.",
+        "Eleven planerar och organiserar, **efter samråd** med handledare, arbetsuppgifter inom praktisk marknadsföring.",
+        "Eleven utför dem med **tillfredsställande** resultat.",
+        "Dessutom utformar eleven, **efter samråd** med handledare, enkla säljstödsmaterial och varuexponeringar som är av **tillfredsställande** kvalitet."
+      ],
+      [
+        "Eleven utför arbetet utifrån givna instruktioner samt utifrån relevanta lagar och andra bestämmelser inom området.",
+        "Under arbetets gång utför eleven **med viss säkerhet** ekonomiska beräkningar och löser, **efter samråd** med handledare, problem som uppkommer när arbetsuppgifterna ska utföras.",
+        "Vidare arbetar eleven miljöanpassat och ergonomiskt.",
         "Detta gör eleven **efter samråd** med handledare."
       ],
       [
-        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen.",
-        "Eleven samverkar med andra och kommunicerar **med viss säkerhet** på ett kundanpassat sätt **och med korrekt fackspråk**."
+        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultatet av arbetet med **nyanserade** omdömen.",
+        "Eleven samverkar med andra och kommunicerar **med viss säkerhet** på ett kundanpassat sätt."
       ],
       [
         "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
@@ -74,21 +87,25 @@
     ],
     "A": [
       [
-        "Eleven planerar och organiserar **efter samråd** med handledare arbetsuppgifter inom praktisk marknadsföring.",
-        "Eleven utför dem med **gott** resultat.",
-        "Dessutom utformar eleven **efter samråd** med handledare enkla säljstödsmaterial och varuexponeringar som är av **god** kvalitet **och uppfyller estetiska krav**.",
-        "I arbetet använder eleven **med säkerhet** vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder."
+        "Eleven beskriver **utförligt och nyanserat** faktorer bakom kundmönster och kundbeteenden.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för ett företags konkurrensmedel samt faktorer som påverkar företags lönsamhet och förmåga att konkurrera.",
+        "Eleven beskriver även **utförligt och nyanserat** olika kanaler för marknadsföring.",
+        "Eleven beskriver **utförligt och nyanserat** hur ett företags affärsidé, marknads- och säljplan kan utformas utifrån en analys av marknadssegment och målgrupp."
       ],
       [
-        "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
-        "Under arbetets gång utför eleven **med säkerhet** ekonomiska beräkningar, gör grundläggande riskbedömningar och löser, **efter samråd** med handledare, problem som uppkommer.",
-        "Beräkningarna är riktigt utförda.",
-        "Vidare arbetar eleven miljöanpassat, ergonomiskt samt på ett sätt som är säkert både för eleven själv och andra.",
+        "Eleven planerar och organiserar, **efter samråd** med handledare, arbetsuppgifter inom praktisk marknadsföring.",
+        "Eleven utför dem med **gott** resultat.",
+        "Dessutom utformar eleven, **efter samråd** med handledare, enkla säljstödsmaterial och varuexponeringar som är av **god** kvalitet."
+      ],
+      [
+        "Eleven utför arbetet utifrån givna instruktioner samt utifrån relevanta lagar och andra bestämmelser inom området.",
+        "Under arbetets gång utför eleven **med säkerhet** ekonomiska beräkningar och löser, **efter samråd** med handledare, problem som uppkommer när arbetsuppgifterna ska utföras.",
+        "Vidare arbetar eleven miljöanpassat och ergonomiskt.",
         "Detta gör eleven **efter samråd** med handledare."
       ],
       [
-        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**.",
-        "Eleven samverkar med andra och kommunicerar **med säkerhet** på ett kundanpassat sätt **och med korrekt fackspråk**."
+        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultatet av arbetet med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**.",
+        "Eleven samverkar med andra och kommunicerar **med säkerhet** på ett kundanpassat sätt."
       ],
       [
         "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."

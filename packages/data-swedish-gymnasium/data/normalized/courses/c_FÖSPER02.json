@@ -2,9 +2,9 @@
   "name": "Personlig försäljning 2",
   "code": "FÖSPER02",
   "focusAreas": {
-    "string": "Kursen personlig försäljning 2 omfattar punkterna 1-9 under rubriken Ämnets syfte, med särskild betoning på punkterna 2-3 och 9. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "string": "Kursen personlig försäljning 2 omfattar punkterna 1-8 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
     "entries": [
-      "1-9"
+      "1-8"
     ]
   },
   "centralContent": {
@@ -12,18 +12,18 @@
       {
         "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
         "rows": [
-          "1. Säljarbete och försäljningsteknik, till exempel merförsäljning och systemförsäljning.",
-          "2. Marknadskommunikation inom försäljningsområdet.",
-          "3. Förhandlings- och presentationsteknik.",
-          "4. Säljarens arbetsuppgifter i olika säljorganisationer.",
-          "5. Säljpsykologi och motivationsträning samt den egna säljstilen och hur man använder sina resurser på bästa sätt.",
-          "6. Kundpsykologi, vilket innebär beskrivning och analys av kundmönster och kundbeteende.",
-          "7. Kulturella skillnader i försäljningsteknik.",
-          "8. Omvärldsanalys i affärssammanhang.",
-          "9. Lagar och andra bestämmelser samt etiska regler inom försäljningsområdet.",
-          "10. Kalkyl- och lönsamhetsberäkningar.",
-          "11. Arbetsmiljöfrågor inom försäljningsområdet.",
-          "12. Projektmetodik och datorkunskap."
+          "1. Affärsmodeller inklusive marknadsanalys, affärsprocess, kundkrets och intäktsanalys samt hur dessa kan utgöra grund för ett kundorienterat och målinriktat försäljningsarbete.",
+          "2. Säljplaner och säljprocessen vid olika former av försäljning, bland annat försäljning mellan företag, storkundsförsäljning, systemförsäljning, teknisk försäljning och tjänsteförsäljning.",
+          "3. Metoder för marknadssegmentering i syfte att ta reda på vad som definierar företagets nyckelkunder för att därigenom kunna anpassa marknadsföring och försäljning gentemot varje segment för att öka försäljningen och verksamhetens lönsamhet.",
+          "4. Metoder för marknadskommunikation inom försäljningsområdet.",
+          "5. Projektmetodik och hur man driver egna projekt inom försäljningsområdet.",
+          "6. Planering, organisering och genomförande av säljarbete.",
+          "7. Säljstyrning och säljledning, hur man leder och utvecklar säljare samt utvecklar säljarbetet och säljstrategier i verksamheten.",
+          "8. Relevanta lagar och andra bestämmelser inom området försäljning samt etiska regler inom området.",
+          "9. Kalkyl- och lönsamhetsberäkningar.",
+          "10. Ergonomi och arbetsmiljöfrågor inom försäljningsområdet.",
+          "11. Metoder för att utvärdera försäljningsarbete.",
+          "12. Interaktion och kommunikation med anpassning till kund och situationens krav."
         ]
       }
     ]
@@ -31,20 +31,25 @@
   "knowledgeRequirements": {
     "E": [
       [
-        "Eleven beskriver **översiktligt** hur säljarbete och förhandlingar planeras, organiseras och genomförs på ett säljinriktat sätt i olika branscher.",
-        "Dessutom beskriver eleven **översiktligt** hur marknadskommunikation planeras och genomförs.",
-        "I beskrivningen redogör eleven **översiktligt** för hur attityder, värderingar och förhållningssätt påverkar försäljningssituationer."
+        "Eleven beskriver **översiktligt** vad som kännetecknar ett kundorienterat och målinriktat försäljningsarbete samt redogör **översiktligt** för hur affärsmodeller kan utarbetas samt hur dessa kan utgöra grund för ett kundorienterat och målinriktat försäljningsarbete."
       ],
       [
-        "Eleven planerar, organiserar och utför **i samråd** med handledare arbetsuppgifter inom personlig försäljning.",
-        "I arbetet använder eleven **med viss säkerhet** vanligt förekommande arbetsmetoder, tekniker och arbetsmaterial.",
-        "Eleven genomför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+        "Vidare redogör eleven **översiktligt** för säljprocessen vid olika former av försäljning samt hur säljplaner kan utarbetas."
+      ],
+      [
+        "Eleven beskriver **översiktligt** hur kundorienterat och målinriktat säljarbete kan planeras, organiseras och genomföras på ett sätt som leder till god försäljning.",
+        "Dessutom beskriver eleven **översiktligt** säljarens roll i ett marknadsföringssystem, hur marknadskommunikation kan planeras och genomföras samt hur säljstyrning och säljledning används i säljarbetet."
+      ],
+      [
+        "Eleven planerar, organiserar och utför, **i samråd** med handledare, arbetsuppgifter inom personlig försäljning.",
+        "Resultatet av arbetet är **tillfredsställande**.",
+        "Eleven genomför arbetet utifrån givna instruktioner samt utifrån relevanta lagar och andra bestämmelser inom området.",
         "Under arbetets gång använder eleven **med viss säkerhet** tekniker och metoder för kalkylering och ekonomiska beräkningar samt löser, **i samråd** med handledare, problem som uppkommer i arbetet.",
-        "Vidare arbetar eleven miljöanpassat och resurssnålt samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
+        "Vidare arbetar eleven ergonomiskt, miljöanpassat och resurssnålt samt på ett sätt som är säkert för både eleven själv och andra.",
         "Detta gör eleven **i samråd** med handledare."
       ],
       [
-        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med **enkla** omdömen.",
+        "Eleven utvärderar sitt arbete och resultatet av arbetet med **enkla** omdömen.",
         "Eleven samverkar med andra och kommunicerar **med viss säkerhet** på ett kundanpassat sätt."
       ],
       [
@@ -53,21 +58,26 @@
     ],
     "C": [
       [
-        "Eleven beskriver **utförligt** hur säljarbete och förhandlingar planeras, organiseras och genomförs på ett säljinriktat sätt i olika branscher.",
-        "Dessutom beskriver eleven **utförligt** hur marknadskommunikation planeras och genomförs.",
-        "I beskrivningen redogör eleven **utförligt** för hur attityder, värderingar och förhållningssätt påverkar försäljningssituationer."
+        "Eleven beskriver **utförligt** vad som kännetecknar ett kundorienterat och målinriktat försäljningsarbete samt redogör **utförligt** för hur affärsmodeller kan utarbetas samt hur dessa kan utgöra grund för ett kundorienterat och målinriktat försäljningsarbete."
+      ],
+      [
+        "Vidare redogör eleven **utförligt** för säljprocessen vid olika former av försäljning samt hur säljplaner kan utarbetas."
+      ],
+      [
+        "Eleven beskriver **utförligt** hur kundorienterat och målinriktat säljarbete kan planeras, organiseras och genomföras på ett sätt som leder till god försäljning.",
+        "Dessutom beskriver eleven **utförligt** säljarens roll i ett marknadsföringssystem, hur marknadskommunikation kan planeras och genomföras samt hur säljstyrning och säljledning används i säljarbetet."
       ],
       [
         "Eleven planerar, organiserar och utför **efter samråd** med handledare arbetsuppgifter inom personlig försäljning.",
-        "I arbetet använder eleven **med viss säkerhet** vanligt förekommande arbetsmetoder, tekniker och arbetsmaterial.",
-        "Eleven genomför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+        "Resultatet av arbetet är **tillfredsställande**.",
+        "Eleven genomför arbetet utifrån givna instruktioner samt utifrån lagar och andra bestämmelser inom området.",
         "Under arbetets gång använder eleven **med viss säkerhet** tekniker och metoder för kalkylering och ekonomiska beräkningar samt löser, **efter samråd** med handledare, problem som uppkommer i arbetet.",
-        "Vidare arbetar eleven miljöanpassat och resurssnålt samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
+        "Vidare arbetar eleven ergonomiskt, miljöanpassat och resurssnålt samt på ett sätt som är säkert för både eleven själv och andra.",
         "Detta gör eleven **efter samråd** med handledare."
       ],
       [
-        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen.",
-        "Eleven samverkar med andra och kommunicerar **med viss säkerhet** på ett kundanpassat sätt **och med korrekt fackspråk**."
+        "Eleven utvärderar sitt arbete och resultatet av arbetet med **nyanserade** omdömen.",
+        "Eleven samverkar med andra och kommunicerar **med viss säkerhet** på ett kundanpassat sätt."
       ],
       [
         "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
@@ -75,21 +85,26 @@
     ],
     "A": [
       [
-        "Eleven beskriver **utförligt och nyanserat** hur säljarbete och förhandlingar planeras, organiseras och genomförs på ett säljinriktat sätt i olika branscher.",
-        "Dessutom beskriver eleven **utförligt och nyanserat** hur marknadskommunikation planeras och genomförs.",
-        "I beskrivningen redogör eleven **utförligt och nyanserat** för hur attityder, värderingar och förhållningssätt påverkar försäljningssituationer."
+        "Eleven beskriver **utförligt och nyanserat** vad som kännetecknar ett kundorienterat och målinriktat försäljningsarbete samt redogör **utförligt och nyanserat** för hur affärsmodeller kan utarbetas samt hur dessa kan utgöra grund för ett kundorienterat och målinriktat försäljningsarbete."
+      ],
+      [
+        "Vidare redogör eleven **utförligt och nyanserat** för säljprocessen vid olika former av försäljning samt hur säljplaner kan utarbetas."
+      ],
+      [
+        "Eleven beskriver **utförligt och nyanserat** hur kundorienterat och målinriktat säljarbete kan planeras, organiseras och genomföras på ett sätt som leder till god försäljning.",
+        "Dessutom beskriver eleven **utförligt och nyanserat** säljarens roll i ett marknadsföringssystem, hur marknadskommunikation kan planeras och genomföras samt hur säljstyrning och säljledning används i säljarbetet."
       ],
       [
         "Eleven planerar, organiserar och utför **efter samråd** med handledare arbetsuppgifter inom personlig försäljning.",
-        "I arbetet använder eleven **med säkerhet** vanligt förekommande arbetsmetoder, tekniker och arbetsmaterial.",
-        "Eleven genomför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
+        "Resultatet av arbetet är **gott**.",
+        "Eleven genomför arbetet utifrån givna instruktioner samt utifrån relevanta lagar och andra bestämmelser inom området.",
         "Under arbetets gång använder eleven **med säkerhet** tekniker och metoder för kalkylering och ekonomiska beräkningar samt löser, **efter samråd** med handledare, problem som uppkommer i arbetet.",
-        "Vidare arbetar eleven miljöanpassat och resurssnålt samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
+        "Vidare arbetar eleven ergonomiskt, miljöanpassat och resurssnålt samt på ett sätt som är säkert för både eleven själv och andra.",
         "Detta gör eleven **efter samråd** med handledare."
       ],
       [
-        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**.",
-        "Eleven samverkar med andra och kommunicerar **med säkerhet** på ett kundanpassat sätt **och med korrekt fackspråk**."
+        "Eleven utvärderar sitt arbete och resultatet av arbetet med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**.",
+        "Eleven samverkar med andra och kommunicerar **med säkerhet** på ett kundanpassat sätt."
       ],
       [
         "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."

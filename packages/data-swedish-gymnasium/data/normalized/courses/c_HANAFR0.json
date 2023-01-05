@@ -2,10 +2,10 @@
   "name": "Affärsutveckling och ledarskap",
   "code": "HANAFR0",
   "focusAreas": {
-    "string": "Kursen affärsutveckling och ledarskap omfattar punkterna 2-3 och 5-10 under rubriken Ämnets syfte. I kursen behandlas fördjupade kunskaper i ämnet.",
+    "string": "Kursen affärsutveckling och ledarskap omfattar punkterna 3-4 och 6-8 under rubriken Ämnets syfte.",
     "entries": [
-      "2-3",
-      "5-10"
+      "3-4",
+      "6-8"
     ]
   },
   "centralContent": {
@@ -13,16 +13,21 @@
       {
         "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
         "rows": [
-          "1. Affärsutveckling, omvärldsanalys och marknadsundersökningar.",
-          "2. Affärsidé, koncept, försäljningskanaler och positionering.",
-          "3. Entreprenörskap och eget företagande.",
-          "4. Praktisk butiksdrift.",
-          "5. Säljmiljö, inredning och utrustning i butiker.",
-          "6. Ledarens roll och uppgifter i butiker, stormarknader och varuhus.",
-          "7. Arbetsledning samt organisations- och personalfrågor, till exempel projektledning, konflikthantering, samarbete, sociala normer och arbetsvillkor.",
-          "8. Lagar och andra bestämmelser, till exempel om arbetsrätt.",
-          "9. Olika tekniker och metoder för ekonomiska beräkningar samt riskbedömningar och nyckeltal.",
-          "10. Säkerhet och risker i handeln samt förebyggande arbete för god inre och yttre säkerhet."
+          "1. Metoder för att utforma affärsidé, affärsmål och affärsstrategier utifrån analys av marknaden, målgruppen, kundbehoven och ett företags förutsättningar med hänsyn tagen till ekonomisk, miljömässig och social hållbarhet.",
+          "2. Metoder för att göra en strukturerad kartläggning och analys av den omvärld ett företag verkar i samt hur ett företag kan påverkas av förändrade förutsättningar.",
+          "3. Metoder för att välja försäljningskanaler, segment och målgrupper utifrån en kartläggning och analys av marknaden.",
+          "4. Olika organisationsformer, till exempel funktions-, divisions-, matris-, nätverks- och projektorganisation. Hur olika organisationsformer kan bidra till att nå uppsatta mål.",
+          "5. Schemaläggning, varumottagning och organisation av det dagliga arbetet i en butik.",
+          "6. Personalens och den inre organisationens betydelse för ett företags varumärke och lönsamhet samt hur personalen kan stödjas och motiveras genom intern marknadsföring.",
+          "7. Metoder för grupputveckling och konflikthantering.",
+          "8. Grundläggande teorier och begrepp inom området ledarskap.",
+          "9. Ledarens roll och uppgifter inom handeln.",
+          "10. Metoder för att utveckla självledarskap: att formulera mål, planera, prioritera och hantera stress samt strategier för att skapa motivation och drivkraft hos sig själv och andra.",
+          "11. Relevanta lagar och andra bestämmelser inom området, till exempel om arbetsrätt och arbetsmiljö.",
+          "12. Metoder för att utarbeta budget och för att göra andra ekonomiska beräkningar som är relevanta för affärsutveckling.",
+          "13. Metoder för att göra affärsmässiga riskbedömningar utifrån ekonomiska, miljömässiga och etiska aspekter.",
+          "14. Centrala nyckeltal för ett handelsföretag, däribland bruttomarginal, lageromsättningshastighet och likviditet.",
+          "15. Säkerhet och risker i handeln. Förebyggande arbete för att skapa en god arbetsmiljö och inre och yttre säkerhet."
         ]
       }
     ]
@@ -30,24 +35,22 @@
   "knowledgeRequirements": {
     "E": [
       [
-        "Eleven beskriver **översiktligt** villkoren för samt olika sätt att utveckla, organisera och leda arbetet.",
-        "Dessutom beskriver eleven **någon** aspekt på entreprenörskap och **översiktligt** villkoren för eget företagande."
+        "Eleven beskriver **översiktligt** villkoren för etablering och utveckling av ett handelsföretag samt olika sätt att utveckla, organisera och leda arbetet i ett handelsföretag.",
+        "Dessutom redogör eleven **översiktligt** för olika organisationsformer och deras funktion för att nå uppsatta mål.",
+        "Eleven beskriver även **översiktligt** olika aspekter av ledarskap samt ledarens roll och uppgifter inom handel.",
+        "I beskrivningen använder eleven **med viss säkerhet** grundläggande teorier och begrepp inom området ledarskap."
       ],
       [
-        "Eleven planerar och organiserar **i samråd** med handledare arbetsuppgifter inom affärsutveckling, ledarskap och butiksetablering.",
-        "Eleven utför dem med **tillfredsställande** resultat.",
-        "I arbetet använder eleven **med viss säkerhet** vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder."
+        "Eleven beskriver **översiktligt** olika metoder för att göra omvärldsanalyser och marknadsundersökningar samt redogör **översiktligt** för hur affärsidé och affärsstrategier kan utformas utifrån analys av marknaden.",
+        "Eleven planerar och organiserar, **i samråd** med handledare, arbetsuppgifter inom affärsutveckling.",
+        "Eleven utför dem med **tillfredsställande** resultat."
       ],
       [
-        "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
-        "Under arbetets gång utför eleven **med viss säkerhet** ekonomiska beräkningar, gör grundläggande riskbedömningar och löser, **i samråd** med handledare, problem som uppkommer.",
-        "Beräkningarna är riktigt utförda och eleven identifierar nyckeltal.",
-        "Vidare arbetar eleven miljöanpassat samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
-        "Detta gör eleven **i samråd** med handledare."
-      ],
-      [
-        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med **enkla** omdömen.",
-        "Eleven samverkar med andra och kommunicerar **med viss säkerhet** på ett kundanpassat sätt."
+        "Eleven utför arbetet utifrån givna instruktioner samt relevanta lagar och andra bestämmelser inom området.",
+        "Under arbetets gång utför eleven **med viss säkerhet** ekonomiska beräkningar och gör grundläggande affärsmässiga riskbedömningar samt löser, **i samråd** med handledare, problem som uppkommer när arbetsuppgifterna ska utföras.",
+        "Vidare arbetar eleven på ett sätt som är säkert för eleven själv samt för kunder och medarbetare.",
+        "Detta gör eleven **i samråd** med handledare.",
+        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultatet av arbetet med **enkla** omdömen."
       ],
       [
         "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
@@ -55,24 +58,22 @@
     ],
     "C": [
       [
-        "Eleven beskriver **utförligt** villkoren för samt olika sätt att utveckla, organisera och leda arbetet.",
-        "Dessutom beskriver eleven **några** aspekter på entreprenörskap och **utförligt** villkoren för eget företagande."
+        "Eleven beskriver **utförligt** villkoren för etablering och utveckling av ett handelsföretag samt olika sätt att utveckla, organisera och leda arbetet i ett handelsföretag.",
+        "Dessutom redogör eleven **utförligt** för olika organisationsformer och deras funktion för att nå uppsatta mål.",
+        "Eleven beskriver även **utförligt** olika aspekter av ledarskap samt ledarens roll och uppgifter inom handel.",
+        "I beskrivningen använder eleven **med viss säkerhet** grundläggande teorier och begrepp inom området ledarskap."
       ],
       [
-        "Eleven planerar och organiserar **efter samråd** med handledare arbetsuppgifter inom affärsutveckling, ledarskap och butiksetablering.",
-        "Eleven utför dem med **tillfredsställande** resultat.",
-        "I arbetet använder eleven **med viss säkerhet** vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder."
+        "Eleven beskriver **utförligt** olika metoder för att göra omvärldsanalyser och marknadsundersökningar samt redogör **utförligt** för hur affärsidé och affärsstrategier kan utformas utifrån analys av marknaden.",
+        "Eleven planerar och organiserar, **efter samråd** med handledare, arbetsuppgifter inom affärsutveckling.",
+        "Eleven utför dem med **tillfredsställande** resultat."
       ],
       [
-        "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
-        "Under arbetets gång utför eleven **med viss säkerhet** ekonomiska beräkningar, gör grundläggande riskbedömningar och löser, **efter samråd** med handledare, problem som uppkommer.",
-        "Beräkningarna är riktigt utförda och eleven identifierar **och förklarar** nyckeltal.",
-        "Vidare arbetar eleven miljöanpassat samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
-        "Detta gör eleven **efter samråd** med handledare."
-      ],
-      [
-        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen.",
-        "Eleven samverkar med andra och kommunicerar **med viss säkerhet** på ett kundanpassat sätt **och med korrekt fackspråk**."
+        "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser inom området.",
+        "Under arbetets gång utför eleven **med viss säkerhet** ekonomiska beräkningar och gör grundläggande affärsmässiga riskbedömningar samt löser, **efter samråd** med handledare, problem som uppkommer när arbetsuppgifterna ska utföras.",
+        "Vidare arbetar eleven på ett sätt som är säkert för eleven själv samt för kunder och medarbetare.",
+        "Detta gör eleven **efter samråd** med handledare.",
+        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultatet av arbetet med **nyanserade** omdömen."
       ],
       [
         "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
@@ -80,24 +81,22 @@
     ],
     "A": [
       [
-        "Eleven beskriver **utförligt och nyanserat** villkoren för samt olika sätt att utveckla, organisera och leda arbetet.",
-        "Dessutom beskriver eleven **flera** aspekter på entreprenörskap samt **utförligt och nyanserat** villkoren för eget företagande."
+        "Eleven beskriver **utförligt och nyanserat** villkoren för etablering och utveckling av ett handelsföretag samt olika sätt att utveckla, organisera och leda arbetet i ett handelsföretag.",
+        "Dessutom redogör eleven **utförligt och nyanserat** för olika organisationsformer och deras funktion för att nå uppsatta mål.",
+        "Eleven beskriver även **utförligt och nyanserat** olika aspekter av ledarskap samt ledarens roll och uppgifter inom handel.",
+        "I beskrivningen använder eleven **med säkerhet** grundläggande teorier och begrepp inom området ledarskap."
       ],
       [
-        "Eleven planerar och organiserar **efter samråd** med handledare arbetsuppgifter inom affärsutveckling, ledarskap och butiksetablering.",
-        "Eleven utför dem med **gott** resultat.",
-        "I arbetet använder eleven **med säkerhet** vanligt förekommande utrustning, material, redskap, tekniker och arbetsmetoder."
+        "Eleven beskriver **utförligt och nyanserat** olika metoder för att göra omvärldsanalyser och marknadsundersökningar samt redogör **utförligt och nyanserat** för hur affärsidé och affärsstrategier kan utformas utifrån analys av marknaden.",
+        "Eleven planerar och organiserar, **efter samråd** med handledare, arbetsuppgifter inom affärsutveckling.",
+        "Eleven utför dem med **gott** resultat."
       ],
       [
-        "Eleven utför arbetet utifrån givna instruktioner samt lagar och andra bestämmelser.",
-        "Under arbetets gång utför eleven **med säkerhet** ekonomiska beräkningar, gör grundläggande riskbedömningar och löser, **efter samråd** med handledare, problem som uppkommer.",
-        "Beräkningarna är riktigt utförda och eleven identifierar **och förklarar** nyckeltal.",
-        "Vidare arbetar eleven miljöanpassat samt ergonomiskt och på ett sätt som är säkert både för eleven själv och andra.",
-        "Detta gör eleven **efter samråd** med handledare."
-      ],
-      [
-        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultat med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**.",
-        "Eleven samverkar med andra och kommunicerar **med säkerhet** på ett kundanpassat sätt **och med korrekt fackspråk**."
+        "Eleven utför arbetet utifrån givna instruktioner samt relevanta lagar och andra bestämmelser inom området.",
+        "Under arbetets gång utför eleven **med säkerhet** ekonomiska beräkningar och gör grundläggande affärsmässiga riskbedömningar samt löser, **efter samråd** med handledare, problem som uppkommer när arbetsuppgifterna ska utföras.",
+        "Vidare arbetar eleven på ett sätt som är säkert för eleven själv samt för kunder och medarbetare.",
+        "Detta gör eleven **efter samråd** med handledare.",
+        "När arbetsuppgiften är utförd utvärderar eleven sitt arbete och resultatet av arbetet med **nyanserade** omdömen **samt ger förslag på hur arbetet kan förbättras**."
       ],
       [
         "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."

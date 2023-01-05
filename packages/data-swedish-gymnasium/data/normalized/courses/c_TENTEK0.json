@@ -1,0 +1,80 @@
+{
+  "name": "Teknik i vård och omsorg",
+  "code": "TENTEK0",
+  "focusAreas": {
+    "string": "Kursen teknik i vård och omsorg omfattar punkterna 1-5 under rubriken Ämnets syfte.",
+    "entries": [
+      "1-5"
+    ]
+  },
+  "centralContent": {
+    "sections": [
+      {
+        "title": "Undervisningen i kursen ska behandla följande centrala innehåll:",
+        "rows": [
+          "1. Samspel mellan människa, miljö och teknik inom vård och omsorg.",
+          "2. Teknisk utrustning i patienters och brukares dagliga livsföring, till exempel lyfthjälpmedel.",
+          "3. Teknisk utrustning för metoder och behandlingar, till exempel vid provtagning.",
+          "4. Medicintekniska informationsdatasystem (MIDS), till exempel journalsystem.",
+          "5. Grundläggande elsäkerhet.",
+          "6. Grundläggande gassäkerhet, till exempel hantering av syrgas till patienter och brukare.",
+          "7. Säkerhetsföreskrifter för teknisk utrustning inom vård och omsorg.",
+          "8. Hur man instruerar patienter och brukare, närstående och annan personal om användning av teknisk utrustning inom vård och omsorg."
+        ]
+      }
+    ]
+  },
+  "knowledgeRequirements": {
+    "E": [
+      [
+        "Eleven beskriver **översiktligt** teknisk utrustning i patienters och brukares dagliga livsföring samt hur utrustningen underlättar för dem och bidrar till ökad livskvalitet.",
+        "Eleven beskriver också **översiktligt** teknisk utrustning för metoder och behandlingar samt hur den kan användas i personalens arbete.",
+        "Dessutom beskriver eleven **översiktligt** hur medicintekniska informationsdatasystem fungerar."
+      ],
+      [
+        "Eleven redogör **översiktligt** för elsäkerhet samt för riskerna vid användning av gas."
+      ],
+      [
+        "Eleven handhar och underhåller **i samråd** med handledare teknisk utrustning, även elektrisk utrustning och gasutrustning, utifrån säkerhetsföreskrifter.",
+        "Dessutom instruerar eleven **med viss säkerhet** patienter och brukare om hur utrustningen används."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "C": [
+      [
+        "Eleven beskriver **utförligt** teknisk utrustning i patienters och brukares dagliga livsföring samt hur utrustningen underlättar för dem och bidrar till ökad livskvalitet.",
+        "Eleven beskriver också **utförligt** teknisk utrustning för metoder och behandlingar samt hur den kan användas i personalens arbete.",
+        "Dessutom beskriver eleven **utförligt** hur medicintekniska informationsdatasystem fungerar."
+      ],
+      [
+        "Eleven redogör **utförligt** för elsäkerhet samt för riskerna vid användning av gas."
+      ],
+      [
+        "Eleven handhar och underhåller **efter samråd** med handledare teknisk utrustning, även elektrisk utrustning och gasutrustning, utifrån säkerhetsföreskrifter.",
+        "Dessutom instruerar eleven **med viss säkerhet** patienter och brukare om hur utrustningen används."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med viss säkerhet** den egna förmågan och situationens krav."
+      ]
+    ],
+    "A": [
+      [
+        "Eleven beskriver **utförligt och nyanserat** teknisk utrustning i patienters och brukares dagliga livsföring samt hur utrustningen underlättar för dem och bidrar till ökad livskvalitet.",
+        "Eleven beskriver också **utförligt och nyanserat** teknisk utrustning för metoder och behandlingar samt hur den kan användas i personalens arbete.",
+        "Dessutom beskriver eleven **utförligt och nyanserat** hur medicintekniska informationsdatasystem fungerar."
+      ],
+      [
+        "Eleven redogör **utförligt och nyanserat** för elsäkerhet samt för riskerna vid användning av gas."
+      ],
+      [
+        "Eleven handhar och underhåller **efter samråd** med handledare teknisk utrustning, även elektrisk utrustning och gasutrustning, utifrån säkerhetsföreskrifter.",
+        "Dessutom instruerar eleven **med säkerhet** patienter och brukare om hur utrustningen används."
+      ],
+      [
+        "När eleven samråder med handledare bedömer hen **med säkerhet** den egna förmågan och situationens krav."
+      ]
+    ]
+  }
+}
