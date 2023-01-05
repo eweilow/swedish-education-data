@@ -9,9 +9,9 @@
   >&lt;p&gt;Ämnet mjukvarudesign behandlar hur datorprogram, webbapplikationer och andra mjukvaruapplikationer skapas. Ämnet mjukvarudesign får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.&lt;/p&gt;</description>
   <code>MJK</code>
   <status>PUBLISHED</status>
-  <version>4</version>
-  <createdDate>2017-07-07T10:02:21+02:00</createdDate>
-  <modifiedDate>2020-02-19T15:58:31+01:00</modifiedDate>
+  <version>5</version>
+  <createdDate>2022-02-23T09:38:11+01:00</createdDate>
+  <modifiedDate>2022-06-13T11:27:26+02:00</modifiedDate>
   <nameHeading>&lt;h2&gt;Mjukvarudesign&lt;/h2&gt;</nameHeading>
   <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
   <gradeScale
@@ -19,9 +19,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   />
   <purpose
-  >&lt;p&gt;Undervisningen i ämnet mjukvarudesign ska syfta till att eleverna utvecklar kunskaper om mjukvaruutvecklingens olika delar från idé, analys och kravspecifikation till modellering, implementering, testning, förbättring, kvalitetskontroll, dokumentation och distribution. Undervisningen ska leda till att eleverna utvecklar förmåga att skapa en mjukvaruprodukt enligt en etablerad metodik och enligt angivna standarder för koden. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att använda verktyg för utveckling av mjukvara, för samarbete med andra deltagare i processen samt för testning och dokumentation. Genom undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om begrepp inom området samt förmåga att kommunicera om mjukvarudesign.&lt;/p&gt;&lt;p&gt;I undervisningen ska eleverna ges möjlighet att arbeta med olika delar av mjukvarudesign i projektform.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet mjukvarudesign ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om hela livscykeln för mjukvara, från idé till produkt, samt underhåll och vidareutveckling.&lt;/li&gt; &lt;li&gt;Kunskaper om utvecklingsmetoder, kodstandarder, körmiljöer och plattformar.&lt;/li&gt; &lt;li&gt;Förmåga att samarbeta i enlighet med utvecklingsmetodik inom teknikområdet.&lt;/li&gt; &lt;li&gt;Förmåga att skapa internationaliserade applikationer och att lokalisera applikationer.&lt;/li&gt; &lt;li&gt;Förmåga att sätta upp och använda verktyg för mjukvaruutveckling.&lt;/li&gt; &lt;li&gt;Kunskaper om arbetsmiljöfrågor.&lt;/li&gt; &lt;li&gt;Kunskaper om licensfrågor och distribution av mjukvara samt om betalningsmodeller.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Mjukvarudesign, 100 poäng.&lt;/li&gt; &lt;/ol&gt;</purpose>
-  <skolfsId>2015:15</skolfsId>
-  <applianceDate>2017-05-27T00:00:00+02:00</applianceDate>
+  >&lt;p&gt;Undervisningen i ämnet mjukvarudesign ska syfta till att eleverna utvecklar kunskaper om mjukvaruutvecklingens olika delar från idé, analys och kravspecifikation till modellering, implementering, testning, förbättring, kvalitetskontroll, dokumentation och distribution. Undervisningen ska leda till att eleverna utvecklar förmåga att skapa en mjukvaruprodukt enligt en etablerad metodik och enligt angivna standarder för koden. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att använda verktyg för utveckling av mjukvara, för samarbete med andra deltagare i processen samt för testning och dokumentation. Genom undervisningen ska eleverna också ges möjlighet att utveckla kunskaper om begrepp inom området samt förmåga att kommunicera om mjukvarudesign.&lt;/p&gt;&lt;p&gt;I undervisningen ska eleverna ges möjlighet att arbeta med olika delar av mjukvarudesign i projektform.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet mjukvarudesign ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om hela livscykeln för mjukvara, från idé till produkt, samt underhåll och vidareutveckling.&lt;/li&gt; &lt;li&gt;Kunskaper om utvecklingsmetoder, kodstandarder, körmiljöer och plattformar.&lt;/li&gt; &lt;li&gt;Förmåga att samarbeta i enlighet med utvecklingsmetodik inom teknikområdet.&lt;/li&gt; &lt;li&gt;Förmåga att skapa internationaliserade applikationer och att lokalisera applikationer.&lt;/li&gt; &lt;li&gt;Förmåga att sätta upp och använda verktyg för mjukvaruutveckling.&lt;/li&gt; &lt;li&gt;Kunskaper om arbetsmiljöfrågor.&lt;/li&gt; &lt;li&gt;Kunskaper om licensfrågor och distribution av mjukvara samt om betalningsmodeller.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Mjukvarudesign, 100 poäng. &lt;/li&gt;&lt;/ul&gt;</purpose>
+  <skolfsId>2022:214</skolfsId>
+  <applianceDate>2022-07-01T00:00:00+02:00</applianceDate>
   <courses>
     <name>Mjukvarudesign</name>
     <englishName>Software design</englishName>
@@ -31,7 +31,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading>&lt;h2&gt;Mjukvarudesign, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: MJKMJU3&lt;/h3&gt;</codeHeading>
     <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -59,7 +59,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -69,7 +69,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>

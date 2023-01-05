@@ -3,9 +3,9 @@
   <name>Naturbruksprogrammet</name>
   <code>NB001</code>
   <codeExternal>NB</codeExternal>
-  <skolfsId>2010:46</skolfsId>
-  <applianceDate>2021-07-01T00:00:00+02:00</applianceDate>
-  <version>19</version>
+  <skolfsId>2020:215</skolfsId>
+  <applianceDate>2022-07-01T00:00:00+02:00</applianceDate>
+  <version>20</version>
   <status>PUBLISHED</status>
   <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
   <typeOfProgram>VOCATIONAL_PROGRAM</typeOfProgram>
@@ -781,13 +781,13 @@
       <code>FÖS</code>
       <point>100</point>
       <course>
-        <name>Personlig försäljning 1</name>
-        <code>FÖSPER01</code>
+        <name>Servicekunskap 1</name>
+        <code>FÖSSEV01</code>
         <point>100</point>
       </course>
       <course>
-        <name>Servicekunskap 1</name>
-        <code>FÖSSEV0</code>
+        <name>Personlig försäljning 1</name>
+        <code>FÖSPER01</code>
         <point>100</point>
       </course>
     </subject>
@@ -1950,7 +1950,7 @@
     </professionalDegree>
   </professionalDegrees>
   <category>VOCATIONAL_PROGRAM</category>
-  <modifiedDate>2021-10-08T00:00:00+02:00</modifiedDate>
-  <createdDate>2021-10-08T09:48:38+02:00</createdDate>
+  <modifiedDate>2022-09-13T00:00:00+02:00</modifiedDate>
+  <createdDate>2022-01-16T11:35:18+01:00</createdDate>
   <typeOfStudyPath>PROGRAM</typeOfStudyPath>
 </program>

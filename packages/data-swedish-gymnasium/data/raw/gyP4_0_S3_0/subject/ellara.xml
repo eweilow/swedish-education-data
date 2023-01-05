@@ -9,9 +9,9 @@
   >&lt;p&gt;Ämnet ellära behandlar lik- och enfasväxelströmskretsar samt trefassystem med belastningar av olika slag. Det behandlar också ledningsburna störningar och säkerhetsfrågor.&lt;/p&gt;</description>
   <code>ELL</code>
   <status>PUBLISHED</status>
-  <version>2</version>
-  <createdDate>2018-05-30T10:48:49+02:00</createdDate>
-  <modifiedDate>2020-02-19T15:51:01+01:00</modifiedDate>
+  <version>3</version>
+  <createdDate>2022-02-23T13:32:07+01:00</createdDate>
+  <modifiedDate>2022-05-27T15:23:42+02:00</modifiedDate>
   <nameHeading>&lt;h2&gt;Ellära&lt;/h2&gt;</nameHeading>
   <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
   <gradeScale
@@ -20,8 +20,8 @@
   />
   <purpose
   >&lt;p&gt;Undervisningen i ämnet ellära ska syfta till att eleverna utvecklar färdigheter i att mäta och beräkna elektriska storheter i lik- och enfasväxelströmskretsar samt i trefassystem med belastningar av olika slag. Den ska också bidra till att eleverna utvecklar förmåga att söka och avhjälpa fel i lik- och enfasväxelströmskretsar samt i trefassystem. Dessutom ska undervisningen leda till att eleverna utvecklar förståelse av hur ledningsbundna störningar uppkommer samt deras verkan på elsystemet.&lt;/p&gt; &lt;p&gt;Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om säkerhetsfrågor och om bestämmelser och standarder inom elområdet.&lt;/p&gt; &lt;p&gt;Undervisningen ska ge eleverna möjlighet att praktiskt utföra mätning och beräkning av elektriska storheter i lik- och enfasväxelströmskretsar samt i trefassystem. Den ska också bidra till att eleverna ges möjlighet att praktiskt söka och avhjälpa fel med hjälp av scheman, ritningar, mätinstrument och övrig utrustning.&lt;/p&gt; &lt;h4&gt;Undervisningen i ämnet ellära ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om elsystemets uppbyggnad och funktion.&lt;/li&gt; &lt;li&gt;Kunskaper om lik- och enfasväxelströmskretsars uppbyggnad och funktion samt färdigheter i att mäta och beräkna elektriska storheter i dessa med belastningar av olika slag.&lt;/li&gt; &lt;li&gt;Kunskaper om trefassystems uppbyggnad och funktion samt färdigheter i att mäta och beräkna elektriska storheter i dessa med belastningar av olika slag.&lt;/li&gt; &lt;li&gt;Kunskaper om uppkomsten av störningar och om deras verkan på elsystemet.&lt;/li&gt; &lt;li&gt;Förmåga att söka och avhjälpa fel i lik- och enfasväxelströmskretsar.&lt;/li&gt; &lt;li&gt;Förmåga att söka och avhjälpa fel i trefassystem.&lt;/li&gt; &lt;li&gt;Kunskaper om säkerhetsfrågor och om bestämmelser och standarder inom elområdet.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Ellära 1, 100 poäng. &lt;/li&gt; &lt;li&gt;Ellära 2, 100 poäng, som bygger på kursen ellära 1.&lt;/li&gt; &lt;li&gt;Praktisk ellära, 100 poäng. &lt;/li&gt;&lt;/ul&gt;</purpose>
-  <skolfsId>2010:154</skolfsId>
-  <applianceDate>2018-08-01T00:00:00+02:00</applianceDate>
+  <skolfsId>2022:91</skolfsId>
+  <applianceDate>2022-07-01T00:00:00+02:00</applianceDate>
   <courses>
     <name>Ellära 1</name>
     <englishName>Electricity theory 1</englishName>
@@ -31,7 +31,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading>&lt;h2&gt;Ellära 1, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: ELLELL01&lt;/h3&gt;</codeHeading>
     <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -59,7 +59,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -69,7 +69,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -92,7 +92,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading>&lt;h2&gt;Ellära 2, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: ELLELL02&lt;/h3&gt;</codeHeading>
     <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -120,7 +120,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -130,7 +130,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -153,7 +153,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading>&lt;h2&gt;Praktisk ellära, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: ELLPRA0&lt;/h3&gt;</codeHeading>
     <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -181,7 +181,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -191,7 +191,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>

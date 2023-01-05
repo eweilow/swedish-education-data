@@ -9,9 +9,9 @@
   >&lt;p&gt;Ämnet manuell mönsterkonstruktion behandlar konstruktion av mönster, vilket är en förutsättning för tillverkning av kläder. Vid konstruktion av mönster krävs ett helhetstänkande där nyttoaspekter förenas med känsla för material, form och funktion. Ämnet har även ett kreativt inslag och behandlar hur man omsätter kreativa idéer i färdiga mönster.&lt;/p&gt;</description>
   <code>MNU</code>
   <status>PUBLISHED</status>
-  <version>1</version>
-  <createdDate>2014-10-16T10:05:02+02:00</createdDate>
-  <modifiedDate>2020-02-19T15:58:35+01:00</modifiedDate>
+  <version>2</version>
+  <createdDate>2022-02-23T10:08:28+01:00</createdDate>
+  <modifiedDate>2022-06-13T09:35:18+02:00</modifiedDate>
   <nameHeading>&lt;h2&gt;Manuell mönsterkonstruktion&lt;/h2&gt;</nameHeading>
   <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
   <gradeScale
@@ -19,9 +19,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   />
   <purpose
-  >&lt;p&gt;Undervisningen i ämnet manuell mönsterkonstruktion ska syfta till att eleverna utvecklar kunskaper om och färdigheter i mönsterhantering och att konstruera mönster. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att uppfatta människors olika kroppsformer och sätt att röra sig samt förmåga att se sambandet mellan mönsterframställning och kroppens form. Eleverna ska ges möjlighet att utveckla färdigheter i att skapa mönster till plagg som uppfyller krav på passform och funktion. Praktiska övningar och användning av manualer ska ingå i undervisningen för att eleverna ska ges möjlighet att utveckla sin förmåga att konstruera och förändra mönster.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet manuell mönsterkonstruktion ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om och färdigheter i att konstruera och förändra mönster.&lt;/li&gt; &lt;li&gt;Förståelse av och färdigheter i att använda fackspråk.&lt;/li&gt; &lt;li&gt;Färdigheter i att arbeta ergonomiskt och med hänsyn till miljö, arbetsmiljö och säkerhet.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Mönsterkonstruktion 1, 100 poäng.&lt;/li&gt; &lt;li&gt;Mönsterkonstruktion 2, 100 poäng, som bygger på kursen mönsterkonstruktion 1.&lt;/li&gt; &lt;/ol&gt;</purpose>
-  <skolfsId>2014:65</skolfsId>
-  <applianceDate>2014-10-06T00:00:00+02:00</applianceDate>
+  >&lt;p&gt;Undervisningen i ämnet manuell mönsterkonstruktion ska syfta till att eleverna utvecklar kunskaper om och färdigheter i mönsterhantering och att konstruera mönster. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att uppfatta människors olika kroppsformer och sätt att röra sig samt förmåga att se sambandet mellan mönsterframställning och kroppens form. Eleverna ska ges möjlighet att utveckla färdigheter i att skapa mönster till plagg som uppfyller krav på passform och funktion. Praktiska övningar och användning av manualer ska ingå i undervisningen för att eleverna ska ges möjlighet att utveckla sin förmåga att konstruera och förändra mönster.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet manuell mönsterkonstruktion ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om och färdigheter i att konstruera och förändra mönster.&lt;/li&gt; &lt;li&gt;Förståelse av och färdigheter i att använda fackspråk.&lt;/li&gt; &lt;li&gt;Färdigheter i att arbeta ergonomiskt och med hänsyn till miljö, arbetsmiljö och säkerhet.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Mönsterkonstruktion 1, 100 poäng. &lt;/li&gt; &lt;li&gt;Mönsterkonstruktion 2, 100 poäng, som bygger på kursen mönsterkonstruktion 1.&lt;/li&gt;&lt;/ul&gt;</purpose>
+  <skolfsId>2022:199</skolfsId>
+  <applianceDate>2022-07-01T00:00:00+02:00</applianceDate>
   <courses>
     <name>Mönsterkonstruktion 1</name>
     <englishName>Pattern making 1</englishName>
@@ -31,7 +31,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Mönsterkonstruktion 1, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: MNUMON01&lt;/h3&gt;</codeHeading>
@@ -60,7 +60,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -70,7 +70,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -93,7 +93,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Mönsterkonstruktion 2, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: MNUMON02&lt;/h3&gt;</codeHeading>
@@ -122,7 +122,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -132,7 +132,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>

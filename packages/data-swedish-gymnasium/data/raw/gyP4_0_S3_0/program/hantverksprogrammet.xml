@@ -3,9 +3,9 @@
   <name>Hantverksprogrammet</name>
   <code>HV001</code>
   <codeExternal>HV</codeExternal>
-  <skolfsId>0000:00</skolfsId>
-  <applianceDate>2021-07-01T00:00:00+02:00</applianceDate>
-  <version>15</version>
+  <skolfsId>2022:1</skolfsId>
+  <applianceDate>2022-07-01T00:00:00+02:00</applianceDate>
+  <version>18</version>
   <status>PUBLISHED</status>
   <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
   <typeOfProgram>VOCATIONAL_PROGRAM</typeOfProgram>
@@ -557,6 +557,11 @@
       <code>FÖS</code>
       <point>100</point>
       <course>
+        <name>Servicekunskap 1</name>
+        <code>FÖSSEV01</code>
+        <point>100</point>
+      </course>
+      <course>
         <name>Personlig försäljning 1</name>
         <code>FÖSPER01</code>
         <point>100</point>
@@ -564,11 +569,6 @@
       <course>
         <name>Personlig försäljning 2</name>
         <code>FÖSPER02</code>
-        <point>100</point>
-      </course>
-      <course>
-        <name>Servicekunskap</name>
-        <code>FÖSSEV0</code>
         <point>100</point>
       </course>
     </subject>
@@ -629,9 +629,19 @@
         <point>200</point>
       </course>
       <course>
+        <name>Finsnickeri 4 – specialisering</name>
+        <code>HAVFIN04S</code>
+        <point>50</point>
+      </course>
+      <course>
         <name>Finsnickeri 5</name>
         <code>HAVFIN05</code>
         <point>200</point>
+      </course>
+      <course>
+        <name>Finsnickeri 5 – specialisering</name>
+        <code>HAVFIN05S</code>
+        <point>50</point>
       </course>
       <course>
         <name>Finsnickeri 6a</name>
@@ -641,16 +651,6 @@
       <course>
         <name>Finsnickeri 6b</name>
         <code>HAVFIN06b</code>
-        <point>50</point>
-      </course>
-      <course>
-        <name>Finsnickeri 4 – specialisering</name>
-        <code>HAVFIN04S</code>
-        <point>50</point>
-      </course>
-      <course>
-        <name>Finsnickeri 5 – specialisering</name>
-        <code>HAVFIN05S</code>
         <point>50</point>
       </course>
       <course>
@@ -664,9 +664,19 @@
         <point>200</point>
       </course>
       <course>
+        <name>Florist 4 – specialisering</name>
+        <code>HAVFLO04S</code>
+        <point>50</point>
+      </course>
+      <course>
         <name>Florist 5</name>
         <code>HAVFLO05</code>
         <point>200</point>
+      </course>
+      <course>
+        <name>Florist 5 – specialisering</name>
+        <code>HAVFLO05S</code>
+        <point>50</point>
       </course>
       <course>
         <name>Florist 6a</name>
@@ -676,16 +686,6 @@
       <course>
         <name>Florist 6b</name>
         <code>HAVFLO06b</code>
-        <point>50</point>
-      </course>
-      <course>
-        <name>Florist 4 – specialisering</name>
-        <code>HAVFLO04S</code>
-        <point>50</point>
-      </course>
-      <course>
-        <name>Florist 5 – specialisering</name>
-        <code>HAVFLO05S</code>
         <point>50</point>
       </course>
       <course>
@@ -704,9 +704,19 @@
         <point>200</point>
       </course>
       <course>
+        <name>Frisör 4 – specialisering</name>
+        <code>HAVFRI04S</code>
+        <point>50</point>
+      </course>
+      <course>
         <name>Frisör 5</name>
         <code>HAVFRI05</code>
         <point>200</point>
+      </course>
+      <course>
+        <name>Frisör 5 – specialisering</name>
+        <code>HAVFRI05S</code>
+        <point>50</point>
       </course>
       <course>
         <name>Frisör 6a</name>
@@ -716,16 +726,6 @@
       <course>
         <name>Frisör 6b</name>
         <code>HAVFRI06b</code>
-        <point>50</point>
-      </course>
-      <course>
-        <name>Frisör 4 – specialisering</name>
-        <code>HAVFRI04S</code>
-        <point>50</point>
-      </course>
-      <course>
-        <name>Frisör 5 – specialisering</name>
-        <code>HAVFRI05S</code>
         <point>50</point>
       </course>
       <course>
@@ -744,6 +744,11 @@
         <point>200</point>
       </course>
       <course>
+        <name>Hår- och makeupstylist 5</name>
+        <code>HAVHAR05</code>
+        <point>200</point>
+      </course>
+      <course>
         <name>Textil design 3</name>
         <code>HAVTEX03</code>
         <point>200</point>
@@ -754,9 +759,19 @@
         <point>200</point>
       </course>
       <course>
+        <name>Textil design 4 – specialisering</name>
+        <code>HAVTEX04S</code>
+        <point>50</point>
+      </course>
+      <course>
         <name>Textil design 5</name>
         <code>HAVTEX05</code>
         <point>200</point>
+      </course>
+      <course>
+        <name>Textil design 5 – specialisering</name>
+        <code>HAVTEX05S</code>
+        <point>50</point>
       </course>
       <course>
         <name>Textil design 6a</name>
@@ -766,16 +781,6 @@
       <course>
         <name>Textil design 6b</name>
         <code>HAVTEX06b</code>
-        <point>50</point>
-      </course>
-      <course>
-        <name>Textil design 4 – specialisering</name>
-        <code>HAVTEX04S</code>
-        <point>50</point>
-      </course>
-      <course>
-        <name>Textil design 5 – specialisering</name>
-        <code>HAVTEX05S</code>
         <point>50</point>
       </course>
       <course>
@@ -789,9 +794,19 @@
         <point>200</point>
       </course>
       <course>
+        <name>Hantverksteknik 4 – specialisering</name>
+        <code>HAVHNT04S</code>
+        <point>50</point>
+      </course>
+      <course>
         <name>Hantverksteknik 5</name>
         <code>HAVHNT05</code>
         <point>200</point>
+      </course>
+      <course>
+        <name>Hantverksteknik 5 – specialisering</name>
+        <code>HAVHNT05S</code>
+        <point>50</point>
       </course>
       <course>
         <name>Hantverksteknik 6a</name>
@@ -801,16 +816,6 @@
       <course>
         <name>Hantverksteknik 6b</name>
         <code>HAVHNT06b</code>
-        <point>50</point>
-      </course>
-      <course>
-        <name>Hantverksteknik 4 – specialisering</name>
-        <code>HAVHNT04S</code>
-        <point>50</point>
-      </course>
-      <course>
-        <name>Hantverksteknik 5 – specialisering</name>
-        <code>HAVHNT05S</code>
         <point>50</point>
       </course>
     </subject>
@@ -1091,11 +1096,6 @@
         <code>HAV</code>
         <point>200</point>
         <course>
-          <name>Hantverk – introduktion</name>
-          <code>HAVHAV0</code>
-          <point>200</point>
-        </course>
-        <course>
           <name>Finsnickeri 3</name>
           <code>HAVFIN03</code>
           <point>200</point>
@@ -1127,14 +1127,14 @@
           <point>200</point>
         </course>
         <course>
-          <name>Hantverksteknik 5</name>
-          <code>HAVHNT05</code>
-          <point>200</point>
-        </course>
-        <course>
           <name>Hantverksteknik 4 – specialisering</name>
           <code>HAVHNT04S</code>
           <point>50</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 5</name>
+          <code>HAVHNT05</code>
+          <point>200</point>
         </course>
         <course>
           <name>Hantverksteknik 5 – specialisering</name>
@@ -1316,14 +1316,14 @@
           <point>200</point>
         </course>
         <course>
-          <name>Hantverksteknik 5</name>
-          <code>HAVHNT05</code>
-          <point>200</point>
-        </course>
-        <course>
           <name>Hantverksteknik 4 – specialisering</name>
           <code>HAVHNT04S</code>
           <point>50</point>
+        </course>
+        <course>
+          <name>Hantverksteknik 5</name>
+          <code>HAVHNT05</code>
+          <point>200</point>
         </course>
       </subject>
       <programOrientationCode>HVXXX</programOrientationCode>
@@ -1342,6 +1342,11 @@
           <point>50</point>
         </course>
         <course>
+          <name>Hår- och makeupstylist 2</name>
+          <code>HAVHAR02</code>
+          <point>200</point>
+        </course>
+        <course>
           <name>Hår- och makeupstylist 3</name>
           <code>HAVHAR03</code>
           <point>200</point>
@@ -1352,8 +1357,39 @@
           <point>200</point>
         </course>
       </subject>
-      <programOrientationCode>HVXXX</programOrientationCode>
+      <programOrientationCode>HVFRS</programOrientationCode>
       <name>Hår- och makeupstylist</name>
+      <profSpecialization />
+    </professionalDegree>
+    <professionalDegree>
+      <subject>
+        <optional>false</optional>
+        <name>Hantverk</name>
+        <code>HAV</code>
+        <point>200</point>
+        <course>
+          <name>Hår- och makeupstylist 2</name>
+          <code>HAVHAR02</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hår- och makeupstylist 3</name>
+          <code>HAVHAR03</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hår- och makeupstylist 4</name>
+          <code>HAVHAR04</code>
+          <point>200</point>
+        </course>
+        <course>
+          <name>Hår- och makeupstylist 5</name>
+          <code>HAVHAR05</code>
+          <point>200</point>
+        </course>
+      </subject>
+      <programOrientationCode>HVFRS</programOrientationCode>
+      <name>Hårstylist och makeupartist</name>
       <profSpecialization />
     </professionalDegree>
     <professionalDegree>
@@ -1935,7 +1971,7 @@
     </professionalDegree>
   </professionalDegrees>
   <category>VOCATIONAL_PROGRAM</category>
-  <modifiedDate>2021-05-21T00:00:00+02:00</modifiedDate>
-  <createdDate>2019-12-16T09:55:22+01:00</createdDate>
+  <modifiedDate>2022-09-16T00:00:00+02:00</modifiedDate>
+  <createdDate>2022-09-16T08:32:39+02:00</createdDate>
   <typeOfStudyPath>PROGRAM</typeOfStudyPath>
 </program>

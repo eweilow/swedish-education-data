@@ -232,13 +232,13 @@
         <code>HAN</code>
         <point>100</point>
         <course>
-          <name>Affärsutveckling och ledarskap</name>
-          <code>HANAFR0</code>
+          <name>Praktisk marknadsföring 1</name>
+          <code>HANPRA01</code>
           <point>100</point>
         </course>
         <course>
-          <name>Praktisk marknadsföring 1</name>
-          <code>HANPRA01</code>
+          <name>Affärsutveckling och ledarskap</name>
+          <code>HANAFR0</code>
           <point>100</point>
         </course>
       </subject>
@@ -460,11 +460,6 @@
       <code>HAN</code>
       <point>100</point>
       <course>
-        <name>Handel – specialisering</name>
-        <code>HANHAN00S</code>
-        <point>100</point>
-      </course>
-      <course>
         <name>Praktisk marknadsföring 1</name>
         <code>HANPRA01</code>
         <point>100</point>
@@ -472,6 +467,11 @@
       <course>
         <name>Praktisk marknadsföring 2</name>
         <code>HANPRA02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Handel – specialisering</name>
+        <code>HANHAN00S</code>
         <point>100</point>
       </course>
       <course>
@@ -821,13 +821,13 @@
         <code>HAN</code>
         <point>100</point>
         <course>
-          <name>Handel – specialisering</name>
-          <code>HANHAN00S</code>
+          <name>Praktisk marknadsföring 2</name>
+          <code>HANPRA02</code>
           <point>100</point>
         </course>
         <course>
-          <name>Praktisk marknadsföring 2</name>
-          <code>HANPRA02</code>
+          <name>Handel – specialisering</name>
+          <code>HANHAN00S</code>
           <point>100</point>
         </course>
       </subject>

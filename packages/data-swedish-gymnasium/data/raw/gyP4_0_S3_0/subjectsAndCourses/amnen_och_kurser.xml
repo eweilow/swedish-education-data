@@ -1923,8 +1923,13 @@
     <code>FÖS</code>
     <name>Försäljning och kundservice</name>
     <courses>
-      <code>FÖSSEV0</code>
-      <name>Servicekunskap</name>
+      <code>FÖSSEV01</code>
+      <name>Servicekunskap 1</name>
+      <point>100</point>
+    </courses>
+    <courses>
+      <code>FÖSSER02</code>
+      <name>Servicekunskap 2</name>
       <point>100</point>
     </courses>
     <courses>
@@ -1935,16 +1940,6 @@
     <courses>
       <code>FÖSPER02</code>
       <name>Personlig försäljning 2</name>
-      <point>100</point>
-    </courses>
-    <courses>
-      <code>FÖSPER03</code>
-      <name>Personlig försäljning 3</name>
-      <point>100</point>
-    </courses>
-    <courses>
-      <code>FÖSTEL0</code>
-      <name>Telefon- och internetservice</name>
       <point>100</point>
     </courses>
   </subject>
@@ -2160,11 +2155,6 @@
     <code>HAN</code>
     <name>Handel</name>
     <courses>
-      <code>HANBRS0</code>
-      <name>Branschkunskap inom handel och administration</name>
-      <point>100</point>
-    </courses>
-    <courses>
       <code>HANPRA01</code>
       <name>Praktisk marknadsföring 1</name>
       <point>100</point>
@@ -2175,11 +2165,6 @@
       <point>100</point>
     </courses>
     <courses>
-      <code>HANPRA03</code>
-      <name>Praktisk marknadsföring 3</name>
-      <point>100</point>
-    </courses>
-    <courses>
       <code>HANAFR0</code>
       <name>Affärsutveckling och ledarskap</name>
       <point>100</point>
@@ -2187,6 +2172,16 @@
     <courses>
       <code>HANHAN00S</code>
       <name>Handel – specialisering</name>
+      <point>100</point>
+    </courses>
+    <courses>
+      <code>HANBRA0</code>
+      <name>Branschkunskap inom handel</name>
+      <point>100</point>
+    </courses>
+    <courses>
+      <code>HANHAN0</code>
+      <name>Handel och hållbar utveckling</name>
       <point>100</point>
     </courses>
   </subject>
@@ -2249,9 +2244,19 @@
       <point>200</point>
     </courses>
     <courses>
+      <code>HAVFIN04S</code>
+      <name>Finsnickeri 4 – specialisering</name>
+      <point>50</point>
+    </courses>
+    <courses>
       <code>HAVFIN05</code>
       <name>Finsnickeri 5</name>
       <point>200</point>
+    </courses>
+    <courses>
+      <code>HAVFIN05S</code>
+      <name>Finsnickeri 5 – specialisering</name>
+      <point>50</point>
     </courses>
     <courses>
       <code>HAVFIN06a</code>
@@ -2261,16 +2266,6 @@
     <courses>
       <code>HAVFIN06b</code>
       <name>Finsnickeri 6b</name>
-      <point>50</point>
-    </courses>
-    <courses>
-      <code>HAVFIN04S</code>
-      <name>Finsnickeri 4 – specialisering</name>
-      <point>50</point>
-    </courses>
-    <courses>
-      <code>HAVFIN05S</code>
-      <name>Finsnickeri 5 – specialisering</name>
       <point>50</point>
     </courses>
     <courses>
@@ -2294,9 +2289,19 @@
       <point>200</point>
     </courses>
     <courses>
+      <code>HAVFLO04S</code>
+      <name>Florist 4 – specialisering</name>
+      <point>50</point>
+    </courses>
+    <courses>
       <code>HAVFLO05</code>
       <name>Florist 5</name>
       <point>200</point>
+    </courses>
+    <courses>
+      <code>HAVFLO05S</code>
+      <name>Florist 5 – specialisering</name>
+      <point>50</point>
     </courses>
     <courses>
       <code>HAVFLO06a</code>
@@ -2306,16 +2311,6 @@
     <courses>
       <code>HAVFLO06b</code>
       <name>Florist 6b</name>
-      <point>50</point>
-    </courses>
-    <courses>
-      <code>HAVFLO04S</code>
-      <name>Florist 4 – specialisering</name>
-      <point>50</point>
-    </courses>
-    <courses>
-      <code>HAVFLO05S</code>
-      <name>Florist 5 – specialisering</name>
       <point>50</point>
     </courses>
     <courses>
@@ -2339,9 +2334,19 @@
       <point>200</point>
     </courses>
     <courses>
+      <code>HAVFRI04S</code>
+      <name>Frisör 4 – specialisering</name>
+      <point>50</point>
+    </courses>
+    <courses>
       <code>HAVFRI05</code>
       <name>Frisör 5</name>
       <point>200</point>
+    </courses>
+    <courses>
+      <code>HAVFRI05S</code>
+      <name>Frisör 5 – specialisering</name>
+      <point>50</point>
     </courses>
     <courses>
       <code>HAVFRI06a</code>
@@ -2351,16 +2356,6 @@
     <courses>
       <code>HAVFRI06b</code>
       <name>Frisör 6b</name>
-      <point>50</point>
-    </courses>
-    <courses>
-      <code>HAVFRI04S</code>
-      <name>Frisör 4 – specialisering</name>
-      <point>50</point>
-    </courses>
-    <courses>
-      <code>HAVFRI05S</code>
-      <name>Frisör 5 – specialisering</name>
       <point>50</point>
     </courses>
     <courses>
@@ -2376,6 +2371,11 @@
     <courses>
       <code>HAVHAR04</code>
       <name>Hår- och makeupstylist 4</name>
+      <point>200</point>
+    </courses>
+    <courses>
+      <code>HAVHAR05</code>
+      <name>Hår- och makeupstylist 5</name>
       <point>200</point>
     </courses>
     <courses>
@@ -2399,9 +2399,19 @@
       <point>200</point>
     </courses>
     <courses>
+      <code>HAVTEX04S</code>
+      <name>Textil design 4 – specialisering</name>
+      <point>50</point>
+    </courses>
+    <courses>
       <code>HAVTEX05</code>
       <name>Textil design 5</name>
       <point>200</point>
+    </courses>
+    <courses>
+      <code>HAVTEX05S</code>
+      <name>Textil design 5 – specialisering</name>
+      <point>50</point>
     </courses>
     <courses>
       <code>HAVTEX06a</code>
@@ -2411,16 +2421,6 @@
     <courses>
       <code>HAVTEX06b</code>
       <name>Textil design 6b</name>
-      <point>50</point>
-    </courses>
-    <courses>
-      <code>HAVTEX04S</code>
-      <name>Textil design 4 – specialisering</name>
-      <point>50</point>
-    </courses>
-    <courses>
-      <code>HAVTEX05S</code>
-      <name>Textil design 5 – specialisering</name>
       <point>50</point>
     </courses>
     <courses>
@@ -2444,9 +2444,19 @@
       <point>200</point>
     </courses>
     <courses>
+      <code>HAVHNT04S</code>
+      <name>Hantverksteknik 4 – specialisering</name>
+      <point>50</point>
+    </courses>
+    <courses>
       <code>HAVHNT05</code>
       <name>Hantverksteknik 5</name>
       <point>200</point>
+    </courses>
+    <courses>
+      <code>HAVHNT05S</code>
+      <name>Hantverksteknik 5 – specialisering</name>
+      <point>50</point>
     </courses>
     <courses>
       <code>HAVHNT06a</code>
@@ -2456,16 +2466,6 @@
     <courses>
       <code>HAVHNT06b</code>
       <name>Hantverksteknik 6b</name>
-      <point>50</point>
-    </courses>
-    <courses>
-      <code>HAVHNT04S</code>
-      <name>Hantverksteknik 4 – specialisering</name>
-      <point>50</point>
-    </courses>
-    <courses>
-      <code>HAVHNT05S</code>
-      <name>Hantverksteknik 5 – specialisering</name>
       <point>50</point>
     </courses>
   </subject>
@@ -2979,16 +2979,6 @@
       <name>Information och kommunikation 2</name>
       <point>100</point>
     </courses>
-    <courses>
-      <code>INFINE0</code>
-      <name>Intern och extern kommunikation</name>
-      <point>100</point>
-    </courses>
-    <courses>
-      <code>INFPRG0</code>
-      <name>Programhantering</name>
-      <point>100</point>
-    </courses>
   </subject>
   <subject>
     <code>INA</code>
@@ -3069,6 +3059,15 @@
     <courses>
       <code>INSKOM03</code>
       <name>Kommunikationsnät 3</name>
+      <point>100</point>
+    </courses>
+  </subject>
+  <subject>
+    <code>ITI</code>
+    <name>It i vård och omsorg</name>
+    <courses>
+      <code>ITIITI0</code>
+      <name>It i vård och omsorg</name>
       <point>100</point>
     </courses>
   </subject>
@@ -6063,6 +6062,15 @@
     </courses>
   </subject>
   <subject>
+    <code>TEN</code>
+    <name>Teknik i vård och omsorg</name>
+    <courses>
+      <code>TENTEK0</code>
+      <name>Teknik i vård och omsorg</name>
+      <point>100</point>
+    </courses>
+  </subject>
+  <subject>
     <code>TEI</code>
     <name>Teknisk isolering</name>
     <courses>
@@ -6646,7 +6654,7 @@
     <name>Vård och omsorg specialisering</name>
     <courses>
       <code>VADVAD00S</code>
-      <name>Vård och omsorg specialisering</name>
+      <name>Vård och omsorg – specialisering</name>
       <point>100</point>
     </courses>
   </subject>

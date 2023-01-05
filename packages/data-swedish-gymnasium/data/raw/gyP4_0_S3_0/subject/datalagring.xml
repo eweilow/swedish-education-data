@@ -9,9 +9,9 @@
   >&lt;p&gt;Ämnet datalagring behandlar hur lösningar för datalagring designas och hur det är möjligt att effektivt komma åt lagrad data från mjukvaruapplikationer. Ämnet datalagring får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.&lt;/p&gt;</description>
   <code>DAA</code>
   <status>PUBLISHED</status>
-  <version>3</version>
-  <createdDate>2017-07-07T10:02:10+02:00</createdDate>
-  <modifiedDate>2020-02-19T15:50:13+01:00</modifiedDate>
+  <version>4</version>
+  <createdDate>2022-02-23T13:19:43+01:00</createdDate>
+  <modifiedDate>2022-05-25T19:20:21+02:00</modifiedDate>
   <nameHeading>&lt;h2&gt;Datalagring&lt;/h2&gt;</nameHeading>
   <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
   <gradeScale
@@ -19,9 +19,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   />
   <purpose
-  >&lt;p&gt;Undervisningen i ämnet datalagring ska syfta till att eleverna utvecklar kunskaper om olika former av datalagring, främst med databashanterare av olika slag. Genom undervisningen ska eleverna ges möjlighet att utveckla förståelse av olika datamodeller och förmåga att använda dem för att implementera datalagring.&lt;/p&gt;&lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om flera aspekter av datalagring, främst funktionalitet, prestanda, skalbarhet och säkerhet. Undervisningen ska också leda till att eleverna utvecklar förmåga att hantera lagrad data ansvarsfullt, säkert och med hänsyn till lagstiftning och personlig integritet.&lt;/p&gt;&lt;p&gt;Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om begrepp inom området samt förmåga att kommunicera om datalagring.&lt;/p&gt;&lt;p&gt;Eleverna ska ges möjlighet att utveckla förmåga att skapa system för lagring och åtkomst av data. Undervisningen ska leda till att eleverna utvecklar förmåga att skapa ändamålsenliga datalagringslösningar genom att genomföra utvecklingsprojekt.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet datalagring ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om olika datamodeller, datalagringslösningar och databastyper samt om deras användningsområden och om vanligt förekommande produkter inom området.&lt;/li&gt; &lt;li&gt;Kunskaper om begreppsbildning och terminologi inom området.&lt;/li&gt; &lt;li&gt;Kunskaper om datalagring i datafiler.&lt;/li&gt; &lt;li&gt;Kunskaper om relationsdatabaser och andra typer av databaser.&lt;/li&gt; &lt;li&gt;Förmåga att skapa datamodeller och en fungerande struktur för datalagring.&lt;/li&gt; &lt;li&gt;Förmåga att skapa, använda, felsöka och optimera datalagring samt att använda olika verktyg för detta.&lt;/li&gt; &lt;li&gt;Förmåga att använda ramverk, gränssnitt och frågespråk för att komma åt lagrad data.&lt;/li&gt; &lt;li&gt;Kunskaper om säkerhet samt lagar och andra bestämmelser inom området.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Datalagring, 100 poäng.&lt;/li&gt; &lt;/ol&gt;</purpose>
-  <skolfsId>2015:12</skolfsId>
-  <applianceDate>2017-06-21T00:00:00+02:00</applianceDate>
+  >&lt;p&gt;Undervisningen i ämnet datalagring ska syfta till att eleverna utvecklar kunskaper om olika former av datalagring, främst med databashanterare av olika slag. Genom undervisningen ska eleverna ges möjlighet att utveckla förståelse av olika datamodeller och förmåga att använda dem för att implementera datalagring.&lt;/p&gt;&lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om flera aspekter av datalagring, främst funktionalitet, prestanda, skalbarhet och säkerhet. Undervisningen ska också leda till att eleverna utvecklar förmåga att hantera lagrad data ansvarsfullt, säkert och med hänsyn till lagstiftning och personlig integritet.&lt;/p&gt;&lt;p&gt;Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om begrepp inom området samt förmåga att kommunicera om datalagring.&lt;/p&gt;&lt;p&gt;Eleverna ska ges möjlighet att utveckla förmåga att skapa system för lagring och åtkomst av data. Undervisningen ska leda till att eleverna utvecklar förmåga att skapa ändamålsenliga datalagringslösningar genom att genomföra utvecklingsprojekt.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet datalagring ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om olika datamodeller, datalagringslösningar och databastyper samt om deras användningsområden och om vanligt förekommande produkter inom området.&lt;/li&gt; &lt;li&gt;Kunskaper om begreppsbildning och terminologi inom området.&lt;/li&gt; &lt;li&gt;Kunskaper om datalagring i datafiler.&lt;/li&gt; &lt;li&gt;Kunskaper om relationsdatabaser och andra typer av databaser.&lt;/li&gt; &lt;li&gt;Förmåga att skapa datamodeller och en fungerande struktur för datalagring.&lt;/li&gt; &lt;li&gt;Förmåga att skapa, använda, felsöka och optimera datalagring samt att använda olika verktyg för detta.&lt;/li&gt; &lt;li&gt;Förmåga att använda ramverk, gränssnitt och frågespråk för att komma åt lagrad data.&lt;/li&gt; &lt;li&gt;Kunskaper om säkerhet samt lagar och andra bestämmelser inom området.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Datalagring, 100 poäng. &lt;/li&gt;&lt;/ul&gt;</purpose>
+  <skolfsId>2022:67</skolfsId>
+  <applianceDate>2022-07-01T00:00:00+02:00</applianceDate>
   <courses>
     <name>Datalagring</name>
     <englishName>Data storage</englishName>
@@ -31,7 +31,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading>&lt;h2&gt;Datalagring, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: DAADAT3&lt;/h3&gt;</codeHeading>
     <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -59,7 +59,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -69,7 +69,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>

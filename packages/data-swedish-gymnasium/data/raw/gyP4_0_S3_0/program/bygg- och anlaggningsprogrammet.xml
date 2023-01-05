@@ -3,9 +3,9 @@
   <name>Bygg- och anläggningsprogrammet</name>
   <code>BA001</code>
   <codeExternal>BA</codeExternal>
-  <skolfsId>2010:39</skolfsId>
-  <applianceDate>2018-08-01T00:00:00+02:00</applianceDate>
-  <version>11</version>
+  <skolfsId>2020:210</skolfsId>
+  <applianceDate>2022-07-01T00:00:00+02:00</applianceDate>
+  <version>12</version>
   <status>PUBLISHED</status>
   <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
   <typeOfProgram>VOCATIONAL_PROGRAM</typeOfProgram>
@@ -134,7 +134,7 @@
         <optional>false</optional>
         <name>Anläggningsförare</name>
         <code>ANA</code>
-        <point>100</point>
+        <point>200</point>
         <course>
           <name>Anläggningsförare 1</name>
           <code>ANAANA01</code>
@@ -172,7 +172,7 @@
         <optional>false</optional>
         <name>Husbyggnad</name>
         <code>HUS</code>
-        <point>100</point>
+        <point>200</point>
         <course>
           <name>Husbyggnadsprocessen</name>
           <code>HUSHUB0</code>
@@ -256,7 +256,7 @@
         <optional>false</optional>
         <name>Plåtslageri</name>
         <code>PLÅ</code>
-        <point>100</point>
+        <point>200</point>
         <course>
           <name>Plåtslageriprocessen</name>
           <code>PLÅPLS0</code>
@@ -349,7 +349,7 @@
       <optional>false</optional>
       <name>Beläggning</name>
       <code>BEL</code>
-      <point>100</point>
+      <point>200</point>
       <course>
         <name>Beläggning</name>
         <code>BELBEL0</code>
@@ -496,9 +496,25 @@
     </subject>
     <subject>
       <optional>false</optional>
+      <name>Försäljning och kundservice</name>
+      <code>FÖS</code>
+      <point>100</point>
+      <course>
+        <name>Servicekunskap 1</name>
+        <code>FÖSSEV01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Personlig försäljning 1</name>
+        <code>FÖSPER01</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
       <name>Golvläggning</name>
       <code>GOL</code>
-      <point>200</point>
+      <point>100</point>
       <course>
         <name>Golvläggning 1</name>
         <code>GOLGOL01</code>
@@ -577,7 +593,7 @@
       <optional>false</optional>
       <name>Järnvägsbyggnad</name>
       <code>JÄR</code>
-      <point>200</point>
+      <point>100</point>
       <course>
         <name>Järnvägsbyggnad 1</name>
         <code>JÄRJÄR01</code>
@@ -1119,7 +1135,7 @@
         <optional>false</optional>
         <name>Husbyggnad – specialyrken</name>
         <code>HUB</code>
-        <point>200</point>
+        <point>100</point>
         <course>
           <name>Specialyrken 1</name>
           <code>HUBSPC01S</code>
@@ -1145,7 +1161,7 @@
         <optional>false</optional>
         <name>Golvläggning</name>
         <code>GOL</code>
-        <point>200</point>
+        <point>100</point>
         <course>
           <name>Golvläggning 1</name>
           <code>GOLGOL01</code>
@@ -1171,7 +1187,7 @@
         <optional>false</optional>
         <name>Husbyggnad – specialyrken</name>
         <code>HUB</code>
-        <point>200</point>
+        <point>100</point>
         <course>
           <name>Specialyrken 1</name>
           <code>HUBSPC01S</code>
@@ -1192,7 +1208,7 @@
         <optional>false</optional>
         <name>Järnvägsbyggnad</name>
         <code>JÄR</code>
-        <point>200</point>
+        <point>100</point>
         <course>
           <name>Järnvägsbyggnad 1</name>
           <code>JÄRJÄR01</code>
@@ -1255,7 +1271,7 @@
         <optional>false</optional>
         <name>Husbyggnad – specialyrken</name>
         <code>HUB</code>
-        <point>200</point>
+        <point>100</point>
         <course>
           <name>Specialyrken 1</name>
           <code>HUBSPC01S</code>
@@ -1276,7 +1292,7 @@
         <optional>false</optional>
         <name>Husbyggnad – specialyrken</name>
         <code>HUB</code>
-        <point>200</point>
+        <point>100</point>
         <course>
           <name>Specialyrken 1</name>
           <code>HUBSPC01S</code>
@@ -1297,7 +1313,7 @@
         <optional>false</optional>
         <name>Husbyggnad – specialyrken</name>
         <code>HUB</code>
-        <point>200</point>
+        <point>100</point>
         <course>
           <name>Specialyrken 1</name>
           <code>HUBSPC01S</code>
@@ -1449,7 +1465,7 @@
         <optional>false</optional>
         <name>Anläggning</name>
         <code>ANL</code>
-        <point>100</point>
+        <point>200</point>
         <course>
           <name>Anläggning – ledningsbyggnad</name>
           <code>ANLANÄ0</code>
@@ -1483,7 +1499,7 @@
     </professionalDegree>
   </professionalDegrees>
   <category>VOCATIONAL_PROGRAM</category>
-  <modifiedDate>2019-03-05T08:38:24+01:00</modifiedDate>
-  <createdDate>2019-03-05T08:30:14+01:00</createdDate>
+  <modifiedDate>2022-09-13T00:00:00+02:00</modifiedDate>
+  <createdDate>2022-01-13T10:20:22+01:00</createdDate>
   <typeOfStudyPath>PROGRAM</typeOfStudyPath>
 </program>

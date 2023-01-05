@@ -9,9 +9,9 @@
   >&lt;p&gt;Ämnet elektronik – spårfordon behandlar elektronikkomponenters och elektroniska systems funktion och användningsområden för styrning och visualisering i spårfordon.&lt;/p&gt;</description>
   <code>ELN</code>
   <status>PUBLISHED</status>
-  <version>2</version>
-  <createdDate>2021-06-16T13:22:16+02:00</createdDate>
-  <modifiedDate>2021-06-16T13:22:31+02:00</modifiedDate>
+  <version>3</version>
+  <createdDate>2022-02-23T13:29:39+01:00</createdDate>
+  <modifiedDate>2022-05-27T15:19:21+02:00</modifiedDate>
   <nameHeading>&lt;h2&gt;Elektronik – spårfordon&lt;/h2&gt;</nameHeading>
   <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
   <gradeScale
@@ -20,8 +20,8 @@
   />
   <purpose
   >&lt;p&gt;Undervisningen i ämnet elektronik – spårfordon ska leda till att eleverna utvecklar kunskaper om funktion och egenskaper hos de vanligaste analoga och digitala elektronikkomponenterna, inom såväl låg- som högspänningsområdet, samt hur dessa används i spårfordon. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att tolka symboler, scheman, datablad och annan dokumentation som tillämpas inom området spårfordonselektronik.&lt;/p&gt;&lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla förmåga att utföra vanligt förekommande arbetsuppgifter, till exempel uppkoppling efter elektronikscheman och mätningar av komponenter och system. Dessutom ska undervisningen leda till att eleverna utvecklar färdigheter i att välja och använda den arbetsmetod, de verktyg och mätinstrument som uppgiften kräver. Eleverna ska genom undervisningen ges möjlighet att utveckla en förståelse för och kunskap om arbete med hänsyn till miljö och säkerhet samt dokumentation enligt gällande regelverk och branschstandarder.&lt;/p&gt;&lt;p&gt;Genom undervisningen ska eleverna ges möjlighet utveckla ett undersökande och laborativt arbetssätt.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet elektronik – spårfordon ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om uppbyggnad, egenskaper och funktion hos analoga och digitala elektronikkomponenter i spårfordon.&lt;/li&gt; &lt;li&gt;Kunskaper om hur elektronikkomponenter och elektroniksystem används som sammansatta funktionella enheter i spårfordon.&lt;/li&gt; &lt;li&gt;Förmåga att utföra anslutningar, elektronikmontering och driftsättning.&lt;/li&gt; &lt;li&gt;Färdigheter i att utföra komponent- och kretsmätningar samt att tolka mätdata för funktionskontroller och felsökning.&lt;/li&gt; &lt;li&gt;Förmåga att kunna tolka system och funktion i en enkel men komplett elektronisk applikation.&lt;/li&gt; &lt;li&gt;Kunskap om verktyg, mätinstrument samt arbets-, mät- och dokumentationsmetoder samt förmåga att välja och hantera dessa enligt instruktioner och säkerhetsföreskrifter.&lt;/li&gt; &lt;li&gt;Förmåga att använda begrepp, symboler, scheman, datablad, instruktioner och annan dokumentation som tillämpas inom området.&lt;/li&gt; &lt;li&gt;Kunskaper om lagar och andra bestämmelser samt standarder och begrepp inom området.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Elektronik – spårfordon, 100 poäng, som bygger på kursen ellära – spårfordon 1 och kursen ellära – spårfordon 2.&lt;/li&gt;&lt;/ul&gt;</purpose>
-  <skolfsId>2017:38</skolfsId>
-  <applianceDate>2021-06-16T00:00:00+02:00</applianceDate>
+  <skolfsId>2022:85</skolfsId>
+  <applianceDate>2022-07-01T00:00:00+02:00</applianceDate>
   <courses>
     <name>Elektronik – spårfordon</name>
     <englishName>Electronics – rail vehicles</englishName>
@@ -31,7 +31,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Elektronik – spårfordon, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: ELNELE0&lt;/h3&gt;</codeHeading>
@@ -60,7 +60,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -70,7 +70,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>

@@ -8,9 +8,9 @@
   >&lt;p&gt;Ämnet ellära och digitalteknik – flyg behandlar de kunskaper som behövs för att ha en förståelse för de elektriska grundprinciper och elektroniska system som förekommer i luftfartyg samt förmåga att praktiskt arbeta med elektrisk utrustning.&lt;/p&gt;</description>
   <code>ELA</code>
   <status>PUBLISHED</status>
-  <version>2</version>
-  <createdDate>2021-06-16T13:20:52+02:00</createdDate>
-  <modifiedDate>2021-06-16T13:21:21+02:00</modifiedDate>
+  <version>3</version>
+  <createdDate>2022-02-23T13:33:35+01:00</createdDate>
+  <modifiedDate>2022-05-27T15:26:08+02:00</modifiedDate>
   <nameHeading
   >&lt;h2&gt;Ellära och digitalteknik – flyg&lt;/h2&gt;</nameHeading>
   <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -20,8 +20,8 @@
   />
   <purpose
   >&lt;p&gt;Undervisningen i ämnet ellära och digitalteknik – flyg ska syfta till att eleverna utvecklar en förståelse för elektriska grundprinciper samt förmåga att utföra beräkningar, uppkopplingar, mätningar och rimlighetsuppskattningar av olika slag i elsystemet på luftfartyg. Undervisningen ska ge eleverna möjlighet att utveckla en förståelse för olika elektroniska systems uppbyggnad, cockpitutformningar och skiftande datasystem. Undervisningen ska leda till att eleverna utvecklar kunskap om arbete på ett säkert, miljömässigt och kvalitetsmedvetet sätt. Undervisningen i ämnet ska ge eleverna möjlighet att utveckla förståelse för vikten av gällande regelverk, samarbete och kommunikation som krävs inom yrkesområdet.&lt;/p&gt;&lt;p&gt;I undervisningen ska eleverna ges möjlighet att arbeta med uppgifter som konstrueras så att de återspeglar och förbereder för situationer som eleverna kommer att möta i sitt yrke. Dessa uppgifter ska utgå från ett problemlösande och laborativt arbetssätt.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet ellära och digitalteknik – flyg ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Förmåga att utföra beräkningar, uppkopplingar, mätningar och rimlighetsuppskattningar.&lt;/li&gt; &lt;li&gt;Kunskaper om samt funktion av olika instrument och systemutformningar i cockpit och i skiftande datorsystem.&lt;/li&gt; &lt;li&gt;Förmåga att samarbeta och kommunicera med andra samt att använda fackspråk på såväl svenska som engelska.&lt;/li&gt; &lt;li&gt;Förmåga att arbeta på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Ellära – flyg, 100 poäng. &lt;/li&gt; &lt;li&gt;Digitalteknik och flyginstrument, 100 poäng, som bygger på kursen ellära – flyg.&lt;/li&gt;&lt;/ul&gt;</purpose>
-  <skolfsId>2017:30</skolfsId>
-  <applianceDate>2021-06-16T00:00:00+02:00</applianceDate>
+  <skolfsId>2022:93</skolfsId>
+  <applianceDate>2022-07-01T00:00:00+02:00</applianceDate>
   <courses>
     <name>Ellära – flyg</name>
     <englishName>Electricity – aviation</englishName>
@@ -31,7 +31,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading>&lt;h2&gt;Ellära – flyg, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: ELAELL0&lt;/h3&gt;</codeHeading>
     <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -59,7 +59,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -69,7 +69,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -92,7 +92,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Digitalteknik och flyginstrument, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: ELADIG0&lt;/h3&gt;</codeHeading>
@@ -121,7 +121,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -131,7 +131,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>

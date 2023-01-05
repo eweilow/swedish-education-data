@@ -8,9 +8,9 @@
   >&lt;p&gt;Ämnet informationsteknisk arkitektur och infrastruktur behandlar de grundläggande processerna, komponenterna och gränssnitten i ett sammanhängande informationstekniskt system. Det behandlar även hur man med hjälp av olika informationstekniska system kan uppfylla och underlätta människors behov av informationsutbyte. Ämnet informationsteknisk arkitektur och infrastruktur får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.&lt;/p&gt;</description>
   <code>INA</code>
   <status>PUBLISHED</status>
-  <version>2</version>
-  <createdDate>2021-02-12T13:17:19+01:00</createdDate>
-  <modifiedDate>2021-05-18T12:02:36+02:00</modifiedDate>
+  <version>3</version>
+  <createdDate>2022-02-23T10:32:43+01:00</createdDate>
+  <modifiedDate>2022-06-27T12:57:17+02:00</modifiedDate>
   <nameHeading
   >&lt;h2&gt;Informationsteknisk arkitektur och infrastruktur&lt;/h2&gt;</nameHeading>
   <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -20,8 +20,8 @@
   />
   <purpose
   >&lt;p&gt;Undervisningen i ämnet informationsteknisk arkitektur och infrastruktur ska syfta till att eleverna utvecklar kunskaper om olika informationstekniska system, hur dessa används och bryts ned i olika delsystem och processer. Den ska ge eleverna möjlighet att utveckla kunskaper om den informationstekniska livscykeln. Det innebär att utifrån en uppdragsgivare identifiera behov och välja lämpliga system eller processer samt att designa, testa, implementera och följa upp systemen. Undervisningen ska också leda till att eleverna utvecklar förståelse av hur de olika delsystemen och processerna sätts samman med hög kvalitet och resurseffektivitet till en fungerande helhet utifrån uppdragsgivares behov av informationstekniska tjänster och system.&lt;/p&gt;&lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om hur datakommunikation och informationssäkerhet fungerar och hur vanligt förekommande informationstekniska tjänster fungerar och implementeras. Eleverna ska också ges möjlighet att utveckla kunskaper om olika metoder för styrning av informationstekniska system.&lt;/p&gt;&lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om någon projektmetod. I undervisningen ska eleverna ges möjlighet att utveckla sin förmåga att kommunicera i tal, skrift och med visuella hjälpmedel.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet informationsteknisk arkitektur och infrastruktur ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om hur kommunikation sker i informationstekniska system samt kunskaper om olika principer för informationssäkerhet.&lt;/li&gt; &lt;li&gt;Kunskaper om olika nätverks- och informationstjänster och hur dessa används och integreras i olika informationstekniska system för god tillgänglighet och informationssäkerhet.&lt;/li&gt; &lt;li&gt;Kunskaper om informationstekniska systems livscykel och olika sätt att styra informationstekniska system.&lt;/li&gt; &lt;li&gt;Förmåga att använda såväl svenskspråkiga som engelskspråkiga manualer och instruktioner i arbetet med informationstekniska system.&lt;/li&gt; &lt;li&gt;Förmåga att analysera befintliga informationstekniska system och bryta ned dessa i delsystem och processer. Förmåga att dokumentera nya och befintliga system och processer.&lt;/li&gt; &lt;li&gt;Förmåga att installera, konfigurera och implementera olika nätverks- och informationstjänster för god tillgänglighet, informationssäkerhet och resurseffektivitet.&lt;/li&gt; &lt;li&gt;Förmåga att dokumentera informationstekniska projekt.&lt;/li&gt; &lt;li&gt;Förmåga att identifiera kunders behov och föreslå förbättringar och tillägg i befintliga system och integrera dessa i nya eller förbättrade system.&lt;/li&gt; &lt;li&gt;Förmåga att kommunicera i tal, skrift och med visuella hjälpmedel.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Datakommunikation och informationssäkerhet, 200 poäng. &lt;/li&gt; &lt;li&gt;Informationsteknisk arkitektur, 100 poäng. &lt;/li&gt; &lt;li&gt;Nätverks- och kommunikationstjänster, 100 poäng. &lt;/li&gt;&lt;/ul&gt;</purpose>
-  <skolfsId>2015:14</skolfsId>
-  <applianceDate>2021-02-12T00:00:00+01:00</applianceDate>
+  <skolfsId>2022:166</skolfsId>
+  <applianceDate>2022-07-01T00:00:00+02:00</applianceDate>
   <courses>
     <name>Datakommunikation och informationssäkerhet</name>
     <description
@@ -30,7 +30,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Datakommunikation och informationssäkerhet, 200 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: INADAT3&lt;/h3&gt;</codeHeading>
@@ -59,7 +59,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -69,7 +69,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -91,7 +91,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Informationsteknisk arkitektur, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: INAINF3&lt;/h3&gt;</codeHeading>
@@ -120,7 +120,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -130,7 +130,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -152,7 +152,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Nätverks- och kommunikationstjänster, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: INANAT3&lt;/h3&gt;</codeHeading>
@@ -181,7 +181,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -191,7 +191,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>

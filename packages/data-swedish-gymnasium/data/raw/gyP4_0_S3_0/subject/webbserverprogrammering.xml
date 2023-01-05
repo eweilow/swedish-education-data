@@ -9,9 +9,9 @@
   >&lt;p&gt;Ämnet webbserverprogrammering behandlar funktionalitet för webblösningar och samspelet mellan beställare, användare, formgivare och utvecklare.&lt;/p&gt;</description>
   <code>WES</code>
   <status>PUBLISHED</status>
-  <version>1</version>
-  <createdDate>2017-07-07T10:01:28+02:00</createdDate>
-  <modifiedDate>2021-11-15T17:12:03+01:00</modifiedDate>
+  <version>2</version>
+  <createdDate>2022-02-18T11:35:07+01:00</createdDate>
+  <modifiedDate>2022-06-23T15:01:20+02:00</modifiedDate>
   <nameHeading>&lt;h2&gt;Webbserverprogrammering&lt;/h2&gt;</nameHeading>
   <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
   <gradeScale
@@ -20,8 +20,8 @@
   />
   <purpose
   >&lt;p&gt;Undervisningen i ämnet webbserverprogrammering ska syfta till att eleverna utvecklar färdigheter i att skapa funktionalitet för webbplattformer. Eleverna ska ges möjlighet att utveckla kunskaper om olika webbteknikers konstruktion och funktionalitet samt samspelet mellan olika typer av applikationslogik. Genom undervisningen ska eleverna ges möjlighet att utveckla produkter som följer standarder samt riktlinjer för god praxis och säkerhet.&lt;/p&gt;&lt;p&gt;I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om och färdigheter i att använda utvecklingsverktyg för att producera och testa framställning av den mjukvara som driver webbplatser eller applikationer. Eleverna ska också ges möjlighet att utveckla färdigheter i administration av webbservrar och databaser.&lt;/p&gt;&lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om projekt som arbetsmetod och tillfälle till arbete i projektform.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet webbserverprogrammering ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om de tekniker som används för att bygga dynamiska webbplatser och webbapplikationer inklusive datalagring samt dessa teknikers vidgade roll inom annan mjukvaruutveckling.&lt;/li&gt; &lt;li&gt;Förmåga att planera, genomföra, kvalitetssäkra, dokumentera och utvärdera utvecklingsprojekt för webbplatser rörande funktionalitet för webbplattformen.&lt;/li&gt; &lt;li&gt;Förmåga att utveckla webbapplikationer som fungerar oberoende av användarens val och konfiguration av plattform.&lt;/li&gt; &lt;li&gt;Kunskaper om applikationsarkitektur inklusive separation av olika slags logik.&lt;/li&gt; &lt;li&gt;Förmåga att utveckla applikationer enligt standarder och riktlinjer för god praxis.&lt;/li&gt; &lt;li&gt;Förmåga att utveckla applikationslogik för såväl server- som klientsidan.&lt;/li&gt; &lt;li&gt;Kunskaper om säkerhet och förmåga att identifiera och motarbeta attacker genom effektiva åtgärder.&lt;/li&gt; &lt;li&gt;Förmåga att kommunicera med andra och färdigheter i att använda fackspråk.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Webbserverprogrammering 1, 100 poäng, som bygger på kursen webbutveckling 1 och kursen programmering 1.&lt;/li&gt; &lt;li&gt;Webbserverprogrammering 2, 100 poäng, som bygger på kursen webbserverprogrammering 1.&lt;/li&gt; &lt;li&gt;Webbtjänster, 100 poäng. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.&lt;/li&gt;&lt;/ul&gt;</purpose>
-  <skolfsId>2017:50</skolfsId>
-  <applianceDate>2017-06-21T00:00:00+02:00</applianceDate>
+  <skolfsId>2022:330</skolfsId>
+  <applianceDate>2022-07-01T00:00:00+02:00</applianceDate>
   <courses>
     <name>Webbserverprogrammering 1</name>
     <englishName>Web server programming 1</englishName>
@@ -31,7 +31,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Webbserverprogrammering 1, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: WESWEB01&lt;/h3&gt;</codeHeading>
@@ -60,7 +60,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -70,7 +70,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -93,7 +93,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Webbserverprogrammering 2, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: WESWEB02&lt;/h3&gt;</codeHeading>
@@ -122,7 +122,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -132,7 +132,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -155,7 +155,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading>&lt;h2&gt;Webbtjänster, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: WESWET3&lt;/h3&gt;</codeHeading>
     <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -183,7 +183,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -193,7 +193,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>

@@ -3,9 +3,9 @@
   <name>Ekonomiprogrammet</name>
   <code>EK001</code>
   <codeExternal>EK</codeExternal>
-  <skolfsId>0000:00</skolfsId>
-  <applianceDate>2018-08-01T00:00:00+02:00</applianceDate>
-  <version>5</version>
+  <skolfsId>2020:216</skolfsId>
+  <applianceDate>2022-07-01T00:00:00+02:00</applianceDate>
+  <version>6</version>
   <status>PUBLISHED</status>
   <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
   <typeOfProgram>PRELIMINARY_PROGRAM_FOR_HIGHER_EDUCATION</typeOfProgram>
@@ -271,6 +271,38 @@
   <specialization>
     <subject>
       <optional>false</optional>
+      <name>Administration</name>
+      <code>ADM</code>
+      <point>100</point>
+      <course>
+        <name>Administration 1</name>
+        <code>ADMADM01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Administration 2</name>
+        <code>ADMADM02</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Personaladministration</name>
+        <code>ADMPER0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Affärskommunikation</name>
+      <code>AFF</code>
+      <point>100</point>
+      <course>
+        <name>Affärskommunikation</name>
+        <code>AFFAFÄ00S</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
       <name>Engelska</name>
       <code>ENG</code>
       <point>100</point>
@@ -400,6 +432,22 @@
       <course>
         <name>Politik och hållbar utveckling</name>
         <code>HÅLPOL0</code>
+        <point>100</point>
+      </course>
+    </subject>
+    <subject>
+      <optional>false</optional>
+      <name>Information och kommunikation</name>
+      <code>INF</code>
+      <point>100</point>
+      <course>
+        <name>Information och kommunikation 1</name>
+        <code>INFINF01</code>
+        <point>100</point>
+      </course>
+      <course>
+        <name>Information och kommunikation 2</name>
+        <code>INFINF02</code>
         <point>100</point>
       </course>
     </subject>
@@ -586,7 +634,7 @@
       <optional>false</optional>
       <name>Religionskunskap</name>
       <code>REL</code>
-      <point>100</point>
+      <point>50</point>
       <course>
         <name>Religionskunskap 2</name>
         <code>RELREL02</code>
@@ -672,7 +720,7 @@
   <projectAssignment />
   <professionalDegrees />
   <category>PRELIMINARY_PROGRAM_FOR_HIGHER_EDUCATION</category>
-  <modifiedDate>2018-12-20T16:18:57+01:00</modifiedDate>
-  <createdDate>2018-12-20T16:17:51+01:00</createdDate>
+  <modifiedDate>2022-09-13T00:00:00+02:00</modifiedDate>
+  <createdDate>2020-06-16T07:42:39+02:00</createdDate>
   <typeOfStudyPath>PROGRAM</typeOfStudyPath>
 </program>

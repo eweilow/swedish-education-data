@@ -9,9 +9,9 @@
   >&lt;p&gt;Ämnet människan är till sin karaktär tvärvetenskapligt med innehåll från filosofi, sociologi, vårdvetenskap, religionskunskap och samhällskunskap. Det behandlar de kulturella, etiska och sociala mönster som präglar människans liv.&lt;/p&gt;</description>
   <code>MÄN</code>
   <status>PUBLISHED</status>
-  <version>3</version>
-  <createdDate>2021-02-12T14:59:05+01:00</createdDate>
-  <modifiedDate>2021-05-18T12:03:47+02:00</modifiedDate>
+  <version>4</version>
+  <createdDate>2022-02-23T09:25:52+01:00</createdDate>
+  <modifiedDate>2022-06-23T07:57:32+02:00</modifiedDate>
   <nameHeading>&lt;h2&gt;Människan&lt;/h2&gt;</nameHeading>
   <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
   <gradeScale
@@ -20,8 +20,8 @@
   />
   <purpose
   >&lt;p&gt;Undervisningen i ämnet människan ska syfta till att eleverna utvecklar kunskaper om människan och hennes livslopp utifrån sociala, kulturella och existentiella aspekter vid hälsa, ohälsa och funktionsnedsättning. Den ska bidra till att eleverna utvecklar förmåga att möta, kommunicera och samarbeta med människor i olika situationer. Med etiken som utgångspunkt ska sådana frågor om människovärde och människosyn som kan knytas till yrkesområdet behandlas i undervisningen.&lt;/p&gt;&lt;p&gt;Undervisningen ska bidra till att eleverna utvecklar kunskaper för att kunna arbeta med patienter och brukare från olika kulturer såväl i Sverige som i andra länder.&lt;/p&gt;&lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla förmåga att söka, kritiskt granska, värdera och använda information från olika källor.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet människan ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om olika kulturer och livsåskådningar samt om hur människor påverkas av sin kultur.&lt;/li&gt; &lt;li&gt;Kunskaper om vård och omsorg i ett internationellt perspektiv.&lt;/li&gt; &lt;li&gt;Kunskaper om den betydelse normer, värderingar och ideal har inom vård och omsorg.&lt;/li&gt; &lt;li&gt;Kunskaper om etiska begrepp och riktlinjer samt om värdekonflikter inom verksamhetsområdet.&lt;/li&gt; &lt;li&gt;Förmåga att uppfatta, tolka och värdera etiska och existentiella frågor.&lt;/li&gt; &lt;li&gt;Förmåga att kommunicera med och bemöta människor i olika sociala och kulturella sammanhang.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Etik och människans livsvillkor, 100 poäng. &lt;/li&gt; &lt;li&gt;Internationellt arbete, 100 poäng, som bygger på kursen etik och människans livsvillkor.&lt;/li&gt;&lt;/ul&gt;</purpose>
-  <skolfsId>2010:98</skolfsId>
-  <applianceDate>2021-07-01T00:00:00+02:00</applianceDate>
+  <skolfsId>2022:227</skolfsId>
+  <applianceDate>2022-07-01T00:00:00+02:00</applianceDate>
   <courses>
     <name>Etik och människans livsvillkor</name>
     <englishName>Ethics and human living conditions</englishName>
@@ -31,7 +31,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Etik och människans livsvillkor, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: MÄNETI0&lt;/h3&gt;</codeHeading>
@@ -60,7 +60,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -70,7 +70,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -93,7 +93,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Internationellt arbete, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: MÄNINA0&lt;/h3&gt;</codeHeading>
@@ -122,7 +122,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -132,7 +132,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>

@@ -3,9 +3,9 @@
   <name>El- och energiprogrammet</name>
   <code>EE001</code>
   <codeExternal>EE</codeExternal>
-  <skolfsId>2010:40</skolfsId>
-  <applianceDate>2021-09-15T00:00:00+02:00</applianceDate>
-  <version>11</version>
+  <skolfsId>2020:211</skolfsId>
+  <applianceDate>2022-07-01T00:00:00+02:00</applianceDate>
+  <version>12</version>
   <status>PUBLISHED</status>
   <primarySchoolType>UPPER_SECONDARY_EDUCATION</primarySchoolType>
   <typeOfProgram>VOCATIONAL_PROGRAM</typeOfProgram>
@@ -739,13 +739,13 @@
       <code>FÖS</code>
       <point>100</point>
       <course>
-        <name>Personlig försäljning 1</name>
-        <code>FÖSPER01</code>
+        <name>Servicekunskap 1</name>
+        <code>FÖSSEV01</code>
         <point>100</point>
       </course>
       <course>
-        <name>Servicekunskap</name>
-        <code>FÖSSEV0</code>
+        <name>Personlig försäljning 1</name>
+        <code>FÖSPER01</code>
         <point>100</point>
       </course>
     </subject>
@@ -1803,7 +1803,7 @@
     </professionalDegree>
   </professionalDegrees>
   <category>VOCATIONAL_PROGRAM</category>
-  <modifiedDate>2021-09-15T00:00:00+02:00</modifiedDate>
-  <createdDate>2020-06-16T07:53:18+02:00</createdDate>
+  <modifiedDate>2022-09-13T00:00:00+02:00</modifiedDate>
+  <createdDate>2022-01-14T15:25:30+01:00</createdDate>
   <typeOfStudyPath>PROGRAM</typeOfStudyPath>
 </program>

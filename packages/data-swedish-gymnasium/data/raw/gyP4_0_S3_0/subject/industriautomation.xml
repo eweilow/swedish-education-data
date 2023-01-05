@@ -9,9 +9,9 @@
   >&lt;p&gt;Ämnet industriautomation behandlar byggnation och underhåll av industriella automatiserade system. Automatiserade system är processer med funktioner som verkar av sig själv. De kan styras av i förväg beskrivna program men också av händelser som sker i eller i anslutning till aktuella funktioner. Automatiserade system används bland annat i tillverkningsindustrin och i processindustrin.&lt;/p&gt;</description>
   <code>INR</code>
   <status>PUBLISHED</status>
-  <version>2</version>
-  <createdDate>2021-02-12T11:21:09+01:00</createdDate>
-  <modifiedDate>2021-05-18T12:01:04+02:00</modifiedDate>
+  <version>3</version>
+  <createdDate>2022-02-23T10:13:19+01:00</createdDate>
+  <modifiedDate>2022-06-09T10:44:47+02:00</modifiedDate>
   <nameHeading>&lt;h2&gt;Industriautomation&lt;/h2&gt;</nameHeading>
   <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
   <gradeScale
@@ -20,8 +20,8 @@
   />
   <purpose
   >&lt;p&gt;Undervisningen i ämnet industriautomation ska syfta till att eleverna utvecklar kunskaper i att planera och utföra arbete på industriella automatiserade system med hjälp av systemdokumentation, till exempel ritningar och manualer. Undervisningen ska även leda till att eleverna utvecklar förståelse av hur informationsteknik kan användas vid arbete med industriella automatiserade system. Dessutom ska eleverna ges möjlighet att utveckla förmåga att hantera verktyg och utrustning inom valt område.&lt;/p&gt;&lt;p&gt;Undervisningen ska bidra till att eleverna utvecklar förståelse av säkerhet, standarder och begrepp samt färdigheter i att tillämpa dessa. Genom undervisningen ska eleverna ges möjlighet att utveckla förmåga att förebygga och avhjälpa fel i industriella automatiserade system. Dessutom ska undervisningen ge eleverna möjlighet att utveckla teoretisk förståelse av begrepp, teorier och metoder.&lt;/p&gt;&lt;p&gt;Genom både praktiskt och teoretiskt arbete med uppgifter ska eleverna ges möjlighet att öva sig i att arbeta enligt yrkespraxis.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet industriautomation ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om uppbyggnad av, funktion och principer för samt de risker som finns vid arbete med industriella automatiserade system.&lt;/li&gt; &lt;li&gt;Kunskaper om standarder och begrepp som används vid arbete med industriella automatiserade system.&lt;/li&gt; &lt;li&gt;Förmåga att planera och på ett säkert sätt utföra arbete i industriella automatiserade system.&lt;/li&gt; &lt;li&gt;Förmåga att läsa och framställa scheman, ritningar och annan dokumentation över industriella automatiserade system.&lt;/li&gt; &lt;li&gt;Förmåga att installera, programmera och driftsätta industriella automatiserade system.&lt;/li&gt; &lt;li&gt;Färdigheter i att använda informationsteknik som stöd vid byggnation, drift och underhåll av industriella automatiserade system.&lt;/li&gt; &lt;li&gt;Förmåga att förebygga och avhjälpa fel i industriella automatiserade system.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Industriautomation, 100 poäng, som bygger på kursen mät- och styrteknik, kursen mät- och reglerteknik och kursen programmerbara styrsystem. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen allmän automationsteknik.&lt;/li&gt; &lt;li&gt;Robotteknik, 100 poäng, som bygger på kursen programmerbara styrsystem eller på kurserna datorstyrd produktion 1 och datorstyrd produktion 2.&lt;/li&gt;&lt;/ul&gt;</purpose>
-  <skolfsId>2014:61</skolfsId>
-  <applianceDate>2021-07-01T00:00:00+02:00</applianceDate>
+  <skolfsId>2022:157</skolfsId>
+  <applianceDate>2022-07-01T00:00:00+02:00</applianceDate>
   <courses>
     <name>Industriautomation</name>
     <englishName>Industrial automation</englishName>
@@ -31,7 +31,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Industriautomation, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: INRIND0&lt;/h3&gt;</codeHeading>
@@ -60,7 +60,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -70,7 +70,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -93,7 +93,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading>&lt;h2&gt;Robotteknik, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: INRROB0&lt;/h3&gt;</codeHeading>
     <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -121,7 +121,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -131,7 +131,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>

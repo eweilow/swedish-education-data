@@ -9,9 +9,9 @@
   >&lt;p&gt;Ämnet elektroteknik behandlar enklare installationer och elarbeten på elanläggningar samt vanligt verkstadsarbete inom området. I allt arbete med elektricitet är säkerhetsfrågor centrala eftersom ett misstag kan orsaka stora skador både på personer och på egendom. &lt;/p&gt;</description>
   <code>ELR</code>
   <status>PUBLISHED</status>
-  <version>2</version>
-  <createdDate>2018-05-30T11:15:34+02:00</createdDate>
-  <modifiedDate>2020-02-19T15:51:06+01:00</modifiedDate>
+  <version>3</version>
+  <createdDate>2022-02-23T13:30:55+01:00</createdDate>
+  <modifiedDate>2022-05-27T15:21:31+02:00</modifiedDate>
   <nameHeading>&lt;h2&gt;Elektroteknik&lt;/h2&gt;</nameHeading>
   <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
   <gradeScale
@@ -20,8 +20,8 @@
   />
   <purpose
   >&lt;p&gt;Undervisningen i ämnet elektroteknik ska syfta till att eleverna utvecklar kunskaper i att planera och utföra elarbete, verkstadsarbete, mekaniskt arbete och olika sammanfogningstekniker samt färdigheter i att hantera material, verktyg och utrustning. Den ska också bidra till att eleverna förstår betydelsen av energieffektivisering och av att utföra arbetet säkert samt kan tillämpa föreskrifter, standarder och bestämmelser inom området. Undervisningen ska även ge eleverna möjlighet att utveckla förmåga att avhjälpa fel och underhålla elanläggningar. Undervisningen ska leda till att eleverna utvecklar förmåga att utifrån scheman och ritningar utföra elarbeten och verkstadsarbeten. Eleverna ska ges möjlighet att planera arbetsuppgifter samt utveckla förmåga att använda material och utrustning på ett ansvarsfullt sätt. Genom att både praktiskt och teoretiskt arbeta med uppgifterna ska eleverna ges möjlighet att öva sin förmåga att arbeta ergonomiskt, yrkesetiskt, miljömässigt och estetiskt.&lt;/p&gt; &lt;h4&gt;Undervisningen i ämnet elektroteknik ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt; &lt;ol&gt; &lt;li&gt;Förmåga att utföra elarbete, verkstadsarbete, installationsteknik, mekaniskt arbete och sammanfogningsteknik.&lt;/li&gt; &lt;li&gt;Färdigheter i att använda ritningar, scheman, instruktioner, standarder och föreskrifter.&lt;/li&gt; &lt;li&gt;Förmåga att välja och använda olika verktyg, instrument, material och övrig utrustning som används inom området.&lt;/li&gt; &lt;li&gt;Kunskaper om miljökrav och bestämmelser inom området.&lt;/li&gt; &lt;li&gt;Färdigheter i att avhjälpa fel och underhålla elanläggningar.&lt;/li&gt; &lt;li&gt;Förmåga att arbeta säkert, arbetsmiljömässigt, ergonomiskt och estetiskt.&lt;/li&gt; &lt;li&gt;Förmåga att dokumentera sitt arbete.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Elektromekanik, 100 poäng. &lt;/li&gt; &lt;li&gt;Elkraftteknik, 100 poäng. &lt;/li&gt; &lt;li&gt;Antenn- och kabel-TV-teknik, 100 poäng, som bygger på kursen elkraftteknik.&lt;/li&gt; &lt;li&gt;Data- och medianät, 100 poäng, som bygger på kursen elkraftteknik.&lt;/li&gt;&lt;/ul&gt;</purpose>
-  <skolfsId>2010:153</skolfsId>
-  <applianceDate>2018-08-01T00:00:00+02:00</applianceDate>
+  <skolfsId>2022:88</skolfsId>
+  <applianceDate>2022-07-01T00:00:00+02:00</applianceDate>
   <courses>
     <name>Elektromekanik</name>
     <englishName>Electromechanics</englishName>
@@ -31,7 +31,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading>&lt;h2&gt;Elektromekanik, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: ELRELK0&lt;/h3&gt;</codeHeading>
     <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -59,7 +59,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -69,7 +69,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -92,7 +92,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading>&lt;h2&gt;Elkraftteknik, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: ELRELF0&lt;/h3&gt;</codeHeading>
     <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -120,7 +120,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -130,7 +130,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -153,7 +153,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Antenn- och kabel-TV-teknik, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: ELRANT0&lt;/h3&gt;</codeHeading>
@@ -182,7 +182,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -192,7 +192,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -215,7 +215,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Data- och medianät, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: ELRDAA0&lt;/h3&gt;</codeHeading>
@@ -244,7 +244,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -254,7 +254,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>

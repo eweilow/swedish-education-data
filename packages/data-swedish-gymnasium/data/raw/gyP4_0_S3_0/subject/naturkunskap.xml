@@ -9,9 +9,9 @@
   >&lt;p&gt;Ämnet naturkunskap är till sin karaktär tvärvetenskapligt med en grund i biologi, fysik, geovetenskap och kemi. I ämnet behandlas hälsa, energi och hållbar utveckling, kunskapsområden som har vuxit fram där naturvetenskap möter samhällsvetenskap.&lt;/p&gt;</description>
   <code>NAK</code>
   <status>PUBLISHED</status>
-  <version>2</version>
-  <createdDate>2017-11-29T08:37:09+01:00</createdDate>
-  <modifiedDate>2020-02-19T15:59:18+01:00</modifiedDate>
+  <version>3</version>
+  <createdDate>2022-02-22T14:53:09+01:00</createdDate>
+  <modifiedDate>2022-06-23T08:03:49+02:00</modifiedDate>
   <nameHeading>&lt;h2&gt;Naturkunskap&lt;/h2&gt;</nameHeading>
   <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
   <gradeScale
@@ -20,8 +20,8 @@
   />
   <purpose
   >&lt;p&gt;Undervisningen i ämnet naturkunskap ska syfta till att eleverna utvecklar kunskaper i naturvetenskap samt förmåga att kritiskt värdera och ta ställning i frågor som har ett naturvetenskapligt innehåll. Den ska leda till att eleverna utvecklar förståelse av hur naturvetenskapliga kunskaper kan användas i såväl yrkesliv som vardagsnära situationer och för att göra personliga val och ställningstaganden.&lt;/p&gt; &lt;p&gt;Utifrån aktuella frågeställningar och företeelser ska undervisningen ge eleverna möjlighet att, såväl med som utan digitala verktyg, använda naturvetenskapliga kunskaper och arbetsmetoder. Det betyder att samtidigt som undervisningen ska behandla olika innehåll som till exempel miljö- och klimatfrågor, jordens resursfördelning, kretslopp, hälsa eller genmodifiering ska den också påvisa hur dessa frågor kan hanteras utifrån ett naturvetenskapligt förhållningssätt. Genom att få diskutera och utforska frågor med samhällsanknytning ska eleverna ges möjlighet att befästa, fördjupa och utveckla naturvetenskapliga kunskaper för att kunna möta, förstå och påverka sin samtid. Undervisningen ska ge eleven möjlighet att använda digitala och andra verktyg samt göra simuleringar för att söka och uppnå kunskaper i naturvetenskap.&lt;/p&gt; &lt;h4&gt;Undervisningen i ämnet naturkunskap ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt; &lt;ol&gt; &lt;li&gt;Förmåga att använda kunskaper om naturvetenskap för att diskutera, göra ställningstaganden och formulera olika handlingsalternativ.&lt;/li&gt; &lt;li&gt;Kunskaper om naturvetenskapens roll i aktuella samhällsfrågor och i förhållande till hållbar utveckling.&lt;/li&gt; &lt;li&gt;Kunskaper om olika livsstilars konsekvenser såväl för den egna hälsan som för folkhälsan och miljön.&lt;/li&gt; &lt;li&gt;Kunskaper om människokroppens uppbyggnad och funktion samt dess växelverkan med omgivningen.&lt;/li&gt; &lt;li&gt;Kunskaper om hur naturvetenskap organiseras samt hur den kan granskas kritiskt och användas för kritisk granskning.&lt;/li&gt; &lt;li&gt;Kunskaper om de naturvetenskapliga teoriernas betydelse för samhällens framväxt och för människans världsbild.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Naturkunskap 1a1, 50 poäng, som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen naturkunskap 1b.&lt;/li&gt; &lt;li&gt;Naturkunskap 1a2, 50 poäng, som bygger på naturkunskap 1a1. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen naturkunskap 1b.&lt;/li&gt; &lt;li&gt;Naturkunskap 1b, 100 poäng, som bygger på de kunskaper grundskolan ger eller motsvarande. Betyg i kursen kan inte ingå i elevens examen tillsammans med betyg i kursen naturkunskap 1a1 eller kursen naturkunskap 1a2.&lt;/li&gt; &lt;li&gt;Naturkunskap 2, 100 poäng, som bygger på kursen naturkunskap 1a2 eller kursen naturkunskap 1b.&lt;/li&gt;&lt;/ul&gt;</purpose>
-  <skolfsId>2010:261</skolfsId>
-  <applianceDate>2017-07-01T00:00:00+02:00</applianceDate>
+  <skolfsId>2022:12</skolfsId>
+  <applianceDate>2022-07-01T00:00:00+02:00</applianceDate>
   <courses>
     <name>Naturkunskap 1a1</name>
     <englishName>Science studies 1a1</englishName>
@@ -31,7 +31,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading>&lt;h2&gt;Naturkunskap 1a1, 50 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: NAKNAK01a1&lt;/h3&gt;</codeHeading>
     <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -59,7 +59,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -69,7 +69,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -92,7 +92,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading>&lt;h2&gt;Naturkunskap 1a2, 50 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: NAKNAK01a2&lt;/h3&gt;</codeHeading>
     <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -120,7 +120,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -130,7 +130,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -153,7 +153,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading>&lt;h2&gt;Naturkunskap 1b, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: NAKNAK01b&lt;/h3&gt;</codeHeading>
     <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -181,7 +181,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -191,7 +191,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -214,7 +214,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading>&lt;h2&gt;Naturkunskap 2, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: NAKNAK02&lt;/h3&gt;</codeHeading>
     <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -242,7 +242,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -252,7 +252,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>

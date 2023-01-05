@@ -9,9 +9,9 @@
   >&lt;p&gt;Ämnet elektronikproduktion behandlar produktionsprocessens olika steg vid tillverkning av elektronikprodukter, från beredning och montering fram till utprovning och leveranskontroll. Ämnet behandlar också de metoder och maskiner som används i produktionsprocessens olika steg.&lt;/p&gt;</description>
   <code>ELK</code>
   <status>PUBLISHED</status>
-  <version>1</version>
-  <createdDate>2010-12-02T09:25:20+01:00</createdDate>
-  <modifiedDate>2020-02-19T15:51:00+01:00</modifiedDate>
+  <version>2</version>
+  <createdDate>2022-02-23T13:30:02+01:00</createdDate>
+  <modifiedDate>2022-05-27T15:20:03+02:00</modifiedDate>
   <nameHeading>&lt;h2&gt;Elektronikproduktion&lt;/h2&gt;</nameHeading>
   <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
   <gradeScale
@@ -19,9 +19,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   />
   <purpose
-  >&lt;p&gt; Undervisningen i ämnet elektronikproduktion ska syfta till att eleverna utvecklar kunskaper i montering av elektronikkomponenter och metoder för lödteknik. Den ska ge eleverna möjlighet att utveckla kunskaper om olika monteringstekniker samt om monterings- och lödmaskiner för elektronikproduktion. Undervisningen ska även leda till att eleverna utvecklar kunskaper om de metoder och testutrustningar som används för provning och testning vid elektronikproduktion. Undervisningen ska omfatta både teoretiska och praktiska moment samt ge eleverna möjlighet att uttrycka sig såväl skriftligt som muntligt.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet elektronikproduktion ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om monteringsmaskiners och lödmaskiners konstruktion och arbetssätt.&lt;/li&gt; &lt;li&gt;Förmåga att planera och utföra enklare montering och lödning.&lt;/li&gt; &lt;li&gt;Förmåga att planera och utföra provning och kontroll av elektronik och elektronikapparater.&lt;/li&gt; &lt;li&gt;Förmåga att tolka arbetsinstruktioner, manualer, elektronikscheman och andra dokument på både svenska och engelska.&lt;/li&gt; &lt;li&gt;Färdigheter i att felsöka och reparera enklare fel i elektronik och elektronikapparater.&lt;/li&gt; &lt;li&gt;Förmåga att använda metoder, verktyg och övrig utrustning.&lt;/li&gt; &lt;li&gt;Kunskaper om kvalitetskrav och säkerhetskrav vid elektronikproduktion.&lt;/li&gt; &lt;li&gt;Förmåga att utvärdera sitt arbete och resultat samt kunskaper om kvalitetsbedömning, kvalitetsarbete och arbetsmiljö.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Elektronikproduktionsteknik, 100 poäng.&lt;/li&gt; &lt;li&gt;Provning och kontrollarbete, 100 poäng, som bygger på kursen elektronikproduktionsteknik.&lt;/li&gt; &lt;/ol&gt;</purpose>
-  <skolfsId>2010:152</skolfsId>
-  <applianceDate>2011-07-01T00:00:00+02:00</applianceDate>
+  >&lt;p&gt; Undervisningen i ämnet elektronikproduktion ska syfta till att eleverna utvecklar kunskaper i montering av elektronikkomponenter och metoder för lödteknik. Den ska ge eleverna möjlighet att utveckla kunskaper om olika monteringstekniker samt om monterings- och lödmaskiner för elektronikproduktion. Undervisningen ska även leda till att eleverna utvecklar kunskaper om de metoder och testutrustningar som används för provning och testning vid elektronikproduktion. Undervisningen ska omfatta både teoretiska och praktiska moment samt ge eleverna möjlighet att uttrycka sig såväl skriftligt som muntligt.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet elektronikproduktion ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om monteringsmaskiners och lödmaskiners konstruktion och arbetssätt.&lt;/li&gt; &lt;li&gt;Förmåga att planera och utföra enklare montering och lödning.&lt;/li&gt; &lt;li&gt;Förmåga att planera och utföra provning och kontroll av elektronik och elektronikapparater.&lt;/li&gt; &lt;li&gt;Förmåga att tolka arbetsinstruktioner, manualer, elektronikscheman och andra dokument på både svenska och engelska.&lt;/li&gt; &lt;li&gt;Färdigheter i att felsöka och reparera enklare fel i elektronik och elektronikapparater.&lt;/li&gt; &lt;li&gt;Förmåga att använda metoder, verktyg och övrig utrustning.&lt;/li&gt; &lt;li&gt;Kunskaper om kvalitetskrav och säkerhetskrav vid elektronikproduktion.&lt;/li&gt; &lt;li&gt;Förmåga att utvärdera sitt arbete och resultat samt kunskaper om kvalitetsbedömning, kvalitetsarbete och arbetsmiljö.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Elektronikproduktionsteknik, 100 poäng. &lt;/li&gt; &lt;li&gt;Provning och kontrollarbete, 100 poäng, som bygger på kursen elektronikproduktionsteknik.&lt;/li&gt;&lt;/ul&gt;</purpose>
+  <skolfsId>2022:86</skolfsId>
+  <applianceDate>2022-07-01T00:00:00+02:00</applianceDate>
   <courses>
     <name>Elektronikproduktionsteknik</name>
     <englishName>Electronic production technologies</englishName>
@@ -31,7 +31,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Elektronikproduktionsteknik, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: ELKELO0&lt;/h3&gt;</codeHeading>
@@ -60,7 +60,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -70,7 +70,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -93,7 +93,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Provning och kontrollarbete, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: ELKPRV0&lt;/h3&gt;</codeHeading>
@@ -122,7 +122,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -132,7 +132,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>

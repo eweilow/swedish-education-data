@@ -9,9 +9,9 @@
   >&lt;p&gt;Ämnet programmering behandlar hur mjukvaror skapas, anpassas och utvecklas samt programmeringens roll i informationstekniska sammanhang som datorsimulering och praktisk datoriserad problemlösning.&lt;/p&gt;</description>
   <code>PRR</code>
   <status>PUBLISHED</status>
-  <version>3</version>
-  <createdDate>2017-07-07T10:01:55+02:00</createdDate>
-  <modifiedDate>2021-11-15T17:11:24+01:00</modifiedDate>
+  <version>4</version>
+  <createdDate>2022-02-22T14:40:48+01:00</createdDate>
+  <modifiedDate>2022-06-23T10:10:14+02:00</modifiedDate>
   <nameHeading>&lt;h2&gt;Programmering&lt;/h2&gt;</nameHeading>
   <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
   <gradeScale
@@ -20,8 +20,8 @@
   />
   <purpose
   >&lt;p&gt;Undervisningen i ämnet programmering ska syfta till att eleverna utvecklar kunskaper om programmeringens grunder, färdigheter i att tillämpa relevanta metoder för programutveckling och förmåga att lösa programmeringstekniska problem. Undervisningen ska även bidra till att eleverna utvecklar förmåga att analysera, designa och vidareutveckla program. Undervisningen ska också bidra till att eleverna utvecklar kunskaper om några vanligt förekommande programspråk samt traditioner och nya trender i utvecklingen av programspråk. Dessutom ska undervisningen leda till att eleverna utvecklar kunskaper om datorns användning i samhället och datorns möjligheter och begränsningar.&lt;/p&gt;&lt;p&gt;I undervisningen ska eleverna ges möjlighet att arbeta i projekt och att enskilt eller i grupp utföra programmeringsuppgifter av varierande komplexitet och inom olika tillämpningsområden.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet programmering ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om programmerbara system.&lt;/li&gt; &lt;li&gt;Förmåga att formulera och planera programmeringsuppgifter med pseudokod och diagramteknik.&lt;/li&gt; &lt;li&gt;Förståelse av och färdigheter i att använda datavetenskapliga begrepp och principer.&lt;/li&gt; &lt;li&gt;Kunskaper om programspråk och programmeringsparadigm.&lt;/li&gt; &lt;li&gt;Förmåga att skriva, läsa, strukturera, analysera, dokumentera och kommentera programkod.&lt;/li&gt; &lt;li&gt;Färdigheter i att skapa program med ett givet syfte och för en avsedd användare.&lt;/li&gt; &lt;li&gt;Kunskaper om gränssnitt mot filer, filsystem, databashanterare och internet.&lt;/li&gt; &lt;li&gt;Kunskaper om och färdigheter i objektorienterad programmering.&lt;/li&gt; &lt;li&gt;Förmåga att finna, analysera, åtgärda och förhindra syntaxfel, programkörningsfel och programmeringslogiska fel.&lt;/li&gt; &lt;li&gt;Kunskaper om samspelet mellan program, exekveringsmiljö, operativsystem och hårdvara.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Programmering 1, 100 poäng. &lt;/li&gt; &lt;li&gt;Programmering 2, 100 poäng, som bygger på kursen programmering 1.&lt;/li&gt; &lt;li&gt;Programmering 3, 100 poäng. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.&lt;/li&gt;&lt;/ul&gt;</purpose>
-  <skolfsId>2010:247</skolfsId>
-  <applianceDate>2017-06-12T00:00:00+02:00</applianceDate>
+  <skolfsId>2022:258</skolfsId>
+  <applianceDate>2022-07-01T00:00:00+02:00</applianceDate>
   <courses>
     <name>Programmering 1</name>
     <englishName>Programming 1</englishName>
@@ -31,7 +31,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading>&lt;h2&gt;Programmering 1, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: PRRPRR01&lt;/h3&gt;</codeHeading>
     <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -59,7 +59,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -69,7 +69,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -92,7 +92,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading>&lt;h2&gt;Programmering 2, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: PRRPRR02&lt;/h3&gt;</codeHeading>
     <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -120,7 +120,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -130,7 +130,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -153,7 +153,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading>&lt;h2&gt;Programmering 3, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: PRRPRR33&lt;/h3&gt;</codeHeading>
     <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -181,7 +181,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -191,7 +191,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>

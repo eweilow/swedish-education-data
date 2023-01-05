@@ -9,16 +9,16 @@
   >&lt;p&gt;Ämnet systemkunskap behandlar hur VVS-, ventilations-, kyl- och värmepumpssystem fungerar och är uppbyggda. Det behandlar också betydelsen av underhåll av systemen. I ämnet behandlas dessutom byggnaders energieffektivitet, vilka medier som förekommer i systemen, deras fysikaliska egenskaper och hur energiomvandling sker. Ämnet behandlar även VVS- och fastighetsbranschens olika yrken och praktiska arbetsuppgifter.&lt;/p&gt;</description>
   <code>SYS</code>
   <status>PUBLISHED</status>
-  <version>2</version>
-  <createdDate>2020-05-08T13:18:25+02:00</createdDate>
-  <modifiedDate>2021-06-08T15:59:35+02:00</modifiedDate>
+  <version>3</version>
+  <createdDate>2022-02-18T14:58:57+01:00</createdDate>
+  <modifiedDate>2022-06-23T12:25:33+02:00</modifiedDate>
   <nameHeading>&lt;h2&gt;Systemkunskap&lt;/h2&gt;</nameHeading>
   <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
   <gradeScale>A-F</gradeScale>
   <purpose
   >&lt;p&gt;Undervisningen i ämnet systemkunskap ska syfta till att eleverna utvecklar kunskaper om VVS-, ventilations-, kyl- och värmepumpssystem samt deras funktion och konstruktion. Eleverna ska ges möjlighet att utveckla kunskaper om systemen var för sig och i samverkan. Undervisningen ska även ge eleverna möjlighet att utveckla kunskaper om byggnaders konstruktion samt förståelse av hur klimatskalet och verksamheten påverkar dimensioneringen av systemen. Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om arbetsprinciper, miljöpåverkan och produktionsförutsättningar.&lt;/p&gt; &lt;p&gt;Undervisningen ska leda till att eleverna utvecklar färdigheter i att beräkna och bedöma effektbehov i värme- och kylprocesser samt kunskaper om hur energianvändning påverkar hälsa, miljö och hållbar utveckling. Den ska också bidra till att eleverna utvecklar förmåga att arbeta ergonomiskt och arbetsmiljöriktigt. Dessutom ska eleverna ges möjlighet att utveckla kunskaper om termer och begrepp som används inom installations- och fastighetsområdet.&lt;/p&gt; &lt;p&gt;Undervisningen ska bedrivas så att eleverna ges möjlighet att omsätta teoretiska lösningar i praktiken, och att utveckla teoretisk kunskap utifrån praktiska övningar.&lt;/p&gt; &lt;h4&gt;Undervisningen i ämnet systemkunskap ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt; &lt;ol&gt; &lt;li&gt;Kunskaper om energitekniska systems funktion och konstruktion samt energibärande mediers egenskaper.&lt;/li&gt; &lt;li&gt;Kunskaper om termodynamik samt färdigheter i att göra beräkningar och bedömningar som rör värme-, sanitets-, ventilations-, kyl- och värmepumpssystem.&lt;/li&gt; &lt;li&gt;Kunskaper om effektiv och miljövänlig energianvändning.&lt;/li&gt; &lt;li&gt;Förståelse av ritningar, driftkort, användarmanualer och instruktioner samt färdigheter i att göra ritningar.&lt;/li&gt; &lt;li&gt;Förmåga att utföra driftkontroller.&lt;/li&gt; &lt;li&gt;Kunskaper om lagar och andra bestämmelser inom området.&lt;/li&gt; &lt;li&gt;Kunskaper om olika yrken samt erfarenheter av praktiska arbetsuppgifter inom VVS- och fastighetsområdet.&lt;/li&gt; &lt;li&gt;Förmåga att arbeta säkert och ergonomiskt.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Injusteringsteknik, 100 poäng. &lt;/li&gt; &lt;li&gt;Systemuppbyggnad, 100 poäng. &lt;/li&gt; &lt;li&gt;Värmelära, 100 poäng. &lt;/li&gt;&lt;/ul&gt;</purpose>
-  <skolfsId>2010:79</skolfsId>
-  <applianceDate>2021-07-01T00:00:00+02:00</applianceDate>
+  <skolfsId>2022:295</skolfsId>
+  <applianceDate>2022-07-01T00:00:00+02:00</applianceDate>
   <courses>
     <name>Injusteringsteknik</name>
     <englishName>Adjustment techniques</englishName>
@@ -28,7 +28,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Injusteringsteknik, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: SYSINJ0&lt;/h3&gt;</codeHeading>
@@ -57,7 +57,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -67,7 +67,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -90,7 +90,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading>&lt;h2&gt;Systemuppbyggnad, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: SYSSYT0&lt;/h3&gt;</codeHeading>
     <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -118,7 +118,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -128,7 +128,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -151,7 +151,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading>&lt;h2&gt;Värmelära, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: SYSVÄM0&lt;/h3&gt;</codeHeading>
     <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -179,7 +179,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -189,7 +189,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>

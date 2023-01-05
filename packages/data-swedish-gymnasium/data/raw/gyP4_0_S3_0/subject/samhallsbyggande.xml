@@ -9,9 +9,9 @@
   >&lt;p&gt;Ämnet samhällsbyggande behandlar byggprocessens olika delar samt byggmaterial, byggnadsteknik och installationsteknik. &lt;/p&gt;</description>
   <code>SAH</code>
   <status>PUBLISHED</status>
-  <version>4</version>
-  <createdDate>2021-02-12T13:23:17+01:00</createdDate>
-  <modifiedDate>2021-05-18T12:06:37+02:00</modifiedDate>
+  <version>5</version>
+  <createdDate>2022-02-22T14:33:20+01:00</createdDate>
+  <modifiedDate>2022-06-23T10:37:07+02:00</modifiedDate>
   <nameHeading>&lt;h2&gt;Samhällsbyggande&lt;/h2&gt;</nameHeading>
   <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
   <gradeScale
@@ -20,18 +20,18 @@
   />
   <purpose
   >&lt;p&gt;Undervisningen i ämnet samhällsbyggande ska syfta till att eleverna utvecklar kunskaper om byggprocessen från stadsplanering till fastighetsförvaltning och dess roll i samhällsbyggandet. Undervisningen ska leda till att eleverna utvecklar förståelse av vilka aktörer som är involverade i de olika skedena, hur byggprocessen organiseras och vilka lagar och regler som är tillämpliga.&lt;/p&gt;&lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla förståelse av sambandet mellan byggnadsteknik, installationsteknik, byggnadsfysik och byggnadsmaterial för hållbara byggnadsverk. Den ska även ge eleverna möjlighet att utveckla grundläggande kunskaper om installationsteknik främst inom VVS- och elområdet.&lt;/p&gt;&lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om byggprojektledning inom projektering och produktion, främst inom produktionsplanering och kvalitets- och miljöarbete. Eleverna ska även ges möjlighet att utveckla grundläggande kunskaper om vanliga avtalsformer för projektering och produktion samt om formerna för kontraktsskrivning mellan byggprocessens parter.&lt;/p&gt;&lt;p&gt;Eleverna ska ges möjlighet att arbeta i verklighetsnära projekt med koppling till teknikområdet.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet samhällsbyggande ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om byggnadsmaterial samt om byggnadsteknik, konstruktionselement och olika typer av byggnader och anläggningar.&lt;/li&gt; &lt;li&gt;Kunskaper om byggnadsfysik samt om vanligt förekommande funktionskrav.&lt;/li&gt; &lt;li&gt;Kunskaper om installationstekniska system för ventilation, värme, sanitet och el i byggnader samt om samhällets tekniska system för vatten och avlopp.&lt;/li&gt; &lt;li&gt;Kunskaper om vanligt förekommande funktionskrav för belysning, el, värme och komfort, vattenkvalitet, luftväxling och ljud.&lt;/li&gt; &lt;li&gt;Kunskaper om vanligt förekommande installationers uppbyggnad och hur dessa är redovisade och dokumenterade i ritningar och scheman.&lt;/li&gt; &lt;li&gt;Kunskaper om byggprocessens olika skeden samt om byggprojektets genomförandeformer och organisation.&lt;/li&gt; &lt;li&gt;Kunskaper om planering i projekterings- och utförandeskedet.&lt;/li&gt; &lt;li&gt;Kunskaper om lagar och andra bestämmelser inom området.&lt;/li&gt; &lt;li&gt;Kunskaper om kvalitets-, miljö- och arbetsmiljöledningssystem.&lt;/li&gt; &lt;li&gt;Förmåga att planera, genomföra och dokumentera miljöklassning av byggnader.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Byggnadsverk, 100 poäng. &lt;/li&gt; &lt;li&gt;Byggprocessen, 100 poäng. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.&lt;/li&gt; &lt;li&gt;Miljöcertifierade hus, 100 poäng. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.&lt;/li&gt; &lt;li&gt;BIM-samordning, 100 poäng. Kursen får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.&lt;/li&gt;&lt;/ul&gt;</purpose>
-  <skolfsId>2011:44</skolfsId>
-  <applianceDate>2021-07-01T00:00:00+02:00</applianceDate>
+  <skolfsId>2022:268</skolfsId>
+  <applianceDate>2022-07-01T00:00:00+02:00</applianceDate>
   <courses>
     <name>Byggnadsverk</name>
     <englishName>Construction</englishName>
     <description
-    >&lt;p&gt;Kursen byggnadsverk omfattar punkterna 1-5 under rubriken Ämnets syfte.&lt;/p&gt;</description>
+    >&lt;p&gt;Kursen byggnadsverk omfattar punkterna 1&lt;span style="font-size: 11.0pt; line-height: 120%; font-family: 'Times New Roman', serif;"&gt;–&lt;/span&gt;5 under rubriken Ämnets syfte.&lt;/p&gt;</description>
     <code>SAHBYV0</code>
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading>&lt;h2&gt;Byggnadsverk, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: SAHBYV0&lt;/h3&gt;</codeHeading>
     <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -59,7 +59,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -69,7 +69,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -92,7 +92,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading>&lt;h2&gt;Byggprocessen, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: SAHBYC3&lt;/h3&gt;</codeHeading>
     <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -102,7 +102,7 @@
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       />
       <text
-      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Byggprocessens olika skeden: markförvärv, projektering, upphandling, produktion, överlämning, förvaltning, drift, underhåll och rivning.&lt;/li&gt; &lt;li&gt;Byggprojektets genomförandeformer och organisation för byggprocessens olika delar. Byggprocessens olika aktörer.&lt;/li&gt; &lt;li&gt;Tillämpliga regler i byggprocessen, till exempel PBL (plan- och bygglagen), BBR (Boverkets byggregler), AFS (Arbetsmiljöverkets författningssamling) och miljöbalken.&lt;/li&gt; &lt;li&gt;Förfrågningsunderlag kopplade till AMA-systemet (allmän material- och arbetsbeskrivning).&lt;/li&gt; &lt;li&gt;Anbudsprocessen - beräkningar, kalkyl, offertförfrågan, förhandling, beställning och entreprenadavtal.&lt;/li&gt; &lt;li&gt;Upphandling av entreprenader och material enligt AB (allmänna bestämmelser) och AF (administrativa föreskrifter).&lt;/li&gt; &lt;li&gt;Entreprenad- och ersättningsformer.&lt;/li&gt; &lt;li&gt;Kvalitetsplan, miljöplan och arbetsmiljöplan.&lt;/li&gt; &lt;li&gt;Bas P (planering och projektering) och Bas U (utförande).&lt;/li&gt; &lt;li&gt;Byggnaders och installationers påverkan utifrån ett livscykelperspektiv.&lt;/li&gt; &lt;li&gt;Produktionsplanering, produktionsbudget och produktionstidplan.&lt;/li&gt; &lt;li&gt;Grundläggande samordningsplanering mellan olika aktörer.&lt;/li&gt; &lt;li&gt;Olika typer av besiktningar.&lt;/li&gt; &lt;/ul&gt;</text>
+      >&lt;h4&gt;Undervisningen i kursen ska behandla följande centrala innehåll:&lt;/h4&gt;&lt;ul&gt; &lt;li&gt;Byggprocessens olika skeden: markförvärv, projektering, upphandling, produktion, överlämning, förvaltning, drift, underhåll och rivning.&lt;/li&gt; &lt;li&gt;Byggprojektets genomförandeformer och organisation för byggprocessens olika delar. Byggprocessens olika aktörer.&lt;/li&gt; &lt;li&gt;Tillämpliga regler i byggprocessen, till exempel PBL (plan- och bygglagen), BBR (Boverkets byggregler), AFS (Arbetsmiljöverkets författningssamling) och miljöbalken.&lt;/li&gt; &lt;li&gt;Förfrågningsunderlag kopplade till AMA-systemet (allmän material- och arbetsbeskrivning).&lt;/li&gt; &lt;li&gt;Anbudsprocessen &lt;span style="font-size: 11.0pt; line-height: 120%; font-family: 'Times New Roman', serif;"&gt;–&lt;/span&gt; beräkningar, kalkyl, offertförfrågan, förhandling, beställning och entreprenadavtal.&lt;/li&gt; &lt;li&gt;Upphandling av entreprenader och material enligt AB (allmänna bestämmelser) och AF (administrativa föreskrifter).&lt;/li&gt; &lt;li&gt;Entreprenad- och ersättningsformer.&lt;/li&gt; &lt;li&gt;Kvalitetsplan, miljöplan och arbetsmiljöplan.&lt;/li&gt; &lt;li&gt;Bas P (planering och projektering) och Bas U (utförande).&lt;/li&gt; &lt;li&gt;Byggnaders och installationers påverkan utifrån ett livscykelperspektiv.&lt;/li&gt; &lt;li&gt;Produktionsplanering, produktionsbudget och produktionstidplan.&lt;/li&gt; &lt;li&gt;Grundläggande samordningsplanering mellan olika aktörer.&lt;/li&gt; &lt;li&gt;Olika typer av besiktningar.&lt;/li&gt; &lt;/ul&gt;</text>
       <year
         xsi:nil="true"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -115,27 +115,27 @@
     <point>100</point>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för byggprocessens olika skeden. Dessutom redogör eleven &lt;strong&gt;översiktligt&lt;/strong&gt; för byggprojektets genomförandeformer och organisation samt för de olika aktörerna i byggprocessen.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för projekt- och samordningsplanering i projekterings- och utförandeskedet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för tillämpliga regler som styr byggprocessen. Dessutom redogör eleven utifrån enkla fallbeskrivningar, &lt;strong&gt;översiktligt &lt;/strong&gt;för avtals- och kontraktskrivningar.&lt;/p&gt;&lt;p&gt;Eleven upprättar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare, utifrån förfrågningsunderlag, plan för utförandeskedet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för kontrollansvaret enligt PBL och byggarbetsmiljösamordning enligt Bas P och Bas U. Dessutom redogör eleven, utifrån&lt;strong&gt; enkla&lt;/strong&gt; fallbeskrivningar, &lt;strong&gt;översiktligt&lt;/strong&gt; för kvalitets-, miljö- och arbetsmiljöledningssystem.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget E&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för byggprocessens olika skeden. Dessutom redogör eleven &lt;strong&gt;översiktligt&lt;/strong&gt; för byggprojektets genomförandeformer och organisation samt för de olika aktörerna i byggprocessen.&lt;/p&gt; &lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för projekt- och samordningsplanering i projekterings- och utförandeskedet.&lt;/p&gt; &lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt&lt;/strong&gt; för tillämpliga regler som styr byggprocessen. Dessutom redogör eleven utifrån enkla fallbeskrivningar, &lt;strong&gt;översiktligt &lt;/strong&gt;för avtals- och kontraktsskrivningar.&lt;/p&gt; &lt;p&gt;Eleven upprättar &lt;strong&gt;i samråd &lt;/strong&gt;med handledare, utifrån förfrågningsunderlag, plan för utförandeskedet.&lt;/p&gt; &lt;p&gt;Eleven redogör &lt;strong&gt;översiktligt &lt;/strong&gt;för kontrollansvaret enligt PBL och byggarbetsmiljösamordning enligt Bas P och Bas U. Dessutom redogör eleven, utifrån&lt;strong&gt; enkla&lt;/strong&gt; fallbeskrivningar, &lt;strong&gt;översiktligt&lt;/strong&gt; för kvalitets-, miljö- och arbetsmiljöledningssystem.&lt;/p&gt; &lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
       <gradeStep>E</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för byggprocessens olika skeden. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för byggprojektets genomförandeformer och organisation samt för de olika aktörerna i byggprocessen.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för projekt- och samordningsplanering i projekterings- och utförandeskedet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för tillämpliga regler som styr byggprocessen. Dessutom redogör eleven utifrån enkla fallbeskrivningar, &lt;strong&gt;utförligt &lt;/strong&gt;för avtals- och kontraktskrivningar.&lt;/p&gt;&lt;p&gt;Eleven upprättar &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare, utifrån förfrågningsunderlag, plan för utförandeskedet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för kontrollansvaret enligt PBL och byggarbetsmiljösamordning enligt Bas P och Bas U. Dessutom redogör eleven, utifrån fallbeskrivningar, &lt;strong&gt;utförligt&lt;/strong&gt; för kvalitets-, miljö- och arbetsmiljöledningssystem.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget C&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för byggprocessens olika skeden. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; för byggprojektets genomförandeformer och organisation samt för de olika aktörerna i byggprocessen.&lt;/p&gt; &lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för projekt- och samordningsplanering i projekterings- och utförandeskedet.&lt;/p&gt; &lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; för tillämpliga regler som styr byggprocessen. Dessutom redogör eleven utifrån enkla fallbeskrivningar, &lt;strong&gt;utförligt &lt;/strong&gt;för avtals- och kontraktsskrivningar.&lt;/p&gt; &lt;p&gt;Eleven upprättar &lt;strong&gt;efter samråd&lt;/strong&gt; med handledare, utifrån förfrågningsunderlag, plan för utförandeskedet.&lt;/p&gt; &lt;p&gt;Eleven redogör &lt;strong&gt;utförligt &lt;/strong&gt;för kontrollansvaret enligt PBL och byggarbetsmiljösamordning enligt Bas P och Bas U. Dessutom redogör eleven, utifrån fallbeskrivningar, &lt;strong&gt;utförligt&lt;/strong&gt; för kvalitets-, miljö- och arbetsmiljöledningssystem.&lt;/p&gt; &lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med viss säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
       <gradeStep>C</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; &lt;strong&gt;och nyanserat&lt;/strong&gt; för byggprocessens olika skeden. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; &lt;strong&gt;och nyanserat&lt;/strong&gt; för byggprojektets genomförandeformer och organisation samt för de olika aktörerna i byggprocessen.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för projekt- och samordningsplanering i projekterings- och utförandeskedet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; &lt;strong&gt;och nyanserat&lt;/strong&gt; för tillämpliga regler som styr byggprocessen. Dessutom redogör eleven utifrån enkla fallbeskrivningar, &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för avtals- och kontraktskrivningar.&lt;/p&gt;&lt;p&gt;Eleven upprättar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare, utifrån förfrågningsunderlag, plan för utförandeskedet.&lt;/p&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för kontrollansvaret enligt PBL och byggarbetsmiljösamordning enligt Bas P och Bas U. Dessutom redogör eleven, utifrån &lt;strong&gt;komplexa&lt;/strong&gt; fallbeskrivningar, &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för kvalitets-, miljö- och arbetsmiljöledningssystem.&lt;/p&gt;&lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget A&lt;/h4&gt;&lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; &lt;strong&gt;och nyanserat&lt;/strong&gt; för byggprocessens olika skeden. Dessutom redogör eleven &lt;strong&gt;utförligt&lt;/strong&gt; &lt;strong&gt;och nyanserat&lt;/strong&gt; för byggprojektets genomförandeformer och organisation samt för de olika aktörerna i byggprocessen.&lt;/p&gt; &lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för projekt- och samordningsplanering i projekterings- och utförandeskedet.&lt;/p&gt; &lt;p&gt;Eleven redogör &lt;strong&gt;utförligt&lt;/strong&gt; &lt;strong&gt;och nyanserat&lt;/strong&gt; för tillämpliga regler som styr byggprocessen. Dessutom redogör eleven utifrån enkla fallbeskrivningar, &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för avtals- och kontraktsskrivningar.&lt;/p&gt; &lt;p&gt;Eleven upprättar &lt;strong&gt;efter samråd &lt;/strong&gt;med handledare, utifrån förfrågningsunderlag, plan för utförandeskedet.&lt;/p&gt; &lt;p&gt;Eleven redogör &lt;strong&gt;utförligt och nyanserat &lt;/strong&gt;för kontrollansvaret enligt PBL och byggarbetsmiljösamordning enligt Bas P och Bas U. Dessutom redogör eleven, utifrån &lt;strong&gt;komplexa&lt;/strong&gt; fallbeskrivningar, &lt;strong&gt;utförligt och nyanserat&lt;/strong&gt; för kvalitets-, miljö- och arbetsmiljöledningssystem.&lt;/p&gt; &lt;p&gt;När eleven samråder med handledare bedömer hon eller han &lt;strong&gt;med säkerhet&lt;/strong&gt; den egna förmågan och situationens krav.&lt;/p&gt;</text>
       <gradeStep>A</gradeStep>
     </knowledgeRequirement>
     <alternativeCourseCode
@@ -153,7 +153,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Miljöcertifierade hus, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: SAHMIL3&lt;/h3&gt;</codeHeading>
@@ -182,7 +182,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -192,7 +192,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -215,7 +215,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading>&lt;h2&gt;BIM-samordning, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: SAHBIM3&lt;/h3&gt;</codeHeading>
     <typeOfSyllabus>COURSE_IN_SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -243,7 +243,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -253,7 +253,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>

@@ -9,9 +9,9 @@
   >&lt;p&gt;Ämnet industriella produktionsmetoder behandlar olika metoder och teknikområden för industriell produktion, från hantverksmässigt industriellt arbete avsett för prototyp- och enstyckstillverkning till serieproduktion med grupper av sammankopplade datorstyrda maskiner. Ämnet får bara anordnas i vidareutbildning i form av ett fjärde tekniskt år i gymnasieskolan.&lt;/p&gt;</description>
   <code>INN</code>
   <status>PUBLISHED</status>
-  <version>1</version>
-  <createdDate>2018-02-12T08:21:32+01:00</createdDate>
-  <modifiedDate>2020-02-19T15:57:09+01:00</modifiedDate>
+  <version>2</version>
+  <createdDate>2022-02-23T10:17:25+01:00</createdDate>
+  <modifiedDate>2022-06-09T10:46:59+02:00</modifiedDate>
   <nameHeading
   >&lt;h2&gt;Industriella produktionsmetoder&lt;/h2&gt;</nameHeading>
   <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
@@ -21,8 +21,8 @@
   />
   <purpose
   >&lt;p&gt;Undervisningen i ämnet industriella produktionsmetoder ska syfta till att eleverna utvecklar kunskaper om metoder, teknik, material och utrustning som används inom industriell produktion. Undervisningen ska också ge eleverna möjligheter att utveckla kunskaper om strukturerad produktion samt förmåga att välja rätt produktionsmetod i förhållande till produkt, material och produktionsutrustning. Dessutom ska undervisningen bidra till att eleverna får en helhetsbild av industriella produktionsmetoder och möjlighet till fördjupning inom valt område för att därigenom utveckla ingenjörsmässiga förmågor.&lt;/p&gt; &lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla förmåga att diskutera, analysera och reflektera över teknikens möjligheter och därigenom kunna lösa produktionstekniska problem och föreslå förbättringar av produktion. Dessutom ska undervisningen ge eleverna möjlighet att utveckla förmåga att använda olika digitala verktyg och visualiseringstekniker i sitt arbete.&lt;/p&gt; &lt;p&gt;Undervisningen ska ge eleverna möjlighet att utveckla kunskaper om produktionsstyrning med till exempel programmering inom den metod som eleven fördjupar sig inom. Undervisningen ska även bidra till att eleverna ges möjlighet att utveckla en översiktlig förståelse av verktyg och system för processövervakning samt hur kommunikation mellan utrustningar styrs och övervakas inom och mellan olika industriella produktionsenheter.&lt;/p&gt; &lt;h4&gt;Undervisningen i ämnet industriella produktionsmetoder ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt; &lt;p&gt;1. Kunskaper om begrepp, metoder, teknik och utrustning inom industriella produktionsmetoder samt förmåga att kommunicera med olika målgrupper inom området.&lt;/p&gt; &lt;p&gt;2. Kunskaper om hur material genom olika produktionsmetoder förädlas till en färdig produkt.&lt;/p&gt; &lt;p&gt;3. Förmåga att läsa och tolka produktionsunderlag, planera, bereda och organisera en industriprodukts produktionsmetod och produktionsprocess samt att programmera för datorstyrd produktion.&lt;/p&gt; &lt;p&gt;4. Kunskaper om olika moderna industriella produktionsmetoder samt förmåga att välja rätt metod i förhållande till den produkt som ska tillverkas och den produktionsutrustning som står till förfogande.&lt;/p&gt; &lt;p&gt;5. Kunskaper om hur och varför produktionsutrustning kopplas samman till produktionslinjer.&lt;/p&gt; &lt;p&gt;6. Kunskaper om säkerhetsrisker i vald produktionsmetod och om hur risker minimeras.&lt;/p&gt; &lt;p&gt;7. Förmåga att mäta, bedöma, dokumentera, värdera och analysera kvaliteten av vald produktionsmetod.&lt;/p&gt; &lt;p&gt;8. Förmåga att på ett strukturerat sätt lösa produktionstekniska problem samt att kunna utföra relevanta kalkyler och beräkningar i samband med förbättringsförslag.&lt;/p&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Industriella produktionsmetoder 1, 100 poäng. &lt;/li&gt; &lt;li&gt;Industriella produktionsmetoder 2, 100 poäng. Kursen bygger på industriella produktionsmetoder 1.&lt;/li&gt; &lt;li&gt;Industriella produktionsmetoder 3, 100 poäng. Kursen bygger på industriella produktionsmetoder 2.&lt;/li&gt;&lt;/ul&gt;</purpose>
-  <skolfsId>2018:14</skolfsId>
-  <applianceDate>2018-08-01T00:00:00+02:00</applianceDate>
+  <skolfsId>2022:160</skolfsId>
+  <applianceDate>2022-07-01T00:00:00+02:00</applianceDate>
   <courses>
     <name>Industriella produktionsmetoder 1</name>
     <englishName>Industrial production methods 1</englishName>
@@ -32,7 +32,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Industriella produktionsmetoder 1, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: INNIND31&lt;/h3&gt;</codeHeading>
@@ -61,7 +61,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -71,7 +71,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -94,7 +94,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Industriella produktionsmetoder 2, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: INNIND32&lt;/h3&gt;</codeHeading>
@@ -123,7 +123,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -133,7 +133,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -156,7 +156,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Industriella produktionsmetoder 3, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: INNIND33&lt;/h3&gt;</codeHeading>
@@ -185,7 +185,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -195,7 +195,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>

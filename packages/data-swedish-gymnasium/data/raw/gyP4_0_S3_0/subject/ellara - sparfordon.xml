@@ -9,9 +9,9 @@
   >&lt;p&gt;Ämnet ellära – spårfordon behandlar lik- och enfasväxelströmskretsar samt trefassystem och belastningar som förekommer i spårbundna fordon. Det behandlar också ledningsburna störningar och säkerhetsfrågor.&lt;/p&gt;</description>
   <code>LLA</code>
   <status>PUBLISHED</status>
-  <version>2</version>
-  <createdDate>2021-06-16T13:21:38+02:00</createdDate>
-  <modifiedDate>2021-06-16T13:21:55+02:00</modifiedDate>
+  <version>3</version>
+  <createdDate>2022-02-23T13:33:56+01:00</createdDate>
+  <modifiedDate>2022-05-27T15:25:18+02:00</modifiedDate>
   <nameHeading>&lt;h2&gt;Ellära – spårfordon&lt;/h2&gt;</nameHeading>
   <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
   <gradeScale
@@ -20,8 +20,8 @@
   />
   <purpose
   >&lt;p&gt;Undervisningen i ämnet ellära – spårfordon ska syfta till att eleverna utvecklar färdigheter i att mäta och beräkna elektriska storheter i lik- och enfasväxelströmskretsar samt i trefassystem med belastningar av olika slag inom spårfordon. Den ska också bidra till att eleverna utvecklar förmåga att felsöka för att avhjälpa fel i fordonets elsystem. Dessutom ska undervisningen leda till att eleverna utvecklar förståelse av hur och var ledningsbundna störningar uppkommer samt deras verkan på elektriska system för drift och fordonsfunktioner.&lt;/p&gt;&lt;p&gt;Genom undervisningen ska eleverna ges möjlighet att utveckla kunskaper om bestämmelser och standarder för elektricitet inom spårfordon samt om vilka elektriska spänningar och frekvenser som förekommer i spårbundna fordon.&lt;/p&gt;&lt;p&gt;Undervisningen ska leda till att eleverna utvecklar kunskap om och förståelse för säkerhetsfaktorer, säkerhetsbestämmelser och skyddsanordningar gällande låg- och högspänningsanläggningar inom spårfordon och spårområden samt förmåga att arbeta i enlighet med dessa. Den ska även ge eleverna möjlighet att utveckla färdigheter i att arbeta ergonomiskt med hänsyn till hälsa och miljö.&lt;/p&gt;&lt;p&gt;Undervisningen ska leda till att eleverna utvecklar förmåga att använda relevanta elektriska mätinstrument. Den ska också leda till att eleverna utvecklar förmåga att praktiskt söka och avhjälpa fel med hjälp av scheman, ritningar, mätinstrument och relevanta verktyg.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet ellära – spårfordon ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om elsystems och spänningskällors ingående komponenter, uppbyggnad och funktion i spårfordon och spårområden.&lt;/li&gt; &lt;li&gt;Kunskaper om uppbyggnad av och funktion hos lik- och enfasväxelströmskretsar i spårfordon samt färdigheter i att mäta och beräkna elektriska storheter i dessa med belastningar av olika slag.&lt;/li&gt; &lt;li&gt;Kunskaper om uppkomsten av störningar inom och mellan olika elssystem i spårfordon och spårområden.&lt;/li&gt; &lt;li&gt;Färdighet i att felsöka och avhjälpa fel i lik- och enfasväxelströmskretsar i spårfordon.&lt;/li&gt; &lt;li&gt;Kunskaper om uppbyggnad av och funktion hos trefassystem i spårfordon samt färdigheter i att mäta och beräkna elektriska storheter i dessa med belastningar av olika slag.&lt;/li&gt; &lt;li&gt;Färdighet i att felsöka och avhjälpa fel i trefassystem i spårfordon.&lt;/li&gt; &lt;li&gt;Kunskaper om bestämmelser och standarder för elektricitet.&lt;/li&gt; &lt;li&gt;Färdighet i att arbeta säkert med underhåll på låg- och högspänningsanläggningar.&lt;/li&gt; &lt;li&gt;Förmåga att arbeta ergonomiskt på ett sätt som förebygger ohälsa och personskador.&lt;/li&gt; &lt;li&gt;Förmåga att arbeta på ett säkert, miljömässigt och kvalitetsmässigt sätt utifrån lagar och andra bestämmelser som reglerar verksamheten.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Ellära – spårfordon 1, 100 poäng. &lt;/li&gt; &lt;li&gt;Ellära – spårfordon 2, 100 poäng, som bygger på kursen ellära – spårfordon 1.&lt;/li&gt;&lt;/ul&gt;</purpose>
-  <skolfsId>2016:23</skolfsId>
-  <applianceDate>2021-06-16T00:00:00+02:00</applianceDate>
+  <skolfsId>2022:92</skolfsId>
+  <applianceDate>2022-07-01T00:00:00+02:00</applianceDate>
   <courses>
     <name>Ellära – spårfordon 1</name>
     <englishName>Electricity theory – rail vehicles 1</englishName>
@@ -31,7 +31,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Ellära – spårfordon 1, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: LLAELL01&lt;/h3&gt;</codeHeading>
@@ -60,7 +60,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -70,7 +70,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -93,7 +93,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Ellära – spårfordon 2, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: LLAELL02&lt;/h3&gt;</codeHeading>
@@ -122,7 +122,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -132,7 +132,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>

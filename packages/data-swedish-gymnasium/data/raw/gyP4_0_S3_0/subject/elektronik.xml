@@ -9,9 +9,9 @@
   >&lt;p&gt;Ämnet elektronik behandlar flera teknikområden där elektronik och elektroniska system byggs in för att styra eller ersätta mekaniska system, till exempel i bilar och hushållsmaskiner.&lt;/p&gt;</description>
   <code>ELE</code>
   <status>PUBLISHED</status>
-  <version>2</version>
-  <createdDate>2013-06-20T10:27:25+02:00</createdDate>
-  <modifiedDate>2020-02-19T15:50:58+01:00</modifiedDate>
+  <version>3</version>
+  <createdDate>2022-02-23T13:29:12+01:00</createdDate>
+  <modifiedDate>2022-05-27T15:16:49+02:00</modifiedDate>
   <nameHeading>&lt;h2&gt;Elektronik&lt;/h2&gt;</nameHeading>
   <typeOfSyllabus>SUBJECT_SYLLABUS</typeOfSyllabus>
   <gradeScale
@@ -19,9 +19,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   />
   <purpose
-  >&lt;p&gt;Undervisningen i ämnet elektronik ska syfta till att eleverna utvecklar kunskaper om funktion och egenskaper hos de vanligaste analoga och digitala elektronikkomponenterna. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att tolka symboler, elektronikscheman, datablad och annan teknisk dokumentation.&lt;/p&gt;&lt;p&gt;Undervisningen ska leda till att eleverna utvecklar förmåga att utföra praktiska moment, till exempel elektronikmontering, komponentmätningar, programmering samt datorsimulering av elektronikuppkopplingar. Dessutom ska undervisningen leda till att eleverna utvecklar färdigheter i att sköta och använda verktyg och mätinstrument. I undervisningen ska ett undersökande arbetssätt och experiment, laborationer och datorsimuleringar ingå.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet elektronik ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om funktion och egenskaper hos vanliga analoga och digitala elektronikkomponenter.&lt;/li&gt; &lt;li&gt;Kunskaper om funktion och arbetssätt hos mikrodatorer och mikroprocessorer.&lt;/li&gt; &lt;li&gt;Förmåga att utföra elektronikmonteringsarbete på ett säkert och miljövänligt sätt.&lt;/li&gt; &lt;li&gt;Förmåga att programmera enklare elektroniksystem och mikrodatorsystem.&lt;/li&gt; &lt;li&gt;Förmåga att använda och tolka begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.&lt;/li&gt; &lt;li&gt;Förmåga att utföra beräkningar av elektriska storheter.&lt;/li&gt; &lt;li&gt;Förmåga att utföra komponent- och kretsmätningar.&lt;/li&gt; &lt;li&gt;Förmåga att utföra datorsimulering av elektronikuppkopplingar.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ol&gt; &lt;li&gt;Elektronik och mikrodatorteknik, 100 poäng.&lt;/li&gt; &lt;li&gt;Låg- och högfrekvenskretsar, 100 poäng, som bygger på kursen elektronik och mikrodatorteknik.&lt;/li&gt; &lt;li&gt;Mikrodatortillämpningar, 100 poäng, som bygger på kursen elektronik och mikrodatorteknik.&lt;/li&gt; &lt;/ol&gt;</purpose>
-  <skolfsId>2010:150</skolfsId>
-  <applianceDate>2013-04-11T00:00:00+02:00</applianceDate>
+  >&lt;p&gt;Undervisningen i ämnet elektronik ska syfta till att eleverna utvecklar kunskaper om funktion och egenskaper hos de vanligaste analoga och digitala elektronikkomponenterna. I undervisningen ska eleverna ges möjlighet att utveckla förmåga att tolka symboler, elektronikscheman, datablad och annan teknisk dokumentation.&lt;/p&gt;&lt;p&gt;Undervisningen ska leda till att eleverna utvecklar förmåga att utföra praktiska moment, till exempel elektronikmontering, komponentmätningar, programmering samt datorsimulering av elektronikuppkopplingar. Dessutom ska undervisningen leda till att eleverna utvecklar färdigheter i att sköta och använda verktyg och mätinstrument. I undervisningen ska ett undersökande arbetssätt och experiment, laborationer och datorsimuleringar ingå.&lt;/p&gt;&lt;h4&gt;Undervisningen i ämnet elektronik ska ge eleverna förutsättningar att utveckla följande:&lt;/h4&gt;&lt;ol&gt; &lt;li&gt;Kunskaper om funktion och egenskaper hos vanliga analoga och digitala elektronikkomponenter.&lt;/li&gt; &lt;li&gt;Kunskaper om funktion och arbetssätt hos mikrodatorer och mikroprocessorer.&lt;/li&gt; &lt;li&gt;Förmåga att utföra elektronikmonteringsarbete på ett säkert och miljövänligt sätt.&lt;/li&gt; &lt;li&gt;Förmåga att programmera enklare elektroniksystem och mikrodatorsystem.&lt;/li&gt; &lt;li&gt;Förmåga att använda och tolka begrepp, symboler, elektronikscheman, instruktioner, manualer, datablad och andra dokument.&lt;/li&gt; &lt;li&gt;Förmåga att utföra beräkningar av elektriska storheter.&lt;/li&gt; &lt;li&gt;Förmåga att utföra komponent- och kretsmätningar.&lt;/li&gt; &lt;li&gt;Förmåga att utföra datorsimulering av elektronikuppkopplingar.&lt;/li&gt; &lt;/ol&gt;&lt;h3&gt;Kurser i ämnet&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Elektronik och mikrodatorteknik, 100 poäng. &lt;/li&gt; &lt;li&gt;Låg- och högfrekvenskretsar, 100 poäng, som bygger på kursen elektronik och mikrodatorteknik.&lt;/li&gt; &lt;li&gt;Mikrodatortillämpningar, 100 poäng, som bygger på kursen elektronik och mikrodatorteknik.&lt;/li&gt;&lt;/ul&gt;</purpose>
+  <skolfsId>2022:84</skolfsId>
+  <applianceDate>2022-07-01T00:00:00+02:00</applianceDate>
   <courses>
     <name>Elektronik och mikrodatorteknik</name>
     <englishName>Electronics and microcomputer technology</englishName>
@@ -31,7 +31,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Elektronik och mikrodatorteknik, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: ELEELR0&lt;/h3&gt;</codeHeading>
@@ -60,7 +60,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -70,7 +70,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -93,7 +93,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Låg- och högfrekvenskretsar, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: ELELÅG0&lt;/h3&gt;</codeHeading>
@@ -122,7 +122,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -132,7 +132,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -155,7 +155,7 @@
     <centralCntHeading
     >&lt;h3&gt;Centralt innehåll&lt;/h3&gt;</centralCntHeading>
     <knowledgeReqsHeading
-    >&lt;h3&gt;Kunskapskrav&lt;/h3&gt;</knowledgeReqsHeading>
+    >&lt;h3&gt;Betygskriterier&lt;/h3&gt;</knowledgeReqsHeading>
     <nameHeading
     >&lt;h2&gt;Mikrodatortillämpningar, 100 poäng&lt;/h2&gt;</nameHeading>
     <codeHeading>&lt;h3&gt;Kurskod: ELEMIK0&lt;/h3&gt;</codeHeading>
@@ -184,7 +184,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Betyget D innebär att kunskapskraven för E och till övervägande del för C är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget D&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan C och E.&lt;/p&gt;</text>
       <gradeStep>D</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
@@ -194,7 +194,7 @@
     </knowledgeRequirement>
     <knowledgeRequirement>
       <text
-      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Betyget B innebär att kunskapskraven för C och till övervägande del för A är uppfyllda.&lt;/p&gt;</text>
+      >&lt;h4&gt;Betyget B&lt;/h4&gt;&lt;p&gt;Elevens kunskaper bedöms sammantaget vara mellan A och C.&lt;/p&gt;</text>
       <gradeStep>B</gradeStep>
     </knowledgeRequirement>
     <knowledgeRequirement>
