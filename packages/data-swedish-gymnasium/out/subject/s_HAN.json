@@ -2,40 +2,39 @@
   "title": "Handel",
   "code": "HAN",
   "developmentPurposes": [
-    "Kunskaper om handels- och tjänstesektorn.",
+    "Kunskaper om handel, handelns utveckling historiskt och i nutid, yrkesroller, service, praktisk marknadsföring och varudistribution.",
+    "Kunskaper om miljömässig, social och ekonomisk hållbarhet samt hållbar utveckling inom handel.",
     "Kunskaper om affärsutveckling, organisation och ledarskap samt om entreprenörskap och eget företagande.",
-    "Förmåga att planera, organisera och utföra arbetsuppgifter inom handel med varor och tjänster.",
+    "Förmåga att planera, organisera och utföra arbetsuppgifter inom handel samt förmåga att granska olika affärsmöjligheter och produkter utifrån miljömässig, ekonomisk och social hållbarhet samt etiska aspekter.",
     "Färdigheter i att utforma säljstödsmaterial och säljande varuexponeringar.",
-    "Förmåga att använda utrustning, material, redskap, tekniker och arbetsmetoder inom området.",
     "Kunskaper om lagar och andra bestämmelser inom området.",
     "Förmåga att utföra ekonomiska beräkningar, göra riskbedömningar och lösa problem.",
-    "Förmåga att arbeta ergonomiskt, säkert och miljöanpassat.",
-    "Förmåga att utvärdera sitt arbete och resultat.",
-    "Förmåga att samverka med andra och kommunicera med kunder."
+    "Förmåga att arbeta ergonomiskt, säkert och miljöanpassat samt förmåga att utvärdera arbetet.",
+    "Förmåga att samverka och kommunicera med medarbetare och kunder internt och externt."
   ],
   "purposes": [
-    "Undervisningen i ämnet handel ska syfta till att eleverna utvecklar kunskaper om handels- och tjänstesektorn. Den ska också lägga en grund för elevernas förmåga att yrkesmässigt utföra arbetsuppgifter inom handel med varor och tjänster. I undervisningen ska eleverna ges möjlighet att utveckla kunskaper om och färdigheter i praktisk marknadsföring, butiksmatematik, affärsdrift och ledarskap. Vidare ska undervisningen leda till att eleverna förstår sambandet mellan utbud och efterfrågan.",
-    "I undervisningen ska eleverna ges möjlighet att utveckla förmåga att kommunicera och möta kunder på ett serviceinriktat och kvalitetsmedvetet sätt. Undervisningen ska också leda till att eleverna utvecklar kunskaper om säkerhetsfrågor, lagar och andra bestämmelser. Dessutom ska undervisningen bidra till att eleverna utvecklar kunskaper om handelns roll för hållbar utveckling.",
-    "Genom praktiska övningar och ett undersökande arbetssätt ska eleverna ges möjlighet att utföra arbetsuppgifter inom handel med varor och tjänster samt utveckla en yrkesmässig attityd i mötet med kunder. Via kontakter med företag och organisationer inom handels- och tjänstesektorn ska eleverna ges möjlighet att utveckla förståelse av företagandets villkor. Eleverna ska även ges möjlighet att använda informationsteknik för affärsmässig verksamhet."
+    "Undervisningen i ämnet handel ska syfta till att eleverna utvecklar kunskaper om handelssektorn samt om handelns funktion och nytta i samhälle och näringsliv. Undervisningen ska också lägga en grund för elevernas förmåga att yrkesmässigt utföra arbetsuppgifter inom handel. I undervisningen ska eleverna bland annat ges möjlighet att utveckla kunskaper om service, praktisk marknadsföring, butiksekonomi, kundrelationer, affärsutveckling och ledarskap. Vidare ska undervisningen leda till att eleverna förstår sambandet mellan utbud och efterfrågan och faktorer som påverkar affärsmöjligheter och lönsamhet.",
+    "I undervisningen ska eleverna ges möjlighet att utveckla förmåga att kommunicera och möta kunder på ett serviceinriktat och kvalitetsmedvetet sätt genom en ändamålsenlig och bransch- och målgruppsanpassad språkanvändning. Undervisningen ska också leda till att eleverna utvecklar kunskaper om säkerhetsfrågor, lagar och andra bestämmelser. Dessutom ska undervisningen bidra till att eleverna utvecklar kunskaper om handelns roll och ansvar för hållbar utveckling.",
+    "Genom praktiska övningar ska eleverna ges möjlighet att utföra arbetsuppgifter inom handel samt utveckla en yrkesmässig attityd i mötet med kunder. Via kontakter med företag och organisationer ska eleverna ges möjlighet att utveckla förståelse för företagandets villkor. Eleverna ska även ges möjlighet att använda informations- och kommunikationsteknik för affärsmässig verksamhet."
   ],
   "courseInfo": {
     "HANAFR0": "Affärsutveckling och ledarskap, 100 poäng.",
-    "HANBRS0": "Branschkunskap inom handel och administration, 100 poäng.",
+    "HANBRA0": "Branschkunskap inom handel, 100 poäng.",
+    "HANHAN0": "Handel och hållbar utveckling, 100 poäng.",
     "HANHAN00S": "Handel - specialisering, 100 poäng.",
     "HANPRA01": "Praktisk marknadsföring 1, 100 poäng.",
-    "HANPRA02": "Praktisk marknadsföring 2, 100 poäng.",
-    "HANPRA03": "Praktisk marknadsföring 3, 100 poäng."
+    "HANPRA02": "Praktisk marknadsföring 2, 100 poäng."
   },
-  "description": "Handel finns i många olika branscher och former och är en länk mellan tillverkare och konsument. Handel bedrivs med både varor och tjänster - lokalt och globalt, fysiskt och digitalt. Ämnet handel omfattar handels- och tjänstesektorns roll och funktioner samt affärsutveckling, ledarskap och marknadsföring.",
+  "description": "Handel finns i många olika branscher och former och är en länk mellan tillverkare och konsument. Handel bedrivs lokalt och globalt, fysiskt och digitalt. Ämnet handel omfattar handelssektorns roll och funktioner samt försäljning, varudistribution, affärsutveckling, ledarskap och marknadsföring.",
   "typeOfSchooling": "UPPER_SECONDARY_EDUCATION",
-  "applicableFrom": "2011-08-10T07:25:56.000Z",
-  "modifiedDate": "2020-02-19T14:56:04.000Z",
+  "applicableFrom": "2021-10-22T06:16:24.000Z",
+  "modifiedDate": "2022-06-29T10:08:33.000Z",
   "courses": [
     "HANAFR0",
-    "HANBRS0",
+    "HANBRA0",
+    "HANHAN0",
     "HANHAN00S",
     "HANPRA01",
-    "HANPRA02",
-    "HANPRA03"
+    "HANPRA02"
   ]
 }

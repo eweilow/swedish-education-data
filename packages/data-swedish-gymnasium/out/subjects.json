@@ -685,6 +685,11 @@
     "file": "./subject/s_INV.json"
   },
   {
+    "code": "ITI",
+    "title": "It i vård och omsorg",
+    "file": "./subject/s_ITI.json"
+  },
+  {
     "code": "JÄN",
     "title": "Järnvägsteknik",
     "file": "./subject/s_JÄN.json"
@@ -1393,6 +1398,11 @@
     "code": "TEK",
     "title": "Teknik",
     "file": "./subject/s_TEK.json"
+  },
+  {
+    "code": "TEN",
+    "title": "Teknik i vård och omsorg",
+    "file": "./subject/s_TEN.json"
   },
   {
     "code": "TES",

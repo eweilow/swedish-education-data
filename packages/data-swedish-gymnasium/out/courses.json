@@ -1420,29 +1420,14 @@
     "file": "./course/c_FÖSPER02.json"
   },
   {
-    "code": "FÖSPER03",
-    "title": "Personlig försäljning 3",
-    "file": "./course/c_FÖSPER03.json"
-  },
-  {
     "code": "FÖSSER02",
     "title": "Servicekunskap 2",
     "file": "./course/c_FÖSSER02.json"
   },
   {
-    "code": "FÖSSEV0",
-    "title": "Servicekunskap",
-    "file": "./course/c_FÖSSEV0.json"
-  },
-  {
     "code": "FÖSSEV01",
     "title": "Servicekunskap 1",
     "file": "./course/c_FÖSSEV01.json"
-  },
-  {
-    "code": "FÖSTEL0",
-    "title": "Telefon- och internetservice",
-    "file": "./course/c_FÖSTEL0.json"
   },
   {
     "code": "FOTFOT01",
@@ -1770,11 +1755,6 @@
     "file": "./course/c_HANBRA0.json"
   },
   {
-    "code": "HANBRS0",
-    "title": "Branschkunskap inom handel och administration",
-    "file": "./course/c_HANBRS0.json"
-  },
-  {
     "code": "HANHAN0",
     "title": "Handel och hållbar utveckling",
     "file": "./course/c_HANHAN0.json"
@@ -1793,11 +1773,6 @@
     "code": "HANPRA02",
     "title": "Praktisk marknadsföring 2",
     "file": "./course/c_HANPRA02.json"
-  },
-  {
-    "code": "HANPRA03",
-    "title": "Praktisk marknadsföring 3",
-    "file": "./course/c_HANPRA03.json"
   },
   {
     "code": "HAOHAL01",
@@ -2023,6 +1998,11 @@
     "code": "HAVHAR04",
     "title": "Hår- och makeupstylist 4",
     "file": "./course/c_HAVHAR04.json"
+  },
+  {
+    "code": "HAVHAR05",
+    "title": "Hår- och makeupstylist 5",
+    "file": "./course/c_HAVHAR05.json"
   },
   {
     "code": "HAVHAV0",
@@ -2350,11 +2330,6 @@
     "file": "./course/c_INDIND03.json"
   },
   {
-    "code": "INFINE0",
-    "title": "Intern och extern kommunikation",
-    "file": "./course/c_INFINE0.json"
-  },
-  {
     "code": "INFINF01",
     "title": "Information och kommunikation 1",
     "file": "./course/c_INFINF01.json"
@@ -2363,11 +2338,6 @@
     "code": "INFINF02",
     "title": "Information och kommunikation 2",
     "file": "./course/c_INFINF02.json"
-  },
-  {
-    "code": "INFPRG0",
-    "title": "Programhantering",
-    "file": "./course/c_INFPRG0.json"
   },
   {
     "code": "INKINK01",
@@ -2493,6 +2463,11 @@
     "code": "INVVVS0",
     "title": "VVS MMA-svetsning rör",
     "file": "./course/c_INVVVS0.json"
+  },
+  {
+    "code": "ITIITI0",
+    "title": "It i vård och omsorg",
+    "file": "./course/c_ITIITI0.json"
   },
   {
     "code": "JÄNALM0",
@@ -4980,6 +4955,11 @@
     "file": "./course/c_TEKTEK00S.json"
   },
   {
+    "code": "TENTEK0",
+    "title": "Teknik i vård och omsorg",
+    "file": "./course/c_TENTEK0.json"
+  },
+  {
     "code": "TESKOP3",
     "title": "Komponenter och system VVS",
     "file": "./course/c_TESKOP3.json"
@@ -5171,7 +5151,7 @@
   },
   {
     "code": "VADVAD00S",
-    "title": "Vård och omsorg specialisering",
+    "title": "Vård och omsorg - specialisering",
     "file": "./course/c_VADVAD00S.json"
   },
   {
