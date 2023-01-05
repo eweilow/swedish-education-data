@@ -51,7 +51,9 @@ function parsePurpose(purpose?: string) {
 function parseDescription(description: string | null) {
   return getMarkdownFromHtml(pickOnlyIf.string(description) ?? "")
     ?.split("\n")
-    ?.map((el) => el.trim());
+    ?.map((el) => el.trim())
+    ?.filter((el) => !!el)
+    ?.filter((el) => !el.includes("Ämnet har upphört men kan tillämpas"));
 }
 
 export async function normalizeSubjects(
@@ -65,6 +67,11 @@ export async function normalizeSubjects(
     cwd: inputDirectory,
     absolute: true,
   })) {
+    if (file.includes("parallell version")) {
+      console.info(`Ignoring '${file}' due to parallell version`);
+      continue;
+    }
+
     const contents = readFileSync(file, "utf-8")
       .replaceAll("–", "-")
       .replaceAll("—", "-")
@@ -76,6 +83,7 @@ export async function normalizeSubjects(
     const appliesFrom = new Date(subject.appliancedate[0]);
 
     if (Date.now() < +appliesFrom) {
+      console.info(`Ignoring '${file}' due to not yet applicable`);
       continue; // Ignore if not yet applicable
     }
 
@@ -97,72 +105,85 @@ export async function normalizeSubjects(
       ).filter((el: string | null) => el != null) as string[],
     };
 
-    assert.isNotNull(result.name);
-    assert.isNotNull(result.code);
-    assert.lengthOf(result.description ?? [], 1, `${result.code}: description`);
-    assert.lengthOf(
-      result.purpose?.sections ?? [],
-      3,
-      `${result.code}: purpose`
-    );
-    assert.equal(result.purpose?.sections?.[0]?.title, null);
-    assert.match(
-      result.purpose?.sections?.[1]?.title ?? "-",
-      /^Undervisningen i .+? ska ge eleverna.+?:$/
-    );
-    assert.match(result.purpose?.sections?.[2]?.title ?? "-", /Kurser i ämnet/);
-
-    for (const section of result.purpose?.sections ?? []) {
-      for (const row of section.rows) {
-        assert.match(
-          row,
-          /^[:/()\wåäöáé\d.,-\s]+$/i,
-          `in ${result.name} (${result.code})`
-        );
-      }
-    }
-
-    for (const section of result.purpose?.sections?.slice?.(0, 1) ?? []) {
-      for (const row of section.rows) {
-        assert.match(
-          row,
-          /^[A-zÅÄÖ].+\.$/i,
-          `in ${result.name} (${result.code})`
-        );
-      }
-    }
-    for (const section of result.purpose?.sections?.slice?.(1) ?? []) {
-      for (const row of section.rows) {
-        assert.match(
-          row,
-          /^[0-9]+\. .+\.$/i,
-          `in ${result.name} (${result.code})`
-        );
-      }
-    }
-
-    const rows = result.purpose?.sections?.[2]?.rows;
-    if (rows != null) {
-      for (let i = 0; i < rows.length; i++) {
-        rows[i] = rows[i]
-          .replace(/(\w) (\d+ poäng)/, (_, a, b) => a + ", " + b)
-          .replace(/(\d+ poäng), .+$/, (_, a, b) => a + ".")
-          .replace(/(\d+ poäng). .+$/, (_, a, b) => a + ".")
-          .replace(/(\d+ poäng) .+$/, (_, a, b) => a + ".");
-      }
-    }
-
-    for (const row of result.purpose?.sections?.[2]?.rows ?? []) {
-      assert.match(
-        row,
-        /^\d+\. .+?, \d+ poäng\.$/i,
-        `in ${result.name} (${result.code})`
+    try {
+      assert.isNotNull(result.name);
+      assert.isNotNull(result.code);
+      assert.lengthOf(
+        result.description ?? [],
+        1,
+        `${result.code}: description`
       );
-    }
+      assert.lengthOf(
+        result.purpose?.sections ?? [],
+        3,
+        `${result.code}: purpose`
+      );
+      assert.equal(result.purpose?.sections?.[0]?.title, null);
+      assert.match(
+        result.purpose?.sections?.[1]?.title ?? "-",
+        /^Undervisningen i .+? ska ge eleverna.+?:$/
+      );
+      assert.match(
+        result.purpose?.sections?.[2]?.title ?? "-",
+        /Kurser i ämnet/
+      );
 
-    writeFileSync(
-      join(subjectsDir, `s_${normalizeCode(result.code)}.json`),
-      JSON.stringify(result, null, "  ")
-    );
+      for (const section of result.purpose?.sections ?? []) {
+        for (const row of section.rows) {
+          assert.match(
+            row,
+            /^[:/()\wåäöáé\d.,-\s]+$/i,
+            `in ${result.name} (${result.code})`
+          );
+        }
+      }
+
+      for (const section of result.purpose?.sections?.slice?.(0, 1) ?? []) {
+        for (const row of section.rows) {
+          assert.match(
+            row,
+            /^[A-zÅÄÖ].+\.$/i,
+            `in ${result.name} (${result.code})`
+          );
+        }
+      }
+      for (const section of result.purpose?.sections?.slice?.(1) ?? []) {
+        for (const row of section.rows) {
+          assert.match(
+            row,
+            /^[0-9]+\. .+\.$/i,
+            `in ${result.name} (${result.code})`
+          );
+        }
+      }
+
+      const rows = result.purpose?.sections?.[2]?.rows;
+      if (rows != null) {
+        for (let i = 0; i < rows.length; i++) {
+          rows[i] = rows[i]
+            .replace(/(\w) (\d+ poäng)/, (_, a, b) => a + ", " + b)
+            .replace(/(\d+ poäng), .+$/, (_, a, b) => a + ".")
+            .replace(/(\d+ poäng). .+$/, (_, a, b) => a + ".")
+            .replace(/(\d+ poäng) .+$/, (_, a, b) => a + ".");
+        }
+      }
+
+      for (const row of result.purpose?.sections?.[2]?.rows ?? []) {
+        assert.match(
+          row,
+          /^\d+\. .+?, \d+ poäng\.$/i,
+          `in ${result.name} (${result.code})`
+        );
+      }
+
+      writeFileSync(
+        join(subjectsDir, `s_${normalizeCode(result.code)}.json`),
+        JSON.stringify(result, null, "  ")
+      );
+    } catch (err) {
+      console.error(`Error in '${file}'`);
+      console.info(result);
+      throw err;
+    }
   }
 }
